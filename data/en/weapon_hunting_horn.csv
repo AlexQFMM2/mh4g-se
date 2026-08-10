@@ -77,8 +77,8 @@ id,name,english,source,rarity,is_relic
 75,Veilglare Hymn,Veilglare Hymn,mh4g-dex-build7+mh4edit-mit-save-id,6,0
 76,The Ascending Strain,The Ascending Strain,mh4g-dex-build7+mh4edit-mit-save-id,7,0
 77,Fatalis Menace,Fatalis Menace,mh4g-dex-build7+mh4edit-mit-save-id,7,0
-78,dummy78,dummy78,mh4edit-mit-save-id,0,0
-79,dummy79,dummy79,mh4edit-mit-save-id,0,0
+78,[JP] 銀の匙,[JP] 銀の匙,mh4g-dex-build7+mh4edit-mit-save-id+mh4g-save-id-dex-crosswalk,4,0
+79,[JP] Blitz Works,[JP] Blitz Works,mh4g-dex-build7+mh4edit-mit-save-id+mh4g-save-id-dex-crosswalk,6,0
 80,Megaphone,Megaphone,mh4g-dex-build7+mh4edit-mit-save-id,6,0
 81,Basarios Rock (red),Basarios Rock (red),mh4g-dex-build7+mh4edit-mit-save-id,0,1
 82,Basarios Rock (yellow),Basarios Rock (yellow),mh4g-dex-build7+mh4edit-mit-save-id,0,1

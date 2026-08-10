@@ -7,7 +7,7 @@ id,name,english,source,rarity,is_relic
 5,爆炎剑,Ravager Blade,mh4g-dex-build7+mh4edit-mit-save-id,2,0
 6,爆炎剑改,Ravager Blade+,mh4g-dex-build7+mh4edit-mit-save-id,3,0
 7,上级爆炎剑,Lacerator Blade,mh4g-dex-build7+mh4edit-mit-save-id,4,0
-8,Devistator Blade,Devistator Blade,mh4edit-mit-save-id-en-fallback,0,0
+8,大师爆炎剑,Devastator Blade,mh4g-dex-build7+mh4edit-mit-save-id+mh4g-save-id-dex-crosswalk,5,0
 9,铬合金之刃,Chrome Razor,mh4g-dex-build7+mh4edit-mit-save-id,4,0
 10,铬合金死亡之刃,Chrome Quietus,mh4g-dex-build7+mh4edit-mit-save-id,5,0
 11,电击之剑,Khezu Shock Sword,mh4g-dex-build7+mh4edit-mit-save-id,2,0
@@ -17,11 +17,11 @@ id,name,english,source,rarity,is_relic
 15,武骨包丁【舟行】,Funayuki Reaver,mh4g-dex-build7+mh4edit-mit-save-id,3,0
 16,蛤蟆大包丁,Toad Bereaver,mh4g-dex-build7+mh4edit-mit-save-id,4,0
 17,蛤蟆大包丁【荒砥】,Millstone Bereaver,mh4g-dex-build7+mh4edit-mit-save-id,5,0
-18,Blazenwall,Blazenwall,mh4edit-mit-save-id-en-fallback,0,0
+18,爆锤大剑,Brazenwall,mh4g-dex-build7+mh4edit-mit-save-id+mh4g-save-id-dex-crosswalk,3,0
 19,红莲爆锤大剑,Crimsonwall,mh4g-dex-build7+mh4edit-mit-save-id,5,0
 20,克拉格克里夫,Cragscliff,mh4g-dex-build7+mh4edit-mit-save-id,6,0
 21,狂暴大剑,Rugged Great Sword,mh4g-dex-build7+mh4edit-mit-save-id,1,0
-22,Chieftain's Great Sword,Chieftain's Great Sword,mh4edit-mit-save-id-en-fallback,0,0
+22,族长大剑,Chieftain's Grt Swd,mh4g-dex-build7+mh4edit-mit-save-id+mh4g-save-id-dex-crosswalk,2,0
 23,荣耀of阴影,Schattenstolz,mh4g-dex-build7+mh4edit-mit-save-id,3,0
 24,荣耀of黑暗,Düsterstolz,mh4g-dex-build7+mh4edit-mit-save-id,4,0
 25,荣耀of死灭,Verhängnisstolz,mh4g-dex-build7+mh4edit-mit-save-id,5,0
@@ -56,7 +56,7 @@ id,name,english,source,rarity,is_relic
 54,炎剑里奥雷乌斯,Rathalos Firesword,mh4g-dex-build7+mh4edit-mit-save-id,4,0
 55,焰剑里奥雷乌斯,Rathalos Flamesword,mh4g-dex-build7+mh4edit-mit-save-id,5,0
 56,辉剑里奥雷乌斯,Rathalos Gleamsword,mh4g-dex-build7+mh4edit-mit-save-id,7,0
-57,Rathalos Glintsword,Rathalos Glintsword,mh4edit-mit-save-id-en-fallback,0,0
+57,煌剑里奥雷乌斯,Rathalos Glinsword,mh4g-dex-build7+mh4edit-mit-save-id+mh4g-save-id-dex-crosswalk,6,0
 58,杂耍之剑,Thrash Sword,mh4g-dex-build7+mh4edit-mit-save-id,2,0
 59,杂耍之剑改,Thrash Sword+,mh4g-dex-build7+mh4edit-mit-save-id,3,0
 60,杂耍大剑,Thrash Blade,mh4g-dex-build7+mh4edit-mit-save-id,4,0
@@ -108,37 +108,37 @@ id,name,english,source,rarity,is_relic
 106,黑龙剑,Fatalis Blade,mh4g-dex-build7+mh4edit-mit-save-id,7,0
 107,dummy107,dummy107,mh4edit-mit-save-id-en-fallback,0,0
 108,dummy108,dummy108,mh4edit-mit-save-id-en-fallback,0,0
-109,dummy109,dummy109,mh4edit-mit-save-id-en-fallback,0,0
-110,dummy110,dummy110,mh4edit-mit-save-id-en-fallback,0,0
+109,【日】破魔剑,[JP] ホウマノツルギ,mh4g-dex-build7+mh4edit-mit-save-id+mh4g-save-id-dex-crosswalk,2,0
+110,【日】天魔剑,[JP] テンマノツルギ,mh4g-dex-build7+mh4edit-mit-save-id+mh4g-save-id-dex-crosswalk,5,0
 111,dummy111,dummy111,mh4edit-mit-save-id-en-fallback,0,0
 112,dummy112,dummy112,mh4edit-mit-save-id-en-fallback,0,0
-113,dummy113,dummy113,mh4edit-mit-save-id-en-fallback,0,0
+113,【日】仁剑【侠客行】,[JP] 仁剣【侠客立ち】,mh4g-dex-build7+mh4edit-mit-save-id+mh4g-save-id-dex-crosswalk,6,0
 114,优衣剑,Universal Chrome,mh4g-dex-build7+mh4edit-mit-save-id,6,0
-115,Siegmund (red),Siegmund (red),mh4edit-mit-save-id-en-fallback,0,1
-116,Siegmund (yellow),Siegmund (yellow),mh4edit-mit-save-id-en-fallback,0,1
-117,Siegmund (green),Siegmund (green),mh4edit-mit-save-id-en-fallback,0,1
-118,Siegmund (blue),Siegmund (blue),mh4edit-mit-save-id-en-fallback,0,1
-119,Siegmund (purple),Siegmund (purple),mh4edit-mit-save-id-en-fallback,0,1
-120,Bolt (red),Bolt (red),mh4edit-mit-save-id-en-fallback,0,1
-121,Bolt (yellow),Bolt (yellow),mh4edit-mit-save-id-en-fallback,0,1
-122,Bolt (green),Bolt (green),mh4edit-mit-save-id-en-fallback,0,1
-123,Bolt (blue),Bolt (blue),mh4edit-mit-save-id-en-fallback,0,1
-124,Bolt (purple),Bolt (purple),mh4edit-mit-save-id-en-fallback,0,1
-125,Type 41 Wyvernator (red),Type 41 Wyvernator (red),mh4edit-mit-save-id-en-fallback,0,1
-126,Type 41 Wyvernator (yellow),Type 41 Wyvernator (yellow),mh4edit-mit-save-id-en-fallback,0,1
-127,Type 41 Wyvernator (green),Type 41 Wyvernator (green),mh4edit-mit-save-id-en-fallback,0,1
-128,Type 41 Wyvernator (blue),Type 41 Wyvernator (blue),mh4edit-mit-save-id-en-fallback,0,1
-129,Type 41 Wyvernator (purple),Type 41 Wyvernator (purple),mh4edit-mit-save-id-en-fallback,0,1
-130,Flash (red),Flash (red),mh4edit-mit-save-id-en-fallback,0,1
-131,Flash (yellow),Flash (yellow),mh4edit-mit-save-id-en-fallback,0,1
-132,Flash (green),Flash (green),mh4edit-mit-save-id-en-fallback,0,1
-133,Flash (blue),Flash (blue),mh4edit-mit-save-id-en-fallback,0,1
-134,Flash (purple),Flash (purple),mh4edit-mit-save-id-en-fallback,0,1
-135,Dragonseal (red),Dragonseal (red),mh4edit-mit-save-id-en-fallback,0,1
-136,Dragonseal (yellow),Dragonseal (yellow),mh4edit-mit-save-id-en-fallback,0,1
-137,Dragonseal (green),Dragonseal (green),mh4edit-mit-save-id-en-fallback,0,1
-138,Dragonseal (blue),Dragonseal (blue),mh4edit-mit-save-id-en-fallback,0,1
-139,Dragonseal (purple),Dragonseal (purple),mh4edit-mit-save-id-en-fallback,0,1
+115,吉克姆特（发掘·红）,Siegmund (red),mh3u-se-cn-gpl-v3+mh4edit-mit-save-id,0,1
+116,吉克姆特（发掘·黄）,Siegmund (yellow),mh3u-se-cn-gpl-v3+mh4edit-mit-save-id,0,1
+117,吉克姆特（发掘·绿）,Siegmund (green),mh3u-se-cn-gpl-v3+mh4edit-mit-save-id,0,1
+118,吉克姆特（发掘·蓝）,Siegmund (blue),mh3u-se-cn-gpl-v3+mh4edit-mit-save-id,0,1
+119,吉克姆特（发掘·紫）,Siegmund (purple),mh3u-se-cn-gpl-v3+mh4edit-mit-save-id,0,1
+120,雷剑（发掘·红）,Bolt (red),mh4g-relic-jp-cn-crosswalk+mh4edit-mit-save-id,0,1
+121,雷剑（发掘·黄）,Bolt (yellow),mh4g-relic-jp-cn-crosswalk+mh4edit-mit-save-id,0,1
+122,雷剑（发掘·绿）,Bolt (green),mh4g-relic-jp-cn-crosswalk+mh4edit-mit-save-id,0,1
+123,雷剑（发掘·蓝）,Bolt (blue),mh4g-relic-jp-cn-crosswalk+mh4edit-mit-save-id,0,1
+124,雷剑（发掘·紫）,Bolt (purple),mh4g-relic-jp-cn-crosswalk+mh4edit-mit-save-id,0,1
+125,４１式对飞龙大剑（发掘·红）,Type 41 Wyvernator (red),mh3u-se-cn-gpl-v3+mh4edit-mit-save-id,0,1
+126,４１式对飞龙大剑（发掘·黄）,Type 41 Wyvernator (yellow),mh3u-se-cn-gpl-v3+mh4edit-mit-save-id,0,1
+127,４１式对飞龙大剑（发掘·绿）,Type 41 Wyvernator (green),mh3u-se-cn-gpl-v3+mh4edit-mit-save-id,0,1
+128,４１式对飞龙大剑（发掘·蓝）,Type 41 Wyvernator (blue),mh3u-se-cn-gpl-v3+mh4edit-mit-save-id,0,1
+129,４１式对飞龙大剑（发掘·紫）,Type 41 Wyvernator (purple),mh3u-se-cn-gpl-v3+mh4edit-mit-save-id,0,1
+130,辉剑（发掘·红）,Flash (red),mh4g-dex-build7-series-crosswalk+mh4edit-mit-save-id,0,1
+131,辉剑（发掘·黄）,Flash (yellow),mh4g-dex-build7-series-crosswalk+mh4edit-mit-save-id,0,1
+132,辉剑（发掘·绿）,Flash (green),mh4g-dex-build7-series-crosswalk+mh4edit-mit-save-id,0,1
+133,辉剑（发掘·蓝）,Flash (blue),mh4g-dex-build7-series-crosswalk+mh4edit-mit-save-id,0,1
+134,辉剑（发掘·紫）,Flash (purple),mh4g-dex-build7-series-crosswalk+mh4edit-mit-save-id,0,1
+135,封龙剑（发掘·红）,Dragonseal (red),mh4g-dex-build7-series-crosswalk+mh4edit-mit-save-id,0,1
+136,封龙剑（发掘·黄）,Dragonseal (yellow),mh4g-dex-build7-series-crosswalk+mh4edit-mit-save-id,0,1
+137,封龙剑（发掘·绿）,Dragonseal (green),mh4g-dex-build7-series-crosswalk+mh4edit-mit-save-id,0,1
+138,封龙剑（发掘·蓝）,Dragonseal (blue),mh4g-dex-build7-series-crosswalk+mh4edit-mit-save-id,0,1
+139,封龙剑（发掘·紫）,Dragonseal (purple),mh4g-dex-build7-series-crosswalk+mh4edit-mit-save-id,0,1
 140,卓越爆炎剑,Exemplar Blade,mh4g-dex-build7+mh4edit-mit-save-id,8,0
 141,伟大爆炎剑,Grandglory Blade,mh4g-dex-build7+mh4edit-mit-save-id,9,0
 142,铬合金地狱,Chrome Hell,mh4g-dex-build7+mh4edit-mit-save-id,8,0
@@ -226,7 +226,7 @@ id,name,english,source,rarity,is_relic
 224,Ｇ大剑,G Blade,mh4g-dex-build7+mh4edit-mit-save-id,9,0
 225,黑带大剑,Black Belt Blade,mh4g-dex-build7+mh4edit-mit-save-id,9,0
 226,纪念之剑,Commemoration Sword,mh4g-dex-build7+mh4edit-mit-save-id,10,0
-227,dummy227,dummy227,mh4edit-mit-save-id-en-fallback,0,0
+227,【日】恶魔之剑,[JP] アモンの剣,mh4g-dex-build7+mh4edit-mit-save-id+mh4g-save-id-dex-crosswalk,10,0
 228,DUMMY,DUMMY,mh4edit-mit-save-id-en-fallback,0,0
 229,DUMMY,DUMMY,mh4edit-mit-save-id-en-fallback,0,0
 230,DUMMY,DUMMY,mh4edit-mit-save-id-en-fallback,0,0
@@ -235,13 +235,13 @@ id,name,english,source,rarity,is_relic
 233,DUMMY,DUMMY,mh4edit-mit-save-id-en-fallback,0,0
 234,Dos Exile,Dos Exile,mh4edit-mit-save-id-en-fallback,0,0
 235,Rath of Stars,Rath of Stars,mh4edit-mit-save-id-en-fallback,0,0
-236,Sea-emperor's Sword (red),Sea-emperor's Sword (red),mh4edit-mit-save-id-en-fallback,0,1
-237,Sea-emperor's Sword (yellow),Sea-emperor's Sword (yellow),mh4edit-mit-save-id-en-fallback,0,1
-238,Sea-emperor's Sword (green),Sea-emperor's Sword (green),mh4edit-mit-save-id-en-fallback,0,1
-239,Sea-emperor's Sword (blue),Sea-emperor's Sword (blue),mh4edit-mit-save-id-en-fallback,0,1
-240,Sea-emperor's Sword (purple),Sea-emperor's Sword (purple),mh4edit-mit-save-id-en-fallback,0,1
-241,腭刀（红）,Jawblade (red),mh4g-dex-build7+mh4edit-mit-save-id,0,1
-242,腭刀（黄）,Jawblade (yellow),mh4g-dex-build7+mh4edit-mit-save-id,0,1
-243,腭刀（绿）,Jawblade (green),mh4g-dex-build7+mh4edit-mit-save-id,0,1
-244,腭刀（蓝）,Jawblade (blue),mh4g-dex-build7+mh4edit-mit-save-id,0,1
-245,腭刀（紫）,Jawblade (purple),mh4g-dex-build7+mh4edit-mit-save-id,0,1
+236,海帝剑（发掘·红）,Sea-emperor's Sword (red),mh4g-relic-jp-cn-crosswalk+mh4edit-mit-save-id,0,1
+237,海帝剑（发掘·黄）,Sea-emperor's Sword (yellow),mh4g-relic-jp-cn-crosswalk+mh4edit-mit-save-id,0,1
+238,海帝剑（发掘·绿）,Sea-emperor's Sword (green),mh4g-relic-jp-cn-crosswalk+mh4edit-mit-save-id,0,1
+239,海帝剑（发掘·蓝）,Sea-emperor's Sword (blue),mh4g-relic-jp-cn-crosswalk+mh4edit-mit-save-id,0,1
+240,海帝剑（发掘·紫）,Sea-emperor's Sword (purple),mh4g-relic-jp-cn-crosswalk+mh4edit-mit-save-id,0,1
+241,腭刀（发掘·红）,Jawblade (red),mh4g-dex-build7+mh4edit-mit-save-id,0,1
+242,腭刀（发掘·黄）,Jawblade (yellow),mh4g-dex-build7+mh4edit-mit-save-id,0,1
+243,腭刀（发掘·绿）,Jawblade (green),mh4g-dex-build7+mh4edit-mit-save-id,0,1
+244,腭刀（发掘·蓝）,Jawblade (blue),mh4g-dex-build7+mh4edit-mit-save-id,0,1
+245,腭刀（发掘·紫）,Jawblade (purple),mh4g-dex-build7+mh4edit-mit-save-id,0,1

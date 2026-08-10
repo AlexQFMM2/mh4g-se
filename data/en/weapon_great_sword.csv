@@ -7,7 +7,7 @@ id,name,english,source,rarity,is_relic
 5,Ravager Blade,Ravager Blade,mh4g-dex-build7+mh4edit-mit-save-id,2,0
 6,Ravager Blade+,Ravager Blade+,mh4g-dex-build7+mh4edit-mit-save-id,3,0
 7,Lacerator Blade,Lacerator Blade,mh4g-dex-build7+mh4edit-mit-save-id,4,0
-8,Devistator Blade,Devistator Blade,mh4edit-mit-save-id,0,0
+8,Devastator Blade,Devastator Blade,mh4g-dex-build7+mh4edit-mit-save-id+mh4g-save-id-dex-crosswalk,5,0
 9,Chrome Razor,Chrome Razor,mh4g-dex-build7+mh4edit-mit-save-id,4,0
 10,Chrome Quietus,Chrome Quietus,mh4g-dex-build7+mh4edit-mit-save-id,5,0
 11,Khezu Shock Sword,Khezu Shock Sword,mh4g-dex-build7+mh4edit-mit-save-id,2,0
@@ -17,11 +17,11 @@ id,name,english,source,rarity,is_relic
 15,Funayuki Reaver,Funayuki Reaver,mh4g-dex-build7+mh4edit-mit-save-id,3,0
 16,Toad Bereaver,Toad Bereaver,mh4g-dex-build7+mh4edit-mit-save-id,4,0
 17,Millstone Bereaver,Millstone Bereaver,mh4g-dex-build7+mh4edit-mit-save-id,5,0
-18,Blazenwall,Blazenwall,mh4edit-mit-save-id,0,0
+18,Brazenwall,Brazenwall,mh4g-dex-build7+mh4edit-mit-save-id+mh4g-save-id-dex-crosswalk,3,0
 19,Crimsonwall,Crimsonwall,mh4g-dex-build7+mh4edit-mit-save-id,5,0
 20,Cragscliff,Cragscliff,mh4g-dex-build7+mh4edit-mit-save-id,6,0
 21,Rugged Great Sword,Rugged Great Sword,mh4g-dex-build7+mh4edit-mit-save-id,1,0
-22,Chieftain's Great Sword,Chieftain's Great Sword,mh4edit-mit-save-id,0,0
+22,Chieftain's Grt Swd,Chieftain's Grt Swd,mh4g-dex-build7+mh4edit-mit-save-id+mh4g-save-id-dex-crosswalk,2,0
 23,Schattenstolz,Schattenstolz,mh4g-dex-build7+mh4edit-mit-save-id,3,0
 24,Düsterstolz,Düsterstolz,mh4g-dex-build7+mh4edit-mit-save-id,4,0
 25,Verhängnisstolz,Verhängnisstolz,mh4g-dex-build7+mh4edit-mit-save-id,5,0
@@ -56,7 +56,7 @@ id,name,english,source,rarity,is_relic
 54,Rathalos Firesword,Rathalos Firesword,mh4g-dex-build7+mh4edit-mit-save-id,4,0
 55,Rathalos Flamesword,Rathalos Flamesword,mh4g-dex-build7+mh4edit-mit-save-id,5,0
 56,Rathalos Gleamsword,Rathalos Gleamsword,mh4g-dex-build7+mh4edit-mit-save-id,7,0
-57,Rathalos Glintsword,Rathalos Glintsword,mh4edit-mit-save-id,0,0
+57,Rathalos Glinsword,Rathalos Glinsword,mh4g-dex-build7+mh4edit-mit-save-id+mh4g-save-id-dex-crosswalk,6,0
 58,Thrash Sword,Thrash Sword,mh4g-dex-build7+mh4edit-mit-save-id,2,0
 59,Thrash Sword+,Thrash Sword+,mh4g-dex-build7+mh4edit-mit-save-id,3,0
 60,Thrash Blade,Thrash Blade,mh4g-dex-build7+mh4edit-mit-save-id,4,0
@@ -108,11 +108,11 @@ id,name,english,source,rarity,is_relic
 106,Fatalis Blade,Fatalis Blade,mh4g-dex-build7+mh4edit-mit-save-id,7,0
 107,dummy107,dummy107,mh4edit-mit-save-id,0,0
 108,dummy108,dummy108,mh4edit-mit-save-id,0,0
-109,dummy109,dummy109,mh4edit-mit-save-id,0,0
-110,dummy110,dummy110,mh4edit-mit-save-id,0,0
+109,[JP] ホウマノツルギ,[JP] ホウマノツルギ,mh4g-dex-build7+mh4edit-mit-save-id+mh4g-save-id-dex-crosswalk,2,0
+110,[JP] テンマノツルギ,[JP] テンマノツルギ,mh4g-dex-build7+mh4edit-mit-save-id+mh4g-save-id-dex-crosswalk,5,0
 111,dummy111,dummy111,mh4edit-mit-save-id,0,0
 112,dummy112,dummy112,mh4edit-mit-save-id,0,0
-113,dummy113,dummy113,mh4edit-mit-save-id,0,0
+113,[JP] 仁剣【侠客立ち】,[JP] 仁剣【侠客立ち】,mh4g-dex-build7+mh4edit-mit-save-id+mh4g-save-id-dex-crosswalk,6,0
 114,Universal Chrome,Universal Chrome,mh4g-dex-build7+mh4edit-mit-save-id,6,0
 115,Siegmund (red),Siegmund (red),mh4edit-mit-save-id,0,1
 116,Siegmund (yellow),Siegmund (yellow),mh4edit-mit-save-id,0,1
@@ -226,7 +226,7 @@ id,name,english,source,rarity,is_relic
 224,G Blade,G Blade,mh4g-dex-build7+mh4edit-mit-save-id,9,0
 225,Black Belt Blade,Black Belt Blade,mh4g-dex-build7+mh4edit-mit-save-id,9,0
 226,Commemoration Sword,Commemoration Sword,mh4g-dex-build7+mh4edit-mit-save-id,10,0
-227,dummy227,dummy227,mh4edit-mit-save-id,0,0
+227,[JP] アモンの剣,[JP] アモンの剣,mh4g-dex-build7+mh4edit-mit-save-id+mh4g-save-id-dex-crosswalk,10,0
 228,DUMMY,DUMMY,mh4edit-mit-save-id,0,0
 229,DUMMY,DUMMY,mh4edit-mit-save-id,0,0
 230,DUMMY,DUMMY,mh4edit-mit-save-id,0,0

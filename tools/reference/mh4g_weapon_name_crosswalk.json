@@ -1,0 +1,280 @@
+{
+  "format": "mh4g-weapon-name-crosswalk-v1",
+  "ordinary_dex_ids": {
+    "10:91": 1303,
+    "10:92": 1304,
+    "13:86": 381,
+    "13:88": 377,
+    "13:89": 378,
+    "13:90": 385,
+    "14:82": 1636,
+    "14:83": 1637,
+    "14:84": 1638,
+    "15:96": 1478,
+    "15:97": 1479,
+    "15:98": 1480,
+    "15:99": 1484,
+    "16:83": 2326,
+    "16:84": 2327,
+    "17:108": 775,
+    "17:109": 774,
+    "17:213": 779,
+    "18:78": 1123,
+    "18:79": 1124,
+    "20:100": 1740,
+    "7:109": 191,
+    "7:110": 192,
+    "7:113": 197,
+    "7:18": 26,
+    "7:22": 32,
+    "7:227": 202,
+    "7:57": 91,
+    "7:8": 8,
+    "8:107": 583,
+    "8:16": 409,
+    "8:231": 591,
+    "8:233": 593,
+    "8:56": 472,
+    "8:70": 495,
+    "8:75": 506,
+    "8:87": 581,
+    "8:88": 582,
+    "8:93": 571,
+    "9:114": 972,
+    "9:115": 973
+  },
+  "relic_save_ids": {
+    "7": "115-139,236-245",
+    "8": "112-141,237-246",
+    "9": "116-145,237-246",
+    "10": "93-117,204-213",
+    "11": "84-93,173-182",
+    "12": "60-69,145-154",
+    "13": "93-117,217-226",
+    "14": "87-111,188-197",
+    "15": "100-124,209-218",
+    "16": "87-111,194-203",
+    "17": "110-134,217-226",
+    "18": "81-100,175-184",
+    "19": "138-157",
+    "20": "105-124"
+  },
+  "relic_base_names": {
+    "Blizzarioths": {
+      "cn": "涅槃暴风雪",
+      "source": "mh3u-se-cn-gpl-v3"
+    },
+    "Bolt": {
+      "cn": "雷剑",
+      "source": "mh4g-relic-jp-cn-crosswalk"
+    },
+    "Cahoe": {
+      "cn": "火炮",
+      "source": "mh4g-relic-jp-cn-crosswalk"
+    },
+    "Chak Chak": {
+      "cn": "狩猎族小刀",
+      "source": "mh3u-se-cn-gpl-v3"
+    },
+    "Crystal Nova": {
+      "cn": "水晶新星",
+      "source": "mh4g-relic-jp-cn-crosswalk"
+    },
+    "Deluge": {
+      "cn": "激流斧",
+      "source": "mh4g-relic-jp-cn-crosswalk"
+    },
+    "Devil Masher": {
+      "cn": "鬼铁丸",
+      "source": "mh4g-relic-jp-cn-crosswalk"
+    },
+    "Divine Slasher": {
+      "cn": "天上天下无双刀",
+      "source": "mh4g-relic-jp-cn-crosswalk"
+    },
+    "Dragon Bow": {
+      "cn": "龙弓",
+      "source": "mh4g-relic-jp-cn-crosswalk"
+    },
+    "Dragonbreaker": {
+      "cn": "碎龙者",
+      "source": "mh4g-relic-jp-cn-crosswalk"
+    },
+    "Dragonrider Lance": {
+      "cn": "龙骑枪",
+      "source": "mh4g-relic-jp-cn-crosswalk"
+    },
+    "Dragonseal": {
+      "cn": "封龙剑",
+      "source": "mh4g-dex-build7-series-crosswalk"
+    },
+    "Durambarrel": {
+      "cn": "贝尔克兹弩",
+      "source": "mh3u-se-cn-gpl-v3"
+    },
+    "Eclipse Bow": {
+      "cn": "月蚀弓",
+      "source": "mh3u-se-cn-gpl-v3"
+    },
+    "Estoc": {
+      "cn": "刺剑",
+      "source": "mh4g-relic-jp-cn-crosswalk"
+    },
+    "Fangbreaker": {
+      "cn": "碎牙炮",
+      "source": "mh3u-se-cn-gpl-v3"
+    },
+    "Flash": {
+      "cn": "辉剑",
+      "source": "mh4g-dex-build7-series-crosswalk"
+    },
+    "Frilly Parasol": {
+      "cn": "花边阳伞",
+      "source": "mh4g-dex-build7-series-crosswalk"
+    },
+    "Frontrider Lance": {
+      "cn": "合战枪",
+      "source": "mh4g-relic-jp-cn-crosswalk"
+    },
+    "Frost Edge": {
+      "cn": "冰霜之刃",
+      "source": "mh4g-relic-jp-cn-crosswalk"
+    },
+    "Gigant Launcher": {
+      "cn": "巨人射手",
+      "source": "mh3u-se-cn-gpl-v3"
+    },
+    "Giltanas Epee": {
+      "cn": "吉尔塔纳斯细剑",
+      "source": "mh4g-relic-jp-cn-crosswalk"
+    },
+    "Hellstrings": {
+      "cn": "狱琴",
+      "source": "mh4g-dex-build7-series-crosswalk"
+    },
+    "Hidden Axe": {
+      "cn": "迅斧",
+      "source": "mh3u-se-cn-gpl-v3"
+    },
+    "Hidden Breaker": {
+      "cn": "迅龙破坏者",
+      "source": "mh3u-se-cn-gpl-v3"
+    },
+    "Hidden Edge": {
+      "cn": "迅龙刃",
+      "source": "mh3u-se-cn-gpl-v3"
+    },
+    "Hidden Harmonic": {
+      "cn": "迅龙笛",
+      "source": "mh3u-se-cn-gpl-v3"
+    },
+    "Jhen Kodachi": {
+      "cn": "峯山小太刀",
+      "source": "mh3u-se-cn-gpl-v3"
+    },
+    "Kitty Hammer": {
+      "cn": "猫锤",
+      "source": "mh4g-dex-build7-series-crosswalk"
+    },
+    "Lunastra's Crown": {
+      "cn": "炎妃龙之冠",
+      "source": "mh4g-relic-jp-cn-crosswalk"
+    },
+    "Master Bang": {
+      "cn": "大师之击",
+      "source": "mh4g-relic-jp-cn-crosswalk"
+    },
+    "Mighty Switch Axe": {
+      "cn": "豪剑斧",
+      "source": "mh4g-dex-build7-series-crosswalk"
+    },
+    "Motor Burst": {
+      "cn": "爆锤爆斧",
+      "source": "mh3u-se-cn-gpl-v3"
+    },
+    "Netherblade": {
+      "cn": "冥刀",
+      "source": "mh4g-relic-jp-cn-crosswalk"
+    },
+    "Prominence Bow": {
+      "cn": "日珥弓",
+      "source": "mh4g-dex-build7-series-crosswalk"
+    },
+    "Queen Blaster": {
+      "cn": "女王光线炮",
+      "source": "mh4g-dex-build7-series-crosswalk"
+    },
+    "Rimeblade": {
+      "cn": "冻刃",
+      "source": "mh3u-se-cn-gpl-v3"
+    },
+    "Ritual Ephemera": {
+      "cn": "祭囃子・无形之调",
+      "source": "mh4g-dex-build7-series-crosswalk"
+    },
+    "Rusty Claymore": {
+      "cn": "锈蚀大剑",
+      "source": "mh4g-relic-jp-cn-crosswalk"
+    },
+    "Saber": {
+      "cn": "军刀",
+      "source": "mh4g-relic-jp-cn-crosswalk"
+    },
+    "Sea-emperor's Sword": {
+      "cn": "海帝剑",
+      "source": "mh4g-relic-jp-cn-crosswalk"
+    },
+    "Sea-king's Twins": {
+      "cn": "海王双刃",
+      "source": "mh4g-relic-jp-cn-crosswalk"
+    },
+    "Seven-star lance": {
+      "cn": "七星枪",
+      "source": "mh4g-relic-jp-cn-crosswalk"
+    },
+    "Shotgun": {
+      "cn": "射击弩",
+      "source": "mh4g-dex-build7-series-crosswalk"
+    },
+    "Siegmund": {
+      "cn": "吉克姆特",
+      "source": "mh3u-se-cn-gpl-v3"
+    },
+    "Sonic Glass": {
+      "cn": "音速玻璃笛",
+      "source": "mh4g-relic-jp-cn-crosswalk"
+    },
+    "Swell Shell": {
+      "cn": "卷贝壳笛",
+      "source": "mh3u-se-cn-gpl-v3"
+    },
+    "Switch Axe Regnant": {
+      "cn": "王剑斧",
+      "source": "mh4g-dex-build7-series-crosswalk"
+    },
+    "Tessen": {
+      "cn": "铁扇",
+      "source": "mh4g-dex-build7-series-crosswalk"
+    },
+    "Thundercrack": {
+      "cn": "雷炮",
+      "source": "mh4g-dex-build7-series-crosswalk"
+    },
+    "Twins Regnant": {
+      "cn": "王双刃",
+      "source": "mh4g-dex-build7-series-crosswalk"
+    },
+    "Type 41 Wyvernator": {
+      "cn": "４１式对飞龙大剑",
+      "source": "mh3u-se-cn-gpl-v3"
+    },
+    "War Basher": {
+      "cn": "战争重锤",
+      "source": "mh4g-relic-jp-cn-crosswalk"
+    },
+    "Wyvern Blade": {
+      "cn": "飞龙刀",
+      "source": "mh4g-dex-build7-series-crosswalk"
+    }
+  }
+}

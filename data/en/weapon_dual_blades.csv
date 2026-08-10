@@ -107,8 +107,8 @@ id,name,english,source,rarity,is_relic
 105,dummy105,dummy105,mh4edit-mit-save-id,0,0
 106,dummy106,dummy106,mh4edit-mit-save-id,0,0
 107,Dual Kut-Ku,Dual Kut-Ku,mh4g-dex-build7+mh4edit-mit-save-id,4,0
-108,dummy108,dummy108,mh4edit-mit-save-id,0,0
-109,dummy109,dummy109,mh4edit-mit-save-id,0,0
+108,[JP] ギガントピストル,[JP] ギガントピストル,mh4g-dex-build7+mh4edit-mit-save-id+mh4g-save-id-dex-crosswalk,7,0
+109,[JP] Exploding Blades,[JP] Exploding Blades,mh4g-dex-build7+mh4edit-mit-save-id+mh4g-save-id-dex-crosswalk,7,0
 110,Twins Regnant (red),Twins Regnant (red),mh4edit-mit-save-id,0,1
 111,Twins Regnant (yellow),Twins Regnant (yellow),mh4edit-mit-save-id,0,1
 112,Twins Regnant (green),Twins Regnant (green),mh4edit-mit-save-id,0,1
@@ -212,7 +212,7 @@ id,name,english,source,rarity,is_relic
 210,Shaka Scarecrows,Shaka Scarecrows,mh4g-dex-build7+mh4edit-mit-save-id,8,0
 211,Chum Scarecrows,Chum Scarecrows,mh4g-dex-build7+mh4edit-mit-save-id,9,0
 212,Chum-Chum Scarecrows,Chum-Chum Scarecrows,mh4g-dex-build7+mh4edit-mit-save-id,9,0
-213,dummy213,dummy213,mh4edit-mit-save-id,0,0
+213,[JP] Baki Combat Jutsu,[JP] Baki Combat Jutsu,mh4g-dex-build7+mh4edit-mit-save-id+mh4g-save-id-dex-crosswalk,10,0
 214,Fan Club Fans,Fan Club Fans,mh4g-dex-build7+mh4edit-mit-save-id,10,0
 215,DUMMY,DUMMY,mh4edit-mit-save-id,0,0
 216,DUMMY,DUMMY,mh4edit-mit-save-id,0,0

@@ -81,9 +81,9 @@ id,name,english,source,rarity,is_relic
 79,Fatalis's End,Fatalis's End,mh4g-dex-build7+mh4edit-mit-save-id,7,0
 80,Ruiner's Bane,Ruiner's Bane,mh4g-dex-build7+mh4edit-mit-save-id,7,0
 81,dummy81,dummy81,mh4edit-mit-save-id,0,0
-82,dummy82,dummy82,mh4edit-mit-save-id,0,0
-83,dummy83,dummy83,mh4edit-mit-save-id,0,0
-84,dummy84,dummy84,mh4edit-mit-save-id,0,0
+82,[JP] Buccaneer Axe J,[JP] Buccaneer Axe J,mh4g-dex-build7+mh4edit-mit-save-id+mh4g-save-id-dex-crosswalk,6,0
+83,[JP] Switch Fox,[JP] Switch Fox,mh4g-dex-build7+mh4edit-mit-save-id+mh4g-save-id-dex-crosswalk,4,0
+84,[JP] Special Corps Axe,[JP] Special Corps Axe,mh4g-dex-build7+mh4edit-mit-save-id+mh4g-save-id-dex-crosswalk,6,0
 85,EX Rupture,EX Rupture,mh4g-dex-build7+mh4edit-mit-save-id,4,0
 86,EX Izanagi,EX Izanagi,mh4g-dex-build7+mh4edit-mit-save-id,7,0
 87,Mighty Switch Axe (red),Mighty Switch Axe (red),mh4edit-mit-save-id,0,1

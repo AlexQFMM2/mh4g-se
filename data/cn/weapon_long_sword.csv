@@ -85,38 +85,38 @@ id,name,english,source,rarity,is_relic
 83,星光之门,Starlight Gate,mh4g-dex-build7+mh4edit-mit-save-id,2,0
 84,永恒之门,Eternal Gate,mh4g-dex-build7+mh4edit-mit-save-id,6,0
 85,【美】审判之翼,Wing of Judgment,mh4g-dex-build7+mh4edit-mit-save-id,10,0
-86,dummy86,dummy86,mh4edit-mit-save-id-en-fallback,0,0
+86,【日】狐冠,[JP] フォックスクレスト,mh4g-dex-build7+mh4edit-mit-save-id+mh4g-save-id-dex-crosswalk,4,0
 87,dummy87,dummy87,mh4edit-mit-save-id-en-fallback,0,0
-88,dummy88,dummy88,mh4edit-mit-save-id-en-fallback,0,0
-89,dummy89,dummy89,mh4edit-mit-save-id-en-fallback,0,0
-90,dummy90,dummy90,mh4edit-mit-save-id-en-fallback,0,0
+88,【日】铁碎牙,[JP] 鉄砕牙,mh4g-dex-build7+mh4edit-mit-save-id+mh4g-save-id-dex-crosswalk,2,0
+89,【日】铁碎牙Ｄ,[JP] 鉄砕牙Ｄ,mh4g-dex-build7+mh4edit-mit-save-id+mh4g-save-id-dex-crosswalk,5,0
+90,【日】霸王剑,[JP] 覇王剣,mh4g-dex-build7+mh4edit-mit-save-id+mh4g-save-id-dex-crosswalk,5,0
 91,EX成败刀,EX Arbiter,mh4g-dex-build7+mh4edit-mit-save-id,4,0
 92,EX豪刀【须佐能乎】,EX Susano-o,mh4g-dex-build7+mh4edit-mit-save-id,7,0
-93,成败刀（红）,Arbiter (red),mh4g-dex-build7+mh4edit-mit-save-id,0,1
-94,成败刀（黄）,Arbiter (yellow),mh4g-dex-build7+mh4edit-mit-save-id,0,1
-95,成败刀（绿）,Arbiter (green),mh4g-dex-build7+mh4edit-mit-save-id,0,1
-96,成败刀（蓝）,Arbiter (blue),mh4g-dex-build7+mh4edit-mit-save-id,0,1
-97,成败刀（紫）,Arbiter (purple),mh4g-dex-build7+mh4edit-mit-save-id,0,1
-98,Saber (red),Saber (red),mh4edit-mit-save-id-en-fallback,0,1
-99,Saber (yellow),Saber (yellow),mh4edit-mit-save-id-en-fallback,0,1
-100,Saber (green),Saber (green),mh4edit-mit-save-id-en-fallback,0,1
-101,Saber (blue),Saber (blue),mh4edit-mit-save-id-en-fallback,0,1
-102,Saber (purple),Saber (purple),mh4edit-mit-save-id-en-fallback,0,1
-103,Rusty Claymore (red),Rusty Claymore (red),mh4edit-mit-save-id-en-fallback,0,1
-104,Rusty Claymore (yellow),Rusty Claymore (yellow),mh4edit-mit-save-id-en-fallback,0,1
-105,Rusty Claymore (green),Rusty Claymore (green),mh4edit-mit-save-id-en-fallback,0,1
-106,Rusty Claymore (blue),Rusty Claymore (blue),mh4edit-mit-save-id-en-fallback,0,1
-107,Rusty Claymore (purple),Rusty Claymore (purple),mh4edit-mit-save-id-en-fallback,0,1
-108,Rimeblade (red),Rimeblade (red),mh4edit-mit-save-id-en-fallback,0,1
-109,Rimeblade (yellow),Rimeblade (yellow),mh4edit-mit-save-id-en-fallback,0,1
-110,Rimeblade (green),Rimeblade (green),mh4edit-mit-save-id-en-fallback,0,1
-111,Rimeblade (blue),Rimeblade (blue),mh4edit-mit-save-id-en-fallback,0,1
-112,Rimeblade (purple),Rimeblade (purple),mh4edit-mit-save-id-en-fallback,0,1
-113,Wyvern Blade (red),Wyvern Blade (red),mh4edit-mit-save-id-en-fallback,0,1
-114,Wyvern Blade (yellow),Wyvern Blade (yellow),mh4edit-mit-save-id-en-fallback,0,1
-115,Wyvern Blade (green),Wyvern Blade (green),mh4edit-mit-save-id-en-fallback,0,1
-116,Wyvern Blade (blue),Wyvern Blade (blue),mh4edit-mit-save-id-en-fallback,0,1
-117,Wyvern Blade (purple),Wyvern Blade (purple),mh4edit-mit-save-id-en-fallback,0,1
+93,成败刀（发掘·红）,Arbiter (red),mh4g-dex-build7+mh4edit-mit-save-id,0,1
+94,成败刀（发掘·黄）,Arbiter (yellow),mh4g-dex-build7+mh4edit-mit-save-id,0,1
+95,成败刀（发掘·绿）,Arbiter (green),mh4g-dex-build7+mh4edit-mit-save-id,0,1
+96,成败刀（发掘·蓝）,Arbiter (blue),mh4g-dex-build7+mh4edit-mit-save-id,0,1
+97,成败刀（发掘·紫）,Arbiter (purple),mh4g-dex-build7+mh4edit-mit-save-id,0,1
+98,军刀（发掘·红）,Saber (red),mh4g-relic-jp-cn-crosswalk+mh4edit-mit-save-id,0,1
+99,军刀（发掘·黄）,Saber (yellow),mh4g-relic-jp-cn-crosswalk+mh4edit-mit-save-id,0,1
+100,军刀（发掘·绿）,Saber (green),mh4g-relic-jp-cn-crosswalk+mh4edit-mit-save-id,0,1
+101,军刀（发掘·蓝）,Saber (blue),mh4g-relic-jp-cn-crosswalk+mh4edit-mit-save-id,0,1
+102,军刀（发掘·紫）,Saber (purple),mh4g-relic-jp-cn-crosswalk+mh4edit-mit-save-id,0,1
+103,锈蚀大剑（发掘·红）,Rusty Claymore (red),mh4g-relic-jp-cn-crosswalk+mh4edit-mit-save-id,0,1
+104,锈蚀大剑（发掘·黄）,Rusty Claymore (yellow),mh4g-relic-jp-cn-crosswalk+mh4edit-mit-save-id,0,1
+105,锈蚀大剑（发掘·绿）,Rusty Claymore (green),mh4g-relic-jp-cn-crosswalk+mh4edit-mit-save-id,0,1
+106,锈蚀大剑（发掘·蓝）,Rusty Claymore (blue),mh4g-relic-jp-cn-crosswalk+mh4edit-mit-save-id,0,1
+107,锈蚀大剑（发掘·紫）,Rusty Claymore (purple),mh4g-relic-jp-cn-crosswalk+mh4edit-mit-save-id,0,1
+108,冻刃（发掘·红）,Rimeblade (red),mh3u-se-cn-gpl-v3+mh4edit-mit-save-id,0,1
+109,冻刃（发掘·黄）,Rimeblade (yellow),mh3u-se-cn-gpl-v3+mh4edit-mit-save-id,0,1
+110,冻刃（发掘·绿）,Rimeblade (green),mh3u-se-cn-gpl-v3+mh4edit-mit-save-id,0,1
+111,冻刃（发掘·蓝）,Rimeblade (blue),mh3u-se-cn-gpl-v3+mh4edit-mit-save-id,0,1
+112,冻刃（发掘·紫）,Rimeblade (purple),mh3u-se-cn-gpl-v3+mh4edit-mit-save-id,0,1
+113,飞龙刀（发掘·红）,Wyvern Blade (red),mh4g-dex-build7-series-crosswalk+mh4edit-mit-save-id,0,1
+114,飞龙刀（发掘·黄）,Wyvern Blade (yellow),mh4g-dex-build7-series-crosswalk+mh4edit-mit-save-id,0,1
+115,飞龙刀（发掘·绿）,Wyvern Blade (green),mh4g-dex-build7-series-crosswalk+mh4edit-mit-save-id,0,1
+116,飞龙刀（发掘·蓝）,Wyvern Blade (blue),mh4g-dex-build7-series-crosswalk+mh4edit-mit-save-id,0,1
+117,飞龙刀（发掘·紫）,Wyvern Blade (purple),mh4g-dex-build7-series-crosswalk+mh4edit-mit-save-id,0,1
 118,妖刀・鬼怨斩首刀,Wrathful Beheader,mh4g-dex-build7+mh4edit-mit-save-id,8,0
 119,八界统鬼斩极刀,Rightful Beheader,mh4g-dex-build7+mh4edit-mit-save-id,8,0
 120,THE法律,La Loi,mh4g-dex-build7+mh4edit-mit-save-id,9,0
@@ -216,13 +216,13 @@ id,name,english,source,rarity,is_relic
 214,DUMMY,DUMMY,mh4edit-mit-save-id-en-fallback,0,0
 215,Crimson Dancer,Crimson Dancer,mh4edit-mit-save-id-en-fallback,0,0
 216,Nirvana Blade,Nirvana Blade,mh4edit-mit-save-id-en-fallback,0,0
-217,Netherblade (red),Netherblade (red),mh4edit-mit-save-id-en-fallback,0,1
-218,Netherblade (yellow),Netherblade (yellow),mh4edit-mit-save-id-en-fallback,0,1
-219,Netherblade (green),Netherblade (green),mh4edit-mit-save-id-en-fallback,0,1
-220,Netherblade (blue),Netherblade (blue),mh4edit-mit-save-id-en-fallback,0,1
-221,Netherblade (purple),Netherblade (purple),mh4edit-mit-save-id-en-fallback,0,1
-222,Divine Slasher (red),Divine Slasher (red),mh4edit-mit-save-id-en-fallback,0,1
-223,Divine Slasher (yellow),Divine Slasher (yellow),mh4edit-mit-save-id-en-fallback,0,1
-224,Divine Slasher (green),Divine Slasher (green),mh4edit-mit-save-id-en-fallback,0,1
-225,Divine Slasher (blue),Divine Slasher (blue),mh4edit-mit-save-id-en-fallback,0,1
-226,Divine Slasher (purple),Divine Slasher (purple),mh4edit-mit-save-id-en-fallback,0,1
+217,冥刀（发掘·红）,Netherblade (red),mh4g-relic-jp-cn-crosswalk+mh4edit-mit-save-id,0,1
+218,冥刀（发掘·黄）,Netherblade (yellow),mh4g-relic-jp-cn-crosswalk+mh4edit-mit-save-id,0,1
+219,冥刀（发掘·绿）,Netherblade (green),mh4g-relic-jp-cn-crosswalk+mh4edit-mit-save-id,0,1
+220,冥刀（发掘·蓝）,Netherblade (blue),mh4g-relic-jp-cn-crosswalk+mh4edit-mit-save-id,0,1
+221,冥刀（发掘·紫）,Netherblade (purple),mh4g-relic-jp-cn-crosswalk+mh4edit-mit-save-id,0,1
+222,天上天下无双刀（发掘·红）,Divine Slasher (red),mh4g-relic-jp-cn-crosswalk+mh4edit-mit-save-id,0,1
+223,天上天下无双刀（发掘·黄）,Divine Slasher (yellow),mh4g-relic-jp-cn-crosswalk+mh4edit-mit-save-id,0,1
+224,天上天下无双刀（发掘·绿）,Divine Slasher (green),mh4g-relic-jp-cn-crosswalk+mh4edit-mit-save-id,0,1
+225,天上天下无双刀（发掘·蓝）,Divine Slasher (blue),mh4g-relic-jp-cn-crosswalk+mh4edit-mit-save-id,0,1
+226,天上天下无双刀（发掘·紫）,Divine Slasher (purple),mh4g-relic-jp-cn-crosswalk+mh4edit-mit-save-id,0,1

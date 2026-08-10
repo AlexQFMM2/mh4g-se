@@ -8,7 +8,11 @@ files by hand.
 - `en/` uses English names in both `name` and `english`.
 - Equipment IDs are save-local IDs. Dex uses global IDs, so the save-local
   order is imported from the MIT-licensed `Rokumaehn/mh4edit` reference and
-  joined to Dex by normalized exact English name (no edit-distance matching).
+  joined to Dex by normalized exact English name or an explicit reviewed ID
+  crosswalk (no edit-distance matching).
+- Relic appearance names are resolved through the explicit weapon-name
+  crosswalk because those base appearances are not standalone Dex weapon rows.
+  Chinese relic names include a `发掘` marker and their appearance color.
 - `rarity` is `0` when rarity is dynamic (relic/talisman) or the reference row
   has no exact Dex match. `is_relic` is `1` for colored relic weapon IDs.
 - `equipment_type` in `equipment_lookups.csv` is the on-disk save type (`0` is

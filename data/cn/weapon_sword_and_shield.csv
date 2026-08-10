@@ -15,7 +15,7 @@ id,name,english,source,rarity,is_relic
 13,THE探测者,Le Détecteur,mh4g-dex-build7+mh4edit-mit-save-id,7,0
 14,公主刺剑,Princess Rapier,mh4g-dex-build7+mh4edit-mit-save-id,2,0
 15,女王刺剑,Queen Rapier,mh4g-dex-build7+mh4edit-mit-save-id,3,0
-16,Queen Rose,Queen Rose,mh4edit-mit-save-id-en-fallback,0,0
+16,女王玫瑰,Queen's Rose,mh4g-dex-build7+mh4edit-mit-save-id+mh4g-save-id-dex-crosswalk,5,0
 17,皇室玫瑰,Royal Rose,mh4g-dex-build7+mh4edit-mit-save-id,6,0
 18,啃咬短刀,Velocidrome Bite,mh4g-dex-build7+mh4edit-mit-save-id,1,0
 19,啃咬短刀改,Velocidrome Bite+,mh4g-dex-build7+mh4edit-mit-save-id,2,0
@@ -55,7 +55,7 @@ id,name,english,source,rarity,is_relic
 53,军用弯刀,Chief Kris,mh4g-dex-build7+mh4edit-mit-save-id,1,0
 54,冰晶切割者,Sharkutter,mh4g-dex-build7+mh4edit-mit-save-id,2,0
 55,冰晶切割者改,Sharkutter+,mh4g-dex-build7+mh4edit-mit-save-id,3,0
-56,Sharlin Sword,Sharlin Sword,mh4edit-mit-save-id-en-fallback,0,0
+56,冰晶宝剑,Sharfin Sword,mh4g-dex-build7+mh4edit-mit-save-id+mh4g-save-id-dex-crosswalk,5,0
 57,未知晶剑,Sharfinisher,mh4g-dex-build7+mh4edit-mit-save-id,6,0
 58,轰龙之爪,Rex Talon,mh4g-dex-build7+mh4edit-mit-save-id,3,0
 59,轰剑【虎眼】,Tigrex Sword,mh4g-dex-build7+mh4edit-mit-save-id,5,0
@@ -69,12 +69,12 @@ id,name,english,source,rarity,is_relic
 67,两圣十字短剑,Dual Cross Brand,mh4g-dex-build7+mh4edit-mit-save-id,6,0
 68,火焰剑,Flame Syphos,mh4g-dex-build7+mh4edit-mit-save-id,3,0
 69,火焰剑改,Flame Syphos+,mh4g-dex-build7+mh4edit-mit-save-id,4,0
-70,Black Dorn Flame,Black Dorn Flame,mh4edit-mit-save-id-en-fallback,0,0
+70,豪剑阿格尼,Black Doom Flame,mh4g-dex-build7+mh4edit-mit-save-id+mh4g-save-id-dex-crosswalk,6,0
 71,鳞剑,Scaly Sword,mh4g-dex-build7+mh4edit-mit-save-id,2,0
 72,鳞剑改,Scaly Sword+,mh4g-dex-build7+mh4edit-mit-save-id,3,0
 73,血色鳞剑,Bloodscale Sword,mh4g-dex-build7+mh4edit-mit-save-id,4,0
 74,血色爪剑,Bloodsquama Sword,mh4g-dex-build7+mh4edit-mit-save-id,6,0
-75,Ludroth Nail,Ludroth Nail,mh4edit-mit-save-id-en-fallback,0,0
+75,水兽短剑,Ludroth's Nail,mh4g-dex-build7+mh4edit-mit-save-id+mh4g-save-id-dex-crosswalk,2,0
 76,水兽之爪,Royal Claw,mh4g-dex-build7+mh4edit-mit-save-id,2,0
 77,奥德赛,Odyssey,mh4g-dex-build7+mh4edit-mit-save-id,4,0
 78,奥德赛利刃,Odyssey Blade,mh4g-dex-build7+mh4edit-mit-save-id,5,0
@@ -86,13 +86,13 @@ id,name,english,source,rarity,is_relic
 84,水龙刺剑,Plesioth Finspike,mh4g-dex-build7+mh4edit-mit-save-id,2,0
 85,水龙刺剑改,Plesioth Finspike+,mh4g-dex-build7+mh4edit-mit-save-id,3,0
 86,高级水龙刺剑,Plesioth Direspike,mh4g-dex-build7+mh4edit-mit-save-id,5,0
-87,Hero Blade,Hero Blade,mh4edit-mit-save-id-en-fallback,0,0
-88,Master Blade,Master Blade,mh4edit-mit-save-id-en-fallback,0,0
+87,英雄之刃,Heroic Blade,mh4g-dex-build7+mh4edit-mit-save-id+mh4g-save-id-dex-crosswalk,6,0
+88,大师之刃,Master's Blade,mh4g-dex-build7+mh4edit-mit-save-id+mh4g-save-id-dex-crosswalk,7,0
 89,腐锈单手剑,Rusted Sword,mh4g-dex-build7+mh4edit-mit-save-id,2,0
 90,生锈单手剑,Tarnished Sword,mh4g-dex-build7+mh4edit-mit-save-id,3,0
 91,封龙剑【绝一门】,Eternal Strife,mh4g-dex-build7+mh4edit-mit-save-id,4,0
 92,封龙剑【怨绝一门】,Eternal Hate,mh4g-dex-build7+mh4edit-mit-save-id,5,0
-93,Steel Ice Dagger,Steel Ice Dagger,mh4edit-mit-save-id-en-fallback,0,0
+93,钢冰剑,Icesteel Dagger,mh4g-dex-build7+mh4edit-mit-save-id+mh4g-save-id-dex-crosswalk,6,0
 94,埃斯特雷莫＝达欧拉,Daora's Razor,mh4g-dex-build7+mh4edit-mit-save-id,7,0
 95,风化严重的单手剑,Worn Sword,mh4g-dex-build7+mh4edit-mit-save-id,5,0
 96,风化的单手剑,Weathered Sword,mh4g-dex-build7+mh4edit-mit-save-id,5,0
@@ -106,41 +106,41 @@ id,name,english,source,rarity,is_relic
 104,二律背反之矛盾飞翼,The Antimonial Haven,mh4g-dex-build7+mh4edit-mit-save-id,7,0
 105,黑龙剑,Fatalis Sword,mh4g-dex-build7+mh4edit-mit-save-id,7,0
 106,黑灭龙剑,Ruiner Sword,mh4g-dex-build7+mh4edit-mit-save-id,7,0
-107,dummy107,dummy107,mh4edit-mit-save-id-en-fallback,0,0
+107,【日】雷剑克罗德莱特,[JP] Levindicator,mh4g-dex-build7+mh4edit-mit-save-id+mh4g-save-id-dex-crosswalk,4,0
 108,勇者之剑,Hero's Sword,mh4g-dex-build7+mh4edit-mit-save-id,5,0
 109,退魔剑,Master Sword,mh4g-dex-build7+mh4edit-mit-save-id,7,0
 110,EX武者备,EX Poise,mh4g-dex-build7+mh4edit-mit-save-id,4,0
 111,EX豪剑【天羽羽斩】,EX Ame-no-habakiri,mh4g-dex-build7+mh4edit-mit-save-id,7,0
-112,Jhen Kodachi (red),Jhen Kodachi (red),mh4edit-mit-save-id-en-fallback,0,1
-113,Jhen Kodachi (yellow),Jhen Kodachi (yellow),mh4edit-mit-save-id-en-fallback,0,1
-114,Jhen Kodachi (green),Jhen Kodachi (green),mh4edit-mit-save-id-en-fallback,0,1
-115,Jhen Kodachi (blue),Jhen Kodachi (blue),mh4edit-mit-save-id-en-fallback,0,1
-116,Jhen Kodachi (purple),Jhen Kodachi (purple),mh4edit-mit-save-id-en-fallback,0,1
-117,Chak Chak (red),Chak Chak (red),mh4edit-mit-save-id-en-fallback,0,1
-118,Chak Chak (yellow),Chak Chak (yellow),mh4edit-mit-save-id-en-fallback,0,1
-119,Chak Chak (green),Chak Chak (green),mh4edit-mit-save-id-en-fallback,0,1
-120,Chak Chak (blue),Chak Chak (blue),mh4edit-mit-save-id-en-fallback,0,1
-121,Chak Chak (purple),Chak Chak (purple),mh4edit-mit-save-id-en-fallback,0,1
-122,Hidden Edge (red),Hidden Edge (red),mh4edit-mit-save-id-en-fallback,0,1
-123,Hidden Edge (yellow),Hidden Edge (yellow),mh4edit-mit-save-id-en-fallback,0,1
-124,Hidden Edge (green),Hidden Edge (green),mh4edit-mit-save-id-en-fallback,0,1
-125,Hidden Edge (blue),Hidden Edge (blue),mh4edit-mit-save-id-en-fallback,0,1
-126,Hidden Edge (purple),Hidden Edge (purple),mh4edit-mit-save-id-en-fallback,0,1
-127,Master Bang (red),Master Bang (red),mh4edit-mit-save-id-en-fallback,0,1
-128,Master Bang (yellow),Master Bang (yellow),mh4edit-mit-save-id-en-fallback,0,1
-129,Master Bang (green),Master Bang (green),mh4edit-mit-save-id-en-fallback,0,1
-130,Master Bang (blue),Master Bang (blue),mh4edit-mit-save-id-en-fallback,0,1
-131,Master Bang (purple),Master Bang (purple),mh4edit-mit-save-id-en-fallback,0,1
-132,黄金之髓（红）,Golden Falchion (red),mh4g-dex-build7+mh4edit-mit-save-id,0,1
-133,黄金之髓（黄）,Golden Falchion (yellow),mh4g-dex-build7+mh4edit-mit-save-id,0,1
-134,黄金之髓（绿）,Golden Falchion (green),mh4g-dex-build7+mh4edit-mit-save-id,0,1
-135,黄金之髓（蓝）,Golden Falchion (blue),mh4g-dex-build7+mh4edit-mit-save-id,0,1
-136,黄金之髓（紫）,Golden Falchion (purple),mh4g-dex-build7+mh4edit-mit-save-id,0,1
-137,Frost Edge (red),Frost Edge (red),mh4edit-mit-save-id-en-fallback,0,1
-138,Frost Edge (yellow),Frost Edge (yellow),mh4edit-mit-save-id-en-fallback,0,1
-139,Frost Edge (green),Frost Edge (green),mh4edit-mit-save-id-en-fallback,0,1
-140,Frost Edge (blue),Frost Edge (blue),mh4edit-mit-save-id-en-fallback,0,1
-141,Frost Edge (purple),Frost Edge (purple),mh4edit-mit-save-id-en-fallback,0,1
+112,峯山小太刀（发掘·红）,Jhen Kodachi (red),mh3u-se-cn-gpl-v3+mh4edit-mit-save-id,0,1
+113,峯山小太刀（发掘·黄）,Jhen Kodachi (yellow),mh3u-se-cn-gpl-v3+mh4edit-mit-save-id,0,1
+114,峯山小太刀（发掘·绿）,Jhen Kodachi (green),mh3u-se-cn-gpl-v3+mh4edit-mit-save-id,0,1
+115,峯山小太刀（发掘·蓝）,Jhen Kodachi (blue),mh3u-se-cn-gpl-v3+mh4edit-mit-save-id,0,1
+116,峯山小太刀（发掘·紫）,Jhen Kodachi (purple),mh3u-se-cn-gpl-v3+mh4edit-mit-save-id,0,1
+117,狩猎族小刀（发掘·红）,Chak Chak (red),mh3u-se-cn-gpl-v3+mh4edit-mit-save-id,0,1
+118,狩猎族小刀（发掘·黄）,Chak Chak (yellow),mh3u-se-cn-gpl-v3+mh4edit-mit-save-id,0,1
+119,狩猎族小刀（发掘·绿）,Chak Chak (green),mh3u-se-cn-gpl-v3+mh4edit-mit-save-id,0,1
+120,狩猎族小刀（发掘·蓝）,Chak Chak (blue),mh3u-se-cn-gpl-v3+mh4edit-mit-save-id,0,1
+121,狩猎族小刀（发掘·紫）,Chak Chak (purple),mh3u-se-cn-gpl-v3+mh4edit-mit-save-id,0,1
+122,迅龙刃（发掘·红）,Hidden Edge (red),mh3u-se-cn-gpl-v3+mh4edit-mit-save-id,0,1
+123,迅龙刃（发掘·黄）,Hidden Edge (yellow),mh3u-se-cn-gpl-v3+mh4edit-mit-save-id,0,1
+124,迅龙刃（发掘·绿）,Hidden Edge (green),mh3u-se-cn-gpl-v3+mh4edit-mit-save-id,0,1
+125,迅龙刃（发掘·蓝）,Hidden Edge (blue),mh3u-se-cn-gpl-v3+mh4edit-mit-save-id,0,1
+126,迅龙刃（发掘·紫）,Hidden Edge (purple),mh3u-se-cn-gpl-v3+mh4edit-mit-save-id,0,1
+127,大师之击（发掘·红）,Master Bang (red),mh4g-relic-jp-cn-crosswalk+mh4edit-mit-save-id,0,1
+128,大师之击（发掘·黄）,Master Bang (yellow),mh4g-relic-jp-cn-crosswalk+mh4edit-mit-save-id,0,1
+129,大师之击（发掘·绿）,Master Bang (green),mh4g-relic-jp-cn-crosswalk+mh4edit-mit-save-id,0,1
+130,大师之击（发掘·蓝）,Master Bang (blue),mh4g-relic-jp-cn-crosswalk+mh4edit-mit-save-id,0,1
+131,大师之击（发掘·紫）,Master Bang (purple),mh4g-relic-jp-cn-crosswalk+mh4edit-mit-save-id,0,1
+132,黄金之髓（发掘·红）,Golden Falchion (red),mh4g-dex-build7+mh4edit-mit-save-id,0,1
+133,黄金之髓（发掘·黄）,Golden Falchion (yellow),mh4g-dex-build7+mh4edit-mit-save-id,0,1
+134,黄金之髓（发掘·绿）,Golden Falchion (green),mh4g-dex-build7+mh4edit-mit-save-id,0,1
+135,黄金之髓（发掘·蓝）,Golden Falchion (blue),mh4g-dex-build7+mh4edit-mit-save-id,0,1
+136,黄金之髓（发掘·紫）,Golden Falchion (purple),mh4g-dex-build7+mh4edit-mit-save-id,0,1
+137,冰霜之刃（发掘·红）,Frost Edge (red),mh4g-relic-jp-cn-crosswalk+mh4edit-mit-save-id,0,1
+138,冰霜之刃（发掘·黄）,Frost Edge (yellow),mh4g-relic-jp-cn-crosswalk+mh4edit-mit-save-id,0,1
+139,冰霜之刃（发掘·绿）,Frost Edge (green),mh4g-relic-jp-cn-crosswalk+mh4edit-mit-save-id,0,1
+140,冰霜之刃（发掘·蓝）,Frost Edge (blue),mh4g-relic-jp-cn-crosswalk+mh4edit-mit-save-id,0,1
+141,冰霜之刃（发掘·紫）,Frost Edge (purple),mh4g-relic-jp-cn-crosswalk+mh4edit-mit-save-id,0,1
 142,狂杀匕首改,Rebellious Knife+,mh4g-dex-build7+mh4edit-mit-save-id,8,0
 143,复仇匕首,Vengeful Knife,mh4g-dex-build7+mh4edit-mit-save-id,9,0
 144,风牙刺,Spiked Saber,mh4g-dex-build7+mh4edit-mit-save-id,6,0
@@ -230,19 +230,19 @@ id,name,english,source,rarity,is_relic
 228,破灭之剑,Kyrie Ruin,mh4g-dex-build7+mh4edit-mit-save-id,10,0
 229,黑带剑,Black Belt Sword,mh4g-dex-build7+mh4edit-mit-save-id,9,0
 230,退魔剑Ｇ,Master Sword G,mh4g-dex-build7+mh4edit-mit-save-id,10,0
-231,dummy231,dummy231,mh4edit-mit-save-id-en-fallback,0,0
+231,【日】闪电剑,[JP] Inazuma Works,mh4g-dex-build7+mh4edit-mit-save-id+mh4g-save-id-dex-crosswalk,10,0
 232,星光骑士剑,Star Knight Sword,mh4g-dex-build7+mh4edit-mit-save-id,10,0
-233,dummy233,dummy233,mh4edit-mit-save-id-en-fallback,0,0
+233,【日】断刃剑,[JP] 刃折れの剣,mh4g-dex-build7+mh4edit-mit-save-id+mh4g-save-id-dex-crosswalk,10,0
 234,萌萌木偶,Ms. M.H. Puppet,mh4g-dex-build7+mh4edit-mit-save-id,10,0
 235,Saint Luxseed,Saint Luxseed,mh4edit-mit-save-id-en-fallback,0,0
 236,Demon Valkcreed,Demon Valkcreed,mh4edit-mit-save-id-en-fallback,0,0
-237,剧毒单手斧（红）,Poison Battleaxe (red),mh4g-dex-build7+mh4edit-mit-save-id,0,1
-238,剧毒单手斧（黄）,Poison Battleaxe (yellow),mh4g-dex-build7+mh4edit-mit-save-id,0,1
-239,剧毒单手斧（绿）,Poison Battleaxe (green),mh4g-dex-build7+mh4edit-mit-save-id,0,1
-240,剧毒单手斧（蓝）,Poison Battleaxe (blue),mh4g-dex-build7+mh4edit-mit-save-id,0,1
-241,剧毒单手斧（紫）,Poison Battleaxe (purple),mh4g-dex-build7+mh4edit-mit-save-id,0,1
-242,Giltanas Epee (red),Giltanas Epee (red),mh4edit-mit-save-id-en-fallback,0,1
-243,Giltanas Epee (yellow),Giltanas Epee (yellow),mh4edit-mit-save-id-en-fallback,0,1
-244,Giltanas Epee (green),Giltanas Epee (green),mh4edit-mit-save-id-en-fallback,0,1
-245,Giltanas Epee (blue),Giltanas Epee (blue),mh4edit-mit-save-id-en-fallback,0,1
-246,Giltanas Epee (purple),Giltanas Epee (purple),mh4edit-mit-save-id-en-fallback,0,1
+237,剧毒单手斧（发掘·红）,Poison Battleaxe (red),mh4g-dex-build7+mh4edit-mit-save-id,0,1
+238,剧毒单手斧（发掘·黄）,Poison Battleaxe (yellow),mh4g-dex-build7+mh4edit-mit-save-id,0,1
+239,剧毒单手斧（发掘·绿）,Poison Battleaxe (green),mh4g-dex-build7+mh4edit-mit-save-id,0,1
+240,剧毒单手斧（发掘·蓝）,Poison Battleaxe (blue),mh4g-dex-build7+mh4edit-mit-save-id,0,1
+241,剧毒单手斧（发掘·紫）,Poison Battleaxe (purple),mh4g-dex-build7+mh4edit-mit-save-id,0,1
+242,吉尔塔纳斯细剑（发掘·红）,Giltanas Epee (red),mh4g-relic-jp-cn-crosswalk+mh4edit-mit-save-id,0,1
+243,吉尔塔纳斯细剑（发掘·黄）,Giltanas Epee (yellow),mh4g-relic-jp-cn-crosswalk+mh4edit-mit-save-id,0,1
+244,吉尔塔纳斯细剑（发掘·绿）,Giltanas Epee (green),mh4g-relic-jp-cn-crosswalk+mh4edit-mit-save-id,0,1
+245,吉尔塔纳斯细剑（发掘·蓝）,Giltanas Epee (blue),mh4g-relic-jp-cn-crosswalk+mh4edit-mit-save-id,0,1
+246,吉尔塔纳斯细剑（发掘·紫）,Giltanas Epee (purple),mh4g-relic-jp-cn-crosswalk+mh4edit-mit-save-id,0,1

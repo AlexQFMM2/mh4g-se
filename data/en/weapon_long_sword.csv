@@ -85,11 +85,11 @@ id,name,english,source,rarity,is_relic
 83,Starlight Gate,Starlight Gate,mh4g-dex-build7+mh4edit-mit-save-id,2,0
 84,Eternal Gate,Eternal Gate,mh4g-dex-build7+mh4edit-mit-save-id,6,0
 85,Wing of Judgment,Wing of Judgment,mh4g-dex-build7+mh4edit-mit-save-id,10,0
-86,dummy86,dummy86,mh4edit-mit-save-id,0,0
+86,[JP] フォックスクレスト,[JP] フォックスクレスト,mh4g-dex-build7+mh4edit-mit-save-id+mh4g-save-id-dex-crosswalk,4,0
 87,dummy87,dummy87,mh4edit-mit-save-id,0,0
-88,dummy88,dummy88,mh4edit-mit-save-id,0,0
-89,dummy89,dummy89,mh4edit-mit-save-id,0,0
-90,dummy90,dummy90,mh4edit-mit-save-id,0,0
+88,[JP] 鉄砕牙,[JP] 鉄砕牙,mh4g-dex-build7+mh4edit-mit-save-id+mh4g-save-id-dex-crosswalk,2,0
+89,[JP] 鉄砕牙Ｄ,[JP] 鉄砕牙Ｄ,mh4g-dex-build7+mh4edit-mit-save-id+mh4g-save-id-dex-crosswalk,5,0
+90,[JP] 覇王剣,[JP] 覇王剣,mh4g-dex-build7+mh4edit-mit-save-id+mh4g-save-id-dex-crosswalk,5,0
 91,EX Arbiter,EX Arbiter,mh4g-dex-build7+mh4edit-mit-save-id,4,0
 92,EX Susano-o,EX Susano-o,mh4g-dex-build7+mh4edit-mit-save-id,7,0
 93,Arbiter (red),Arbiter (red),mh4g-dex-build7+mh4edit-mit-save-id,0,1

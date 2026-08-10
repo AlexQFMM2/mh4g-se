@@ -82,8 +82,8 @@ id,name,english,source,rarity,is_relic
 80,Cradlecrush Embrace,Cradlecrush Embrace,mh4g-dex-build7+mh4edit-mit-save-id,6,0
 81,The Keen Stratagem,The Keen Stratagem,mh4g-dex-build7+mh4edit-mit-save-id,7,0
 82,Bow of Rack & Ruin,Bow of Rack & Ruin,mh4g-dex-build7+mh4edit-mit-save-id,7,0
-83,dummy83,dummy83,mh4edit-mit-save-id,0,0
-84,dummy83,dummy83,mh4edit-mit-save-id,0,0
+83,[JP] カブト,[JP] カブト,mh4g-dex-build7+mh4edit-mit-save-id+mh4g-save-id-dex-crosswalk,5,0
+84,[JP] 黒カブト,[JP] 黒カブト,mh4g-dex-build7+mh4edit-mit-save-id+mh4g-save-id-dex-crosswalk,7,0
 85,Hero's Bow,Hero's Bow,mh4g-dex-build7+mh4edit-mit-save-id,5,0
 86,Sacred Bow,Sacred Bow,mh4g-dex-build7+mh4edit-mit-save-id,7,0
 87,Akantor Bow (red),Akantor Bow (red),mh4g-dex-build7+mh4edit-mit-save-id,0,1

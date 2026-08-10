@@ -90,12 +90,9 @@ static inline QVariant searchableComboBoxCurrentData(QComboBox *comboBox)
 
 static inline QString displayNameWithoutSearchSuffix(const QString &name)
 {
-    int parenthesisIndex = name.indexOf(" (");
-    if (parenthesisIndex > 0)
-    {
-        return name.left(parenthesisIndex).trimmed();
-    }
-
+    // MH4G CSV stores localized and English names in separate columns. Parentheses
+    // are therefore part of the real name (for example relic colors and bowgun
+    // variants), not a search-only suffix inherited from the old MH3U dataset.
     return name.trimmed();
 }
 

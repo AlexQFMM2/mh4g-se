@@ -28,7 +28,7 @@ id,name,english,source,rarity,is_relic
 26,射击弩・红,Shotgun (Blood),mh4g-dex-build7+mh4edit-mit-save-id,3,0
 27,枪林弹雨・红,Crimson Blade Shower,mh4g-dex-build7+mh4edit-mit-save-id,4,0
 28,口红射手,Rouge Shooter,mh4g-dex-build7+mh4edit-mit-save-id,5,0
-29,Shotgun (Green),Shotgun (Green),mh4edit-mit-save-id-en-fallback,0,1
+29,射击弩・碧,Shotgun (Green),mh4g-dex-build7+mh4edit-mit-save-id,2,0
 30,枪林弹雨・碧,Green Blade Shower,mh4g-dex-build7+mh4edit-mit-save-id,2,0
 31,薄纱射手,Vert Shooter,mh4g-dex-build7+mh4edit-mit-save-id,4,0
 32,外壳子弹,Shell Shooter,mh4g-dex-build7+mh4edit-mit-save-id,1,0
@@ -83,16 +83,16 @@ id,name,english,source,rarity,is_relic
 81,业弩黑暗狂人,"Diregun ""Dementia""",mh4g-dex-build7+mh4edit-mit-save-id,7,0
 82,金狮火枪,Rajang Barrage,mh4g-dex-build7+mh4edit-mit-save-id,6,0
 83,金狮子筒【万雷】,Ten Thousand Volts,mh4g-dex-build7+mh4edit-mit-save-id,7,0
-84,土砂轻弩（红）,Barro Barrel (red),mh4g-dex-build7+mh4edit-mit-save-id,0,1
-85,土砂轻弩（黄）,Barro Barrel (yellow),mh4g-dex-build7+mh4edit-mit-save-id,0,1
-86,土砂轻弩（绿）,Barro Barrel (green),mh4g-dex-build7+mh4edit-mit-save-id,0,1
-87,土砂轻弩（蓝）,Barro Barrel (blue),mh4g-dex-build7+mh4edit-mit-save-id,0,1
-88,土砂轻弩（紫）,Barro Barrel (purple),mh4g-dex-build7+mh4edit-mit-save-id,0,1
-89,Thundercrack (red),Thundercrack (red),mh4edit-mit-save-id-en-fallback,0,1
-90,Thundercrack (yellow),Thundercrack (yellow),mh4edit-mit-save-id-en-fallback,0,1
-91,Thundercrack (green),Thundercrack (green),mh4edit-mit-save-id-en-fallback,0,1
-92,Thundercrack (blue),Thundercrack (blue),mh4edit-mit-save-id-en-fallback,0,1
-93,Thundercrack (purple),Thundercrack (purple),mh4edit-mit-save-id-en-fallback,0,1
+84,土砂轻弩（发掘·红）,Barro Barrel (red),mh4g-dex-build7+mh4edit-mit-save-id,0,1
+85,土砂轻弩（发掘·黄）,Barro Barrel (yellow),mh4g-dex-build7+mh4edit-mit-save-id,0,1
+86,土砂轻弩（发掘·绿）,Barro Barrel (green),mh4g-dex-build7+mh4edit-mit-save-id,0,1
+87,土砂轻弩（发掘·蓝）,Barro Barrel (blue),mh4g-dex-build7+mh4edit-mit-save-id,0,1
+88,土砂轻弩（发掘·紫）,Barro Barrel (purple),mh4g-dex-build7+mh4edit-mit-save-id,0,1
+89,雷炮（发掘·红）,Thundercrack (red),mh4g-dex-build7-series-crosswalk+mh4edit-mit-save-id,0,1
+90,雷炮（发掘·黄）,Thundercrack (yellow),mh4g-dex-build7-series-crosswalk+mh4edit-mit-save-id,0,1
+91,雷炮（发掘·绿）,Thundercrack (green),mh4g-dex-build7-series-crosswalk+mh4edit-mit-save-id,0,1
+92,雷炮（发掘·蓝）,Thundercrack (blue),mh4g-dex-build7-series-crosswalk+mh4edit-mit-save-id,0,1
+93,雷炮（发掘·紫）,Thundercrack (purple),mh4g-dex-build7-series-crosswalk+mh4edit-mit-save-id,0,1
 94,爆破弹弩炮,Burst Revolver,mh4g-dex-build7+mh4edit-mit-save-id,8,0
 95,未知弹弩炮,Volarevolver,mh4g-dex-build7+mh4edit-mit-save-id,9,0
 96,苍火龙炎舞炮,Searulean Firedance,mh4g-dex-build7+mh4edit-mit-save-id,9,0
@@ -172,15 +172,15 @@ id,name,english,source,rarity,is_relic
 170,钢臂加农炮,Arm Cannon,mh4g-dex-build7+mh4edit-mit-save-id,10,0
 171,粉红阳伞,Frilly Pink Parasol,mh4g-dex-build7+mh4edit-mit-save-id,10,0
 172,DUMMY,DUMMY,mh4edit-mit-save-id-en-fallback,0,0
-173,Frilly Parasol (red),Frilly Parasol (red),mh4edit-mit-save-id-en-fallback,0,1
-174,Frilly Parasol (yellow),Frilly Parasol (yellow),mh4edit-mit-save-id-en-fallback,0,1
-175,Frilly Parasol (green),Frilly Parasol (green),mh4edit-mit-save-id-en-fallback,0,1
-176,Frilly Parasol (blue),Frilly Parasol (blue),mh4edit-mit-save-id-en-fallback,0,1
-177,Frilly Parasol (purple),Frilly Parasol (purple),mh4edit-mit-save-id-en-fallback,0,1
-178,Durambarrel (red),Durambarrel (red),mh4edit-mit-save-id-en-fallback,0,1
-179,Durambarrel (yellow),Durambarrel (yellow),mh4edit-mit-save-id-en-fallback,0,1
-180,Durambarrel (green),Durambarrel (green),mh4edit-mit-save-id-en-fallback,0,1
-181,Durambarrel (blue),Durambarrel (blue),mh4edit-mit-save-id-en-fallback,0,1
-182,Durambarrel (purple),Durambarrel (purple),mh4edit-mit-save-id-en-fallback,0,1
+173,花边阳伞（发掘·红）,Frilly Parasol (red),mh4g-dex-build7-series-crosswalk+mh4edit-mit-save-id,0,1
+174,花边阳伞（发掘·黄）,Frilly Parasol (yellow),mh4g-dex-build7-series-crosswalk+mh4edit-mit-save-id,0,1
+175,花边阳伞（发掘·绿）,Frilly Parasol (green),mh4g-dex-build7-series-crosswalk+mh4edit-mit-save-id,0,1
+176,花边阳伞（发掘·蓝）,Frilly Parasol (blue),mh4g-dex-build7-series-crosswalk+mh4edit-mit-save-id,0,1
+177,花边阳伞（发掘·紫）,Frilly Parasol (purple),mh4g-dex-build7-series-crosswalk+mh4edit-mit-save-id,0,1
+178,贝尔克兹弩（发掘·红）,Durambarrel (red),mh3u-se-cn-gpl-v3+mh4edit-mit-save-id,0,1
+179,贝尔克兹弩（发掘·黄）,Durambarrel (yellow),mh3u-se-cn-gpl-v3+mh4edit-mit-save-id,0,1
+180,贝尔克兹弩（发掘·绿）,Durambarrel (green),mh3u-se-cn-gpl-v3+mh4edit-mit-save-id,0,1
+181,贝尔克兹弩（发掘·蓝）,Durambarrel (blue),mh3u-se-cn-gpl-v3+mh4edit-mit-save-id,0,1
+182,贝尔克兹弩（发掘·紫）,Durambarrel (purple),mh3u-se-cn-gpl-v3+mh4edit-mit-save-id,0,1
 183,Scatterfly Rack,Scatterfly Rack,mh4edit-mit-save-id-en-fallback,0,0
 184,Rebel Paradigm,Rebel Paradigm,mh4edit-mit-save-id-en-fallback,0,0

@@ -99,28 +99,28 @@ id,name,english,source,rarity,is_relic
 97,叛逆盾斧加尔雷吉昂,Garuda Sedition,mh4g-dex-build7+mh4edit-mit-save-id,10,0
 98,被禁之棺,Forbidden Coffin,mh4g-dex-build7+mh4edit-mit-save-id,10,0
 99,代价之深渊,Promised Nadir,mh4g-dex-build7+mh4edit-mit-save-id,10,0
-100,dummy100,dummy100,mh4edit-mit-save-id-en-fallback,0,0
+100,【日】蓄力狐,[JP] Charge Fox,mh4g-dex-build7+mh4edit-mit-save-id+mh4g-save-id-dex-crosswalk,10,0
 101,DUMMY,DUMMY,mh4edit-mit-save-id-en-fallback,0,0
 102,DUMMY,DUMMY,mh4edit-mit-save-id-en-fallback,0,0
 103,Awaritia,Awaritia,mh4edit-mit-save-id-en-fallback,0,0
 104,Fallen Morgenröte,Fallen Morgenröte,mh4edit-mit-save-id-en-fallback,0,0
-105,精锐讨伐队盾斧（红）,Elite Blade (red),mh4g-dex-build7+mh4edit-mit-save-id,0,1
-106,精锐讨伐队盾斧（黄）,Elite Blade (yellow),mh4g-dex-build7+mh4edit-mit-save-id,0,1
-107,精锐讨伐队盾斧（绿）,Elite Blade (green),mh4g-dex-build7+mh4edit-mit-save-id,0,1
-108,精锐讨伐队盾斧（蓝）,Elite Blade (blue),mh4g-dex-build7+mh4edit-mit-save-id,0,1
-109,精锐讨伐队盾斧（紫）,Elite Blade (purple),mh4g-dex-build7+mh4edit-mit-save-id,0,1
-110,迪亚＝鲁特米斯（红）,Dear Lutemis (red),mh4g-dex-build7+mh4edit-mit-save-id,0,1
-111,迪亚＝鲁特米斯（黄）,Dear Lutemis (yellow),mh4g-dex-build7+mh4edit-mit-save-id,0,1
-112,迪亚＝鲁特米斯（绿）,Dear Lutemis (green),mh4g-dex-build7+mh4edit-mit-save-id,0,1
-113,迪亚＝鲁特米斯（蓝）,Dear Lutemis (blue),mh4g-dex-build7+mh4edit-mit-save-id,0,1
-114,迪亚＝鲁特米斯（紫）,Dear Lutemis (purple),mh4g-dex-build7+mh4edit-mit-save-id,0,1
-115,原力of坠落（红）,Elendskraft (red),mh4g-dex-build7+mh4edit-mit-save-id,0,1
-116,原力of坠落（黄）,Elendskraft (yellow),mh4g-dex-build7+mh4edit-mit-save-id,0,1
-117,原力of坠落（绿）,Elendskraft (green),mh4g-dex-build7+mh4edit-mit-save-id,0,1
-118,原力of坠落（蓝）,Elendskraft (blue),mh4g-dex-build7+mh4edit-mit-save-id,0,1
-119,原力of坠落（紫）,Elendskraft (purple),mh4g-dex-build7+mh4edit-mit-save-id,0,1
-120,大海龙之斧（红）,Deceadeus (red),mh4g-dex-build7+mh4edit-mit-save-id,0,1
-121,大海龙之斧（黄）,Deceadeus (yellow),mh4g-dex-build7+mh4edit-mit-save-id,0,1
-122,大海龙之斧（绿）,Deceadeus (green),mh4g-dex-build7+mh4edit-mit-save-id,0,1
-123,大海龙之斧（蓝）,Deceadeus (blue),mh4g-dex-build7+mh4edit-mit-save-id,0,1
-124,大海龙之斧（紫）,Deceadeus (purple),mh4g-dex-build7+mh4edit-mit-save-id,0,1
+105,精锐讨伐队盾斧（发掘·红）,Elite Blade (red),mh4g-dex-build7+mh4edit-mit-save-id,0,1
+106,精锐讨伐队盾斧（发掘·黄）,Elite Blade (yellow),mh4g-dex-build7+mh4edit-mit-save-id,0,1
+107,精锐讨伐队盾斧（发掘·绿）,Elite Blade (green),mh4g-dex-build7+mh4edit-mit-save-id,0,1
+108,精锐讨伐队盾斧（发掘·蓝）,Elite Blade (blue),mh4g-dex-build7+mh4edit-mit-save-id,0,1
+109,精锐讨伐队盾斧（发掘·紫）,Elite Blade (purple),mh4g-dex-build7+mh4edit-mit-save-id,0,1
+110,迪亚＝鲁特米斯（发掘·红）,Dear Lutemis (red),mh4g-dex-build7+mh4edit-mit-save-id,0,1
+111,迪亚＝鲁特米斯（发掘·黄）,Dear Lutemis (yellow),mh4g-dex-build7+mh4edit-mit-save-id,0,1
+112,迪亚＝鲁特米斯（发掘·绿）,Dear Lutemis (green),mh4g-dex-build7+mh4edit-mit-save-id,0,1
+113,迪亚＝鲁特米斯（发掘·蓝）,Dear Lutemis (blue),mh4g-dex-build7+mh4edit-mit-save-id,0,1
+114,迪亚＝鲁特米斯（发掘·紫）,Dear Lutemis (purple),mh4g-dex-build7+mh4edit-mit-save-id,0,1
+115,原力of坠落（发掘·红）,Elendskraft (red),mh4g-dex-build7+mh4edit-mit-save-id,0,1
+116,原力of坠落（发掘·黄）,Elendskraft (yellow),mh4g-dex-build7+mh4edit-mit-save-id,0,1
+117,原力of坠落（发掘·绿）,Elendskraft (green),mh4g-dex-build7+mh4edit-mit-save-id,0,1
+118,原力of坠落（发掘·蓝）,Elendskraft (blue),mh4g-dex-build7+mh4edit-mit-save-id,0,1
+119,原力of坠落（发掘·紫）,Elendskraft (purple),mh4g-dex-build7+mh4edit-mit-save-id,0,1
+120,大海龙之斧（发掘·红）,Deceadeus (red),mh4g-dex-build7+mh4edit-mit-save-id,0,1
+121,大海龙之斧（发掘·黄）,Deceadeus (yellow),mh4g-dex-build7+mh4edit-mit-save-id,0,1
+122,大海龙之斧（发掘·绿）,Deceadeus (green),mh4g-dex-build7+mh4edit-mit-save-id,0,1
+123,大海龙之斧（发掘·蓝）,Deceadeus (blue),mh4g-dex-build7+mh4edit-mit-save-id,0,1
+124,大海龙之斧（发掘·紫）,Deceadeus (purple),mh4g-dex-build7+mh4edit-mit-save-id,0,1

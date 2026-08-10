@@ -81,36 +81,36 @@ id,name,english,source,rarity,is_relic
 79,黑龙剑斧,Fatalis's End,mh4g-dex-build7+mh4edit-mit-save-id,7,0
 80,黑灭龙剑斧,Ruiner's Bane,mh4g-dex-build7+mh4edit-mit-save-id,7,0
 81,dummy81,dummy81,mh4edit-mit-save-id-en-fallback,0,0
-82,dummy82,dummy82,mh4edit-mit-save-id-en-fallback,0,0
-83,dummy83,dummy83,mh4edit-mit-save-id-en-fallback,0,0
-84,dummy84,dummy84,mh4edit-mit-save-id-en-fallback,0,0
+82,【日】大海盗Ｊ战斧,[JP] Buccaneer Axe J,mh4g-dex-build7+mh4edit-mit-save-id+mh4g-save-id-dex-crosswalk,6,0
+83,【日】狐之斩斧,[JP] Switch Fox,mh4g-dex-build7+mh4edit-mit-save-id+mh4g-save-id-dex-crosswalk,4,0
+84,【日】特报队专用斧【仙狐】,[JP] Special Corps Axe,mh4g-dex-build7+mh4edit-mit-save-id+mh4g-save-id-dex-crosswalk,6,0
 85,EX布都剑斧,EX Rupture,mh4g-dex-build7+mh4edit-mit-save-id,4,0
 86,EX豪剑斧【伊邪那岐】,EX Izanagi,mh4g-dex-build7+mh4edit-mit-save-id,7,0
-87,Mighty Switch Axe (red),Mighty Switch Axe (red),mh4edit-mit-save-id-en-fallback,0,1
-88,Mighty Switch Axe (yellow),Mighty Switch Axe (yellow),mh4edit-mit-save-id-en-fallback,0,1
-89,Mighty Switch Axe (green),Mighty Switch Axe (green),mh4edit-mit-save-id-en-fallback,0,1
-90,Mighty Switch Axe (blue),Mighty Switch Axe (blue),mh4edit-mit-save-id-en-fallback,0,1
-91,Mighty Switch Axe (purple),Mighty Switch Axe (purple),mh4edit-mit-save-id-en-fallback,0,1
-92,Ｄ・巨斧（红）,Rough Edge (red),mh4g-dex-build7+mh4edit-mit-save-id,0,1
-93,Ｄ・巨斧（黄）,Rough Edge (yellow),mh4g-dex-build7+mh4edit-mit-save-id,0,1
-94,Ｄ・巨斧（绿）,Rough Edge (green),mh4g-dex-build7+mh4edit-mit-save-id,0,1
-95,Ｄ・巨斧（蓝）,Rough Edge (blue),mh4g-dex-build7+mh4edit-mit-save-id,0,1
-96,Ｄ・巨斧（紫）,Rough Edge (purple),mh4g-dex-build7+mh4edit-mit-save-id,0,1
-97,Switch Axe Regnant (red),Switch Axe Regnant (red),mh4edit-mit-save-id-en-fallback,0,1
-98,Switch Axe Regnant (yellow),Switch Axe Regnant (yellow),mh4edit-mit-save-id-en-fallback,0,1
-99,Switch Axe Regnant (green),Switch Axe Regnant (green),mh4edit-mit-save-id-en-fallback,0,1
-100,Switch Axe Regnant (blue),Switch Axe Regnant (blue),mh4edit-mit-save-id-en-fallback,0,1
-101,Switch Axe Regnant (purple),Switch Axe Regnant (purple),mh4edit-mit-save-id-en-fallback,0,1
-102,Hidden Axe (red),Hidden Axe (red),mh4edit-mit-save-id-en-fallback,0,1
-103,Hidden Axe (yellow),Hidden Axe (yellow),mh4edit-mit-save-id-en-fallback,0,1
-104,Hidden Axe (green),Hidden Axe (green),mh4edit-mit-save-id-en-fallback,0,1
-105,Hidden Axe (blue),Hidden Axe (blue),mh4edit-mit-save-id-en-fallback,0,1
-106,Hidden Axe (purple),Hidden Axe (purple),mh4edit-mit-save-id-en-fallback,0,1
-107,龙姬剑斧（红）,Dragonmaiden Axe (red),mh4g-dex-build7+mh4edit-mit-save-id,0,1
-108,龙姬剑斧（黄）,Dragonmaiden Axe (yellow),mh4g-dex-build7+mh4edit-mit-save-id,0,1
-109,龙姬剑斧（绿）,Dragonmaiden Axe (green),mh4g-dex-build7+mh4edit-mit-save-id,0,1
-110,龙姬剑斧（蓝）,Dragonmaiden Axe (blue),mh4g-dex-build7+mh4edit-mit-save-id,0,1
-111,龙姬剑斧（紫）,Dragonmaiden Axe (purple),mh4g-dex-build7+mh4edit-mit-save-id,0,1
+87,豪剑斧（发掘·红）,Mighty Switch Axe (red),mh4g-dex-build7-series-crosswalk+mh4edit-mit-save-id,0,1
+88,豪剑斧（发掘·黄）,Mighty Switch Axe (yellow),mh4g-dex-build7-series-crosswalk+mh4edit-mit-save-id,0,1
+89,豪剑斧（发掘·绿）,Mighty Switch Axe (green),mh4g-dex-build7-series-crosswalk+mh4edit-mit-save-id,0,1
+90,豪剑斧（发掘·蓝）,Mighty Switch Axe (blue),mh4g-dex-build7-series-crosswalk+mh4edit-mit-save-id,0,1
+91,豪剑斧（发掘·紫）,Mighty Switch Axe (purple),mh4g-dex-build7-series-crosswalk+mh4edit-mit-save-id,0,1
+92,Ｄ・巨斧（发掘·红）,Rough Edge (red),mh4g-dex-build7+mh4edit-mit-save-id,0,1
+93,Ｄ・巨斧（发掘·黄）,Rough Edge (yellow),mh4g-dex-build7+mh4edit-mit-save-id,0,1
+94,Ｄ・巨斧（发掘·绿）,Rough Edge (green),mh4g-dex-build7+mh4edit-mit-save-id,0,1
+95,Ｄ・巨斧（发掘·蓝）,Rough Edge (blue),mh4g-dex-build7+mh4edit-mit-save-id,0,1
+96,Ｄ・巨斧（发掘·紫）,Rough Edge (purple),mh4g-dex-build7+mh4edit-mit-save-id,0,1
+97,王剑斧（发掘·红）,Switch Axe Regnant (red),mh4g-dex-build7-series-crosswalk+mh4edit-mit-save-id,0,1
+98,王剑斧（发掘·黄）,Switch Axe Regnant (yellow),mh4g-dex-build7-series-crosswalk+mh4edit-mit-save-id,0,1
+99,王剑斧（发掘·绿）,Switch Axe Regnant (green),mh4g-dex-build7-series-crosswalk+mh4edit-mit-save-id,0,1
+100,王剑斧（发掘·蓝）,Switch Axe Regnant (blue),mh4g-dex-build7-series-crosswalk+mh4edit-mit-save-id,0,1
+101,王剑斧（发掘·紫）,Switch Axe Regnant (purple),mh4g-dex-build7-series-crosswalk+mh4edit-mit-save-id,0,1
+102,迅斧（发掘·红）,Hidden Axe (red),mh3u-se-cn-gpl-v3+mh4edit-mit-save-id,0,1
+103,迅斧（发掘·黄）,Hidden Axe (yellow),mh3u-se-cn-gpl-v3+mh4edit-mit-save-id,0,1
+104,迅斧（发掘·绿）,Hidden Axe (green),mh3u-se-cn-gpl-v3+mh4edit-mit-save-id,0,1
+105,迅斧（发掘·蓝）,Hidden Axe (blue),mh3u-se-cn-gpl-v3+mh4edit-mit-save-id,0,1
+106,迅斧（发掘·紫）,Hidden Axe (purple),mh3u-se-cn-gpl-v3+mh4edit-mit-save-id,0,1
+107,龙姬剑斧（发掘·红）,Dragonmaiden Axe (red),mh4g-dex-build7+mh4edit-mit-save-id,0,1
+108,龙姬剑斧（发掘·黄）,Dragonmaiden Axe (yellow),mh4g-dex-build7+mh4edit-mit-save-id,0,1
+109,龙姬剑斧（发掘·绿）,Dragonmaiden Axe (green),mh4g-dex-build7+mh4edit-mit-save-id,0,1
+110,龙姬剑斧（发掘·蓝）,Dragonmaiden Axe (blue),mh4g-dex-build7+mh4edit-mit-save-id,0,1
+111,龙姬剑斧（发掘·紫）,Dragonmaiden Axe (purple),mh4g-dex-build7+mh4edit-mit-save-id,0,1
 112,将军大斧,General's Strongaxe,mh4g-dex-build7+mh4edit-mit-save-id,8,0
 113,肯克艾斯塔之斧,Conqueress,mh4g-dex-build7+mh4edit-mit-save-id,9,0
 114,血腥疾风冰封改,Galefrost+,mh4g-dex-build7+mh4edit-mit-save-id,8,0
@@ -187,13 +187,13 @@ id,name,english,source,rarity,is_relic
 185,DUMMY,DUMMY,mh4edit-mit-save-id-en-fallback,0,0
 186,Shah Bloodseeker,Shah Bloodseeker,mh4edit-mit-save-id-en-fallback,0,0
 187,Olvid of the Abyss,Olvid of the Abyss,mh4edit-mit-save-id-en-fallback,0,0
-188,Deluge (red),Deluge (red),mh4edit-mit-save-id-en-fallback,0,1
-189,Deluge (yellow),Deluge (yellow),mh4edit-mit-save-id-en-fallback,0,1
-190,Deluge (green),Deluge (green),mh4edit-mit-save-id-en-fallback,0,1
-191,Deluge (blue),Deluge (blue),mh4edit-mit-save-id-en-fallback,0,1
-192,Deluge (purple),Deluge (purple),mh4edit-mit-save-id-en-fallback,0,1
-193,Motor Burst (red),Motor Burst (red),mh4edit-mit-save-id-en-fallback,0,1
-194,Motor Burst (yellow),Motor Burst (yellow),mh4edit-mit-save-id-en-fallback,0,1
-195,Motor Burst (green),Motor Burst (green),mh4edit-mit-save-id-en-fallback,0,1
-196,Motor Burst (blue),Motor Burst (blue),mh4edit-mit-save-id-en-fallback,0,1
-197,Motor Burst (purple),Motor Burst (purple),mh4edit-mit-save-id-en-fallback,0,1
+188,激流斧（发掘·红）,Deluge (red),mh4g-relic-jp-cn-crosswalk+mh4edit-mit-save-id,0,1
+189,激流斧（发掘·黄）,Deluge (yellow),mh4g-relic-jp-cn-crosswalk+mh4edit-mit-save-id,0,1
+190,激流斧（发掘·绿）,Deluge (green),mh4g-relic-jp-cn-crosswalk+mh4edit-mit-save-id,0,1
+191,激流斧（发掘·蓝）,Deluge (blue),mh4g-relic-jp-cn-crosswalk+mh4edit-mit-save-id,0,1
+192,激流斧（发掘·紫）,Deluge (purple),mh4g-relic-jp-cn-crosswalk+mh4edit-mit-save-id,0,1
+193,爆锤爆斧（发掘·红）,Motor Burst (red),mh3u-se-cn-gpl-v3+mh4edit-mit-save-id,0,1
+194,爆锤爆斧（发掘·黄）,Motor Burst (yellow),mh3u-se-cn-gpl-v3+mh4edit-mit-save-id,0,1
+195,爆锤爆斧（发掘·绿）,Motor Burst (green),mh3u-se-cn-gpl-v3+mh4edit-mit-save-id,0,1
+196,爆锤爆斧（发掘·蓝）,Motor Burst (blue),mh3u-se-cn-gpl-v3+mh4edit-mit-save-id,0,1
+197,爆锤爆斧（发掘·紫）,Motor Burst (purple),mh3u-se-cn-gpl-v3+mh4edit-mit-save-id,0,1

@@ -113,8 +113,8 @@ id,name,english,source,rarity,is_relic
 111,Fatalis Buster,Fatalis Buster,mh4g-dex-build7+mh4edit-mit-save-id,7,0
 112,dummy112,dummy112,mh4edit-mit-save-id,0,0
 113,dummy113,dummy113,mh4edit-mit-save-id,0,0
-114,dummy114,dummy114,mh4edit-mit-save-id,0,0
-115,dummy115,dummy115,mh4edit-mit-save-id,0,0
+114,[JP] Thunder Works,[JP] Thunder Works,mh4g-dex-build7+mh4edit-mit-save-id+mh4g-save-id-dex-crosswalk,4,0
+115,[JP] Giga Thunder Works,[JP] Giga Thunder Works,mh4g-dex-build7+mh4edit-mit-save-id+mh4g-save-id-dex-crosswalk,6,0
 116,Hidden Breaker (red),Hidden Breaker (red),mh4edit-mit-save-id,0,1
 117,Hidden Breaker (yellow),Hidden Breaker (yellow),mh4edit-mit-save-id,0,1
 118,Hidden Breaker (green),Hidden Breaker (green),mh4edit-mit-save-id,0,1

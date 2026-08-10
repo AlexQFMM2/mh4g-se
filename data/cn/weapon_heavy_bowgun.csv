@@ -59,16 +59,16 @@ id,name,english,source,rarity,is_relic
 57,黑翼弩阿尔巴达斯,Albadash,mh4g-dex-build7+mh4edit-mit-save-id,7,0
 58,熔岩加农炮,Vor Cannon,mh4g-dex-build7+mh4edit-mit-save-id,6,0
 59,熔岩毁灭者,Vor Buster,mh4g-dex-build7+mh4edit-mit-save-id,7,0
-60,决斗重弩（红）,Dual Threat (red),mh4g-dex-build7+mh4edit-mit-save-id,0,1
-61,决斗重弩（黄）,Dual Threat (yellow),mh4g-dex-build7+mh4edit-mit-save-id,0,1
-62,决斗重弩（绿）,Dual Threat (green),mh4g-dex-build7+mh4edit-mit-save-id,0,1
-63,决斗重弩（蓝）,Dual Threat (blue),mh4g-dex-build7+mh4edit-mit-save-id,0,1
-64,决斗重弩（紫）,Dual Threat (purple),mh4g-dex-build7+mh4edit-mit-save-id,0,1
-65,混沌之翼（红）,Chaos Wing (red),mh4g-dex-build7+mh4edit-mit-save-id,0,1
-66,混沌之翼（黄）,Chaos Wing (yellow),mh4g-dex-build7+mh4edit-mit-save-id,0,1
-67,混沌之翼（绿）,Chaos Wing (green),mh4g-dex-build7+mh4edit-mit-save-id,0,1
-68,混沌之翼（蓝）,Chaos Wing (blue),mh4g-dex-build7+mh4edit-mit-save-id,0,1
-69,混沌之翼（紫）,Chaos Wing (purple),mh4g-dex-build7+mh4edit-mit-save-id,0,1
+60,决斗重弩（发掘·红）,Dual Threat (red),mh4g-dex-build7+mh4edit-mit-save-id,0,1
+61,决斗重弩（发掘·黄）,Dual Threat (yellow),mh4g-dex-build7+mh4edit-mit-save-id,0,1
+62,决斗重弩（发掘·绿）,Dual Threat (green),mh4g-dex-build7+mh4edit-mit-save-id,0,1
+63,决斗重弩（发掘·蓝）,Dual Threat (blue),mh4g-dex-build7+mh4edit-mit-save-id,0,1
+64,决斗重弩（发掘·紫）,Dual Threat (purple),mh4g-dex-build7+mh4edit-mit-save-id,0,1
+65,混沌之翼（发掘·红）,Chaos Wing (red),mh4g-dex-build7+mh4edit-mit-save-id,0,1
+66,混沌之翼（发掘·黄）,Chaos Wing (yellow),mh4g-dex-build7+mh4edit-mit-save-id,0,1
+67,混沌之翼（发掘·绿）,Chaos Wing (green),mh4g-dex-build7+mh4edit-mit-save-id,0,1
+68,混沌之翼（发掘·蓝）,Chaos Wing (blue),mh4g-dex-build7+mh4edit-mit-save-id,0,1
+69,混沌之翼（发掘·紫）,Chaos Wing (purple),mh4g-dex-build7+mh4edit-mit-save-id,0,1
 70,铁花火・弩首领破,Tetsu Pyrotechnus,mh4g-dex-build7+mh4edit-mit-save-id,8,0
 71,星花火・弩首领破把,Tetsu Pyropinnacle,mh4g-dex-build7+mh4edit-mit-save-id,9,0
 72,后妃龙炮【樱花】,Empress's Blossom,mh4g-dex-build7+mh4edit-mit-save-id,8,0
@@ -144,15 +144,15 @@ id,name,english,source,rarity,is_relic
 142,DUMMY,DUMMY,mh4edit-mit-save-id-en-fallback,0,0
 143,DUMMY,DUMMY,mh4edit-mit-save-id-en-fallback,0,0
 144,DUMMY,DUMMY,mh4edit-mit-save-id-en-fallback,0,0
-145,Gigant Launcher (red),Gigant Launcher (red),mh4edit-mit-save-id-en-fallback,0,1
-146,Gigant Launcher (yellow),Gigant Launcher (yellow),mh4edit-mit-save-id-en-fallback,0,1
-147,Gigant Launcher (green),Gigant Launcher (green),mh4edit-mit-save-id-en-fallback,0,1
-148,Gigant Launcher (blue),Gigant Launcher (blue),mh4edit-mit-save-id-en-fallback,0,1
-149,Gigant Launcher (purple),Gigant Launcher (purple),mh4edit-mit-save-id-en-fallback,0,1
-150,Cahoe (red),Cahoe (red),mh4edit-mit-save-id-en-fallback,0,1
-151,Cahoe (yellow),Cahoe (yellow),mh4edit-mit-save-id-en-fallback,0,1
-152,Cahoe (green),Cahoe (green),mh4edit-mit-save-id-en-fallback,0,1
-153,Cahoe (blue),Cahoe (blue),mh4edit-mit-save-id-en-fallback,0,1
-154,Cahoe (purple),Cahoe (purple),mh4edit-mit-save-id-en-fallback,0,1
+145,巨人射手（发掘·红）,Gigant Launcher (red),mh3u-se-cn-gpl-v3+mh4edit-mit-save-id,0,1
+146,巨人射手（发掘·黄）,Gigant Launcher (yellow),mh3u-se-cn-gpl-v3+mh4edit-mit-save-id,0,1
+147,巨人射手（发掘·绿）,Gigant Launcher (green),mh3u-se-cn-gpl-v3+mh4edit-mit-save-id,0,1
+148,巨人射手（发掘·蓝）,Gigant Launcher (blue),mh3u-se-cn-gpl-v3+mh4edit-mit-save-id,0,1
+149,巨人射手（发掘·紫）,Gigant Launcher (purple),mh3u-se-cn-gpl-v3+mh4edit-mit-save-id,0,1
+150,火炮（发掘·红）,Cahoe (red),mh4g-relic-jp-cn-crosswalk+mh4edit-mit-save-id,0,1
+151,火炮（发掘·黄）,Cahoe (yellow),mh4g-relic-jp-cn-crosswalk+mh4edit-mit-save-id,0,1
+152,火炮（发掘·绿）,Cahoe (green),mh4g-relic-jp-cn-crosswalk+mh4edit-mit-save-id,0,1
+153,火炮（发掘·蓝）,Cahoe (blue),mh4g-relic-jp-cn-crosswalk+mh4edit-mit-save-id,0,1
+154,火炮（发掘·紫）,Cahoe (purple),mh4g-relic-jp-cn-crosswalk+mh4edit-mit-save-id,0,1
 155,Giant Pan,Giant Pan,mh4edit-mit-save-id-en-fallback,0,0
 156,Romea Crossbow,Romea Crossbow,mh4edit-mit-save-id-en-fallback,0,0

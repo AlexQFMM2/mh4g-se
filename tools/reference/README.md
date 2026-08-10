@@ -16,3 +16,22 @@ python3 tools/reference/import_mh4edit_ids.py \
   /path/to/mh4edit/MonHunEquipStatic.cs \
   tools/reference/mh4edit_save_ids.json
 ```
+
+## MH4G weapon-name crosswalk
+
+`mh4g_weapon_name_crosswalk.json` fills two gaps that cannot be resolved by an
+English-name join alone:
+
+- 41 ordinary save IDs are linked to Dex weapon IDs after exact comparison of
+  the Japanese names. The generated Chinese and English names still come from
+  MH4G Dex Build 7.
+- Relic appearance names do not exist as standalone rows in the Dex weapon
+  table. Their compact Chinese names are recorded explicitly. Names shared with
+  `mh3u-se` retain that GPL-v3 source marker; the rest use Dex series terminology
+  or a reviewed Japanese-to-Chinese name crosswalk.
+- The 435 relic save IDs are recorded as explicit per-weapon-type ranges. A
+  parenthesized color in an ordinary weapon name (for example `Shotgun
+  (Green)`) is therefore never mistaken for a relic marker.
+
+The upstream `MHsavEditor` equipment list was used only to verify factual
+save-ID/Japanese-name correspondence. Its code and data are not redistributed.

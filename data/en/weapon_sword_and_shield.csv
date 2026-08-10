@@ -15,7 +15,7 @@ id,name,english,source,rarity,is_relic
 13,Le Détecteur,Le Détecteur,mh4g-dex-build7+mh4edit-mit-save-id,7,0
 14,Princess Rapier,Princess Rapier,mh4g-dex-build7+mh4edit-mit-save-id,2,0
 15,Queen Rapier,Queen Rapier,mh4g-dex-build7+mh4edit-mit-save-id,3,0
-16,Queen Rose,Queen Rose,mh4edit-mit-save-id,0,0
+16,Queen's Rose,Queen's Rose,mh4g-dex-build7+mh4edit-mit-save-id+mh4g-save-id-dex-crosswalk,5,0
 17,Royal Rose,Royal Rose,mh4g-dex-build7+mh4edit-mit-save-id,6,0
 18,Velocidrome Bite,Velocidrome Bite,mh4g-dex-build7+mh4edit-mit-save-id,1,0
 19,Velocidrome Bite+,Velocidrome Bite+,mh4g-dex-build7+mh4edit-mit-save-id,2,0
@@ -55,7 +55,7 @@ id,name,english,source,rarity,is_relic
 53,Chief Kris,Chief Kris,mh4g-dex-build7+mh4edit-mit-save-id,1,0
 54,Sharkutter,Sharkutter,mh4g-dex-build7+mh4edit-mit-save-id,2,0
 55,Sharkutter+,Sharkutter+,mh4g-dex-build7+mh4edit-mit-save-id,3,0
-56,Sharlin Sword,Sharlin Sword,mh4edit-mit-save-id,0,0
+56,Sharfin Sword,Sharfin Sword,mh4g-dex-build7+mh4edit-mit-save-id+mh4g-save-id-dex-crosswalk,5,0
 57,Sharfinisher,Sharfinisher,mh4g-dex-build7+mh4edit-mit-save-id,6,0
 58,Rex Talon,Rex Talon,mh4g-dex-build7+mh4edit-mit-save-id,3,0
 59,Tigrex Sword,Tigrex Sword,mh4g-dex-build7+mh4edit-mit-save-id,5,0
@@ -69,12 +69,12 @@ id,name,english,source,rarity,is_relic
 67,Dual Cross Brand,Dual Cross Brand,mh4g-dex-build7+mh4edit-mit-save-id,6,0
 68,Flame Syphos,Flame Syphos,mh4g-dex-build7+mh4edit-mit-save-id,3,0
 69,Flame Syphos+,Flame Syphos+,mh4g-dex-build7+mh4edit-mit-save-id,4,0
-70,Black Dorn Flame,Black Dorn Flame,mh4edit-mit-save-id,0,0
+70,Black Doom Flame,Black Doom Flame,mh4g-dex-build7+mh4edit-mit-save-id+mh4g-save-id-dex-crosswalk,6,0
 71,Scaly Sword,Scaly Sword,mh4g-dex-build7+mh4edit-mit-save-id,2,0
 72,Scaly Sword+,Scaly Sword+,mh4g-dex-build7+mh4edit-mit-save-id,3,0
 73,Bloodscale Sword,Bloodscale Sword,mh4g-dex-build7+mh4edit-mit-save-id,4,0
 74,Bloodsquama Sword,Bloodsquama Sword,mh4g-dex-build7+mh4edit-mit-save-id,6,0
-75,Ludroth Nail,Ludroth Nail,mh4edit-mit-save-id,0,0
+75,Ludroth's Nail,Ludroth's Nail,mh4g-dex-build7+mh4edit-mit-save-id+mh4g-save-id-dex-crosswalk,2,0
 76,Royal Claw,Royal Claw,mh4g-dex-build7+mh4edit-mit-save-id,2,0
 77,Odyssey,Odyssey,mh4g-dex-build7+mh4edit-mit-save-id,4,0
 78,Odyssey Blade,Odyssey Blade,mh4g-dex-build7+mh4edit-mit-save-id,5,0
@@ -86,13 +86,13 @@ id,name,english,source,rarity,is_relic
 84,Plesioth Finspike,Plesioth Finspike,mh4g-dex-build7+mh4edit-mit-save-id,2,0
 85,Plesioth Finspike+,Plesioth Finspike+,mh4g-dex-build7+mh4edit-mit-save-id,3,0
 86,Plesioth Direspike,Plesioth Direspike,mh4g-dex-build7+mh4edit-mit-save-id,5,0
-87,Hero Blade,Hero Blade,mh4edit-mit-save-id,0,0
-88,Master Blade,Master Blade,mh4edit-mit-save-id,0,0
+87,Heroic Blade,Heroic Blade,mh4g-dex-build7+mh4edit-mit-save-id+mh4g-save-id-dex-crosswalk,6,0
+88,Master's Blade,Master's Blade,mh4g-dex-build7+mh4edit-mit-save-id+mh4g-save-id-dex-crosswalk,7,0
 89,Rusted Sword,Rusted Sword,mh4g-dex-build7+mh4edit-mit-save-id,2,0
 90,Tarnished Sword,Tarnished Sword,mh4g-dex-build7+mh4edit-mit-save-id,3,0
 91,Eternal Strife,Eternal Strife,mh4g-dex-build7+mh4edit-mit-save-id,4,0
 92,Eternal Hate,Eternal Hate,mh4g-dex-build7+mh4edit-mit-save-id,5,0
-93,Steel Ice Dagger,Steel Ice Dagger,mh4edit-mit-save-id,0,0
+93,Icesteel Dagger,Icesteel Dagger,mh4g-dex-build7+mh4edit-mit-save-id+mh4g-save-id-dex-crosswalk,6,0
 94,Daora's Razor,Daora's Razor,mh4g-dex-build7+mh4edit-mit-save-id,7,0
 95,Worn Sword,Worn Sword,mh4g-dex-build7+mh4edit-mit-save-id,5,0
 96,Weathered Sword,Weathered Sword,mh4g-dex-build7+mh4edit-mit-save-id,5,0
@@ -106,7 +106,7 @@ id,name,english,source,rarity,is_relic
 104,The Antimonial Haven,The Antimonial Haven,mh4g-dex-build7+mh4edit-mit-save-id,7,0
 105,Fatalis Sword,Fatalis Sword,mh4g-dex-build7+mh4edit-mit-save-id,7,0
 106,Ruiner Sword,Ruiner Sword,mh4g-dex-build7+mh4edit-mit-save-id,7,0
-107,dummy107,dummy107,mh4edit-mit-save-id,0,0
+107,[JP] Levindicator,[JP] Levindicator,mh4g-dex-build7+mh4edit-mit-save-id+mh4g-save-id-dex-crosswalk,4,0
 108,Hero's Sword,Hero's Sword,mh4g-dex-build7+mh4edit-mit-save-id,5,0
 109,Master Sword,Master Sword,mh4g-dex-build7+mh4edit-mit-save-id,7,0
 110,EX Poise,EX Poise,mh4g-dex-build7+mh4edit-mit-save-id,4,0
@@ -230,9 +230,9 @@ id,name,english,source,rarity,is_relic
 228,Kyrie Ruin,Kyrie Ruin,mh4g-dex-build7+mh4edit-mit-save-id,10,0
 229,Black Belt Sword,Black Belt Sword,mh4g-dex-build7+mh4edit-mit-save-id,9,0
 230,Master Sword G,Master Sword G,mh4g-dex-build7+mh4edit-mit-save-id,10,0
-231,dummy231,dummy231,mh4edit-mit-save-id,0,0
+231,[JP] Inazuma Works,[JP] Inazuma Works,mh4g-dex-build7+mh4edit-mit-save-id+mh4g-save-id-dex-crosswalk,10,0
 232,Star Knight Sword,Star Knight Sword,mh4g-dex-build7+mh4edit-mit-save-id,10,0
-233,dummy233,dummy233,mh4edit-mit-save-id,0,0
+233,[JP] 刃折れの剣,[JP] 刃折れの剣,mh4g-dex-build7+mh4edit-mit-save-id+mh4g-save-id-dex-crosswalk,10,0
 234,Ms. M.H. Puppet,Ms. M.H. Puppet,mh4g-dex-build7+mh4edit-mit-save-id,10,0
 235,Saint Luxseed,Saint Luxseed,mh4edit-mit-save-id,0,0
 236,Demon Valkcreed,Demon Valkcreed,mh4edit-mit-save-id,0,0

@@ -137,25 +137,25 @@ id,name,english,source,rarity,is_relic
 135,dummy135,dummy135,mh4edit-mit-save-id-en-fallback,0,0
 136,dummy136,dummy136,mh4edit-mit-save-id-en-fallback,0,0
 137,dummy137,dummy137,mh4edit-mit-save-id-en-fallback,0,0
-138,骨棍（红）,Bone Staff (red),mh4g-dex-build7+mh4edit-mit-save-id,0,1
-139,骨棍（黄）,Bone Staff (yellow),mh4g-dex-build7+mh4edit-mit-save-id,0,1
-140,骨棍（绿）,Bone Staff (green),mh4g-dex-build7+mh4edit-mit-save-id,0,1
-141,骨棍（蓝）,Bone Staff (blue),mh4g-dex-build7+mh4edit-mit-save-id,0,1
-142,骨棍（紫）,Bone Staff (purple),mh4g-dex-build7+mh4edit-mit-save-id,0,1
-143,金碎棍棒（红）,Metal Mauler (red),mh4g-dex-build7+mh4edit-mit-save-id,0,1
-144,金碎棍棒（黄）,Metal Mauler (yellow),mh4g-dex-build7+mh4edit-mit-save-id,0,1
-145,金碎棍棒（绿）,Metal Mauler (green),mh4g-dex-build7+mh4edit-mit-save-id,0,1
-146,金碎棍棒（蓝）,Metal Mauler (blue),mh4g-dex-build7+mh4edit-mit-save-id,0,1
-147,金碎棍棒（紫）,Metal Mauler (purple),mh4g-dex-build7+mh4edit-mit-save-id,0,1
-148,准心of戏法（红）,Leumundslist (red),mh4g-dex-build7+mh4edit-mit-save-id,0,1
-149,准心of戏法（黄）,Leumundslist (yellow),mh4g-dex-build7+mh4edit-mit-save-id,0,1
-150,准心of戏法（绿）,Leumundslist (green),mh4g-dex-build7+mh4edit-mit-save-id,0,1
-151,准心of戏法（蓝）,Leumundslist (blue),mh4g-dex-build7+mh4edit-mit-save-id,0,1
-152,准心of戏法（紫）,Leumundslist (purple),mh4g-dex-build7+mh4edit-mit-save-id,0,1
-153,甲虫曲棍（红）,Sect Happa (red),mh4g-dex-build7+mh4edit-mit-save-id,0,1
-154,甲虫曲棍（黄）,Sect Happa (yellow),mh4g-dex-build7+mh4edit-mit-save-id,0,1
-155,甲虫曲棍（绿）,Sect Happa (green),mh4g-dex-build7+mh4edit-mit-save-id,0,1
-156,甲虫曲棍（蓝）,Sect Happa (blue),mh4g-dex-build7+mh4edit-mit-save-id,0,1
-157,甲虫曲棍（紫）,Sect Happa (purple),mh4g-dex-build7+mh4edit-mit-save-id,0,1
+138,骨棍（发掘·红）,Bone Staff (red),mh4g-dex-build7+mh4edit-mit-save-id,0,1
+139,骨棍（发掘·黄）,Bone Staff (yellow),mh4g-dex-build7+mh4edit-mit-save-id,0,1
+140,骨棍（发掘·绿）,Bone Staff (green),mh4g-dex-build7+mh4edit-mit-save-id,0,1
+141,骨棍（发掘·蓝）,Bone Staff (blue),mh4g-dex-build7+mh4edit-mit-save-id,0,1
+142,骨棍（发掘·紫）,Bone Staff (purple),mh4g-dex-build7+mh4edit-mit-save-id,0,1
+143,金碎棍棒（发掘·红）,Metal Mauler (red),mh4g-dex-build7+mh4edit-mit-save-id,0,1
+144,金碎棍棒（发掘·黄）,Metal Mauler (yellow),mh4g-dex-build7+mh4edit-mit-save-id,0,1
+145,金碎棍棒（发掘·绿）,Metal Mauler (green),mh4g-dex-build7+mh4edit-mit-save-id,0,1
+146,金碎棍棒（发掘·蓝）,Metal Mauler (blue),mh4g-dex-build7+mh4edit-mit-save-id,0,1
+147,金碎棍棒（发掘·紫）,Metal Mauler (purple),mh4g-dex-build7+mh4edit-mit-save-id,0,1
+148,准心of戏法（发掘·红）,Leumundslist (red),mh4g-dex-build7+mh4edit-mit-save-id,0,1
+149,准心of戏法（发掘·黄）,Leumundslist (yellow),mh4g-dex-build7+mh4edit-mit-save-id,0,1
+150,准心of戏法（发掘·绿）,Leumundslist (green),mh4g-dex-build7+mh4edit-mit-save-id,0,1
+151,准心of戏法（发掘·蓝）,Leumundslist (blue),mh4g-dex-build7+mh4edit-mit-save-id,0,1
+152,准心of戏法（发掘·紫）,Leumundslist (purple),mh4g-dex-build7+mh4edit-mit-save-id,0,1
+153,甲虫曲棍（发掘·红）,Sect Happa (red),mh4g-dex-build7+mh4edit-mit-save-id,0,1
+154,甲虫曲棍（发掘·黄）,Sect Happa (yellow),mh4g-dex-build7+mh4edit-mit-save-id,0,1
+155,甲虫曲棍（发掘·绿）,Sect Happa (green),mh4g-dex-build7+mh4edit-mit-save-id,0,1
+156,甲虫曲棍（发掘·蓝）,Sect Happa (blue),mh4g-dex-build7+mh4edit-mit-save-id,0,1
+157,甲虫曲棍（发掘·紫）,Sect Happa (purple),mh4g-dex-build7+mh4edit-mit-save-id,0,1
 158,Dancing Mad,Dancing Mad,mh4edit-mit-save-id-en-fallback,0,0
 159,Hades Shinerod,Hades Shinerod,mh4edit-mit-save-id-en-fallback,0,0

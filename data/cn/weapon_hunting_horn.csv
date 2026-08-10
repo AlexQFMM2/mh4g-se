@@ -77,29 +77,29 @@ id,name,english,source,rarity,is_relic
 75,寄宿睨眼的战曲器,Veilglare Hymn,mh4g-dex-build7+mh4edit-mit-save-id,6,0
 76,响彻天外的音乐,The Ascending Strain,mh4g-dex-build7+mh4edit-mit-save-id,7,0
 77,黑笛,Fatalis Menace,mh4g-dex-build7+mh4edit-mit-save-id,7,0
-78,dummy78,dummy78,mh4edit-mit-save-id-en-fallback,0,0
-79,dummy79,dummy79,mh4edit-mit-save-id-en-fallback,0,0
+78,【日】银钥匙,[JP] 銀の匙,mh4g-dex-build7+mh4edit-mit-save-id+mh4g-save-id-dex-crosswalk,4,0
+79,【日】雷霆万钧笛,[JP] Blitz Works,mh4g-dex-build7+mh4edit-mit-save-id+mh4g-save-id-dex-crosswalk,6,0
 80,应援团笛【大角】,Megaphone,mh4g-dex-build7+mh4edit-mit-save-id,6,0
-81,刚兹＝洛克（红）,Basarios Rock (red),mh4g-dex-build7+mh4edit-mit-save-id,0,1
-82,刚兹＝洛克（黄）,Basarios Rock (yellow),mh4g-dex-build7+mh4edit-mit-save-id,0,1
-83,刚兹＝洛克（绿）,Basarios Rock (green),mh4g-dex-build7+mh4edit-mit-save-id,0,1
-84,刚兹＝洛克（蓝）,Basarios Rock (blue),mh4g-dex-build7+mh4edit-mit-save-id,0,1
-85,刚兹＝洛克（紫）,Basarios Rock (purple),mh4g-dex-build7+mh4edit-mit-save-id,0,1
-86,Hellstrings (red),Hellstrings (red),mh4edit-mit-save-id-en-fallback,0,1
-87,Hellstrings (yellow),Hellstrings (yellow),mh4edit-mit-save-id-en-fallback,0,1
-88,Hellstrings (green),Hellstrings (green),mh4edit-mit-save-id-en-fallback,0,1
-89,Hellstrings (blue),Hellstrings (blue),mh4edit-mit-save-id-en-fallback,0,1
-90,Hellstrings (purple),Hellstrings (purple),mh4edit-mit-save-id-en-fallback,0,1
-91,Swell Shell (red),Swell Shell (red),mh4edit-mit-save-id-en-fallback,0,1
-92,Swell Shell (yellow),Swell Shell (yellow),mh4edit-mit-save-id-en-fallback,0,1
-93,Swell Shell (green),Swell Shell (green),mh4edit-mit-save-id-en-fallback,0,1
-94,Swell Shell (blue),Swell Shell (blue),mh4edit-mit-save-id-en-fallback,0,1
-95,Swell Shell (purple),Swell Shell (purple),mh4edit-mit-save-id-en-fallback,0,1
-96,金笛（红）,Gold Chordmaker (red),mh4g-dex-build7+mh4edit-mit-save-id,0,1
-97,金笛（黄）,Gold Chordmaker (yellow),mh4g-dex-build7+mh4edit-mit-save-id,0,1
-98,金笛（绿）,Gold Chordmaker (green),mh4g-dex-build7+mh4edit-mit-save-id,0,1
-99,金笛（蓝）,Gold Chordmaker (blue),mh4g-dex-build7+mh4edit-mit-save-id,0,1
-100,金笛（紫）,Gold Chordmaker (purple),mh4g-dex-build7+mh4edit-mit-save-id,0,1
+81,刚兹＝洛克（发掘·红）,Basarios Rock (red),mh4g-dex-build7+mh4edit-mit-save-id,0,1
+82,刚兹＝洛克（发掘·黄）,Basarios Rock (yellow),mh4g-dex-build7+mh4edit-mit-save-id,0,1
+83,刚兹＝洛克（发掘·绿）,Basarios Rock (green),mh4g-dex-build7+mh4edit-mit-save-id,0,1
+84,刚兹＝洛克（发掘·蓝）,Basarios Rock (blue),mh4g-dex-build7+mh4edit-mit-save-id,0,1
+85,刚兹＝洛克（发掘·紫）,Basarios Rock (purple),mh4g-dex-build7+mh4edit-mit-save-id,0,1
+86,狱琴（发掘·红）,Hellstrings (red),mh4g-dex-build7-series-crosswalk+mh4edit-mit-save-id,0,1
+87,狱琴（发掘·黄）,Hellstrings (yellow),mh4g-dex-build7-series-crosswalk+mh4edit-mit-save-id,0,1
+88,狱琴（发掘·绿）,Hellstrings (green),mh4g-dex-build7-series-crosswalk+mh4edit-mit-save-id,0,1
+89,狱琴（发掘·蓝）,Hellstrings (blue),mh4g-dex-build7-series-crosswalk+mh4edit-mit-save-id,0,1
+90,狱琴（发掘·紫）,Hellstrings (purple),mh4g-dex-build7-series-crosswalk+mh4edit-mit-save-id,0,1
+91,卷贝壳笛（发掘·红）,Swell Shell (red),mh3u-se-cn-gpl-v3+mh4edit-mit-save-id,0,1
+92,卷贝壳笛（发掘·黄）,Swell Shell (yellow),mh3u-se-cn-gpl-v3+mh4edit-mit-save-id,0,1
+93,卷贝壳笛（发掘·绿）,Swell Shell (green),mh3u-se-cn-gpl-v3+mh4edit-mit-save-id,0,1
+94,卷贝壳笛（发掘·蓝）,Swell Shell (blue),mh3u-se-cn-gpl-v3+mh4edit-mit-save-id,0,1
+95,卷贝壳笛（发掘·紫）,Swell Shell (purple),mh3u-se-cn-gpl-v3+mh4edit-mit-save-id,0,1
+96,金笛（发掘·红）,Gold Chordmaker (red),mh4g-dex-build7+mh4edit-mit-save-id,0,1
+97,金笛（发掘·黄）,Gold Chordmaker (yellow),mh4g-dex-build7+mh4edit-mit-save-id,0,1
+98,金笛（发掘·绿）,Gold Chordmaker (green),mh4g-dex-build7+mh4edit-mit-save-id,0,1
+99,金笛（发掘·蓝）,Gold Chordmaker (blue),mh4g-dex-build7+mh4edit-mit-save-id,0,1
+100,金笛（发掘·紫）,Gold Chordmaker (purple),mh4g-dex-build7+mh4edit-mit-save-id,0,1
 101,最强音改,Sforzando+,mh4g-dex-build7+mh4edit-mit-save-id,8,0
 102,终极强音,Rinforzato,mh4g-dex-build7+mh4edit-mit-save-id,9,0
 103,THE狂欢,La Joie,mh4g-dex-build7+mh4edit-mit-save-id,9,0
@@ -174,13 +174,13 @@ id,name,english,source,rarity,is_relic
 172,DUMMY,DUMMY,mh4edit-mit-save-id-en-fallback,0,0
 173,Scorpion Lute,Scorpion Lute,mh4edit-mit-save-id-en-fallback,0,0
 174,Endless Loop,Endless Loop,mh4edit-mit-save-id-en-fallback,0,0
-175,Sonic Glass (red),Sonic Glass (red),mh4edit-mit-save-id-en-fallback,0,1
-176,Sonic Glass (yellow),Sonic Glass (yellow),mh4edit-mit-save-id-en-fallback,0,1
-177,Sonic Glass (green),Sonic Glass (green),mh4edit-mit-save-id-en-fallback,0,1
-178,Sonic Glass (blue),Sonic Glass (blue),mh4edit-mit-save-id-en-fallback,0,1
-179,Sonic Glass (purple),Sonic Glass (purple),mh4edit-mit-save-id-en-fallback,0,1
-180,Hidden Harmonic (red),Hidden Harmonic (red),mh4edit-mit-save-id-en-fallback,0,1
-181,Hidden Harmonic (yellow),Hidden Harmonic (yellow),mh4edit-mit-save-id-en-fallback,0,1
-182,Hidden Harmonic (green),Hidden Harmonic (green),mh4edit-mit-save-id-en-fallback,0,1
-183,Hidden Harmonic (blue),Hidden Harmonic (blue),mh4edit-mit-save-id-en-fallback,0,1
-184,Hidden Harmonic (purple),Hidden Harmonic (purple),mh4edit-mit-save-id-en-fallback,0,1
+175,音速玻璃笛（发掘·红）,Sonic Glass (red),mh4g-relic-jp-cn-crosswalk+mh4edit-mit-save-id,0,1
+176,音速玻璃笛（发掘·黄）,Sonic Glass (yellow),mh4g-relic-jp-cn-crosswalk+mh4edit-mit-save-id,0,1
+177,音速玻璃笛（发掘·绿）,Sonic Glass (green),mh4g-relic-jp-cn-crosswalk+mh4edit-mit-save-id,0,1
+178,音速玻璃笛（发掘·蓝）,Sonic Glass (blue),mh4g-relic-jp-cn-crosswalk+mh4edit-mit-save-id,0,1
+179,音速玻璃笛（发掘·紫）,Sonic Glass (purple),mh4g-relic-jp-cn-crosswalk+mh4edit-mit-save-id,0,1
+180,迅龙笛（发掘·红）,Hidden Harmonic (red),mh3u-se-cn-gpl-v3+mh4edit-mit-save-id,0,1
+181,迅龙笛（发掘·黄）,Hidden Harmonic (yellow),mh3u-se-cn-gpl-v3+mh4edit-mit-save-id,0,1
+182,迅龙笛（发掘·绿）,Hidden Harmonic (green),mh3u-se-cn-gpl-v3+mh4edit-mit-save-id,0,1
+183,迅龙笛（发掘·蓝）,Hidden Harmonic (blue),mh3u-se-cn-gpl-v3+mh4edit-mit-save-id,0,1
+184,迅龙笛（发掘·紫）,Hidden Harmonic (purple),mh3u-se-cn-gpl-v3+mh4edit-mit-save-id,0,1

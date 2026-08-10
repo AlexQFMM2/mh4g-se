@@ -16,11 +16,12 @@ from pathlib import Path
 from typing import Iterable
 
 
-GENERATOR_VERSION = "1.0.0"
+GENERATOR_VERSION = "1.1.0"
 DEX_SOURCE = "mh4g-dex-build7"
 DEX_FALLBACK_SOURCE = "mh4g-dex-build7-en-fallback"
 REFERENCE_SOURCE = "mh4edit-mit-save-id"
 REFERENCE_FALLBACK_SOURCE = "mh4edit-mit-save-id-en-fallback"
+SAVE_ID_CROSSWALK_SOURCE = "mh4g-save-id-dex-crosswalk"
 SAVE_FORMAT_SOURCE = "mh4g-save-format"
 
 BASE_COLUMNS = ("id", "name", "english", "source")
@@ -212,7 +213,9 @@ def make_decorations(
     return result, unmatched
 
 
-def equipment_candidates(sql_dir: Path, mapping: dict, spec: dict) -> dict[str, list[dict[str, str]]]:
+def equipment_candidates(
+    sql_dir: Path, mapping: dict, spec: dict
+) -> tuple[dict[str, list[dict[str, str]]], dict[int, dict[str, str]]]:
     table_spec = mapping["tables"][spec["kind"] + ("s" if spec["kind"] == "weapon" else "")]
     rows = joined_rows(
         read_csv(sql_dir / table_spec["data"]),
@@ -226,7 +229,8 @@ def equipment_candidates(sql_dir: Path, mapping: dict, spec: dict) -> dict[str, 
         result[normalized_name(row[f"{table_spec['name_prefix']}0"])].append(row)
     for candidates in result.values():
         candidates.sort(key=lambda row: decimal(row[table_spec["id"]]))
-    return result
+    by_id = {decimal(row[table_spec["id"]]): row for row in filtered}
+    return result, by_id
 
 
 def split_relic_name(name: str) -> tuple[str, str | None]:
@@ -238,16 +242,21 @@ def make_equipment(
     sql_dir: Path,
     mapping: dict,
     reference: dict,
+    weapon_crosswalk: dict,
     spec: dict,
     language: str,
     language_index: int,
 ) -> tuple[list[dict[str, object]], dict[str, int]]:
     table_spec = mapping["tables"][spec["kind"] + ("s" if spec["kind"] == "weapon" else "")]
-    candidates = equipment_candidates(sql_dir, mapping, spec)
+    candidates, candidates_by_id = equipment_candidates(sql_dir, mapping, spec)
     reference_names = reference["arrays"][spec["reference_array"]]
     result = []
     matched = 0
     relics = 0
+    save_id_dex_matches = 0
+    relic_cn_matches = 0
+    relic_id_spec = weapon_crosswalk["relic_save_ids"].get(str(spec["save_type"]))
+    relic_ids = set(equipment_type_values(relic_id_spec)) if relic_id_spec else set()
     for identifier, reference_english in enumerate(reference_names):
         if identifier == 0:
             result.append({
@@ -259,17 +268,26 @@ def make_equipment(
                 "is_relic": 0,
             })
             continue
-        base_english, color = split_relic_name(reference_english)
-        is_relic = color is not None
+        is_relic = identifier in relic_ids
+        base_english, color = split_relic_name(reference_english) if is_relic else (reference_english, None)
+        if is_relic and color is None:
+            raise ValueError(f"relic weapon {spec['save_type']}:{identifier} has no color suffix")
         relics += int(is_relic)
         choices = candidates.get(normalized_name(base_english), [])
+        save_key = f"{spec['save_type']}:{identifier}"
+        dex_id = weapon_crosswalk["ordinary_dex_ids"].get(save_key)
+        if not is_relic and dex_id is not None:
+            if dex_id not in candidates_by_id:
+                raise ValueError(f"weapon crosswalk {save_key} points outside its Dex weapon type: {dex_id}")
+            choices = [candidates_by_id[dex_id]]
+            save_id_dex_matches += 1
         if choices:
             matched += 1
             row = choices[0]
             name, dex_english, fallback = localized_name(row, table_spec["name_prefix"], language_index)
             if is_relic:
                 english = reference_english
-                name = f"{name}（{COLOR_SUFFIXES[color]}）" if language == "cn" else english
+                name = f"{name}（发掘·{COLOR_SUFFIXES[color]}）" if language == "cn" else english
                 rarity = 0
             else:
                 english = dex_english
@@ -277,11 +295,21 @@ def make_equipment(
                     name = english
                 rarity = decimal(row[table_spec["rarity"]])
             source = source_name(DEX_SOURCE, fallback) + "+" + REFERENCE_SOURCE
+            if dex_id is not None:
+                source += "+" + SAVE_ID_CROSSWALK_SOURCE
         else:
-            name = reference_english
-            english = reference_english
-            rarity = 0
-            source = REFERENCE_FALLBACK_SOURCE if language == "cn" else REFERENCE_SOURCE
+            relic_name = weapon_crosswalk["relic_base_names"].get(base_english) if is_relic else None
+            if relic_name is not None and language == "cn":
+                name = f"{relic_name['cn']}（发掘·{COLOR_SUFFIXES[color]}）"
+                english = reference_english
+                rarity = 0
+                source = relic_name["source"] + "+" + REFERENCE_SOURCE
+                relic_cn_matches += 1
+            else:
+                name = reference_english
+                english = reference_english
+                rarity = 0
+                source = REFERENCE_FALLBACK_SOURCE if language == "cn" else REFERENCE_SOURCE
         result.append({
             "id": identifier,
             "name": name,
@@ -290,7 +318,14 @@ def make_equipment(
             "rarity": rarity,
             "is_relic": int(is_relic),
         })
-    return result, {"rows": len(result), "dex_name_matches": matched, "relic_rows": relics, "unmatched": len(result) - 1 - matched}
+    return result, {
+        "rows": len(result),
+        "dex_name_matches": matched,
+        "save_id_dex_matches": save_id_dex_matches,
+        "relic_cn_matches": relic_cn_matches,
+        "relic_rows": relics,
+        "unmatched": len(result) - 1 - matched - relic_cn_matches,
+    }
 
 
 def make_talismans(reference: dict, language: str) -> list[dict[str, object]]:
@@ -424,7 +459,11 @@ files by hand.
 - `en/` uses English names in both `name` and `english`.
 - Equipment IDs are save-local IDs. Dex uses global IDs, so the save-local
   order is imported from the MIT-licensed `Rokumaehn/mh4edit` reference and
-  joined to Dex by normalized exact English name (no edit-distance matching).
+  joined to Dex by normalized exact English name or an explicit reviewed ID
+  crosswalk (no edit-distance matching).
+- Relic appearance names are resolved through the explicit weapon-name
+  crosswalk because those base appearances are not standalone Dex weapon rows.
+  Chinese relic names include a `发掘` marker and their appearance color.
 - `rarity` is `0` when rarity is dynamic (relic/talisman) or the reference row
   has no exact Dex match. `is_relic` is `1` for colored relic weapon IDs.
 - `equipment_type` in `equipment_lookups.csv` is the on-disk save type (`0` is
@@ -439,9 +478,18 @@ python3 tools/validate_data.py data
 """
 
 
-def build(input_dir: Path, output_dir: Path, mapping_path: Path, reference_path: Path) -> None:
+def build(
+    input_dir: Path,
+    output_dir: Path,
+    mapping_path: Path,
+    reference_path: Path,
+    weapon_crosswalk_path: Path,
+) -> None:
     mapping = read_json(mapping_path)
     reference = read_json(reference_path)
+    weapon_crosswalk = read_json(weapon_crosswalk_path)
+    if weapon_crosswalk.get("format") != "mh4g-weapon-name-crosswalk-v1":
+        raise ValueError("unsupported or invalid weapon name crosswalk")
     sql_dir = input_dir / "direct_sql" if (input_dir / "direct_sql").is_dir() else input_dir
     raw_manifest_path = input_dir / "manifest.json"
     if not raw_manifest_path.is_file() and sql_dir.name == "direct_sql":
@@ -474,7 +522,7 @@ def build(input_dir: Path, output_dir: Path, mapping_path: Path, reference_path:
         "items": "save ID is parsed from DB_Itm.Hex; DB_Itm.Itm_ID is used only to join names",
         "skills": "SklTree_ID > 0 plus save value 0 (None)",
         "decorations": "save-local allJewels order; save value 0 is None",
-        "equipment": "save-local reference order including value 0; exact normalized English join to Dex",
+        "equipment": "save-local reference order including value 0; normalized English join plus explicit weapon crosswalks",
     }
     match_stats: dict[str, dict[str, int]] = {}
     try:
@@ -502,7 +550,9 @@ def build(input_dir: Path, output_dir: Path, mapping_path: Path, reference_path:
                 filters["decoration_reference_names_without_exact_dex_match"] = decoration_unmatched
 
             for spec in mapping["equipment"]:
-                rows, stats = make_equipment(sql_dir, mapping, reference, spec, language, language_index)
+                rows, stats = make_equipment(
+                    sql_dir, mapping, reference, weapon_crosswalk, spec, language, language_index
+                )
                 datasets[spec["file"]] = (EQUIPMENT_COLUMNS, rows)
                 if language == "cn":
                     match_stats[spec["file"]] = stats
@@ -535,6 +585,10 @@ def build(input_dir: Path, output_dir: Path, mapping_path: Path, reference_path:
                 "dataset_format": reference["format"],
                 "dataset_sha256": sha256(reference_path),
             },
+            "weapon_name_crosswalk": {
+                "format": weapon_crosswalk["format"],
+                "sha256": sha256(weapon_crosswalk_path),
+            },
             "row_accounting": {
                 "items": "DB_Itm rows map one-to-one to output rows through Hex",
                 "skills": "exclude the ID_SklTree_Name -1 placeholder and add save value 0",
@@ -542,7 +596,7 @@ def build(input_dir: Path, output_dir: Path, mapping_path: Path, reference_path:
                     f"DB_Jew has {len(raw_decoration_rows)} recipe rows and {unique_decoration_items} unique item IDs; "
                     "output adds save value 0 (None) to those save-local decoration values"
                 ),
-                "weapons_and_armor": "output follows save-local reference arrays; Dex tables provide exact-name metadata matches",
+                "weapons_and_armor": "output follows save-local reference arrays; Dex exact-name matches and reviewed weapon crosswalks provide metadata",
             },
         }
         (temporary / "manifest.json").write_text(
@@ -577,8 +631,19 @@ def main() -> int:
     parser.add_argument("--output", required=True, type=Path, help="generated data directory")
     parser.add_argument("--mapping", type=Path, default=script_dir / "data_mapping.json")
     parser.add_argument("--reference", type=Path, default=script_dir / "reference" / "mh4edit_save_ids.json")
+    parser.add_argument(
+        "--weapon-crosswalk",
+        type=Path,
+        default=script_dir / "reference" / "mh4g_weapon_name_crosswalk.json",
+    )
     args = parser.parse_args()
-    build(args.input.resolve(), args.output.resolve(), args.mapping.resolve(), args.reference.resolve())
+    build(
+        args.input.resolve(),
+        args.output.resolve(),
+        args.mapping.resolve(),
+        args.reference.resolve(),
+        args.weapon_crosswalk.resolve(),
+    )
     return 0
 
 

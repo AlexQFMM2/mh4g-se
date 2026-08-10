@@ -90,8 +90,8 @@ id,name,english,source,rarity,is_relic
 88,The Steadfast Aegis,The Steadfast Aegis,mh4g-dex-build7+mh4edit-mit-save-id,7,0
 89,Fatalis Lance,Fatalis Lance,mh4g-dex-build7+mh4edit-mit-save-id,7,0
 90,Ruiner Lance,Ruiner Lance,mh4g-dex-build7+mh4edit-mit-save-id,7,0
-91,dummy91,dummy91,mh4edit-mit-save-id,0,0
-92,dummy92,dummy92,mh4edit-mit-save-id,0,0
+91,[JP] Brain Fox,[JP] Brain Fox,mh4g-dex-build7+mh4edit-mit-save-id+mh4g-save-id-dex-crosswalk,2,0
+92,[JP] Discovery Corps Lance,[JP] Discovery Corps Lance,mh4g-dex-build7+mh4edit-mit-save-id+mh4g-save-id-dex-crosswalk,5,0
 93,Babel Spear (red),Babel Spear (red),mh4g-dex-build7+mh4edit-mit-save-id,0,1
 94,Babel Spear (yellow),Babel Spear (yellow),mh4g-dex-build7+mh4edit-mit-save-id,0,1
 95,Babel Spear (green),Babel Spear (green),mh4g-dex-build7+mh4edit-mit-save-id,0,1

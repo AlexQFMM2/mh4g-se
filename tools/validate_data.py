@@ -71,6 +71,20 @@ def parse_decimal(value: str, label: str, errors: ValidationErrors) -> int | Non
     return int(value, 10)
 
 
+def parse_id_ranges(value: str) -> set[int]:
+    result: set[int] = set()
+    for token in value.split(","):
+        token = token.strip()
+        if not token:
+            continue
+        if "-" in token:
+            start, end = (int(part, 10) for part in token.split("-", 1))
+            result.update(range(start, end + 1))
+        else:
+            result.add(int(token, 10))
+    return result
+
+
 def validate_entity(
     relative: str,
     columns: list[str],
@@ -260,6 +274,9 @@ def validate_samples(data_dir: Path, mapping: dict, sample_dir: Path, errors: Va
 def validate(data_dir: Path, mapping_path: Path, samples: Path | None, report_path: Path | None) -> tuple[ValidationErrors, dict[str, object]]:
     errors = ValidationErrors()
     mapping = json.loads(mapping_path.read_text(encoding="utf-8"))
+    crosswalk_path = mapping_path.parent / "reference" / "mh4g_weapon_name_crosswalk.json"
+    errors.require(crosswalk_path.is_file(), f"{crosswalk_path}: missing")
+    crosswalk = json.loads(crosswalk_path.read_text(encoding="utf-8")) if crosswalk_path.is_file() else {}
     manifest_path = data_dir / "manifest.json"
     errors.require(manifest_path.is_file(), f"{manifest_path}: missing")
     if not manifest_path.is_file():
@@ -267,7 +284,16 @@ def validate(data_dir: Path, mapping_path: Path, samples: Path | None, report_pa
     manifest = json.loads(manifest_path.read_text(encoding="utf-8"))
     errors.require(manifest.get("format_version") == "1.0.0", "manifest: unsupported format_version")
     errors.require(manifest.get("languages") == ["cn", "en"], "manifest: languages must be ['cn', 'en']")
-    errors.require(manifest.get("generator", {}).get("version") == "1.0.0", "manifest: unsupported generator version")
+    errors.require(manifest.get("generator", {}).get("version") == "1.1.0", "manifest: unsupported generator version")
+    errors.require(
+        manifest.get("weapon_name_crosswalk", {}).get("format") == "mh4g-weapon-name-crosswalk-v1",
+        "manifest: unsupported or missing weapon name crosswalk",
+    )
+    if crosswalk_path.is_file():
+        errors.require(
+            manifest.get("weapon_name_crosswalk", {}).get("sha256") == sha256(crosswalk_path),
+            "manifest: weapon name crosswalk SHA-256 differs from the current reference",
+        )
     errors.require("timestamp" not in json.dumps(manifest).lower(), "manifest: timestamps are forbidden")
     for source_file in manifest.get("dex", {}).get("source_files", []):
         digest = source_file.get("sha256", "")
@@ -290,6 +316,13 @@ def validate(data_dir: Path, mapping_path: Path, samples: Path | None, report_pa
             if language == "en":
                 for line, row in enumerate(rows, 2):
                     errors.require(row.get("name") == row.get("english"), f"{relative}:{line}: English name and english columns differ")
+            elif filename.startswith("weapon_"):
+                for line, row in enumerate(rows, 2):
+                    if row.get("is_relic") == "1":
+                        errors.require(
+                            "（发掘·" in row.get("name", ""),
+                            f"{relative}:{line}: Chinese relic name must include the relic/color marker",
+                        )
             language_data[language][filename] = (columns, rows, keys)
             entry = manifest.get("files", {}).get(relative)
             errors.require(isinstance(entry, dict), f"manifest: missing {relative}")
@@ -312,6 +345,17 @@ def validate(data_dir: Path, mapping_path: Path, samples: Path | None, report_pa
     errors.require(set(types) == set(range(21)), "equipment_types.csv: IDs must cover exactly 0..20")
     for identifier, name in ((11, "Light Bowgun"), (12, "Heavy Bowgun"), (19, "Insect Glaive"), (20, "Charge Blade")):
         errors.require(types.get(identifier) == name, f"equipment_types.csv: save type {identifier} must be {name}")
+
+    for spec in mapping["equipment"]:
+        if spec["kind"] != "weapon" or spec["file"] not in language_data["cn"]:
+            continue
+        expected_relics = parse_id_ranges(crosswalk.get("relic_save_ids", {}).get(str(spec["save_type"]), ""))
+        rows = language_data["cn"][spec["file"]][1]
+        actual_relics = {int(row["id"], 10) for row in rows if row.get("is_relic") == "1"}
+        errors.require(
+            actual_relics == expected_relics,
+            f"{spec['file']}: relic ID set differs from the explicit weapon crosswalk",
+        )
 
     report: dict[str, object] = {
         "data": str(data_dir),

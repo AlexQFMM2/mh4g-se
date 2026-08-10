@@ -90,33 +90,33 @@ id,name,english,source,rarity,is_relic
 88,确乎不拔之不坏圣盾,The Steadfast Aegis,mh4g-dex-build7+mh4edit-mit-save-id,7,0
 89,黑龙枪,Fatalis Lance,mh4g-dex-build7+mh4edit-mit-save-id,7,0
 90,黑灭龙枪,Ruiner Lance,mh4g-dex-build7+mh4edit-mit-save-id,7,0
-91,dummy91,dummy91,mh4edit-mit-save-id-en-fallback,0,0
-92,dummy92,dummy92,mh4edit-mit-save-id-en-fallback,0,0
-93,要塞守卫者（红）,Babel Spear (red),mh4g-dex-build7+mh4edit-mit-save-id,0,1
-94,要塞守卫者（黄）,Babel Spear (yellow),mh4g-dex-build7+mh4edit-mit-save-id,0,1
-95,要塞守卫者（绿）,Babel Spear (green),mh4g-dex-build7+mh4edit-mit-save-id,0,1
-96,要塞守卫者（蓝）,Babel Spear (blue),mh4g-dex-build7+mh4edit-mit-save-id,0,1
-97,要塞守卫者（紫）,Babel Spear (purple),mh4g-dex-build7+mh4edit-mit-save-id,0,1
-98,冰牙长枪（红）,Tusk Lance (red),mh4g-dex-build7+mh4edit-mit-save-id,0,1
-99,冰牙长枪（黄）,Tusk Lance (yellow),mh4g-dex-build7+mh4edit-mit-save-id,0,1
-100,冰牙长枪（绿）,Tusk Lance (green),mh4g-dex-build7+mh4edit-mit-save-id,0,1
-101,冰牙长枪（蓝）,Tusk Lance (blue),mh4g-dex-build7+mh4edit-mit-save-id,0,1
-102,冰牙长枪（紫）,Tusk Lance (purple),mh4g-dex-build7+mh4edit-mit-save-id,0,1
-103,Dragonrider Lance (red),Dragonrider Lance (red),mh4edit-mit-save-id-en-fallback,0,1
-104,Dragonrider Lance (yellow),Dragonrider Lance (yellow),mh4edit-mit-save-id-en-fallback,0,1
-105,Dragonrider Lance (green),Dragonrider Lance (green),mh4edit-mit-save-id-en-fallback,0,1
-106,Dragonrider Lance (blue),Dragonrider Lance (blue),mh4edit-mit-save-id-en-fallback,0,1
-107,Dragonrider Lance (purple),Dragonrider Lance (purple),mh4edit-mit-save-id-en-fallback,0,1
-108,Frontrider Lance (red),Frontrider Lance (red),mh4edit-mit-save-id-en-fallback,0,1
-109,Frontrider Lance (yellow),Frontrider Lance (yellow),mh4edit-mit-save-id-en-fallback,0,1
-110,Frontrider Lance (green),Frontrider Lance (green),mh4edit-mit-save-id-en-fallback,0,1
-111,Frontrider Lance (blue),Frontrider Lance (blue),mh4edit-mit-save-id-en-fallback,0,1
-112,Frontrider Lance (purple),Frontrider Lance (purple),mh4edit-mit-save-id-en-fallback,0,1
-113,白色日珥（红）,Silver Prominence (red),mh4g-dex-build7+mh4edit-mit-save-id,0,1
-114,白色日珥（黄）,Silver Prominence (yellow),mh4g-dex-build7+mh4edit-mit-save-id,0,1
-115,白色日珥（绿）,Silver Prominence (green),mh4g-dex-build7+mh4edit-mit-save-id,0,1
-116,白色日珥（蓝）,Silver Prominence (blue),mh4g-dex-build7+mh4edit-mit-save-id,0,1
-117,白色日珥（紫）,Silver Prominence (purple),mh4g-dex-build7+mh4edit-mit-save-id,0,1
+91,【日】灵狐,[JP] Brain Fox,mh4g-dex-build7+mh4edit-mit-save-id+mh4g-save-id-dex-crosswalk,2,0
+92,【日】特搜队专用枪【百狐】,[JP] Discovery Corps Lance,mh4g-dex-build7+mh4edit-mit-save-id+mh4g-save-id-dex-crosswalk,5,0
+93,要塞守卫者（发掘·红）,Babel Spear (red),mh4g-dex-build7+mh4edit-mit-save-id,0,1
+94,要塞守卫者（发掘·黄）,Babel Spear (yellow),mh4g-dex-build7+mh4edit-mit-save-id,0,1
+95,要塞守卫者（发掘·绿）,Babel Spear (green),mh4g-dex-build7+mh4edit-mit-save-id,0,1
+96,要塞守卫者（发掘·蓝）,Babel Spear (blue),mh4g-dex-build7+mh4edit-mit-save-id,0,1
+97,要塞守卫者（发掘·紫）,Babel Spear (purple),mh4g-dex-build7+mh4edit-mit-save-id,0,1
+98,冰牙长枪（发掘·红）,Tusk Lance (red),mh4g-dex-build7+mh4edit-mit-save-id,0,1
+99,冰牙长枪（发掘·黄）,Tusk Lance (yellow),mh4g-dex-build7+mh4edit-mit-save-id,0,1
+100,冰牙长枪（发掘·绿）,Tusk Lance (green),mh4g-dex-build7+mh4edit-mit-save-id,0,1
+101,冰牙长枪（发掘·蓝）,Tusk Lance (blue),mh4g-dex-build7+mh4edit-mit-save-id,0,1
+102,冰牙长枪（发掘·紫）,Tusk Lance (purple),mh4g-dex-build7+mh4edit-mit-save-id,0,1
+103,龙骑枪（发掘·红）,Dragonrider Lance (red),mh4g-relic-jp-cn-crosswalk+mh4edit-mit-save-id,0,1
+104,龙骑枪（发掘·黄）,Dragonrider Lance (yellow),mh4g-relic-jp-cn-crosswalk+mh4edit-mit-save-id,0,1
+105,龙骑枪（发掘·绿）,Dragonrider Lance (green),mh4g-relic-jp-cn-crosswalk+mh4edit-mit-save-id,0,1
+106,龙骑枪（发掘·蓝）,Dragonrider Lance (blue),mh4g-relic-jp-cn-crosswalk+mh4edit-mit-save-id,0,1
+107,龙骑枪（发掘·紫）,Dragonrider Lance (purple),mh4g-relic-jp-cn-crosswalk+mh4edit-mit-save-id,0,1
+108,合战枪（发掘·红）,Frontrider Lance (red),mh4g-relic-jp-cn-crosswalk+mh4edit-mit-save-id,0,1
+109,合战枪（发掘·黄）,Frontrider Lance (yellow),mh4g-relic-jp-cn-crosswalk+mh4edit-mit-save-id,0,1
+110,合战枪（发掘·绿）,Frontrider Lance (green),mh4g-relic-jp-cn-crosswalk+mh4edit-mit-save-id,0,1
+111,合战枪（发掘·蓝）,Frontrider Lance (blue),mh4g-relic-jp-cn-crosswalk+mh4edit-mit-save-id,0,1
+112,合战枪（发掘·紫）,Frontrider Lance (purple),mh4g-relic-jp-cn-crosswalk+mh4edit-mit-save-id,0,1
+113,白色日珥（发掘·红）,Silver Prominence (red),mh4g-dex-build7+mh4edit-mit-save-id,0,1
+114,白色日珥（发掘·黄）,Silver Prominence (yellow),mh4g-dex-build7+mh4edit-mit-save-id,0,1
+115,白色日珥（发掘·绿）,Silver Prominence (green),mh4g-dex-build7+mh4edit-mit-save-id,0,1
+116,白色日珥（发掘·蓝）,Silver Prominence (blue),mh4g-dex-build7+mh4edit-mit-save-id,0,1
+117,白色日珥（发掘·紫）,Silver Prominence (purple),mh4g-dex-build7+mh4edit-mit-save-id,0,1
 118,堡垒守卫者改,Elder Babel Spear+,mh4g-dex-build7+mh4edit-mit-save-id,8,0
 119,失落守卫者,Lost Babel,mh4g-dex-build7+mh4edit-mit-save-id,9,0
 120,大钻头长枪改,Megadrill Lance+,mh4g-dex-build7+mh4edit-mit-save-id,8,0
@@ -203,15 +203,15 @@ id,name,english,source,rarity,is_relic
 201,DUMMY,DUMMY,mh4edit-mit-save-id-en-fallback,0,0
 202,DUMMY,DUMMY,mh4edit-mit-save-id-en-fallback,0,0
 203,DUMMY,DUMMY,mh4edit-mit-save-id-en-fallback,0,0
-204,Seven-star lance (red),Seven-star lance (red),mh4edit-mit-save-id-en-fallback,0,1
-205,Seven-star lance (yellow),Seven-star lance (yellow),mh4edit-mit-save-id-en-fallback,0,1
-206,Seven-star lance (green),Seven-star lance (green),mh4edit-mit-save-id-en-fallback,0,1
-207,Seven-star lance (blue),Seven-star lance (blue),mh4edit-mit-save-id-en-fallback,0,1
-208,Seven-star lance (purple),Seven-star lance (purple),mh4edit-mit-save-id-en-fallback,0,1
-209,Estoc (red),Estoc (red),mh4edit-mit-save-id-en-fallback,0,1
-210,Estoc (yellow),Estoc (yellow),mh4edit-mit-save-id-en-fallback,0,1
-211,Estoc (green),Estoc (green),mh4edit-mit-save-id-en-fallback,0,1
-212,Estoc (blue),Estoc (blue),mh4edit-mit-save-id-en-fallback,0,1
-213,Estoc (purple),Estoc (purple),mh4edit-mit-save-id-en-fallback,0,1
+204,七星枪（发掘·红）,Seven-star lance (red),mh4g-relic-jp-cn-crosswalk+mh4edit-mit-save-id,0,1
+205,七星枪（发掘·黄）,Seven-star lance (yellow),mh4g-relic-jp-cn-crosswalk+mh4edit-mit-save-id,0,1
+206,七星枪（发掘·绿）,Seven-star lance (green),mh4g-relic-jp-cn-crosswalk+mh4edit-mit-save-id,0,1
+207,七星枪（发掘·蓝）,Seven-star lance (blue),mh4g-relic-jp-cn-crosswalk+mh4edit-mit-save-id,0,1
+208,七星枪（发掘·紫）,Seven-star lance (purple),mh4g-relic-jp-cn-crosswalk+mh4edit-mit-save-id,0,1
+209,刺剑（发掘·红）,Estoc (red),mh4g-relic-jp-cn-crosswalk+mh4edit-mit-save-id,0,1
+210,刺剑（发掘·黄）,Estoc (yellow),mh4g-relic-jp-cn-crosswalk+mh4edit-mit-save-id,0,1
+211,刺剑（发掘·绿）,Estoc (green),mh4g-relic-jp-cn-crosswalk+mh4edit-mit-save-id,0,1
+212,刺剑（发掘·蓝）,Estoc (blue),mh4g-relic-jp-cn-crosswalk+mh4edit-mit-save-id,0,1
+213,刺剑（发掘·紫）,Estoc (purple),mh4g-relic-jp-cn-crosswalk+mh4edit-mit-save-id,0,1
 214,Hell Phalanx,Hell Phalanx,mh4edit-mit-save-id-en-fallback,0,0
 215,Purification,Purification,mh4edit-mit-save-id-en-fallback,0,0

@@ -95,10 +95,10 @@ id,name,english,source,rarity,is_relic
 93,Illstarred Gunlance,Illstarred Gunlance,mh4g-dex-build7+mh4edit-mit-save-id,6,0
 94,The Celestial Fall,The Celestial Fall,mh4g-dex-build7+mh4edit-mit-save-id,7,0
 95,Fatalis Gunlance,Fatalis Gunlance,mh4g-dex-build7+mh4edit-mit-save-id,7,0
-96,dummy96,dummy96,mh4edit-mit-save-id,0,0
-97,dummy97,dummy97,mh4edit-mit-save-id,0,0
-98,dummy98,dummy98,mh4edit-mit-save-id,0,0
-99,dummy99,dummy99,mh4edit-mit-save-id,0,0
+96,[JP] シルバークラウン,[JP] シルバークラウン,mh4g-dex-build7+mh4edit-mit-save-id+mh4g-save-id-dex-crosswalk,2,0
+97,[JP] ゴールドクラウン,[JP] ゴールドクラウン,mh4g-dex-build7+mh4edit-mit-save-id+mh4g-save-id-dex-crosswalk,3,0
+98,[JP] Platinum Crown,[JP] Platinum Crown,mh4g-dex-build7+mh4edit-mit-save-id+mh4g-save-id-dex-crosswalk,6,0
+99,[JP] Voltaic Works,[JP] Voltaic Works,mh4g-dex-build7+mh4edit-mit-save-id+mh4g-save-id-dex-crosswalk,5,0
 100,Princess Panoply (red),Princess Panoply (red),mh4g-dex-build7+mh4edit-mit-save-id,0,1
 101,Princess Panoply (yellow),Princess Panoply (yellow),mh4g-dex-build7+mh4edit-mit-save-id,0,1
 102,Princess Panoply (green),Princess Panoply (green),mh4g-dex-build7+mh4edit-mit-save-id,0,1
