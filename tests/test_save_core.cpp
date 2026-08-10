@@ -1,10 +1,13 @@
 #include "mh4g.hpp"
+#include "mh4g_transfer.hpp"
+#include "mh4g_ui_compat.hpp"
 
 #include <QCoreApplication>
 #include <QFile>
 #include <QTemporaryDir>
 
 #include <array>
+#include <cstring>
 #include <iostream>
 
 namespace
@@ -25,6 +28,12 @@ bool testSave(const QString &path, const QString &knownDecrypted = QString())
     if (!require(save.load(path), "load failed: " + save.lastError())) return false;
     const QByteArray originalDecrypted = save.decryptedBytes();
 
+    // The GUI adapter writes supported character fields back even when the
+    // user only opens and saves a file. Reapplying them must be lossless.
+    save.setCharacter(save.character());
+    if (!require(save.decryptedBytes() == originalDecrypted,
+                 "reapplying character data changed the decrypted save")) return false;
+
     if (!knownDecrypted.isEmpty())
     {
         QFile known(knownDecrypted);
@@ -39,6 +48,15 @@ bool testSave(const QString &path, const QString &knownDecrypted = QString())
     QFile unchanged(unchangedPath);
     if (!require(unchanged.open(QIODevice::ReadOnly), "cannot read unchanged result")) return false;
     if (!require(unchanged.readAll() == originalEncrypted, "unchanged encrypted round trip is not byte-identical")) return false;
+
+    MH4G_UI_SaveAdapter adapter;
+    if (!require(adapter.load(path.toStdString()), "GUI adapter load failed")) return false;
+    const QString adapterPath = directory.filePath("adapter-unchanged-user");
+    if (!require(adapter.save(adapterPath.toStdString()), "GUI adapter save failed")) return false;
+    QFile adapterOutput(adapterPath);
+    if (!require(adapterOutput.open(QIODevice::ReadOnly), "cannot read GUI adapter result") ||
+        !require(adapterOutput.readAll() == originalEncrypted,
+                 "unchanged GUI adapter round trip is not byte-identical")) return false;
 
     const int itemSlot = MH4GSave::ItemCount - 1;
     const MH4GSave::Item oldItem = save.item(itemSlot);
@@ -76,6 +94,35 @@ bool testSave(const QString &path, const QString &knownDecrypted = QString())
                  "edited equipment did not persist")) return false;
     return true;
 }
+
+bool testTransferForms()
+{
+    save_t source{};
+    source.chest[13][99] = {1913, 99};
+    source.box[14][99][0] = 20;
+    source.box[14][99][1] = 7;
+    source.box[14][99][2] = 0x34;
+    source.box[14][99][3] = 0x12;
+    source.box[14][99][27] = 0xa5;
+
+    std::vector<MH3U_Transfer::chest_entry_t> items;
+    std::vector<MH3U_Transfer::equipment_entry_t> equipment;
+    std::string error;
+    if (!require(MH3U_Transfer::parseChest(MH3U_Transfer::exportChest(source), items, error),
+                 QString::fromStdString(error)) ||
+        !require(items.size() == 1400, "item form did not contain 1400 slots")) return false;
+    if (!require(MH3U_Transfer::parseEquipmentBox(MH3U_Transfer::exportEquipmentBox(source), equipment, error),
+                 QString::fromStdString(error)) ||
+        !require(equipment.size() == 1500, "equipment form did not contain 1500 slots")) return false;
+
+    save_t target{};
+    MH3U_Transfer::applyChest(items, target);
+    MH3U_Transfer::applyEquipmentBox(equipment, target);
+    return require(target.chest[13][99].id == 1913 && target.chest[13][99].count == 99,
+                   "last item form slot did not round trip") &&
+        require(std::memcmp(target.box[14][99], source.box[14][99], EQUIPMENT_SIZE) == 0,
+                "last equipment form slot did not round trip");
+}
 }
 
 int main(int argc, char **argv)
@@ -94,6 +141,7 @@ int main(int argc, char **argv)
         !require(data.items().size() == 1913, "unexpected English item count") ||
         !require(!data.itemName(1).isEmpty(), "English item lookup failed"))
         return 1;
+    if (!testTransferForms()) return 1;
 
     if (argc < 2)
     {

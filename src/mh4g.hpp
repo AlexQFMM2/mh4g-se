@@ -22,6 +22,7 @@ public:
     bool load(const QString &language, QString *error = nullptr);
     QString language() const;
     const QVector<MH4GNamedValue> &items() const;
+    const QVector<MH4GNamedValue> &skills() const;
     const QVector<MH4GNamedValue> &equipmentTypes() const;
     const QVector<MH4GNamedValue> &decorations() const;
     const QVector<MH4GNamedValue> &equipment(int type) const;
@@ -37,6 +38,7 @@ private:
 
     QString m_language;
     QVector<MH4GNamedValue> m_items;
+    QVector<MH4GNamedValue> m_skills;
     QVector<MH4GNamedValue> m_types;
     QVector<MH4GNamedValue> m_decorations;
     QHash<int, QVector<MH4GNamedValue>> m_equipment;
@@ -60,6 +62,17 @@ public:
         std::uint16_t count = 0;
     };
 
+    struct Character
+    {
+        QString name;
+        std::uint8_t sex = 0;
+        std::uint8_t hair = 0;
+        std::uint8_t underwear = 0;
+        std::uint8_t voice = 0;
+        std::uint32_t hunterRank = 0;
+        std::uint32_t money = 0;
+    };
+
     using Equipment = std::array<std::uint8_t, EquipmentSize>;
 
     bool load(const QString &fileName);
@@ -70,6 +83,8 @@ public:
 
     Item item(int slot) const;
     void setItem(int slot, Item value);
+    Character character() const;
+    void setCharacter(const Character &value);
     Equipment equipment(int slot) const;
     void setEquipment(int slot, const Equipment &value);
     void patchEquipmentBasic(int slot, std::uint8_t type, std::uint8_t levelOrSlots,

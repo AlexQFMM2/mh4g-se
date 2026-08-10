@@ -109,11 +109,13 @@ bool MH4GData::load(const QString &language, QString *error)
     }
 
     QVector<MH4GNamedValue> items;
+    QVector<MH4GNamedValue> skills;
     QVector<MH4GNamedValue> types;
     QVector<MH4GNamedValue> decorations;
     QHash<int, QVector<MH4GNamedValue>> equipment;
     const QString languageRoot = QDir(root).filePath(normalized);
     if (!loadCsv(QDir(languageRoot).filePath("items.csv"), items, error) ||
+        !loadCsv(QDir(languageRoot).filePath("skills.csv"), skills, error) ||
         !loadCsv(QDir(languageRoot).filePath("equipment_types.csv"), types, error) ||
         !loadCsv(QDir(languageRoot).filePath("decorations.csv"), decorations, error))
     {
@@ -131,6 +133,7 @@ bool MH4GData::load(const QString &language, QString *error)
 
     m_language = normalized;
     m_items = items;
+    m_skills = skills;
     m_types = types;
     m_decorations = decorations;
     m_equipment = equipment;
@@ -139,6 +142,7 @@ bool MH4GData::load(const QString &language, QString *error)
 
 QString MH4GData::language() const { return m_language; }
 const QVector<MH4GNamedValue> &MH4GData::items() const { return m_items; }
+const QVector<MH4GNamedValue> &MH4GData::skills() const { return m_skills; }
 const QVector<MH4GNamedValue> &MH4GData::equipmentTypes() const { return m_types; }
 const QVector<MH4GNamedValue> &MH4GData::decorations() const { return m_decorations; }
 
@@ -275,6 +279,44 @@ void MH4GSave::setItem(int slot, Item value)
     const int offset = DataOffset + ItemOffset + slot * ItemSize;
     write16(m_decrypted, offset, value.id);
     write16(m_decrypted, offset + 2, value.count);
+}
+
+MH4GSave::Character MH4GSave::character() const
+{
+    Character value;
+    if (!loaded()) return value;
+
+    QString name;
+    for (int index = 0; index < 12; ++index)
+    {
+        const std::uint16_t codeUnit = read16(m_decrypted, DataOffset + index * 2);
+        if (codeUnit == 0) break;
+        name.append(QChar(codeUnit));
+    }
+    value.name = name;
+    value.sex = static_cast<std::uint8_t>(m_decrypted.at(DataOffset + 24));
+    value.hair = static_cast<std::uint8_t>(m_decrypted.at(DataOffset + 25));
+    value.underwear = static_cast<std::uint8_t>(m_decrypted.at(DataOffset + 26));
+    value.voice = static_cast<std::uint8_t>(m_decrypted.at(DataOffset + 27));
+    value.hunterRank = read32(m_decrypted, DataOffset + 44);
+    value.money = read32(m_decrypted, DataOffset + 52);
+    return value;
+}
+
+void MH4GSave::setCharacter(const Character &value)
+{
+    if (!loaded()) return;
+    for (int index = 0; index < 12; ++index)
+        write16(m_decrypted, DataOffset + index * 2, 0);
+    const QString name = value.name.left(11);
+    for (int index = 0; index < name.size(); ++index)
+        write16(m_decrypted, DataOffset + index * 2, name.at(index).unicode());
+    m_decrypted[DataOffset + 24] = static_cast<char>(value.sex);
+    m_decrypted[DataOffset + 25] = static_cast<char>(value.hair);
+    m_decrypted[DataOffset + 26] = static_cast<char>(value.underwear);
+    m_decrypted[DataOffset + 27] = static_cast<char>(value.voice);
+    write32(m_decrypted, DataOffset + 44, value.hunterRank);
+    write32(m_decrypted, DataOffset + 52, value.money);
 }
 
 MH4GSave::Equipment MH4GSave::equipment(int slot) const
