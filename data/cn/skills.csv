@@ -1,0 +1,146 @@
+id,name,english,source
+0,无,None,mh4g-save-format
+1,胴系統倍加,Torso Up,mh4g-dex-build7
+2,刀匠,Edgemaster,mh4g-dex-build7
+3,射手,SteadyHand,mh4g-dex-build7
+4,状态耐性,Status Res,mh4g-dex-build7
+5,怒,Fury,mh4g-dex-build7
+6,细菌学,Biology,mh4g-dex-build7
+7,回避术,Nimbleness,mh4g-dex-build7
+8,居合,Readiness,mh4g-dex-build7
+9,顽强,Resilience,mh4g-dex-build7
+10,刚击,Brutality,mh4g-dex-build7
+11,一心,Ferocity,mh4g-dex-build7
+12,盾持,Stalwart,mh4g-dex-build7
+13,洁癖,Prudence,mh4g-dex-build7
+14,增幅,Amplify,mh4g-dex-build7
+15,护石收集,Hoarding,mh4g-dex-build7
+16,强欲,Avarice,mh4g-dex-build7
+17,属性解放,FreeElemnt,mh4g-dex-build7
+18,剑术,Fencing,mh4g-dex-build7
+19,匠,Handicraft,mh4g-dex-build7
+20,拔刀会心,Crit Draw,mh4g-dex-build7
+21,拔刀减气,PunishDraw,mh4g-dex-build7
+22,装填速度,Reload Spd,mh4g-dex-build7
+23,后坐力,Recoil,mh4g-dex-build7
+24,速射,Rapid Fire,mh4g-dex-build7
+25,认真,Gloves Off,mh4g-dex-build7
+26,斗魂,Spirit,mh4g-dex-build7
+27,不动,Unshakable,mh4g-dex-build7
+28,护石王,Charmer,mh4g-dex-build7
+29,痛击,Tenderizer,mh4g-dex-build7
+30,属性耐性,Blight Res,mh4g-dex-build7
+31,攻击,Attack,mh4g-dex-build7
+32,防御,Defense,mh4g-dex-build7
+33,采集,Gathering,mh4g-dex-build7
+34,剥取,Carving,mh4g-dex-build7
+35,运气,Fate,mh4g-dex-build7
+36,捕获,Tranquilzr,mh4g-dex-build7
+37,达人,Expert,mh4g-dex-build7
+38,炮术,Artillery,mh4g-dex-build7
+39,回避性能,Evasion,mh4g-dex-build7
+40,体力,Health,mh4g-dex-build7
+41,听觉保护,Hearing,mh4g-dex-build7
+42,锋利度,Sharpness,mh4g-dex-build7
+43,防御性能,Guard,mh4g-dex-build7
+44,防御强化,Guard Up,mh4g-dex-build7
+45,研磨师,Sharpener,mh4g-dex-build7
+46,底力,Potential,mh4g-dex-build7
+47,爆弹强化,Bomb Boost,mh4g-dex-build7
+48,特殊攻击,Status,mh4g-dex-build7
+49,耐力,Stamina,mh4g-dex-build7
+50,重击,Destroyer,mh4g-dex-build7
+51,回避距離,Evade Dist,mh4g-dex-build7
+52,收刀,Sheathing,mh4g-dex-build7
+53,蓄力缩短,FastCharge,mh4g-dex-build7
+54,减气攻击,Stam Drain,mh4g-dex-build7
+55,无伤,Unscathed,mh4g-dex-build7
+56,根性,Guts,mh4g-dex-build7
+57,装填数,Loading,mh4g-dex-build7
+58,通常弹强化,Normal Up,mh4g-dex-build7
+59,贯通弹强化,Pierce Up,mh4g-dex-build7
+60,散弹强化,Pellet Up,mh4g-dex-build7
+61,KO,KO,mh4g-dex-build7
+62,对防御DOWN,Def Lock,mh4g-dex-build7
+63,效果持续,LastingPwr,mh4g-dex-build7
+64,通常弹追加,Normal S+,mh4g-dex-build7
+65,贯通弹追加,Pierce S+,mh4g-dex-build7
+66,散弹追加,Pellet S+,mh4g-dex-build7
+67,榴弹追加,Crag S+,mh4g-dex-build7
+68,扩散弹追加,Clust S+,mh4g-dex-build7
+69,斩裂弹追加,Slicing S+,mh4g-dex-build7
+70,爆破弹追加,Blast S+,mh4g-dex-build7
+71,毒瓶追加,Poison C+,mh4g-dex-build7
+72,麻痹瓶追加,Para C+,mh4g-dex-build7
+73,睡眠瓶追加,Sleep C+,mh4g-dex-build7
+74,强击瓶追加,Power C+,mh4g-dex-build7
+75,接撃瓶追加,C.Range C+,mh4g-dex-build7
+76,减气瓶追加,Exhaust C+,mh4g-dex-build7
+77,爆破瓶追加,Blast C+,mh4g-dex-build7
+78,精密射击,Precision,mh4g-dex-build7
+79,火属性攻击,Fire Atk,mh4g-dex-build7
+80,水属性攻击,Water Atk,mh4g-dex-build7
+81,雷属性攻击,ThunderAtk,mh4g-dex-build7
+82,冰属性攻击,Ice Atk,mh4g-dex-build7
+83,龙属性攻击,Dragon Atk,mh4g-dex-build7
+84,属性攻击,Elemental,mh4g-dex-build7
+85,火耐性,Fire Res,mh4g-dex-build7
+86,水耐性,Water Res,mh4g-dex-build7
+87,雷耐性,ThunderRes,mh4g-dex-build7
+88,冰耐性,Ice Res,mh4g-dex-build7
+89,龙耐性,Dragon Res,mh4g-dex-build7
+90,高速收集,Spd Gather,mh4g-dex-build7
+91,千里眼,Psychic,mh4g-dex-build7
+92,观察眼,Perception,mh4g-dex-build7
+93,回复量,Rec Level,mh4g-dex-build7
+94,广域,Wide-Range,mh4g-dex-build7
+95,笛,Maestro,mh4g-dex-build7
+96,逆境,Survivor,mh4g-dex-build7
+97,肉食,Carnivore,mh4g-dex-build7
+98,大胃王,Gluttony,mh4g-dex-build7
+99,体术,Constitutn,mh4g-dex-build7
+100,气力回复,Stam Recov,mh4g-dex-build7
+101,风压,Wind Res,mh4g-dex-build7
+102,食事,Eating,mh4g-dex-build7
+103,调合成功率,Combo Rate,mh4g-dex-build7
+104,调合数,Combo Plus,mh4g-dex-build7
+105,狩人,Ranger,mh4g-dex-build7
+106,耐暑,Heat Res,mh4g-dex-build7
+107,耐寒,Cold Res,mh4g-dex-build7
+108,指挥,Commander,mh4g-dex-build7
+109,采配,TeamPlayer,mh4g-dex-build7
+110,号令,TeamLeader,mh4g-dex-build7
+111,回复速度,Rec Speed,mh4g-dex-build7
+112,反复无常,Whim,mh4g-dex-build7
+113,加护,Protection,mh4g-dex-build7
+114,饥饿,Hunger,mh4g-dex-build7
+115,搬运,Transportr,mh4g-dex-build7
+116,高速设置,SpeedSetup,mh4g-dex-build7
+117,蜂蜜,Honey,mh4g-dex-build7
+118,毒,Poison,mh4g-dex-build7
+119,麻痹,Paralysis,mh4g-dex-build7
+120,睡眠,Sleep,mh4g-dex-build7
+121,气绝,Stun,mh4g-dex-build7
+122,耐泥耐雪,Mud/Snow,mh4g-dex-build7
+123,耐震,Tremor Res,mh4g-dex-build7
+124,偷盗无效,Anti-Theft,mh4g-dex-build7
+125,气息,Sense,mh4g-dex-build7
+126,燃鳞,Flame Aura,mh4g-dex-build7
+127,自动防御,Auto-Guard,mh4g-dex-build7
+128,狂击耐性,Frenzy Res,mh4g-dex-build7
+129,骑乘,Mounting,mh4g-dex-build7
+130,属性会心,CritElemnt,mh4g-dex-build7
+131,特殊会心,CritStatus,mh4g-dex-build7
+132,射法,Dead Eye,mh4g-dex-build7
+133,茸食,Mycology,mh4g-dex-build7
+134,节食,LightEater,mh4g-dex-build7
+135,裂伤,Bleeding,mh4g-dex-build7
+136,耐粘,Sticky Res,mh4g-dex-build7
+137,斩术,Edge Lore,mh4g-dex-build7
+138,食欲,PowerEater,mh4g-dex-build7
+139,北辰纳豆流,D. Fencing,mh4g-dex-build7
+140,秘传,Arcana,mh4g-dex-build7
+141,职工,Mechanic,mh4g-dex-build7
+142,刚腕,Brawn,mh4g-dex-build7
+143,祈愿,Prayer,mh4g-dex-build7
+144,里稼业,Covert,mh4g-dex-build7

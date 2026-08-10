@@ -1,0 +1,161 @@
+id,name,english,source,rarity,is_relic
+0,无,None,mh4g-save-format,0,0
+1,骨棍,Bone Staff,mh4g-dex-build7+mh4edit-mit-save-id,1,0
+2,骨棍改,Bone Staff+,mh4g-dex-build7+mh4edit-mit-save-id,2,0
+3,骨朴刀,Bone Glaive,mh4g-dex-build7+mh4edit-mit-save-id,3,0
+4,骨朴刀改,Bone Glaive+,mh4g-dex-build7+mh4edit-mit-save-id,4,0
+5,高空朴刀,Aerial Glaive,mh4g-dex-build7+mh4edit-mit-save-id,6,0
+6,坚硬朴刀,Sturdy Glaive,mh4g-dex-build7+mh4edit-mit-save-id,4,0
+7,坚硬朴刀改,Sturdy Glaive+,mh4g-dex-build7+mh4edit-mit-save-id,5,0
+8,坚硬大朴刀,Sturdy Glaive Redux,mh4g-dex-build7+mh4edit-mit-save-id,7,0
+9,潜行棍,Stealth Glaive,mh4g-dex-build7+mh4edit-mit-save-id,2,0
+10,潜行棍改,Stealth Glaive+,mh4g-dex-build7+mh4edit-mit-save-id,4,0
+11,高级潜行棍,Stealth Glaive Redux,mh4g-dex-build7+mh4edit-mit-save-id,4,0
+12,阴影行者,Shadow Walker,mh4g-dex-build7+mh4edit-mit-save-id,6,0
+13,暗杀棍,Assault Glaive,mh4g-dex-build7+mh4edit-mit-save-id,4,0
+14,暗杀棍改,Assault Glaive+,mh4g-dex-build7+mh4edit-mit-save-id,4,0
+15,前线行者,Forewalker,mh4g-dex-build7+mh4edit-mit-save-id,7,0
+16,准心of戏法,Leumundslist,mh4g-dex-build7+mh4edit-mit-save-id,3,0
+17,准心of幻觉,Leumundsgift,mh4g-dex-build7+mh4edit-mit-save-id,4,0
+18,准心of魔法,Leumundsbruch,mh4g-dex-build7+mh4edit-mit-save-id,5,0
+19,THE追踪者,Le Traqueur,mh4g-dex-build7+mh4edit-mit-save-id,7,0
+20,蓝之闪光,Indigo Flash,mh4g-dex-build7+mh4edit-mit-save-id,4,0
+21,苍之闪魂,Azure Bolt,mh4g-dex-build7+mh4edit-mit-save-id,5,0
+22,碧之神鸣,Verdant Levin,mh4g-dex-build7+mh4edit-mit-save-id,7,0
+23,蓝紫之雹,Violindigo Hail,mh4g-dex-build7+mh4edit-mit-save-id,6,0
+24,苍紫之冰雨,Violazure Sleet,mh4g-dex-build7+mh4edit-mit-save-id,6,0
+25,碧紫之冰矛露,Violverdant Glaze,mh4g-dex-build7+mh4edit-mit-save-id,7,0
+26,乾坤之火龙棍,Heaven's Rath Glaive,mh4g-dex-build7+mh4edit-mit-save-id,6,0
+27,两仪之炎龙棍,Rathful Blaze Glaive,mh4g-dex-build7+mh4edit-mit-save-id,6,0
+28,开辟之炎龙棍,Unprecedented Rath,mh4g-dex-build7+mh4edit-mit-save-id,7,0
+29,金碎棍棒,Metal Mauler,mh4g-dex-build7+mh4edit-mit-save-id,6,0
+30,金碎棍棒改,Metal Mauler+,mh4g-dex-build7+mh4edit-mit-save-id,6,0
+31,金碎棍金雷,Metalmangler,mh4g-dex-build7+mh4edit-mit-save-id,7,0
+32,爪棘之长刀,Direspike Display,mh4g-dex-build7+mh4edit-mit-save-id,6,0
+33,爪棘之长刀改,Direspike Display+,mh4g-dex-build7+mh4edit-mit-save-id,6,0
+34,浑然一体之朴刀八岐,The Harmonious Stave,mh4g-dex-build7+mh4edit-mit-save-id,7,0
+35,黑龙棍,Fatalis Glaive,mh4g-dex-build7+mh4edit-mit-save-id,7,0
+36,黑龙棍改,Fatalis Glaive+,mh4g-dex-build7+mh4edit-mit-save-id,7,0
+37,黑龙棍【天命】,Fatalis Fate,mh4g-dex-build7+mh4edit-mit-save-id,7,0
+38,dummy38,dummy38,mh4edit-mit-save-id-en-fallback,0,0
+39,阔天朴刀,Sky-high Glaive,mh4g-dex-build7+mh4edit-mit-save-id,8,0
+40,极天朴刀,Highest of Glaives,mh4g-dex-build7+mh4edit-mit-save-id,9,0
+41,深蓝朴刀,Deep Blue Glaive,mh4g-dex-build7+mh4edit-mit-save-id,8,0
+42,暗夜朴刀,Midnight Glaive,mh4g-dex-build7+mh4edit-mit-save-id,8,0
+43,如意棒,Mind Stick,mh4g-dex-build7+mh4edit-mit-save-id,4,0
+44,如意棒【石猿】,"Mind Stick ""Stone""",mh4g-dex-build7+mh4edit-mit-save-id,5,0
+45,如意棒【岩猿】,"Mind Stick ""Rock""",mh4g-dex-build7+mh4edit-mit-save-id,8,0
+46,如意棒【山猿】,"Mind Stick ""Mount""",mh4g-dex-build7+mh4edit-mit-save-id,9,0
+47,如意棒【仙猿】,"Mind Stick ""Wizard""",mh4g-dex-build7+mh4edit-mit-save-id,9,0
+48,如炎棒【妖猿】,"Mind Stick ""Wonder""",mh4g-dex-build7+mh4edit-mit-save-id,8,0
+49,如炎棒【鬼猿】,"Mind Stick ""Demon""",mh4g-dex-build7+mh4edit-mit-save-id,8,0
+50,如炎棒【魔猿】,"Mind Stick ""Fiend""",mh4g-dex-build7+mh4edit-mit-save-id,9,0
+51,贝壳月牙铲,Shell Intoner,mh4g-dex-build7+mh4edit-mit-save-id,4,0
+52,贝壳月牙铲改,Shell Intoner+,mh4g-dex-build7+mh4edit-mit-save-id,5,0
+53,盾蟹月牙铲,Crab Intoner,mh4g-dex-build7+mh4edit-mit-save-id,8,0
+54,紫蟹月牙铲,Purple Intoner,mh4g-dex-build7+mh4edit-mit-save-id,8,0
+55,隐士月牙杖,Hermit Scissors,mh4g-dex-build7+mh4edit-mit-save-id,9,0
+56,食灵者,Spirit Eater,mh4g-dex-build7+mh4edit-mit-save-id,9,0
+57,灵魂收割者,Reaper's Stroke,mh4g-dex-build7+mh4edit-mit-save-id,9,0
+58,沉默之瞳,Silent Eye,mh4g-dex-build7+mh4edit-mit-save-id,9,0
+59,沉默之瞳改,Silent Eye+,mh4g-dex-build7+mh4edit-mit-save-id,9,0
+60,梦魇,Nightmare,mh4g-dex-build7+mh4edit-mit-save-id,9,0
+61,绞蛇刃棍,Needle Ivy,mh4g-dex-build7+mh4edit-mit-save-id,5,0
+62,绞蛇刃棍改,Needle Ivy+,mh4g-dex-build7+mh4edit-mit-save-id,5,0
+63,绞蛇刃戟,Needle Vine,mh4g-dex-build7+mh4edit-mit-save-id,8,0
+64,绞蛇大刃戟,Paralyzing Vine,mh4g-dex-build7+mh4edit-mit-save-id,9,0
+65,美杜莎,Medusa,mh4g-dex-build7+mh4edit-mit-save-id,8,0
+66,美杜莎改,Medusa+,mh4g-dex-build7+mh4edit-mit-save-id,9,0
+67,美杜莎米拉,Medusa Mirror,mh4g-dex-build7+mh4edit-mit-save-id,9,0
+68,冰川棍,Névé Rod,mh4g-dex-build7+mh4edit-mit-save-id,5,0
+69,冰川棍改,Névé Rod+,mh4g-dex-build7+mh4edit-mit-save-id,5,0
+70,冰川霜雪棍,Névé Frost,mh4g-dex-build7+mh4edit-mit-save-id,8,0
+71,芬布尔之冬,Fimbulvetr,mh4g-dex-build7+mh4edit-mit-save-id,9,0
+72,砂砾斩矛,Sand Fauchard,mh4g-dex-build7+mh4edit-mit-save-id,8,0
+73,砂砾斩矛改,Sand Fauchard+,mh4g-dex-build7+mh4edit-mit-save-id,9,0
+74,暴砂斩矛,Iörovellir,mh4g-dex-build7+mh4edit-mit-save-id,9,0
+75,甲虫曲棍,Sect Happa,mh4g-dex-build7+mh4edit-mit-save-id,5,0
+76,甲虫曲棍改,Sect Happa+,mh4g-dex-build7+mh4edit-mit-save-id,5,0
+77,甲虫刚棍,Trim Happa,mh4g-dex-build7+mh4edit-mit-save-id,9,0
+78,狂欢断月棍,Cannibal Happa,mh4g-dex-build7+mh4edit-mit-save-id,9,0
+79,角龙棍,Diablos Rod,mh4g-dex-build7+mh4edit-mit-save-id,9,0
+80,角龙棍改,Diablos Rod+,mh4g-dex-build7+mh4edit-mit-save-id,9,0
+81,暴君棍,Tyrant Rod,mh4g-dex-build7+mh4edit-mit-save-id,9,0
+82,塔那托斯,Thanatos Rod,mh4g-dex-build7+mh4edit-mit-save-id,9,0
+83,塔那托斯改,Thanatos Rod+,mh4g-dex-build7+mh4edit-mit-save-id,9,0
+84,阿努比斯,Anubis,mh4g-dex-build7+mh4edit-mit-save-id,9,0
+85,THE惊叹,La Merveille,mh4g-dex-build7+mh4edit-mit-save-id,9,0
+86,THE奇迹,Le Miracle,mh4g-dex-build7+mh4edit-mit-save-id,10,0
+87,虚假or真诚,List/Confiance,mh4g-dex-build7+mh4edit-mit-save-id,9,0
+88,魔法or逻辑,Bruch/Logique,mh4g-dex-build7+mh4edit-mit-save-id,9,0
+89,悲叹or奇迹,Wehmut/Merveille,mh4g-dex-build7+mh4edit-mit-save-id,9,0
+90,天雷棍【麒麟】,Boltbrute,mh4g-dex-build7+mh4edit-mit-save-id,8,0
+91,天雷棍【麒麟王】,King Boltbrute,mh4g-dex-build7+mh4edit-mit-save-id,9,0
+92,天雷宝棍【麒麟帝】,Emperor Boltbrute,mh4g-dex-build7+mh4edit-mit-save-id,10,0
+93,幻冰棍【麒麟】,Icephantom,mh4g-dex-build7+mh4edit-mit-save-id,10,0
+94,绚烂之闪龙戟,Propagation,mh4g-dex-build7+mh4edit-mit-save-id,9,0
+95,缭乱之辉龙戟,Blossomajesty,mh4g-dex-build7+mh4edit-mit-save-id,10,0
+96,星辰之煌龙戟,Universus,mh4g-dex-build7+mh4edit-mit-save-id,10,0
+97,金碎棍金雷改,Metalmangler+,mh4g-dex-build7+mh4edit-mit-save-id,9,0
+98,鬼神棍【猿王】,Demonlord Cudgel,mh4g-dex-build7+mh4edit-mit-save-id,9,0
+99,鬼神棍【猿魔王】,Demonlord Grudgel,mh4g-dex-build7+mh4edit-mit-save-id,10,0
+100,泰然王八岐王神,Self-possession,mh4g-dex-build7+mh4edit-mit-save-id,9,0
+101,帝笏天极,Dalamadur Scepter,mh4g-dex-build7+mh4edit-mit-save-id,10,0
+102,蛇帝笏终焉,Bounding Dalamadur,mh4g-dex-build7+mh4edit-mit-save-id,10,0
+103,碎龙棍,Dios Rod,mh4g-dex-build7+mh4edit-mit-save-id,6,0
+104,爆碎之黑曜杵,Demolition Press,mh4g-dex-build7+mh4edit-mit-save-id,8,0
+105,破岩杵岩突,Quantum Demolisher,mh4g-dex-build7+mh4edit-mit-save-id,9,0
+106,碎光之黑曜杵,Lightbreak Press,mh4g-dex-build7+mh4edit-mit-save-id,10,0
+107,崩杖斩崩,Ukanlos Staff,mh4g-dex-build7+mh4edit-mit-save-id,7,0
+108,崩杖斩崩改,Ukanlos Staff+,mh4g-dex-build7+mh4edit-mit-save-id,9,0
+109,崩天杖斩天裂地,Ukanlos Skytraveler,mh4g-dex-build7+mh4edit-mit-save-id,10,0
+110,钢龙棍,Daora's Entom,mh4g-dex-build7+mh4edit-mit-save-id,7,0
+111,钢龙重棍,Daora's Tethidine,mh4g-dex-build7+mh4edit-mit-save-id,10,0
+112,钢龙冰岚棍,Daora's Samudra,mh4g-dex-build7+mh4edit-mit-save-id,10,0
+113,锈钢棍,Eldaora's Entom,mh4g-dex-build7+mh4edit-mit-save-id,10,0
+114,锈钢重棍,Eldaora's Tethidine,mh4g-dex-build7+mh4edit-mit-save-id,10,0
+115,锈钢冰岚棍,Eldaora's Samudra,mh4g-dex-build7+mh4edit-mit-save-id,10,0
+116,霞龙棍,Caster's Rod,mh4g-dex-build7+mh4edit-mit-save-id,10,0
+117,霞龙棍改,Caster's Rod+,mh4g-dex-build7+mh4edit-mit-save-id,10,0
+118,霞龙幻心棍,Hazy Caster,mh4g-dex-build7+mh4edit-mit-save-id,10,0
+119,真・黑龙棍【天帝】,True Fatalis Dyaus,mh4g-dex-build7+mh4edit-mit-save-id,10,0
+120,焰魔灭龙棍,Hellruin Glaive,mh4g-dex-build7+mh4edit-mit-save-id,10,0
+121,焰魔灭龙棍【灼火】,"Hellruin Glaive ""Gift""",mh4g-dex-build7+mh4edit-mit-save-id,10,0
+122,焰魔灭龙棍【劫炎】,"Hellruin Glaive ""Omen""",mh4g-dex-build7+mh4edit-mit-save-id,10,0
+123,祖龙棍,Fatalis Soldier,mh4g-dex-build7+mh4edit-mit-save-id,10,0
+124,祖龙雷闪棍,Fatalis Enforcer,mh4g-dex-build7+mh4edit-mit-save-id,10,0
+125,祖龙雷灭棍,Fatalis Overlord,mh4g-dex-build7+mh4edit-mit-save-id,10,0
+126,千刃棍,Altair,mh4g-dex-build7+mh4edit-mit-save-id,6,0
+127,千刃棍改,Altair+,mh4g-dex-build7+mh4edit-mit-save-id,7,0
+128,叛逆之破棍,Seditious Breaker,mh4g-dex-build7+mh4edit-mit-save-id,9,0
+129,叛逆棍千刃霸天,Lana Sedition,mh4g-dex-build7+mh4edit-mit-save-id,10,0
+130,使者之证,Messenger's Mark,mh4g-dex-build7+mh4edit-mit-save-id,10,0
+131,引导者之证,Luminary's Mark,mh4g-dex-build7+mh4edit-mit-save-id,10,0
+132,堕天之证,Limbo Lacrimosa,mh4g-dex-build7+mh4edit-mit-save-id,10,0
+133,【美】发条装置,Clockwork,mh4g-dex-build7+mh4edit-mit-save-id,5,0
+134,dummy134,dummy134,mh4edit-mit-save-id-en-fallback,0,0
+135,dummy135,dummy135,mh4edit-mit-save-id-en-fallback,0,0
+136,dummy136,dummy136,mh4edit-mit-save-id-en-fallback,0,0
+137,dummy137,dummy137,mh4edit-mit-save-id-en-fallback,0,0
+138,骨棍（红）,Bone Staff (red),mh4g-dex-build7+mh4edit-mit-save-id,0,1
+139,骨棍（黄）,Bone Staff (yellow),mh4g-dex-build7+mh4edit-mit-save-id,0,1
+140,骨棍（绿）,Bone Staff (green),mh4g-dex-build7+mh4edit-mit-save-id,0,1
+141,骨棍（蓝）,Bone Staff (blue),mh4g-dex-build7+mh4edit-mit-save-id,0,1
+142,骨棍（紫）,Bone Staff (purple),mh4g-dex-build7+mh4edit-mit-save-id,0,1
+143,金碎棍棒（红）,Metal Mauler (red),mh4g-dex-build7+mh4edit-mit-save-id,0,1
+144,金碎棍棒（黄）,Metal Mauler (yellow),mh4g-dex-build7+mh4edit-mit-save-id,0,1
+145,金碎棍棒（绿）,Metal Mauler (green),mh4g-dex-build7+mh4edit-mit-save-id,0,1
+146,金碎棍棒（蓝）,Metal Mauler (blue),mh4g-dex-build7+mh4edit-mit-save-id,0,1
+147,金碎棍棒（紫）,Metal Mauler (purple),mh4g-dex-build7+mh4edit-mit-save-id,0,1
+148,准心of戏法（红）,Leumundslist (red),mh4g-dex-build7+mh4edit-mit-save-id,0,1
+149,准心of戏法（黄）,Leumundslist (yellow),mh4g-dex-build7+mh4edit-mit-save-id,0,1
+150,准心of戏法（绿）,Leumundslist (green),mh4g-dex-build7+mh4edit-mit-save-id,0,1
+151,准心of戏法（蓝）,Leumundslist (blue),mh4g-dex-build7+mh4edit-mit-save-id,0,1
+152,准心of戏法（紫）,Leumundslist (purple),mh4g-dex-build7+mh4edit-mit-save-id,0,1
+153,甲虫曲棍（红）,Sect Happa (red),mh4g-dex-build7+mh4edit-mit-save-id,0,1
+154,甲虫曲棍（黄）,Sect Happa (yellow),mh4g-dex-build7+mh4edit-mit-save-id,0,1
+155,甲虫曲棍（绿）,Sect Happa (green),mh4g-dex-build7+mh4edit-mit-save-id,0,1
+156,甲虫曲棍（蓝）,Sect Happa (blue),mh4g-dex-build7+mh4edit-mit-save-id,0,1
+157,甲虫曲棍（紫）,Sect Happa (purple),mh4g-dex-build7+mh4edit-mit-save-id,0,1
+158,Dancing Mad,Dancing Mad,mh4edit-mit-save-id-en-fallback,0,0
+159,Hades Shinerod,Hades Shinerod,mh4edit-mit-save-id-en-fallback,0,0

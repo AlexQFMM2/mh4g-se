@@ -1,0 +1,2742 @@
+domain,equipment_type,variant,value,name,english,source
+attack_tier,7,melee,0,110 |      |,110 |      |,mh4edit-mit-save-id
+attack_tier,7,melee,1,120 |      | DEF+10,120 |      | DEF+10,mh4edit-mit-save-id
+attack_tier,7,melee,2,130 | +10% |,130 | +10% |,mh4edit-mit-save-id
+attack_tier,7,melee,3,140 |      |,140 |      |,mh4edit-mit-save-id
+attack_tier,7,melee,4,150 |      | DEF+15,150 |      | DEF+15,mh4edit-mit-save-id
+attack_tier,7,melee,5,160 | +15% |,160 | +15% |,mh4edit-mit-save-id
+attack_tier,7,melee,6,170 |      |,170 |      |,mh4edit-mit-save-id
+attack_tier,7,melee,7,170 | +15% |,170 | +15% |,mh4edit-mit-save-id
+attack_tier,7,melee,8,170 |      | DEF+20,170 |      | DEF+20,mh4edit-mit-save-id
+attack_tier,7,melee,9,180 |      |,180 |      |,mh4edit-mit-save-id
+attack_tier,7,melee,10,170 |      | DEF+20,170 |      | DEF+20,mh4edit-mit-save-id
+attack_tier,7,melee,11,180 | +20% |,180 | +20% |,mh4edit-mit-save-id
+attack_tier,7,melee,12,190 |      |,190 |      |,mh4edit-mit-save-id
+attack_tier,7,melee,13,230 | -25% |,230 | -25% |,mh4edit-mit-save-id
+attack_tier,7,melee,14,210 | +20% |,210 | +20% |,mh4edit-mit-save-id
+attack_tier,7,melee,15,240 |      |,240 |      |,mh4edit-mit-save-id
+attack_tier,7,melee,16,250 | +10% | DEF+20,250 | +10% | DEF+20,mh4edit-mit-save-id
+attack_tier,7,melee,17,270 |      |,270 |      |,mh4edit-mit-save-id
+attack_tier,7,melee,18,290 | +10% |,290 | +10% |,mh4edit-mit-save-id
+attack_tier,7,melee,19,310 |      | DEF+5,310 |      | DEF+5,mh4edit-mit-save-id
+attack_tier,7,melee,20,340 | -25% |,340 | -25% |,mh4edit-mit-save-id
+attack_tier,7,melee,91,355 |      |DEF+100 (Set Upgrade to 0 !!!),355 |      |DEF+100 (Set Upgrade to 0 !!!),mh4edit-mit-save-id
+attack_tier,8,melee,0,110 |      |,110 |      |,mh4edit-mit-save-id
+attack_tier,8,melee,1,120 |      | DEF+10,120 |      | DEF+10,mh4edit-mit-save-id
+attack_tier,8,melee,2,130 | +10% |,130 | +10% |,mh4edit-mit-save-id
+attack_tier,8,melee,3,140 |      |,140 |      |,mh4edit-mit-save-id
+attack_tier,8,melee,4,150 |      | DEF+15,150 |      | DEF+15,mh4edit-mit-save-id
+attack_tier,8,melee,5,160 | +15% |,160 | +15% |,mh4edit-mit-save-id
+attack_tier,8,melee,6,170 |      |,170 |      |,mh4edit-mit-save-id
+attack_tier,8,melee,7,170 | +15% |,170 | +15% |,mh4edit-mit-save-id
+attack_tier,8,melee,8,170 |      | DEF+20,170 |      | DEF+20,mh4edit-mit-save-id
+attack_tier,8,melee,9,180 |      |,180 |      |,mh4edit-mit-save-id
+attack_tier,8,melee,10,170 |      | DEF+20,170 |      | DEF+20,mh4edit-mit-save-id
+attack_tier,8,melee,11,180 | +20% |,180 | +20% |,mh4edit-mit-save-id
+attack_tier,8,melee,12,190 |      |,190 |      |,mh4edit-mit-save-id
+attack_tier,8,melee,13,230 | -25% |,230 | -25% |,mh4edit-mit-save-id
+attack_tier,8,melee,14,210 | +20% |,210 | +20% |,mh4edit-mit-save-id
+attack_tier,8,melee,15,240 |      |,240 |      |,mh4edit-mit-save-id
+attack_tier,8,melee,16,250 | +10% | DEF+20,250 | +10% | DEF+20,mh4edit-mit-save-id
+attack_tier,8,melee,17,270 |      |,270 |      |,mh4edit-mit-save-id
+attack_tier,8,melee,18,290 | +10% |,290 | +10% |,mh4edit-mit-save-id
+attack_tier,8,melee,19,310 |      | DEF+5,310 |      | DEF+5,mh4edit-mit-save-id
+attack_tier,8,melee,20,340 | -25% |,340 | -25% |,mh4edit-mit-save-id
+attack_tier,8,melee,91,355 |      |DEF+100 (Set Upgrade to 0 !!!),355 |      |DEF+100 (Set Upgrade to 0 !!!),mh4edit-mit-save-id
+attack_tier,9,melee,0,110 |      |,110 |      |,mh4edit-mit-save-id
+attack_tier,9,melee,1,120 |      | DEF+10,120 |      | DEF+10,mh4edit-mit-save-id
+attack_tier,9,melee,2,130 | +10% |,130 | +10% |,mh4edit-mit-save-id
+attack_tier,9,melee,3,140 |      |,140 |      |,mh4edit-mit-save-id
+attack_tier,9,melee,4,150 |      | DEF+15,150 |      | DEF+15,mh4edit-mit-save-id
+attack_tier,9,melee,5,160 | +15% |,160 | +15% |,mh4edit-mit-save-id
+attack_tier,9,melee,6,170 |      |,170 |      |,mh4edit-mit-save-id
+attack_tier,9,melee,7,170 | +15% |,170 | +15% |,mh4edit-mit-save-id
+attack_tier,9,melee,8,170 |      | DEF+20,170 |      | DEF+20,mh4edit-mit-save-id
+attack_tier,9,melee,9,180 |      |,180 |      |,mh4edit-mit-save-id
+attack_tier,9,melee,10,170 |      | DEF+20,170 |      | DEF+20,mh4edit-mit-save-id
+attack_tier,9,melee,11,180 | +20% |,180 | +20% |,mh4edit-mit-save-id
+attack_tier,9,melee,12,190 |      |,190 |      |,mh4edit-mit-save-id
+attack_tier,9,melee,13,230 | -25% |,230 | -25% |,mh4edit-mit-save-id
+attack_tier,9,melee,14,210 | +20% |,210 | +20% |,mh4edit-mit-save-id
+attack_tier,9,melee,15,240 |      |,240 |      |,mh4edit-mit-save-id
+attack_tier,9,melee,16,250 | +10% | DEF+20,250 | +10% | DEF+20,mh4edit-mit-save-id
+attack_tier,9,melee,17,270 |      |,270 |      |,mh4edit-mit-save-id
+attack_tier,9,melee,18,290 | +10% |,290 | +10% |,mh4edit-mit-save-id
+attack_tier,9,melee,19,310 |      | DEF+5,310 |      | DEF+5,mh4edit-mit-save-id
+attack_tier,9,melee,20,340 | -25% |,340 | -25% |,mh4edit-mit-save-id
+attack_tier,9,melee,91,355 |      |DEF+100 (Set Upgrade to 0 !!!),355 |      |DEF+100 (Set Upgrade to 0 !!!),mh4edit-mit-save-id
+attack_tier,10,melee,0,110 |      |,110 |      |,mh4edit-mit-save-id
+attack_tier,10,melee,1,120 |      | DEF+10,120 |      | DEF+10,mh4edit-mit-save-id
+attack_tier,10,melee,2,130 | +10% |,130 | +10% |,mh4edit-mit-save-id
+attack_tier,10,melee,3,140 |      |,140 |      |,mh4edit-mit-save-id
+attack_tier,10,melee,4,150 |      | DEF+15,150 |      | DEF+15,mh4edit-mit-save-id
+attack_tier,10,melee,5,160 | +15% |,160 | +15% |,mh4edit-mit-save-id
+attack_tier,10,melee,6,170 |      |,170 |      |,mh4edit-mit-save-id
+attack_tier,10,melee,7,170 | +15% |,170 | +15% |,mh4edit-mit-save-id
+attack_tier,10,melee,8,170 |      | DEF+20,170 |      | DEF+20,mh4edit-mit-save-id
+attack_tier,10,melee,9,180 |      |,180 |      |,mh4edit-mit-save-id
+attack_tier,10,melee,10,170 |      | DEF+20,170 |      | DEF+20,mh4edit-mit-save-id
+attack_tier,10,melee,11,180 | +20% |,180 | +20% |,mh4edit-mit-save-id
+attack_tier,10,melee,12,190 |      |,190 |      |,mh4edit-mit-save-id
+attack_tier,10,melee,13,230 | -25% |,230 | -25% |,mh4edit-mit-save-id
+attack_tier,10,melee,14,210 | +20% |,210 | +20% |,mh4edit-mit-save-id
+attack_tier,10,melee,15,240 |      |,240 |      |,mh4edit-mit-save-id
+attack_tier,10,melee,16,250 | +10% | DEF+20,250 | +10% | DEF+20,mh4edit-mit-save-id
+attack_tier,10,melee,17,270 |      |,270 |      |,mh4edit-mit-save-id
+attack_tier,10,melee,18,290 | +10% |,290 | +10% |,mh4edit-mit-save-id
+attack_tier,10,melee,19,310 |      | DEF+5,310 |      | DEF+5,mh4edit-mit-save-id
+attack_tier,10,melee,20,340 | -25% |,340 | -25% |,mh4edit-mit-save-id
+attack_tier,10,melee,91,355 |      |DEF+100 (Set Upgrade to 0 !!!),355 |      |DEF+100 (Set Upgrade to 0 !!!),mh4edit-mit-save-id
+attack_tier,11,ranged,0,110 |      |        | None,110 |      |        | None,mh4edit-mit-save-id
+attack_tier,11,ranged,1,120 |      | DEF+10 | None,120 |      | DEF+10 | None,mh4edit-mit-save-id
+attack_tier,11,ranged,2,130 | +10% |        | R Mild,130 | +10% |        | R Mild,mh4edit-mit-save-id
+attack_tier,11,ranged,3,140 |      |        | L Mild,140 |      |        | L Mild,mh4edit-mit-save-id
+attack_tier,11,ranged,4,150 |      | DEF+15 | None,150 |      | DEF+15 | None,mh4edit-mit-save-id
+attack_tier,11,ranged,5,160 | +15% |        | R Mild,160 | +15% |        | R Mild,mh4edit-mit-save-id
+attack_tier,11,ranged,6,170 |      |        | LR Mild,170 |      |        | LR Mild,mh4edit-mit-save-id
+attack_tier,11,ranged,7,170 | +15% |        | L Mild,170 | +15% |        | L Mild,mh4edit-mit-save-id
+attack_tier,11,ranged,8,170 |      | DEF+20 | None,170 |      | DEF+20 | None,mh4edit-mit-save-id
+attack_tier,11,ranged,9,180 |      |        | LR Mild,180 |      |        | LR Mild,mh4edit-mit-save-id
+attack_tier,11,ranged,10,170 |      | DEF+20 | None,170 |      | DEF+20 | None,mh4edit-mit-save-id
+attack_tier,11,ranged,11,180 | +20% |        | L Severe,180 | +20% |        | L Severe,mh4edit-mit-save-id
+attack_tier,11,ranged,12,190 |      |        | R Mild,190 |      |        | R Mild,mh4edit-mit-save-id
+attack_tier,11,ranged,13,230 | -25% |        | LR Severe,230 | -25% |        | LR Severe,mh4edit-mit-save-id
+attack_tier,11,ranged,14,210 | +20% |        | None,210 | +20% |        | None,mh4edit-mit-save-id
+attack_tier,11,ranged,15,240 |      |        | None,240 |      |        | None,mh4edit-mit-save-id
+attack_tier,11,ranged,16,250 | +10% | DEF+20 | None,250 | +10% | DEF+20 | None,mh4edit-mit-save-id
+attack_tier,11,ranged,17,270 |      |        | R Severe,270 |      |        | R Severe,mh4edit-mit-save-id
+attack_tier,11,ranged,18,290 | +10% |        | None,290 | +10% |        | None,mh4edit-mit-save-id
+attack_tier,11,ranged,19,310 |      | DEF+5  | L Mild,310 |      | DEF+5  | L Mild,mh4edit-mit-save-id
+attack_tier,11,ranged,20,340 | -25% |        | LR Severe,340 | -25% |        | LR Severe,mh4edit-mit-save-id
+attack_tier,11,ranged,28,255 | +75% | DEF+25 | ? (Set Upgrade to 1 !!!),255 | +75% | DEF+25 | ? (Set Upgrade to 1 !!!),mh4edit-mit-save-id
+attack_tier,12,ranged,0,110 |      |        | None,110 |      |        | None,mh4edit-mit-save-id
+attack_tier,12,ranged,1,120 |      | DEF+10 | None,120 |      | DEF+10 | None,mh4edit-mit-save-id
+attack_tier,12,ranged,2,130 | +10% |        | R Mild,130 | +10% |        | R Mild,mh4edit-mit-save-id
+attack_tier,12,ranged,3,140 |      |        | L Mild,140 |      |        | L Mild,mh4edit-mit-save-id
+attack_tier,12,ranged,4,150 |      | DEF+15 | None,150 |      | DEF+15 | None,mh4edit-mit-save-id
+attack_tier,12,ranged,5,160 | +15% |        | R Mild,160 | +15% |        | R Mild,mh4edit-mit-save-id
+attack_tier,12,ranged,6,170 |      |        | LR Mild,170 |      |        | LR Mild,mh4edit-mit-save-id
+attack_tier,12,ranged,7,170 | +15% |        | L Mild,170 | +15% |        | L Mild,mh4edit-mit-save-id
+attack_tier,12,ranged,8,170 |      | DEF+20 | None,170 |      | DEF+20 | None,mh4edit-mit-save-id
+attack_tier,12,ranged,9,180 |      |        | LR Mild,180 |      |        | LR Mild,mh4edit-mit-save-id
+attack_tier,12,ranged,10,170 |      | DEF+20 | None,170 |      | DEF+20 | None,mh4edit-mit-save-id
+attack_tier,12,ranged,11,180 | +20% |        | L Severe,180 | +20% |        | L Severe,mh4edit-mit-save-id
+attack_tier,12,ranged,12,190 |      |        | R Mild,190 |      |        | R Mild,mh4edit-mit-save-id
+attack_tier,12,ranged,13,230 | -25% |        | LR Severe,230 | -25% |        | LR Severe,mh4edit-mit-save-id
+attack_tier,12,ranged,14,210 | +20% |        | None,210 | +20% |        | None,mh4edit-mit-save-id
+attack_tier,12,ranged,15,240 |      |        | None,240 |      |        | None,mh4edit-mit-save-id
+attack_tier,12,ranged,16,250 | +10% | DEF+20 | None,250 | +10% | DEF+20 | None,mh4edit-mit-save-id
+attack_tier,12,ranged,17,270 |      |        | R Severe,270 |      |        | R Severe,mh4edit-mit-save-id
+attack_tier,12,ranged,18,290 | +10% |        | None,290 | +10% |        | None,mh4edit-mit-save-id
+attack_tier,12,ranged,19,310 |      | DEF+5  | L Mild,310 |      | DEF+5  | L Mild,mh4edit-mit-save-id
+attack_tier,12,ranged,20,340 | -25% |        | LR Severe,340 | -25% |        | LR Severe,mh4edit-mit-save-id
+attack_tier,12,ranged,28,255 | +75% | DEF+25 | ? (Set Upgrade to 1 !!!),255 | +75% | DEF+25 | ? (Set Upgrade to 1 !!!),mh4edit-mit-save-id
+attack_tier,13,melee,0,110 |      |,110 |      |,mh4edit-mit-save-id
+attack_tier,13,melee,1,120 |      | DEF+10,120 |      | DEF+10,mh4edit-mit-save-id
+attack_tier,13,melee,2,130 | +10% |,130 | +10% |,mh4edit-mit-save-id
+attack_tier,13,melee,3,140 |      |,140 |      |,mh4edit-mit-save-id
+attack_tier,13,melee,4,150 |      | DEF+15,150 |      | DEF+15,mh4edit-mit-save-id
+attack_tier,13,melee,5,160 | +15% |,160 | +15% |,mh4edit-mit-save-id
+attack_tier,13,melee,6,170 |      |,170 |      |,mh4edit-mit-save-id
+attack_tier,13,melee,7,170 | +15% |,170 | +15% |,mh4edit-mit-save-id
+attack_tier,13,melee,8,170 |      | DEF+20,170 |      | DEF+20,mh4edit-mit-save-id
+attack_tier,13,melee,9,180 |      |,180 |      |,mh4edit-mit-save-id
+attack_tier,13,melee,10,170 |      | DEF+20,170 |      | DEF+20,mh4edit-mit-save-id
+attack_tier,13,melee,11,180 | +20% |,180 | +20% |,mh4edit-mit-save-id
+attack_tier,13,melee,12,190 |      |,190 |      |,mh4edit-mit-save-id
+attack_tier,13,melee,13,230 | -25% |,230 | -25% |,mh4edit-mit-save-id
+attack_tier,13,melee,14,210 | +20% |,210 | +20% |,mh4edit-mit-save-id
+attack_tier,13,melee,15,240 |      |,240 |      |,mh4edit-mit-save-id
+attack_tier,13,melee,16,250 | +10% | DEF+20,250 | +10% | DEF+20,mh4edit-mit-save-id
+attack_tier,13,melee,17,270 |      |,270 |      |,mh4edit-mit-save-id
+attack_tier,13,melee,18,290 | +10% |,290 | +10% |,mh4edit-mit-save-id
+attack_tier,13,melee,19,310 |      | DEF+5,310 |      | DEF+5,mh4edit-mit-save-id
+attack_tier,13,melee,20,340 | -25% |,340 | -25% |,mh4edit-mit-save-id
+attack_tier,13,melee,91,355 |      |DEF+100 (Set Upgrade to 0 !!!),355 |      |DEF+100 (Set Upgrade to 0 !!!),mh4edit-mit-save-id
+attack_tier,14,melee,0,110 |      |,110 |      |,mh4edit-mit-save-id
+attack_tier,14,melee,1,120 |      | DEF+10,120 |      | DEF+10,mh4edit-mit-save-id
+attack_tier,14,melee,2,130 | +10% |,130 | +10% |,mh4edit-mit-save-id
+attack_tier,14,melee,3,140 |      |,140 |      |,mh4edit-mit-save-id
+attack_tier,14,melee,4,150 |      | DEF+15,150 |      | DEF+15,mh4edit-mit-save-id
+attack_tier,14,melee,5,160 | +15% |,160 | +15% |,mh4edit-mit-save-id
+attack_tier,14,melee,6,170 |      |,170 |      |,mh4edit-mit-save-id
+attack_tier,14,melee,7,170 | +15% |,170 | +15% |,mh4edit-mit-save-id
+attack_tier,14,melee,8,170 |      | DEF+20,170 |      | DEF+20,mh4edit-mit-save-id
+attack_tier,14,melee,9,180 |      |,180 |      |,mh4edit-mit-save-id
+attack_tier,14,melee,10,170 |      | DEF+20,170 |      | DEF+20,mh4edit-mit-save-id
+attack_tier,14,melee,11,180 | +20% |,180 | +20% |,mh4edit-mit-save-id
+attack_tier,14,melee,12,190 |      |,190 |      |,mh4edit-mit-save-id
+attack_tier,14,melee,13,230 | -25% |,230 | -25% |,mh4edit-mit-save-id
+attack_tier,14,melee,14,210 | +20% |,210 | +20% |,mh4edit-mit-save-id
+attack_tier,14,melee,15,240 |      |,240 |      |,mh4edit-mit-save-id
+attack_tier,14,melee,16,250 | +10% | DEF+20,250 | +10% | DEF+20,mh4edit-mit-save-id
+attack_tier,14,melee,17,270 |      |,270 |      |,mh4edit-mit-save-id
+attack_tier,14,melee,18,290 | +10% |,290 | +10% |,mh4edit-mit-save-id
+attack_tier,14,melee,19,310 |      | DEF+5,310 |      | DEF+5,mh4edit-mit-save-id
+attack_tier,14,melee,20,340 | -25% |,340 | -25% |,mh4edit-mit-save-id
+attack_tier,14,melee,91,355 |      |DEF+100 (Set Upgrade to 0 !!!),355 |      |DEF+100 (Set Upgrade to 0 !!!),mh4edit-mit-save-id
+attack_tier,15,melee,0,110 |      |,110 |      |,mh4edit-mit-save-id
+attack_tier,15,melee,1,120 |      | DEF+10,120 |      | DEF+10,mh4edit-mit-save-id
+attack_tier,15,melee,2,130 | +10% |,130 | +10% |,mh4edit-mit-save-id
+attack_tier,15,melee,3,140 |      |,140 |      |,mh4edit-mit-save-id
+attack_tier,15,melee,4,150 |      | DEF+15,150 |      | DEF+15,mh4edit-mit-save-id
+attack_tier,15,melee,5,160 | +15% |,160 | +15% |,mh4edit-mit-save-id
+attack_tier,15,melee,6,170 |      |,170 |      |,mh4edit-mit-save-id
+attack_tier,15,melee,7,170 | +15% |,170 | +15% |,mh4edit-mit-save-id
+attack_tier,15,melee,8,170 |      | DEF+20,170 |      | DEF+20,mh4edit-mit-save-id
+attack_tier,15,melee,9,180 |      |,180 |      |,mh4edit-mit-save-id
+attack_tier,15,melee,10,170 |      | DEF+20,170 |      | DEF+20,mh4edit-mit-save-id
+attack_tier,15,melee,11,180 | +20% |,180 | +20% |,mh4edit-mit-save-id
+attack_tier,15,melee,12,190 |      |,190 |      |,mh4edit-mit-save-id
+attack_tier,15,melee,13,230 | -25% |,230 | -25% |,mh4edit-mit-save-id
+attack_tier,15,melee,14,210 | +20% |,210 | +20% |,mh4edit-mit-save-id
+attack_tier,15,melee,15,240 |      |,240 |      |,mh4edit-mit-save-id
+attack_tier,15,melee,16,250 | +10% | DEF+20,250 | +10% | DEF+20,mh4edit-mit-save-id
+attack_tier,15,melee,17,270 |      |,270 |      |,mh4edit-mit-save-id
+attack_tier,15,melee,18,290 | +10% |,290 | +10% |,mh4edit-mit-save-id
+attack_tier,15,melee,19,310 |      | DEF+5,310 |      | DEF+5,mh4edit-mit-save-id
+attack_tier,15,melee,20,340 | -25% |,340 | -25% |,mh4edit-mit-save-id
+attack_tier,15,melee,91,355 |      |DEF+100 (Set Upgrade to 0 !!!),355 |      |DEF+100 (Set Upgrade to 0 !!!),mh4edit-mit-save-id
+attack_tier,16,ranged,0,110 |      |        | None,110 |      |        | None,mh4edit-mit-save-id
+attack_tier,16,ranged,1,120 |      | DEF+10 | None,120 |      | DEF+10 | None,mh4edit-mit-save-id
+attack_tier,16,ranged,2,130 | +10% |        | R Mild,130 | +10% |        | R Mild,mh4edit-mit-save-id
+attack_tier,16,ranged,3,140 |      |        | L Mild,140 |      |        | L Mild,mh4edit-mit-save-id
+attack_tier,16,ranged,4,150 |      | DEF+15 | None,150 |      | DEF+15 | None,mh4edit-mit-save-id
+attack_tier,16,ranged,5,160 | +15% |        | R Mild,160 | +15% |        | R Mild,mh4edit-mit-save-id
+attack_tier,16,ranged,6,170 |      |        | LR Mild,170 |      |        | LR Mild,mh4edit-mit-save-id
+attack_tier,16,ranged,7,170 | +15% |        | L Mild,170 | +15% |        | L Mild,mh4edit-mit-save-id
+attack_tier,16,ranged,8,170 |      | DEF+20 | None,170 |      | DEF+20 | None,mh4edit-mit-save-id
+attack_tier,16,ranged,9,180 |      |        | LR Mild,180 |      |        | LR Mild,mh4edit-mit-save-id
+attack_tier,16,ranged,10,170 |      | DEF+20 | None,170 |      | DEF+20 | None,mh4edit-mit-save-id
+attack_tier,16,ranged,11,180 | +20% |        | L Severe,180 | +20% |        | L Severe,mh4edit-mit-save-id
+attack_tier,16,ranged,12,190 |      |        | R Mild,190 |      |        | R Mild,mh4edit-mit-save-id
+attack_tier,16,ranged,13,230 | -25% |        | LR Severe,230 | -25% |        | LR Severe,mh4edit-mit-save-id
+attack_tier,16,ranged,14,210 | +20% |        | None,210 | +20% |        | None,mh4edit-mit-save-id
+attack_tier,16,ranged,15,240 |      |        | None,240 |      |        | None,mh4edit-mit-save-id
+attack_tier,16,ranged,16,250 | +10% | DEF+20 | None,250 | +10% | DEF+20 | None,mh4edit-mit-save-id
+attack_tier,16,ranged,17,270 |      |        | R Severe,270 |      |        | R Severe,mh4edit-mit-save-id
+attack_tier,16,ranged,18,290 | +10% |        | None,290 | +10% |        | None,mh4edit-mit-save-id
+attack_tier,16,ranged,19,310 |      | DEF+5  | L Mild,310 |      | DEF+5  | L Mild,mh4edit-mit-save-id
+attack_tier,16,ranged,20,340 | -25% |        | LR Severe,340 | -25% |        | LR Severe,mh4edit-mit-save-id
+attack_tier,16,ranged,28,255 | +75% | DEF+25 | ? (Set Upgrade to 1 !!!),255 | +75% | DEF+25 | ? (Set Upgrade to 1 !!!),mh4edit-mit-save-id
+attack_tier,17,melee,0,110 |      |,110 |      |,mh4edit-mit-save-id
+attack_tier,17,melee,1,120 |      | DEF+10,120 |      | DEF+10,mh4edit-mit-save-id
+attack_tier,17,melee,2,130 | +10% |,130 | +10% |,mh4edit-mit-save-id
+attack_tier,17,melee,3,140 |      |,140 |      |,mh4edit-mit-save-id
+attack_tier,17,melee,4,150 |      | DEF+15,150 |      | DEF+15,mh4edit-mit-save-id
+attack_tier,17,melee,5,160 | +15% |,160 | +15% |,mh4edit-mit-save-id
+attack_tier,17,melee,6,170 |      |,170 |      |,mh4edit-mit-save-id
+attack_tier,17,melee,7,170 | +15% |,170 | +15% |,mh4edit-mit-save-id
+attack_tier,17,melee,8,170 |      | DEF+20,170 |      | DEF+20,mh4edit-mit-save-id
+attack_tier,17,melee,9,180 |      |,180 |      |,mh4edit-mit-save-id
+attack_tier,17,melee,10,170 |      | DEF+20,170 |      | DEF+20,mh4edit-mit-save-id
+attack_tier,17,melee,11,180 | +20% |,180 | +20% |,mh4edit-mit-save-id
+attack_tier,17,melee,12,190 |      |,190 |      |,mh4edit-mit-save-id
+attack_tier,17,melee,13,230 | -25% |,230 | -25% |,mh4edit-mit-save-id
+attack_tier,17,melee,14,210 | +20% |,210 | +20% |,mh4edit-mit-save-id
+attack_tier,17,melee,15,240 |      |,240 |      |,mh4edit-mit-save-id
+attack_tier,17,melee,16,250 | +10% | DEF+20,250 | +10% | DEF+20,mh4edit-mit-save-id
+attack_tier,17,melee,17,270 |      |,270 |      |,mh4edit-mit-save-id
+attack_tier,17,melee,18,290 | +10% |,290 | +10% |,mh4edit-mit-save-id
+attack_tier,17,melee,19,310 |      | DEF+5,310 |      | DEF+5,mh4edit-mit-save-id
+attack_tier,17,melee,20,340 | -25% |,340 | -25% |,mh4edit-mit-save-id
+attack_tier,17,melee,91,355 |      |DEF+100 (Set Upgrade to 0 !!!),355 |      |DEF+100 (Set Upgrade to 0 !!!),mh4edit-mit-save-id
+attack_tier,18,melee,0,110 |      |,110 |      |,mh4edit-mit-save-id
+attack_tier,18,melee,1,120 |      | DEF+10,120 |      | DEF+10,mh4edit-mit-save-id
+attack_tier,18,melee,2,130 | +10% |,130 | +10% |,mh4edit-mit-save-id
+attack_tier,18,melee,3,140 |      |,140 |      |,mh4edit-mit-save-id
+attack_tier,18,melee,4,150 |      | DEF+15,150 |      | DEF+15,mh4edit-mit-save-id
+attack_tier,18,melee,5,160 | +15% |,160 | +15% |,mh4edit-mit-save-id
+attack_tier,18,melee,6,170 |      |,170 |      |,mh4edit-mit-save-id
+attack_tier,18,melee,7,170 | +15% |,170 | +15% |,mh4edit-mit-save-id
+attack_tier,18,melee,8,170 |      | DEF+20,170 |      | DEF+20,mh4edit-mit-save-id
+attack_tier,18,melee,9,180 |      |,180 |      |,mh4edit-mit-save-id
+attack_tier,18,melee,10,170 |      | DEF+20,170 |      | DEF+20,mh4edit-mit-save-id
+attack_tier,18,melee,11,180 | +20% |,180 | +20% |,mh4edit-mit-save-id
+attack_tier,18,melee,12,190 |      |,190 |      |,mh4edit-mit-save-id
+attack_tier,18,melee,13,230 | -25% |,230 | -25% |,mh4edit-mit-save-id
+attack_tier,18,melee,14,210 | +20% |,210 | +20% |,mh4edit-mit-save-id
+attack_tier,18,melee,15,240 |      |,240 |      |,mh4edit-mit-save-id
+attack_tier,18,melee,16,250 | +10% | DEF+20,250 | +10% | DEF+20,mh4edit-mit-save-id
+attack_tier,18,melee,17,270 |      |,270 |      |,mh4edit-mit-save-id
+attack_tier,18,melee,18,290 | +10% |,290 | +10% |,mh4edit-mit-save-id
+attack_tier,18,melee,19,310 |      | DEF+5,310 |      | DEF+5,mh4edit-mit-save-id
+attack_tier,18,melee,20,340 | -25% |,340 | -25% |,mh4edit-mit-save-id
+attack_tier,18,melee,91,355 |      |DEF+100 (Set Upgrade to 0 !!!),355 |      |DEF+100 (Set Upgrade to 0 !!!),mh4edit-mit-save-id
+attack_tier,19,melee,0,110 |      |,110 |      |,mh4edit-mit-save-id
+attack_tier,19,melee,1,120 |      | DEF+10,120 |      | DEF+10,mh4edit-mit-save-id
+attack_tier,19,melee,2,130 | +10% |,130 | +10% |,mh4edit-mit-save-id
+attack_tier,19,melee,3,140 |      |,140 |      |,mh4edit-mit-save-id
+attack_tier,19,melee,4,150 |      | DEF+15,150 |      | DEF+15,mh4edit-mit-save-id
+attack_tier,19,melee,5,160 | +15% |,160 | +15% |,mh4edit-mit-save-id
+attack_tier,19,melee,6,170 |      |,170 |      |,mh4edit-mit-save-id
+attack_tier,19,melee,7,170 | +15% |,170 | +15% |,mh4edit-mit-save-id
+attack_tier,19,melee,8,170 |      | DEF+20,170 |      | DEF+20,mh4edit-mit-save-id
+attack_tier,19,melee,9,180 |      |,180 |      |,mh4edit-mit-save-id
+attack_tier,19,melee,10,170 |      | DEF+20,170 |      | DEF+20,mh4edit-mit-save-id
+attack_tier,19,melee,11,180 | +20% |,180 | +20% |,mh4edit-mit-save-id
+attack_tier,19,melee,12,190 |      |,190 |      |,mh4edit-mit-save-id
+attack_tier,19,melee,13,230 | -25% |,230 | -25% |,mh4edit-mit-save-id
+attack_tier,19,melee,14,210 | +20% |,210 | +20% |,mh4edit-mit-save-id
+attack_tier,19,melee,15,240 |      |,240 |      |,mh4edit-mit-save-id
+attack_tier,19,melee,16,250 | +10% | DEF+20,250 | +10% | DEF+20,mh4edit-mit-save-id
+attack_tier,19,melee,17,270 |      |,270 |      |,mh4edit-mit-save-id
+attack_tier,19,melee,18,290 | +10% |,290 | +10% |,mh4edit-mit-save-id
+attack_tier,19,melee,19,310 |      | DEF+5,310 |      | DEF+5,mh4edit-mit-save-id
+attack_tier,19,melee,20,340 | -25% |,340 | -25% |,mh4edit-mit-save-id
+attack_tier,19,melee,91,355 |      |DEF+100 (Set Upgrade to 0 !!!),355 |      |DEF+100 (Set Upgrade to 0 !!!),mh4edit-mit-save-id
+attack_tier,20,melee,0,110 |      |,110 |      |,mh4edit-mit-save-id
+attack_tier,20,melee,1,120 |      | DEF+10,120 |      | DEF+10,mh4edit-mit-save-id
+attack_tier,20,melee,2,130 | +10% |,130 | +10% |,mh4edit-mit-save-id
+attack_tier,20,melee,3,140 |      |,140 |      |,mh4edit-mit-save-id
+attack_tier,20,melee,4,150 |      | DEF+15,150 |      | DEF+15,mh4edit-mit-save-id
+attack_tier,20,melee,5,160 | +15% |,160 | +15% |,mh4edit-mit-save-id
+attack_tier,20,melee,6,170 |      |,170 |      |,mh4edit-mit-save-id
+attack_tier,20,melee,7,170 | +15% |,170 | +15% |,mh4edit-mit-save-id
+attack_tier,20,melee,8,170 |      | DEF+20,170 |      | DEF+20,mh4edit-mit-save-id
+attack_tier,20,melee,9,180 |      |,180 |      |,mh4edit-mit-save-id
+attack_tier,20,melee,10,170 |      | DEF+20,170 |      | DEF+20,mh4edit-mit-save-id
+attack_tier,20,melee,11,180 | +20% |,180 | +20% |,mh4edit-mit-save-id
+attack_tier,20,melee,12,190 |      |,190 |      |,mh4edit-mit-save-id
+attack_tier,20,melee,13,230 | -25% |,230 | -25% |,mh4edit-mit-save-id
+attack_tier,20,melee,14,210 | +20% |,210 | +20% |,mh4edit-mit-save-id
+attack_tier,20,melee,15,240 |      |,240 |      |,mh4edit-mit-save-id
+attack_tier,20,melee,16,250 | +10% | DEF+20,250 | +10% | DEF+20,mh4edit-mit-save-id
+attack_tier,20,melee,17,270 |      |,270 |      |,mh4edit-mit-save-id
+attack_tier,20,melee,18,290 | +10% |,290 | +10% |,mh4edit-mit-save-id
+attack_tier,20,melee,19,310 |      | DEF+5,310 |      | DEF+5,mh4edit-mit-save-id
+attack_tier,20,melee,20,340 | -25% |,340 | -25% |,mh4edit-mit-save-id
+attack_tier,20,melee,91,355 |      |DEF+100 (Set Upgrade to 0 !!!),355 |      |DEF+100 (Set Upgrade to 0 !!!),mh4edit-mit-save-id
+attribute_type,7,dex,1,Fire,Fire,mh4g-dex-build7
+attribute_type,7,dex,2,Wat,Wat,mh4g-dex-build7
+attribute_type,7,dex,3,Thun,Thun,mh4g-dex-build7
+attribute_type,7,dex,4,Ice,Ice,mh4g-dex-build7
+attribute_type,7,dex,5,Dra,Dra,mh4g-dex-build7
+attribute_type,7,dex,6,Pois,Pois,mh4g-dex-build7
+attribute_type,7,dex,7,Para,Para,mh4g-dex-build7
+attribute_type,7,dex,8,Sleep,Sleep,mh4g-dex-build7
+attribute_type,7,dex,9,Blast,Blast,mh4g-dex-build7
+attribute_type,7,relic,0,None,None,mh4edit-mit-save-id
+attribute_type,7,relic,1,Fire,Fire,mh4edit-mit-save-id
+attribute_type,7,relic,2,Water,Water,mh4edit-mit-save-id
+attribute_type,7,relic,3,Thunder,Thunder,mh4edit-mit-save-id
+attribute_type,7,relic,4,Dragon,Dragon,mh4edit-mit-save-id
+attribute_type,7,relic,5,Ice,Ice,mh4edit-mit-save-id
+attribute_type,7,relic,6,Poison,Poison,mh4edit-mit-save-id
+attribute_type,7,relic,7,Paralysis,Paralysis,mh4edit-mit-save-id
+attribute_type,7,relic,8,Sleep,Sleep,mh4edit-mit-save-id
+attribute_type,7,relic,9,Blast,Blast,mh4edit-mit-save-id
+attribute_type,8,dex,1,Fire,Fire,mh4g-dex-build7
+attribute_type,8,dex,2,Wat,Wat,mh4g-dex-build7
+attribute_type,8,dex,3,Thun,Thun,mh4g-dex-build7
+attribute_type,8,dex,4,Ice,Ice,mh4g-dex-build7
+attribute_type,8,dex,5,Dra,Dra,mh4g-dex-build7
+attribute_type,8,dex,6,Pois,Pois,mh4g-dex-build7
+attribute_type,8,dex,7,Para,Para,mh4g-dex-build7
+attribute_type,8,dex,8,Sleep,Sleep,mh4g-dex-build7
+attribute_type,8,dex,9,Blast,Blast,mh4g-dex-build7
+attribute_type,8,relic,0,None,None,mh4edit-mit-save-id
+attribute_type,8,relic,1,Fire,Fire,mh4edit-mit-save-id
+attribute_type,8,relic,2,Water,Water,mh4edit-mit-save-id
+attribute_type,8,relic,3,Thunder,Thunder,mh4edit-mit-save-id
+attribute_type,8,relic,4,Dragon,Dragon,mh4edit-mit-save-id
+attribute_type,8,relic,5,Ice,Ice,mh4edit-mit-save-id
+attribute_type,8,relic,6,Poison,Poison,mh4edit-mit-save-id
+attribute_type,8,relic,7,Paralysis,Paralysis,mh4edit-mit-save-id
+attribute_type,8,relic,8,Sleep,Sleep,mh4edit-mit-save-id
+attribute_type,8,relic,9,Blast,Blast,mh4edit-mit-save-id
+attribute_type,9,dex,1,Fire,Fire,mh4g-dex-build7
+attribute_type,9,dex,2,Wat,Wat,mh4g-dex-build7
+attribute_type,9,dex,3,Thun,Thun,mh4g-dex-build7
+attribute_type,9,dex,4,Ice,Ice,mh4g-dex-build7
+attribute_type,9,dex,5,Dra,Dra,mh4g-dex-build7
+attribute_type,9,dex,6,Pois,Pois,mh4g-dex-build7
+attribute_type,9,dex,7,Para,Para,mh4g-dex-build7
+attribute_type,9,dex,8,Sleep,Sleep,mh4g-dex-build7
+attribute_type,9,dex,9,Blast,Blast,mh4g-dex-build7
+attribute_type,9,relic,0,None,None,mh4edit-mit-save-id
+attribute_type,9,relic,1,Fire,Fire,mh4edit-mit-save-id
+attribute_type,9,relic,2,Water,Water,mh4edit-mit-save-id
+attribute_type,9,relic,3,Thunder,Thunder,mh4edit-mit-save-id
+attribute_type,9,relic,4,Dragon,Dragon,mh4edit-mit-save-id
+attribute_type,9,relic,5,Ice,Ice,mh4edit-mit-save-id
+attribute_type,9,relic,6,Poison,Poison,mh4edit-mit-save-id
+attribute_type,9,relic,7,Paralysis,Paralysis,mh4edit-mit-save-id
+attribute_type,9,relic,8,Sleep,Sleep,mh4edit-mit-save-id
+attribute_type,9,relic,9,Blast,Blast,mh4edit-mit-save-id
+attribute_type,10,dex,1,Fire,Fire,mh4g-dex-build7
+attribute_type,10,dex,2,Wat,Wat,mh4g-dex-build7
+attribute_type,10,dex,3,Thun,Thun,mh4g-dex-build7
+attribute_type,10,dex,4,Ice,Ice,mh4g-dex-build7
+attribute_type,10,dex,5,Dra,Dra,mh4g-dex-build7
+attribute_type,10,dex,6,Pois,Pois,mh4g-dex-build7
+attribute_type,10,dex,7,Para,Para,mh4g-dex-build7
+attribute_type,10,dex,8,Sleep,Sleep,mh4g-dex-build7
+attribute_type,10,dex,9,Blast,Blast,mh4g-dex-build7
+attribute_type,10,relic,0,None,None,mh4edit-mit-save-id
+attribute_type,10,relic,1,Fire,Fire,mh4edit-mit-save-id
+attribute_type,10,relic,2,Water,Water,mh4edit-mit-save-id
+attribute_type,10,relic,3,Thunder,Thunder,mh4edit-mit-save-id
+attribute_type,10,relic,4,Dragon,Dragon,mh4edit-mit-save-id
+attribute_type,10,relic,5,Ice,Ice,mh4edit-mit-save-id
+attribute_type,10,relic,6,Poison,Poison,mh4edit-mit-save-id
+attribute_type,10,relic,7,Paralysis,Paralysis,mh4edit-mit-save-id
+attribute_type,10,relic,8,Sleep,Sleep,mh4edit-mit-save-id
+attribute_type,10,relic,9,Blast,Blast,mh4edit-mit-save-id
+attribute_type,11,dex,1,Fire,Fire,mh4g-dex-build7
+attribute_type,11,dex,2,Wat,Wat,mh4g-dex-build7
+attribute_type,11,dex,3,Thun,Thun,mh4g-dex-build7
+attribute_type,11,dex,4,Ice,Ice,mh4g-dex-build7
+attribute_type,11,dex,5,Dra,Dra,mh4g-dex-build7
+attribute_type,11,dex,6,Pois,Pois,mh4g-dex-build7
+attribute_type,11,dex,7,Para,Para,mh4g-dex-build7
+attribute_type,11,dex,8,Sleep,Sleep,mh4g-dex-build7
+attribute_type,11,dex,9,Blast,Blast,mh4g-dex-build7
+attribute_type,11,relic,0,None,None,mh4edit-mit-save-id
+attribute_type,11,relic,1,Fire,Fire,mh4edit-mit-save-id
+attribute_type,11,relic,2,Water,Water,mh4edit-mit-save-id
+attribute_type,11,relic,3,Thunder,Thunder,mh4edit-mit-save-id
+attribute_type,11,relic,4,Dragon,Dragon,mh4edit-mit-save-id
+attribute_type,11,relic,5,Ice,Ice,mh4edit-mit-save-id
+attribute_type,11,relic,6,Poison,Poison,mh4edit-mit-save-id
+attribute_type,11,relic,7,Paralysis,Paralysis,mh4edit-mit-save-id
+attribute_type,11,relic,8,Sleep,Sleep,mh4edit-mit-save-id
+attribute_type,11,relic,9,Blast,Blast,mh4edit-mit-save-id
+attribute_type,12,dex,1,Fire,Fire,mh4g-dex-build7
+attribute_type,12,dex,2,Wat,Wat,mh4g-dex-build7
+attribute_type,12,dex,3,Thun,Thun,mh4g-dex-build7
+attribute_type,12,dex,4,Ice,Ice,mh4g-dex-build7
+attribute_type,12,dex,5,Dra,Dra,mh4g-dex-build7
+attribute_type,12,dex,6,Pois,Pois,mh4g-dex-build7
+attribute_type,12,dex,7,Para,Para,mh4g-dex-build7
+attribute_type,12,dex,8,Sleep,Sleep,mh4g-dex-build7
+attribute_type,12,dex,9,Blast,Blast,mh4g-dex-build7
+attribute_type,12,relic,0,None,None,mh4edit-mit-save-id
+attribute_type,12,relic,1,Fire,Fire,mh4edit-mit-save-id
+attribute_type,12,relic,2,Water,Water,mh4edit-mit-save-id
+attribute_type,12,relic,3,Thunder,Thunder,mh4edit-mit-save-id
+attribute_type,12,relic,4,Dragon,Dragon,mh4edit-mit-save-id
+attribute_type,12,relic,5,Ice,Ice,mh4edit-mit-save-id
+attribute_type,12,relic,6,Poison,Poison,mh4edit-mit-save-id
+attribute_type,12,relic,7,Paralysis,Paralysis,mh4edit-mit-save-id
+attribute_type,12,relic,8,Sleep,Sleep,mh4edit-mit-save-id
+attribute_type,12,relic,9,Blast,Blast,mh4edit-mit-save-id
+attribute_type,13,dex,1,Fire,Fire,mh4g-dex-build7
+attribute_type,13,dex,2,Wat,Wat,mh4g-dex-build7
+attribute_type,13,dex,3,Thun,Thun,mh4g-dex-build7
+attribute_type,13,dex,4,Ice,Ice,mh4g-dex-build7
+attribute_type,13,dex,5,Dra,Dra,mh4g-dex-build7
+attribute_type,13,dex,6,Pois,Pois,mh4g-dex-build7
+attribute_type,13,dex,7,Para,Para,mh4g-dex-build7
+attribute_type,13,dex,8,Sleep,Sleep,mh4g-dex-build7
+attribute_type,13,dex,9,Blast,Blast,mh4g-dex-build7
+attribute_type,13,relic,0,None,None,mh4edit-mit-save-id
+attribute_type,13,relic,1,Fire,Fire,mh4edit-mit-save-id
+attribute_type,13,relic,2,Water,Water,mh4edit-mit-save-id
+attribute_type,13,relic,3,Thunder,Thunder,mh4edit-mit-save-id
+attribute_type,13,relic,4,Dragon,Dragon,mh4edit-mit-save-id
+attribute_type,13,relic,5,Ice,Ice,mh4edit-mit-save-id
+attribute_type,13,relic,6,Poison,Poison,mh4edit-mit-save-id
+attribute_type,13,relic,7,Paralysis,Paralysis,mh4edit-mit-save-id
+attribute_type,13,relic,8,Sleep,Sleep,mh4edit-mit-save-id
+attribute_type,13,relic,9,Blast,Blast,mh4edit-mit-save-id
+attribute_type,14,dex,1,Fire,Fire,mh4g-dex-build7
+attribute_type,14,dex,2,Wat,Wat,mh4g-dex-build7
+attribute_type,14,dex,3,Thun,Thun,mh4g-dex-build7
+attribute_type,14,dex,4,Ice,Ice,mh4g-dex-build7
+attribute_type,14,dex,5,Dra,Dra,mh4g-dex-build7
+attribute_type,14,dex,6,Pois,Pois,mh4g-dex-build7
+attribute_type,14,dex,7,Para,Para,mh4g-dex-build7
+attribute_type,14,dex,8,Sleep,Sleep,mh4g-dex-build7
+attribute_type,14,dex,9,Blast,Blast,mh4g-dex-build7
+attribute_type,14,relic,0,None,None,mh4edit-mit-save-id
+attribute_type,14,relic,1,Fire,Fire,mh4edit-mit-save-id
+attribute_type,14,relic,2,Water,Water,mh4edit-mit-save-id
+attribute_type,14,relic,3,Thunder,Thunder,mh4edit-mit-save-id
+attribute_type,14,relic,4,Dragon,Dragon,mh4edit-mit-save-id
+attribute_type,14,relic,5,Ice,Ice,mh4edit-mit-save-id
+attribute_type,14,relic,6,Poison,Poison,mh4edit-mit-save-id
+attribute_type,14,relic,7,Paralysis,Paralysis,mh4edit-mit-save-id
+attribute_type,14,relic,8,Sleep,Sleep,mh4edit-mit-save-id
+attribute_type,14,relic,9,Blast,Blast,mh4edit-mit-save-id
+attribute_type,15,dex,1,Fire,Fire,mh4g-dex-build7
+attribute_type,15,dex,2,Wat,Wat,mh4g-dex-build7
+attribute_type,15,dex,3,Thun,Thun,mh4g-dex-build7
+attribute_type,15,dex,4,Ice,Ice,mh4g-dex-build7
+attribute_type,15,dex,5,Dra,Dra,mh4g-dex-build7
+attribute_type,15,dex,6,Pois,Pois,mh4g-dex-build7
+attribute_type,15,dex,7,Para,Para,mh4g-dex-build7
+attribute_type,15,dex,8,Sleep,Sleep,mh4g-dex-build7
+attribute_type,15,dex,9,Blast,Blast,mh4g-dex-build7
+attribute_type,15,relic,0,None,None,mh4edit-mit-save-id
+attribute_type,15,relic,1,Fire,Fire,mh4edit-mit-save-id
+attribute_type,15,relic,2,Water,Water,mh4edit-mit-save-id
+attribute_type,15,relic,3,Thunder,Thunder,mh4edit-mit-save-id
+attribute_type,15,relic,4,Dragon,Dragon,mh4edit-mit-save-id
+attribute_type,15,relic,5,Ice,Ice,mh4edit-mit-save-id
+attribute_type,15,relic,6,Poison,Poison,mh4edit-mit-save-id
+attribute_type,15,relic,7,Paralysis,Paralysis,mh4edit-mit-save-id
+attribute_type,15,relic,8,Sleep,Sleep,mh4edit-mit-save-id
+attribute_type,15,relic,9,Blast,Blast,mh4edit-mit-save-id
+attribute_type,16,dex,1,Fire,Fire,mh4g-dex-build7
+attribute_type,16,dex,2,Wat,Wat,mh4g-dex-build7
+attribute_type,16,dex,3,Thun,Thun,mh4g-dex-build7
+attribute_type,16,dex,4,Ice,Ice,mh4g-dex-build7
+attribute_type,16,dex,5,Dra,Dra,mh4g-dex-build7
+attribute_type,16,dex,6,Pois,Pois,mh4g-dex-build7
+attribute_type,16,dex,7,Para,Para,mh4g-dex-build7
+attribute_type,16,dex,8,Sleep,Sleep,mh4g-dex-build7
+attribute_type,16,dex,9,Blast,Blast,mh4g-dex-build7
+attribute_type,16,relic,0,None,None,mh4edit-mit-save-id
+attribute_type,16,relic,1,Fire,Fire,mh4edit-mit-save-id
+attribute_type,16,relic,2,Water,Water,mh4edit-mit-save-id
+attribute_type,16,relic,3,Thunder,Thunder,mh4edit-mit-save-id
+attribute_type,16,relic,4,Dragon,Dragon,mh4edit-mit-save-id
+attribute_type,16,relic,5,Ice,Ice,mh4edit-mit-save-id
+attribute_type,16,relic,6,Poison,Poison,mh4edit-mit-save-id
+attribute_type,16,relic,7,Paralysis,Paralysis,mh4edit-mit-save-id
+attribute_type,16,relic,8,Sleep,Sleep,mh4edit-mit-save-id
+attribute_type,16,relic,9,Blast,Blast,mh4edit-mit-save-id
+attribute_type,17,dex,1,Fire,Fire,mh4g-dex-build7
+attribute_type,17,dex,2,Wat,Wat,mh4g-dex-build7
+attribute_type,17,dex,3,Thun,Thun,mh4g-dex-build7
+attribute_type,17,dex,4,Ice,Ice,mh4g-dex-build7
+attribute_type,17,dex,5,Dra,Dra,mh4g-dex-build7
+attribute_type,17,dex,6,Pois,Pois,mh4g-dex-build7
+attribute_type,17,dex,7,Para,Para,mh4g-dex-build7
+attribute_type,17,dex,8,Sleep,Sleep,mh4g-dex-build7
+attribute_type,17,dex,9,Blast,Blast,mh4g-dex-build7
+attribute_type,17,relic,0,None,None,mh4edit-mit-save-id
+attribute_type,17,relic,1,Fire,Fire,mh4edit-mit-save-id
+attribute_type,17,relic,2,Water,Water,mh4edit-mit-save-id
+attribute_type,17,relic,3,Thunder,Thunder,mh4edit-mit-save-id
+attribute_type,17,relic,4,Dragon,Dragon,mh4edit-mit-save-id
+attribute_type,17,relic,5,Ice,Ice,mh4edit-mit-save-id
+attribute_type,17,relic,6,Poison,Poison,mh4edit-mit-save-id
+attribute_type,17,relic,7,Paralysis,Paralysis,mh4edit-mit-save-id
+attribute_type,17,relic,8,Sleep,Sleep,mh4edit-mit-save-id
+attribute_type,17,relic,9,Blast,Blast,mh4edit-mit-save-id
+attribute_type,18,dex,1,Fire,Fire,mh4g-dex-build7
+attribute_type,18,dex,2,Wat,Wat,mh4g-dex-build7
+attribute_type,18,dex,3,Thun,Thun,mh4g-dex-build7
+attribute_type,18,dex,4,Ice,Ice,mh4g-dex-build7
+attribute_type,18,dex,5,Dra,Dra,mh4g-dex-build7
+attribute_type,18,dex,6,Pois,Pois,mh4g-dex-build7
+attribute_type,18,dex,7,Para,Para,mh4g-dex-build7
+attribute_type,18,dex,8,Sleep,Sleep,mh4g-dex-build7
+attribute_type,18,dex,9,Blast,Blast,mh4g-dex-build7
+attribute_type,18,relic,0,None,None,mh4edit-mit-save-id
+attribute_type,18,relic,1,Fire,Fire,mh4edit-mit-save-id
+attribute_type,18,relic,2,Water,Water,mh4edit-mit-save-id
+attribute_type,18,relic,3,Thunder,Thunder,mh4edit-mit-save-id
+attribute_type,18,relic,4,Dragon,Dragon,mh4edit-mit-save-id
+attribute_type,18,relic,5,Ice,Ice,mh4edit-mit-save-id
+attribute_type,18,relic,6,Poison,Poison,mh4edit-mit-save-id
+attribute_type,18,relic,7,Paralysis,Paralysis,mh4edit-mit-save-id
+attribute_type,18,relic,8,Sleep,Sleep,mh4edit-mit-save-id
+attribute_type,18,relic,9,Blast,Blast,mh4edit-mit-save-id
+attribute_type,19,dex,1,Fire,Fire,mh4g-dex-build7
+attribute_type,19,dex,2,Wat,Wat,mh4g-dex-build7
+attribute_type,19,dex,3,Thun,Thun,mh4g-dex-build7
+attribute_type,19,dex,4,Ice,Ice,mh4g-dex-build7
+attribute_type,19,dex,5,Dra,Dra,mh4g-dex-build7
+attribute_type,19,dex,6,Pois,Pois,mh4g-dex-build7
+attribute_type,19,dex,7,Para,Para,mh4g-dex-build7
+attribute_type,19,dex,8,Sleep,Sleep,mh4g-dex-build7
+attribute_type,19,dex,9,Blast,Blast,mh4g-dex-build7
+attribute_type,19,relic,0,None,None,mh4edit-mit-save-id
+attribute_type,19,relic,1,Fire,Fire,mh4edit-mit-save-id
+attribute_type,19,relic,2,Water,Water,mh4edit-mit-save-id
+attribute_type,19,relic,3,Thunder,Thunder,mh4edit-mit-save-id
+attribute_type,19,relic,4,Dragon,Dragon,mh4edit-mit-save-id
+attribute_type,19,relic,5,Ice,Ice,mh4edit-mit-save-id
+attribute_type,19,relic,6,Poison,Poison,mh4edit-mit-save-id
+attribute_type,19,relic,7,Paralysis,Paralysis,mh4edit-mit-save-id
+attribute_type,19,relic,8,Sleep,Sleep,mh4edit-mit-save-id
+attribute_type,19,relic,9,Blast,Blast,mh4edit-mit-save-id
+attribute_type,20,dex,1,Fire,Fire,mh4g-dex-build7
+attribute_type,20,dex,2,Wat,Wat,mh4g-dex-build7
+attribute_type,20,dex,3,Thun,Thun,mh4g-dex-build7
+attribute_type,20,dex,4,Ice,Ice,mh4g-dex-build7
+attribute_type,20,dex,5,Dra,Dra,mh4g-dex-build7
+attribute_type,20,dex,6,Pois,Pois,mh4g-dex-build7
+attribute_type,20,dex,7,Para,Para,mh4g-dex-build7
+attribute_type,20,dex,8,Sleep,Sleep,mh4g-dex-build7
+attribute_type,20,dex,9,Blast,Blast,mh4g-dex-build7
+attribute_type,20,relic,0,None,None,mh4edit-mit-save-id
+attribute_type,20,relic,1,Fire,Fire,mh4edit-mit-save-id
+attribute_type,20,relic,2,Water,Water,mh4edit-mit-save-id
+attribute_type,20,relic,3,Thunder,Thunder,mh4edit-mit-save-id
+attribute_type,20,relic,4,Dragon,Dragon,mh4edit-mit-save-id
+attribute_type,20,relic,5,Ice,Ice,mh4edit-mit-save-id
+attribute_type,20,relic,6,Poison,Poison,mh4edit-mit-save-id
+attribute_type,20,relic,7,Paralysis,Paralysis,mh4edit-mit-save-id
+attribute_type,20,relic,8,Sleep,Sleep,mh4edit-mit-save-id
+attribute_type,20,relic,9,Blast,Blast,mh4edit-mit-save-id
+attribute_value,7,high,0,180,180,mh4edit-mit-save-id
+attribute_value,7,high,1,(220),(220),mh4edit-mit-save-id
+attribute_value,7,high,2,250,250,mh4edit-mit-save-id
+attribute_value,7,high,3,(300),(300),mh4edit-mit-save-id
+attribute_value,7,high,4,280,280,mh4edit-mit-save-id
+attribute_value,7,high,5,(310),(310),mh4edit-mit-save-id
+attribute_value,7,high,6,340,340,mh4edit-mit-save-id
+attribute_value,7,high,7,(370),(370),mh4edit-mit-save-id
+attribute_value,7,high,8,390,390,mh4edit-mit-save-id
+attribute_value,7,high,9,(400),(400),mh4edit-mit-save-id
+attribute_value,7,high,10,430,430,mh4edit-mit-save-id
+attribute_value,7,high,11,(460),(460),mh4edit-mit-save-id
+attribute_value,7,high,12,480,480,mh4edit-mit-save-id
+attribute_value,7,high,13,(490),(490),mh4edit-mit-save-id
+attribute_value,7,high,14,510,510,mh4edit-mit-save-id
+attribute_value,7,high,15,(550),(550),mh4edit-mit-save-id
+attribute_value,7,high,16,570,570,mh4edit-mit-save-id
+attribute_value,7,high,17,(630),(630),mh4edit-mit-save-id
+attribute_value,7,high,18,630,630,mh4edit-mit-save-id
+attribute_value,7,high,19,(660),(660),mh4edit-mit-save-id
+attribute_value,7,high,20,670,670,mh4edit-mit-save-id
+attribute_value,7,high,21,(690),(690),mh4edit-mit-save-id
+attribute_value,7,high,22,700,700,mh4edit-mit-save-id
+attribute_value,7,high,23,(720),(720),mh4edit-mit-save-id
+attribute_value,7,high,24,750,750,mh4edit-mit-save-id
+attribute_value,7,high,25,(810),(810),mh4edit-mit-save-id
+attribute_value,7,high,28,(42630),(42630),mh4edit-mit-save-id
+attribute_value,7,high,88,970,970,mh4edit-mit-save-id
+attribute_value,8,low,0,90,90,mh4edit-mit-save-id
+attribute_value,8,low,1,(110),(110),mh4edit-mit-save-id
+attribute_value,8,low,2,120,120,mh4edit-mit-save-id
+attribute_value,8,low,3,(150),(150),mh4edit-mit-save-id
+attribute_value,8,low,4,140,140,mh4edit-mit-save-id
+attribute_value,8,low,5,(150),(150),mh4edit-mit-save-id
+attribute_value,8,low,6,170,170,mh4edit-mit-save-id
+attribute_value,8,low,7,(180),(180),mh4edit-mit-save-id
+attribute_value,8,low,8,190,190,mh4edit-mit-save-id
+attribute_value,8,low,9,(200),(200),mh4edit-mit-save-id
+attribute_value,8,low,10,210,210,mh4edit-mit-save-id
+attribute_value,8,low,11,(230),(230),mh4edit-mit-save-id
+attribute_value,8,low,12,240,240,mh4edit-mit-save-id
+attribute_value,8,low,13,(240),(240),mh4edit-mit-save-id
+attribute_value,8,low,14,250,250,mh4edit-mit-save-id
+attribute_value,8,low,15,(270),(270),mh4edit-mit-save-id
+attribute_value,8,low,16,280,280,mh4edit-mit-save-id
+attribute_value,8,low,17,(310),(310),mh4edit-mit-save-id
+attribute_value,8,low,18,310,310,mh4edit-mit-save-id
+attribute_value,8,low,19,(330),(330),mh4edit-mit-save-id
+attribute_value,8,low,20,330,330,mh4edit-mit-save-id
+attribute_value,8,low,21,(340),(340),mh4edit-mit-save-id
+attribute_value,8,low,22,350,350,mh4edit-mit-save-id
+attribute_value,8,low,23,(360),(360),mh4edit-mit-save-id
+attribute_value,8,low,24,370,370,mh4edit-mit-save-id
+attribute_value,8,low,25,(400),(400),mh4edit-mit-save-id
+attribute_value,8,low,28,(21310),(21310),mh4edit-mit-save-id
+attribute_value,8,low,133,1000,1000,mh4edit-mit-save-id
+attribute_value,9,medium,0,120,120,mh4edit-mit-save-id
+attribute_value,9,medium,1,(150),(150),mh4edit-mit-save-id
+attribute_value,9,medium,2,170,170,mh4edit-mit-save-id
+attribute_value,9,medium,3,(200),(200),mh4edit-mit-save-id
+attribute_value,9,medium,4,190,190,mh4edit-mit-save-id
+attribute_value,9,medium,5,(210),(210),mh4edit-mit-save-id
+attribute_value,9,medium,6,230,230,mh4edit-mit-save-id
+attribute_value,9,medium,7,(250),(250),mh4edit-mit-save-id
+attribute_value,9,medium,8,260,260,mh4edit-mit-save-id
+attribute_value,9,medium,9,(270),(270),mh4edit-mit-save-id
+attribute_value,9,medium,10,290,290,mh4edit-mit-save-id
+attribute_value,9,medium,11,(310),(310),mh4edit-mit-save-id
+attribute_value,9,medium,12,320,320,mh4edit-mit-save-id
+attribute_value,9,medium,13,(330),(330),mh4edit-mit-save-id
+attribute_value,9,medium,14,340,340,mh4edit-mit-save-id
+attribute_value,9,medium,15,(370),(370),mh4edit-mit-save-id
+attribute_value,9,medium,16,380,380,mh4edit-mit-save-id
+attribute_value,9,medium,17,(420),(420),mh4edit-mit-save-id
+attribute_value,9,medium,18,420,420,mh4edit-mit-save-id
+attribute_value,9,medium,19,(440),(440),mh4edit-mit-save-id
+attribute_value,9,medium,20,450,450,mh4edit-mit-save-id
+attribute_value,9,medium,21,(460),(460),mh4edit-mit-save-id
+attribute_value,9,medium,22,470,470,mh4edit-mit-save-id
+attribute_value,9,medium,23,(480),(480),mh4edit-mit-save-id
+attribute_value,9,medium,24,500,500,mh4edit-mit-save-id
+attribute_value,9,medium,25,(540),(540),mh4edit-mit-save-id
+attribute_value,9,medium,28,(28420),(28420),mh4edit-mit-save-id
+attribute_value,9,medium,105,800,800,mh4edit-mit-save-id
+attribute_value,10,medium,0,120,120,mh4edit-mit-save-id
+attribute_value,10,medium,1,(150),(150),mh4edit-mit-save-id
+attribute_value,10,medium,2,170,170,mh4edit-mit-save-id
+attribute_value,10,medium,3,(200),(200),mh4edit-mit-save-id
+attribute_value,10,medium,4,190,190,mh4edit-mit-save-id
+attribute_value,10,medium,5,(210),(210),mh4edit-mit-save-id
+attribute_value,10,medium,6,230,230,mh4edit-mit-save-id
+attribute_value,10,medium,7,(250),(250),mh4edit-mit-save-id
+attribute_value,10,medium,8,260,260,mh4edit-mit-save-id
+attribute_value,10,medium,9,(270),(270),mh4edit-mit-save-id
+attribute_value,10,medium,10,290,290,mh4edit-mit-save-id
+attribute_value,10,medium,11,(310),(310),mh4edit-mit-save-id
+attribute_value,10,medium,12,320,320,mh4edit-mit-save-id
+attribute_value,10,medium,13,(330),(330),mh4edit-mit-save-id
+attribute_value,10,medium,14,340,340,mh4edit-mit-save-id
+attribute_value,10,medium,15,(370),(370),mh4edit-mit-save-id
+attribute_value,10,medium,16,380,380,mh4edit-mit-save-id
+attribute_value,10,medium,17,(420),(420),mh4edit-mit-save-id
+attribute_value,10,medium,18,420,420,mh4edit-mit-save-id
+attribute_value,10,medium,19,(440),(440),mh4edit-mit-save-id
+attribute_value,10,medium,20,450,450,mh4edit-mit-save-id
+attribute_value,10,medium,21,(460),(460),mh4edit-mit-save-id
+attribute_value,10,medium,22,470,470,mh4edit-mit-save-id
+attribute_value,10,medium,23,(480),(480),mh4edit-mit-save-id
+attribute_value,10,medium,24,500,500,mh4edit-mit-save-id
+attribute_value,10,medium,25,(540),(540),mh4edit-mit-save-id
+attribute_value,10,medium,28,(28420),(28420),mh4edit-mit-save-id
+attribute_value,10,medium,105,800,800,mh4edit-mit-save-id
+attribute_value,13,medium,0,120,120,mh4edit-mit-save-id
+attribute_value,13,medium,1,(150),(150),mh4edit-mit-save-id
+attribute_value,13,medium,2,170,170,mh4edit-mit-save-id
+attribute_value,13,medium,3,(200),(200),mh4edit-mit-save-id
+attribute_value,13,medium,4,190,190,mh4edit-mit-save-id
+attribute_value,13,medium,5,(210),(210),mh4edit-mit-save-id
+attribute_value,13,medium,6,230,230,mh4edit-mit-save-id
+attribute_value,13,medium,7,(250),(250),mh4edit-mit-save-id
+attribute_value,13,medium,8,260,260,mh4edit-mit-save-id
+attribute_value,13,medium,9,(270),(270),mh4edit-mit-save-id
+attribute_value,13,medium,10,290,290,mh4edit-mit-save-id
+attribute_value,13,medium,11,(310),(310),mh4edit-mit-save-id
+attribute_value,13,medium,12,320,320,mh4edit-mit-save-id
+attribute_value,13,medium,13,(330),(330),mh4edit-mit-save-id
+attribute_value,13,medium,14,340,340,mh4edit-mit-save-id
+attribute_value,13,medium,15,(370),(370),mh4edit-mit-save-id
+attribute_value,13,medium,16,380,380,mh4edit-mit-save-id
+attribute_value,13,medium,17,(420),(420),mh4edit-mit-save-id
+attribute_value,13,medium,18,420,420,mh4edit-mit-save-id
+attribute_value,13,medium,19,(440),(440),mh4edit-mit-save-id
+attribute_value,13,medium,20,450,450,mh4edit-mit-save-id
+attribute_value,13,medium,21,(460),(460),mh4edit-mit-save-id
+attribute_value,13,medium,22,470,470,mh4edit-mit-save-id
+attribute_value,13,medium,23,(480),(480),mh4edit-mit-save-id
+attribute_value,13,medium,24,500,500,mh4edit-mit-save-id
+attribute_value,13,medium,25,(540),(540),mh4edit-mit-save-id
+attribute_value,13,medium,28,(28420),(28420),mh4edit-mit-save-id
+attribute_value,13,medium,105,800,800,mh4edit-mit-save-id
+attribute_value,14,medium,0,120,120,mh4edit-mit-save-id
+attribute_value,14,medium,1,(150),(150),mh4edit-mit-save-id
+attribute_value,14,medium,2,170,170,mh4edit-mit-save-id
+attribute_value,14,medium,3,(200),(200),mh4edit-mit-save-id
+attribute_value,14,medium,4,190,190,mh4edit-mit-save-id
+attribute_value,14,medium,5,(210),(210),mh4edit-mit-save-id
+attribute_value,14,medium,6,230,230,mh4edit-mit-save-id
+attribute_value,14,medium,7,(250),(250),mh4edit-mit-save-id
+attribute_value,14,medium,8,260,260,mh4edit-mit-save-id
+attribute_value,14,medium,9,(270),(270),mh4edit-mit-save-id
+attribute_value,14,medium,10,290,290,mh4edit-mit-save-id
+attribute_value,14,medium,11,(310),(310),mh4edit-mit-save-id
+attribute_value,14,medium,12,320,320,mh4edit-mit-save-id
+attribute_value,14,medium,13,(330),(330),mh4edit-mit-save-id
+attribute_value,14,medium,14,340,340,mh4edit-mit-save-id
+attribute_value,14,medium,15,(370),(370),mh4edit-mit-save-id
+attribute_value,14,medium,16,380,380,mh4edit-mit-save-id
+attribute_value,14,medium,17,(420),(420),mh4edit-mit-save-id
+attribute_value,14,medium,18,420,420,mh4edit-mit-save-id
+attribute_value,14,medium,19,(440),(440),mh4edit-mit-save-id
+attribute_value,14,medium,20,450,450,mh4edit-mit-save-id
+attribute_value,14,medium,21,(460),(460),mh4edit-mit-save-id
+attribute_value,14,medium,22,470,470,mh4edit-mit-save-id
+attribute_value,14,medium,23,(480),(480),mh4edit-mit-save-id
+attribute_value,14,medium,24,500,500,mh4edit-mit-save-id
+attribute_value,14,medium,25,(540),(540),mh4edit-mit-save-id
+attribute_value,14,medium,28,(28420),(28420),mh4edit-mit-save-id
+attribute_value,14,medium,105,800,800,mh4edit-mit-save-id
+attribute_value,15,medium,0,120,120,mh4edit-mit-save-id
+attribute_value,15,medium,1,(150),(150),mh4edit-mit-save-id
+attribute_value,15,medium,2,170,170,mh4edit-mit-save-id
+attribute_value,15,medium,3,(200),(200),mh4edit-mit-save-id
+attribute_value,15,medium,4,190,190,mh4edit-mit-save-id
+attribute_value,15,medium,5,(210),(210),mh4edit-mit-save-id
+attribute_value,15,medium,6,230,230,mh4edit-mit-save-id
+attribute_value,15,medium,7,(250),(250),mh4edit-mit-save-id
+attribute_value,15,medium,8,260,260,mh4edit-mit-save-id
+attribute_value,15,medium,9,(270),(270),mh4edit-mit-save-id
+attribute_value,15,medium,10,290,290,mh4edit-mit-save-id
+attribute_value,15,medium,11,(310),(310),mh4edit-mit-save-id
+attribute_value,15,medium,12,320,320,mh4edit-mit-save-id
+attribute_value,15,medium,13,(330),(330),mh4edit-mit-save-id
+attribute_value,15,medium,14,340,340,mh4edit-mit-save-id
+attribute_value,15,medium,15,(370),(370),mh4edit-mit-save-id
+attribute_value,15,medium,16,380,380,mh4edit-mit-save-id
+attribute_value,15,medium,17,(420),(420),mh4edit-mit-save-id
+attribute_value,15,medium,18,420,420,mh4edit-mit-save-id
+attribute_value,15,medium,19,(440),(440),mh4edit-mit-save-id
+attribute_value,15,medium,20,450,450,mh4edit-mit-save-id
+attribute_value,15,medium,21,(460),(460),mh4edit-mit-save-id
+attribute_value,15,medium,22,470,470,mh4edit-mit-save-id
+attribute_value,15,medium,23,(480),(480),mh4edit-mit-save-id
+attribute_value,15,medium,24,500,500,mh4edit-mit-save-id
+attribute_value,15,medium,25,(540),(540),mh4edit-mit-save-id
+attribute_value,15,medium,28,(28420),(28420),mh4edit-mit-save-id
+attribute_value,15,medium,105,800,800,mh4edit-mit-save-id
+attribute_value,16,low,0,90,90,mh4edit-mit-save-id
+attribute_value,16,low,1,(110),(110),mh4edit-mit-save-id
+attribute_value,16,low,2,120,120,mh4edit-mit-save-id
+attribute_value,16,low,3,(150),(150),mh4edit-mit-save-id
+attribute_value,16,low,4,140,140,mh4edit-mit-save-id
+attribute_value,16,low,5,(150),(150),mh4edit-mit-save-id
+attribute_value,16,low,6,170,170,mh4edit-mit-save-id
+attribute_value,16,low,7,(180),(180),mh4edit-mit-save-id
+attribute_value,16,low,8,190,190,mh4edit-mit-save-id
+attribute_value,16,low,9,(200),(200),mh4edit-mit-save-id
+attribute_value,16,low,10,210,210,mh4edit-mit-save-id
+attribute_value,16,low,11,(230),(230),mh4edit-mit-save-id
+attribute_value,16,low,12,240,240,mh4edit-mit-save-id
+attribute_value,16,low,13,(240),(240),mh4edit-mit-save-id
+attribute_value,16,low,14,250,250,mh4edit-mit-save-id
+attribute_value,16,low,15,(270),(270),mh4edit-mit-save-id
+attribute_value,16,low,16,280,280,mh4edit-mit-save-id
+attribute_value,16,low,17,(310),(310),mh4edit-mit-save-id
+attribute_value,16,low,18,310,310,mh4edit-mit-save-id
+attribute_value,16,low,19,(330),(330),mh4edit-mit-save-id
+attribute_value,16,low,20,330,330,mh4edit-mit-save-id
+attribute_value,16,low,21,(340),(340),mh4edit-mit-save-id
+attribute_value,16,low,22,350,350,mh4edit-mit-save-id
+attribute_value,16,low,23,(360),(360),mh4edit-mit-save-id
+attribute_value,16,low,24,370,370,mh4edit-mit-save-id
+attribute_value,16,low,25,(400),(400),mh4edit-mit-save-id
+attribute_value,16,low,28,(21310),(21310),mh4edit-mit-save-id
+attribute_value,16,low,133,1000,1000,mh4edit-mit-save-id
+attribute_value,17,low,0,90,90,mh4edit-mit-save-id
+attribute_value,17,low,1,(110),(110),mh4edit-mit-save-id
+attribute_value,17,low,2,120,120,mh4edit-mit-save-id
+attribute_value,17,low,3,(150),(150),mh4edit-mit-save-id
+attribute_value,17,low,4,140,140,mh4edit-mit-save-id
+attribute_value,17,low,5,(150),(150),mh4edit-mit-save-id
+attribute_value,17,low,6,170,170,mh4edit-mit-save-id
+attribute_value,17,low,7,(180),(180),mh4edit-mit-save-id
+attribute_value,17,low,8,190,190,mh4edit-mit-save-id
+attribute_value,17,low,9,(200),(200),mh4edit-mit-save-id
+attribute_value,17,low,10,210,210,mh4edit-mit-save-id
+attribute_value,17,low,11,(230),(230),mh4edit-mit-save-id
+attribute_value,17,low,12,240,240,mh4edit-mit-save-id
+attribute_value,17,low,13,(240),(240),mh4edit-mit-save-id
+attribute_value,17,low,14,250,250,mh4edit-mit-save-id
+attribute_value,17,low,15,(270),(270),mh4edit-mit-save-id
+attribute_value,17,low,16,280,280,mh4edit-mit-save-id
+attribute_value,17,low,17,(310),(310),mh4edit-mit-save-id
+attribute_value,17,low,18,310,310,mh4edit-mit-save-id
+attribute_value,17,low,19,(330),(330),mh4edit-mit-save-id
+attribute_value,17,low,20,330,330,mh4edit-mit-save-id
+attribute_value,17,low,21,(340),(340),mh4edit-mit-save-id
+attribute_value,17,low,22,350,350,mh4edit-mit-save-id
+attribute_value,17,low,23,(360),(360),mh4edit-mit-save-id
+attribute_value,17,low,24,370,370,mh4edit-mit-save-id
+attribute_value,17,low,25,(400),(400),mh4edit-mit-save-id
+attribute_value,17,low,28,(21310),(21310),mh4edit-mit-save-id
+attribute_value,17,low,133,1000,1000,mh4edit-mit-save-id
+attribute_value,18,high,0,180,180,mh4edit-mit-save-id
+attribute_value,18,high,1,(220),(220),mh4edit-mit-save-id
+attribute_value,18,high,2,250,250,mh4edit-mit-save-id
+attribute_value,18,high,3,(300),(300),mh4edit-mit-save-id
+attribute_value,18,high,4,280,280,mh4edit-mit-save-id
+attribute_value,18,high,5,(310),(310),mh4edit-mit-save-id
+attribute_value,18,high,6,340,340,mh4edit-mit-save-id
+attribute_value,18,high,7,(370),(370),mh4edit-mit-save-id
+attribute_value,18,high,8,390,390,mh4edit-mit-save-id
+attribute_value,18,high,9,(400),(400),mh4edit-mit-save-id
+attribute_value,18,high,10,430,430,mh4edit-mit-save-id
+attribute_value,18,high,11,(460),(460),mh4edit-mit-save-id
+attribute_value,18,high,12,480,480,mh4edit-mit-save-id
+attribute_value,18,high,13,(490),(490),mh4edit-mit-save-id
+attribute_value,18,high,14,510,510,mh4edit-mit-save-id
+attribute_value,18,high,15,(550),(550),mh4edit-mit-save-id
+attribute_value,18,high,16,570,570,mh4edit-mit-save-id
+attribute_value,18,high,17,(630),(630),mh4edit-mit-save-id
+attribute_value,18,high,18,630,630,mh4edit-mit-save-id
+attribute_value,18,high,19,(660),(660),mh4edit-mit-save-id
+attribute_value,18,high,20,670,670,mh4edit-mit-save-id
+attribute_value,18,high,21,(690),(690),mh4edit-mit-save-id
+attribute_value,18,high,22,700,700,mh4edit-mit-save-id
+attribute_value,18,high,23,(720),(720),mh4edit-mit-save-id
+attribute_value,18,high,24,750,750,mh4edit-mit-save-id
+attribute_value,18,high,25,(810),(810),mh4edit-mit-save-id
+attribute_value,18,high,28,(42630),(42630),mh4edit-mit-save-id
+attribute_value,18,high,88,970,970,mh4edit-mit-save-id
+attribute_value,19,low,0,90,90,mh4edit-mit-save-id
+attribute_value,19,low,1,(110),(110),mh4edit-mit-save-id
+attribute_value,19,low,2,120,120,mh4edit-mit-save-id
+attribute_value,19,low,3,(150),(150),mh4edit-mit-save-id
+attribute_value,19,low,4,140,140,mh4edit-mit-save-id
+attribute_value,19,low,5,(150),(150),mh4edit-mit-save-id
+attribute_value,19,low,6,170,170,mh4edit-mit-save-id
+attribute_value,19,low,7,(180),(180),mh4edit-mit-save-id
+attribute_value,19,low,8,190,190,mh4edit-mit-save-id
+attribute_value,19,low,9,(200),(200),mh4edit-mit-save-id
+attribute_value,19,low,10,210,210,mh4edit-mit-save-id
+attribute_value,19,low,11,(230),(230),mh4edit-mit-save-id
+attribute_value,19,low,12,240,240,mh4edit-mit-save-id
+attribute_value,19,low,13,(240),(240),mh4edit-mit-save-id
+attribute_value,19,low,14,250,250,mh4edit-mit-save-id
+attribute_value,19,low,15,(270),(270),mh4edit-mit-save-id
+attribute_value,19,low,16,280,280,mh4edit-mit-save-id
+attribute_value,19,low,17,(310),(310),mh4edit-mit-save-id
+attribute_value,19,low,18,310,310,mh4edit-mit-save-id
+attribute_value,19,low,19,(330),(330),mh4edit-mit-save-id
+attribute_value,19,low,20,330,330,mh4edit-mit-save-id
+attribute_value,19,low,21,(340),(340),mh4edit-mit-save-id
+attribute_value,19,low,22,350,350,mh4edit-mit-save-id
+attribute_value,19,low,23,(360),(360),mh4edit-mit-save-id
+attribute_value,19,low,24,370,370,mh4edit-mit-save-id
+attribute_value,19,low,25,(400),(400),mh4edit-mit-save-id
+attribute_value,19,low,28,(21310),(21310),mh4edit-mit-save-id
+attribute_value,19,low,133,1000,1000,mh4edit-mit-save-id
+attribute_value,20,medium,0,120,120,mh4edit-mit-save-id
+attribute_value,20,medium,1,(150),(150),mh4edit-mit-save-id
+attribute_value,20,medium,2,170,170,mh4edit-mit-save-id
+attribute_value,20,medium,3,(200),(200),mh4edit-mit-save-id
+attribute_value,20,medium,4,190,190,mh4edit-mit-save-id
+attribute_value,20,medium,5,(210),(210),mh4edit-mit-save-id
+attribute_value,20,medium,6,230,230,mh4edit-mit-save-id
+attribute_value,20,medium,7,(250),(250),mh4edit-mit-save-id
+attribute_value,20,medium,8,260,260,mh4edit-mit-save-id
+attribute_value,20,medium,9,(270),(270),mh4edit-mit-save-id
+attribute_value,20,medium,10,290,290,mh4edit-mit-save-id
+attribute_value,20,medium,11,(310),(310),mh4edit-mit-save-id
+attribute_value,20,medium,12,320,320,mh4edit-mit-save-id
+attribute_value,20,medium,13,(330),(330),mh4edit-mit-save-id
+attribute_value,20,medium,14,340,340,mh4edit-mit-save-id
+attribute_value,20,medium,15,(370),(370),mh4edit-mit-save-id
+attribute_value,20,medium,16,380,380,mh4edit-mit-save-id
+attribute_value,20,medium,17,(420),(420),mh4edit-mit-save-id
+attribute_value,20,medium,18,420,420,mh4edit-mit-save-id
+attribute_value,20,medium,19,(440),(440),mh4edit-mit-save-id
+attribute_value,20,medium,20,450,450,mh4edit-mit-save-id
+attribute_value,20,medium,21,(460),(460),mh4edit-mit-save-id
+attribute_value,20,medium,22,470,470,mh4edit-mit-save-id
+attribute_value,20,medium,23,(480),(480),mh4edit-mit-save-id
+attribute_value,20,medium,24,500,500,mh4edit-mit-save-id
+attribute_value,20,medium,25,(540),(540),mh4edit-mit-save-id
+attribute_value,20,medium,28,(28420),(28420),mh4edit-mit-save-id
+attribute_value,20,medium,105,800,800,mh4edit-mit-save-id
+honing,7,weapon,0,None,None,mh4edit-mit-save-id
+honing,7,weapon,64,Attack,Attack,mh4edit-mit-save-id
+honing,7,weapon,128,Defense,Defense,mh4edit-mit-save-id
+honing,7,weapon,192,Life,Life,mh4edit-mit-save-id
+honing,8,weapon,0,None,None,mh4edit-mit-save-id
+honing,8,weapon,64,Attack,Attack,mh4edit-mit-save-id
+honing,8,weapon,128,Defense,Defense,mh4edit-mit-save-id
+honing,8,weapon,192,Life,Life,mh4edit-mit-save-id
+honing,9,weapon,0,None,None,mh4edit-mit-save-id
+honing,9,weapon,64,Attack,Attack,mh4edit-mit-save-id
+honing,9,weapon,128,Defense,Defense,mh4edit-mit-save-id
+honing,9,weapon,192,Life,Life,mh4edit-mit-save-id
+honing,10,weapon,0,None,None,mh4edit-mit-save-id
+honing,10,weapon,64,Attack,Attack,mh4edit-mit-save-id
+honing,10,weapon,128,Defense,Defense,mh4edit-mit-save-id
+honing,10,weapon,192,Life,Life,mh4edit-mit-save-id
+honing,11,weapon,0,None,None,mh4edit-mit-save-id
+honing,11,weapon,64,Attack,Attack,mh4edit-mit-save-id
+honing,11,weapon,128,Defense,Defense,mh4edit-mit-save-id
+honing,11,weapon,192,Life,Life,mh4edit-mit-save-id
+honing,12,weapon,0,None,None,mh4edit-mit-save-id
+honing,12,weapon,64,Attack,Attack,mh4edit-mit-save-id
+honing,12,weapon,128,Defense,Defense,mh4edit-mit-save-id
+honing,12,weapon,192,Life,Life,mh4edit-mit-save-id
+honing,13,weapon,0,None,None,mh4edit-mit-save-id
+honing,13,weapon,64,Attack,Attack,mh4edit-mit-save-id
+honing,13,weapon,128,Defense,Defense,mh4edit-mit-save-id
+honing,13,weapon,192,Life,Life,mh4edit-mit-save-id
+honing,14,weapon,0,None,None,mh4edit-mit-save-id
+honing,14,weapon,64,Attack,Attack,mh4edit-mit-save-id
+honing,14,weapon,128,Defense,Defense,mh4edit-mit-save-id
+honing,14,weapon,192,Life,Life,mh4edit-mit-save-id
+honing,15,weapon,0,None,None,mh4edit-mit-save-id
+honing,15,weapon,64,Attack,Attack,mh4edit-mit-save-id
+honing,15,weapon,128,Defense,Defense,mh4edit-mit-save-id
+honing,15,weapon,192,Life,Life,mh4edit-mit-save-id
+honing,16,weapon,0,None,None,mh4edit-mit-save-id
+honing,16,weapon,64,Attack,Attack,mh4edit-mit-save-id
+honing,16,weapon,128,Defense,Defense,mh4edit-mit-save-id
+honing,16,weapon,192,Life,Life,mh4edit-mit-save-id
+honing,17,weapon,0,None,None,mh4edit-mit-save-id
+honing,17,weapon,64,Attack,Attack,mh4edit-mit-save-id
+honing,17,weapon,128,Defense,Defense,mh4edit-mit-save-id
+honing,17,weapon,192,Life,Life,mh4edit-mit-save-id
+honing,18,weapon,0,None,None,mh4edit-mit-save-id
+honing,18,weapon,64,Attack,Attack,mh4edit-mit-save-id
+honing,18,weapon,128,Defense,Defense,mh4edit-mit-save-id
+honing,18,weapon,192,Life,Life,mh4edit-mit-save-id
+honing,19,weapon,0,None,None,mh4edit-mit-save-id
+honing,19,weapon,64,Attack,Attack,mh4edit-mit-save-id
+honing,19,weapon,128,Defense,Defense,mh4edit-mit-save-id
+honing,19,weapon,192,Life,Life,mh4edit-mit-save-id
+honing,20,weapon,0,None,None,mh4edit-mit-save-id
+honing,20,weapon,64,Attack,Attack,mh4edit-mit-save-id
+honing,20,weapon,128,Defense,Defense,mh4edit-mit-save-id
+honing,20,weapon,192,Life,Life,mh4edit-mit-save-id
+kinsect,19,damage_type,1,Cutting,Cutting,mh4g-dex-build7
+kinsect,19,damage_type,2,Blunt,Blunt,mh4g-dex-build7
+kinsect,19,level,0,0,0,mh4edit-mit-save-id
+kinsect,19,level,1,1,1,mh4edit-mit-save-id
+kinsect,19,level,2,2,2,mh4edit-mit-save-id
+kinsect,19,level,3,3,3,mh4edit-mit-save-id
+kinsect,19,level,4,4,4,mh4edit-mit-save-id
+kinsect,19,level,5,5,5,mh4edit-mit-save-id
+kinsect,19,level,6,6,6,mh4edit-mit-save-id
+kinsect,19,level,7,7,7,mh4edit-mit-save-id
+kinsect,19,level,8,8,8,mh4edit-mit-save-id
+kinsect,19,level,9,9,9,mh4edit-mit-save-id
+kinsect,19,level,10,10,10,mh4edit-mit-save-id
+kinsect,19,level,11,11,11,mh4edit-mit-save-id
+kinsect,19,type,0,Culldrone           Cutting  none,Culldrone           Cutting  none,mh4edit-mit-save-id
+kinsect,19,type,1,Reavedrone          Cutting  All Stats S,Reavedrone          Cutting  All Stats S,mh4edit-mit-save-id
+kinsect,19,type,2,Alucanid            Cutting  Attack S,Alucanid            Cutting  Attack S,mh4edit-mit-save-id
+kinsect,19,type,3,Monarch Alucanid    Cutting  Attack L,Monarch Alucanid    Cutting  Attack L,mh4edit-mit-save-id
+kinsect,19,type,4,Empresswing         Cutting  Attack M          Extract Eff. S,Empresswing         Cutting  Attack M          Extract Eff. S,mh4edit-mit-save-id
+kinsect,19,type,5,Rigiprayne          Cutting  Stamina S,Rigiprayne          Cutting  Stamina S,mh4edit-mit-save-id
+kinsect,19,type,6,Cancadaman          Cutting  Stamina L,Cancadaman          Cutting  Stamina L,mh4edit-mit-save-id
+kinsect,19,type,7,Fiddlebrix          Cutting  Stamina M         Extract Eff. S,Fiddlebrix          Cutting  Stamina M         Extract Eff. S,mh4edit-mit-save-id
+kinsect,19,type,8,Windchopper         Cutting  Speed S,Windchopper         Cutting  Speed S,mh4edit-mit-save-id
+kinsect,19,type,9,Grancathar          Cutting  Speed L,Grancathar          Cutting  Speed L,mh4edit-mit-save-id
+kinsect,19,type,10,Pseudocath          Cutting  Speed M           Extract Eff. S,Pseudocath          Cutting  Speed M           Extract Eff. S,mh4edit-mit-save-id
+kinsect,19,type,11,Elscarad            Cutting  All Stats M       Extract Eff. L,Elscarad            Cutting  All Stats M       Extract Eff. L,mh4edit-mit-save-id
+kinsect,19,type,12,Mauldrone           Blunt    none,Mauldrone           Blunt    none,mh4edit-mit-save-id
+kinsect,19,type,13,Pummeldrone         Blunt    All Stats S,Pummeldrone         Blunt    All Stats S,mh4edit-mit-save-id
+kinsect,19,type,14,Foebeetle           Blunt    Attack S,Foebeetle           Blunt    Attack S,mh4edit-mit-save-id
+kinsect,19,type,15,Carnage Beetle      Blunt    Attack L,Carnage Beetle      Blunt    Attack L,mh4edit-mit-save-id
+kinsect,19,type,16,Bonnetfille         Blunt    Attack M          Extract Eff. S,Bonnetfille         Blunt    Attack M          Extract Eff. S,mh4edit-mit-save-id
+kinsect,19,type,17,Ladytarge           Blunt    Stamina S,Ladytarge           Blunt    Stamina S,mh4edit-mit-save-id
+kinsect,19,type,18,Ladypavise          Blunt    Stamina L,Ladypavise          Blunt    Stamina L,mh4edit-mit-save-id
+kinsect,19,type,19,Arkmaiden           Blunt    Stamina M         Extract Eff. S,Arkmaiden           Blunt    Stamina M         Extract Eff. S,mh4edit-mit-save-id
+kinsect,19,type,20,Gullshad            Blunt    Speed S,Gullshad            Blunt    Speed S,mh4edit-mit-save-id
+kinsect,19,type,21,Bullshroud          Blunt    Speed L,Bullshroud          Blunt    Speed L,mh4edit-mit-save-id
+kinsect,19,type,22,Whispervesp         Blunt    Speed M           Extract Eff. S,Whispervesp         Blunt    Speed M           Extract Eff. S,mh4edit-mit-save-id
+kinsect,19,type,23,Arginesse           Blunt    All Stats M       Extract Eff. L,Arginesse           Blunt    All Stats M       Extract Eff. L,mh4edit-mit-save-id
+kinsect,19,type,24,Thunderball         Blunt    none              [unused],Thunderball         Blunt    none              [unused],mh4edit-mit-save-id
+kinsect,19,type,25,Bilbobrix           Cutting  Attack+Stamina L  Extract Eff. S     Extract Extend,Bilbobrix           Cutting  Attack+Stamina L  Extract Eff. S     Extract Extend,mh4edit-mit-save-id
+kinsect,19,type,26,Foliacath           Cutting  Stamina+Speed L   Extract Eff. S     Charge Time Down,Foliacath           Cutting  Stamina+Speed L   Extract Eff. S     Charge Time Down,mh4edit-mit-save-id
+kinsect,19,type,27,Exalted Alucanid    Cutting  Attack+Speed L    Extract Eff. S     Pierce Up,Exalted Alucanid    Cutting  Attack+Speed L    Extract Eff. S     Pierce Up,mh4edit-mit-save-id
+kinsect,19,type,28,Great Elscarad      Cutting  All Stats L       Extract UP+Status  Extracts +1,Great Elscarad      Cutting  All Stats L       Extract UP+Status  Extracts +1,mh4edit-mit-save-id
+kinsect,19,type,29,Ladytower           Blunt    Attack+Stamina L  Extract Eff. S     Extract Extend,Ladytower           Blunt    Attack+Stamina L  Extract Eff. S     Extract Extend,mh4edit-mit-save-id
+kinsect,19,type,30,Fleetflammer        Blunt    Stamina+Speed L   Extract Eff. S     Charge Time Down,Fleetflammer        Blunt    Stamina+Speed L   Extract Eff. S     Charge Time Down,mh4edit-mit-save-id
+kinsect,19,type,31,Gleambeetle         Blunt    Attack+Speed L    Extract Eff. S     Pierce Up,Gleambeetle         Blunt    Attack+Speed L    Extract Eff. S     Pierce Up,mh4edit-mit-save-id
+kinsect,19,type,32,Great Arginesse     Blunt    All Stats L       Extract UP+Status  Extracts +1,Great Arginesse     Blunt    All Stats L       Extract UP+Status  Extracts +1,mh4edit-mit-save-id
+kinsect,19,type,33,Clockmaster         Blunt    Speed S           Extract Extend,Clockmaster         Blunt    Speed S           Extract Extend,mh4edit-mit-save-id
+kinsect,19,type,34,Barrett Hawk        Cutting  Extracts +1       [unused],Barrett Hawk        Cutting  Extracts +1       [unused],mh4edit-mit-save-id
+polish_requirement,1,all,0,0,0,mh4edit-mit-save-id
+polish_requirement,1,all,1,1,1,mh4edit-mit-save-id
+polish_requirement,1,all,2,2,2,mh4edit-mit-save-id
+polish_requirement,1,all,3,3,3,mh4edit-mit-save-id
+polish_requirement,1,all,4,4,4,mh4edit-mit-save-id
+polish_requirement,2,all,0,0,0,mh4edit-mit-save-id
+polish_requirement,2,all,1,1,1,mh4edit-mit-save-id
+polish_requirement,2,all,2,2,2,mh4edit-mit-save-id
+polish_requirement,2,all,3,3,3,mh4edit-mit-save-id
+polish_requirement,2,all,4,4,4,mh4edit-mit-save-id
+polish_requirement,3,all,0,0,0,mh4edit-mit-save-id
+polish_requirement,3,all,1,1,1,mh4edit-mit-save-id
+polish_requirement,3,all,2,2,2,mh4edit-mit-save-id
+polish_requirement,3,all,3,3,3,mh4edit-mit-save-id
+polish_requirement,3,all,4,4,4,mh4edit-mit-save-id
+polish_requirement,4,all,0,0,0,mh4edit-mit-save-id
+polish_requirement,4,all,1,1,1,mh4edit-mit-save-id
+polish_requirement,4,all,2,2,2,mh4edit-mit-save-id
+polish_requirement,4,all,3,3,3,mh4edit-mit-save-id
+polish_requirement,4,all,4,4,4,mh4edit-mit-save-id
+polish_requirement,5,all,0,0,0,mh4edit-mit-save-id
+polish_requirement,5,all,1,1,1,mh4edit-mit-save-id
+polish_requirement,5,all,2,2,2,mh4edit-mit-save-id
+polish_requirement,5,all,3,3,3,mh4edit-mit-save-id
+polish_requirement,5,all,4,4,4,mh4edit-mit-save-id
+polish_requirement,7,all,0,0,0,mh4edit-mit-save-id
+polish_requirement,7,all,1,1,1,mh4edit-mit-save-id
+polish_requirement,7,all,2,2,2,mh4edit-mit-save-id
+polish_requirement,7,all,3,3,3,mh4edit-mit-save-id
+polish_requirement,7,all,4,4,4,mh4edit-mit-save-id
+polish_requirement,8,all,0,0,0,mh4edit-mit-save-id
+polish_requirement,8,all,1,1,1,mh4edit-mit-save-id
+polish_requirement,8,all,2,2,2,mh4edit-mit-save-id
+polish_requirement,8,all,3,3,3,mh4edit-mit-save-id
+polish_requirement,8,all,4,4,4,mh4edit-mit-save-id
+polish_requirement,9,all,0,0,0,mh4edit-mit-save-id
+polish_requirement,9,all,1,1,1,mh4edit-mit-save-id
+polish_requirement,9,all,2,2,2,mh4edit-mit-save-id
+polish_requirement,9,all,3,3,3,mh4edit-mit-save-id
+polish_requirement,9,all,4,4,4,mh4edit-mit-save-id
+polish_requirement,10,all,0,0,0,mh4edit-mit-save-id
+polish_requirement,10,all,1,1,1,mh4edit-mit-save-id
+polish_requirement,10,all,2,2,2,mh4edit-mit-save-id
+polish_requirement,10,all,3,3,3,mh4edit-mit-save-id
+polish_requirement,10,all,4,4,4,mh4edit-mit-save-id
+polish_requirement,11,all,0,0,0,mh4edit-mit-save-id
+polish_requirement,11,all,1,1,1,mh4edit-mit-save-id
+polish_requirement,11,all,2,2,2,mh4edit-mit-save-id
+polish_requirement,11,all,3,3,3,mh4edit-mit-save-id
+polish_requirement,11,all,4,4,4,mh4edit-mit-save-id
+polish_requirement,12,all,0,0,0,mh4edit-mit-save-id
+polish_requirement,12,all,1,1,1,mh4edit-mit-save-id
+polish_requirement,12,all,2,2,2,mh4edit-mit-save-id
+polish_requirement,12,all,3,3,3,mh4edit-mit-save-id
+polish_requirement,12,all,4,4,4,mh4edit-mit-save-id
+polish_requirement,13,all,0,0,0,mh4edit-mit-save-id
+polish_requirement,13,all,1,1,1,mh4edit-mit-save-id
+polish_requirement,13,all,2,2,2,mh4edit-mit-save-id
+polish_requirement,13,all,3,3,3,mh4edit-mit-save-id
+polish_requirement,13,all,4,4,4,mh4edit-mit-save-id
+polish_requirement,14,all,0,0,0,mh4edit-mit-save-id
+polish_requirement,14,all,1,1,1,mh4edit-mit-save-id
+polish_requirement,14,all,2,2,2,mh4edit-mit-save-id
+polish_requirement,14,all,3,3,3,mh4edit-mit-save-id
+polish_requirement,14,all,4,4,4,mh4edit-mit-save-id
+polish_requirement,15,all,0,0,0,mh4edit-mit-save-id
+polish_requirement,15,all,1,1,1,mh4edit-mit-save-id
+polish_requirement,15,all,2,2,2,mh4edit-mit-save-id
+polish_requirement,15,all,3,3,3,mh4edit-mit-save-id
+polish_requirement,15,all,4,4,4,mh4edit-mit-save-id
+polish_requirement,16,all,0,0,0,mh4edit-mit-save-id
+polish_requirement,16,all,1,1,1,mh4edit-mit-save-id
+polish_requirement,16,all,2,2,2,mh4edit-mit-save-id
+polish_requirement,16,all,3,3,3,mh4edit-mit-save-id
+polish_requirement,16,all,4,4,4,mh4edit-mit-save-id
+polish_requirement,17,all,0,0,0,mh4edit-mit-save-id
+polish_requirement,17,all,1,1,1,mh4edit-mit-save-id
+polish_requirement,17,all,2,2,2,mh4edit-mit-save-id
+polish_requirement,17,all,3,3,3,mh4edit-mit-save-id
+polish_requirement,17,all,4,4,4,mh4edit-mit-save-id
+polish_requirement,18,all,0,0,0,mh4edit-mit-save-id
+polish_requirement,18,all,1,1,1,mh4edit-mit-save-id
+polish_requirement,18,all,2,2,2,mh4edit-mit-save-id
+polish_requirement,18,all,3,3,3,mh4edit-mit-save-id
+polish_requirement,18,all,4,4,4,mh4edit-mit-save-id
+polish_requirement,19,all,0,0,0,mh4edit-mit-save-id
+polish_requirement,19,all,1,1,1,mh4edit-mit-save-id
+polish_requirement,19,all,2,2,2,mh4edit-mit-save-id
+polish_requirement,19,all,3,3,3,mh4edit-mit-save-id
+polish_requirement,19,all,4,4,4,mh4edit-mit-save-id
+polish_requirement,20,all,0,0,0,mh4edit-mit-save-id
+polish_requirement,20,all,1,1,1,mh4edit-mit-save-id
+polish_requirement,20,all,2,2,2,mh4edit-mit-save-id
+polish_requirement,20,all,3,3,3,mh4edit-mit-save-id
+polish_requirement,20,all,4,4,4,mh4edit-mit-save-id
+rarity,1,relic,0,1,1,mh4edit-mit-save-id
+rarity,1,relic,1,2,2,mh4edit-mit-save-id
+rarity,1,relic,2,3,3,mh4edit-mit-save-id
+rarity,1,relic,3,4,4,mh4edit-mit-save-id
+rarity,1,relic,4,5,5,mh4edit-mit-save-id
+rarity,1,relic,5,6,6,mh4edit-mit-save-id
+rarity,1,relic,6,7,7,mh4edit-mit-save-id
+rarity,1,relic,7,8,8,mh4edit-mit-save-id
+rarity,1,relic,8,9,9,mh4edit-mit-save-id
+rarity,1,relic,9,10,10,mh4edit-mit-save-id
+rarity,2,relic,0,1,1,mh4edit-mit-save-id
+rarity,2,relic,1,2,2,mh4edit-mit-save-id
+rarity,2,relic,2,3,3,mh4edit-mit-save-id
+rarity,2,relic,3,4,4,mh4edit-mit-save-id
+rarity,2,relic,4,5,5,mh4edit-mit-save-id
+rarity,2,relic,5,6,6,mh4edit-mit-save-id
+rarity,2,relic,6,7,7,mh4edit-mit-save-id
+rarity,2,relic,7,8,8,mh4edit-mit-save-id
+rarity,2,relic,8,9,9,mh4edit-mit-save-id
+rarity,2,relic,9,10,10,mh4edit-mit-save-id
+rarity,3,relic,0,1,1,mh4edit-mit-save-id
+rarity,3,relic,1,2,2,mh4edit-mit-save-id
+rarity,3,relic,2,3,3,mh4edit-mit-save-id
+rarity,3,relic,3,4,4,mh4edit-mit-save-id
+rarity,3,relic,4,5,5,mh4edit-mit-save-id
+rarity,3,relic,5,6,6,mh4edit-mit-save-id
+rarity,3,relic,6,7,7,mh4edit-mit-save-id
+rarity,3,relic,7,8,8,mh4edit-mit-save-id
+rarity,3,relic,8,9,9,mh4edit-mit-save-id
+rarity,3,relic,9,10,10,mh4edit-mit-save-id
+rarity,4,relic,0,1,1,mh4edit-mit-save-id
+rarity,4,relic,1,2,2,mh4edit-mit-save-id
+rarity,4,relic,2,3,3,mh4edit-mit-save-id
+rarity,4,relic,3,4,4,mh4edit-mit-save-id
+rarity,4,relic,4,5,5,mh4edit-mit-save-id
+rarity,4,relic,5,6,6,mh4edit-mit-save-id
+rarity,4,relic,6,7,7,mh4edit-mit-save-id
+rarity,4,relic,7,8,8,mh4edit-mit-save-id
+rarity,4,relic,8,9,9,mh4edit-mit-save-id
+rarity,4,relic,9,10,10,mh4edit-mit-save-id
+rarity,5,relic,0,1,1,mh4edit-mit-save-id
+rarity,5,relic,1,2,2,mh4edit-mit-save-id
+rarity,5,relic,2,3,3,mh4edit-mit-save-id
+rarity,5,relic,3,4,4,mh4edit-mit-save-id
+rarity,5,relic,4,5,5,mh4edit-mit-save-id
+rarity,5,relic,5,6,6,mh4edit-mit-save-id
+rarity,5,relic,6,7,7,mh4edit-mit-save-id
+rarity,5,relic,7,8,8,mh4edit-mit-save-id
+rarity,5,relic,8,9,9,mh4edit-mit-save-id
+rarity,5,relic,9,10,10,mh4edit-mit-save-id
+rarity,7,relic,0,1,1,mh4edit-mit-save-id
+rarity,7,relic,1,2,2,mh4edit-mit-save-id
+rarity,7,relic,2,3,3,mh4edit-mit-save-id
+rarity,7,relic,3,4,4,mh4edit-mit-save-id
+rarity,7,relic,4,5,5,mh4edit-mit-save-id
+rarity,7,relic,5,6,6,mh4edit-mit-save-id
+rarity,7,relic,6,7,7,mh4edit-mit-save-id
+rarity,7,relic,7,8,8,mh4edit-mit-save-id
+rarity,7,relic,8,9,9,mh4edit-mit-save-id
+rarity,7,relic,9,10,10,mh4edit-mit-save-id
+rarity,8,relic,0,1,1,mh4edit-mit-save-id
+rarity,8,relic,1,2,2,mh4edit-mit-save-id
+rarity,8,relic,2,3,3,mh4edit-mit-save-id
+rarity,8,relic,3,4,4,mh4edit-mit-save-id
+rarity,8,relic,4,5,5,mh4edit-mit-save-id
+rarity,8,relic,5,6,6,mh4edit-mit-save-id
+rarity,8,relic,6,7,7,mh4edit-mit-save-id
+rarity,8,relic,7,8,8,mh4edit-mit-save-id
+rarity,8,relic,8,9,9,mh4edit-mit-save-id
+rarity,8,relic,9,10,10,mh4edit-mit-save-id
+rarity,9,relic,0,1,1,mh4edit-mit-save-id
+rarity,9,relic,1,2,2,mh4edit-mit-save-id
+rarity,9,relic,2,3,3,mh4edit-mit-save-id
+rarity,9,relic,3,4,4,mh4edit-mit-save-id
+rarity,9,relic,4,5,5,mh4edit-mit-save-id
+rarity,9,relic,5,6,6,mh4edit-mit-save-id
+rarity,9,relic,6,7,7,mh4edit-mit-save-id
+rarity,9,relic,7,8,8,mh4edit-mit-save-id
+rarity,9,relic,8,9,9,mh4edit-mit-save-id
+rarity,9,relic,9,10,10,mh4edit-mit-save-id
+rarity,10,relic,0,1,1,mh4edit-mit-save-id
+rarity,10,relic,1,2,2,mh4edit-mit-save-id
+rarity,10,relic,2,3,3,mh4edit-mit-save-id
+rarity,10,relic,3,4,4,mh4edit-mit-save-id
+rarity,10,relic,4,5,5,mh4edit-mit-save-id
+rarity,10,relic,5,6,6,mh4edit-mit-save-id
+rarity,10,relic,6,7,7,mh4edit-mit-save-id
+rarity,10,relic,7,8,8,mh4edit-mit-save-id
+rarity,10,relic,8,9,9,mh4edit-mit-save-id
+rarity,10,relic,9,10,10,mh4edit-mit-save-id
+rarity,11,relic,0,1,1,mh4edit-mit-save-id
+rarity,11,relic,1,2,2,mh4edit-mit-save-id
+rarity,11,relic,2,3,3,mh4edit-mit-save-id
+rarity,11,relic,3,4,4,mh4edit-mit-save-id
+rarity,11,relic,4,5,5,mh4edit-mit-save-id
+rarity,11,relic,5,6,6,mh4edit-mit-save-id
+rarity,11,relic,6,7,7,mh4edit-mit-save-id
+rarity,11,relic,7,8,8,mh4edit-mit-save-id
+rarity,11,relic,8,9,9,mh4edit-mit-save-id
+rarity,11,relic,9,10,10,mh4edit-mit-save-id
+rarity,12,relic,0,1,1,mh4edit-mit-save-id
+rarity,12,relic,1,2,2,mh4edit-mit-save-id
+rarity,12,relic,2,3,3,mh4edit-mit-save-id
+rarity,12,relic,3,4,4,mh4edit-mit-save-id
+rarity,12,relic,4,5,5,mh4edit-mit-save-id
+rarity,12,relic,5,6,6,mh4edit-mit-save-id
+rarity,12,relic,6,7,7,mh4edit-mit-save-id
+rarity,12,relic,7,8,8,mh4edit-mit-save-id
+rarity,12,relic,8,9,9,mh4edit-mit-save-id
+rarity,12,relic,9,10,10,mh4edit-mit-save-id
+rarity,13,relic,0,1,1,mh4edit-mit-save-id
+rarity,13,relic,1,2,2,mh4edit-mit-save-id
+rarity,13,relic,2,3,3,mh4edit-mit-save-id
+rarity,13,relic,3,4,4,mh4edit-mit-save-id
+rarity,13,relic,4,5,5,mh4edit-mit-save-id
+rarity,13,relic,5,6,6,mh4edit-mit-save-id
+rarity,13,relic,6,7,7,mh4edit-mit-save-id
+rarity,13,relic,7,8,8,mh4edit-mit-save-id
+rarity,13,relic,8,9,9,mh4edit-mit-save-id
+rarity,13,relic,9,10,10,mh4edit-mit-save-id
+rarity,14,relic,0,1,1,mh4edit-mit-save-id
+rarity,14,relic,1,2,2,mh4edit-mit-save-id
+rarity,14,relic,2,3,3,mh4edit-mit-save-id
+rarity,14,relic,3,4,4,mh4edit-mit-save-id
+rarity,14,relic,4,5,5,mh4edit-mit-save-id
+rarity,14,relic,5,6,6,mh4edit-mit-save-id
+rarity,14,relic,6,7,7,mh4edit-mit-save-id
+rarity,14,relic,7,8,8,mh4edit-mit-save-id
+rarity,14,relic,8,9,9,mh4edit-mit-save-id
+rarity,14,relic,9,10,10,mh4edit-mit-save-id
+rarity,15,relic,0,1,1,mh4edit-mit-save-id
+rarity,15,relic,1,2,2,mh4edit-mit-save-id
+rarity,15,relic,2,3,3,mh4edit-mit-save-id
+rarity,15,relic,3,4,4,mh4edit-mit-save-id
+rarity,15,relic,4,5,5,mh4edit-mit-save-id
+rarity,15,relic,5,6,6,mh4edit-mit-save-id
+rarity,15,relic,6,7,7,mh4edit-mit-save-id
+rarity,15,relic,7,8,8,mh4edit-mit-save-id
+rarity,15,relic,8,9,9,mh4edit-mit-save-id
+rarity,15,relic,9,10,10,mh4edit-mit-save-id
+rarity,16,relic,0,1,1,mh4edit-mit-save-id
+rarity,16,relic,1,2,2,mh4edit-mit-save-id
+rarity,16,relic,2,3,3,mh4edit-mit-save-id
+rarity,16,relic,3,4,4,mh4edit-mit-save-id
+rarity,16,relic,4,5,5,mh4edit-mit-save-id
+rarity,16,relic,5,6,6,mh4edit-mit-save-id
+rarity,16,relic,6,7,7,mh4edit-mit-save-id
+rarity,16,relic,7,8,8,mh4edit-mit-save-id
+rarity,16,relic,8,9,9,mh4edit-mit-save-id
+rarity,16,relic,9,10,10,mh4edit-mit-save-id
+rarity,17,relic,0,1,1,mh4edit-mit-save-id
+rarity,17,relic,1,2,2,mh4edit-mit-save-id
+rarity,17,relic,2,3,3,mh4edit-mit-save-id
+rarity,17,relic,3,4,4,mh4edit-mit-save-id
+rarity,17,relic,4,5,5,mh4edit-mit-save-id
+rarity,17,relic,5,6,6,mh4edit-mit-save-id
+rarity,17,relic,6,7,7,mh4edit-mit-save-id
+rarity,17,relic,7,8,8,mh4edit-mit-save-id
+rarity,17,relic,8,9,9,mh4edit-mit-save-id
+rarity,17,relic,9,10,10,mh4edit-mit-save-id
+rarity,18,relic,0,1,1,mh4edit-mit-save-id
+rarity,18,relic,1,2,2,mh4edit-mit-save-id
+rarity,18,relic,2,3,3,mh4edit-mit-save-id
+rarity,18,relic,3,4,4,mh4edit-mit-save-id
+rarity,18,relic,4,5,5,mh4edit-mit-save-id
+rarity,18,relic,5,6,6,mh4edit-mit-save-id
+rarity,18,relic,6,7,7,mh4edit-mit-save-id
+rarity,18,relic,7,8,8,mh4edit-mit-save-id
+rarity,18,relic,8,9,9,mh4edit-mit-save-id
+rarity,18,relic,9,10,10,mh4edit-mit-save-id
+rarity,19,relic,0,1,1,mh4edit-mit-save-id
+rarity,19,relic,1,2,2,mh4edit-mit-save-id
+rarity,19,relic,2,3,3,mh4edit-mit-save-id
+rarity,19,relic,3,4,4,mh4edit-mit-save-id
+rarity,19,relic,4,5,5,mh4edit-mit-save-id
+rarity,19,relic,5,6,6,mh4edit-mit-save-id
+rarity,19,relic,6,7,7,mh4edit-mit-save-id
+rarity,19,relic,7,8,8,mh4edit-mit-save-id
+rarity,19,relic,8,9,9,mh4edit-mit-save-id
+rarity,19,relic,9,10,10,mh4edit-mit-save-id
+rarity,20,relic,0,1,1,mh4edit-mit-save-id
+rarity,20,relic,1,2,2,mh4edit-mit-save-id
+rarity,20,relic,2,3,3,mh4edit-mit-save-id
+rarity,20,relic,3,4,4,mh4edit-mit-save-id
+rarity,20,relic,4,5,5,mh4edit-mit-save-id
+rarity,20,relic,5,6,6,mh4edit-mit-save-id
+rarity,20,relic,6,7,7,mh4edit-mit-save-id
+rarity,20,relic,7,8,8,mh4edit-mit-save-id
+rarity,20,relic,8,9,9,mh4edit-mit-save-id
+rarity,20,relic,9,10,10,mh4edit-mit-save-id
+relic_defense,1,armor,0,10,10,mh4edit-mit-save-id
+relic_defense,1,armor,1,12,12,mh4edit-mit-save-id
+relic_defense,1,armor,2,16,16,mh4edit-mit-save-id
+relic_defense,1,armor,3,18,18,mh4edit-mit-save-id
+relic_defense,1,armor,4,20,20,mh4edit-mit-save-id
+relic_defense,1,armor,5,22,22,mh4edit-mit-save-id
+relic_defense,1,armor,6,33,33,mh4edit-mit-save-id
+relic_defense,1,armor,7,36,36,mh4edit-mit-save-id
+relic_defense,1,armor,8,39,39,mh4edit-mit-save-id
+relic_defense,1,armor,9,20,20,mh4edit-mit-save-id
+relic_defense,1,armor,10,24,24,mh4edit-mit-save-id
+relic_defense,1,armor,11,30,30,mh4edit-mit-save-id
+relic_defense,1,armor,12,34,34,mh4edit-mit-save-id
+relic_defense,1,armor,13,40,40,mh4edit-mit-save-id
+relic_defense,1,armor,14,45,45,mh4edit-mit-save-id
+relic_defense,1,armor,15,65,65,mh4edit-mit-save-id
+relic_defense,1,armor,16,72,72,mh4edit-mit-save-id
+relic_defense,1,armor,17,78,78,mh4edit-mit-save-id
+relic_defense,1,armor,18,46,46,mh4edit-mit-save-id
+relic_defense,1,armor,19,50,50,mh4edit-mit-save-id
+relic_defense,1,armor,20,54,54,mh4edit-mit-save-id
+relic_defense,1,armor,21,64,64,mh4edit-mit-save-id
+relic_defense,1,armor,22,72,72,mh4edit-mit-save-id
+relic_defense,1,armor,23,86,86,mh4edit-mit-save-id
+relic_defense,1,armor,24,92,92,mh4edit-mit-save-id
+relic_defense,1,armor,25,98,98,mh4edit-mit-save-id
+relic_defense,1,armor,26,112,112,mh4edit-mit-save-id
+relic_defense,1,armor,27,120,120,mh4edit-mit-save-id
+relic_defense,2,armor,0,10,10,mh4edit-mit-save-id
+relic_defense,2,armor,1,12,12,mh4edit-mit-save-id
+relic_defense,2,armor,2,16,16,mh4edit-mit-save-id
+relic_defense,2,armor,3,18,18,mh4edit-mit-save-id
+relic_defense,2,armor,4,20,20,mh4edit-mit-save-id
+relic_defense,2,armor,5,22,22,mh4edit-mit-save-id
+relic_defense,2,armor,6,33,33,mh4edit-mit-save-id
+relic_defense,2,armor,7,36,36,mh4edit-mit-save-id
+relic_defense,2,armor,8,39,39,mh4edit-mit-save-id
+relic_defense,2,armor,9,20,20,mh4edit-mit-save-id
+relic_defense,2,armor,10,24,24,mh4edit-mit-save-id
+relic_defense,2,armor,11,30,30,mh4edit-mit-save-id
+relic_defense,2,armor,12,34,34,mh4edit-mit-save-id
+relic_defense,2,armor,13,40,40,mh4edit-mit-save-id
+relic_defense,2,armor,14,45,45,mh4edit-mit-save-id
+relic_defense,2,armor,15,65,65,mh4edit-mit-save-id
+relic_defense,2,armor,16,72,72,mh4edit-mit-save-id
+relic_defense,2,armor,17,78,78,mh4edit-mit-save-id
+relic_defense,2,armor,18,46,46,mh4edit-mit-save-id
+relic_defense,2,armor,19,50,50,mh4edit-mit-save-id
+relic_defense,2,armor,20,54,54,mh4edit-mit-save-id
+relic_defense,2,armor,21,64,64,mh4edit-mit-save-id
+relic_defense,2,armor,22,72,72,mh4edit-mit-save-id
+relic_defense,2,armor,23,86,86,mh4edit-mit-save-id
+relic_defense,2,armor,24,92,92,mh4edit-mit-save-id
+relic_defense,2,armor,25,98,98,mh4edit-mit-save-id
+relic_defense,2,armor,26,112,112,mh4edit-mit-save-id
+relic_defense,2,armor,27,120,120,mh4edit-mit-save-id
+relic_defense,3,armor,0,10,10,mh4edit-mit-save-id
+relic_defense,3,armor,1,12,12,mh4edit-mit-save-id
+relic_defense,3,armor,2,16,16,mh4edit-mit-save-id
+relic_defense,3,armor,3,18,18,mh4edit-mit-save-id
+relic_defense,3,armor,4,20,20,mh4edit-mit-save-id
+relic_defense,3,armor,5,22,22,mh4edit-mit-save-id
+relic_defense,3,armor,6,33,33,mh4edit-mit-save-id
+relic_defense,3,armor,7,36,36,mh4edit-mit-save-id
+relic_defense,3,armor,8,39,39,mh4edit-mit-save-id
+relic_defense,3,armor,9,20,20,mh4edit-mit-save-id
+relic_defense,3,armor,10,24,24,mh4edit-mit-save-id
+relic_defense,3,armor,11,30,30,mh4edit-mit-save-id
+relic_defense,3,armor,12,34,34,mh4edit-mit-save-id
+relic_defense,3,armor,13,40,40,mh4edit-mit-save-id
+relic_defense,3,armor,14,45,45,mh4edit-mit-save-id
+relic_defense,3,armor,15,65,65,mh4edit-mit-save-id
+relic_defense,3,armor,16,72,72,mh4edit-mit-save-id
+relic_defense,3,armor,17,78,78,mh4edit-mit-save-id
+relic_defense,3,armor,18,46,46,mh4edit-mit-save-id
+relic_defense,3,armor,19,50,50,mh4edit-mit-save-id
+relic_defense,3,armor,20,54,54,mh4edit-mit-save-id
+relic_defense,3,armor,21,64,64,mh4edit-mit-save-id
+relic_defense,3,armor,22,72,72,mh4edit-mit-save-id
+relic_defense,3,armor,23,86,86,mh4edit-mit-save-id
+relic_defense,3,armor,24,92,92,mh4edit-mit-save-id
+relic_defense,3,armor,25,98,98,mh4edit-mit-save-id
+relic_defense,3,armor,26,112,112,mh4edit-mit-save-id
+relic_defense,3,armor,27,120,120,mh4edit-mit-save-id
+relic_defense,4,armor,0,10,10,mh4edit-mit-save-id
+relic_defense,4,armor,1,12,12,mh4edit-mit-save-id
+relic_defense,4,armor,2,16,16,mh4edit-mit-save-id
+relic_defense,4,armor,3,18,18,mh4edit-mit-save-id
+relic_defense,4,armor,4,20,20,mh4edit-mit-save-id
+relic_defense,4,armor,5,22,22,mh4edit-mit-save-id
+relic_defense,4,armor,6,33,33,mh4edit-mit-save-id
+relic_defense,4,armor,7,36,36,mh4edit-mit-save-id
+relic_defense,4,armor,8,39,39,mh4edit-mit-save-id
+relic_defense,4,armor,9,20,20,mh4edit-mit-save-id
+relic_defense,4,armor,10,24,24,mh4edit-mit-save-id
+relic_defense,4,armor,11,30,30,mh4edit-mit-save-id
+relic_defense,4,armor,12,34,34,mh4edit-mit-save-id
+relic_defense,4,armor,13,40,40,mh4edit-mit-save-id
+relic_defense,4,armor,14,45,45,mh4edit-mit-save-id
+relic_defense,4,armor,15,65,65,mh4edit-mit-save-id
+relic_defense,4,armor,16,72,72,mh4edit-mit-save-id
+relic_defense,4,armor,17,78,78,mh4edit-mit-save-id
+relic_defense,4,armor,18,46,46,mh4edit-mit-save-id
+relic_defense,4,armor,19,50,50,mh4edit-mit-save-id
+relic_defense,4,armor,20,54,54,mh4edit-mit-save-id
+relic_defense,4,armor,21,64,64,mh4edit-mit-save-id
+relic_defense,4,armor,22,72,72,mh4edit-mit-save-id
+relic_defense,4,armor,23,86,86,mh4edit-mit-save-id
+relic_defense,4,armor,24,92,92,mh4edit-mit-save-id
+relic_defense,4,armor,25,98,98,mh4edit-mit-save-id
+relic_defense,4,armor,26,112,112,mh4edit-mit-save-id
+relic_defense,4,armor,27,120,120,mh4edit-mit-save-id
+relic_defense,5,armor,0,10,10,mh4edit-mit-save-id
+relic_defense,5,armor,1,12,12,mh4edit-mit-save-id
+relic_defense,5,armor,2,16,16,mh4edit-mit-save-id
+relic_defense,5,armor,3,18,18,mh4edit-mit-save-id
+relic_defense,5,armor,4,20,20,mh4edit-mit-save-id
+relic_defense,5,armor,5,22,22,mh4edit-mit-save-id
+relic_defense,5,armor,6,33,33,mh4edit-mit-save-id
+relic_defense,5,armor,7,36,36,mh4edit-mit-save-id
+relic_defense,5,armor,8,39,39,mh4edit-mit-save-id
+relic_defense,5,armor,9,20,20,mh4edit-mit-save-id
+relic_defense,5,armor,10,24,24,mh4edit-mit-save-id
+relic_defense,5,armor,11,30,30,mh4edit-mit-save-id
+relic_defense,5,armor,12,34,34,mh4edit-mit-save-id
+relic_defense,5,armor,13,40,40,mh4edit-mit-save-id
+relic_defense,5,armor,14,45,45,mh4edit-mit-save-id
+relic_defense,5,armor,15,65,65,mh4edit-mit-save-id
+relic_defense,5,armor,16,72,72,mh4edit-mit-save-id
+relic_defense,5,armor,17,78,78,mh4edit-mit-save-id
+relic_defense,5,armor,18,46,46,mh4edit-mit-save-id
+relic_defense,5,armor,19,50,50,mh4edit-mit-save-id
+relic_defense,5,armor,20,54,54,mh4edit-mit-save-id
+relic_defense,5,armor,21,64,64,mh4edit-mit-save-id
+relic_defense,5,armor,22,72,72,mh4edit-mit-save-id
+relic_defense,5,armor,23,86,86,mh4edit-mit-save-id
+relic_defense,5,armor,24,92,92,mh4edit-mit-save-id
+relic_defense,5,armor,25,98,98,mh4edit-mit-save-id
+relic_defense,5,armor,26,112,112,mh4edit-mit-save-id
+relic_defense,5,armor,27,120,120,mh4edit-mit-save-id
+relic_resistance,1,armor,0,Fi 4 / Wa -1 / Th 1 / Ic 0 / Dr 1,Fi 4 / Wa -1 / Th 1 / Ic 0 / Dr 1,mh4edit-mit-save-id
+relic_resistance,1,armor,1,Fi 1 / Wa 4 / Th -1 / Ic 0 / Dr 1,Fi 1 / Wa 4 / Th -1 / Ic 0 / Dr 1,mh4edit-mit-save-id
+relic_resistance,1,armor,2,Fi -1 /Wa 0 / Th 4 / Ic 1 / Dr 1,Fi -1 /Wa 0 / Th 4 / Ic 1 / Dr 1,mh4edit-mit-save-id
+relic_resistance,1,armor,3,Fi 0 / Wa -1 / Th 1 / Ic 4 / Dr 1,Fi 0 / Wa -1 / Th 1 / Ic 4 / Dr 1,mh4edit-mit-save-id
+relic_resistance,1,armor,4,Fi 1 / Wa 1 / Th -1 / Ic 0 / Dr 4,Fi 1 / Wa 1 / Th -1 / Ic 0 / Dr 4,mh4edit-mit-save-id
+relic_resistance,1,armor,5,Fi 6 / Wa -2 / Th 1 / Ic 0 / Dr 1,Fi 6 / Wa -2 / Th 1 / Ic 0 / Dr 1,mh4edit-mit-save-id
+relic_resistance,1,armor,6,Fi 1 / Wa 6 / Th -2 / Ic 0 / Dr 1,Fi 1 / Wa 6 / Th -2 / Ic 0 / Dr 1,mh4edit-mit-save-id
+relic_resistance,1,armor,7,Fi -2 / Wa 0 / Th 6 / Ic 1 / Dr 1,Fi -2 / Wa 0 / Th 6 / Ic 1 / Dr 1,mh4edit-mit-save-id
+relic_resistance,1,armor,8,Fi -2 / Wa 0 / Th 1 / Ic 6 / Dr 1,Fi -2 / Wa 0 / Th 1 / Ic 6 / Dr 1,mh4edit-mit-save-id
+relic_resistance,1,armor,9,Fi 1 / Wa 1 / Th 0 / Ic -2 / Dr 6,Fi 1 / Wa 1 / Th 0 / Ic -2 / Dr 6,mh4edit-mit-save-id
+relic_resistance,1,armor,10,Fi 6 / Wa -1 / Th 1 / Ic -1 / Dr 4,Fi 6 / Wa -1 / Th 1 / Ic -1 / Dr 4,mh4edit-mit-save-id
+relic_resistance,1,armor,11,Fi 1 / Wa 6 / Th -1 / Ic -1 / Dr 4,Fi 1 / Wa 6 / Th -1 / Ic -1 / Dr 4,mh4edit-mit-save-id
+relic_resistance,1,armor,12,Fi -1 / Wa -1 / Th 6 / Ic 1 / Dr 4,Fi -1 / Wa -1 / Th 6 / Ic 1 / Dr 4,mh4edit-mit-save-id
+relic_resistance,1,armor,13,Fi -1 / Wa -1 / Th 1 / Ic 6 / Dr 4,Fi -1 / Wa -1 / Th 1 / Ic 6 / Dr 4,mh4edit-mit-save-id
+relic_resistance,1,armor,14,Fi 1 / Wa 1 / Th -2 / Ic -2 / Dr 8,Fi 1 / Wa 1 / Th -2 / Ic -2 / Dr 8,mh4edit-mit-save-id
+relic_resistance,1,armor,15,Fi 0 / Wa 0 / Th 0 / Ic 0 / Dr 0,Fi 0 / Wa 0 / Th 0 / Ic 0 / Dr 0,mh4edit-mit-save-id
+relic_resistance,1,armor,16,Fi 0 / Wa 0 / Th 0 / Ic 0 / Dr 0,Fi 0 / Wa 0 / Th 0 / Ic 0 / Dr 0,mh4edit-mit-save-id
+relic_resistance,1,armor,17,Fi 0 / Wa 0 / Th 0 / Ic 0 / Dr 0,Fi 0 / Wa 0 / Th 0 / Ic 0 / Dr 0,mh4edit-mit-save-id
+relic_resistance,1,armor,18,Fi 0 / Wa 0 / Th 0 / Ic 0 / Dr 0,Fi 0 / Wa 0 / Th 0 / Ic 0 / Dr 0,mh4edit-mit-save-id
+relic_resistance,1,armor,19,Fi 0 / Wa 0 / Th 0 / Ic 0 / Dr 0,Fi 0 / Wa 0 / Th 0 / Ic 0 / Dr 0,mh4edit-mit-save-id
+relic_resistance,1,armor,20,Fi 3 / Wa -2 / Th 0 / Ic -1 / Dr 0,Fi 3 / Wa -2 / Th 0 / Ic -1 / Dr 0,mh4edit-mit-save-id
+relic_resistance,1,armor,21,Fi 0 / Wa 3 / Th -2 / Ic -1 / Dr 0,Fi 0 / Wa 3 / Th -2 / Ic -1 / Dr 0,mh4edit-mit-save-id
+relic_resistance,1,armor,22,Fi -2 / Wa -1 / Th 3 / Ic 0 / Dr 0,Fi -2 / Wa -1 / Th 3 / Ic 0 / Dr 0,mh4edit-mit-save-id
+relic_resistance,1,armor,23,Fi -1 / Wa -2 / Th 0 / Ic 3 / Dr 0,Fi -1 / Wa -2 / Th 0 / Ic 3 / Dr 0,mh4edit-mit-save-id
+relic_resistance,1,armor,24,Fi 0 / Wa 0 / Th -2 / Ic -1 / Dr 3,Fi 0 / Wa 0 / Th -2 / Ic -1 / Dr 3,mh4edit-mit-save-id
+relic_resistance,1,armor,25,Fi 5 / Wa -3 / Th 0 / Ic -1 / Dr 0,Fi 5 / Wa -3 / Th 0 / Ic -1 / Dr 0,mh4edit-mit-save-id
+relic_resistance,1,armor,26,Fi 0 / Wa 5 / Th -3 / Ic -1 / Dr 0,Fi 0 / Wa 5 / Th -3 / Ic -1 / Dr 0,mh4edit-mit-save-id
+relic_resistance,1,armor,27,Fi -3 / Wa -1 / Th 5 / Ic 0 / Dr 0,Fi -3 / Wa -1 / Th 5 / Ic 0 / Dr 0,mh4edit-mit-save-id
+relic_resistance,1,armor,28,Fi -3 / Wa -1 / Th 0 / Ic 5 / Dr 0,Fi -3 / Wa -1 / Th 0 / Ic 5 / Dr 0,mh4edit-mit-save-id
+relic_resistance,1,armor,29,Fi 0 / Wa 0 / Th -1 / Ic -3 / Dr 5,Fi 0 / Wa 0 / Th -1 / Ic -3 / Dr 5,mh4edit-mit-save-id
+relic_resistance,1,armor,30,Fi 5 / Wa -2 / Th 0 / Ic -2 / Dr 3,Fi 5 / Wa -2 / Th 0 / Ic -2 / Dr 3,mh4edit-mit-save-id
+relic_resistance,1,armor,31,Fi 0 / Wa 5 / Th -2 / Ic -2 / Dr 3,Fi 0 / Wa 5 / Th -2 / Ic -2 / Dr 3,mh4edit-mit-save-id
+relic_resistance,1,armor,32,Fi -2 / Wa -2 / Th 5 / Ic 0 / Dr 3,Fi -2 / Wa -2 / Th 5 / Ic 0 / Dr 3,mh4edit-mit-save-id
+relic_resistance,1,armor,33,Fi -2 / Wa -2 / Th 0 / Ic 5 / Dr 3,Fi -2 / Wa -2 / Th 0 / Ic 5 / Dr 3,mh4edit-mit-save-id
+relic_resistance,1,armor,34,Fi 0 / Wa 0 / Th -3 / Ic -3 / Dr 7,Fi 0 / Wa 0 / Th -3 / Ic -3 / Dr 7,mh4edit-mit-save-id
+relic_resistance,1,armor,35,Fi 0 / Wa 0 / Th 0 / Ic 0 / Dr 0,Fi 0 / Wa 0 / Th 0 / Ic 0 / Dr 0,mh4edit-mit-save-id
+relic_resistance,1,armor,36,Fi 0 / Wa 0 / Th 0 / Ic 0 / Dr 0,Fi 0 / Wa 0 / Th 0 / Ic 0 / Dr 0,mh4edit-mit-save-id
+relic_resistance,1,armor,37,Fi 0 / Wa 0 / Th 0 / Ic 0 / Dr 0,Fi 0 / Wa 0 / Th 0 / Ic 0 / Dr 0,mh4edit-mit-save-id
+relic_resistance,1,armor,38,Fi 0 / Wa 0 / Th 0 / Ic 0 / Dr 0,Fi 0 / Wa 0 / Th 0 / Ic 0 / Dr 0,mh4edit-mit-save-id
+relic_resistance,1,armor,39,Fi 0 / Wa 0 / Th 0 / Ic 0 / Dr 0,Fi 0 / Wa 0 / Th 0 / Ic 0 / Dr 0,mh4edit-mit-save-id
+relic_resistance,2,armor,0,Fi 4 / Wa -1 / Th 1 / Ic 0 / Dr 1,Fi 4 / Wa -1 / Th 1 / Ic 0 / Dr 1,mh4edit-mit-save-id
+relic_resistance,2,armor,1,Fi 1 / Wa 4 / Th -1 / Ic 0 / Dr 1,Fi 1 / Wa 4 / Th -1 / Ic 0 / Dr 1,mh4edit-mit-save-id
+relic_resistance,2,armor,2,Fi -1 /Wa 0 / Th 4 / Ic 1 / Dr 1,Fi -1 /Wa 0 / Th 4 / Ic 1 / Dr 1,mh4edit-mit-save-id
+relic_resistance,2,armor,3,Fi 0 / Wa -1 / Th 1 / Ic 4 / Dr 1,Fi 0 / Wa -1 / Th 1 / Ic 4 / Dr 1,mh4edit-mit-save-id
+relic_resistance,2,armor,4,Fi 1 / Wa 1 / Th -1 / Ic 0 / Dr 4,Fi 1 / Wa 1 / Th -1 / Ic 0 / Dr 4,mh4edit-mit-save-id
+relic_resistance,2,armor,5,Fi 6 / Wa -2 / Th 1 / Ic 0 / Dr 1,Fi 6 / Wa -2 / Th 1 / Ic 0 / Dr 1,mh4edit-mit-save-id
+relic_resistance,2,armor,6,Fi 1 / Wa 6 / Th -2 / Ic 0 / Dr 1,Fi 1 / Wa 6 / Th -2 / Ic 0 / Dr 1,mh4edit-mit-save-id
+relic_resistance,2,armor,7,Fi -2 / Wa 0 / Th 6 / Ic 1 / Dr 1,Fi -2 / Wa 0 / Th 6 / Ic 1 / Dr 1,mh4edit-mit-save-id
+relic_resistance,2,armor,8,Fi -2 / Wa 0 / Th 1 / Ic 6 / Dr 1,Fi -2 / Wa 0 / Th 1 / Ic 6 / Dr 1,mh4edit-mit-save-id
+relic_resistance,2,armor,9,Fi 1 / Wa 1 / Th 0 / Ic -2 / Dr 6,Fi 1 / Wa 1 / Th 0 / Ic -2 / Dr 6,mh4edit-mit-save-id
+relic_resistance,2,armor,10,Fi 6 / Wa -1 / Th 1 / Ic -1 / Dr 4,Fi 6 / Wa -1 / Th 1 / Ic -1 / Dr 4,mh4edit-mit-save-id
+relic_resistance,2,armor,11,Fi 1 / Wa 6 / Th -1 / Ic -1 / Dr 4,Fi 1 / Wa 6 / Th -1 / Ic -1 / Dr 4,mh4edit-mit-save-id
+relic_resistance,2,armor,12,Fi -1 / Wa -1 / Th 6 / Ic 1 / Dr 4,Fi -1 / Wa -1 / Th 6 / Ic 1 / Dr 4,mh4edit-mit-save-id
+relic_resistance,2,armor,13,Fi -1 / Wa -1 / Th 1 / Ic 6 / Dr 4,Fi -1 / Wa -1 / Th 1 / Ic 6 / Dr 4,mh4edit-mit-save-id
+relic_resistance,2,armor,14,Fi 1 / Wa 1 / Th -2 / Ic -2 / Dr 8,Fi 1 / Wa 1 / Th -2 / Ic -2 / Dr 8,mh4edit-mit-save-id
+relic_resistance,2,armor,15,Fi 0 / Wa 0 / Th 0 / Ic 0 / Dr 0,Fi 0 / Wa 0 / Th 0 / Ic 0 / Dr 0,mh4edit-mit-save-id
+relic_resistance,2,armor,16,Fi 0 / Wa 0 / Th 0 / Ic 0 / Dr 0,Fi 0 / Wa 0 / Th 0 / Ic 0 / Dr 0,mh4edit-mit-save-id
+relic_resistance,2,armor,17,Fi 0 / Wa 0 / Th 0 / Ic 0 / Dr 0,Fi 0 / Wa 0 / Th 0 / Ic 0 / Dr 0,mh4edit-mit-save-id
+relic_resistance,2,armor,18,Fi 0 / Wa 0 / Th 0 / Ic 0 / Dr 0,Fi 0 / Wa 0 / Th 0 / Ic 0 / Dr 0,mh4edit-mit-save-id
+relic_resistance,2,armor,19,Fi 0 / Wa 0 / Th 0 / Ic 0 / Dr 0,Fi 0 / Wa 0 / Th 0 / Ic 0 / Dr 0,mh4edit-mit-save-id
+relic_resistance,2,armor,20,Fi 3 / Wa -2 / Th 0 / Ic -1 / Dr 0,Fi 3 / Wa -2 / Th 0 / Ic -1 / Dr 0,mh4edit-mit-save-id
+relic_resistance,2,armor,21,Fi 0 / Wa 3 / Th -2 / Ic -1 / Dr 0,Fi 0 / Wa 3 / Th -2 / Ic -1 / Dr 0,mh4edit-mit-save-id
+relic_resistance,2,armor,22,Fi -2 / Wa -1 / Th 3 / Ic 0 / Dr 0,Fi -2 / Wa -1 / Th 3 / Ic 0 / Dr 0,mh4edit-mit-save-id
+relic_resistance,2,armor,23,Fi -1 / Wa -2 / Th 0 / Ic 3 / Dr 0,Fi -1 / Wa -2 / Th 0 / Ic 3 / Dr 0,mh4edit-mit-save-id
+relic_resistance,2,armor,24,Fi 0 / Wa 0 / Th -2 / Ic -1 / Dr 3,Fi 0 / Wa 0 / Th -2 / Ic -1 / Dr 3,mh4edit-mit-save-id
+relic_resistance,2,armor,25,Fi 5 / Wa -3 / Th 0 / Ic -1 / Dr 0,Fi 5 / Wa -3 / Th 0 / Ic -1 / Dr 0,mh4edit-mit-save-id
+relic_resistance,2,armor,26,Fi 0 / Wa 5 / Th -3 / Ic -1 / Dr 0,Fi 0 / Wa 5 / Th -3 / Ic -1 / Dr 0,mh4edit-mit-save-id
+relic_resistance,2,armor,27,Fi -3 / Wa -1 / Th 5 / Ic 0 / Dr 0,Fi -3 / Wa -1 / Th 5 / Ic 0 / Dr 0,mh4edit-mit-save-id
+relic_resistance,2,armor,28,Fi -3 / Wa -1 / Th 0 / Ic 5 / Dr 0,Fi -3 / Wa -1 / Th 0 / Ic 5 / Dr 0,mh4edit-mit-save-id
+relic_resistance,2,armor,29,Fi 0 / Wa 0 / Th -1 / Ic -3 / Dr 5,Fi 0 / Wa 0 / Th -1 / Ic -3 / Dr 5,mh4edit-mit-save-id
+relic_resistance,2,armor,30,Fi 5 / Wa -2 / Th 0 / Ic -2 / Dr 3,Fi 5 / Wa -2 / Th 0 / Ic -2 / Dr 3,mh4edit-mit-save-id
+relic_resistance,2,armor,31,Fi 0 / Wa 5 / Th -2 / Ic -2 / Dr 3,Fi 0 / Wa 5 / Th -2 / Ic -2 / Dr 3,mh4edit-mit-save-id
+relic_resistance,2,armor,32,Fi -2 / Wa -2 / Th 5 / Ic 0 / Dr 3,Fi -2 / Wa -2 / Th 5 / Ic 0 / Dr 3,mh4edit-mit-save-id
+relic_resistance,2,armor,33,Fi -2 / Wa -2 / Th 0 / Ic 5 / Dr 3,Fi -2 / Wa -2 / Th 0 / Ic 5 / Dr 3,mh4edit-mit-save-id
+relic_resistance,2,armor,34,Fi 0 / Wa 0 / Th -3 / Ic -3 / Dr 7,Fi 0 / Wa 0 / Th -3 / Ic -3 / Dr 7,mh4edit-mit-save-id
+relic_resistance,2,armor,35,Fi 0 / Wa 0 / Th 0 / Ic 0 / Dr 0,Fi 0 / Wa 0 / Th 0 / Ic 0 / Dr 0,mh4edit-mit-save-id
+relic_resistance,2,armor,36,Fi 0 / Wa 0 / Th 0 / Ic 0 / Dr 0,Fi 0 / Wa 0 / Th 0 / Ic 0 / Dr 0,mh4edit-mit-save-id
+relic_resistance,2,armor,37,Fi 0 / Wa 0 / Th 0 / Ic 0 / Dr 0,Fi 0 / Wa 0 / Th 0 / Ic 0 / Dr 0,mh4edit-mit-save-id
+relic_resistance,2,armor,38,Fi 0 / Wa 0 / Th 0 / Ic 0 / Dr 0,Fi 0 / Wa 0 / Th 0 / Ic 0 / Dr 0,mh4edit-mit-save-id
+relic_resistance,2,armor,39,Fi 0 / Wa 0 / Th 0 / Ic 0 / Dr 0,Fi 0 / Wa 0 / Th 0 / Ic 0 / Dr 0,mh4edit-mit-save-id
+relic_resistance,3,armor,0,Fi 4 / Wa -1 / Th 1 / Ic 0 / Dr 1,Fi 4 / Wa -1 / Th 1 / Ic 0 / Dr 1,mh4edit-mit-save-id
+relic_resistance,3,armor,1,Fi 1 / Wa 4 / Th -1 / Ic 0 / Dr 1,Fi 1 / Wa 4 / Th -1 / Ic 0 / Dr 1,mh4edit-mit-save-id
+relic_resistance,3,armor,2,Fi -1 /Wa 0 / Th 4 / Ic 1 / Dr 1,Fi -1 /Wa 0 / Th 4 / Ic 1 / Dr 1,mh4edit-mit-save-id
+relic_resistance,3,armor,3,Fi 0 / Wa -1 / Th 1 / Ic 4 / Dr 1,Fi 0 / Wa -1 / Th 1 / Ic 4 / Dr 1,mh4edit-mit-save-id
+relic_resistance,3,armor,4,Fi 1 / Wa 1 / Th -1 / Ic 0 / Dr 4,Fi 1 / Wa 1 / Th -1 / Ic 0 / Dr 4,mh4edit-mit-save-id
+relic_resistance,3,armor,5,Fi 6 / Wa -2 / Th 1 / Ic 0 / Dr 1,Fi 6 / Wa -2 / Th 1 / Ic 0 / Dr 1,mh4edit-mit-save-id
+relic_resistance,3,armor,6,Fi 1 / Wa 6 / Th -2 / Ic 0 / Dr 1,Fi 1 / Wa 6 / Th -2 / Ic 0 / Dr 1,mh4edit-mit-save-id
+relic_resistance,3,armor,7,Fi -2 / Wa 0 / Th 6 / Ic 1 / Dr 1,Fi -2 / Wa 0 / Th 6 / Ic 1 / Dr 1,mh4edit-mit-save-id
+relic_resistance,3,armor,8,Fi -2 / Wa 0 / Th 1 / Ic 6 / Dr 1,Fi -2 / Wa 0 / Th 1 / Ic 6 / Dr 1,mh4edit-mit-save-id
+relic_resistance,3,armor,9,Fi 1 / Wa 1 / Th 0 / Ic -2 / Dr 6,Fi 1 / Wa 1 / Th 0 / Ic -2 / Dr 6,mh4edit-mit-save-id
+relic_resistance,3,armor,10,Fi 6 / Wa -1 / Th 1 / Ic -1 / Dr 4,Fi 6 / Wa -1 / Th 1 / Ic -1 / Dr 4,mh4edit-mit-save-id
+relic_resistance,3,armor,11,Fi 1 / Wa 6 / Th -1 / Ic -1 / Dr 4,Fi 1 / Wa 6 / Th -1 / Ic -1 / Dr 4,mh4edit-mit-save-id
+relic_resistance,3,armor,12,Fi -1 / Wa -1 / Th 6 / Ic 1 / Dr 4,Fi -1 / Wa -1 / Th 6 / Ic 1 / Dr 4,mh4edit-mit-save-id
+relic_resistance,3,armor,13,Fi -1 / Wa -1 / Th 1 / Ic 6 / Dr 4,Fi -1 / Wa -1 / Th 1 / Ic 6 / Dr 4,mh4edit-mit-save-id
+relic_resistance,3,armor,14,Fi 1 / Wa 1 / Th -2 / Ic -2 / Dr 8,Fi 1 / Wa 1 / Th -2 / Ic -2 / Dr 8,mh4edit-mit-save-id
+relic_resistance,3,armor,15,Fi 0 / Wa 0 / Th 0 / Ic 0 / Dr 0,Fi 0 / Wa 0 / Th 0 / Ic 0 / Dr 0,mh4edit-mit-save-id
+relic_resistance,3,armor,16,Fi 0 / Wa 0 / Th 0 / Ic 0 / Dr 0,Fi 0 / Wa 0 / Th 0 / Ic 0 / Dr 0,mh4edit-mit-save-id
+relic_resistance,3,armor,17,Fi 0 / Wa 0 / Th 0 / Ic 0 / Dr 0,Fi 0 / Wa 0 / Th 0 / Ic 0 / Dr 0,mh4edit-mit-save-id
+relic_resistance,3,armor,18,Fi 0 / Wa 0 / Th 0 / Ic 0 / Dr 0,Fi 0 / Wa 0 / Th 0 / Ic 0 / Dr 0,mh4edit-mit-save-id
+relic_resistance,3,armor,19,Fi 0 / Wa 0 / Th 0 / Ic 0 / Dr 0,Fi 0 / Wa 0 / Th 0 / Ic 0 / Dr 0,mh4edit-mit-save-id
+relic_resistance,3,armor,20,Fi 3 / Wa -2 / Th 0 / Ic -1 / Dr 0,Fi 3 / Wa -2 / Th 0 / Ic -1 / Dr 0,mh4edit-mit-save-id
+relic_resistance,3,armor,21,Fi 0 / Wa 3 / Th -2 / Ic -1 / Dr 0,Fi 0 / Wa 3 / Th -2 / Ic -1 / Dr 0,mh4edit-mit-save-id
+relic_resistance,3,armor,22,Fi -2 / Wa -1 / Th 3 / Ic 0 / Dr 0,Fi -2 / Wa -1 / Th 3 / Ic 0 / Dr 0,mh4edit-mit-save-id
+relic_resistance,3,armor,23,Fi -1 / Wa -2 / Th 0 / Ic 3 / Dr 0,Fi -1 / Wa -2 / Th 0 / Ic 3 / Dr 0,mh4edit-mit-save-id
+relic_resistance,3,armor,24,Fi 0 / Wa 0 / Th -2 / Ic -1 / Dr 3,Fi 0 / Wa 0 / Th -2 / Ic -1 / Dr 3,mh4edit-mit-save-id
+relic_resistance,3,armor,25,Fi 5 / Wa -3 / Th 0 / Ic -1 / Dr 0,Fi 5 / Wa -3 / Th 0 / Ic -1 / Dr 0,mh4edit-mit-save-id
+relic_resistance,3,armor,26,Fi 0 / Wa 5 / Th -3 / Ic -1 / Dr 0,Fi 0 / Wa 5 / Th -3 / Ic -1 / Dr 0,mh4edit-mit-save-id
+relic_resistance,3,armor,27,Fi -3 / Wa -1 / Th 5 / Ic 0 / Dr 0,Fi -3 / Wa -1 / Th 5 / Ic 0 / Dr 0,mh4edit-mit-save-id
+relic_resistance,3,armor,28,Fi -3 / Wa -1 / Th 0 / Ic 5 / Dr 0,Fi -3 / Wa -1 / Th 0 / Ic 5 / Dr 0,mh4edit-mit-save-id
+relic_resistance,3,armor,29,Fi 0 / Wa 0 / Th -1 / Ic -3 / Dr 5,Fi 0 / Wa 0 / Th -1 / Ic -3 / Dr 5,mh4edit-mit-save-id
+relic_resistance,3,armor,30,Fi 5 / Wa -2 / Th 0 / Ic -2 / Dr 3,Fi 5 / Wa -2 / Th 0 / Ic -2 / Dr 3,mh4edit-mit-save-id
+relic_resistance,3,armor,31,Fi 0 / Wa 5 / Th -2 / Ic -2 / Dr 3,Fi 0 / Wa 5 / Th -2 / Ic -2 / Dr 3,mh4edit-mit-save-id
+relic_resistance,3,armor,32,Fi -2 / Wa -2 / Th 5 / Ic 0 / Dr 3,Fi -2 / Wa -2 / Th 5 / Ic 0 / Dr 3,mh4edit-mit-save-id
+relic_resistance,3,armor,33,Fi -2 / Wa -2 / Th 0 / Ic 5 / Dr 3,Fi -2 / Wa -2 / Th 0 / Ic 5 / Dr 3,mh4edit-mit-save-id
+relic_resistance,3,armor,34,Fi 0 / Wa 0 / Th -3 / Ic -3 / Dr 7,Fi 0 / Wa 0 / Th -3 / Ic -3 / Dr 7,mh4edit-mit-save-id
+relic_resistance,3,armor,35,Fi 0 / Wa 0 / Th 0 / Ic 0 / Dr 0,Fi 0 / Wa 0 / Th 0 / Ic 0 / Dr 0,mh4edit-mit-save-id
+relic_resistance,3,armor,36,Fi 0 / Wa 0 / Th 0 / Ic 0 / Dr 0,Fi 0 / Wa 0 / Th 0 / Ic 0 / Dr 0,mh4edit-mit-save-id
+relic_resistance,3,armor,37,Fi 0 / Wa 0 / Th 0 / Ic 0 / Dr 0,Fi 0 / Wa 0 / Th 0 / Ic 0 / Dr 0,mh4edit-mit-save-id
+relic_resistance,3,armor,38,Fi 0 / Wa 0 / Th 0 / Ic 0 / Dr 0,Fi 0 / Wa 0 / Th 0 / Ic 0 / Dr 0,mh4edit-mit-save-id
+relic_resistance,3,armor,39,Fi 0 / Wa 0 / Th 0 / Ic 0 / Dr 0,Fi 0 / Wa 0 / Th 0 / Ic 0 / Dr 0,mh4edit-mit-save-id
+relic_resistance,4,armor,0,Fi 4 / Wa -1 / Th 1 / Ic 0 / Dr 1,Fi 4 / Wa -1 / Th 1 / Ic 0 / Dr 1,mh4edit-mit-save-id
+relic_resistance,4,armor,1,Fi 1 / Wa 4 / Th -1 / Ic 0 / Dr 1,Fi 1 / Wa 4 / Th -1 / Ic 0 / Dr 1,mh4edit-mit-save-id
+relic_resistance,4,armor,2,Fi -1 /Wa 0 / Th 4 / Ic 1 / Dr 1,Fi -1 /Wa 0 / Th 4 / Ic 1 / Dr 1,mh4edit-mit-save-id
+relic_resistance,4,armor,3,Fi 0 / Wa -1 / Th 1 / Ic 4 / Dr 1,Fi 0 / Wa -1 / Th 1 / Ic 4 / Dr 1,mh4edit-mit-save-id
+relic_resistance,4,armor,4,Fi 1 / Wa 1 / Th -1 / Ic 0 / Dr 4,Fi 1 / Wa 1 / Th -1 / Ic 0 / Dr 4,mh4edit-mit-save-id
+relic_resistance,4,armor,5,Fi 6 / Wa -2 / Th 1 / Ic 0 / Dr 1,Fi 6 / Wa -2 / Th 1 / Ic 0 / Dr 1,mh4edit-mit-save-id
+relic_resistance,4,armor,6,Fi 1 / Wa 6 / Th -2 / Ic 0 / Dr 1,Fi 1 / Wa 6 / Th -2 / Ic 0 / Dr 1,mh4edit-mit-save-id
+relic_resistance,4,armor,7,Fi -2 / Wa 0 / Th 6 / Ic 1 / Dr 1,Fi -2 / Wa 0 / Th 6 / Ic 1 / Dr 1,mh4edit-mit-save-id
+relic_resistance,4,armor,8,Fi -2 / Wa 0 / Th 1 / Ic 6 / Dr 1,Fi -2 / Wa 0 / Th 1 / Ic 6 / Dr 1,mh4edit-mit-save-id
+relic_resistance,4,armor,9,Fi 1 / Wa 1 / Th 0 / Ic -2 / Dr 6,Fi 1 / Wa 1 / Th 0 / Ic -2 / Dr 6,mh4edit-mit-save-id
+relic_resistance,4,armor,10,Fi 6 / Wa -1 / Th 1 / Ic -1 / Dr 4,Fi 6 / Wa -1 / Th 1 / Ic -1 / Dr 4,mh4edit-mit-save-id
+relic_resistance,4,armor,11,Fi 1 / Wa 6 / Th -1 / Ic -1 / Dr 4,Fi 1 / Wa 6 / Th -1 / Ic -1 / Dr 4,mh4edit-mit-save-id
+relic_resistance,4,armor,12,Fi -1 / Wa -1 / Th 6 / Ic 1 / Dr 4,Fi -1 / Wa -1 / Th 6 / Ic 1 / Dr 4,mh4edit-mit-save-id
+relic_resistance,4,armor,13,Fi -1 / Wa -1 / Th 1 / Ic 6 / Dr 4,Fi -1 / Wa -1 / Th 1 / Ic 6 / Dr 4,mh4edit-mit-save-id
+relic_resistance,4,armor,14,Fi 1 / Wa 1 / Th -2 / Ic -2 / Dr 8,Fi 1 / Wa 1 / Th -2 / Ic -2 / Dr 8,mh4edit-mit-save-id
+relic_resistance,4,armor,15,Fi 0 / Wa 0 / Th 0 / Ic 0 / Dr 0,Fi 0 / Wa 0 / Th 0 / Ic 0 / Dr 0,mh4edit-mit-save-id
+relic_resistance,4,armor,16,Fi 0 / Wa 0 / Th 0 / Ic 0 / Dr 0,Fi 0 / Wa 0 / Th 0 / Ic 0 / Dr 0,mh4edit-mit-save-id
+relic_resistance,4,armor,17,Fi 0 / Wa 0 / Th 0 / Ic 0 / Dr 0,Fi 0 / Wa 0 / Th 0 / Ic 0 / Dr 0,mh4edit-mit-save-id
+relic_resistance,4,armor,18,Fi 0 / Wa 0 / Th 0 / Ic 0 / Dr 0,Fi 0 / Wa 0 / Th 0 / Ic 0 / Dr 0,mh4edit-mit-save-id
+relic_resistance,4,armor,19,Fi 0 / Wa 0 / Th 0 / Ic 0 / Dr 0,Fi 0 / Wa 0 / Th 0 / Ic 0 / Dr 0,mh4edit-mit-save-id
+relic_resistance,4,armor,20,Fi 3 / Wa -2 / Th 0 / Ic -1 / Dr 0,Fi 3 / Wa -2 / Th 0 / Ic -1 / Dr 0,mh4edit-mit-save-id
+relic_resistance,4,armor,21,Fi 0 / Wa 3 / Th -2 / Ic -1 / Dr 0,Fi 0 / Wa 3 / Th -2 / Ic -1 / Dr 0,mh4edit-mit-save-id
+relic_resistance,4,armor,22,Fi -2 / Wa -1 / Th 3 / Ic 0 / Dr 0,Fi -2 / Wa -1 / Th 3 / Ic 0 / Dr 0,mh4edit-mit-save-id
+relic_resistance,4,armor,23,Fi -1 / Wa -2 / Th 0 / Ic 3 / Dr 0,Fi -1 / Wa -2 / Th 0 / Ic 3 / Dr 0,mh4edit-mit-save-id
+relic_resistance,4,armor,24,Fi 0 / Wa 0 / Th -2 / Ic -1 / Dr 3,Fi 0 / Wa 0 / Th -2 / Ic -1 / Dr 3,mh4edit-mit-save-id
+relic_resistance,4,armor,25,Fi 5 / Wa -3 / Th 0 / Ic -1 / Dr 0,Fi 5 / Wa -3 / Th 0 / Ic -1 / Dr 0,mh4edit-mit-save-id
+relic_resistance,4,armor,26,Fi 0 / Wa 5 / Th -3 / Ic -1 / Dr 0,Fi 0 / Wa 5 / Th -3 / Ic -1 / Dr 0,mh4edit-mit-save-id
+relic_resistance,4,armor,27,Fi -3 / Wa -1 / Th 5 / Ic 0 / Dr 0,Fi -3 / Wa -1 / Th 5 / Ic 0 / Dr 0,mh4edit-mit-save-id
+relic_resistance,4,armor,28,Fi -3 / Wa -1 / Th 0 / Ic 5 / Dr 0,Fi -3 / Wa -1 / Th 0 / Ic 5 / Dr 0,mh4edit-mit-save-id
+relic_resistance,4,armor,29,Fi 0 / Wa 0 / Th -1 / Ic -3 / Dr 5,Fi 0 / Wa 0 / Th -1 / Ic -3 / Dr 5,mh4edit-mit-save-id
+relic_resistance,4,armor,30,Fi 5 / Wa -2 / Th 0 / Ic -2 / Dr 3,Fi 5 / Wa -2 / Th 0 / Ic -2 / Dr 3,mh4edit-mit-save-id
+relic_resistance,4,armor,31,Fi 0 / Wa 5 / Th -2 / Ic -2 / Dr 3,Fi 0 / Wa 5 / Th -2 / Ic -2 / Dr 3,mh4edit-mit-save-id
+relic_resistance,4,armor,32,Fi -2 / Wa -2 / Th 5 / Ic 0 / Dr 3,Fi -2 / Wa -2 / Th 5 / Ic 0 / Dr 3,mh4edit-mit-save-id
+relic_resistance,4,armor,33,Fi -2 / Wa -2 / Th 0 / Ic 5 / Dr 3,Fi -2 / Wa -2 / Th 0 / Ic 5 / Dr 3,mh4edit-mit-save-id
+relic_resistance,4,armor,34,Fi 0 / Wa 0 / Th -3 / Ic -3 / Dr 7,Fi 0 / Wa 0 / Th -3 / Ic -3 / Dr 7,mh4edit-mit-save-id
+relic_resistance,4,armor,35,Fi 0 / Wa 0 / Th 0 / Ic 0 / Dr 0,Fi 0 / Wa 0 / Th 0 / Ic 0 / Dr 0,mh4edit-mit-save-id
+relic_resistance,4,armor,36,Fi 0 / Wa 0 / Th 0 / Ic 0 / Dr 0,Fi 0 / Wa 0 / Th 0 / Ic 0 / Dr 0,mh4edit-mit-save-id
+relic_resistance,4,armor,37,Fi 0 / Wa 0 / Th 0 / Ic 0 / Dr 0,Fi 0 / Wa 0 / Th 0 / Ic 0 / Dr 0,mh4edit-mit-save-id
+relic_resistance,4,armor,38,Fi 0 / Wa 0 / Th 0 / Ic 0 / Dr 0,Fi 0 / Wa 0 / Th 0 / Ic 0 / Dr 0,mh4edit-mit-save-id
+relic_resistance,4,armor,39,Fi 0 / Wa 0 / Th 0 / Ic 0 / Dr 0,Fi 0 / Wa 0 / Th 0 / Ic 0 / Dr 0,mh4edit-mit-save-id
+relic_resistance,5,armor,0,Fi 4 / Wa -1 / Th 1 / Ic 0 / Dr 1,Fi 4 / Wa -1 / Th 1 / Ic 0 / Dr 1,mh4edit-mit-save-id
+relic_resistance,5,armor,1,Fi 1 / Wa 4 / Th -1 / Ic 0 / Dr 1,Fi 1 / Wa 4 / Th -1 / Ic 0 / Dr 1,mh4edit-mit-save-id
+relic_resistance,5,armor,2,Fi -1 /Wa 0 / Th 4 / Ic 1 / Dr 1,Fi -1 /Wa 0 / Th 4 / Ic 1 / Dr 1,mh4edit-mit-save-id
+relic_resistance,5,armor,3,Fi 0 / Wa -1 / Th 1 / Ic 4 / Dr 1,Fi 0 / Wa -1 / Th 1 / Ic 4 / Dr 1,mh4edit-mit-save-id
+relic_resistance,5,armor,4,Fi 1 / Wa 1 / Th -1 / Ic 0 / Dr 4,Fi 1 / Wa 1 / Th -1 / Ic 0 / Dr 4,mh4edit-mit-save-id
+relic_resistance,5,armor,5,Fi 6 / Wa -2 / Th 1 / Ic 0 / Dr 1,Fi 6 / Wa -2 / Th 1 / Ic 0 / Dr 1,mh4edit-mit-save-id
+relic_resistance,5,armor,6,Fi 1 / Wa 6 / Th -2 / Ic 0 / Dr 1,Fi 1 / Wa 6 / Th -2 / Ic 0 / Dr 1,mh4edit-mit-save-id
+relic_resistance,5,armor,7,Fi -2 / Wa 0 / Th 6 / Ic 1 / Dr 1,Fi -2 / Wa 0 / Th 6 / Ic 1 / Dr 1,mh4edit-mit-save-id
+relic_resistance,5,armor,8,Fi -2 / Wa 0 / Th 1 / Ic 6 / Dr 1,Fi -2 / Wa 0 / Th 1 / Ic 6 / Dr 1,mh4edit-mit-save-id
+relic_resistance,5,armor,9,Fi 1 / Wa 1 / Th 0 / Ic -2 / Dr 6,Fi 1 / Wa 1 / Th 0 / Ic -2 / Dr 6,mh4edit-mit-save-id
+relic_resistance,5,armor,10,Fi 6 / Wa -1 / Th 1 / Ic -1 / Dr 4,Fi 6 / Wa -1 / Th 1 / Ic -1 / Dr 4,mh4edit-mit-save-id
+relic_resistance,5,armor,11,Fi 1 / Wa 6 / Th -1 / Ic -1 / Dr 4,Fi 1 / Wa 6 / Th -1 / Ic -1 / Dr 4,mh4edit-mit-save-id
+relic_resistance,5,armor,12,Fi -1 / Wa -1 / Th 6 / Ic 1 / Dr 4,Fi -1 / Wa -1 / Th 6 / Ic 1 / Dr 4,mh4edit-mit-save-id
+relic_resistance,5,armor,13,Fi -1 / Wa -1 / Th 1 / Ic 6 / Dr 4,Fi -1 / Wa -1 / Th 1 / Ic 6 / Dr 4,mh4edit-mit-save-id
+relic_resistance,5,armor,14,Fi 1 / Wa 1 / Th -2 / Ic -2 / Dr 8,Fi 1 / Wa 1 / Th -2 / Ic -2 / Dr 8,mh4edit-mit-save-id
+relic_resistance,5,armor,15,Fi 0 / Wa 0 / Th 0 / Ic 0 / Dr 0,Fi 0 / Wa 0 / Th 0 / Ic 0 / Dr 0,mh4edit-mit-save-id
+relic_resistance,5,armor,16,Fi 0 / Wa 0 / Th 0 / Ic 0 / Dr 0,Fi 0 / Wa 0 / Th 0 / Ic 0 / Dr 0,mh4edit-mit-save-id
+relic_resistance,5,armor,17,Fi 0 / Wa 0 / Th 0 / Ic 0 / Dr 0,Fi 0 / Wa 0 / Th 0 / Ic 0 / Dr 0,mh4edit-mit-save-id
+relic_resistance,5,armor,18,Fi 0 / Wa 0 / Th 0 / Ic 0 / Dr 0,Fi 0 / Wa 0 / Th 0 / Ic 0 / Dr 0,mh4edit-mit-save-id
+relic_resistance,5,armor,19,Fi 0 / Wa 0 / Th 0 / Ic 0 / Dr 0,Fi 0 / Wa 0 / Th 0 / Ic 0 / Dr 0,mh4edit-mit-save-id
+relic_resistance,5,armor,20,Fi 3 / Wa -2 / Th 0 / Ic -1 / Dr 0,Fi 3 / Wa -2 / Th 0 / Ic -1 / Dr 0,mh4edit-mit-save-id
+relic_resistance,5,armor,21,Fi 0 / Wa 3 / Th -2 / Ic -1 / Dr 0,Fi 0 / Wa 3 / Th -2 / Ic -1 / Dr 0,mh4edit-mit-save-id
+relic_resistance,5,armor,22,Fi -2 / Wa -1 / Th 3 / Ic 0 / Dr 0,Fi -2 / Wa -1 / Th 3 / Ic 0 / Dr 0,mh4edit-mit-save-id
+relic_resistance,5,armor,23,Fi -1 / Wa -2 / Th 0 / Ic 3 / Dr 0,Fi -1 / Wa -2 / Th 0 / Ic 3 / Dr 0,mh4edit-mit-save-id
+relic_resistance,5,armor,24,Fi 0 / Wa 0 / Th -2 / Ic -1 / Dr 3,Fi 0 / Wa 0 / Th -2 / Ic -1 / Dr 3,mh4edit-mit-save-id
+relic_resistance,5,armor,25,Fi 5 / Wa -3 / Th 0 / Ic -1 / Dr 0,Fi 5 / Wa -3 / Th 0 / Ic -1 / Dr 0,mh4edit-mit-save-id
+relic_resistance,5,armor,26,Fi 0 / Wa 5 / Th -3 / Ic -1 / Dr 0,Fi 0 / Wa 5 / Th -3 / Ic -1 / Dr 0,mh4edit-mit-save-id
+relic_resistance,5,armor,27,Fi -3 / Wa -1 / Th 5 / Ic 0 / Dr 0,Fi -3 / Wa -1 / Th 5 / Ic 0 / Dr 0,mh4edit-mit-save-id
+relic_resistance,5,armor,28,Fi -3 / Wa -1 / Th 0 / Ic 5 / Dr 0,Fi -3 / Wa -1 / Th 0 / Ic 5 / Dr 0,mh4edit-mit-save-id
+relic_resistance,5,armor,29,Fi 0 / Wa 0 / Th -1 / Ic -3 / Dr 5,Fi 0 / Wa 0 / Th -1 / Ic -3 / Dr 5,mh4edit-mit-save-id
+relic_resistance,5,armor,30,Fi 5 / Wa -2 / Th 0 / Ic -2 / Dr 3,Fi 5 / Wa -2 / Th 0 / Ic -2 / Dr 3,mh4edit-mit-save-id
+relic_resistance,5,armor,31,Fi 0 / Wa 5 / Th -2 / Ic -2 / Dr 3,Fi 0 / Wa 5 / Th -2 / Ic -2 / Dr 3,mh4edit-mit-save-id
+relic_resistance,5,armor,32,Fi -2 / Wa -2 / Th 5 / Ic 0 / Dr 3,Fi -2 / Wa -2 / Th 5 / Ic 0 / Dr 3,mh4edit-mit-save-id
+relic_resistance,5,armor,33,Fi -2 / Wa -2 / Th 0 / Ic 5 / Dr 3,Fi -2 / Wa -2 / Th 0 / Ic 5 / Dr 3,mh4edit-mit-save-id
+relic_resistance,5,armor,34,Fi 0 / Wa 0 / Th -3 / Ic -3 / Dr 7,Fi 0 / Wa 0 / Th -3 / Ic -3 / Dr 7,mh4edit-mit-save-id
+relic_resistance,5,armor,35,Fi 0 / Wa 0 / Th 0 / Ic 0 / Dr 0,Fi 0 / Wa 0 / Th 0 / Ic 0 / Dr 0,mh4edit-mit-save-id
+relic_resistance,5,armor,36,Fi 0 / Wa 0 / Th 0 / Ic 0 / Dr 0,Fi 0 / Wa 0 / Th 0 / Ic 0 / Dr 0,mh4edit-mit-save-id
+relic_resistance,5,armor,37,Fi 0 / Wa 0 / Th 0 / Ic 0 / Dr 0,Fi 0 / Wa 0 / Th 0 / Ic 0 / Dr 0,mh4edit-mit-save-id
+relic_resistance,5,armor,38,Fi 0 / Wa 0 / Th 0 / Ic 0 / Dr 0,Fi 0 / Wa 0 / Th 0 / Ic 0 / Dr 0,mh4edit-mit-save-id
+relic_resistance,5,armor,39,Fi 0 / Wa 0 / Th 0 / Ic 0 / Dr 0,Fi 0 / Wa 0 / Th 0 / Ic 0 / Dr 0,mh4edit-mit-save-id
+sharpness,7,melee,0,0x00,0x00,mh4edit-mit-save-id
+sharpness,7,melee,1,0x01,0x01,mh4edit-mit-save-id
+sharpness,7,melee,2,0x02,0x02,mh4edit-mit-save-id
+sharpness,7,melee,3,0x03,0x03,mh4edit-mit-save-id
+sharpness,7,melee,4,0x04,0x04,mh4edit-mit-save-id
+sharpness,7,melee,5,0x05,0x05,mh4edit-mit-save-id
+sharpness,7,melee,6,0x06,0x06,mh4edit-mit-save-id
+sharpness,7,melee,7,0x07,0x07,mh4edit-mit-save-id
+sharpness,7,melee,8,0x08,0x08,mh4edit-mit-save-id
+sharpness,7,melee,9,0x09,0x09,mh4edit-mit-save-id
+sharpness,7,melee,10,0x0A,0x0A,mh4edit-mit-save-id
+sharpness,7,melee,11,0x0B,0x0B,mh4edit-mit-save-id
+sharpness,7,melee,12,0x0C,0x0C,mh4edit-mit-save-id
+sharpness,7,melee,13,0x0D,0x0D,mh4edit-mit-save-id
+sharpness,7,melee,14,0x0E,0x0E,mh4edit-mit-save-id
+sharpness,7,melee,15,0x0F,0x0F,mh4edit-mit-save-id
+sharpness,7,melee,16,0x10,0x10,mh4edit-mit-save-id
+sharpness,7,melee,17,0x11,0x11,mh4edit-mit-save-id
+sharpness,7,melee,18,0x12,0x12,mh4edit-mit-save-id
+sharpness,7,melee,19,0x13,0x13,mh4edit-mit-save-id
+sharpness,7,melee,20,0x14,0x14,mh4edit-mit-save-id
+sharpness,7,melee,218,0xDA,0xDA,mh4edit-mit-save-id
+sharpness,8,melee,0,0x00,0x00,mh4edit-mit-save-id
+sharpness,8,melee,1,0x01,0x01,mh4edit-mit-save-id
+sharpness,8,melee,2,0x02,0x02,mh4edit-mit-save-id
+sharpness,8,melee,3,0x03,0x03,mh4edit-mit-save-id
+sharpness,8,melee,4,0x04,0x04,mh4edit-mit-save-id
+sharpness,8,melee,5,0x05,0x05,mh4edit-mit-save-id
+sharpness,8,melee,6,0x06,0x06,mh4edit-mit-save-id
+sharpness,8,melee,7,0x07,0x07,mh4edit-mit-save-id
+sharpness,8,melee,8,0x08,0x08,mh4edit-mit-save-id
+sharpness,8,melee,9,0x09,0x09,mh4edit-mit-save-id
+sharpness,8,melee,10,0x0A,0x0A,mh4edit-mit-save-id
+sharpness,8,melee,11,0x0B,0x0B,mh4edit-mit-save-id
+sharpness,8,melee,12,0x0C,0x0C,mh4edit-mit-save-id
+sharpness,8,melee,13,0x0D,0x0D,mh4edit-mit-save-id
+sharpness,8,melee,14,0x0E,0x0E,mh4edit-mit-save-id
+sharpness,8,melee,15,0x0F,0x0F,mh4edit-mit-save-id
+sharpness,8,melee,16,0x10,0x10,mh4edit-mit-save-id
+sharpness,8,melee,17,0x11,0x11,mh4edit-mit-save-id
+sharpness,8,melee,18,0x12,0x12,mh4edit-mit-save-id
+sharpness,8,melee,19,0x13,0x13,mh4edit-mit-save-id
+sharpness,8,melee,20,0x14,0x14,mh4edit-mit-save-id
+sharpness,8,melee,218,0xDA,0xDA,mh4edit-mit-save-id
+sharpness,9,melee,0,0x00,0x00,mh4edit-mit-save-id
+sharpness,9,melee,1,0x01,0x01,mh4edit-mit-save-id
+sharpness,9,melee,2,0x02,0x02,mh4edit-mit-save-id
+sharpness,9,melee,3,0x03,0x03,mh4edit-mit-save-id
+sharpness,9,melee,4,0x04,0x04,mh4edit-mit-save-id
+sharpness,9,melee,5,0x05,0x05,mh4edit-mit-save-id
+sharpness,9,melee,6,0x06,0x06,mh4edit-mit-save-id
+sharpness,9,melee,7,0x07,0x07,mh4edit-mit-save-id
+sharpness,9,melee,8,0x08,0x08,mh4edit-mit-save-id
+sharpness,9,melee,9,0x09,0x09,mh4edit-mit-save-id
+sharpness,9,melee,10,0x0A,0x0A,mh4edit-mit-save-id
+sharpness,9,melee,11,0x0B,0x0B,mh4edit-mit-save-id
+sharpness,9,melee,12,0x0C,0x0C,mh4edit-mit-save-id
+sharpness,9,melee,13,0x0D,0x0D,mh4edit-mit-save-id
+sharpness,9,melee,14,0x0E,0x0E,mh4edit-mit-save-id
+sharpness,9,melee,15,0x0F,0x0F,mh4edit-mit-save-id
+sharpness,9,melee,16,0x10,0x10,mh4edit-mit-save-id
+sharpness,9,melee,17,0x11,0x11,mh4edit-mit-save-id
+sharpness,9,melee,18,0x12,0x12,mh4edit-mit-save-id
+sharpness,9,melee,19,0x13,0x13,mh4edit-mit-save-id
+sharpness,9,melee,20,0x14,0x14,mh4edit-mit-save-id
+sharpness,9,melee,218,0xDA,0xDA,mh4edit-mit-save-id
+sharpness,10,melee,0,0x00,0x00,mh4edit-mit-save-id
+sharpness,10,melee,1,0x01,0x01,mh4edit-mit-save-id
+sharpness,10,melee,2,0x02,0x02,mh4edit-mit-save-id
+sharpness,10,melee,3,0x03,0x03,mh4edit-mit-save-id
+sharpness,10,melee,4,0x04,0x04,mh4edit-mit-save-id
+sharpness,10,melee,5,0x05,0x05,mh4edit-mit-save-id
+sharpness,10,melee,6,0x06,0x06,mh4edit-mit-save-id
+sharpness,10,melee,7,0x07,0x07,mh4edit-mit-save-id
+sharpness,10,melee,8,0x08,0x08,mh4edit-mit-save-id
+sharpness,10,melee,9,0x09,0x09,mh4edit-mit-save-id
+sharpness,10,melee,10,0x0A,0x0A,mh4edit-mit-save-id
+sharpness,10,melee,11,0x0B,0x0B,mh4edit-mit-save-id
+sharpness,10,melee,12,0x0C,0x0C,mh4edit-mit-save-id
+sharpness,10,melee,13,0x0D,0x0D,mh4edit-mit-save-id
+sharpness,10,melee,14,0x0E,0x0E,mh4edit-mit-save-id
+sharpness,10,melee,15,0x0F,0x0F,mh4edit-mit-save-id
+sharpness,10,melee,16,0x10,0x10,mh4edit-mit-save-id
+sharpness,10,melee,17,0x11,0x11,mh4edit-mit-save-id
+sharpness,10,melee,18,0x12,0x12,mh4edit-mit-save-id
+sharpness,10,melee,19,0x13,0x13,mh4edit-mit-save-id
+sharpness,10,melee,20,0x14,0x14,mh4edit-mit-save-id
+sharpness,10,melee,218,0xDA,0xDA,mh4edit-mit-save-id
+sharpness,11,light_bowgun,0,0x00,0x00,mh4edit-mit-save-id
+sharpness,11,light_bowgun,1,0x01,0x01,mh4edit-mit-save-id
+sharpness,11,light_bowgun,2,0x02,0x02,mh4edit-mit-save-id
+sharpness,11,light_bowgun,3,0x03,0x03,mh4edit-mit-save-id
+sharpness,11,light_bowgun,4,0x04,0x04,mh4edit-mit-save-id
+sharpness,11,light_bowgun,5,0x05,0x05,mh4edit-mit-save-id
+sharpness,11,light_bowgun,6,0x06,0x06,mh4edit-mit-save-id
+sharpness,11,light_bowgun,7,0x07,0x07,mh4edit-mit-save-id
+sharpness,11,light_bowgun,8,0x08,0x08,mh4edit-mit-save-id
+sharpness,11,light_bowgun,9,0x09,0x09,mh4edit-mit-save-id
+sharpness,11,light_bowgun,10,0x0A,0x0A,mh4edit-mit-save-id
+sharpness,11,light_bowgun,11,0x0B,0x0B,mh4edit-mit-save-id
+sharpness,11,light_bowgun,12,0x0C,0x0C,mh4edit-mit-save-id
+sharpness,11,light_bowgun,13,0x0D,0x0D,mh4edit-mit-save-id
+sharpness,11,light_bowgun,14,0x0E,0x0E,mh4edit-mit-save-id
+sharpness,11,light_bowgun,15,0x0F,0x0F,mh4edit-mit-save-id
+sharpness,11,light_bowgun,16,0x10,0x10,mh4edit-mit-save-id
+sharpness,11,light_bowgun,17,0x11,0x11,mh4edit-mit-save-id
+sharpness,11,light_bowgun,18,0x12,0x12,mh4edit-mit-save-id
+sharpness,11,light_bowgun,20,0x14,0x14,mh4edit-mit-save-id
+sharpness,12,heavy_bowgun,0,0x00,0x00,mh4edit-mit-save-id
+sharpness,12,heavy_bowgun,1,0x01,0x01,mh4edit-mit-save-id
+sharpness,12,heavy_bowgun,2,0x02,0x02,mh4edit-mit-save-id
+sharpness,12,heavy_bowgun,3,0x03,0x03,mh4edit-mit-save-id
+sharpness,12,heavy_bowgun,4,0x04,0x04,mh4edit-mit-save-id
+sharpness,12,heavy_bowgun,5,0x05,0x05,mh4edit-mit-save-id
+sharpness,12,heavy_bowgun,6,0x06,0x06,mh4edit-mit-save-id
+sharpness,12,heavy_bowgun,7,0x07,0x07,mh4edit-mit-save-id
+sharpness,12,heavy_bowgun,8,0x08,0x08,mh4edit-mit-save-id
+sharpness,12,heavy_bowgun,9,0x09,0x09,mh4edit-mit-save-id
+sharpness,12,heavy_bowgun,10,0x0A,0x0A,mh4edit-mit-save-id
+sharpness,12,heavy_bowgun,11,0x0B,0x0B,mh4edit-mit-save-id
+sharpness,12,heavy_bowgun,12,0x0C,0x0C,mh4edit-mit-save-id
+sharpness,12,heavy_bowgun,13,0x0D,0x0D,mh4edit-mit-save-id
+sharpness,12,heavy_bowgun,14,0x0E,0x0E,mh4edit-mit-save-id
+sharpness,12,heavy_bowgun,15,0x0F,0x0F,mh4edit-mit-save-id
+sharpness,12,heavy_bowgun,16,0x10,0x10,mh4edit-mit-save-id
+sharpness,12,heavy_bowgun,17,0x11,0x11,mh4edit-mit-save-id
+sharpness,12,heavy_bowgun,18,0x12,0x12,mh4edit-mit-save-id
+sharpness,12,heavy_bowgun,115,0x73,0x73,mh4edit-mit-save-id
+sharpness,12,heavy_bowgun,124,0x7C,0x7C,mh4edit-mit-save-id
+sharpness,13,melee,0,0x00,0x00,mh4edit-mit-save-id
+sharpness,13,melee,1,0x01,0x01,mh4edit-mit-save-id
+sharpness,13,melee,2,0x02,0x02,mh4edit-mit-save-id
+sharpness,13,melee,3,0x03,0x03,mh4edit-mit-save-id
+sharpness,13,melee,4,0x04,0x04,mh4edit-mit-save-id
+sharpness,13,melee,5,0x05,0x05,mh4edit-mit-save-id
+sharpness,13,melee,6,0x06,0x06,mh4edit-mit-save-id
+sharpness,13,melee,7,0x07,0x07,mh4edit-mit-save-id
+sharpness,13,melee,8,0x08,0x08,mh4edit-mit-save-id
+sharpness,13,melee,9,0x09,0x09,mh4edit-mit-save-id
+sharpness,13,melee,10,0x0A,0x0A,mh4edit-mit-save-id
+sharpness,13,melee,11,0x0B,0x0B,mh4edit-mit-save-id
+sharpness,13,melee,12,0x0C,0x0C,mh4edit-mit-save-id
+sharpness,13,melee,13,0x0D,0x0D,mh4edit-mit-save-id
+sharpness,13,melee,14,0x0E,0x0E,mh4edit-mit-save-id
+sharpness,13,melee,15,0x0F,0x0F,mh4edit-mit-save-id
+sharpness,13,melee,16,0x10,0x10,mh4edit-mit-save-id
+sharpness,13,melee,17,0x11,0x11,mh4edit-mit-save-id
+sharpness,13,melee,18,0x12,0x12,mh4edit-mit-save-id
+sharpness,13,melee,19,0x13,0x13,mh4edit-mit-save-id
+sharpness,13,melee,20,0x14,0x14,mh4edit-mit-save-id
+sharpness,13,melee,218,0xDA,0xDA,mh4edit-mit-save-id
+sharpness,14,melee,0,0x00,0x00,mh4edit-mit-save-id
+sharpness,14,melee,1,0x01,0x01,mh4edit-mit-save-id
+sharpness,14,melee,2,0x02,0x02,mh4edit-mit-save-id
+sharpness,14,melee,3,0x03,0x03,mh4edit-mit-save-id
+sharpness,14,melee,4,0x04,0x04,mh4edit-mit-save-id
+sharpness,14,melee,5,0x05,0x05,mh4edit-mit-save-id
+sharpness,14,melee,6,0x06,0x06,mh4edit-mit-save-id
+sharpness,14,melee,7,0x07,0x07,mh4edit-mit-save-id
+sharpness,14,melee,8,0x08,0x08,mh4edit-mit-save-id
+sharpness,14,melee,9,0x09,0x09,mh4edit-mit-save-id
+sharpness,14,melee,10,0x0A,0x0A,mh4edit-mit-save-id
+sharpness,14,melee,11,0x0B,0x0B,mh4edit-mit-save-id
+sharpness,14,melee,12,0x0C,0x0C,mh4edit-mit-save-id
+sharpness,14,melee,13,0x0D,0x0D,mh4edit-mit-save-id
+sharpness,14,melee,14,0x0E,0x0E,mh4edit-mit-save-id
+sharpness,14,melee,15,0x0F,0x0F,mh4edit-mit-save-id
+sharpness,14,melee,16,0x10,0x10,mh4edit-mit-save-id
+sharpness,14,melee,17,0x11,0x11,mh4edit-mit-save-id
+sharpness,14,melee,18,0x12,0x12,mh4edit-mit-save-id
+sharpness,14,melee,19,0x13,0x13,mh4edit-mit-save-id
+sharpness,14,melee,20,0x14,0x14,mh4edit-mit-save-id
+sharpness,14,melee,218,0xDA,0xDA,mh4edit-mit-save-id
+sharpness,15,melee,0,0x00,0x00,mh4edit-mit-save-id
+sharpness,15,melee,1,0x01,0x01,mh4edit-mit-save-id
+sharpness,15,melee,2,0x02,0x02,mh4edit-mit-save-id
+sharpness,15,melee,3,0x03,0x03,mh4edit-mit-save-id
+sharpness,15,melee,4,0x04,0x04,mh4edit-mit-save-id
+sharpness,15,melee,5,0x05,0x05,mh4edit-mit-save-id
+sharpness,15,melee,6,0x06,0x06,mh4edit-mit-save-id
+sharpness,15,melee,7,0x07,0x07,mh4edit-mit-save-id
+sharpness,15,melee,8,0x08,0x08,mh4edit-mit-save-id
+sharpness,15,melee,9,0x09,0x09,mh4edit-mit-save-id
+sharpness,15,melee,10,0x0A,0x0A,mh4edit-mit-save-id
+sharpness,15,melee,11,0x0B,0x0B,mh4edit-mit-save-id
+sharpness,15,melee,12,0x0C,0x0C,mh4edit-mit-save-id
+sharpness,15,melee,13,0x0D,0x0D,mh4edit-mit-save-id
+sharpness,15,melee,14,0x0E,0x0E,mh4edit-mit-save-id
+sharpness,15,melee,15,0x0F,0x0F,mh4edit-mit-save-id
+sharpness,15,melee,16,0x10,0x10,mh4edit-mit-save-id
+sharpness,15,melee,17,0x11,0x11,mh4edit-mit-save-id
+sharpness,15,melee,18,0x12,0x12,mh4edit-mit-save-id
+sharpness,15,melee,19,0x13,0x13,mh4edit-mit-save-id
+sharpness,15,melee,20,0x14,0x14,mh4edit-mit-save-id
+sharpness,15,melee,218,0xDA,0xDA,mh4edit-mit-save-id
+sharpness,16,bow,0,0x00,0x00,mh4edit-mit-save-id
+sharpness,16,bow,1,0x01,0x01,mh4edit-mit-save-id
+sharpness,16,bow,2,0x02,0x02,mh4edit-mit-save-id
+sharpness,16,bow,3,0x03,0x03,mh4edit-mit-save-id
+sharpness,16,bow,4,0x04,0x04,mh4edit-mit-save-id
+sharpness,16,bow,5,0x05,0x05,mh4edit-mit-save-id
+sharpness,16,bow,6,0x06,0x06,mh4edit-mit-save-id
+sharpness,16,bow,7,0x07,0x07,mh4edit-mit-save-id
+sharpness,16,bow,8,0x08,0x08,mh4edit-mit-save-id
+sharpness,16,bow,9,0x09,0x09,mh4edit-mit-save-id
+sharpness,16,bow,10,0x0A,0x0A,mh4edit-mit-save-id
+sharpness,16,bow,11,0x0B,0x0B,mh4edit-mit-save-id
+sharpness,16,bow,12,0x0C,0x0C,mh4edit-mit-save-id
+sharpness,16,bow,13,0x0D,0x0D,mh4edit-mit-save-id
+sharpness,16,bow,14,0x0E,0x0E,mh4edit-mit-save-id
+sharpness,16,bow,15,0x0F,0x0F,mh4edit-mit-save-id
+sharpness,16,bow,16,0x10,0x10,mh4edit-mit-save-id
+sharpness,16,bow,17,0x11,0x11,mh4edit-mit-save-id
+sharpness,16,bow,18,0x12,0x12,mh4edit-mit-save-id
+sharpness,16,bow,19,0x13,0x13,mh4edit-mit-save-id
+sharpness,16,bow,20,0x14,0x14,mh4edit-mit-save-id
+sharpness,16,bow,21,0x15,0x15,mh4edit-mit-save-id
+sharpness,17,melee,0,0x00,0x00,mh4edit-mit-save-id
+sharpness,17,melee,1,0x01,0x01,mh4edit-mit-save-id
+sharpness,17,melee,2,0x02,0x02,mh4edit-mit-save-id
+sharpness,17,melee,3,0x03,0x03,mh4edit-mit-save-id
+sharpness,17,melee,4,0x04,0x04,mh4edit-mit-save-id
+sharpness,17,melee,5,0x05,0x05,mh4edit-mit-save-id
+sharpness,17,melee,6,0x06,0x06,mh4edit-mit-save-id
+sharpness,17,melee,7,0x07,0x07,mh4edit-mit-save-id
+sharpness,17,melee,8,0x08,0x08,mh4edit-mit-save-id
+sharpness,17,melee,9,0x09,0x09,mh4edit-mit-save-id
+sharpness,17,melee,10,0x0A,0x0A,mh4edit-mit-save-id
+sharpness,17,melee,11,0x0B,0x0B,mh4edit-mit-save-id
+sharpness,17,melee,12,0x0C,0x0C,mh4edit-mit-save-id
+sharpness,17,melee,13,0x0D,0x0D,mh4edit-mit-save-id
+sharpness,17,melee,14,0x0E,0x0E,mh4edit-mit-save-id
+sharpness,17,melee,15,0x0F,0x0F,mh4edit-mit-save-id
+sharpness,17,melee,16,0x10,0x10,mh4edit-mit-save-id
+sharpness,17,melee,17,0x11,0x11,mh4edit-mit-save-id
+sharpness,17,melee,18,0x12,0x12,mh4edit-mit-save-id
+sharpness,17,melee,19,0x13,0x13,mh4edit-mit-save-id
+sharpness,17,melee,20,0x14,0x14,mh4edit-mit-save-id
+sharpness,17,melee,218,0xDA,0xDA,mh4edit-mit-save-id
+sharpness,18,melee,0,0x00,0x00,mh4edit-mit-save-id
+sharpness,18,melee,1,0x01,0x01,mh4edit-mit-save-id
+sharpness,18,melee,2,0x02,0x02,mh4edit-mit-save-id
+sharpness,18,melee,3,0x03,0x03,mh4edit-mit-save-id
+sharpness,18,melee,4,0x04,0x04,mh4edit-mit-save-id
+sharpness,18,melee,5,0x05,0x05,mh4edit-mit-save-id
+sharpness,18,melee,6,0x06,0x06,mh4edit-mit-save-id
+sharpness,18,melee,7,0x07,0x07,mh4edit-mit-save-id
+sharpness,18,melee,8,0x08,0x08,mh4edit-mit-save-id
+sharpness,18,melee,9,0x09,0x09,mh4edit-mit-save-id
+sharpness,18,melee,10,0x0A,0x0A,mh4edit-mit-save-id
+sharpness,18,melee,11,0x0B,0x0B,mh4edit-mit-save-id
+sharpness,18,melee,12,0x0C,0x0C,mh4edit-mit-save-id
+sharpness,18,melee,13,0x0D,0x0D,mh4edit-mit-save-id
+sharpness,18,melee,14,0x0E,0x0E,mh4edit-mit-save-id
+sharpness,18,melee,15,0x0F,0x0F,mh4edit-mit-save-id
+sharpness,18,melee,16,0x10,0x10,mh4edit-mit-save-id
+sharpness,18,melee,17,0x11,0x11,mh4edit-mit-save-id
+sharpness,18,melee,18,0x12,0x12,mh4edit-mit-save-id
+sharpness,18,melee,19,0x13,0x13,mh4edit-mit-save-id
+sharpness,18,melee,20,0x14,0x14,mh4edit-mit-save-id
+sharpness,18,melee,218,0xDA,0xDA,mh4edit-mit-save-id
+sharpness,19,melee,0,0x00,0x00,mh4edit-mit-save-id
+sharpness,19,melee,1,0x01,0x01,mh4edit-mit-save-id
+sharpness,19,melee,2,0x02,0x02,mh4edit-mit-save-id
+sharpness,19,melee,3,0x03,0x03,mh4edit-mit-save-id
+sharpness,19,melee,4,0x04,0x04,mh4edit-mit-save-id
+sharpness,19,melee,5,0x05,0x05,mh4edit-mit-save-id
+sharpness,19,melee,6,0x06,0x06,mh4edit-mit-save-id
+sharpness,19,melee,7,0x07,0x07,mh4edit-mit-save-id
+sharpness,19,melee,8,0x08,0x08,mh4edit-mit-save-id
+sharpness,19,melee,9,0x09,0x09,mh4edit-mit-save-id
+sharpness,19,melee,10,0x0A,0x0A,mh4edit-mit-save-id
+sharpness,19,melee,11,0x0B,0x0B,mh4edit-mit-save-id
+sharpness,19,melee,12,0x0C,0x0C,mh4edit-mit-save-id
+sharpness,19,melee,13,0x0D,0x0D,mh4edit-mit-save-id
+sharpness,19,melee,14,0x0E,0x0E,mh4edit-mit-save-id
+sharpness,19,melee,15,0x0F,0x0F,mh4edit-mit-save-id
+sharpness,19,melee,16,0x10,0x10,mh4edit-mit-save-id
+sharpness,19,melee,17,0x11,0x11,mh4edit-mit-save-id
+sharpness,19,melee,18,0x12,0x12,mh4edit-mit-save-id
+sharpness,19,melee,19,0x13,0x13,mh4edit-mit-save-id
+sharpness,19,melee,20,0x14,0x14,mh4edit-mit-save-id
+sharpness,19,melee,218,0xDA,0xDA,mh4edit-mit-save-id
+sharpness,20,melee,0,0x00,0x00,mh4edit-mit-save-id
+sharpness,20,melee,1,0x01,0x01,mh4edit-mit-save-id
+sharpness,20,melee,2,0x02,0x02,mh4edit-mit-save-id
+sharpness,20,melee,3,0x03,0x03,mh4edit-mit-save-id
+sharpness,20,melee,4,0x04,0x04,mh4edit-mit-save-id
+sharpness,20,melee,5,0x05,0x05,mh4edit-mit-save-id
+sharpness,20,melee,6,0x06,0x06,mh4edit-mit-save-id
+sharpness,20,melee,7,0x07,0x07,mh4edit-mit-save-id
+sharpness,20,melee,8,0x08,0x08,mh4edit-mit-save-id
+sharpness,20,melee,9,0x09,0x09,mh4edit-mit-save-id
+sharpness,20,melee,10,0x0A,0x0A,mh4edit-mit-save-id
+sharpness,20,melee,11,0x0B,0x0B,mh4edit-mit-save-id
+sharpness,20,melee,12,0x0C,0x0C,mh4edit-mit-save-id
+sharpness,20,melee,13,0x0D,0x0D,mh4edit-mit-save-id
+sharpness,20,melee,14,0x0E,0x0E,mh4edit-mit-save-id
+sharpness,20,melee,15,0x0F,0x0F,mh4edit-mit-save-id
+sharpness,20,melee,16,0x10,0x10,mh4edit-mit-save-id
+sharpness,20,melee,17,0x11,0x11,mh4edit-mit-save-id
+sharpness,20,melee,18,0x12,0x12,mh4edit-mit-save-id
+sharpness,20,melee,19,0x13,0x13,mh4edit-mit-save-id
+sharpness,20,melee,20,0x14,0x14,mh4edit-mit-save-id
+sharpness,20,melee,218,0xDA,0xDA,mh4edit-mit-save-id
+skill_points,6,primary,0,0,0,mh4edit-mit-save-id
+skill_points,6,primary,1,1,1,mh4edit-mit-save-id
+skill_points,6,primary,2,2,2,mh4edit-mit-save-id
+skill_points,6,primary,3,3,3,mh4edit-mit-save-id
+skill_points,6,primary,4,4,4,mh4edit-mit-save-id
+skill_points,6,primary,5,5,5,mh4edit-mit-save-id
+skill_points,6,primary,6,6,6,mh4edit-mit-save-id
+skill_points,6,primary,7,7,7,mh4edit-mit-save-id
+skill_points,6,primary,8,8,8,mh4edit-mit-save-id
+skill_points,6,primary,9,9,9,mh4edit-mit-save-id
+skill_points,6,primary,10,10,10,mh4edit-mit-save-id
+skill_points,6,primary,11,11,11,mh4edit-mit-save-id
+skill_points,6,primary,12,12,12,mh4edit-mit-save-id
+skill_points,6,primary,13,13,13,mh4edit-mit-save-id
+skill_points,6,primary,14,14,14,mh4edit-mit-save-id
+skill_points,6,primary,15,15,15,mh4edit-mit-save-id
+skill_points,6,primary,16,16,16,mh4edit-mit-save-id
+skill_points,6,primary,17,17,17,mh4edit-mit-save-id
+skill_points,6,primary,18,18,18,mh4edit-mit-save-id
+skill_points,6,primary,19,19,19,mh4edit-mit-save-id
+skill_points,6,primary,20,20,20,mh4edit-mit-save-id
+skill_points,6,secondary,0,0,0,mh4edit-mit-save-id
+skill_points,6,secondary,1,1,1,mh4edit-mit-save-id
+skill_points,6,secondary,2,2,2,mh4edit-mit-save-id
+skill_points,6,secondary,3,3,3,mh4edit-mit-save-id
+skill_points,6,secondary,4,4,4,mh4edit-mit-save-id
+skill_points,6,secondary,5,5,5,mh4edit-mit-save-id
+skill_points,6,secondary,6,6,6,mh4edit-mit-save-id
+skill_points,6,secondary,7,7,7,mh4edit-mit-save-id
+skill_points,6,secondary,8,8,8,mh4edit-mit-save-id
+skill_points,6,secondary,9,9,9,mh4edit-mit-save-id
+skill_points,6,secondary,10,10,10,mh4edit-mit-save-id
+skill_points,6,secondary,11,11,11,mh4edit-mit-save-id
+skill_points,6,secondary,12,12,12,mh4edit-mit-save-id
+skill_points,6,secondary,13,13,13,mh4edit-mit-save-id
+skill_points,6,secondary,14,14,14,mh4edit-mit-save-id
+skill_points,6,secondary,15,15,15,mh4edit-mit-save-id
+skill_points,6,secondary,16,16,16,mh4edit-mit-save-id
+skill_points,6,secondary,17,17,17,mh4edit-mit-save-id
+skill_points,6,secondary,18,18,18,mh4edit-mit-save-id
+skill_points,6,secondary,19,19,19,mh4edit-mit-save-id
+skill_points,6,secondary,20,20,20,mh4edit-mit-save-id
+slots,1,all,0,0,0,mh4edit-mit-save-id
+slots,1,all,1,1,1,mh4edit-mit-save-id
+slots,1,all,2,2,2,mh4edit-mit-save-id
+slots,1,all,3,3,3,mh4edit-mit-save-id
+slots,2,all,0,0,0,mh4edit-mit-save-id
+slots,2,all,1,1,1,mh4edit-mit-save-id
+slots,2,all,2,2,2,mh4edit-mit-save-id
+slots,2,all,3,3,3,mh4edit-mit-save-id
+slots,3,all,0,0,0,mh4edit-mit-save-id
+slots,3,all,1,1,1,mh4edit-mit-save-id
+slots,3,all,2,2,2,mh4edit-mit-save-id
+slots,3,all,3,3,3,mh4edit-mit-save-id
+slots,4,all,0,0,0,mh4edit-mit-save-id
+slots,4,all,1,1,1,mh4edit-mit-save-id
+slots,4,all,2,2,2,mh4edit-mit-save-id
+slots,4,all,3,3,3,mh4edit-mit-save-id
+slots,5,all,0,0,0,mh4edit-mit-save-id
+slots,5,all,1,1,1,mh4edit-mit-save-id
+slots,5,all,2,2,2,mh4edit-mit-save-id
+slots,5,all,3,3,3,mh4edit-mit-save-id
+slots,6,all,0,0,0,mh4edit-mit-save-id
+slots,6,all,1,1,1,mh4edit-mit-save-id
+slots,6,all,2,2,2,mh4edit-mit-save-id
+slots,6,all,3,3,3,mh4edit-mit-save-id
+slots,7,all,0,0,0,mh4edit-mit-save-id
+slots,7,all,1,1,1,mh4edit-mit-save-id
+slots,7,all,2,2,2,mh4edit-mit-save-id
+slots,7,all,3,3,3,mh4edit-mit-save-id
+slots,8,all,0,0,0,mh4edit-mit-save-id
+slots,8,all,1,1,1,mh4edit-mit-save-id
+slots,8,all,2,2,2,mh4edit-mit-save-id
+slots,8,all,3,3,3,mh4edit-mit-save-id
+slots,9,all,0,0,0,mh4edit-mit-save-id
+slots,9,all,1,1,1,mh4edit-mit-save-id
+slots,9,all,2,2,2,mh4edit-mit-save-id
+slots,9,all,3,3,3,mh4edit-mit-save-id
+slots,10,all,0,0,0,mh4edit-mit-save-id
+slots,10,all,1,1,1,mh4edit-mit-save-id
+slots,10,all,2,2,2,mh4edit-mit-save-id
+slots,10,all,3,3,3,mh4edit-mit-save-id
+slots,11,all,0,0,0,mh4edit-mit-save-id
+slots,11,all,1,1,1,mh4edit-mit-save-id
+slots,11,all,2,2,2,mh4edit-mit-save-id
+slots,11,all,3,3,3,mh4edit-mit-save-id
+slots,12,all,0,0,0,mh4edit-mit-save-id
+slots,12,all,1,1,1,mh4edit-mit-save-id
+slots,12,all,2,2,2,mh4edit-mit-save-id
+slots,12,all,3,3,3,mh4edit-mit-save-id
+slots,13,all,0,0,0,mh4edit-mit-save-id
+slots,13,all,1,1,1,mh4edit-mit-save-id
+slots,13,all,2,2,2,mh4edit-mit-save-id
+slots,13,all,3,3,3,mh4edit-mit-save-id
+slots,14,all,0,0,0,mh4edit-mit-save-id
+slots,14,all,1,1,1,mh4edit-mit-save-id
+slots,14,all,2,2,2,mh4edit-mit-save-id
+slots,14,all,3,3,3,mh4edit-mit-save-id
+slots,15,all,0,0,0,mh4edit-mit-save-id
+slots,15,all,1,1,1,mh4edit-mit-save-id
+slots,15,all,2,2,2,mh4edit-mit-save-id
+slots,15,all,3,3,3,mh4edit-mit-save-id
+slots,16,all,0,0,0,mh4edit-mit-save-id
+slots,16,all,1,1,1,mh4edit-mit-save-id
+slots,16,all,2,2,2,mh4edit-mit-save-id
+slots,16,all,3,3,3,mh4edit-mit-save-id
+slots,17,all,0,0,0,mh4edit-mit-save-id
+slots,17,all,1,1,1,mh4edit-mit-save-id
+slots,17,all,2,2,2,mh4edit-mit-save-id
+slots,17,all,3,3,3,mh4edit-mit-save-id
+slots,18,all,0,0,0,mh4edit-mit-save-id
+slots,18,all,1,1,1,mh4edit-mit-save-id
+slots,18,all,2,2,2,mh4edit-mit-save-id
+slots,18,all,3,3,3,mh4edit-mit-save-id
+slots,19,all,0,0,0,mh4edit-mit-save-id
+slots,19,all,1,1,1,mh4edit-mit-save-id
+slots,19,all,2,2,2,mh4edit-mit-save-id
+slots,19,all,3,3,3,mh4edit-mit-save-id
+slots,20,all,0,0,0,mh4edit-mit-save-id
+slots,20,all,1,1,1,mh4edit-mit-save-id
+slots,20,all,2,2,2,mh4edit-mit-save-id
+slots,20,all,3,3,3,mh4edit-mit-save-id
+status_value,7,high,0,210,210,mh4edit-mit-save-id
+status_value,7,high,1,(250),(250),mh4edit-mit-save-id
+status_value,7,high,2,250,250,mh4edit-mit-save-id
+status_value,7,high,3,(280),(280),mh4edit-mit-save-id
+status_value,7,high,4,270,270,mh4edit-mit-save-id
+status_value,7,high,5,(300),(300),mh4edit-mit-save-id
+status_value,7,high,6,280,280,mh4edit-mit-save-id
+status_value,7,high,7,(310),(310),mh4edit-mit-save-id
+status_value,7,high,8,300,300,mh4edit-mit-save-id
+status_value,7,high,9,(330),(330),mh4edit-mit-save-id
+status_value,7,high,10,330,330,mh4edit-mit-save-id
+status_value,7,high,11,(360),(360),mh4edit-mit-save-id
+status_value,7,high,12,360,360,mh4edit-mit-save-id
+status_value,7,high,13,(390),(390),mh4edit-mit-save-id
+status_value,7,high,14,400,400,mh4edit-mit-save-id
+status_value,7,high,15,(430),(430),mh4edit-mit-save-id
+status_value,7,high,16,450,450,mh4edit-mit-save-id
+status_value,7,high,17,(480),(480),mh4edit-mit-save-id
+status_value,7,high,20,([38580]),([38580]),mh4edit-mit-save-id
+status_value,7,high,50,970,970,mh4edit-mit-save-id
+status_value,8,low,0,100,100,mh4edit-mit-save-id
+status_value,8,low,1,(120),(120),mh4edit-mit-save-id
+status_value,8,low,2,120,120,mh4edit-mit-save-id
+status_value,8,low,3,(140),(140),mh4edit-mit-save-id
+status_value,8,low,4,130,130,mh4edit-mit-save-id
+status_value,8,low,5,(150),(150),mh4edit-mit-save-id
+status_value,8,low,6,140,140,mh4edit-mit-save-id
+status_value,8,low,7,(150),(150),mh4edit-mit-save-id
+status_value,8,low,8,150,150,mh4edit-mit-save-id
+status_value,8,low,9,(160),(160),mh4edit-mit-save-id
+status_value,8,low,10,160,160,mh4edit-mit-save-id
+status_value,8,low,11,(180),(180),mh4edit-mit-save-id
+status_value,8,low,12,180,180,mh4edit-mit-save-id
+status_value,8,low,13,(190),(190),mh4edit-mit-save-id
+status_value,8,low,14,200,200,mh4edit-mit-save-id
+status_value,8,low,15,(210),(210),mh4edit-mit-save-id
+status_value,8,low,16,220,220,mh4edit-mit-save-id
+status_value,8,low,17,(240),(240),mh4edit-mit-save-id
+status_value,8,low,20,(19290),(19290),mh4edit-mit-save-id
+status_value,8,low,95,1000,1000,mh4edit-mit-save-id
+status_value,9,medium,0,140,140,mh4edit-mit-save-id
+status_value,9,medium,1,(170),(170),mh4edit-mit-save-id
+status_value,9,medium,2,170,170,mh4edit-mit-save-id
+status_value,9,medium,3,(190),(190),mh4edit-mit-save-id
+status_value,9,medium,4,180,180,mh4edit-mit-save-id
+status_value,9,medium,5,(200),(200),mh4edit-mit-save-id
+status_value,9,medium,6,190,190,mh4edit-mit-save-id
+status_value,9,medium,7,(210),(210),mh4edit-mit-save-id
+status_value,9,medium,8,200,200,mh4edit-mit-save-id
+status_value,9,medium,9,(220),(220),mh4edit-mit-save-id
+status_value,9,medium,10,220,220,mh4edit-mit-save-id
+status_value,9,medium,11,(240),(240),mh4edit-mit-save-id
+status_value,9,medium,12,240,240,mh4edit-mit-save-id
+status_value,9,medium,13,(260),(260),mh4edit-mit-save-id
+status_value,9,medium,14,270,270,mh4edit-mit-save-id
+status_value,9,medium,15,(290),(290),mh4edit-mit-save-id
+status_value,9,medium,16,300,300,mh4edit-mit-save-id
+status_value,9,medium,17,(320),(320),mh4edit-mit-save-id
+status_value,9,medium,20,(25720),(25720),mh4edit-mit-save-id
+status_value,9,medium,67,800,800,mh4edit-mit-save-id
+status_value,10,medium,0,140,140,mh4edit-mit-save-id
+status_value,10,medium,1,(170),(170),mh4edit-mit-save-id
+status_value,10,medium,2,170,170,mh4edit-mit-save-id
+status_value,10,medium,3,(190),(190),mh4edit-mit-save-id
+status_value,10,medium,4,180,180,mh4edit-mit-save-id
+status_value,10,medium,5,(200),(200),mh4edit-mit-save-id
+status_value,10,medium,6,190,190,mh4edit-mit-save-id
+status_value,10,medium,7,(210),(210),mh4edit-mit-save-id
+status_value,10,medium,8,200,200,mh4edit-mit-save-id
+status_value,10,medium,9,(220),(220),mh4edit-mit-save-id
+status_value,10,medium,10,220,220,mh4edit-mit-save-id
+status_value,10,medium,11,(240),(240),mh4edit-mit-save-id
+status_value,10,medium,12,240,240,mh4edit-mit-save-id
+status_value,10,medium,13,(260),(260),mh4edit-mit-save-id
+status_value,10,medium,14,270,270,mh4edit-mit-save-id
+status_value,10,medium,15,(290),(290),mh4edit-mit-save-id
+status_value,10,medium,16,300,300,mh4edit-mit-save-id
+status_value,10,medium,17,(320),(320),mh4edit-mit-save-id
+status_value,10,medium,20,(25720),(25720),mh4edit-mit-save-id
+status_value,10,medium,67,800,800,mh4edit-mit-save-id
+status_value,13,medium,0,140,140,mh4edit-mit-save-id
+status_value,13,medium,1,(170),(170),mh4edit-mit-save-id
+status_value,13,medium,2,170,170,mh4edit-mit-save-id
+status_value,13,medium,3,(190),(190),mh4edit-mit-save-id
+status_value,13,medium,4,180,180,mh4edit-mit-save-id
+status_value,13,medium,5,(200),(200),mh4edit-mit-save-id
+status_value,13,medium,6,190,190,mh4edit-mit-save-id
+status_value,13,medium,7,(210),(210),mh4edit-mit-save-id
+status_value,13,medium,8,200,200,mh4edit-mit-save-id
+status_value,13,medium,9,(220),(220),mh4edit-mit-save-id
+status_value,13,medium,10,220,220,mh4edit-mit-save-id
+status_value,13,medium,11,(240),(240),mh4edit-mit-save-id
+status_value,13,medium,12,240,240,mh4edit-mit-save-id
+status_value,13,medium,13,(260),(260),mh4edit-mit-save-id
+status_value,13,medium,14,270,270,mh4edit-mit-save-id
+status_value,13,medium,15,(290),(290),mh4edit-mit-save-id
+status_value,13,medium,16,300,300,mh4edit-mit-save-id
+status_value,13,medium,17,(320),(320),mh4edit-mit-save-id
+status_value,13,medium,20,(25720),(25720),mh4edit-mit-save-id
+status_value,13,medium,67,800,800,mh4edit-mit-save-id
+status_value,14,medium,0,140,140,mh4edit-mit-save-id
+status_value,14,medium,1,(170),(170),mh4edit-mit-save-id
+status_value,14,medium,2,170,170,mh4edit-mit-save-id
+status_value,14,medium,3,(190),(190),mh4edit-mit-save-id
+status_value,14,medium,4,180,180,mh4edit-mit-save-id
+status_value,14,medium,5,(200),(200),mh4edit-mit-save-id
+status_value,14,medium,6,190,190,mh4edit-mit-save-id
+status_value,14,medium,7,(210),(210),mh4edit-mit-save-id
+status_value,14,medium,8,200,200,mh4edit-mit-save-id
+status_value,14,medium,9,(220),(220),mh4edit-mit-save-id
+status_value,14,medium,10,220,220,mh4edit-mit-save-id
+status_value,14,medium,11,(240),(240),mh4edit-mit-save-id
+status_value,14,medium,12,240,240,mh4edit-mit-save-id
+status_value,14,medium,13,(260),(260),mh4edit-mit-save-id
+status_value,14,medium,14,270,270,mh4edit-mit-save-id
+status_value,14,medium,15,(290),(290),mh4edit-mit-save-id
+status_value,14,medium,16,300,300,mh4edit-mit-save-id
+status_value,14,medium,17,(320),(320),mh4edit-mit-save-id
+status_value,14,medium,20,(25720),(25720),mh4edit-mit-save-id
+status_value,14,medium,67,800,800,mh4edit-mit-save-id
+status_value,15,medium,0,140,140,mh4edit-mit-save-id
+status_value,15,medium,1,(170),(170),mh4edit-mit-save-id
+status_value,15,medium,2,170,170,mh4edit-mit-save-id
+status_value,15,medium,3,(190),(190),mh4edit-mit-save-id
+status_value,15,medium,4,180,180,mh4edit-mit-save-id
+status_value,15,medium,5,(200),(200),mh4edit-mit-save-id
+status_value,15,medium,6,190,190,mh4edit-mit-save-id
+status_value,15,medium,7,(210),(210),mh4edit-mit-save-id
+status_value,15,medium,8,200,200,mh4edit-mit-save-id
+status_value,15,medium,9,(220),(220),mh4edit-mit-save-id
+status_value,15,medium,10,220,220,mh4edit-mit-save-id
+status_value,15,medium,11,(240),(240),mh4edit-mit-save-id
+status_value,15,medium,12,240,240,mh4edit-mit-save-id
+status_value,15,medium,13,(260),(260),mh4edit-mit-save-id
+status_value,15,medium,14,270,270,mh4edit-mit-save-id
+status_value,15,medium,15,(290),(290),mh4edit-mit-save-id
+status_value,15,medium,16,300,300,mh4edit-mit-save-id
+status_value,15,medium,17,(320),(320),mh4edit-mit-save-id
+status_value,15,medium,20,(25720),(25720),mh4edit-mit-save-id
+status_value,15,medium,67,800,800,mh4edit-mit-save-id
+status_value,16,low,0,100,100,mh4edit-mit-save-id
+status_value,16,low,1,(120),(120),mh4edit-mit-save-id
+status_value,16,low,2,120,120,mh4edit-mit-save-id
+status_value,16,low,3,(140),(140),mh4edit-mit-save-id
+status_value,16,low,4,130,130,mh4edit-mit-save-id
+status_value,16,low,5,(150),(150),mh4edit-mit-save-id
+status_value,16,low,6,140,140,mh4edit-mit-save-id
+status_value,16,low,7,(150),(150),mh4edit-mit-save-id
+status_value,16,low,8,150,150,mh4edit-mit-save-id
+status_value,16,low,9,(160),(160),mh4edit-mit-save-id
+status_value,16,low,10,160,160,mh4edit-mit-save-id
+status_value,16,low,11,(180),(180),mh4edit-mit-save-id
+status_value,16,low,12,180,180,mh4edit-mit-save-id
+status_value,16,low,13,(190),(190),mh4edit-mit-save-id
+status_value,16,low,14,200,200,mh4edit-mit-save-id
+status_value,16,low,15,(210),(210),mh4edit-mit-save-id
+status_value,16,low,16,220,220,mh4edit-mit-save-id
+status_value,16,low,17,(240),(240),mh4edit-mit-save-id
+status_value,16,low,20,(19290),(19290),mh4edit-mit-save-id
+status_value,16,low,95,1000,1000,mh4edit-mit-save-id
+status_value,17,low,0,100,100,mh4edit-mit-save-id
+status_value,17,low,1,(120),(120),mh4edit-mit-save-id
+status_value,17,low,2,120,120,mh4edit-mit-save-id
+status_value,17,low,3,(140),(140),mh4edit-mit-save-id
+status_value,17,low,4,130,130,mh4edit-mit-save-id
+status_value,17,low,5,(150),(150),mh4edit-mit-save-id
+status_value,17,low,6,140,140,mh4edit-mit-save-id
+status_value,17,low,7,(150),(150),mh4edit-mit-save-id
+status_value,17,low,8,150,150,mh4edit-mit-save-id
+status_value,17,low,9,(160),(160),mh4edit-mit-save-id
+status_value,17,low,10,160,160,mh4edit-mit-save-id
+status_value,17,low,11,(180),(180),mh4edit-mit-save-id
+status_value,17,low,12,180,180,mh4edit-mit-save-id
+status_value,17,low,13,(190),(190),mh4edit-mit-save-id
+status_value,17,low,14,200,200,mh4edit-mit-save-id
+status_value,17,low,15,(210),(210),mh4edit-mit-save-id
+status_value,17,low,16,220,220,mh4edit-mit-save-id
+status_value,17,low,17,(240),(240),mh4edit-mit-save-id
+status_value,17,low,20,(19290),(19290),mh4edit-mit-save-id
+status_value,17,low,95,1000,1000,mh4edit-mit-save-id
+status_value,18,high,0,210,210,mh4edit-mit-save-id
+status_value,18,high,1,(250),(250),mh4edit-mit-save-id
+status_value,18,high,2,250,250,mh4edit-mit-save-id
+status_value,18,high,3,(280),(280),mh4edit-mit-save-id
+status_value,18,high,4,270,270,mh4edit-mit-save-id
+status_value,18,high,5,(300),(300),mh4edit-mit-save-id
+status_value,18,high,6,280,280,mh4edit-mit-save-id
+status_value,18,high,7,(310),(310),mh4edit-mit-save-id
+status_value,18,high,8,300,300,mh4edit-mit-save-id
+status_value,18,high,9,(330),(330),mh4edit-mit-save-id
+status_value,18,high,10,330,330,mh4edit-mit-save-id
+status_value,18,high,11,(360),(360),mh4edit-mit-save-id
+status_value,18,high,12,360,360,mh4edit-mit-save-id
+status_value,18,high,13,(390),(390),mh4edit-mit-save-id
+status_value,18,high,14,400,400,mh4edit-mit-save-id
+status_value,18,high,15,(430),(430),mh4edit-mit-save-id
+status_value,18,high,16,450,450,mh4edit-mit-save-id
+status_value,18,high,17,(480),(480),mh4edit-mit-save-id
+status_value,18,high,20,([38580]),([38580]),mh4edit-mit-save-id
+status_value,18,high,50,970,970,mh4edit-mit-save-id
+status_value,19,low,0,100,100,mh4edit-mit-save-id
+status_value,19,low,1,(120),(120),mh4edit-mit-save-id
+status_value,19,low,2,120,120,mh4edit-mit-save-id
+status_value,19,low,3,(140),(140),mh4edit-mit-save-id
+status_value,19,low,4,130,130,mh4edit-mit-save-id
+status_value,19,low,5,(150),(150),mh4edit-mit-save-id
+status_value,19,low,6,140,140,mh4edit-mit-save-id
+status_value,19,low,7,(150),(150),mh4edit-mit-save-id
+status_value,19,low,8,150,150,mh4edit-mit-save-id
+status_value,19,low,9,(160),(160),mh4edit-mit-save-id
+status_value,19,low,10,160,160,mh4edit-mit-save-id
+status_value,19,low,11,(180),(180),mh4edit-mit-save-id
+status_value,19,low,12,180,180,mh4edit-mit-save-id
+status_value,19,low,13,(190),(190),mh4edit-mit-save-id
+status_value,19,low,14,200,200,mh4edit-mit-save-id
+status_value,19,low,15,(210),(210),mh4edit-mit-save-id
+status_value,19,low,16,220,220,mh4edit-mit-save-id
+status_value,19,low,17,(240),(240),mh4edit-mit-save-id
+status_value,19,low,20,(19290),(19290),mh4edit-mit-save-id
+status_value,19,low,95,1000,1000,mh4edit-mit-save-id
+status_value,20,medium,0,140,140,mh4edit-mit-save-id
+status_value,20,medium,1,(170),(170),mh4edit-mit-save-id
+status_value,20,medium,2,170,170,mh4edit-mit-save-id
+status_value,20,medium,3,(190),(190),mh4edit-mit-save-id
+status_value,20,medium,4,180,180,mh4edit-mit-save-id
+status_value,20,medium,5,(200),(200),mh4edit-mit-save-id
+status_value,20,medium,6,190,190,mh4edit-mit-save-id
+status_value,20,medium,7,(210),(210),mh4edit-mit-save-id
+status_value,20,medium,8,200,200,mh4edit-mit-save-id
+status_value,20,medium,9,(220),(220),mh4edit-mit-save-id
+status_value,20,medium,10,220,220,mh4edit-mit-save-id
+status_value,20,medium,11,(240),(240),mh4edit-mit-save-id
+status_value,20,medium,12,240,240,mh4edit-mit-save-id
+status_value,20,medium,13,(260),(260),mh4edit-mit-save-id
+status_value,20,medium,14,270,270,mh4edit-mit-save-id
+status_value,20,medium,15,(290),(290),mh4edit-mit-save-id
+status_value,20,medium,16,300,300,mh4edit-mit-save-id
+status_value,20,medium,17,(320),(320),mh4edit-mit-save-id
+status_value,20,medium,20,(25720),(25720),mh4edit-mit-save-id
+status_value,20,medium,67,800,800,mh4edit-mit-save-id
+upgrade,1,armor,0,0,0,mh4edit-mit-save-id
+upgrade,1,armor,1,1,1,mh4edit-mit-save-id
+upgrade,1,armor,2,2,2,mh4edit-mit-save-id
+upgrade,1,armor,3,3,3,mh4edit-mit-save-id
+upgrade,1,armor,4,4,4,mh4edit-mit-save-id
+upgrade,1,armor,5,5,5,mh4edit-mit-save-id
+upgrade,1,armor,6,6,6,mh4edit-mit-save-id
+upgrade,1,armor,7,7,7,mh4edit-mit-save-id
+upgrade,1,armor,8,8,8,mh4edit-mit-save-id
+upgrade,1,armor,9,9,9,mh4edit-mit-save-id
+upgrade,1,armor,10,10,10,mh4edit-mit-save-id
+upgrade,1,armor,11,11,11,mh4edit-mit-save-id
+upgrade,1,armor,12,12,12,mh4edit-mit-save-id
+upgrade,2,armor,0,0,0,mh4edit-mit-save-id
+upgrade,2,armor,1,1,1,mh4edit-mit-save-id
+upgrade,2,armor,2,2,2,mh4edit-mit-save-id
+upgrade,2,armor,3,3,3,mh4edit-mit-save-id
+upgrade,2,armor,4,4,4,mh4edit-mit-save-id
+upgrade,2,armor,5,5,5,mh4edit-mit-save-id
+upgrade,2,armor,6,6,6,mh4edit-mit-save-id
+upgrade,2,armor,7,7,7,mh4edit-mit-save-id
+upgrade,2,armor,8,8,8,mh4edit-mit-save-id
+upgrade,2,armor,9,9,9,mh4edit-mit-save-id
+upgrade,2,armor,10,10,10,mh4edit-mit-save-id
+upgrade,2,armor,11,11,11,mh4edit-mit-save-id
+upgrade,2,armor,12,12,12,mh4edit-mit-save-id
+upgrade,3,armor,0,0,0,mh4edit-mit-save-id
+upgrade,3,armor,1,1,1,mh4edit-mit-save-id
+upgrade,3,armor,2,2,2,mh4edit-mit-save-id
+upgrade,3,armor,3,3,3,mh4edit-mit-save-id
+upgrade,3,armor,4,4,4,mh4edit-mit-save-id
+upgrade,3,armor,5,5,5,mh4edit-mit-save-id
+upgrade,3,armor,6,6,6,mh4edit-mit-save-id
+upgrade,3,armor,7,7,7,mh4edit-mit-save-id
+upgrade,3,armor,8,8,8,mh4edit-mit-save-id
+upgrade,3,armor,9,9,9,mh4edit-mit-save-id
+upgrade,3,armor,10,10,10,mh4edit-mit-save-id
+upgrade,3,armor,11,11,11,mh4edit-mit-save-id
+upgrade,3,armor,12,12,12,mh4edit-mit-save-id
+upgrade,4,armor,0,0,0,mh4edit-mit-save-id
+upgrade,4,armor,1,1,1,mh4edit-mit-save-id
+upgrade,4,armor,2,2,2,mh4edit-mit-save-id
+upgrade,4,armor,3,3,3,mh4edit-mit-save-id
+upgrade,4,armor,4,4,4,mh4edit-mit-save-id
+upgrade,4,armor,5,5,5,mh4edit-mit-save-id
+upgrade,4,armor,6,6,6,mh4edit-mit-save-id
+upgrade,4,armor,7,7,7,mh4edit-mit-save-id
+upgrade,4,armor,8,8,8,mh4edit-mit-save-id
+upgrade,4,armor,9,9,9,mh4edit-mit-save-id
+upgrade,4,armor,10,10,10,mh4edit-mit-save-id
+upgrade,4,armor,11,11,11,mh4edit-mit-save-id
+upgrade,4,armor,12,12,12,mh4edit-mit-save-id
+upgrade,5,armor,0,0,0,mh4edit-mit-save-id
+upgrade,5,armor,1,1,1,mh4edit-mit-save-id
+upgrade,5,armor,2,2,2,mh4edit-mit-save-id
+upgrade,5,armor,3,3,3,mh4edit-mit-save-id
+upgrade,5,armor,4,4,4,mh4edit-mit-save-id
+upgrade,5,armor,5,5,5,mh4edit-mit-save-id
+upgrade,5,armor,6,6,6,mh4edit-mit-save-id
+upgrade,5,armor,7,7,7,mh4edit-mit-save-id
+upgrade,5,armor,8,8,8,mh4edit-mit-save-id
+upgrade,5,armor,9,9,9,mh4edit-mit-save-id
+upgrade,5,armor,10,10,10,mh4edit-mit-save-id
+upgrade,5,armor,11,11,11,mh4edit-mit-save-id
+upgrade,5,armor,12,12,12,mh4edit-mit-save-id
+upgrade,7,weapon,0,0,0,mh4edit-mit-save-id
+upgrade,7,weapon,1,1,1,mh4edit-mit-save-id
+upgrade,7,weapon,2,2,2,mh4edit-mit-save-id
+upgrade,7,weapon,3,3,3,mh4edit-mit-save-id
+upgrade,8,weapon,0,0,0,mh4edit-mit-save-id
+upgrade,8,weapon,1,1,1,mh4edit-mit-save-id
+upgrade,8,weapon,2,2,2,mh4edit-mit-save-id
+upgrade,8,weapon,3,3,3,mh4edit-mit-save-id
+upgrade,9,weapon,0,0,0,mh4edit-mit-save-id
+upgrade,9,weapon,1,1,1,mh4edit-mit-save-id
+upgrade,9,weapon,2,2,2,mh4edit-mit-save-id
+upgrade,9,weapon,3,3,3,mh4edit-mit-save-id
+upgrade,10,weapon,0,0,0,mh4edit-mit-save-id
+upgrade,10,weapon,1,1,1,mh4edit-mit-save-id
+upgrade,10,weapon,2,2,2,mh4edit-mit-save-id
+upgrade,10,weapon,3,3,3,mh4edit-mit-save-id
+upgrade,11,weapon,0,0,0,mh4edit-mit-save-id
+upgrade,11,weapon,1,1,1,mh4edit-mit-save-id
+upgrade,11,weapon,2,2,2,mh4edit-mit-save-id
+upgrade,11,weapon,3,3,3,mh4edit-mit-save-id
+upgrade,12,weapon,0,0,0,mh4edit-mit-save-id
+upgrade,12,weapon,1,1,1,mh4edit-mit-save-id
+upgrade,12,weapon,2,2,2,mh4edit-mit-save-id
+upgrade,12,weapon,3,3,3,mh4edit-mit-save-id
+upgrade,13,weapon,0,0,0,mh4edit-mit-save-id
+upgrade,13,weapon,1,1,1,mh4edit-mit-save-id
+upgrade,13,weapon,2,2,2,mh4edit-mit-save-id
+upgrade,13,weapon,3,3,3,mh4edit-mit-save-id
+upgrade,14,weapon,0,0,0,mh4edit-mit-save-id
+upgrade,14,weapon,1,1,1,mh4edit-mit-save-id
+upgrade,14,weapon,2,2,2,mh4edit-mit-save-id
+upgrade,14,weapon,3,3,3,mh4edit-mit-save-id
+upgrade,15,weapon,0,0,0,mh4edit-mit-save-id
+upgrade,15,weapon,1,1,1,mh4edit-mit-save-id
+upgrade,15,weapon,2,2,2,mh4edit-mit-save-id
+upgrade,15,weapon,3,3,3,mh4edit-mit-save-id
+upgrade,16,weapon,0,0,0,mh4edit-mit-save-id
+upgrade,16,weapon,1,1,1,mh4edit-mit-save-id
+upgrade,16,weapon,2,2,2,mh4edit-mit-save-id
+upgrade,16,weapon,3,3,3,mh4edit-mit-save-id
+upgrade,17,weapon,0,0,0,mh4edit-mit-save-id
+upgrade,17,weapon,1,1,1,mh4edit-mit-save-id
+upgrade,17,weapon,2,2,2,mh4edit-mit-save-id
+upgrade,17,weapon,3,3,3,mh4edit-mit-save-id
+upgrade,18,weapon,0,0,0,mh4edit-mit-save-id
+upgrade,18,weapon,1,1,1,mh4edit-mit-save-id
+upgrade,18,weapon,2,2,2,mh4edit-mit-save-id
+upgrade,18,weapon,3,3,3,mh4edit-mit-save-id
+upgrade,19,weapon,0,0,0,mh4edit-mit-save-id
+upgrade,19,weapon,1,1,1,mh4edit-mit-save-id
+upgrade,19,weapon,2,2,2,mh4edit-mit-save-id
+upgrade,19,weapon,3,3,3,mh4edit-mit-save-id
+upgrade,20,weapon,0,0,0,mh4edit-mit-save-id
+upgrade,20,weapon,1,1,1,mh4edit-mit-save-id
+upgrade,20,weapon,2,2,2,mh4edit-mit-save-id
+upgrade,20,weapon,3,3,3,mh4edit-mit-save-id
+weapon_special,7,attack_boost,0,RAW+0,RAW+0,mh4edit-mit-save-id
+weapon_special,7,attack_boost,1,RAW+10,RAW+10,mh4edit-mit-save-id
+weapon_special,7,attack_boost,2,RAW+20,RAW+20,mh4edit-mit-save-id
+weapon_special,8,defense_boost,0,DEF+0,DEF+0,mh4edit-mit-save-id
+weapon_special,8,defense_boost,1,DEF+10,DEF+10,mh4edit-mit-save-id
+weapon_special,8,defense_boost,2,DEF+20,DEF+20,mh4edit-mit-save-id
+weapon_special,8,defense_boost,3,DEF+20,DEF+20,mh4edit-mit-save-id
+weapon_special,8,defense_boost,4,DEF+35,DEF+35,mh4edit-mit-save-id
+weapon_special,9,attack_boost,0,RAW+0,RAW+0,mh4edit-mit-save-id
+weapon_special,9,attack_boost,1,RAW+10,RAW+10,mh4edit-mit-save-id
+weapon_special,9,attack_boost,2,RAW+20,RAW+20,mh4edit-mit-save-id
+weapon_special,10,defense_boost,0,DEF+0,DEF+0,mh4edit-mit-save-id
+weapon_special,10,defense_boost,1,DEF+10,DEF+10,mh4edit-mit-save-id
+weapon_special,10,defense_boost,2,DEF+20,DEF+20,mh4edit-mit-save-id
+weapon_special,10,defense_boost,3,DEF+20,DEF+20,mh4edit-mit-save-id
+weapon_special,10,defense_boost,4,DEF+35,DEF+35,mh4edit-mit-save-id
+weapon_special,11,available_shots,0,0x00,0x00,mh4edit-mit-save-id
+weapon_special,11,available_shots,1,0x01,0x01,mh4edit-mit-save-id
+weapon_special,11,available_shots,2,0x02,0x02,mh4edit-mit-save-id
+weapon_special,11,available_shots,3,0x03,0x03,mh4edit-mit-save-id
+weapon_special,11,available_shots,4,0x04,0x04,mh4edit-mit-save-id
+weapon_special,11,available_shots,5,0x05,0x05,mh4edit-mit-save-id
+weapon_special,11,available_shots,6,0x06,0x06,mh4edit-mit-save-id
+weapon_special,11,available_shots,7,0x07,0x07,mh4edit-mit-save-id
+weapon_special,11,available_shots,8,0x08,0x08,mh4edit-mit-save-id
+weapon_special,11,available_shots,9,0x09,0x09,mh4edit-mit-save-id
+weapon_special,11,available_shots,10,0x0A,0x0A,mh4edit-mit-save-id
+weapon_special,11,available_shots,11,0x0B,0x0B,mh4edit-mit-save-id
+weapon_special,11,available_shots,12,0x0C,0x0C,mh4edit-mit-save-id
+weapon_special,11,available_shots,13,0x0D,0x0D,mh4edit-mit-save-id
+weapon_special,11,available_shots,14,0x0E,0x0E,mh4edit-mit-save-id
+weapon_special,11,available_shots,15,0x0F,0x0F,mh4edit-mit-save-id
+weapon_special,11,available_shots,16,0x10,0x10,mh4edit-mit-save-id
+weapon_special,11,available_shots,17,0x11,0x11,mh4edit-mit-save-id
+weapon_special,11,available_shots,18,0x12,0x12,mh4edit-mit-save-id
+weapon_special,11,available_shots,19,0x13,0x13,mh4edit-mit-save-id
+weapon_special,11,available_shots,20,0x14,0x14,mh4edit-mit-save-id
+weapon_special,11,available_shots,189,0xBD,0xBD,mh4edit-mit-save-id
+weapon_special,11,available_shots,192,0xC0,0xC0,mh4edit-mit-save-id
+weapon_special,11,deviation,0,(None),(None),mh4g-dex-build7
+weapon_special,11,deviation,1,LR Mild,LR Mild,mh4g-dex-build7
+weapon_special,11,deviation,2,LR Severe,LR Severe,mh4g-dex-build7
+weapon_special,11,deviation,3,L Mild,L Mild,mh4g-dex-build7
+weapon_special,11,deviation,4,L Severe,L Severe,mh4g-dex-build7
+weapon_special,11,deviation,5,R Mild,R Mild,mh4g-dex-build7
+weapon_special,11,deviation,6,R Severe,R Severe,mh4g-dex-build7
+weapon_special,11,rapid_fire_gap,1,Short,Short,mh4g-dex-build7
+weapon_special,11,rapid_fire_gap,2,Medium,Medium,mh4g-dex-build7
+weapon_special,11,rapid_fire_gap,3,Long,Long,mh4g-dex-build7
+weapon_special,11,rapid_fire_gap,4,V.Long,V.Long,mh4g-dex-build7
+weapon_special,11,recoil,1,Low,Low,mh4g-dex-build7
+weapon_special,11,recoil,2,Some,Some,mh4g-dex-build7
+weapon_special,11,recoil,3,Average,Average,mh4g-dex-build7
+weapon_special,11,recoil,4,High,High,mh4g-dex-build7
+weapon_special,11,reload_speed,1,Fast,Fast,mh4g-dex-build7
+weapon_special,11,reload_speed,2,Abv.Avg,Abv.Avg,mh4g-dex-build7
+weapon_special,11,reload_speed,3,Average,Average,mh4g-dex-build7
+weapon_special,11,reload_speed,4,Bel.Avg,Bel.Avg,mh4g-dex-build7
+weapon_special,11,reload_speed,5,Slow,Slow,mh4g-dex-build7
+weapon_special,12,available_shots,0,0x00,0x00,mh4edit-mit-save-id
+weapon_special,12,available_shots,1,0x01,0x01,mh4edit-mit-save-id
+weapon_special,12,available_shots,2,0x02,0x02,mh4edit-mit-save-id
+weapon_special,12,available_shots,3,0x03,0x03,mh4edit-mit-save-id
+weapon_special,12,available_shots,4,0x04,0x04,mh4edit-mit-save-id
+weapon_special,12,available_shots,5,0x05,0x05,mh4edit-mit-save-id
+weapon_special,12,available_shots,6,0x06,0x06,mh4edit-mit-save-id
+weapon_special,12,available_shots,7,0x07,0x07,mh4edit-mit-save-id
+weapon_special,12,available_shots,8,0x08,0x08,mh4edit-mit-save-id
+weapon_special,12,available_shots,9,0x09,0x09,mh4edit-mit-save-id
+weapon_special,12,available_shots,10,0x0A,0x0A,mh4edit-mit-save-id
+weapon_special,12,available_shots,11,0x0B,0x0B,mh4edit-mit-save-id
+weapon_special,12,available_shots,12,0x0C,0x0C,mh4edit-mit-save-id
+weapon_special,12,available_shots,13,0x0D,0x0D,mh4edit-mit-save-id
+weapon_special,12,available_shots,14,0x0E,0x0E,mh4edit-mit-save-id
+weapon_special,12,available_shots,15,0x0F,0x0F,mh4edit-mit-save-id
+weapon_special,12,available_shots,16,0x10,0x10,mh4edit-mit-save-id
+weapon_special,12,available_shots,17,0x11,0x11,mh4edit-mit-save-id
+weapon_special,12,available_shots,18,0x12,0x12,mh4edit-mit-save-id
+weapon_special,12,available_shots,19,0x13,0x13,mh4edit-mit-save-id
+weapon_special,12,available_shots,20,0x14,0x14,mh4edit-mit-save-id
+weapon_special,12,available_shots,168,0xA8,0xA8,mh4edit-mit-save-id
+weapon_special,12,available_shots,171,0xAB,0xAB,mh4edit-mit-save-id
+weapon_special,12,deviation,0,(None),(None),mh4g-dex-build7
+weapon_special,12,deviation,1,LR Mild,LR Mild,mh4g-dex-build7
+weapon_special,12,deviation,2,LR Severe,LR Severe,mh4g-dex-build7
+weapon_special,12,deviation,3,L Mild,L Mild,mh4g-dex-build7
+weapon_special,12,deviation,4,L Severe,L Severe,mh4g-dex-build7
+weapon_special,12,deviation,5,R Mild,R Mild,mh4g-dex-build7
+weapon_special,12,deviation,6,R Severe,R Severe,mh4g-dex-build7
+weapon_special,12,recoil,1,Low,Low,mh4g-dex-build7
+weapon_special,12,recoil,2,Some,Some,mh4g-dex-build7
+weapon_special,12,recoil,3,Average,Average,mh4g-dex-build7
+weapon_special,12,recoil,4,High,High,mh4g-dex-build7
+weapon_special,12,reload_speed,1,Fast,Fast,mh4g-dex-build7
+weapon_special,12,reload_speed,2,Abv.Avg,Abv.Avg,mh4g-dex-build7
+weapon_special,12,reload_speed,3,Average,Average,mh4g-dex-build7
+weapon_special,12,reload_speed,4,Bel.Avg,Bel.Avg,mh4g-dex-build7
+weapon_special,12,reload_speed,5,Slow,Slow,mh4g-dex-build7
+weapon_special,13,affinity_boost,0,Affinity +0%,Affinity +0%,mh4edit-mit-save-id
+weapon_special,13,affinity_boost,1,Affinity +10%,Affinity +10%,mh4edit-mit-save-id
+weapon_special,13,affinity_boost,2,Affinity +20%,Affinity +20%,mh4edit-mit-save-id
+weapon_special,14,dex_phial,1,Power,Power,mh4g-dex-build7
+weapon_special,14,dex_phial,2,Para,Para,mh4g-dex-build7
+weapon_special,14,dex_phial,3,Poison,Poison,mh4g-dex-build7
+weapon_special,14,dex_phial,4,Dragon,Dragon,mh4g-dex-build7
+weapon_special,14,dex_phial,5,Element,Element,mh4g-dex-build7
+weapon_special,14,dex_phial,6,Exhaust,Exhaust,mh4g-dex-build7
+weapon_special,14,dex_phial,7,Impact,Impact,mh4g-dex-build7
+weapon_special,14,relic_phial,0,Power,Power,mh4edit-mit-save-id
+weapon_special,14,relic_phial,1,Element,Element,mh4edit-mit-save-id
+weapon_special,14,relic_phial,2,Paralysis,Paralysis,mh4edit-mit-save-id
+weapon_special,14,relic_phial,3,Dragon,Dragon,mh4edit-mit-save-id
+weapon_special,14,relic_phial,4,Exhaust,Exhaust,mh4edit-mit-save-id
+weapon_special,14,relic_phial,5,Poison,Poison,mh4edit-mit-save-id
+weapon_special,15,shelling,0,Normal Lvl 1,Normal Lvl 1,mh4edit-mit-save-id
+weapon_special,15,shelling,1,Wide Lvl 1,Wide Lvl 1,mh4edit-mit-save-id
+weapon_special,15,shelling,2,Long Lvl 1,Long Lvl 1,mh4edit-mit-save-id
+weapon_special,15,shelling,3,Normal Lvl 2,Normal Lvl 2,mh4edit-mit-save-id
+weapon_special,15,shelling,4,Wide Lvl 2,Wide Lvl 2,mh4edit-mit-save-id
+weapon_special,15,shelling,5,Long Lvl 2,Long Lvl 2,mh4edit-mit-save-id
+weapon_special,15,shelling,6,Normal Lvl 3,Normal Lvl 3,mh4edit-mit-save-id
+weapon_special,15,shelling,7,Wide Lvl 3,Wide Lvl 3,mh4edit-mit-save-id
+weapon_special,15,shelling,8,Long Lvl 3,Long Lvl 3,mh4edit-mit-save-id
+weapon_special,15,shelling,9,Normal Lvl 4,Normal Lvl 4,mh4edit-mit-save-id
+weapon_special,15,shelling,10,Wide Lvl 4,Wide Lvl 4,mh4edit-mit-save-id
+weapon_special,15,shelling,11,Long Lvl 4,Long Lvl 4,mh4edit-mit-save-id
+weapon_special,15,shelling,12,Normal Lvl 5,Normal Lvl 5,mh4edit-mit-save-id
+weapon_special,15,shelling,13,Wide Lvl 5,Wide Lvl 5,mh4edit-mit-save-id
+weapon_special,15,shelling,14,Long Lvl 5,Long Lvl 5,mh4edit-mit-save-id
+weapon_special,15,shot_type,1,Normal L1,Normal L1,mh4g-dex-build7
+weapon_special,15,shot_type,2,Normal L2,Normal L2,mh4g-dex-build7
+weapon_special,15,shot_type,3,Normal L3,Normal L3,mh4g-dex-build7
+weapon_special,15,shot_type,4,Normal L4,Normal L4,mh4g-dex-build7
+weapon_special,15,shot_type,5,Normal L5,Normal L5,mh4g-dex-build7
+weapon_special,15,shot_type,6,Wide L1,Wide L1,mh4g-dex-build7
+weapon_special,15,shot_type,7,Wide L2,Wide L2,mh4g-dex-build7
+weapon_special,15,shot_type,8,Wide L3,Wide L3,mh4g-dex-build7
+weapon_special,15,shot_type,9,Wide L4,Wide L4,mh4g-dex-build7
+weapon_special,15,shot_type,10,Wide L5,Wide L5,mh4g-dex-build7
+weapon_special,15,shot_type,11,Long L1,Long L1,mh4g-dex-build7
+weapon_special,15,shot_type,12,Long L2,Long L2,mh4g-dex-build7
+weapon_special,15,shot_type,13,Long L3,Long L3,mh4g-dex-build7
+weapon_special,15,shot_type,14,Long L4,Long L4,mh4g-dex-build7
+weapon_special,15,shot_type,15,Long L5,Long L5,mh4g-dex-build7
+weapon_special,15,shot_type,16,Pierce L1,Pierce L1,mh4g-dex-build7
+weapon_special,15,shot_type,17,Pierce L2,Pierce L2,mh4g-dex-build7
+weapon_special,15,shot_type,18,Pierce L3,Pierce L3,mh4g-dex-build7
+weapon_special,15,shot_type,19,Pierce L4,Pierce L4,mh4g-dex-build7
+weapon_special,15,shot_type,20,Pierce L5,Pierce L5,mh4g-dex-build7
+weapon_special,15,shot_type,21,Rapid L1,Rapid L1,mh4g-dex-build7
+weapon_special,15,shot_type,22,Rapid L2,Rapid L2,mh4g-dex-build7
+weapon_special,15,shot_type,23,Rapid L3,Rapid L3,mh4g-dex-build7
+weapon_special,15,shot_type,24,Rapid L4,Rapid L4,mh4g-dex-build7
+weapon_special,15,shot_type,25,Rapid L5,Rapid L5,mh4g-dex-build7
+weapon_special,15,shot_type,26,Spread L1,Spread L1,mh4g-dex-build7
+weapon_special,15,shot_type,27,Spread L2,Spread L2,mh4g-dex-build7
+weapon_special,15,shot_type,28,Spread L3,Spread L3,mh4g-dex-build7
+weapon_special,15,shot_type,29,Spread L4,Spread L4,mh4g-dex-build7
+weapon_special,15,shot_type,30,Spread L5,Spread L5,mh4g-dex-build7
+weapon_special,15,shot_type,31,Normal,Normal,mh4g-dex-build7
+weapon_special,15,shot_type,32,Wide,Wide,mh4g-dex-build7
+weapon_special,15,shot_type,33,Long,Long,mh4g-dex-build7
+weapon_special,15,shot_type,34,Pierce,Pierce,mh4g-dex-build7
+weapon_special,15,shot_type,35,Rapid,Rapid,mh4g-dex-build7
+weapon_special,15,shot_type,36,Spread,Spread,mh4g-dex-build7
+weapon_special,16,arc_type,1,Wide,Wide,mh4g-dex-build7
+weapon_special,16,arc_type,2,Focus,Focus,mh4g-dex-build7
+weapon_special,16,arc_type,3,Blast,Blast,mh4g-dex-build7
+weapon_special,16,arc_type,4,Power,Power,mh4g-dex-build7
+weapon_special,16,reserved,0,(Nothing),(Nothing),mh4edit-mit-save-id
+weapon_special,16,shot_type,1,Normal L1,Normal L1,mh4g-dex-build7
+weapon_special,16,shot_type,2,Normal L2,Normal L2,mh4g-dex-build7
+weapon_special,16,shot_type,3,Normal L3,Normal L3,mh4g-dex-build7
+weapon_special,16,shot_type,4,Normal L4,Normal L4,mh4g-dex-build7
+weapon_special,16,shot_type,5,Normal L5,Normal L5,mh4g-dex-build7
+weapon_special,16,shot_type,6,Wide L1,Wide L1,mh4g-dex-build7
+weapon_special,16,shot_type,7,Wide L2,Wide L2,mh4g-dex-build7
+weapon_special,16,shot_type,8,Wide L3,Wide L3,mh4g-dex-build7
+weapon_special,16,shot_type,9,Wide L4,Wide L4,mh4g-dex-build7
+weapon_special,16,shot_type,10,Wide L5,Wide L5,mh4g-dex-build7
+weapon_special,16,shot_type,11,Long L1,Long L1,mh4g-dex-build7
+weapon_special,16,shot_type,12,Long L2,Long L2,mh4g-dex-build7
+weapon_special,16,shot_type,13,Long L3,Long L3,mh4g-dex-build7
+weapon_special,16,shot_type,14,Long L4,Long L4,mh4g-dex-build7
+weapon_special,16,shot_type,15,Long L5,Long L5,mh4g-dex-build7
+weapon_special,16,shot_type,16,Pierce L1,Pierce L1,mh4g-dex-build7
+weapon_special,16,shot_type,17,Pierce L2,Pierce L2,mh4g-dex-build7
+weapon_special,16,shot_type,18,Pierce L3,Pierce L3,mh4g-dex-build7
+weapon_special,16,shot_type,19,Pierce L4,Pierce L4,mh4g-dex-build7
+weapon_special,16,shot_type,20,Pierce L5,Pierce L5,mh4g-dex-build7
+weapon_special,16,shot_type,21,Rapid L1,Rapid L1,mh4g-dex-build7
+weapon_special,16,shot_type,22,Rapid L2,Rapid L2,mh4g-dex-build7
+weapon_special,16,shot_type,23,Rapid L3,Rapid L3,mh4g-dex-build7
+weapon_special,16,shot_type,24,Rapid L4,Rapid L4,mh4g-dex-build7
+weapon_special,16,shot_type,25,Rapid L5,Rapid L5,mh4g-dex-build7
+weapon_special,16,shot_type,26,Spread L1,Spread L1,mh4g-dex-build7
+weapon_special,16,shot_type,27,Spread L2,Spread L2,mh4g-dex-build7
+weapon_special,16,shot_type,28,Spread L3,Spread L3,mh4g-dex-build7
+weapon_special,16,shot_type,29,Spread L4,Spread L4,mh4g-dex-build7
+weapon_special,16,shot_type,30,Spread L5,Spread L5,mh4g-dex-build7
+weapon_special,16,shot_type,31,Normal,Normal,mh4g-dex-build7
+weapon_special,16,shot_type,32,Wide,Wide,mh4g-dex-build7
+weapon_special,16,shot_type,33,Long,Long,mh4g-dex-build7
+weapon_special,16,shot_type,34,Pierce,Pierce,mh4g-dex-build7
+weapon_special,16,shot_type,35,Rapid,Rapid,mh4g-dex-build7
+weapon_special,16,shot_type,36,Spread,Spread,mh4g-dex-build7
+weapon_special,17,affinity_boost,0,Affinity +0%,Affinity +0%,mh4edit-mit-save-id
+weapon_special,17,affinity_boost,1,Affinity +10%,Affinity +10%,mh4edit-mit-save-id
+weapon_special,17,affinity_boost,2,Affinity +20%,Affinity +20%,mh4edit-mit-save-id
+weapon_special,18,notes,0,White	Red     Blue,White	Red     Blue,mh4edit-mit-save-id
+weapon_special,18,notes,2,Purple	Red     Blue,Purple	Red     Blue,mh4edit-mit-save-id
+weapon_special,18,notes,4,White	Red     Green,White	Red     Green,mh4edit-mit-save-id
+weapon_special,18,notes,6,Purple	Red     Green,Purple	Red     Green,mh4edit-mit-save-id
+weapon_special,18,notes,8,White	Red     Aqua,White	Red     Aqua,mh4edit-mit-save-id
+weapon_special,18,notes,10,Purple	Red     Aqua,Purple	Red     Aqua,mh4edit-mit-save-id
+weapon_special,18,notes,12,White	Red     Yellow,White	Red     Yellow,mh4edit-mit-save-id
+weapon_special,18,notes,14,Purple	Red     Yellow,Purple	Red     Yellow,mh4edit-mit-save-id
+weapon_special,18,notes,16,White	Blue	Green,White	Blue	Green,mh4edit-mit-save-id
+weapon_special,18,notes,18,Purple	Blue	Green,Purple	Blue	Green,mh4edit-mit-save-id
+weapon_special,18,notes,20,White	Blue	Aqua,White	Blue	Aqua,mh4edit-mit-save-id
+weapon_special,18,notes,22,Purple	Blue	Aqua,Purple	Blue	Aqua,mh4edit-mit-save-id
+weapon_special,18,notes,24,White	Blue	Yellow,White	Blue	Yellow,mh4edit-mit-save-id
+weapon_special,18,notes,26,Purple	Blue	Yellow,Purple	Blue	Yellow,mh4edit-mit-save-id
+weapon_special,18,notes,28,White	Green	Aqua,White	Green	Aqua,mh4edit-mit-save-id
+weapon_special,18,notes,30,Purple	Green	Aqua,Purple	Green	Aqua,mh4edit-mit-save-id
+weapon_special,18,notes,32,White	Green	Yellow,White	Green	Yellow,mh4edit-mit-save-id
+weapon_special,18,notes,34,Purple	Green	Yellow,Purple	Green	Yellow,mh4edit-mit-save-id
+weapon_special,18,notes,36,White	Aqua	Yellow,White	Aqua	Yellow,mh4edit-mit-save-id
+weapon_special,18,notes,38,Purple	Aqua	Yellow,Purple	Aqua	Yellow,mh4edit-mit-save-id
+weapon_special,18,notes,40,Purple	Orange	Red,Purple	Orange	Red,mh4edit-mit-save-id
+weapon_special,18,notes,42,Purple	Orange	Blue,Purple	Orange	Blue,mh4edit-mit-save-id
+weapon_special,18,notes,44,Purple	Orange	Green,Purple	Orange	Green,mh4edit-mit-save-id
+weapon_special,18,notes,46,Purple	Orange	Aqua,Purple	Orange	Aqua,mh4edit-mit-save-id
+weapon_special,18,notes,48,Purple	Orange	Yellow,Purple	Orange	Yellow,mh4edit-mit-save-id
+weapon_special,18,recital_effect,1,Movement Speed Up,Movement Speed Up,mh4g-dex-build7
+weapon_special,18,recital_effect,2,Attack Deflection Prevention,Attack Deflection Prevention,mh4g-dex-build7
+weapon_special,18,recital_effect,3,Attack Boost (S),Attack Boost (S),mh4g-dex-build7
+weapon_special,18,recital_effect,4,Attack Boost (L),Attack Boost (L),mh4g-dex-build7
+weapon_special,18,recital_effect,5,Attack Boost Bonus,Attack Boost Bonus,mh4g-dex-build7
+weapon_special,18,recital_effect,6,Defense Boost (S),Defense Boost (S),mh4g-dex-build7
+weapon_special,18,recital_effect,7,Defense Boost (L),Defense Boost (L),mh4g-dex-build7
+weapon_special,18,recital_effect,8,Defense Boost Bonus,Defense Boost Bonus,mh4g-dex-build7
+weapon_special,18,recital_effect,9,Attack Boost (S) & Defense Boost (S),Attack Boost (S) & Defense Boost (S),mh4g-dex-build7
+weapon_special,18,recital_effect,10,Attack Boost Bonus & Defense Boost Bonus,Attack Boost Bonus & Defense Boost Bonus,mh4g-dex-build7
+weapon_special,18,recital_effect,11,Health Boost (S),Health Boost (S),mh4g-dex-build7
+weapon_special,18,recital_effect,12,Health Boost (L),Health Boost (L),mh4g-dex-build7
+weapon_special,18,recital_effect,13,Recovery Speed Up (S),Recovery Speed Up (S),mh4g-dex-build7
+weapon_special,18,recital_effect,14,Recovery Speed Up (L),Recovery Speed Up (L),mh4g-dex-build7
+weapon_special,18,recital_effect,15,Health Recovery (S),Health Recovery (S),mh4g-dex-build7
+weapon_special,18,recital_effect,16,Health Recovery (S) + Antidote,Health Recovery (S) + Antidote,mh4g-dex-build7
+weapon_special,18,recital_effect,17,Health Recovery (M) + Antidote,Health Recovery (M) + Antidote,mh4g-dex-build7
+weapon_special,18,recital_effect,18,Health Recovery (M) + Deodorant,Health Recovery (M) + Deodorant,mh4g-dex-build7
+weapon_special,18,recital_effect,19,Health Recovery (L),Health Recovery (L),mh4g-dex-build7
+weapon_special,18,recital_effect,20,Fire Res Boost (S) + Fireblight Negated (S),Fire Res Boost (S) + Fireblight Negated (S),mh4g-dex-build7
+weapon_special,18,recital_effect,21,Fire Res Boost (L) + All Fireblight Negated,Fire Res Boost (L) + All Fireblight Negated,mh4g-dex-build7
+weapon_special,18,recital_effect,22,Fire Res Boost Bonus + All Fireblight Negated,Fire Res Boost Bonus + All Fireblight Negated,mh4g-dex-build7
+weapon_special,18,recital_effect,23,Water Res Boost (S) + Waterblight Negated (S),Water Res Boost (S) + Waterblight Negated (S),mh4g-dex-build7
+weapon_special,18,recital_effect,24,Water Res Boost (L) + All Waterblight Negated,Water Res Boost (L) + All Waterblight Negated,mh4g-dex-build7
+weapon_special,18,recital_effect,25,Water Res Boost Bonus + All Waterblight Negated,Water Res Boost Bonus + All Waterblight Negated,mh4g-dex-build7
+weapon_special,18,recital_effect,26,Thndr Res Boost (S) + Thndrblight Negated (S),Thndr Res Boost (S) + Thndrblight Negated (S),mh4g-dex-build7
+weapon_special,18,recital_effect,27,Thndr Res Boost (L) + All Thndrblight Negated,Thndr Res Boost (L) + All Thndrblight Negated,mh4g-dex-build7
+weapon_special,18,recital_effect,28,Thndr Res Boost Bonus + All Thndrblight Negated,Thndr Res Boost Bonus + All Thndrblight Negated,mh4g-dex-build7
+weapon_special,18,recital_effect,29,Ice Res Boost (S) + Iceblight Negated (S),Ice Res Boost (S) + Iceblight Negated (S),mh4g-dex-build7
+weapon_special,18,recital_effect,30,Ice Res Boost (L) + All Iceblight Negated,Ice Res Boost (L) + All Iceblight Negated,mh4g-dex-build7
+weapon_special,18,recital_effect,31,Ice Res Boost Bonus + All Iceblight Negated,Ice Res Boost Bonus + All Iceblight Negated,mh4g-dex-build7
+weapon_special,18,recital_effect,32,Dragon Res Boost (S),Dragon Res Boost (S),mh4g-dex-build7
+weapon_special,18,recital_effect,33,Dragon Res Boost (L),Dragon Res Boost (L),mh4g-dex-build7
+weapon_special,18,recital_effect,34,Dragon Res Boost Bonus,Dragon Res Boost Bonus,mh4g-dex-build7
+weapon_special,18,recital_effect,35,Negate Paralysis,Negate Paralysis,mh4g-dex-build7
+weapon_special,18,recital_effect,36,Negate Stun,Negate Stun,mh4g-dex-build7
+weapon_special,18,recital_effect,37,Snow/Mud Negated,Snow/Mud Negated,mh4g-dex-build7
+weapon_special,18,recital_effect,38,Divine Protection,Divine Protection,mh4g-dex-build7
+weapon_special,18,recital_effect,39,Tremor Resistance,Tremor Resistance,mh4g-dex-build7
+weapon_special,18,recital_effect,40,Heat Cancel,Heat Cancel,mh4g-dex-build7
+weapon_special,18,recital_effect,41,Cold Cancel,Cold Cancel,mh4g-dex-build7
+weapon_special,18,recital_effect,42,Hearing Protection (S),Hearing Protection (S),mh4g-dex-build7
+weapon_special,18,recital_effect,43,Hearing Protection (L),Hearing Protection (L),mh4g-dex-build7
+weapon_special,18,recital_effect,44,Wind Pressure Negated,Wind Pressure Negated,mh4g-dex-build7
+weapon_special,18,recital_effect,45,All Wind Pressure Negated,All Wind Pressure Negated,mh4g-dex-build7
+weapon_special,18,recital_effect,46,Hearing Protection (S) & Wind Pressure Negated,Hearing Protection (S) & Wind Pressure Negated,mh4g-dex-build7
+weapon_special,18,recital_effect,47,Hearing Protection (L) & All Wind Pressure Negated,Hearing Protection (L) & All Wind Pressure Negated,mh4g-dex-build7
+weapon_special,18,recital_effect,48,Blight Resistance Boost,Blight Resistance Boost,mh4g-dex-build7
+weapon_special,18,recital_effect,49,Blight Resistance Boost Bonus,Blight Resistance Boost Bonus,mh4g-dex-build7
+weapon_special,18,recital_effect,50,Blights Negated,Blights Negated,mh4g-dex-build7
+weapon_special,18,recital_effect,51,Abnormal Statuses Negated,Abnormal Statuses Negated,mh4g-dex-build7
+weapon_special,18,recital_effect,52,Elemental Attack Boost,Elemental Attack Boost,mh4g-dex-build7
+weapon_special,18,recital_effect,53,Elemental Attack Boost Bonus,Elemental Attack Boost Bonus,mh4g-dex-build7
+weapon_special,18,recital_effect,54,Abnormal Status Attack Boost,Abnormal Status Attack Boost,mh4g-dex-build7
+weapon_special,18,recital_effect,55,Abnormal Status Attack Boost Bonus,Abnormal Status Attack Boost Bonus,mh4g-dex-build7
+weapon_special,18,recital_effect,56,Affinity Up + Health Recovery (S),Affinity Up + Health Recovery (S),mh4g-dex-build7
+weapon_special,18,recital_effect,57,Affinity Up Bonus + Health Recovery (S),Affinity Up Bonus + Health Recovery (S),mh4g-dex-build7
+weapon_special,18,recital_effect,58,Negate Stamina Use (S),Negate Stamina Use (S),mh4g-dex-build7
+weapon_special,18,recital_effect,59,Negate Stamina Use (L),Negate Stamina Use (L),mh4g-dex-build7
+weapon_special,18,recital_effect,60,Negate Stamina Duration Bonus,Negate Stamina Duration Bonus,mh4g-dex-build7
+weapon_special,18,recital_effect,61,Psychic,Psychic,mh4g-dex-build7
+weapon_special,18,recital_effect,62,Sonic Waves,Sonic Waves,mh4g-dex-build7
+weapon_special,18,recital_effect,63,Knockback Protection,Knockback Protection,mh4g-dex-build7
+weapon_special,18,recital_effect,64,Melody Durations Extended,Melody Durations Extended,mh4g-dex-build7
+weapon_special,18,song_category,1,Offensive,Offensive,mh4g-dex-build7
+weapon_special,18,song_category,2,Defensive,Defensive,mh4g-dex-build7
+weapon_special,18,song_category,3,Protection,Protection,mh4g-dex-build7
+weapon_special,18,song_category,4,Healing,Healing,mh4g-dex-build7
+weapon_special,18,song_category,5,User-only,User-only,mh4g-dex-build7
+weapon_special,18,song_category,6,Other,Other,mh4g-dex-build7
+weapon_special,20,dex_phial,1,Power,Power,mh4g-dex-build7
+weapon_special,20,dex_phial,2,Para,Para,mh4g-dex-build7
+weapon_special,20,dex_phial,3,Poison,Poison,mh4g-dex-build7
+weapon_special,20,dex_phial,4,Dragon,Dragon,mh4g-dex-build7
+weapon_special,20,dex_phial,5,Element,Element,mh4g-dex-build7
+weapon_special,20,dex_phial,6,Exhaust,Exhaust,mh4g-dex-build7
+weapon_special,20,dex_phial,7,Impact,Impact,mh4g-dex-build7
+weapon_special,20,relic_phial,0,Impact,Impact,mh4edit-mit-save-id
+weapon_special,20,relic_phial,1,Element,Element,mh4edit-mit-save-id

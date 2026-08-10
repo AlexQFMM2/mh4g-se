@@ -1,0 +1,17 @@
+# Runtime Dex dumps are intentionally kept outside the repository.
+mh4g-dex-raw/
+tools/mh4g-dex-dump/out/
+
+# Python tooling caches.
+__pycache__/
+*.pyc
+
+# Qt build products.
+.qmake.stash
+Makefile
+Makefile.Debug
+Makefile.Release
+bin/
+build/
+release/
+tests/build/

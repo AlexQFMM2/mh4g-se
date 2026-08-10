@@ -1,0 +1,158 @@
+id,name,english,source,rarity,is_relic
+0,None,None,mh4g-save-format,0,0
+1,Bone Shooter,Bone Shooter,mh4g-dex-build7+mh4edit-mit-save-id,1,0
+2,Bone Shooter+,Bone Shooter+,mh4g-dex-build7+mh4edit-mit-save-id,1,0
+3,Straw Drumcannon,Straw Drumcannon,mh4g-dex-build7+mh4edit-mit-save-id,2,0
+4,Shirabeo,Shirabeo,mh4g-dex-build7+mh4edit-mit-save-id,3,0
+5,Ratatat Drumcannon,Ratatat Drumcannon,mh4g-dex-build7+mh4edit-mit-save-id,4,0
+6,Queen's Longfire,Queen's Longfire,mh4g-dex-build7+mh4edit-mit-save-id,2,0
+7,Queen's Farflier,Queen's Farflier,mh4g-dex-build7+mh4edit-mit-save-id,3,0
+8,Queen's Scionfire,Queen's Scionfire,mh4g-dex-build7+mh4edit-mit-save-id,5,0
+9,Bone Buster,Bone Buster,mh4g-dex-build7+mh4edit-mit-save-id,4,0
+10,Bone Blaster,Bone Blaster,mh4g-dex-build7+mh4edit-mit-save-id,5,0
+11,Agnablaster,Agnablaster,mh4g-dex-build7+mh4edit-mit-save-id,6,0
+12,Agnablazer,Agnablazer,mh4g-dex-build7+mh4edit-mit-save-id,6,0
+13,Bear Barrel,Bear Barrel,mh4g-dex-build7+mh4edit-mit-save-id,5,0
+14,Arbearalest,Arbearalest,mh4g-dex-build7+mh4edit-mit-save-id,6,0
+15,Arzuros Gun,Arzuros Gun,mh4g-dex-build7+mh4edit-mit-save-id,2,0
+16,Arzuros Gun+,Arzuros Gun+,mh4g-dex-build7+mh4edit-mit-save-id,2,0
+17,Power Stinger,Power Stinger,mh4g-dex-build7+mh4edit-mit-save-id,2,0
+18,Power Stinger+,Power Stinger+,mh4g-dex-build7+mh4edit-mit-save-id,3,0
+19,Wild Stinger,Wild Stinger,mh4g-dex-build7+mh4edit-mit-save-id,4,0
+20,Ner Bustergun,Ner Bustergun,mh4g-dex-build7+mh4edit-mit-save-id,2,0
+21,Ner Bustergun+,Ner Bustergun+,mh4g-dex-build7+mh4edit-mit-save-id,3,0
+22,Buster Blaster,Buster Blaster,mh4g-dex-build7+mh4edit-mit-save-id,4,0
+23,Gravios Howl,Gravios Howl,mh4g-dex-build7+mh4edit-mit-save-id,3,0
+24,Gravios Gigahowl,Gravios Gigahowl,mh4g-dex-build7+mh4edit-mit-save-id,5,0
+25,Gravios Roar,Gravios Roar,mh4g-dex-build7+mh4edit-mit-save-id,6,0
+26,Gravios Gigaroar,Gravios Gigaroar,mh4g-dex-build7+mh4edit-mit-save-id,6,0
+27,Mightning,Mightning,mh4g-dex-build7+mh4edit-mit-save-id,3,0
+28,Loyal Thunder,Loyal Thunder,mh4g-dex-build7+mh4edit-mit-save-id,5,0
+29,Tigrex Howl,Tigrex Howl,mh4g-dex-build7+mh4edit-mit-save-id,3,0
+30,Tigrex Skull,Tigrex Skull,mh4g-dex-build7+mh4edit-mit-save-id,4,0
+31,Accursed Roar,Accursed Roar,mh4g-dex-build7+mh4edit-mit-save-id,5,0
+32,Accursed Bellow,Accursed Bellow,mh4g-dex-build7+mh4edit-mit-save-id,5,0
+33,Gravecannon,Gravecannon,mh4g-dex-build7+mh4edit-mit-save-id,6,0
+34,Furious Gravecannon,Furious Gravecannon,mh4g-dex-build7+mh4edit-mit-save-id,7,0
+35,Pressurized Plaser,Pressurized Plaser,mh4g-dex-build7+mh4edit-mit-save-id,2,0
+36,Pressurized Plaser+,Pressurized Plaser+,mh4g-dex-build7+mh4edit-mit-save-id,4,0
+37,Pluripotent Plaser,Pluripotent Plaser,mh4g-dex-build7+mh4edit-mit-save-id,5,0
+38,Tropeco Gun,Tropeco Gun,mh4g-dex-build7+mh4edit-mit-save-id,4,0
+39,Pecopious Gun,Pecopious Gun,mh4g-dex-build7+mh4edit-mit-save-id,6,0
+40,Bite Blaster,Bite Blaster,mh4g-dex-build7+mh4edit-mit-save-id,5,0
+41,Biting Blast,Biting Blast,mh4g-dex-build7+mh4edit-mit-save-id,6,0
+42,Dual Threat,Dual Threat,mh4g-dex-build7+mh4edit-mit-save-id,4,0
+43,Diablazooka,Diablazooka,mh4g-dex-build7+mh4edit-mit-save-id,6,0
+44,Peerless,Peerless,mh4g-dex-build7+mh4edit-mit-save-id,4,0
+45,Masterless,Masterless,mh4g-dex-build7+mh4edit-mit-save-id,5,0
+46,Arahabaki,Arahabaki,mh4g-dex-build7+mh4edit-mit-save-id,7,0
+47,Daora's Delphinidae,Daora's Delphinidae,mh4g-dex-build7+mh4edit-mit-save-id,6,0
+48,Daora Grande,Daora Grande,mh4g-dex-build7+mh4edit-mit-save-id,7,0
+49,Teostra's Artillery,Teostra's Artillery,mh4g-dex-build7+mh4edit-mit-save-id,6,0
+50,Teostra's Flames,Teostra's Flames,mh4g-dex-build7+mh4edit-mit-save-id,7,0
+51,Lunastra's Cannon,Lunastra's Cannon,mh4g-dex-build7+mh4edit-mit-save-id,6,0
+52,Lunastra's Flames,Lunastra's Flames,mh4g-dex-build7+mh4edit-mit-save-id,7,0
+53,Akantor Cannon,Akantor Cannon,mh4g-dex-build7+mh4edit-mit-save-id,7,0
+54,Caudalbone Crook,Caudalbone Crook,mh4g-dex-build7+mh4edit-mit-save-id,6,0
+55,The Omnipotent Blast,The Omnipotent Blast,mh4g-dex-build7+mh4edit-mit-save-id,7,0
+56,Chaos Wing,Chaos Wing,mh4g-dex-build7+mh4edit-mit-save-id,6,0
+57,Albadash,Albadash,mh4g-dex-build7+mh4edit-mit-save-id,7,0
+58,Vor Cannon,Vor Cannon,mh4g-dex-build7+mh4edit-mit-save-id,6,0
+59,Vor Buster,Vor Buster,mh4g-dex-build7+mh4edit-mit-save-id,7,0
+60,Dual Threat (red),Dual Threat (red),mh4g-dex-build7+mh4edit-mit-save-id,0,1
+61,Dual Threat (yellow),Dual Threat (yellow),mh4g-dex-build7+mh4edit-mit-save-id,0,1
+62,Dual Threat (green),Dual Threat (green),mh4g-dex-build7+mh4edit-mit-save-id,0,1
+63,Dual Threat (blue),Dual Threat (blue),mh4g-dex-build7+mh4edit-mit-save-id,0,1
+64,Dual Threat (purple),Dual Threat (purple),mh4g-dex-build7+mh4edit-mit-save-id,0,1
+65,Chaos Wing (red),Chaos Wing (red),mh4g-dex-build7+mh4edit-mit-save-id,0,1
+66,Chaos Wing (yellow),Chaos Wing (yellow),mh4g-dex-build7+mh4edit-mit-save-id,0,1
+67,Chaos Wing (green),Chaos Wing (green),mh4g-dex-build7+mh4edit-mit-save-id,0,1
+68,Chaos Wing (blue),Chaos Wing (blue),mh4g-dex-build7+mh4edit-mit-save-id,0,1
+69,Chaos Wing (purple),Chaos Wing (purple),mh4g-dex-build7+mh4edit-mit-save-id,0,1
+70,Tetsu Pyrotechnus,Tetsu Pyrotechnus,mh4g-dex-build7+mh4edit-mit-save-id,8,0
+71,Tetsu Pyropinnacle,Tetsu Pyropinnacle,mh4g-dex-build7+mh4edit-mit-save-id,9,0
+72,Empress's Blossom,Empress's Blossom,mh4g-dex-build7+mh4edit-mit-save-id,8,0
+73,Empress's Flower,Empress's Flower,mh4g-dex-build7+mh4edit-mit-save-id,9,0
+74,Empress's Doublefleur,Empress's Doublefleur,mh4g-dex-build7+mh4edit-mit-save-id,10,0
+75,Bone Blaster+,Bone Blaster+,mh4g-dex-build7+mh4edit-mit-save-id,8,0
+76,Cartilage Blaster,Cartilage Blaster,mh4g-dex-build7+mh4edit-mit-save-id,9,0
+77,Crab Buster,Crab Buster,mh4g-dex-build7+mh4edit-mit-save-id,8,0
+78,Heavy Crab Buster,Heavy Crab Buster,mh4g-dex-build7+mh4edit-mit-save-id,8,0
+79,Violet Punisher,Violet Punisher,mh4g-dex-build7+mh4edit-mit-save-id,9,0
+80,Agna Magnum,Agna Magnum,mh4g-dex-build7+mh4edit-mit-save-id,9,0
+81,Agna Scorpion,Agna Scorpion,mh4g-dex-build7+mh4edit-mit-save-id,9,0
+82,Arzuros Ozeki,Arzuros Ozeki,mh4g-dex-build7+mh4edit-mit-save-id,8,0
+83,Arzuros Yokozuna,Arzuros Yokozuna,mh4g-dex-build7+mh4edit-mit-save-id,9,0
+84,Tödlicher Abzug,Tödlicher Abzug,mh4g-dex-build7+mh4edit-mit-save-id,5,0
+85,Le Désastre,Le Désastre,mh4g-dex-build7+mh4edit-mit-save-id,7,0
+86,La Foi,La Foi,mh4g-dex-build7+mh4edit-mit-save-id,9,0
+87,Le Déluge,Le Déluge,mh4g-dex-build7+mh4edit-mit-save-id,10,0
+88,Verrat/Foi,Verrat/Foi,mh4g-dex-build7+mh4edit-mit-save-id,9,0
+89,Burst Stinker,Burst Stinker,mh4g-dex-build7+mh4edit-mit-save-id,8,0
+90,Fatal Stinker,Fatal Stinker,mh4g-dex-build7+mh4edit-mit-save-id,8,0
+91,Buster Blaster+,Buster Blaster+,mh4g-dex-build7+mh4edit-mit-save-id,8,0
+92,Nightfall Blaster,Nightfall Blaster,mh4g-dex-build7+mh4edit-mit-save-id,9,0
+93,Vampyr Blaster,Vampyr Blaster,mh4g-dex-build7+mh4edit-mit-save-id,9,0
+94,Gravios Gigacannon,Gravios Gigacannon,mh4g-dex-build7+mh4edit-mit-save-id,9,0
+95,Oppressor's Wedge,Oppressor's Wedge,mh4g-dex-build7+mh4edit-mit-save-id,9,0
+96,Orcus Quarcus,Orcus Quarcus,mh4g-dex-build7+mh4edit-mit-save-id,9,0
+97,Brimstren Drakemouth,Brimstren Drakemouth,mh4g-dex-build7+mh4edit-mit-save-id,9,0
+98,Stygian Humilitas,Stygian Humilitas,mh4g-dex-build7+mh4edit-mit-save-id,9,0
+99,Accursed Bellow+,Accursed Bellow+,mh4g-dex-build7+mh4edit-mit-save-id,9,0
+100,Furious Gravecannon+,Furious Gravecannon+,mh4g-dex-build7+mh4edit-mit-save-id,9,0
+101,Livid Griscannon,Livid Griscannon,mh4g-dex-build7+mh4edit-mit-save-id,10,0
+102,Dios Cannon,Dios Cannon,mh4g-dex-build7+mh4edit-mit-save-id,4,0
+103,Dios Cannon+,Dios Cannon+,mh4g-dex-build7+mh4edit-mit-save-id,6,0
+104,Demolition Cannon,Demolition Cannon,mh4g-dex-build7+mh4edit-mit-save-id,6,0
+105,Haize Demolisher,Haize Demolisher,mh4g-dex-build7+mh4edit-mit-save-id,9,0
+106,Lightbreak Cannon,Lightbreak Cannon,mh4g-dex-build7+mh4edit-mit-save-id,10,0
+107,Verdant Washbuckler,Verdant Washbuckler,mh4g-dex-build7+mh4edit-mit-save-id,8,0
+108,Captain Verde,Captain Verde,mh4g-dex-build7+mh4edit-mit-save-id,9,0
+109,Pecopious Thunder,Pecopious Thunder,mh4g-dex-build7+mh4edit-mit-save-id,8,0
+110,Precision Pico Peco,Precision Pico Peco,mh4g-dex-build7+mh4edit-mit-save-id,8,0
+111,Ravager Blast,Ravager Blast,mh4g-dex-build7+mh4edit-mit-save-id,8,0
+112,Yellow Buster,Yellow Buster,mh4g-dex-build7+mh4edit-mit-save-id,9,0
+113,Azure Blast,Azure Blast,mh4g-dex-build7+mh4edit-mit-save-id,8,0
+114,Azure Buster,Azure Buster,mh4g-dex-build7+mh4edit-mit-save-id,9,0
+115,Nero's Blazooka,Nero's Blazooka,mh4g-dex-build7+mh4edit-mit-save-id,9,0
+116,Griffon Blazooka,Griffon Blazooka,mh4g-dex-build7+mh4edit-mit-save-id,9,0
+117,Monodevilcaster,Monodevilcaster,mh4g-dex-build7+mh4edit-mit-save-id,5,0
+118,Monodevilcaster+,Monodevilcaster+,mh4g-dex-build7+mh4edit-mit-save-id,6,0
+119,Monodevilblaster,Monodevilblaster,mh4g-dex-build7+mh4edit-mit-save-id,9,0
+120,Utsurowazaru,Utsurowazaru,mh4g-dex-build7+mh4edit-mit-save-id,9,0
+121,Eigoh,Eigoh,mh4g-dex-build7+mh4edit-mit-save-id,10,0
+122,Daora's Ceti,Daora's Ceti,mh4g-dex-build7+mh4edit-mit-save-id,10,0
+123,Eldaora's Delphinidae,Eldaora's Delphinidae,mh4g-dex-build7+mh4edit-mit-save-id,10,0
+124,Teostra's Firestorm,Teostra's Firestorm,mh4g-dex-build7+mh4edit-mit-save-id,10,0
+125,Lunastra's Firestorm,Lunastra's Firestorm,mh4g-dex-build7+mh4edit-mit-save-id,10,0
+126,Kamaeleon,Kamaeleon,mh4g-dex-build7+mh4edit-mit-save-id,10,0
+127,Akantor Skysounder,Akantor Skysounder,mh4g-dex-build7+mh4edit-mit-save-id,10,0
+128,Ukanlos Cannon,Ukanlos Cannon,mh4g-dex-build7+mh4edit-mit-save-id,7,0
+129,Ukanlos Skyblaster,Ukanlos Skyblaster,mh4g-dex-build7+mh4edit-mit-save-id,9,0
+130,Robert the Vortex,Robert the Vortex,mh4g-dex-build7+mh4edit-mit-save-id,9,0
+131,Dalamadur Cannon,Dalamadur Cannon,mh4g-dex-build7+mh4edit-mit-save-id,10,0
+132,Militant Dalamadur,Militant Dalamadur,mh4g-dex-build7+mh4edit-mit-save-id,10,0
+133,Altheos Aetheria,Altheos Aetheria,mh4g-dex-build7+mh4edit-mit-save-id,10,0
+134,Vor Blaster,Vor Blaster,mh4g-dex-build7+mh4edit-mit-save-id,10,0
+135,Destiny's Arm,Destiny's Arm,mh4g-dex-build7+mh4edit-mit-save-id,10,0
+136,Fatalis Enslaver,Fatalis Enslaver,mh4g-dex-build7+mh4edit-mit-save-id,10,0
+137,Sayyad Cannon,Sayyad Cannon,mh4g-dex-build7+mh4edit-mit-save-id,6,0
+138,Sayyad Cannon+,Sayyad Cannon+,mh4g-dex-build7+mh4edit-mit-save-id,7,0
+139,Seditious Cannon,Seditious Cannon,mh4g-dex-build7+mh4edit-mit-save-id,9,0
+140,Furia Sedition,Furia Sedition,mh4g-dex-build7+mh4edit-mit-save-id,10,0
+141,Trembling Lordship,Trembling Lordship,mh4g-dex-build7+mh4edit-mit-save-id,10,0
+142,DUMMY,DUMMY,mh4edit-mit-save-id,0,0
+143,DUMMY,DUMMY,mh4edit-mit-save-id,0,0
+144,DUMMY,DUMMY,mh4edit-mit-save-id,0,0
+145,Gigant Launcher (red),Gigant Launcher (red),mh4edit-mit-save-id,0,1
+146,Gigant Launcher (yellow),Gigant Launcher (yellow),mh4edit-mit-save-id,0,1
+147,Gigant Launcher (green),Gigant Launcher (green),mh4edit-mit-save-id,0,1
+148,Gigant Launcher (blue),Gigant Launcher (blue),mh4edit-mit-save-id,0,1
+149,Gigant Launcher (purple),Gigant Launcher (purple),mh4edit-mit-save-id,0,1
+150,Cahoe (red),Cahoe (red),mh4edit-mit-save-id,0,1
+151,Cahoe (yellow),Cahoe (yellow),mh4edit-mit-save-id,0,1
+152,Cahoe (green),Cahoe (green),mh4edit-mit-save-id,0,1
+153,Cahoe (blue),Cahoe (blue),mh4edit-mit-save-id,0,1
+154,Cahoe (purple),Cahoe (purple),mh4edit-mit-save-id,0,1
+155,Giant Pan,Giant Pan,mh4edit-mit-save-id,0,0
+156,Romea Crossbow,Romea Crossbow,mh4edit-mit-save-id,0,0

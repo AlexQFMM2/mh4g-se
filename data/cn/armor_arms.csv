@@ -1,0 +1,957 @@
+id,name,english,source,rarity,is_relic
+0,无,None,mh4g-save-format,0,0
+1,勇气手套,Derring Gloves,mh4g-dex-build7+mh4edit-mit-save-id,1,0
+2,勇气腕甲Ｓ,Derring Vambraces S,mh4g-dex-build7+mh4edit-mit-save-id,4,0
+3,勇气护手Ｓ,Derring Guards S,mh4g-dex-build7+mh4edit-mit-save-id,4,0
+4,皮制手套,Leather Gloves,mh4g-dex-build7+mh4edit-mit-save-id,1,0
+5,皮质腕甲Ｓ,Leather Vambraces S,mh4g-dex-build7+mh4edit-mit-save-id,4,0
+6,皮质护手Ｓ,Leather Guards S,mh4g-dex-build7+mh4edit-mit-save-id,4,0
+7,锁链手套,Chainmail Gloves,mh4g-dex-build7+mh4edit-mit-save-id,1,0
+8,锁链腕甲Ｓ,Chainmail Braces S,mh4g-dex-build7+mh4edit-mit-save-id,4,0
+9,锁链护手Ｓ,Chainmail Guards S,mh4g-dex-build7+mh4edit-mit-save-id,4,0
+10,猎人腕甲,Hunter's Vambraces,mh4g-dex-build7+mh4edit-mit-save-id,1,0
+11,猎人护手,Hunter's Guards,mh4g-dex-build7+mh4edit-mit-save-id,1,0
+12,猎人腕甲Ｓ,Hunter's Vambraces S,mh4g-dex-build7+mh4edit-mit-save-id,4,0
+13,猎人护手Ｓ,Hunter's Guards S,mh4g-dex-build7+mh4edit-mit-save-id,4,0
+14,猎人腕甲,Hunter's Vambraces,mh4g-dex-build7+mh4edit-mit-save-id,1,0
+15,猎人护手,Hunter's Guards,mh4g-dex-build7+mh4edit-mit-save-id,1,0
+16,骨制腕甲,Bone Vambraces,mh4g-dex-build7+mh4edit-mit-save-id,1,0
+17,骨制护手,Bone Guards,mh4g-dex-build7+mh4edit-mit-save-id,1,0
+18,骨制腕甲Ｓ,Bone Vambraces S,mh4g-dex-build7+mh4edit-mit-save-id,4,0
+19,骨制护手Ｓ,Bone Guards S,mh4g-dex-build7+mh4edit-mit-save-id,4,0
+20,合金腕甲,Alloy Vambraces,mh4g-dex-build7+mh4edit-mit-save-id,1,0
+21,合金护手,Alloy Guards,mh4g-dex-build7+mh4edit-mit-save-id,1,0
+22,合金腕甲Ｓ,Alloy Vambraces S,mh4g-dex-build7+mh4edit-mit-save-id,4,0
+23,合金护手Ｓ,Alloy Guards S,mh4g-dex-build7+mh4edit-mit-save-id,4,0
+24,合金腕甲,Alloy Vambraces,mh4g-dex-build7+mh4edit-mit-save-id,1,0
+25,合金护手,Alloy Guards,mh4g-dex-build7+mh4edit-mit-save-id,1,0
+26,狗龙腕甲,Jaggi Vambraces,mh4g-dex-build7+mh4edit-mit-save-id,2,0
+27,狗龙护手,Jaggi Guards,mh4g-dex-build7+mh4edit-mit-save-id,2,0
+28,狗龙腕甲Ｓ,Jaggi Vambraces S,mh4g-dex-build7+mh4edit-mit-save-id,4,0
+29,狗龙护手Ｓ,Jaggi Guards S,mh4g-dex-build7+mh4edit-mit-save-id,4,0
+30,水兽腕甲,Ludroth Vambraces,mh4g-dex-build7+mh4edit-mit-save-id,2,0
+31,水兽护手,Ludroth Guards,mh4g-dex-build7+mh4edit-mit-save-id,2,0
+32,水兽腕甲,Ludroth Vambraces,mh4g-dex-build7+mh4edit-mit-save-id,2,0
+33,水兽护手,Ludroth Guards,mh4g-dex-build7+mh4edit-mit-save-id,2,0
+34,草食龙腕甲,Rhenoplos Vambraces,mh4g-dex-build7+mh4edit-mit-save-id,2,0
+35,草食龙护手,Rhenoplos Guards,mh4g-dex-build7+mh4edit-mit-save-id,2,0
+36,草食龙腕甲Ｓ,Rhenoplos Braces S,mh4g-dex-build7+mh4edit-mit-save-id,4,0
+37,草食龙护手Ｓ,Rhenoplos Guards S,mh4g-dex-build7+mh4edit-mit-save-id,4,0
+38,飞甲虫手套,Bnahabra Gloves,mh4g-dex-build7+mh4edit-mit-save-id,2,0
+39,飞甲虫长袖,Bnahabra Sleeves,mh4g-dex-build7+mh4edit-mit-save-id,2,0
+40,飞甲虫手套Ｓ,Bnahabra Gloves S,mh4g-dex-build7+mh4edit-mit-save-id,4,0
+41,飞甲虫长袖Ｓ,Bnahabra Sleeves S,mh4g-dex-build7+mh4edit-mit-save-id,4,0
+42,土砂龙腕甲,Barroth Vambraces,mh4g-dex-build7+mh4edit-mit-save-id,2,0
+43,土砂龙护手,Barroth Guards,mh4g-dex-build7+mh4edit-mit-save-id,2,0
+44,雌火龙腕甲,Rathian Vambraces,mh4g-dex-build7+mh4edit-mit-save-id,2,0
+45,雌火龙护手,Rathian Guards,mh4g-dex-build7+mh4edit-mit-save-id,2,0
+46,雌火龙腕甲Ｓ,Rathian Vambraces S,mh4g-dex-build7+mh4edit-mit-save-id,5,0
+47,雌火龙护手Ｓ,Rathian Guards S,mh4g-dex-build7+mh4edit-mit-save-id,5,0
+48,樱火龙腕甲,Rath Heart Braces,mh4g-dex-build7+mh4edit-mit-save-id,6,0
+49,樱火龙护手,Rath Heart Guards,mh4g-dex-build7+mh4edit-mit-save-id,6,0
+50,金火龙腕甲,Golden Lunebraces,mh4g-dex-build7+mh4edit-mit-save-id,7,0
+51,金火龙护手,Golden Luneguards,mh4g-dex-build7+mh4edit-mit-save-id,7,0
+52,雌火龙腕甲,Rathian Vambraces,mh4g-dex-build7+mh4edit-mit-save-id,2,0
+53,雌火龙护手,Rathian Guards,mh4g-dex-build7+mh4edit-mit-save-id,2,0
+54,樱火龙腕甲,Rath Heart Braces,mh4g-dex-build7+mh4edit-mit-save-id,6,0
+55,樱火龙护手,Rath Heart Guards,mh4g-dex-build7+mh4edit-mit-save-id,6,0
+56,EX雌火龙腕甲,EX Rathian Braces,mh4g-dex-build7+mh4edit-mit-save-id,7,0
+57,EX雌火龙护手,EX Rathian Guards,mh4g-dex-build7+mh4edit-mit-save-id,7,0
+58,雄火龙腕甲,Rathalos Vambraces,mh4g-dex-build7+mh4edit-mit-save-id,3,0
+59,雄火龙护手,Rathalos Guards,mh4g-dex-build7+mh4edit-mit-save-id,3,0
+60,雄火龙腕甲Ｓ,Rathalos Vambraces S,mh4g-dex-build7+mh4edit-mit-save-id,5,0
+61,雄火龙护手Ｓ,Rathalos Guards S,mh4g-dex-build7+mh4edit-mit-save-id,5,0
+62,苍火龙腕甲,Rath Soul Braces,mh4g-dex-build7+mh4edit-mit-save-id,6,0
+63,苍火龙护手,Rath Soul Guards,mh4g-dex-build7+mh4edit-mit-save-id,6,0
+64,银火龙腕甲,Silver Solbraces,mh4g-dex-build7+mh4edit-mit-save-id,7,0
+65,银火龙护手,Silver Solguards,mh4g-dex-build7+mh4edit-mit-save-id,7,0
+66,雄火龙腕甲,Rathalos Vambraces,mh4g-dex-build7+mh4edit-mit-save-id,3,0
+67,雄火龙护手,Rathalos Guards,mh4g-dex-build7+mh4edit-mit-save-id,3,0
+68,苍火龙腕甲,Rath Soul Braces,mh4g-dex-build7+mh4edit-mit-save-id,6,0
+69,苍火龙护手,Rath Soul Guards,mh4g-dex-build7+mh4edit-mit-save-id,6,0
+70,银火龙腕甲,Silver Solbraces,mh4g-dex-build7+mh4edit-mit-save-id,7,0
+71,银火龙护手,Silver Solguards,mh4g-dex-build7+mh4edit-mit-save-id,7,0
+72,EX雄火龙腕甲,EX Rathalos Braces,mh4g-dex-build7+mh4edit-mit-save-id,7,0
+73,EX雄火龙护手,EX Rathalos Guards,mh4g-dex-build7+mh4edit-mit-save-id,7,0
+74,角龙腕甲,Diablos Vambraces,mh4g-dex-build7+mh4edit-mit-save-id,3,0
+75,角龙护手,Diablos Guards,mh4g-dex-build7+mh4edit-mit-save-id,3,0
+76,爆锤龙腕甲,Uragaan Vambraces,mh4g-dex-build7+mh4edit-mit-save-id,3,0
+77,爆锤龙护手,Uragaan Guards,mh4g-dex-build7+mh4edit-mit-save-id,3,0
+78,恐暴龙腕甲,Vangis Vambraces,mh4g-dex-build7+mh4edit-mit-save-id,6,0
+79,恐暴龙护手,Vangis Guards,mh4g-dex-build7+mh4edit-mit-save-id,6,0
+80,贪婪腕甲,Esurient Vambraces,mh4g-dex-build7+mh4edit-mit-save-id,7,0
+81,贪婪护手,Esurient Guards,mh4g-dex-build7+mh4edit-mit-save-id,7,0
+82,贪婪腕甲,Esurient Vambraces,mh4g-dex-build7+mh4edit-mit-save-id,7,0
+83,贪婪护手,Esurient Guards,mh4g-dex-build7+mh4edit-mit-save-id,7,0
+84,残阳【笼手】,Gloaming Braces,mh4g-dex-build7+mh4edit-mit-save-id,3,0
+85,常磐【笼手】,Adamance Braces,mh4g-dex-build7+mh4edit-mit-save-id,3,0
+86,东云【笼手】,Dayspring Braces,mh4g-dex-build7+mh4edit-mit-save-id,3,0
+87,八千代【笼手】,Epoch Braces,mh4g-dex-build7+mh4edit-mit-save-id,3,0
+88,残阳・霸【笼手】,Gloaming Archbraces,mh4g-dex-build7+mh4edit-mit-save-id,7,0
+89,常磐・霸【笼手】,Adamance Archbraces,mh4g-dex-build7+mh4edit-mit-save-id,7,0
+90,东云・霸【笼手】,Dayspring Archbraces,mh4g-dex-build7+mh4edit-mit-save-id,7,0
+91,八千代・霸【笼手】,Epoch Archbraces,mh4g-dex-build7+mh4edit-mit-save-id,7,0
+92,残阳【笼手】,Gloaming Braces,mh4g-dex-build7+mh4edit-mit-save-id,3,0
+93,常磐【笼手】,Adamance Braces,mh4g-dex-build7+mh4edit-mit-save-id,3,0
+94,东云【笼手】,Dayspring Braces,mh4g-dex-build7+mh4edit-mit-save-id,3,0
+95,八千代【笼手】,Epoch Braces,mh4g-dex-build7+mh4edit-mit-save-id,3,0
+96,水龙腕甲,Plesioth Vambraces,mh4g-dex-build7+mh4edit-mit-save-id,4,0
+97,水龙护手,Plesioth Guards,mh4g-dex-build7+mh4edit-mit-save-id,4,0
+98,潜口龙腕甲,Nibelsnarf Braces,mh4g-dex-build7+mh4edit-mit-save-id,2,0
+99,潜口龙护手,Nibelsnarf Guards,mh4g-dex-build7+mh4edit-mit-save-id,2,0
+100,尾槌龙腕甲,Duramboros Braces,mh4g-dex-build7+mh4edit-mit-save-id,3,0
+101,尾槌龙护手,Duramboros Guards,mh4g-dex-build7+mh4edit-mit-save-id,3,0
+102,青熊兽腕甲,Arzuros Vambraces,mh4g-dex-build7+mh4edit-mit-save-id,2,0
+103,青熊兽护手,Arzuros Guards,mh4g-dex-build7+mh4edit-mit-save-id,2,0
+104,白兔兽腕甲,Lagombi Vambraces,mh4g-dex-build7+mh4edit-mit-save-id,2,0
+105,白兔兽护手,Lagombi Guards,mh4g-dex-build7+mh4edit-mit-save-id,2,0
+106,白兔兽腕甲Ｓ,Lagombi Vambraces S,mh4g-dex-build7+mh4edit-mit-save-id,4,0
+107,白兔兽护手Ｓ,Lagombi Guards S,mh4g-dex-build7+mh4edit-mit-save-id,4,0
+108,迅龙腕甲,Nargacuga Braces,mh4g-dex-build7+mh4edit-mit-save-id,3,0
+109,迅龙护手,Nargacuga Guards,mh4g-dex-build7+mh4edit-mit-save-id,3,0
+110,轰龙腕甲,Tigrex Vambraces,mh4g-dex-build7+mh4edit-mit-save-id,3,0
+111,轰龙护手,Tigrex Guards,mh4g-dex-build7+mh4edit-mit-save-id,3,0
+112,轰龙腕甲Ｓ,Tigrex Vambraces S,mh4g-dex-build7+mh4edit-mit-save-id,5,0
+113,轰龙护手Ｓ,Tigrex Guards S,mh4g-dex-build7+mh4edit-mit-save-id,5,0
+114,黑轰龙腕甲Ｕ,Tigrex Vambraces U,mh4g-dex-build7+mh4edit-mit-save-id,6,0
+115,黑轰龙护手Ｕ,Tigrex Guards U,mh4g-dex-build7+mh4edit-mit-save-id,6,0
+116,大轰龙腕甲,Excello Vambraces,mh4g-dex-build7+mh4edit-mit-save-id,7,0
+117,大轰龙护手,Excello Guards,mh4g-dex-build7+mh4edit-mit-save-id,7,0
+118,EX轰龙腕甲,EX Tigrex Vambraces,mh4g-dex-build7+mh4edit-mit-save-id,7,0
+119,EX轰龙护手,EX Tigrex Guards,mh4g-dex-build7+mh4edit-mit-save-id,7,0
+120,轰龙腕甲,Tigrex Vambraces,mh4g-dex-build7+mh4edit-mit-save-id,3,0
+121,轰龙护手,Tigrex Guards,mh4g-dex-build7+mh4edit-mit-save-id,3,0
+122,黑轰龙腕甲Ｕ,Tigrex Vambraces U,mh4g-dex-build7+mh4edit-mit-save-id,6,0
+123,黑轰龙护手Ｕ,Tigrex Guards U,mh4g-dex-build7+mh4edit-mit-save-id,6,0
+124,碎龙腕甲,Brachydios Braces,mh4g-dex-build7+mh4edit-mit-save-id,3,0
+125,碎龙护手,Brachydios Guards,mh4g-dex-build7+mh4edit-mit-save-id,3,0
+126,碎龙腕甲Ｓ,Brachydios Braces S,mh4g-dex-build7+mh4edit-mit-save-id,6,0
+127,碎龙护手Ｓ,Brachydios Guards S,mh4g-dex-build7+mh4edit-mit-save-id,6,0
+128,霸龙护腕,Akantor Claws,mh4g-dex-build7+mh4edit-mit-save-id,7,0
+129,霸龙弓腕,Akantor Gauntlets,mh4g-dex-build7+mh4edit-mit-save-id,7,0
+130,霸龙护腕,Akantor Claws,mh4g-dex-build7+mh4edit-mit-save-id,7,0
+131,霸龙弓腕,Akantor Gauntlets,mh4g-dex-build7+mh4edit-mit-save-id,7,0
+132,雷狼龙腕甲,Zinogre Vambraces,mh4g-dex-build7+mh4edit-mit-save-id,3,0
+133,雷狼龙护手,Zinogre Guards,mh4g-dex-build7+mh4edit-mit-save-id,3,0
+134,雷狼龙腕甲Ｓ,Zinogre Vambraces S,mh4g-dex-build7+mh4edit-mit-save-id,5,0
+135,雷狼龙护手Ｓ,Zinogre Guards S,mh4g-dex-build7+mh4edit-mit-save-id,5,0
+136,狱狼龙腕甲Ｕ,Zinogre Vambraces U,mh4g-dex-build7+mh4edit-mit-save-id,6,0
+137,狱狼龙护手Ｕ,Zinogre Guards U,mh4g-dex-build7+mh4edit-mit-save-id,6,0
+138,狱狼龙腕甲Ｕ,Zinogre Vambraces U,mh4g-dex-build7+mh4edit-mit-save-id,6,0
+139,狱狼龙护手Ｕ,Zinogre Guards U,mh4g-dex-build7+mh4edit-mit-save-id,6,0
+140,EX炎王龙腕甲,EX Kaiser Vambraces,mh4g-dex-build7+mh4edit-mit-save-id,7,0
+141,EX炎王龙护手,EX Kaiser Guards,mh4g-dex-build7+mh4edit-mit-save-id,7,0
+142,奇猿狐腕甲,Kecha Vambraces,mh4g-dex-build7+mh4edit-mit-save-id,2,0
+143,奇猿狐护手,Kecha Guards,mh4g-dex-build7+mh4edit-mit-save-id,2,0
+144,奇猿狐腕甲Ｓ,Kecha Braces S,mh4g-dex-build7+mh4edit-mit-save-id,4,0
+145,奇猿狐护手Ｓ,Kecha Guards S,mh4g-dex-build7+mh4edit-mit-save-id,4,0
+146,黑蚀龙腕甲,Gore Braces,mh4g-dex-build7+mh4edit-mit-save-id,3,0
+147,黑蚀龙护手,Gore Guards,mh4g-dex-build7+mh4edit-mit-save-id,3,0
+148,黑蚀龙腕甲Ｓ,Gore Braces S,mh4g-dex-build7+mh4edit-mit-save-id,6,0
+149,黑蚀龙护手Ｓ,Gore Guards S,mh4g-dex-build7+mh4edit-mit-save-id,6,0
+150,黑蚀龙腕甲,Gore Braces,mh4g-dex-build7+mh4edit-mit-save-id,3,0
+151,黑蚀龙护手,Gore Guards,mh4g-dex-build7+mh4edit-mit-save-id,3,0
+152,鬼蛙腕甲,Tetsucabra Vambraces,mh4g-dex-build7+mh4edit-mit-save-id,2,0
+153,鬼蛙护手,Tetsucabra Guards,mh4g-dex-build7+mh4edit-mit-save-id,2,0
+154,鬼蛙腕甲Ｓ,Tetsucabra Braces S,mh4g-dex-build7+mh4edit-mit-save-id,5,0
+155,鬼蛙护手Ｓ,Tetsucabra Guards S,mh4g-dex-build7+mh4edit-mit-save-id,5,0
+156,影蜘蛛腕甲,Nerscylla Vambraces,mh4g-dex-build7+mh4edit-mit-save-id,2,0
+157,影蜘蛛护手,Nerscylla Guards,mh4g-dex-build7+mh4edit-mit-save-id,2,0
+158,影蜘蛛腕甲Ｓ,Nerscylla Braces S,mh4g-dex-build7+mh4edit-mit-save-id,5,0
+159,影蜘蛛护手Ｓ,Nerscylla Guards S,mh4g-dex-build7+mh4edit-mit-save-id,5,0
+160,绞蛇龙腕甲,Najarala Braces,mh4g-dex-build7+mh4edit-mit-save-id,2,0
+161,绞蛇龙护手,Najarala Guards,mh4g-dex-build7+mh4edit-mit-save-id,2,0
+162,绞蛇龙腕甲Ｓ,Najarala Braces S,mh4g-dex-build7+mh4edit-mit-save-id,5,0
+163,绞蛇龙护手Ｓ,Najarala Guards S,mh4g-dex-build7+mh4edit-mit-save-id,5,0
+164,黑狼鸟腕甲,Garuga Vambraces,mh4g-dex-build7+mh4edit-mit-save-id,3,0
+165,黑狼鸟护手,Garuga Guards,mh4g-dex-build7+mh4edit-mit-save-id,3,0
+166,黑狼鸟腕甲Ｓ,Garuga Vambraces S,mh4g-dex-build7+mh4edit-mit-save-id,5,0
+167,黑狼鸟护手Ｓ,Garuga Guards S,mh4g-dex-build7+mh4edit-mit-save-id,5,0
+168,岩龙腕甲,Basarios Vambraces,mh4g-dex-build7+mh4edit-mit-save-id,2,0
+169,岩龙护手,Basarios Guards,mh4g-dex-build7+mh4edit-mit-save-id,2,0
+170,岩龙腕甲Ｓ,Basarios Vambraces S,mh4g-dex-build7+mh4edit-mit-save-id,5,0
+171,岩龙护手Ｓ,Basarios Guards S,mh4g-dex-build7+mh4edit-mit-save-id,5,0
+172,桃岩龙腕甲Ｕ,Basarios Vambraces U,mh4g-dex-build7+mh4edit-mit-save-id,6,0
+173,桃岩龙护手Ｕ,Basarios Guards U,mh4g-dex-build7+mh4edit-mit-save-id,6,0
+174,战斗腕甲,Battle Vambraces,mh4g-dex-build7+mh4edit-mit-save-id,2,0
+175,战斗护手,Battle Guards,mh4g-dex-build7+mh4edit-mit-save-id,2,0
+176,蓝速龙腕甲,Velociprey Braces,mh4g-dex-build7+mh4edit-mit-save-id,2,0
+177,蓝速龙护手,Velociprey Guards,mh4g-dex-build7+mh4edit-mit-save-id,2,0
+178,蓝速龙腕甲Ｓ,Velociprey Braces S,mh4g-dex-build7+mh4edit-mit-save-id,4,0
+179,蓝速龙护手Ｓ,Velociprey Guards S,mh4g-dex-build7+mh4edit-mit-save-id,4,0
+180,黄速龙腕甲,Genprey Vambraces,mh4g-dex-build7+mh4edit-mit-save-id,2,0
+181,黄速龙护手,Genprey Guards,mh4g-dex-build7+mh4edit-mit-save-id,2,0
+182,黄速龙腕甲Ｓ,Genprey Vambraces S,mh4g-dex-build7+mh4edit-mit-save-id,4,0
+183,黄速龙护手Ｓ,Genprey Guards S,mh4g-dex-build7+mh4edit-mit-save-id,4,0
+184,红速龙腕甲,Ioprey Vambraces,mh4g-dex-build7+mh4edit-mit-save-id,2,0
+185,红速龙护手,Ioprey Guards,mh4g-dex-build7+mh4edit-mit-save-id,2,0
+186,红速龙腕甲Ｓ,Ioprey Vambraces S,mh4g-dex-build7+mh4edit-mit-save-id,4,0
+187,红速龙护手Ｓ,Ioprey Guards S,mh4g-dex-build7+mh4edit-mit-save-id,4,0
+188,大怪鸟腕甲,Kut-Ku Vambraces,mh4g-dex-build7+mh4edit-mit-save-id,2,0
+189,大怪鸟护手,Kut-Ku Guards,mh4g-dex-build7+mh4edit-mit-save-id,2,0
+190,大怪鸟腕甲Ｓ,Kut-Ku Vambraces S,mh4g-dex-build7+mh4edit-mit-save-id,4,0
+191,大怪鸟护手Ｓ,Kut-Ku Guards S,mh4g-dex-build7+mh4edit-mit-save-id,4,0
+192,青怪鸟腕甲Ｕ,Kut-Ku Vambraces U,mh4g-dex-build7+mh4edit-mit-save-id,5,0
+193,青怪鸟护手Ｕ,Kut-Ku Guards U,mh4g-dex-build7+mh4edit-mit-save-id,5,0
+194,毒怪鸟腕甲,Gypceros Vambraces,mh4g-dex-build7+mh4edit-mit-save-id,2,0
+195,毒怪鸟护手,Gypceros Guards,mh4g-dex-build7+mh4edit-mit-save-id,2,0
+196,毒怪鸟腕甲Ｓ,Gypceros Vambraces S,mh4g-dex-build7+mh4edit-mit-save-id,5,0
+197,毒怪鸟护手Ｓ,Gypceros Guards S,mh4g-dex-build7+mh4edit-mit-save-id,5,0
+198,紫毒怪鸟腕甲Ｕ,Gypceros Vambraces U,mh4g-dex-build7+mh4edit-mit-save-id,6,0
+199,紫毒怪鸟护手Ｕ,Gypceros Guards U,mh4g-dex-build7+mh4edit-mit-save-id,6,0
+200,毒怪鸟腕甲,Gypceros Vambraces,mh4g-dex-build7+mh4edit-mit-save-id,2,0
+201,毒怪鸟护手,Gypceros Guards,mh4g-dex-build7+mh4edit-mit-save-id,2,0
+202,紫毒怪鸟腕甲Ｕ,Gypceros Vambraces U,mh4g-dex-build7+mh4edit-mit-save-id,6,0
+203,紫毒怪鸟护手Ｕ,Gypceros Guards U,mh4g-dex-build7+mh4edit-mit-save-id,6,0
+204,桃毛兽腕甲,Conga Vambraces,mh4g-dex-build7+mh4edit-mit-save-id,2,0
+205,桃毛兽护手,Conga Guards,mh4g-dex-build7+mh4edit-mit-save-id,2,0
+206,桃毛兽腕甲Ｓ,Conga Vambraces S,mh4g-dex-build7+mh4edit-mit-save-id,4,0
+207,桃毛兽护手Ｓ,Conga Guards S,mh4g-dex-build7+mh4edit-mit-save-id,4,0
+208,绿毛兽腕甲Ｕ,Conga Vambraces U,mh4g-dex-build7+mh4edit-mit-save-id,5,0
+209,绿毛兽护手Ｕ,Conga Guards U,mh4g-dex-build7+mh4edit-mit-save-id,5,0
+210,铠龙腕甲,Gravios Vambraces,mh4g-dex-build7+mh4edit-mit-save-id,3,0
+211,铠龙护手,Gravios Guards,mh4g-dex-build7+mh4edit-mit-save-id,3,0
+212,铠龙腕甲Ｓ,Gravios Vambraces S,mh4g-dex-build7+mh4edit-mit-save-id,5,0
+213,铠龙护手Ｓ,Gravios Guards S,mh4g-dex-build7+mh4edit-mit-save-id,5,0
+214,黑铠龙腕甲Ｕ,Gravios Vambraces U,mh4g-dex-build7+mh4edit-mit-save-id,6,0
+215,黑铠龙护手Ｕ,Gravios Guards U,mh4g-dex-build7+mh4edit-mit-save-id,6,0
+216,电龙腕甲,Khezu Vambraces,mh4g-dex-build7+mh4edit-mit-save-id,2,0
+217,电龙护手,Khezu Guards,mh4g-dex-build7+mh4edit-mit-save-id,2,0
+218,电龙腕甲Ｓ,Khezu Vambraces S,mh4g-dex-build7+mh4edit-mit-save-id,5,0
+219,电龙护手Ｓ,Khezu Guards S,mh4g-dex-build7+mh4edit-mit-save-id,5,0
+220,赤电龙腕甲Ｕ,Khezu Vambraces U,mh4g-dex-build7+mh4edit-mit-save-id,6,0
+221,赤电龙护手Ｕ,Khezu Guards U,mh4g-dex-build7+mh4edit-mit-save-id,6,0
+222,电龙腕甲,Khezu Vambraces,mh4g-dex-build7+mh4edit-mit-save-id,2,0
+223,电龙护手,Khezu Guards,mh4g-dex-build7+mh4edit-mit-save-id,2,0
+224,赤电龙腕甲Ｕ,Khezu Vambraces U,mh4g-dex-build7+mh4edit-mit-save-id,6,0
+225,赤电龙护手Ｕ,Khezu Guards U,mh4g-dex-build7+mh4edit-mit-save-id,6,0
+226,麒麟长臂,Kirin Longarms,mh4g-dex-build7+mh4edit-mit-save-id,3,0
+227,麒麟手套,Kirin Gloves,mh4g-dex-build7+mh4edit-mit-save-id,3,0
+228,麒麟长臂Ｓ,Kirin Longarms S,mh4g-dex-build7+mh4edit-mit-save-id,6,0
+229,麒麟手套Ｓ,Kirin Gloves S,mh4g-dex-build7+mh4edit-mit-save-id,6,0
+230,冰麒麟腕甲Ｕ,Kirin Longarms U,mh4g-dex-build7+mh4edit-mit-save-id,7,0
+231,冰麒麟手套Ｕ,Kirin Gloves U,mh4g-dex-build7+mh4edit-mit-save-id,7,0
+232,麒麟长臂,Kirin Longarms,mh4g-dex-build7+mh4edit-mit-save-id,3,0
+233,麒麟手套,Kirin Gloves,mh4g-dex-build7+mh4edit-mit-save-id,3,0
+234,冰麒麟腕甲Ｕ,Kirin Longarms U,mh4g-dex-build7+mh4edit-mit-save-id,7,0
+235,冰麒麟手套Ｕ,Kirin Gloves U,mh4g-dex-build7+mh4edit-mit-save-id,7,0
+236,钢龙臂甲,Kushala Grip,mh4g-dex-build7+mh4edit-mit-save-id,7,0
+237,钢龙护手,Kushala Embrace,mh4g-dex-build7+mh4edit-mit-save-id,7,0
+238,EX钢龙臂甲,EX Kushala Grip,mh4g-dex-build7+mh4edit-mit-save-id,7,0
+239,EX钢龙护手,EX Kushala Embrace,mh4g-dex-build7+mh4edit-mit-save-id,7,0
+240,钢龙臂甲,Kushala Grip,mh4g-dex-build7+mh4edit-mit-save-id,7,0
+241,钢龙护手,Kushala Embrace,mh4g-dex-build7+mh4edit-mit-save-id,7,0
+242,炎妃龙腕甲,Empress Vambraces,mh4g-dex-build7+mh4edit-mit-save-id,7,0
+243,炎妃龙护手,Empress Guards,mh4g-dex-build7+mh4edit-mit-save-id,7,0
+244,镰蟹腕甲,Ceanataur Braces,mh4g-dex-build7+mh4edit-mit-save-id,2,0
+245,镰蟹护手,Ceanataur Guards,mh4g-dex-build7+mh4edit-mit-save-id,2,0
+246,镰蟹腕甲,Ceanataur Braces,mh4g-dex-build7+mh4edit-mit-save-id,2,0
+247,镰蟹护手,Ceanataur Guards,mh4g-dex-build7+mh4edit-mit-save-id,2,0
+248,晓丸【笼手】,Auroros Gauntlets,mh4g-dex-build7+mh4edit-mit-save-id,3,0
+249,凛【笼手】,Borealis Gauntlets,mh4g-dex-build7+mh4edit-mit-save-id,3,0
+250,曙丸【笼手】,Genesis Gauntlets,mh4g-dex-build7+mh4edit-mit-save-id,3,0
+251,妖艳【笼手】,Glyph Gauntlets,mh4g-dex-build7+mh4edit-mit-save-id,3,0
+252,晓丸【笼手】,Auroros Gauntlets,mh4g-dex-build7+mh4edit-mit-save-id,3,0
+253,凛【笼手】,Borealis Gauntlets,mh4g-dex-build7+mh4edit-mit-save-id,3,0
+254,曙丸【笼手】,Genesis Gauntlets,mh4g-dex-build7+mh4edit-mit-save-id,3,0
+255,妖艳【笼手】,Glyph Gauntlets,mh4g-dex-build7+mh4edit-mit-save-id,3,0
+256,溶岩龙腕甲,Lava Vambraces,mh4g-dex-build7+mh4edit-mit-save-id,3,0
+257,溶岩龙护手,Lava Guards,mh4g-dex-build7+mh4edit-mit-save-id,3,0
+258,翼蛇龙套手套,Remobra Gloves,mh4g-dex-build7+mh4edit-mit-save-id,2,0
+259,翼蛇龙套之手,Remobra Hands,mh4g-dex-build7+mh4edit-mit-save-id,2,0
+260,翼蛇龙手套Ｓ,Remobra Gloves S,mh4g-dex-build7+mh4edit-mit-save-id,4,0
+261,翼蛇龙之手Ｓ,Remobra Hands S,mh4g-dex-build7+mh4edit-mit-save-id,4,0
+262,鬼鲛腕甲,Zamtrios Braces,mh4g-dex-build7+mh4edit-mit-save-id,2,0
+263,鬼鲛护手,Zamtrios Guards,mh4g-dex-build7+mh4edit-mit-save-id,2,0
+264,鬼鲛腕甲Ｓ,Zamtrios Braces S,mh4g-dex-build7+mh4edit-mit-save-id,5,0
+265,鬼鲛护手Ｓ,Zamtrios Guards S,mh4g-dex-build7+mh4edit-mit-save-id,5,0
+266,重甲虫腕甲,Seltas Vambraces,mh4g-dex-build7+mh4edit-mit-save-id,3,0
+267,重甲虫护手,Seltas Guards,mh4g-dex-build7+mh4edit-mit-save-id,3,0
+268,重甲虫腕甲Ｓ,Seltas Vambraces S,mh4g-dex-build7+mh4edit-mit-save-id,5,0
+269,重甲虫护手Ｓ,Seltas Guards S,mh4g-dex-build7+mh4edit-mit-save-id,5,0
+270,盾虫腕甲,Konchu Vambraces,mh4g-dex-build7+mh4edit-mit-save-id,2,0
+271,盾虫腕甲Ｓ,Konchu Vambraces S,mh4g-dex-build7+mh4edit-mit-save-id,4,0
+272,盾虫护手,Konchu Guards,mh4g-dex-build7+mh4edit-mit-save-id,2,0
+273,盾虫护手Ｓ,Konchu Guards S,mh4g-dex-build7+mh4edit-mit-save-id,4,0
+274,弧光腕甲,Arc Vambraces,mh4g-dex-build7+mh4edit-mit-save-id,3,0
+275,弧光护手,Arc Guards,mh4g-dex-build7+mh4edit-mit-save-id,3,0
+276,弧光腕甲Ｓ,Arc Vambraces S,mh4g-dex-build7+mh4edit-mit-save-id,7,0
+277,弧光护手Ｓ,Arc Guards S,mh4g-dex-build7+mh4edit-mit-save-id,7,0
+278,弧光腕甲,Arc Vambraces,mh4g-dex-build7+mh4edit-mit-save-id,3,0
+279,弧光护手,Arc Guards,mh4g-dex-build7+mh4edit-mit-save-id,3,0
+280,炎王龙腕甲,Kaiser Vambraces,mh4g-dex-build7+mh4edit-mit-save-id,7,0
+281,炎王龙护手,Kaiser Guards,mh4g-dex-build7+mh4edit-mit-save-id,7,0
+282,金色的笼手,Golden Kote,mh4g-dex-build7+mh4edit-mit-save-id,7,0
+283,黑子的笼手,Puppeteer Gloves,mh4g-dex-build7+mh4edit-mit-save-id,7,0
+284,怒天的笼手,Divine Ire Kote,mh4g-dex-build7+mh4edit-mit-save-id,7,0
+285,心灭的笼手,Crusher Braces,mh4g-dex-build7+mh4edit-mit-save-id,7,0
+286,逆乱腕甲,Rebellion Vambraces,mh4g-dex-build7+mh4edit-mit-save-id,7,0
+287,暴乱护手,Riot Guards,mh4g-dex-build7+mh4edit-mit-save-id,7,0
+288,逆乱腕甲,Rebellion Vambraces,mh4g-dex-build7+mh4edit-mit-save-id,7,0
+289,暴乱护手,Riot Guards,mh4g-dex-build7+mh4edit-mit-save-id,7,0
+290,恶龙炎爪Ｘ,Dragonclaws X,mh4g-dex-build7+mh4edit-mit-save-id,10,0
+291,恶龙炎拳Ｘ,Dragonfists X,mh4g-dex-build7+mh4edit-mit-save-id,10,0
+292,恶龙炎爪,Dragonclaws,mh4g-dex-build7+mh4edit-mit-save-id,7,0
+293,恶龙炎拳,Dragonfists,mh4g-dex-build7+mh4edit-mit-save-id,7,0
+294,红黑龙炎爪,Fatalis Crimsonclaws,mh4g-dex-build7+mh4edit-mit-save-id,7,0
+295,红黑龙炎拳,Fatalis Crimsonfists,mh4g-dex-build7+mh4edit-mit-save-id,7,0
+296,红速龙套手套,Ioprey Claws,mh4g-dex-build7+mh4edit-mit-save-id,5,0
+297,红速龙套之手,Ioprey Gloves,mh4g-dex-build7+mh4edit-mit-save-id,5,0
+298,砂龙腕甲,Cephalos Vambraces,mh4g-dex-build7+mh4edit-mit-save-id,4,0
+299,砂龙护手,Cephalos Guards,mh4g-dex-build7+mh4edit-mit-save-id,4,0
+300,罔象【大袖】,Mizuha Sleeves,mh4g-dex-build7+mh4edit-mit-save-id,7,0
+301,丰玉【大袖】,Cham Sleeves,mh4g-dex-build7+mh4edit-mit-save-id,7,0
+302,盾蟹腕甲,Hermitaur Braces,mh4g-dex-build7+mh4edit-mit-save-id,4,0
+303,盾蟹护手,Hermitaur Guards,mh4g-dex-build7+mh4edit-mit-save-id,4,0
+304,盾蟹腕甲,Hermitaur Braces,mh4g-dex-build7+mh4edit-mit-save-id,4,0
+305,盾蟹护手,Hermitaur Guards,mh4g-dex-build7+mh4edit-mit-save-id,4,0
+306,飞虫腕甲,Vespoid Vambraces,mh4g-dex-build7+mh4edit-mit-save-id,4,0
+307,飞虫护手,Vespoid Guards,mh4g-dex-build7+mh4edit-mit-save-id,4,0
+308,彩鸟腕甲,Qurupeco Vambraces,mh4g-dex-build7+mh4edit-mit-save-id,4,0
+309,彩鸟护手,Qurupeco Guards,mh4g-dex-build7+mh4edit-mit-save-id,4,0
+310,炎戈龙腕甲,Agnaktor Vambraces,mh4g-dex-build7+mh4edit-mit-save-id,6,0
+311,炎戈龙护手,Agnaktor Guards,mh4g-dex-build7+mh4edit-mit-save-id,6,0
+312,冰牙龙腕甲,Barioth Vambraces,mh4g-dex-build7+mh4edit-mit-save-id,5,0
+313,冰牙龙护手,Barioth Guards,mh4g-dex-build7+mh4edit-mit-save-id,5,0
+314,赤甲兽腕甲,Volvidon Vambraces,mh4g-dex-build7+mh4edit-mit-save-id,4,0
+315,赤甲兽护手,Volvidon Guards,mh4g-dex-build7+mh4edit-mit-save-id,4,0
+316,海龙腕甲,Lagiacrus Braces,mh4g-dex-build7+mh4edit-mit-save-id,6,0
+317,海龙护手,Lagiacrus Guards,mh4g-dex-build7+mh4edit-mit-save-id,6,0
+318,海龙腕甲,Lagiacrus Braces,mh4g-dex-build7+mh4edit-mit-save-id,6,0
+319,海龙护手,Lagiacrus Guards,mh4g-dex-build7+mh4edit-mit-save-id,6,0
+320,太阳神腕甲,Helios Vambraces,mh4g-dex-build7+mh4edit-mit-save-id,7,0
+321,太阳神护手,Helios Guards,mh4g-dex-build7+mh4edit-mit-save-id,7,0
+322,月神腕甲,Selene Vambraces,mh4g-dex-build7+mh4edit-mit-save-id,7,0
+323,月神护手,Selene Guards,mh4g-dex-build7+mh4edit-mit-save-id,7,0
+324,灯鱼龙腕甲,Gobul Vambraces,mh4g-dex-build7+mh4edit-mit-save-id,5,0
+325,灯鱼龙护手,Gobul Guards,mh4g-dex-build7+mh4edit-mit-save-id,5,0
+326,大和【笼手】,Yamato Kote,mh4g-dex-build7+mh4edit-mit-save-id,7,0
+327,日向【笼手】,Hyuga Kote,mh4g-dex-build7+mh4edit-mit-save-id,7,0
+328,陆奥【笼手】,Mutsu Kote,mh4g-dex-build7+mh4edit-mit-save-id,7,0
+329,天成【笼手】,Amagi Kote,mh4g-dex-build7+mh4edit-mit-save-id,7,0
+330,煌黑龙之手,Escadora Armguards,mh4g-dex-build7+mh4edit-mit-save-id,7,0
+331,煌黑龙歌姬,Escadora Arma,mh4g-dex-build7+mh4edit-mit-save-id,7,0
+332,煌黑龙之手,Escadora Armguards,mh4g-dex-build7+mh4edit-mit-save-id,7,0
+333,煌黑龙歌姬,Escadora Arma,mh4g-dex-build7+mh4edit-mit-save-id,7,0
+334,雪狮子腕甲,Blango Vambraces,mh4g-dex-build7+mh4edit-mit-save-id,5,0
+335,雪狮子护手,Blango Guards,mh4g-dex-build7+mh4edit-mit-save-id,5,0
+336,龙虾王腕甲,Lobster Vambraces,mh4g-dex-build7+mh4edit-mit-save-id,4,0
+337,龙虾王护手,Lobster Guards,mh4g-dex-build7+mh4edit-mit-save-id,4,0
+338,崩龙护腕,Ukanlos Claws,mh4g-dex-build7+mh4edit-mit-save-id,7,0
+339,崩龙弓腕,Ukanlos Gauntlets,mh4g-dex-build7+mh4edit-mit-save-id,7,0
+340,金刚【笼手】,Indra Gloves,mh4g-dex-build7+mh4edit-mit-save-id,7,0
+341,不动【笼手】,Steadfast Guards,mh4g-dex-build7+mh4edit-mit-save-id,7,0
+342,夜叉【御手】,Yaksha Braces,mh4g-dex-build7+mh4edit-mit-save-id,7,0
+343,修罗【御手】,Carnage Vambraces,mh4g-dex-build7+mh4edit-mit-save-id,7,0
+344,神秘腕甲,Artian Vambraces,mh4g-dex-build7+mh4edit-mit-save-id,3,0
+345,神秘护手,Artian Guards,mh4g-dex-build7+mh4edit-mit-save-id,3,0
+346,神秘腕甲Ｓ,Artian Vambraces S,mh4g-dex-build7+mh4edit-mit-save-id,5,0
+347,神秘护手Ｓ,Artian Guards S,mh4g-dex-build7+mh4edit-mit-save-id,5,0
+348,神秘腕甲Ｓ,Artian Vambraces S,mh4g-dex-build7+mh4edit-mit-save-id,5,0
+349,神秘护手Ｓ,Artian Guards S,mh4g-dex-build7+mh4edit-mit-save-id,5,0
+350,远古龙腕甲,Dober Vambraces,mh4g-dex-build7+mh4edit-mit-save-id,6,0
+351,远古龙护手,Dober Guards,mh4g-dex-build7+mh4edit-mit-save-id,6,0
+352,铸锭腕甲,Ingot Vambraces,mh4g-dex-build7+mh4edit-mit-save-id,3,0
+353,铸锭护手,Ingot Guards,mh4g-dex-build7+mh4edit-mit-save-id,3,0
+354,铸锭腕甲,Ingot Vambraces,mh4g-dex-build7+mh4edit-mit-save-id,3,0
+355,铸锭护手,Ingot Guards,mh4g-dex-build7+mh4edit-mit-save-id,3,0
+356,锹虫腕甲,Aelucanth Brachia,mh4g-dex-build7+mh4edit-mit-save-id,4,0
+357,蝴蝶腕甲,Rhopessa Brachia,mh4g-dex-build7+mh4edit-mit-save-id,4,0
+358,锹虫护手,Aelucanth Manus,mh4g-dex-build7+mh4edit-mit-save-id,4,0
+359,蝴蝶护手,Rhopessa Manus,mh4g-dex-build7+mh4edit-mit-save-id,4,0
+360,独角仙腕甲,Obituary Brachia,mh4g-dex-build7+mh4edit-mit-save-id,5,0
+361,彩蝶腕甲,Butterfly Brachia,mh4g-dex-build7+mh4edit-mit-save-id,5,0
+362,独角仙护手,Obituary Manus,mh4g-dex-build7+mh4edit-mit-save-id,5,0
+363,彩蝶护手,Butterfly Manus,mh4g-dex-build7+mh4edit-mit-save-id,5,0
+364,南瓜手腕,Mosgharl Creeper,mh4g-dex-build7+mh4edit-mit-save-id,4,0
+365,南瓜护手,Mosgharl Tendril,mh4g-dex-build7+mh4edit-mit-save-id,4,0
+366,工会精英腕甲,Guild Bard Braces,mh4g-dex-build7+mh4edit-mit-save-id,4,0
+367,店员手套,Scholar's Gloves,mh4g-dex-build7+mh4edit-mit-save-id,4,0
+368,工会精英长袖,Guild Bard Sleeves,mh4g-dex-build7+mh4edit-mit-save-id,4,0
+369,店员长袖,Scholar's Sleeves,mh4g-dex-build7+mh4edit-mit-save-id,4,0
+370,教官腕甲,Black Belt Vambraces,mh4g-dex-build7+mh4edit-mit-save-id,6,0
+371,教官护手,Black Belt Guards,mh4g-dex-build7+mh4edit-mit-save-id,6,0
+372,守护者腕甲,Guardian Vambraces,mh4g-dex-build7+mh4edit-mit-save-id,4,0
+373,女佣手套,Helper Gloves,mh4g-dex-build7+mh4edit-mit-save-id,4,0
+374,守护者护手,Guardian Guards,mh4g-dex-build7+mh4edit-mit-save-id,4,0
+375,女佣长袖,Helper Sleeves,mh4g-dex-build7+mh4edit-mit-save-id,4,0
+376,忍之龙手・天,Shinobi Sky Kote,mh4g-dex-build7+mh4edit-mit-save-id,7,0
+377,忍之龙手・地,Shinobi Land Kote,mh4g-dex-build7+mh4edit-mit-save-id,7,0
+378,工会骑士手套,Guild Knight Gloves,mh4g-dex-build7+mh4edit-mit-save-id,6,0
+379,女仆装手套,Maiden's Gloves,mh4g-dex-build7+mh4edit-mit-save-id,6,0
+380,工会骑士长袖,Guild Knight Sleeves,mh4g-dex-build7+mh4edit-mit-save-id,6,0
+381,女仆装长袖,Maiden's Sleeves,mh4g-dex-build7+mh4edit-mit-save-id,6,0
+382,结云护手・天,Yukumo Sky Kote,mh4g-dex-build7+mh4edit-mit-save-id,6,0
+383,结云护手・地,Yukumo Land Kote,mh4g-dex-build7+mh4edit-mit-save-id,6,0
+384,矿石腕甲,High Metal Vambraces,mh4g-dex-build7+mh4edit-mit-save-id,2,0
+385,矿石护手,High Metal Guards,mh4g-dex-build7+mh4edit-mit-save-id,2,0
+386,城塞游击队【手甲】,Ranger's Gauntlets,mh4g-dex-build7+mh4edit-mit-save-id,6,0
+387,城塞弓击队【手甲】,Archer's Gauntlets,mh4g-dex-build7+mh4edit-mit-save-id,6,0
+388,三孔腕轮,Chakra Bracelet,mh4g-dex-build7+mh4edit-mit-save-id,5,0
+389,水手服手套,Sailor Gloves,mh4g-dex-build7+mh4edit-mit-save-id,6,0
+390,水手服长袖,Sailor Sleeves,mh4g-dex-build7+mh4edit-mit-save-id,6,0
+391,团长腕甲,Hawkbraces,mh4g-dex-build7+mh4edit-mit-save-id,6,0
+392,看板娘腕甲,Lecturer's Braces,mh4g-dex-build7+mh4edit-mit-save-id,6,0
+393,团长护手,Hawkguards,mh4g-dex-build7+mh4edit-mit-save-id,6,0
+394,看板娘护手,Lecturer's Guards,mh4g-dex-build7+mh4edit-mit-save-id,6,0
+395,团长的腕轮,Caravaneer's Armlets,mh4g-dex-build7+mh4edit-mit-save-id,6,0
+396,蓝星花腕甲,Blue Star Braces,mh4g-dex-build7+mh4edit-mit-save-id,7,0
+397,蓝星花长袖,Blue Star Sleeves,mh4g-dex-build7+mh4edit-mit-save-id,7,0
+398,【美】阿纳特腕甲,Braces of Anat,mh4g-dex-build7+mh4edit-mit-save-id,10,0
+399,【美】阿纳特护手,Guards of Anat,mh4g-dex-build7+mh4edit-mit-save-id,10,0
+400,优衣库手表,Uniqlo Watch,mh4g-dex-build7+mh4edit-mit-save-id,7,0
+401,优衣库时计,Uniqlo Timepiece,mh4g-dex-build7+mh4edit-mit-save-id,7,0
+402,路克星腕甲,Star Rook Vambraces,mh4g-dex-build7+mh4edit-mit-save-id,7,0
+403,路克星护手,Star Rook Guards,mh4g-dex-build7+mh4edit-mit-save-id,7,0
+404,dummy706,dummy706,mh4edit-mit-save-id-en-fallback,0,0
+405,dummy718,dummy718,mh4edit-mit-save-id-en-fallback,0,0
+406,dummy707,dummy707,mh4edit-mit-save-id-en-fallback,0,0
+407,dummy719,dummy719,mh4edit-mit-save-id-en-fallback,0,0
+408,DUMMY,DUMMY,mh4edit-mit-save-id-en-fallback,0,0
+409,DUMMY,DUMMY,mh4edit-mit-save-id-en-fallback,0,0
+410,勇者的护腕,Hero's Braces,mh4g-dex-build7+mh4edit-mit-save-id,7,0
+411,勇者的手袋,Hero's Gloves,mh4g-dex-build7+mh4edit-mit-save-id,7,0
+412,EX逆乱腕甲,EX Rebellion Braces,mh4g-dex-build7+mh4edit-mit-save-id,7,0
+413,EX暴乱护手,EX Riot Guards,mh4g-dex-build7+mh4edit-mit-save-id,7,0
+414,EX神秘腕甲,EX Artian Vambraces,mh4g-dex-build7+mh4edit-mit-save-id,7,0
+415,EX神秘护手,EX Artian Guards,mh4g-dex-build7+mh4edit-mit-save-id,7,0
+416,EX黑蚀龙腕甲,EX Gore Braces,mh4g-dex-build7+mh4edit-mit-save-id,7,0
+417,EX黑蚀龙护手,EX Gore Guards,mh4g-dex-build7+mh4edit-mit-save-id,7,0
+418,EX高合金腕甲,EX Ingot Vambraces,mh4g-dex-build7+mh4edit-mit-save-id,7,0
+419,EX高合金护手,EX Ingot Guards,mh4g-dex-build7+mh4edit-mit-save-id,7,0
+420,EX冰麒麟腕甲Ｕ,EX Kirin Longarms U,mh4g-dex-build7+mh4edit-mit-save-id,7,0
+421,EX冰麒麟手套Ｕ,EX Kirin Gloves U,mh4g-dex-build7+mh4edit-mit-save-id,7,0
+422,友爱腕甲,Storge Vambraces,mh4g-dex-build7+mh4edit-mit-save-id,3,0
+423,友爱护手,Storge Guards,mh4g-dex-build7+mh4edit-mit-save-id,3,0
+424,友爱腕甲Ｓ,Storge Vambraces S,mh4g-dex-build7+mh4edit-mit-save-id,7,0
+425,友爱护手Ｓ,Storge Guards S,mh4g-dex-build7+mh4edit-mit-save-id,7,0
+426,友爱腕甲,Storge Vambraces,mh4g-dex-build7+mh4edit-mit-save-id,3,0
+427,友爱护手,Storge Guards,mh4g-dex-build7+mh4edit-mit-save-id,3,0
+428,猎人腕甲,Hunter's Vambraces,mh4g-dex-build7+mh4edit-mit-save-id,1,0
+429,猎人护手,Hunter's Guards,mh4g-dex-build7+mh4edit-mit-save-id,1,0
+430,合金腕甲,Alloy Vambraces,mh4g-dex-build7+mh4edit-mit-save-id,1,0
+431,合金护手,Alloy Guards,mh4g-dex-build7+mh4edit-mit-save-id,1,0
+432,水兽腕甲,Ludroth Vambraces,mh4g-dex-build7+mh4edit-mit-save-id,2,0
+433,水兽护手,Ludroth Guards,mh4g-dex-build7+mh4edit-mit-save-id,2,0
+434,雌火龙腕甲,Rathian Vambraces,mh4g-dex-build7+mh4edit-mit-save-id,2,0
+435,雌火龙护手,Rathian Guards,mh4g-dex-build7+mh4edit-mit-save-id,2,0
+436,樱火龙腕甲,Rath Heart Braces,mh4g-dex-build7+mh4edit-mit-save-id,6,0
+437,樱火龙护手,Rath Heart Guards,mh4g-dex-build7+mh4edit-mit-save-id,6,0
+438,雄火龙腕甲,Rathalos Vambraces,mh4g-dex-build7+mh4edit-mit-save-id,3,0
+439,雄火龙护手,Rathalos Guards,mh4g-dex-build7+mh4edit-mit-save-id,3,0
+440,苍火龙腕甲,Rath Soul Braces,mh4g-dex-build7+mh4edit-mit-save-id,6,0
+441,苍火龙护手,Rath Soul Guards,mh4g-dex-build7+mh4edit-mit-save-id,6,0
+442,银火龙腕甲,Silver Solbraces,mh4g-dex-build7+mh4edit-mit-save-id,7,0
+443,银火龙护手,Silver Solguards,mh4g-dex-build7+mh4edit-mit-save-id,7,0
+444,贪婪腕甲,Esurient Vambraces,mh4g-dex-build7+mh4edit-mit-save-id,7,0
+445,贪婪护手,Esurient Guards,mh4g-dex-build7+mh4edit-mit-save-id,7,0
+446,残阳【笼手】,Gloaming Braces,mh4g-dex-build7+mh4edit-mit-save-id,3,0
+447,常磐【笼手】,Adamance Braces,mh4g-dex-build7+mh4edit-mit-save-id,3,0
+448,东云【笼手】,Dayspring Braces,mh4g-dex-build7+mh4edit-mit-save-id,3,0
+449,八千代【笼手】,Epoch Braces,mh4g-dex-build7+mh4edit-mit-save-id,3,0
+450,轰龙腕甲,Tigrex Vambraces,mh4g-dex-build7+mh4edit-mit-save-id,3,0
+451,轰龙护手,Tigrex Guards,mh4g-dex-build7+mh4edit-mit-save-id,3,0
+452,黑轰龙腕甲Ｕ,Tigrex Vambraces U,mh4g-dex-build7+mh4edit-mit-save-id,6,0
+453,黑轰龙护手Ｕ,Tigrex Guards U,mh4g-dex-build7+mh4edit-mit-save-id,6,0
+454,霸龙护腕,Akantor Claws,mh4g-dex-build7+mh4edit-mit-save-id,7,0
+455,霸龙弓腕,Akantor Gauntlets,mh4g-dex-build7+mh4edit-mit-save-id,7,0
+456,狱狼龙腕甲Ｕ,Zinogre Vambraces U,mh4g-dex-build7+mh4edit-mit-save-id,6,0
+457,狱狼龙护手Ｕ,Zinogre Guards U,mh4g-dex-build7+mh4edit-mit-save-id,6,0
+458,黑蚀龙腕甲,Gore Braces,mh4g-dex-build7+mh4edit-mit-save-id,3,0
+459,黑蚀龙护手,Gore Guards,mh4g-dex-build7+mh4edit-mit-save-id,3,0
+460,毒怪鸟腕甲,Gypceros Vambraces,mh4g-dex-build7+mh4edit-mit-save-id,2,0
+461,毒怪鸟护手,Gypceros Guards,mh4g-dex-build7+mh4edit-mit-save-id,2,0
+462,紫毒怪鸟腕甲Ｕ,Gypceros Vambraces U,mh4g-dex-build7+mh4edit-mit-save-id,6,0
+463,紫毒怪鸟护手Ｕ,Gypceros Guards U,mh4g-dex-build7+mh4edit-mit-save-id,6,0
+464,电龙腕甲,Khezu Vambraces,mh4g-dex-build7+mh4edit-mit-save-id,2,0
+465,电龙护手,Khezu Guards,mh4g-dex-build7+mh4edit-mit-save-id,2,0
+466,赤电龙腕甲Ｕ,Khezu Vambraces U,mh4g-dex-build7+mh4edit-mit-save-id,6,0
+467,赤电龙护手Ｕ,Khezu Guards U,mh4g-dex-build7+mh4edit-mit-save-id,6,0
+468,麒麟长臂,Kirin Longarms,mh4g-dex-build7+mh4edit-mit-save-id,3,0
+469,麒麟手套,Kirin Gloves,mh4g-dex-build7+mh4edit-mit-save-id,3,0
+470,冰麒麟腕甲Ｕ,Kirin Longarms U,mh4g-dex-build7+mh4edit-mit-save-id,7,0
+471,冰麒麟手套Ｕ,Kirin Gloves U,mh4g-dex-build7+mh4edit-mit-save-id,7,0
+472,钢龙臂甲,Kushala Grip,mh4g-dex-build7+mh4edit-mit-save-id,7,0
+473,钢龙护手,Kushala Embrace,mh4g-dex-build7+mh4edit-mit-save-id,7,0
+474,镰蟹腕甲,Ceanataur Braces,mh4g-dex-build7+mh4edit-mit-save-id,2,0
+475,镰蟹护手,Ceanataur Guards,mh4g-dex-build7+mh4edit-mit-save-id,2,0
+476,晓丸【笼手】,Auroros Gauntlets,mh4g-dex-build7+mh4edit-mit-save-id,3,0
+477,凛【笼手】,Borealis Gauntlets,mh4g-dex-build7+mh4edit-mit-save-id,3,0
+478,曙丸【笼手】,Genesis Gauntlets,mh4g-dex-build7+mh4edit-mit-save-id,3,0
+479,妖艳【笼手】,Glyph Gauntlets,mh4g-dex-build7+mh4edit-mit-save-id,3,0
+480,弧光腕甲,Arc Vambraces,mh4g-dex-build7+mh4edit-mit-save-id,3,0
+481,弧光护手,Arc Guards,mh4g-dex-build7+mh4edit-mit-save-id,3,0
+482,逆乱腕甲,Rebellion Vambraces,mh4g-dex-build7+mh4edit-mit-save-id,7,0
+483,暴乱护手,Riot Guards,mh4g-dex-build7+mh4edit-mit-save-id,7,0
+484,恶龙炎爪Ｘ,Dragonclaws X,mh4g-dex-build7+mh4edit-mit-save-id,10,0
+485,恶龙炎拳Ｘ,Dragonfists X,mh4g-dex-build7+mh4edit-mit-save-id,10,0
+486,盾蟹腕甲,Hermitaur Braces,mh4g-dex-build7+mh4edit-mit-save-id,4,0
+487,盾蟹护手,Hermitaur Guards,mh4g-dex-build7+mh4edit-mit-save-id,4,0
+488,海龙腕甲,Lagiacrus Braces,mh4g-dex-build7+mh4edit-mit-save-id,6,0
+489,海龙护手,Lagiacrus Guards,mh4g-dex-build7+mh4edit-mit-save-id,6,0
+490,煌黑龙之手,Escadora Armguards,mh4g-dex-build7+mh4edit-mit-save-id,7,0
+491,煌黑龙歌姬,Escadora Arma,mh4g-dex-build7+mh4edit-mit-save-id,7,0
+492,神秘腕甲Ｓ,Artian Vambraces S,mh4g-dex-build7+mh4edit-mit-save-id,5,0
+493,神秘护手Ｓ,Artian Guards S,mh4g-dex-build7+mh4edit-mit-save-id,5,0
+494,铸锭腕甲,Ingot Vambraces,mh4g-dex-build7+mh4edit-mit-save-id,3,0
+495,铸锭护手,Ingot Guards,mh4g-dex-build7+mh4edit-mit-save-id,3,0
+496,友爱腕甲,Storge Vambraces,mh4g-dex-build7+mh4edit-mit-save-id,3,0
+497,友爱护手,Storge Guards,mh4g-dex-build7+mh4edit-mit-save-id,3,0
+498,蓝速龙腕甲Ｘ,Velociprey Braces X,mh4g-dex-build7+mh4edit-mit-save-id,8,0
+499,蓝速龙护手Ｘ,Velociprey Guards X,mh4g-dex-build7+mh4edit-mit-save-id,8,0
+500,红速龙腕甲Ｘ,Ioprey Vambraces X,mh4g-dex-build7+mh4edit-mit-save-id,8,0
+501,红速龙护手Ｘ,Ioprey Guards X,mh4g-dex-build7+mh4edit-mit-save-id,8,0
+502,奇猿狐腕甲Ｘ,Kecha Braces X,mh4g-dex-build7+mh4edit-mit-save-id,8,0
+503,奇猿狐护手Ｘ,Kecha Guards X,mh4g-dex-build7+mh4edit-mit-save-id,8,0
+504,白猿狐腕甲Ｚ,Kecha Braces Z,mh4g-dex-build7+mh4edit-mit-save-id,8,0
+505,白猿狐护手Ｚ,Kecha Guards Z,mh4g-dex-build7+mh4edit-mit-save-id,8,0
+506,鬼蛙腕甲Ｘ,Tetsucabra Braces X,mh4g-dex-build7+mh4edit-mit-save-id,8,0
+507,鬼蛙护手Ｘ,Tetsucabra Guards X,mh4g-dex-build7+mh4edit-mit-save-id,8,0
+508,荒鬼蛙腕甲Ｚ,Tetsucabra Braces Z,mh4g-dex-build7+mh4edit-mit-save-id,8,0
+509,荒鬼蛙护手Ｚ,Tetsucabra Guards Z,mh4g-dex-build7+mh4edit-mit-save-id,8,0
+510,影蜘蛛腕甲Ｘ,Nerscylla Braces X,mh4g-dex-build7+mh4edit-mit-save-id,8,0
+511,影蜘蛛护手Ｘ,Nerscylla Guards X,mh4g-dex-build7+mh4edit-mit-save-id,8,0
+512,骸蜘蛛腕甲Ｚ,Nerscylla Braces Z,mh4g-dex-build7+mh4edit-mit-save-id,9,0
+513,骸蜘蛛护手Ｚ,Nerscylla Guards Z,mh4g-dex-build7+mh4edit-mit-save-id,9,0
+514,鬼鲛腕甲Ｘ,Zamtrios Braces X,mh4g-dex-build7+mh4edit-mit-save-id,8,0
+515,鬼鲛护手Ｘ,Zamtrios Guards X,mh4g-dex-build7+mh4edit-mit-save-id,8,0
+516,虎鲛腕甲Ｚ,Zamtrios Braces Z,mh4g-dex-build7+mh4edit-mit-save-id,8,0
+517,虎鲛护手Ｚ,Zamtrios Guards Z,mh4g-dex-build7+mh4edit-mit-save-id,8,0
+518,绞蛇龙腕甲Ｘ,Najarala Braces X,mh4g-dex-build7+mh4edit-mit-save-id,8,0
+519,绞蛇龙护手Ｘ,Najarala Guards X,mh4g-dex-build7+mh4edit-mit-save-id,8,0
+520,水蛇龙腕甲Ｚ,Najarala Braces Z,mh4g-dex-build7+mh4edit-mit-save-id,8,0
+521,水蛇龙护手Ｚ,Najarala Guards Z,mh4g-dex-build7+mh4edit-mit-save-id,8,0
+522,重甲虫腕甲Ｘ,Seltas Vambraces X,mh4g-dex-build7+mh4edit-mit-save-id,9,0
+523,重甲虫护手Ｘ,Seltas Guards X,mh4g-dex-build7+mh4edit-mit-save-id,9,0
+524,炮甲虫腕甲Ｚ,Seltas Vambraces Z,mh4g-dex-build7+mh4edit-mit-save-id,9,0
+525,炮甲虫护手Ｚ,Seltas Guards Z,mh4g-dex-build7+mh4edit-mit-save-id,9,0
+526,黑蚀龙腕甲Ｘ,Gore Braces X,mh4g-dex-build7+mh4edit-mit-save-id,9,0
+527,黑蚀龙护手Ｘ,Gore Guards X,mh4g-dex-build7+mh4edit-mit-save-id,9,0
+528,Gore Arms,Gore Arms,mh4edit-mit-save-id-en-fallback,0,0
+529,Gore Bands,Gore Bands,mh4edit-mit-save-id-en-fallback,0,0
+530,弧光腕甲Ｘ,Arc Vambraces X,mh4g-dex-build7+mh4edit-mit-save-id,10,0
+531,友爱腕甲Ｘ,Storge Vambraces X,mh4g-dex-build7+mh4edit-mit-save-id,10,0
+532,弧光护手Ｘ,Arc Guards X,mh4g-dex-build7+mh4edit-mit-save-id,10,0
+533,友爱护手Ｘ,Storge Guards X,mh4g-dex-build7+mh4edit-mit-save-id,10,0
+534,Arc Arms,Arc Arms,mh4edit-mit-save-id-en-fallback,0,0
+535,Storge Arms,Storge Arms,mh4edit-mit-save-id-en-fallback,0,0
+536,Arc Bands,Arc Bands,mh4edit-mit-save-id-en-fallback,0,0
+537,Storge Bands,Storge Bands,mh4edit-mit-save-id-en-fallback,0,0
+538,巨戟龙腕甲,Gogma Braces,mh4g-dex-build7+mh4edit-mit-save-id,10,0
+539,巨戟龙护手,Gogma Guards,mh4g-dex-build7+mh4edit-mit-save-id,10,0
+540,毒怪鸟腕甲Ｘ,Gypceros Vambraces X,mh4g-dex-build7+mh4edit-mit-save-id,8,0
+541,毒怪鸟护手Ｘ,Gypceros Guards X,mh4g-dex-build7+mh4edit-mit-save-id,8,0
+542,Gypceros Arms,Gypceros Arms,mh4edit-mit-save-id-en-fallback,0,0
+543,Gypceros Bands,Gypceros Bands,mh4edit-mit-save-id-en-fallback,0,0
+544,紫毒怪鸟腕甲Ｚ,Gypceros Vambraces Z,mh4g-dex-build7+mh4edit-mit-save-id,8,0
+545,紫毒怪鸟护手Ｚ,Gypceros Guards Z,mh4g-dex-build7+mh4edit-mit-save-id,8,0
+546,Gypceros Arms U,Gypceros Arms U,mh4edit-mit-save-id-en-fallback,0,0
+547,Gypceros Bands U,Gypceros Bands U,mh4edit-mit-save-id-en-fallback,0,0
+548,白兔兽腕甲Ｘ,Lagombi Vambraces X,mh4g-dex-build7+mh4edit-mit-save-id,8,0
+549,白兔兽护手Ｘ,Lagombi Guards X,mh4g-dex-build7+mh4edit-mit-save-id,8,0
+550,桃毛兽腕甲Ｘ,Conga Vambraces X,mh4g-dex-build7+mh4edit-mit-save-id,8,0
+551,桃毛兽护手Ｘ,Conga Guards X,mh4g-dex-build7+mh4edit-mit-save-id,8,0
+552,绿毛兽腕甲Ｚ,Conga Vambraces Z,mh4g-dex-build7+mh4edit-mit-save-id,8,0
+553,绿毛兽护手Ｚ,Conga Guards Z,mh4g-dex-build7+mh4edit-mit-save-id,8,0
+554,电龙腕甲Ｘ,Khezu Vambraces X,mh4g-dex-build7+mh4edit-mit-save-id,8,0
+555,电龙护手Ｘ,Khezu Guards X,mh4g-dex-build7+mh4edit-mit-save-id,8,0
+556,Khezu Arms,Khezu Arms,mh4edit-mit-save-id-en-fallback,0,0
+557,Khezu Bands,Khezu Bands,mh4edit-mit-save-id-en-fallback,0,0
+558,赤电龙腕甲Ｚ,Khezu Vambraces Z,mh4g-dex-build7+mh4edit-mit-save-id,8,0
+559,赤电龙护手Ｚ,Khezu Guards Z,mh4g-dex-build7+mh4edit-mit-save-id,8,0
+560,Khezu Arms U,Khezu Arms U,mh4edit-mit-save-id-en-fallback,0,0
+561,Khezu Bands U,Khezu Bands U,mh4edit-mit-save-id-en-fallback,0,0
+562,雌火龙腕甲Ｘ,Rathian Vambraces X,mh4g-dex-build7+mh4edit-mit-save-id,8,0
+563,雌火龙护手Ｘ,Rathian Guards X,mh4g-dex-build7+mh4edit-mit-save-id,8,0
+564,Rathian Arms,Rathian Arms,mh4edit-mit-save-id-en-fallback,0,0
+565,Rathian Bands,Rathian Bands,mh4edit-mit-save-id-en-fallback,0,0
+566,樱火龙腕甲Ｚ,Rath Heart Braces Z,mh4g-dex-build7+mh4edit-mit-save-id,8,0
+567,樱火龙护手Ｚ,Rath Heart Guards Z,mh4g-dex-build7+mh4edit-mit-save-id,8,0
+568,Rath Heart Arms,Rath Heart Arms,mh4edit-mit-save-id-en-fallback,0,0
+569,Rath Heart Bands,Rath Heart Bands,mh4edit-mit-save-id-en-fallback,0,0
+570,Ｇ・金火龙腕甲Ｚ,Golden Lunebraces Z,mh4g-dex-build7+mh4edit-mit-save-id,10,0
+571,Ｇ・金火龙护手Ｚ,Golden Luneguards Z,mh4g-dex-build7+mh4edit-mit-save-id,10,0
+572,雄火龙腕甲Ｘ,Rathalos Vambraces X,mh4g-dex-build7+mh4edit-mit-save-id,9,0
+573,雄火龙护手Ｘ,Rathalos Guards X,mh4g-dex-build7+mh4edit-mit-save-id,9,0
+574,Rathalos Arms,Rathalos Arms,mh4edit-mit-save-id-en-fallback,0,0
+575,Rathalos Bands,Rathalos Bands,mh4edit-mit-save-id-en-fallback,0,0
+576,苍火龙腕甲Ｚ,Rath Soul Braces Z,mh4g-dex-build7+mh4edit-mit-save-id,9,0
+577,苍火龙护手Ｚ,Rath Soul Guards Z,mh4g-dex-build7+mh4edit-mit-save-id,9,0
+578,Rath Soul Arms,Rath Soul Arms,mh4edit-mit-save-id-en-fallback,0,0
+579,Rath Soul Bands,Rath Soul Bands,mh4edit-mit-save-id-en-fallback,0,0
+580,Ｓ・银火龙腕甲Ｚ,Silver Solbraces Z,mh4g-dex-build7+mh4edit-mit-save-id,10,0
+581,Ｓ・银火龙护手Ｚ,Silver Solguards Z,mh4g-dex-build7+mh4edit-mit-save-id,10,0
+582,Silver Solarms,Silver Solarms,mh4edit-mit-save-id-en-fallback,0,0
+583,Silver Solbands,Silver Solbands,mh4edit-mit-save-id-en-fallback,0,0
+584,雷狼龙腕甲Ｘ,Zinogre Vambraces X,mh4g-dex-build7+mh4edit-mit-save-id,9,0
+585,雷狼龙护手Ｘ,Zinogre Guards X,mh4g-dex-build7+mh4edit-mit-save-id,9,0
+586,狱狼龙腕甲Ｚ,Zinogre Vambraces Z,mh4g-dex-build7+mh4edit-mit-save-id,9,0
+587,狱狼龙护手Ｚ,Zinogre Guards Z,mh4g-dex-build7+mh4edit-mit-save-id,9,0
+588,Zinogre Arms U,Zinogre Arms U,mh4edit-mit-save-id-en-fallback,0,0
+589,Zinogre Bands U,Zinogre Bands U,mh4edit-mit-save-id-en-fallback,0,0
+590,轰龙腕甲Ｘ,Tigrex Vambraces X,mh4g-dex-build7+mh4edit-mit-save-id,9,0
+591,轰龙护手Ｘ,Tigrex Guards X,mh4g-dex-build7+mh4edit-mit-save-id,9,0
+592,Tigrex Arms,Tigrex Arms,mh4edit-mit-save-id-en-fallback,0,0
+593,Tigrex Bands,Tigrex Bands,mh4edit-mit-save-id-en-fallback,0,0
+594,黑轰龙腕甲Ｚ,Tigrex Vambraces Z,mh4g-dex-build7+mh4edit-mit-save-id,9,0
+595,黑轰龙护手Ｚ,Tigrex Guards Z,mh4g-dex-build7+mh4edit-mit-save-id,9,0
+596,Tigrex Arms U,Tigrex Arms U,mh4edit-mit-save-id-en-fallback,0,0
+597,Tigrex Bands U,Tigrex Bands U,mh4edit-mit-save-id-en-fallback,0,0
+598,大轰龙腕甲Ｚ,Excello Vambraces Z,mh4g-dex-build7+mh4edit-mit-save-id,10,0
+599,大轰龙护手Ｚ,Excello Guards Z,mh4g-dex-build7+mh4edit-mit-save-id,10,0
+600,铠龙腕甲Ｘ,Gravios Vambraces X,mh4g-dex-build7+mh4edit-mit-save-id,9,0
+601,铠龙护手Ｘ,Gravios Guards X,mh4g-dex-build7+mh4edit-mit-save-id,9,0
+602,黑铠龙腕甲Ｚ,Gravios Vambraces Z,mh4g-dex-build7+mh4edit-mit-save-id,9,0
+603,黑铠龙护手Ｚ,Gravios Guards Z,mh4g-dex-build7+mh4edit-mit-save-id,9,0
+604,碎龙腕甲Ｘ,Brachydios Braces X,mh4g-dex-build7+mh4edit-mit-save-id,9,0
+605,碎龙护手Ｘ,Brachydios Guards X,mh4g-dex-build7+mh4edit-mit-save-id,9,0
+606,极限碎龙腕甲,Brachydium Vambraces,mh4g-dex-build7+mh4edit-mit-save-id,10,0
+607,极限碎龙护手,Brachydium Guards,mh4g-dex-build7+mh4edit-mit-save-id,10,0
+608,残阳・真【笼手】,Grand Gloaming Braces,mh4g-dex-build7+mh4edit-mit-save-id,10,0
+609,常磐・真【笼手】,Grand Adamance Braces,mh4g-dex-build7+mh4edit-mit-save-id,10,0
+610,东云・真【笼手】,Grand Dayspring Braces,mh4g-dex-build7+mh4edit-mit-save-id,10,0
+611,八千代・真【大袖】,Grand Epoch Sleeves,mh4g-dex-build7+mh4edit-mit-save-id,10,0
+612,Gloaming Redbraces,Gloaming Redbraces,mh4edit-mit-save-id-en-fallback,0,0
+613,Adamance Redbraces,Adamance Redbraces,mh4edit-mit-save-id-en-fallback,0,0
+614,Dayspring Redbraces,Dayspring Redbraces,mh4edit-mit-save-id-en-fallback,0,0
+615,Epoch Redbraces,Epoch Redbraces,mh4edit-mit-save-id-en-fallback,0,0
+616,恐暴龙腕甲Ｘ,Vangis Vambraces X,mh4g-dex-build7+mh4edit-mit-save-id,9,0
+617,恐暴龙护手Ｘ,Vangis Guards X,mh4g-dex-build7+mh4edit-mit-save-id,9,0
+618,贪婪腕甲Ｚ,Esurient Vambraces Z,mh4g-dex-build7+mh4edit-mit-save-id,10,0
+619,贪婪护手Ｚ,Esurient Guards Z,mh4g-dex-build7+mh4edit-mit-save-id,10,0
+620,Esurient Arms,Esurient Arms,mh4edit-mit-save-id-en-fallback,0,0
+621,Esurient Bands,Esurient Bands,mh4edit-mit-save-id-en-fallback,0,0
+622,炎王龙腕甲Ｘ,Kaiser Vambraces X,mh4g-dex-build7+mh4edit-mit-save-id,10,0
+623,炎王龙护手Ｘ,Kaiser Guards X,mh4g-dex-build7+mh4edit-mit-save-id,10,0
+624,霸龙护腕Ｘ,Akantor Claws X,mh4g-dex-build7+mh4edit-mit-save-id,10,0
+625,霸龙弓腕Ｘ,Akantor Gauntlets X,mh4g-dex-build7+mh4edit-mit-save-id,10,0
+626,Akantor Arms,Akantor Arms,mh4edit-mit-save-id-en-fallback,0,0
+627,Akantor Bands,Akantor Bands,mh4edit-mit-save-id-en-fallback,0,0
+628,EX煌黑龙之手,EX Escadora Armguards,mh4g-dex-build7+mh4edit-mit-save-id,10,0
+629,EX煌黑龙歌姬,EX Escadora Arma,mh4g-dex-build7+mh4edit-mit-save-id,10,0
+630,崩龙护腕Ｘ,Ukanlos Claws X,mh4g-dex-build7+mh4edit-mit-save-id,10,0
+631,崩龙弓腕Ｘ,Ukanlos Gauntlets X,mh4g-dex-build7+mh4edit-mit-save-id,10,0
+632,钢龙臂甲Ｘ,Kushala Grip X,mh4g-dex-build7+mh4edit-mit-save-id,10,0
+633,钢龙护手Ｘ,Kushala Embrace X,mh4g-dex-build7+mh4edit-mit-save-id,10,0
+634,Kushala Arms,Kushala Arms,mh4edit-mit-save-id-en-fallback,0,0
+635,Kushala Bands,Kushala Bands,mh4edit-mit-save-id-en-fallback,0,0
+636,锈钢龙臂甲,Kujula Grip,mh4g-dex-build7+mh4edit-mit-save-id,10,0
+637,锈钢龙护手,Kujula Embrace,mh4g-dex-build7+mh4edit-mit-save-id,10,0
+638,齐天的笼手・真,Grand God's Peer Arms,mh4g-dex-build7+mh4edit-mit-save-id,10,0
+639,仙师的笼手・真,Grand Hermit Arms,mh4g-dex-build7+mh4edit-mit-save-id,10,0
+640,怒天的笼手・真,Grand Divine Ire Kote,mh4g-dex-build7+mh4edit-mit-save-id,10,0
+641,心灭的笼手・真,Grand Crusher Braces,mh4g-dex-build7+mh4edit-mit-save-id,10,0
+642,逆乱腕甲Ｘ,Rebellion Vambraces X,mh4g-dex-build7+mh4edit-mit-save-id,10,0
+643,暴乱护手Ｘ,Riot Guards X,mh4g-dex-build7+mh4edit-mit-save-id,10,0
+644,Rebellion Arms,Rebellion Arms,mh4edit-mit-save-id-en-fallback,0,0
+645,Riot Bands,Riot Bands,mh4edit-mit-save-id-en-fallback,0,0
+646,逆乱腕甲Ｚ,Rebellion Vambraces Z,mh4g-dex-build7+mh4edit-mit-save-id,10,0
+647,暴乱护手Ｚ,Riot Guards Z,mh4g-dex-build7+mh4edit-mit-save-id,10,0
+648,砂龙腕甲Ｘ,Cephalos Vambraces X,mh4g-dex-build7+mh4edit-mit-save-id,8,0
+649,砂龙护手Ｘ,Cephalos Guards X,mh4g-dex-build7+mh4edit-mit-save-id,8,0
+650,盾蟹腕甲Ｘ,Hermitaur Braces X,mh4g-dex-build7+mh4edit-mit-save-id,8,0
+651,盾蟹护手Ｘ,Hermitaur Guards X,mh4g-dex-build7+mh4edit-mit-save-id,8,0
+652,Hermitaur Arms,Hermitaur Arms,mh4edit-mit-save-id-en-fallback,0,0
+653,Hermitaur Bands,Hermitaur Bands,mh4edit-mit-save-id-en-fallback,0,0
+654,紫盾蟹腕甲Ｚ,Hermitaur Braces Z,mh4g-dex-build7+mh4edit-mit-save-id,8,0
+655,紫盾蟹护手Ｚ,Hermitaur Guards Z,mh4g-dex-build7+mh4edit-mit-save-id,8,0
+656,一角龙腕甲Ｓ,Mono Vambraces S,mh4g-dex-build7+mh4edit-mit-save-id,5,0
+657,一角龙护手Ｓ,Mono Guards S,mh4g-dex-build7+mh4edit-mit-save-id,5,0
+658,一角龙腕甲Ｘ,Mono Vambraces X,mh4g-dex-build7+mh4edit-mit-save-id,9,0
+659,一角龙护手Ｘ,Mono Guards X,mh4g-dex-build7+mh4edit-mit-save-id,9,0
+660,Mono Vambraces,Mono Vambraces,mh4edit-mit-save-id-en-fallback,0,0
+661,Mono Guards,Mono Guards,mh4edit-mit-save-id-en-fallback,0,0
+662,Mono Arms,Mono Arms,mh4edit-mit-save-id-en-fallback,0,0
+663,Mono Bands,Mono Bands,mh4edit-mit-save-id-en-fallback,0,0
+664,白一角龙腕甲,Monodevil Vambraces,mh4g-dex-build7+mh4edit-mit-save-id,9,0
+665,白一角龙护手,Monodevil Guards,mh4g-dex-build7+mh4edit-mit-save-id,9,0
+666,白一角龙腕甲,Monodevil Vambraces,mh4g-dex-build7+mh4edit-mit-save-id,9,0
+667,白一角龙护手,Monodevil Guards,mh4g-dex-build7+mh4edit-mit-save-id,9,0
+668,Monodevil Arms,Monodevil Arms,mh4edit-mit-save-id-en-fallback,0,0
+669,Monodevil Bands,Monodevil Bands,mh4edit-mit-save-id-en-fallback,0,0
+670,角龙腕甲Ｘ,Diablos Vambraces X,mh4g-dex-build7+mh4edit-mit-save-id,9,0
+671,角龙护手Ｘ,Diablos Guards X,mh4g-dex-build7+mh4edit-mit-save-id,9,0
+672,角龙腕甲,Diablos Vambraces,mh4g-dex-build7+mh4edit-mit-save-id,3,0
+673,角龙护手,Diablos Guards,mh4g-dex-build7+mh4edit-mit-save-id,3,0
+674,Diablos Arms,Diablos Arms,mh4edit-mit-save-id-en-fallback,0,0
+675,Diablos Bands,Diablos Bands,mh4edit-mit-save-id-en-fallback,0,0
+676,黑角龙腕甲Ｚ,Diablos Vambraces Z,mh4g-dex-build7+mh4edit-mit-save-id,9,0
+677,黑角龙护手Ｚ,Diablos Guards Z,mh4g-dex-build7+mh4edit-mit-save-id,9,0
+678,恶龙炎爪Ｘ,Dragonclaws X,mh4g-dex-build7+mh4edit-mit-save-id,10,0
+679,恶龙炎拳Ｘ,Dragonfists X,mh4g-dex-build7+mh4edit-mit-save-id,10,0
+680,Dragonarms X,Dragonarms X,mh4edit-mit-save-id-en-fallback,0,0
+681,Dragonbands X,Dragonbands X,mh4edit-mit-save-id-en-fallback,0,0
+682,Fatalis Crimsonclaws Z,Fatalis Crimsonclaws Z,mh4edit-mit-save-id-en-fallback,0,0
+683,Fatalis Crimsonfists Z,Fatalis Crimsonfists Z,mh4edit-mit-save-id-en-fallback,0,0
+684,Fatalis Crimsonarms Z,Fatalis Crimsonarms Z,mh4edit-mit-save-id-en-fallback,0,0
+685,Fatalis Crimsonbands Z,Fatalis Crimsonbands Z,mh4edit-mit-save-id-en-fallback,0,0
+686,黑龙炎爪,Wrothclaws,mh4g-dex-build7+mh4edit-mit-save-id,10,0
+687,黑龙炎拳,Wrothfists,mh4g-dex-build7+mh4edit-mit-save-id,10,0
+688,祖龙炎爪,White Fatalis Claw,mh4g-dex-build7+mh4edit-mit-save-id,10,0
+689,祖龙炎拳,White Fatalis Fist,mh4g-dex-build7+mh4edit-mit-save-id,10,0
+690,罔象真【大袖】,Grand Mizuha Sleeves,mh4g-dex-build7+mh4edit-mit-save-id,10,0
+691,丰玉真【大袖】,Grand Cham Sleeves,mh4g-dex-build7+mh4edit-mit-save-id,10,0
+692,千刃龙腕甲Ｓ,Regios Vambraces S,mh4g-dex-build7+mh4edit-mit-save-id,6,0
+693,千刃龙护手Ｓ,Regios Guards S,mh4g-dex-build7+mh4edit-mit-save-id,6,0
+694,千刃龙腕甲Ｘ,Regios Vambraces X,mh4g-dex-build7+mh4edit-mit-save-id,9,0
+695,千刃龙护手Ｘ,Regios Guards X,mh4g-dex-build7+mh4edit-mit-save-id,9,0
+696,浑沌腕甲,Chaos Vambraces,mh4g-dex-build7+mh4edit-mit-save-id,9,0
+697,拿非利腕甲,Nephilim Vambraces,mh4g-dex-build7+mh4edit-mit-save-id,9,0
+698,浑沌护手,Chaos Guards,mh4g-dex-build7+mh4edit-mit-save-id,9,0
+699,拿非利护手,Nephilim Guards,mh4g-dex-build7+mh4edit-mit-save-id,9,0
+700,岩龙腕甲Ｘ,Basarios Vambraces X,mh4g-dex-build7+mh4edit-mit-save-id,8,0
+701,岩龙护手Ｘ,Basarios Guards X,mh4g-dex-build7+mh4edit-mit-save-id,8,0
+702,桃岩龙腕甲Ｚ,Basarios Vambraces Z,mh4g-dex-build7+mh4edit-mit-save-id,8,0
+703,桃岩龙护手Ｚ,Basarios Guards Z,mh4g-dex-build7+mh4edit-mit-save-id,8,0
+704,大怪鸟腕甲Ｘ,Kut-Ku Vambraces X,mh4g-dex-build7+mh4edit-mit-save-id,8,0
+705,大怪鸟护手Ｘ,Kut-Ku Guards X,mh4g-dex-build7+mh4edit-mit-save-id,8,0
+706,青怪鸟腕甲Ｚ,Kut-Ku Vambraces Z,mh4g-dex-build7+mh4edit-mit-save-id,8,0
+707,青怪鸟护手Ｚ,Kut-Ku Guards Z,mh4g-dex-build7+mh4edit-mit-save-id,8,0
+708,黑狼鸟腕甲Ｘ,Garuga Vambraces X,mh4g-dex-build7+mh4edit-mit-save-id,9,0
+709,黑狼鸟护手Ｘ,Garuga Guards X,mh4g-dex-build7+mh4edit-mit-save-id,9,0
+710,麒麟长臂Ｘ,Kirin Longarms X,mh4g-dex-build7+mh4edit-mit-save-id,10,0
+711,麒麟手套Ｘ,Kirin Gloves X,mh4g-dex-build7+mh4edit-mit-save-id,10,0
+712,Kirin Arms,Kirin Arms,mh4edit-mit-save-id-en-fallback,0,0
+713,Kirin Bands,Kirin Bands,mh4edit-mit-save-id-en-fallback,0,0
+714,冰麒麟长臂Ｚ,Kirin Longarms Z,mh4g-dex-build7+mh4edit-mit-save-id,10,0
+715,冰麒麟手套Ｚ,Kirin Gloves Z,mh4g-dex-build7+mh4edit-mit-save-id,10,0
+716,Kirin Arms U,Kirin Arms U,mh4edit-mit-save-id-en-fallback,0,0
+717,Kirin Bands U,Kirin Bands U,mh4edit-mit-save-id-en-fallback,0,0
+718,飞甲虫手套Ｘ,Bnahabra Gloves X,mh4g-dex-build7+mh4edit-mit-save-id,8,0
+719,飞甲虫长袖Ｘ,Bnahabra Sleeves X,mh4g-dex-build7+mh4edit-mit-save-id,8,0
+720,盾虫腕甲Ｘ,Konchu Vambraces X,mh4g-dex-build7+mh4edit-mit-save-id,8,0
+721,盾虫护手Ｘ,Konchu Guards X,mh4g-dex-build7+mh4edit-mit-save-id,8,0
+722,草食龙腕甲Ｘ,Rhenoplos Braces X,mh4g-dex-build7+mh4edit-mit-save-id,8,0
+723,草食龙护手Ｘ,Rhenoplos Guards X,mh4g-dex-build7+mh4edit-mit-save-id,8,0
+724,Hunter's Arms,Hunter's Arms,mh4edit-mit-save-id-en-fallback,0,0
+725,Hunter's Bands,Hunter's Bands,mh4edit-mit-save-id-en-fallback,0,0
+726,Alloy Arms,Alloy Arms,mh4edit-mit-save-id-en-fallback,0,0
+727,Alloy Bands,Alloy Bands,mh4edit-mit-save-id-en-fallback,0,0
+728,神秘腕甲Ｘ,Artian Vambraces X,mh4g-dex-build7+mh4edit-mit-save-id,9,0
+729,神秘护手Ｘ,Artian Guards X,mh4g-dex-build7+mh4edit-mit-save-id,9,0
+730,Arc Arms S,Arc Arms S,mh4edit-mit-save-id-en-fallback,0,0
+731,Arc Bands S,Arc Bands S,mh4edit-mit-save-id-en-fallback,0,0
+732,Ingot Arms,Ingot Arms,mh4edit-mit-save-id-en-fallback,0,0
+733,Ingot Bands,Ingot Bands,mh4edit-mit-save-id-en-fallback,0,0
+734,守护者腕甲Ｘ,Guardian Vambraces X,mh4g-dex-build7+mh4edit-mit-save-id,8,0
+735,女佣长袖Ｘ,Helper Sleeves X,mh4g-dex-build7+mh4edit-mit-save-id,8,0
+736,守护者护手Ｘ,Guardian Guards X,mh4g-dex-build7+mh4edit-mit-save-id,8,0
+737,护士长袖Ｘ,Healer Sleeves X,mh4g-dex-build7+mh4edit-mit-save-id,8,0
+738,守护者腕甲Ｚ,Guardian Vambraces Z,mh4g-dex-build7+mh4edit-mit-save-id,9,0
+739,女佣长袖Ｚ,Helper Sleeves Z,mh4g-dex-build7+mh4edit-mit-save-id,9,0
+740,守护者护手Ｚ,Guardian Guards Z,mh4g-dex-build7+mh4edit-mit-save-id,9,0
+741,护士长袖Ｚ,Healer Sleeves Z,mh4g-dex-build7+mh4edit-mit-save-id,9,0
+742,G骑士装手套Ｘ,G. Knight Gloves X,mh4g-dex-build7+mh4edit-mit-save-id,9,0
+743,女仆装手套Ｘ,Maiden's Gloves X,mh4g-dex-build7+mh4edit-mit-save-id,9,0
+744,G骑士装长袖Ｘ,G. Knight Sleeves X,mh4g-dex-build7+mh4edit-mit-save-id,9,0
+745,私密装长袖Ｘ,Exclusive Sleeves X,mh4g-dex-build7+mh4edit-mit-save-id,9,0
+746,首领腕甲,Ace Vambraces,mh4g-dex-build7+mh4edit-mit-save-id,9,0
+747,女王腕甲,Sororal Vambraces,mh4g-dex-build7+mh4edit-mit-save-id,9,0
+748,首领护手,Ace Guards,mh4g-dex-build7+mh4edit-mit-save-id,9,0
+749,女王护手,Sororal Guards,mh4g-dex-build7+mh4edit-mit-save-id,9,0
+750,Ceanataur Arms,Ceanataur Arms,mh4edit-mit-save-id-en-fallback,0,0
+751,Ceanataur Bands,Ceanataur Bands,mh4edit-mit-save-id-en-fallback,0,0
+752,Lagiacrus Arms,Lagiacrus Arms,mh4edit-mit-save-id-en-fallback,0,0
+753,Lagiacrus Bands,Lagiacrus Bands,mh4edit-mit-save-id-en-fallback,0,0
+754,Escadora Arms,Escadora Arms,mh4edit-mit-save-id-en-fallback,0,0
+755,Escadora Bands,Escadora Bands,mh4edit-mit-save-id-en-fallback,0,0
+756,Auroros Kermes Cuffs,Auroros Kermes Cuffs,mh4edit-mit-save-id-en-fallback,0,0
+757,Borealis Woad Cuffs,Borealis Woad Cuffs,mh4edit-mit-save-id-en-fallback,0,0
+758,Genesis Kermes Cuffs,Genesis Kermes Cuffs,mh4edit-mit-save-id-en-fallback,0,0
+759,Glyph Woad Cuffs,Glyph Woad Cuffs,mh4edit-mit-save-id-en-fallback,0,0
+760,Ludroth Arms,Ludroth Arms,mh4edit-mit-save-id-en-fallback,0,0
+761,Ludroth Bands,Ludroth Bands,mh4edit-mit-save-id-en-fallback,0,0
+762,Hornet Vambraces,Hornet Vambraces,mh4edit-mit-save-id-en-fallback,0,0
+763,Hornet Guards,Hornet Guards,mh4edit-mit-save-id-en-fallback,0,0
+764,Hornet Arms,Hornet Arms,mh4edit-mit-save-id-en-fallback,0,0
+765,Hornet Bands,Hornet Bands,mh4edit-mit-save-id-en-fallback,0,0
+766,Wroggi Vambraces,Wroggi Vambraces,mh4edit-mit-save-id-en-fallback,0,0
+767,Wroggi Guards,Wroggi Guards,mh4edit-mit-save-id-en-fallback,0,0
+768,Wroggi Arms,Wroggi Arms,mh4edit-mit-save-id-en-fallback,0,0
+769,Wroggi Bands,Wroggi Bands,mh4edit-mit-save-id-en-fallback,0,0
+770,Gigginox Vambraces,Gigginox Vambraces,mh4edit-mit-save-id-en-fallback,0,0
+771,Gigginox Guards,Gigginox Guards,mh4edit-mit-save-id-en-fallback,0,0
+772,Gigginox Arms,Gigginox Arms,mh4edit-mit-save-id-en-fallback,0,0
+773,Gigginox Bands,Gigginox Bands,mh4edit-mit-save-id-en-fallback,0,0
+774,荒天【袴】,Tempest Sleeves,mh4g-dex-build7+mh4edit-mit-save-id,10,0
+775,苍天【袴】,Welkin Sleeves,mh4g-dex-build7+mh4edit-mit-save-id,10,0
+776,Tempest Trails,Tempest Trails,mh4edit-mit-save-id-en-fallback,0,0
+777,Welkin Trails,Welkin Trails,mh4edit-mit-save-id-en-fallback,0,0
+778,Death Stench Grip,Death Stench Grip,mh4edit-mit-save-id-en-fallback,0,0
+779,Death Stench Grasp,Death Stench Grasp,mh4edit-mit-save-id-en-fallback,0,0
+780,Death Stench Arms,Death Stench Arms,mh4edit-mit-save-id-en-fallback,0,0
+781,Death Stench Bands,Death Stench Bands,mh4edit-mit-save-id-en-fallback,0,0
+782,Damascus Vambraces,Damascus Vambraces,mh4edit-mit-save-id-en-fallback,0,0
+783,Damascus Guards,Damascus Guards,mh4edit-mit-save-id-en-fallback,0,0
+784,Damascus Arms,Damascus Arms,mh4edit-mit-save-id-en-fallback,0,0
+785,Damascus Bands,Damascus Bands,mh4edit-mit-save-id-en-fallback,0,0
+786,海龙腕甲Ｘ,Lagiacrus Braces X,mh4g-dex-build7+mh4edit-mit-save-id,9,0
+787,海龙护手Ｘ,Lagiacrus Guards X,mh4g-dex-build7+mh4edit-mit-save-id,9,0
+788,迅龙腕甲Ｘ,Nargacuga Braces X,mh4g-dex-build7+mh4edit-mit-save-id,9,0
+789,迅龙护手Ｘ,Nargacuga Guards X,mh4g-dex-build7+mh4edit-mit-save-id,9,0
+790,炎妃龙腕甲Ｘ,Empress Vambraces X,mh4g-dex-build7+mh4edit-mit-save-id,10,0
+791,炎妃龙护手Ｘ,Empress Guards X,mh4g-dex-build7+mh4edit-mit-save-id,10,0
+792,太阳神腕甲Ｘ,Helios Vambraces X,mh4g-dex-build7+mh4edit-mit-save-id,10,0
+793,月神腕甲Ｘ,Selene Vambraces X,mh4g-dex-build7+mh4edit-mit-save-id,10,0
+794,太阳神护手Ｘ,Helios Guards X,mh4g-dex-build7+mh4edit-mit-save-id,10,0
+795,月神护手Ｘ,Selene Guards X,mh4g-dex-build7+mh4edit-mit-save-id,10,0
+796,炎戈龙腕甲Ｘ,Agnaktor Vambraces X,mh4g-dex-build7+mh4edit-mit-save-id,8,0
+797,炎戈龙护手Ｘ,Agnaktor Guards X,mh4g-dex-build7+mh4edit-mit-save-id,8,0
+798,彩鸟腕甲Ｘ,Qurupeco Vambraces X,mh4g-dex-build7+mh4edit-mit-save-id,8,0
+799,彩鸟护手Ｘ,Qurupeco Guards X,mh4g-dex-build7+mh4edit-mit-save-id,8,0
+800,灯鱼龙腕甲Ｘ,Gobul Vambraces X,mh4g-dex-build7+mh4edit-mit-save-id,8,0
+801,灯鱼龙护手Ｘ,Gobul Guards X,mh4g-dex-build7+mh4edit-mit-save-id,8,0
+802,冰牙龙腕甲Ｘ,Barioth Vambraces X,mh4g-dex-build7+mh4edit-mit-save-id,8,0
+803,冰牙龙护手Ｘ,Barioth Guards X,mh4g-dex-build7+mh4edit-mit-save-id,8,0
+804,土砂龙腕甲Ｘ,Barroth Vambraces X,mh4g-dex-build7+mh4edit-mit-save-id,8,0
+805,土砂龙护手Ｘ,Barroth Guards X,mh4g-dex-build7+mh4edit-mit-save-id,8,0
+806,潜口龙腕甲Ｘ,Nibelsnarf Braces X,mh4g-dex-build7+mh4edit-mit-save-id,8,0
+807,潜口龙护手Ｘ,Nibelsnarf Guards X,mh4g-dex-build7+mh4edit-mit-save-id,8,0
+808,尾槌龙腕甲Ｘ,Duramboros Braces X,mh4g-dex-build7+mh4edit-mit-save-id,9,0
+809,尾槌龙护手Ｘ,Duramboros Guards X,mh4g-dex-build7+mh4edit-mit-save-id,9,0
+810,溶岩龙腕甲Ｘ,Lava Vambraces X,mh4g-dex-build7+mh4edit-mit-save-id,9,0
+811,溶岩龙护手Ｘ,Lava Guards X,mh4g-dex-build7+mh4edit-mit-save-id,9,0
+812,大和・真【笼手】,Grand Yamato Kote,mh4g-dex-build7+mh4edit-mit-save-id,10,0
+813,日向・真【笼手】,Grand Hyuga Kote,mh4g-dex-build7+mh4edit-mit-save-id,10,0
+814,陆奥・真【笼手】,Grand Mutsu Kote,mh4g-dex-build7+mh4edit-mit-save-id,10,0
+815,天成・真【笼手】,Grand Amagi Kote,mh4g-dex-build7+mh4edit-mit-save-id,10,0
+816,夜叉・真【御手】,Grand Yaksha Braces,mh4g-dex-build7+mh4edit-mit-save-id,10,0
+817,修罗・真【御手】,Grand Carnage Braces,mh4g-dex-build7+mh4edit-mit-save-id,10,0
+818,炼黑龙炎爪,Miralis Grievers,mh4g-dex-build7+mh4edit-mit-save-id,10,0
+819,炼黑龙炎拳,Miralis Clouts,mh4g-dex-build7+mh4edit-mit-save-id,10,0
+820,翠水龙腕甲Ｚ,Plesioth Vambraces Z,mh4g-dex-build7+mh4edit-mit-save-id,8,0
+821,翠水龙护手Ｚ,Plesioth Guards Z,mh4g-dex-build7+mh4edit-mit-save-id,8,0
+822,北辰【长袖】,Kita Star Sleeves,mh4g-dex-build7+mh4edit-mit-save-id,8,0
+823,海渊【长袖】,Umi Ocean Sleeves,mh4g-dex-build7+mh4edit-mit-save-id,8,0
+824,厨师袖子,Patissier's Gloves,mh4g-dex-build7+mh4edit-mit-save-id,7,0
+825,厨师护手,Patissier's Mitts,mh4g-dex-build7+mh4edit-mit-save-id,7,0
+826,矿石腕甲Ｓ,High Metal Vambraces S,mh4g-dex-build7+mh4edit-mit-save-id,5,0
+827,矿石护手Ｓ,High Metal Guards S,mh4g-dex-build7+mh4edit-mit-save-id,5,0
+828,锹虫腕甲Ｘ,Aelucanth Brachia X,mh4g-dex-build7+mh4edit-mit-save-id,8,0
+829,蝴蝶腕甲Ｘ,Rhopessa Brachia X,mh4g-dex-build7+mh4edit-mit-save-id,8,0
+830,锹虫护手Ｘ,Aelucanth Manus X,mh4g-dex-build7+mh4edit-mit-save-id,8,0
+831,蝴蝶护手Ｘ,Rhopessa Manus X,mh4g-dex-build7+mh4edit-mit-save-id,8,0
+832,独角仙腕甲Ｘ,Obituary Brachia X,mh4g-dex-build7+mh4edit-mit-save-id,8,0
+833,彩蝶腕甲Ｘ,Butterfly Brachia X,mh4g-dex-build7+mh4edit-mit-save-id,8,0
+834,独角仙护手Ｘ,Obituary Manus X,mh4g-dex-build7+mh4edit-mit-save-id,8,0
+835,彩蝶护手Ｘ,Butterfly Manus X,mh4g-dex-build7+mh4edit-mit-save-id,8,0
+836,EX晓丸【笼手】,EX Auroros Gauntlets,mh4g-dex-build7+mh4edit-mit-save-id,10,0
+837,EX凛【笼手】,EX Borealis Gauntlets,mh4g-dex-build7+mh4edit-mit-save-id,10,0
+838,EX曙丸【笼手】,EX Genesis Gauntlets,mh4g-dex-build7+mh4edit-mit-save-id,10,0
+839,EX妖艳【笼手】,EX Glyph Gauntlets,mh4g-dex-build7+mh4edit-mit-save-id,10,0
+840,荒天【袴】,Tempest Sleeves,mh4g-dex-build7+mh4edit-mit-save-id,10,0
+841,苍天【袴】,Welkin Sleeves,mh4g-dex-build7+mh4edit-mit-save-id,10,0
+842,GX Escadora Arms,GX Escadora Arms,mh4edit-mit-save-id-en-fallback,0,0
+843,GX Escadora Bands,GX Escadora Bands,mh4edit-mit-save-id-en-fallback,0,0
+844,GX Dragonarms X,GX Dragonarms X,mh4edit-mit-save-id-en-fallback,0,0
+845,GX Dragonbands X,GX Dragonbands X,mh4edit-mit-save-id-en-fallback,0,0
+846,星骑士腕甲,Star Knight Vambraces,mh4g-dex-build7+mh4edit-mit-save-id,10,0
+847,星骑士护手,Star Knight Guards,mh4g-dex-build7+mh4edit-mit-save-id,10,0
+848,【美】愤怒腕甲,Braces of Rage,mh4g-dex-build7+mh4edit-mit-save-id,10,0
+849,【美】愤怒护手,Guards of Rage,mh4g-dex-build7+mh4edit-mit-save-id,10,0
+850,屏障装护手,Varia Suit Guards,mh4g-dex-build7+mh4edit-mit-save-id,10,0
+851,【美】零式装手套,Zero Suit Gloves,mh4g-dex-build7+mh4edit-mit-save-id,10,0
+852,屏障装盾牌,Varia Suit Shield,mh4g-dex-build7+mh4edit-mit-save-id,10,0
+853,【美】零式装之手,Zero Suit Hands,mh4g-dex-build7+mh4edit-mit-save-id,10,0
+854,屏障装护手,Varia Suit Guards,mh4g-dex-build7+mh4edit-mit-save-id,10,0
+855,【美】零式装手套,Zero Suit Gloves,mh4g-dex-build7+mh4edit-mit-save-id,10,0
+856,屏障装盾牌,Varia Suit Shield,mh4g-dex-build7+mh4edit-mit-save-id,10,0
+857,【美】零式装之手,Zero Suit Hands,mh4g-dex-build7+mh4edit-mit-save-id,10,0
+858,DUMMY,DUMMY,mh4edit-mit-save-id-en-fallback,0,0
+859,DUMMY,DUMMY,mh4edit-mit-save-id-en-fallback,0,0
+860,团长腕甲Ｘ,Hawkbraces X,mh4g-dex-build7+mh4edit-mit-save-id,9,0
+861,看板娘腕甲Ｘ,Lecturer's Braces X,mh4g-dex-build7+mh4edit-mit-save-id,9,0
+862,团长护手Ｘ,Hawkguards X,mh4g-dex-build7+mh4edit-mit-save-id,9,0
+863,看板娘护手Ｘ,Lecturer's Guards X,mh4g-dex-build7+mh4edit-mit-save-id,9,0
+864,GX猎人防具,GX Hunter's Arms,mh4g-dex-build7+mh4edit-mit-save-id,10,0
+865,GX猎人护手,GX Hunter's Bands,mh4g-dex-build7+mh4edit-mit-save-id,10,0
+866,GX贪婪防具,GX Esurient Arms,mh4g-dex-build7+mh4edit-mit-save-id,10,0
+867,GX贪婪护手,GX Esurient Bands,mh4g-dex-build7+mh4edit-mit-save-id,10,0
+868,GX荒天【羽袂】,GX Tempest Trails,mh4g-dex-build7+mh4edit-mit-save-id,10,0
+869,GX苍天【羽袂】,GX Welkin Trails,mh4g-dex-build7+mh4edit-mit-save-id,10,0
+870,GX红黑龙防具Ｚ,GX Fatalis Crimsonarms,mh4g-dex-build7+mh4edit-mit-save-id,10,0
+871,GX红黑龙护手Ｚ,GX Fatalis Crimsonbands,mh4g-dex-build7+mh4edit-mit-save-id,10,0
+872,猎人腕甲,Hunter's Vambraces,mh4g-dex-build7+mh4edit-mit-save-id,1,0
+873,猎人护手,Hunter's Guards,mh4g-dex-build7+mh4edit-mit-save-id,1,0
+874,猎人腕甲,Hunter's Vambraces,mh4g-dex-build7+mh4edit-mit-save-id,1,0
+875,猎人护手,Hunter's Guards,mh4g-dex-build7+mh4edit-mit-save-id,1,0
+876,水兽腕甲,Ludroth Vambraces,mh4g-dex-build7+mh4edit-mit-save-id,2,0
+877,水兽护手,Ludroth Guards,mh4g-dex-build7+mh4edit-mit-save-id,2,0
+878,水兽腕甲,Ludroth Vambraces,mh4g-dex-build7+mh4edit-mit-save-id,2,0
+879,水兽护手,Ludroth Guards,mh4g-dex-build7+mh4edit-mit-save-id,2,0
+880,合金腕甲,Alloy Vambraces,mh4g-dex-build7+mh4edit-mit-save-id,1,0
+881,合金护手,Alloy Guards,mh4g-dex-build7+mh4edit-mit-save-id,1,0
+882,合金腕甲,Alloy Vambraces,mh4g-dex-build7+mh4edit-mit-save-id,1,0
+883,合金护手,Alloy Guards,mh4g-dex-build7+mh4edit-mit-save-id,1,0
+884,毒怪鸟腕甲,Gypceros Vambraces,mh4g-dex-build7+mh4edit-mit-save-id,2,0
+885,毒怪鸟护手,Gypceros Guards,mh4g-dex-build7+mh4edit-mit-save-id,2,0
+886,毒怪鸟腕甲,Gypceros Vambraces,mh4g-dex-build7+mh4edit-mit-save-id,2,0
+887,毒怪鸟护手,Gypceros Guards,mh4g-dex-build7+mh4edit-mit-save-id,2,0
+888,电龙腕甲,Khezu Vambraces,mh4g-dex-build7+mh4edit-mit-save-id,2,0
+889,电龙护手,Khezu Guards,mh4g-dex-build7+mh4edit-mit-save-id,2,0
+890,电龙腕甲,Khezu Vambraces,mh4g-dex-build7+mh4edit-mit-save-id,2,0
+891,电龙护手,Khezu Guards,mh4g-dex-build7+mh4edit-mit-save-id,2,0
+892,铸锭腕甲,Ingot Vambraces,mh4g-dex-build7+mh4edit-mit-save-id,3,0
+893,铸锭护手,Ingot Guards,mh4g-dex-build7+mh4edit-mit-save-id,3,0
+894,铸锭腕甲,Ingot Vambraces,mh4g-dex-build7+mh4edit-mit-save-id,3,0
+895,铸锭护手,Ingot Guards,mh4g-dex-build7+mh4edit-mit-save-id,3,0
+896,雌火龙腕甲,Rathian Vambraces,mh4g-dex-build7+mh4edit-mit-save-id,2,0
+897,雌火龙护手,Rathian Guards,mh4g-dex-build7+mh4edit-mit-save-id,2,0
+898,海龙腕甲,Lagiacrus Braces,mh4g-dex-build7+mh4edit-mit-save-id,6,0
+899,海龙护手,Lagiacrus Guards,mh4g-dex-build7+mh4edit-mit-save-id,6,0
+900,雄火龙腕甲,Rathalos Vambraces,mh4g-dex-build7+mh4edit-mit-save-id,3,0
+901,雄火龙护手,Rathalos Guards,mh4g-dex-build7+mh4edit-mit-save-id,3,0
+902,紫毒怪鸟腕甲Ｕ,Gypceros Vambraces U,mh4g-dex-build7+mh4edit-mit-save-id,6,0
+903,紫毒怪鸟护手Ｕ,Gypceros Guards U,mh4g-dex-build7+mh4edit-mit-save-id,6,0
+904,赤电龙腕甲Ｕ,Khezu Vambraces U,mh4g-dex-build7+mh4edit-mit-save-id,6,0
+905,赤电龙护手Ｕ,Khezu Guards U,mh4g-dex-build7+mh4edit-mit-save-id,6,0
+906,轰龙腕甲,Tigrex Vambraces,mh4g-dex-build7+mh4edit-mit-save-id,3,0
+907,轰龙护手,Tigrex Guards,mh4g-dex-build7+mh4edit-mit-save-id,3,0
+908,麒麟长臂,Kirin Longarms,mh4g-dex-build7+mh4edit-mit-save-id,3,0
+909,麒麟手套,Kirin Gloves,mh4g-dex-build7+mh4edit-mit-save-id,3,0
+910,麒麟长臂,Kirin Longarms,mh4g-dex-build7+mh4edit-mit-save-id,3,0
+911,麒麟手套,Kirin Gloves,mh4g-dex-build7+mh4edit-mit-save-id,3,0
+912,神秘腕甲Ｓ,Artian Vambraces S,mh4g-dex-build7+mh4edit-mit-save-id,5,0
+913,神秘护手Ｓ,Artian Guards S,mh4g-dex-build7+mh4edit-mit-save-id,5,0
+914,镰蟹腕甲,Ceanataur Braces,mh4g-dex-build7+mh4edit-mit-save-id,2,0
+915,镰蟹护手,Ceanataur Guards,mh4g-dex-build7+mh4edit-mit-save-id,2,0
+916,镰蟹腕甲,Ceanataur Braces,mh4g-dex-build7+mh4edit-mit-save-id,2,0
+917,镰蟹护手,Ceanataur Guards,mh4g-dex-build7+mh4edit-mit-save-id,2,0
+918,残阳【笼手】,Gloaming Braces,mh4g-dex-build7+mh4edit-mit-save-id,3,0
+919,东云【笼手】,Dayspring Braces,mh4g-dex-build7+mh4edit-mit-save-id,3,0
+920,常磐【笼手】,Adamance Braces,mh4g-dex-build7+mh4edit-mit-save-id,3,0
+921,八千代【笼手】,Epoch Braces,mh4g-dex-build7+mh4edit-mit-save-id,3,0
+922,狱狼龙腕甲Ｕ,Zinogre Vambraces U,mh4g-dex-build7+mh4edit-mit-save-id,6,0
+923,狱狼龙护手Ｕ,Zinogre Guards U,mh4g-dex-build7+mh4edit-mit-save-id,6,0
+924,黑轰龙腕甲Ｕ,Tigrex Vambraces U,mh4g-dex-build7+mh4edit-mit-save-id,6,0
+925,黑轰龙护手Ｕ,Tigrex Guards U,mh4g-dex-build7+mh4edit-mit-save-id,6,0
+926,黑蚀龙腕甲,Gore Braces,mh4g-dex-build7+mh4edit-mit-save-id,3,0
+927,黑蚀龙护手,Gore Guards,mh4g-dex-build7+mh4edit-mit-save-id,3,0
+928,晓丸【笼手】,Auroros Gauntlets,mh4g-dex-build7+mh4edit-mit-save-id,3,0
+929,曙丸【笼手】,Genesis Gauntlets,mh4g-dex-build7+mh4edit-mit-save-id,3,0
+930,凛【笼手】,Borealis Gauntlets,mh4g-dex-build7+mh4edit-mit-save-id,3,0
+931,妖艳【笼手】,Glyph Gauntlets,mh4g-dex-build7+mh4edit-mit-save-id,3,0
+932,冰麒麟腕甲Ｕ,Kirin Longarms U,mh4g-dex-build7+mh4edit-mit-save-id,7,0
+933,冰麒麟手套Ｕ,Kirin Gloves U,mh4g-dex-build7+mh4edit-mit-save-id,7,0
+934,冰麒麟腕甲Ｕ,Kirin Longarms U,mh4g-dex-build7+mh4edit-mit-save-id,7,0
+935,冰麒麟手套Ｕ,Kirin Gloves U,mh4g-dex-build7+mh4edit-mit-save-id,7,0
+936,贪婪腕甲,Esurient Vambraces,mh4g-dex-build7+mh4edit-mit-save-id,7,0
+937,贪婪护手,Esurient Guards,mh4g-dex-build7+mh4edit-mit-save-id,7,0
+938,Monoblos Vambraces,Monoblos Vambraces,mh4edit-mit-save-id-en-fallback,0,0
+939,Monoblos Guards,Monoblos Guards,mh4edit-mit-save-id-en-fallback,0,0
+940,Hornet Vambraces,Hornet Vambraces,mh4edit-mit-save-id-en-fallback,0,0
+941,Hornet Guards,Hornet Guards,mh4edit-mit-save-id-en-fallback,0,0
+942,Wroggi Vambraces,Wroggi Vambraces,mh4edit-mit-save-id-en-fallback,0,0
+943,Wroggi Guards,Wroggi Guards,mh4edit-mit-save-id-en-fallback,0,0
+944,白一角龙腕甲,Monodevil Vambraces,mh4g-dex-build7+mh4edit-mit-save-id,9,0
+945,白一角龙护手,Monodevil Guards,mh4g-dex-build7+mh4edit-mit-save-id,9,0
+946,角龙腕甲,Diablos Vambraces,mh4g-dex-build7+mh4edit-mit-save-id,3,0
+947,角龙护手,Diablos Guards,mh4g-dex-build7+mh4edit-mit-save-id,3,0
+948,Gigginox Vambraces,Gigginox Vambraces,mh4edit-mit-save-id-en-fallback,0,0
+949,Gigginox Guards,Gigginox Guards,mh4edit-mit-save-id-en-fallback,0,0
+950,Death Stench Grip,Death Stench Grip,mh4edit-mit-save-id-en-fallback,0,0
+951,Death Stench Grasp,Death Stench Grasp,mh4edit-mit-save-id-en-fallback,0,0
+952,Damascus Vambraces,Damascus Vambraces,mh4edit-mit-save-id-en-fallback,0,0
+953,Damascus Guards,Damascus Guards,mh4edit-mit-save-id-en-fallback,0,0
+954,DUMMY,DUMMY,mh4edit-mit-save-id-en-fallback,0,0
+955,DUMMY,DUMMY,mh4edit-mit-save-id-en-fallback,0,0

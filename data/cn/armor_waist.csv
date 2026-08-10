@@ -1,0 +1,954 @@
+id,name,english,source,rarity,is_relic
+0,无,None,mh4g-save-format,0,0
+1,猎人腿甲Ｓ,Hunter's Faulds S,mh4g-dex-build7+mh4edit-mit-save-id,4,0
+2,猎人裙甲Ｓ,Hunter's Coat S,mh4g-dex-build7+mh4edit-mit-save-id,4,0
+3,猎人腿甲,Hunter's Faulds,mh4g-dex-build7+mh4edit-mit-save-id,1,0
+4,猎人裙甲,Hunter's Coat,mh4g-dex-build7+mh4edit-mit-save-id,1,0
+5,骨制腿甲,Bone Faulds,mh4g-dex-build7+mh4edit-mit-save-id,1,0
+6,骨制裙甲,Bone Coat,mh4g-dex-build7+mh4edit-mit-save-id,1,0
+7,骨制腿甲Ｓ,Bone Faulds S,mh4g-dex-build7+mh4edit-mit-save-id,4,0
+8,骨制裙甲Ｓ,Bone Coat S,mh4g-dex-build7+mh4edit-mit-save-id,4,0
+9,合金腿甲,Alloy Coil,mh4g-dex-build7+mh4edit-mit-save-id,1,0
+10,合金裙甲,Alloy Coat,mh4g-dex-build7+mh4edit-mit-save-id,1,0
+11,合金腿甲Ｓ,Alloy Coil S,mh4g-dex-build7+mh4edit-mit-save-id,4,0
+12,合金裙甲Ｓ,Alloy Coat S,mh4g-dex-build7+mh4edit-mit-save-id,4,0
+13,合金腿甲,Alloy Coil,mh4g-dex-build7+mh4edit-mit-save-id,1,0
+14,合金裙甲,Alloy Coat,mh4g-dex-build7+mh4edit-mit-save-id,1,0
+15,狗龙腿甲,Jaggi Faulds,mh4g-dex-build7+mh4edit-mit-save-id,2,0
+16,狗龙裙甲,Jaggi Coat,mh4g-dex-build7+mh4edit-mit-save-id,2,0
+17,狗龙腿甲Ｓ,Jaggi Faulds S,mh4g-dex-build7+mh4edit-mit-save-id,4,0
+18,狗龙裙甲Ｓ,Jaggi Coat S,mh4g-dex-build7+mh4edit-mit-save-id,4,0
+19,洛克拉克腿甲,Loc Lac Kilt,mh4g-dex-build7+mh4edit-mit-save-id,1,0
+20,水兽腿甲,Ludroth Faulds,mh4g-dex-build7+mh4edit-mit-save-id,2,0
+21,水兽裙甲,Ludroth Coat,mh4g-dex-build7+mh4edit-mit-save-id,2,0
+22,水兽腿甲,Ludroth Faulds,mh4g-dex-build7+mh4edit-mit-save-id,2,0
+23,水兽裙甲,Ludroth Coat,mh4g-dex-build7+mh4edit-mit-save-id,2,0
+24,草食龙腿甲,Rhenoplos Coil,mh4g-dex-build7+mh4edit-mit-save-id,2,0
+25,草食龙裙甲,Rhenoplos Coat,mh4g-dex-build7+mh4edit-mit-save-id,2,0
+26,草食龙腿甲Ｓ,Rhenoplos Coil S,mh4g-dex-build7+mh4edit-mit-save-id,4,0
+27,草食龙裙甲Ｓ,Rhenoplos Coat S,mh4g-dex-build7+mh4edit-mit-save-id,4,0
+28,飞甲虫腿甲,Bnahabra Coil,mh4g-dex-build7+mh4edit-mit-save-id,2,0
+29,飞甲虫裙甲,Bnahabra Coat,mh4g-dex-build7+mh4edit-mit-save-id,2,0
+30,飞甲虫腿甲Ｓ,Bnahabra Coil S,mh4g-dex-build7+mh4edit-mit-save-id,4,0
+31,飞甲虫裙甲Ｓ,Bnahabra Coat S,mh4g-dex-build7+mh4edit-mit-save-id,4,0
+32,土砂龙腿甲,Barroth Faulds,mh4g-dex-build7+mh4edit-mit-save-id,2,0
+33,土砂龙裙甲,Barroth Coat,mh4g-dex-build7+mh4edit-mit-save-id,2,0
+34,雌火龙腿甲,Rathian Faulds,mh4g-dex-build7+mh4edit-mit-save-id,2,0
+35,雌火龙裙甲,Rathian Coat,mh4g-dex-build7+mh4edit-mit-save-id,2,0
+36,雌火龙腿甲Ｓ,Rathian Faulds S,mh4g-dex-build7+mh4edit-mit-save-id,5,0
+37,雌火龙裙甲Ｓ,Rathian Coat S,mh4g-dex-build7+mh4edit-mit-save-id,5,0
+38,樱火龙腿甲,Rath Heart Coil,mh4g-dex-build7+mh4edit-mit-save-id,6,0
+39,樱火龙裙甲,Rath Heart Coat,mh4g-dex-build7+mh4edit-mit-save-id,6,0
+40,金火龙腿甲,Golden Lunecoil,mh4g-dex-build7+mh4edit-mit-save-id,7,0
+41,金火龙裙甲,Golden Lunecoat,mh4g-dex-build7+mh4edit-mit-save-id,7,0
+42,雌火龙腿甲,Rathian Faulds,mh4g-dex-build7+mh4edit-mit-save-id,2,0
+43,雌火龙裙甲,Rathian Coat,mh4g-dex-build7+mh4edit-mit-save-id,2,0
+44,樱火龙腿甲,Rath Heart Coil,mh4g-dex-build7+mh4edit-mit-save-id,6,0
+45,樱火龙裙甲,Rath Heart Coat,mh4g-dex-build7+mh4edit-mit-save-id,6,0
+46,EX雌火龙腿甲,EX Rathian Faulds,mh4g-dex-build7+mh4edit-mit-save-id,7,0
+47,EX雌火龙裙甲,EX Rathian Coat,mh4g-dex-build7+mh4edit-mit-save-id,7,0
+48,雄火龙腿甲,Rathalos Faulds,mh4g-dex-build7+mh4edit-mit-save-id,3,0
+49,雄火龙裙甲,Rathalos Coat,mh4g-dex-build7+mh4edit-mit-save-id,3,0
+50,雄火龙腿甲Ｓ,Rathalos Faulds S,mh4g-dex-build7+mh4edit-mit-save-id,5,0
+51,雄火龙裙甲Ｓ,Rathalos Coat S,mh4g-dex-build7+mh4edit-mit-save-id,5,0
+52,苍火龙腿甲,Rath Soul Coil,mh4g-dex-build7+mh4edit-mit-save-id,6,0
+53,苍火龙裙甲,Rath Soul Coat,mh4g-dex-build7+mh4edit-mit-save-id,6,0
+54,银火龙腿甲,Silver Solcoil,mh4g-dex-build7+mh4edit-mit-save-id,7,0
+55,银火龙裙甲,Silver Solcoat,mh4g-dex-build7+mh4edit-mit-save-id,7,0
+56,雄火龙腿甲,Rathalos Faulds,mh4g-dex-build7+mh4edit-mit-save-id,3,0
+57,雄火龙裙甲,Rathalos Coat,mh4g-dex-build7+mh4edit-mit-save-id,3,0
+58,苍火龙腿甲,Rath Soul Coil,mh4g-dex-build7+mh4edit-mit-save-id,6,0
+59,苍火龙裙甲,Rath Soul Coat,mh4g-dex-build7+mh4edit-mit-save-id,6,0
+60,银火龙腿甲,Silver Solcoil,mh4g-dex-build7+mh4edit-mit-save-id,7,0
+61,银火龙裙甲,Silver Solcoat,mh4g-dex-build7+mh4edit-mit-save-id,7,0
+62,EX雄火龙腿甲,EX Rathalos Faulds,mh4g-dex-build7+mh4edit-mit-save-id,7,0
+63,EX雄火龙裙甲,EX Rathalos Coat,mh4g-dex-build7+mh4edit-mit-save-id,7,0
+64,角龙腿甲,Diablos Coil,mh4g-dex-build7+mh4edit-mit-save-id,3,0
+65,角龙裙甲,Diablos Coat,mh4g-dex-build7+mh4edit-mit-save-id,3,0
+66,爆锤龙腿甲,Uragaan Faulds,mh4g-dex-build7+mh4edit-mit-save-id,3,0
+67,爆锤龙裙甲,Uragaan Coat,mh4g-dex-build7+mh4edit-mit-save-id,3,0
+68,恐暴龙腿甲,Vangis Coil,mh4g-dex-build7+mh4edit-mit-save-id,6,0
+69,恐暴龙裙甲,Vangis Coat,mh4g-dex-build7+mh4edit-mit-save-id,6,0
+70,贪婪腿甲,Esurient Faulds,mh4g-dex-build7+mh4edit-mit-save-id,7,0
+71,贪婪裙甲,Esurient Coat,mh4g-dex-build7+mh4edit-mit-save-id,7,0
+72,贪婪腿甲,Esurient Faulds,mh4g-dex-build7+mh4edit-mit-save-id,7,0
+73,贪婪裙甲,Esurient Coat,mh4g-dex-build7+mh4edit-mit-save-id,7,0
+74,残阳【腰甲】,Gloaming Girdle,mh4g-dex-build7+mh4edit-mit-save-id,3,0
+75,常磐【腰甲】,Adamance Girdle,mh4g-dex-build7+mh4edit-mit-save-id,3,0
+76,东云【腰甲】,Dayspring Girdle,mh4g-dex-build7+mh4edit-mit-save-id,3,0
+77,八千代【腰甲】,Epoch Girdle,mh4g-dex-build7+mh4edit-mit-save-id,3,0
+78,残阳・霸【腰甲】,Gloaming Archgirdle,mh4g-dex-build7+mh4edit-mit-save-id,7,0
+79,常磐・霸【腰甲】,Adamance Archgirdle,mh4g-dex-build7+mh4edit-mit-save-id,7,0
+80,东云・霸【腰甲】,Dayspring Archgirdle,mh4g-dex-build7+mh4edit-mit-save-id,7,0
+81,八千代・霸【腰甲】,Epoch Archgirdle,mh4g-dex-build7+mh4edit-mit-save-id,7,0
+82,残阳【腰甲】,Gloaming Girdle,mh4g-dex-build7+mh4edit-mit-save-id,3,0
+83,常磐【腰甲】,Adamance Girdle,mh4g-dex-build7+mh4edit-mit-save-id,3,0
+84,东云【腰甲】,Dayspring Girdle,mh4g-dex-build7+mh4edit-mit-save-id,3,0
+85,八千代【腰甲】,Epoch Girdle,mh4g-dex-build7+mh4edit-mit-save-id,3,0
+86,潜口龙腿甲,Nibelsnarf Faulds,mh4g-dex-build7+mh4edit-mit-save-id,2,0
+87,潜口龙裙甲,Nibelsnarf Coat,mh4g-dex-build7+mh4edit-mit-save-id,2,0
+88,尾槌龙腿甲,Duramboros Faulds,mh4g-dex-build7+mh4edit-mit-save-id,3,0
+89,尾槌龙裙甲,Duramboros Coat,mh4g-dex-build7+mh4edit-mit-save-id,3,0
+90,青熊兽腿甲,Arzuros Faulds,mh4g-dex-build7+mh4edit-mit-save-id,2,0
+91,青熊兽裙甲,Arzuros Coat,mh4g-dex-build7+mh4edit-mit-save-id,2,0
+92,白兔兽腿甲,Lagombi Faulds,mh4g-dex-build7+mh4edit-mit-save-id,2,0
+93,白兔兽裙甲,Lagombi Coat,mh4g-dex-build7+mh4edit-mit-save-id,2,0
+94,白兔兽腿甲Ｓ,Lagombi Faulds S,mh4g-dex-build7+mh4edit-mit-save-id,4,0
+95,白兔兽裙甲Ｓ,Lagombi Coat S,mh4g-dex-build7+mh4edit-mit-save-id,4,0
+96,迅龙腿甲,Nargacuga Faulds,mh4g-dex-build7+mh4edit-mit-save-id,3,0
+97,迅龙裙甲,Nargacuga Coat,mh4g-dex-build7+mh4edit-mit-save-id,3,0
+98,轰龙腿甲,Tigrex Tassets,mh4g-dex-build7+mh4edit-mit-save-id,3,0
+99,轰龙裙甲,Tigrex Coat,mh4g-dex-build7+mh4edit-mit-save-id,3,0
+100,轰龙腿甲Ｓ,Tigrex Tassets S,mh4g-dex-build7+mh4edit-mit-save-id,5,0
+101,轰龙裙甲Ｓ,Tigrex Coat S,mh4g-dex-build7+mh4edit-mit-save-id,5,0
+102,黑轰龙腿甲Ｕ,Tigrex Tassets U,mh4g-dex-build7+mh4edit-mit-save-id,6,0
+103,黑轰龙裙甲Ｕ,Tigrex Coat U,mh4g-dex-build7+mh4edit-mit-save-id,6,0
+104,大轰龙腿甲,Excello Coil,mh4g-dex-build7+mh4edit-mit-save-id,7,0
+105,大轰龙裙甲,Excello Coat,mh4g-dex-build7+mh4edit-mit-save-id,7,0
+106,EX轰龙腿甲,EX Tigrex Tassets,mh4g-dex-build7+mh4edit-mit-save-id,7,0
+107,EX轰龙裙甲,EX Tigrex Coat,mh4g-dex-build7+mh4edit-mit-save-id,7,0
+108,轰龙腿甲,Tigrex Tassets,mh4g-dex-build7+mh4edit-mit-save-id,3,0
+109,轰龙裙甲,Tigrex Coat,mh4g-dex-build7+mh4edit-mit-save-id,3,0
+110,黑轰龙腿甲Ｕ,Tigrex Tassets U,mh4g-dex-build7+mh4edit-mit-save-id,6,0
+111,黑轰龙裙甲Ｕ,Tigrex Coat U,mh4g-dex-build7+mh4edit-mit-save-id,6,0
+112,碎龙腿甲,Brachydios Faulds,mh4g-dex-build7+mh4edit-mit-save-id,3,0
+113,碎龙裙甲,Brachydios Coat,mh4g-dex-build7+mh4edit-mit-save-id,3,0
+114,碎龙腿甲Ｓ,Brachydios Faulds S,mh4g-dex-build7+mh4edit-mit-save-id,6,0
+115,碎龙裙甲Ｓ,Brachydios Coat S,mh4g-dex-build7+mh4edit-mit-save-id,6,0
+116,霸龙腿甲,Akantor Cincture,mh4g-dex-build7+mh4edit-mit-save-id,7,0
+117,霸龙甲裙,Akantor Sash,mh4g-dex-build7+mh4edit-mit-save-id,7,0
+118,霸龙腿甲,Akantor Cincture,mh4g-dex-build7+mh4edit-mit-save-id,7,0
+119,霸龙甲裙,Akantor Sash,mh4g-dex-build7+mh4edit-mit-save-id,7,0
+120,雷狼龙腿甲,Zinogre Faulds,mh4g-dex-build7+mh4edit-mit-save-id,3,0
+121,雷狼龙裙甲,Zinogre Coat,mh4g-dex-build7+mh4edit-mit-save-id,3,0
+122,雷狼龙腿甲Ｓ,Zinogre Faulds S,mh4g-dex-build7+mh4edit-mit-save-id,5,0
+123,雷狼龙裙甲Ｓ,Zinogre Coat S,mh4g-dex-build7+mh4edit-mit-save-id,5,0
+124,狱狼龙腿甲Ｕ,Zinogre Faulds U,mh4g-dex-build7+mh4edit-mit-save-id,6,0
+125,狱狼龙裙甲Ｕ,Zinogre Coat U,mh4g-dex-build7+mh4edit-mit-save-id,6,0
+126,狱狼龙腿甲Ｕ,Zinogre Faulds U,mh4g-dex-build7+mh4edit-mit-save-id,6,0
+127,狱狼龙裙甲Ｕ,Zinogre Coat U,mh4g-dex-build7+mh4edit-mit-save-id,6,0
+128,EX炎王龙腿甲,EX Kaiser Tassets,mh4g-dex-build7+mh4edit-mit-save-id,7,0
+129,EX炎王龙裙甲,EX Kaiser Coat,mh4g-dex-build7+mh4edit-mit-save-id,7,0
+130,奇猿狐腿甲,Kecha Faulds,mh4g-dex-build7+mh4edit-mit-save-id,2,0
+131,奇猿狐裙甲,Kecha Coat,mh4g-dex-build7+mh4edit-mit-save-id,2,0
+132,奇猿狐腿甲Ｓ,Kecha Faulds S,mh4g-dex-build7+mh4edit-mit-save-id,4,0
+133,奇猿狐裙甲Ｓ,Kecha Coat S,mh4g-dex-build7+mh4edit-mit-save-id,4,0
+134,黑蚀龙腿甲,Gore Faulds,mh4g-dex-build7+mh4edit-mit-save-id,3,0
+135,黑蚀龙裙甲,Gore Coat,mh4g-dex-build7+mh4edit-mit-save-id,3,0
+136,黑蚀龙腿甲Ｓ,Gore Faulds S,mh4g-dex-build7+mh4edit-mit-save-id,6,0
+137,黑蚀龙裙甲Ｓ,Gore Coat S,mh4g-dex-build7+mh4edit-mit-save-id,6,0
+138,黑蚀龙腿甲,Gore Faulds,mh4g-dex-build7+mh4edit-mit-save-id,3,0
+139,黑蚀龙裙甲,Gore Coat,mh4g-dex-build7+mh4edit-mit-save-id,3,0
+140,鬼蛙腿甲,Tetsucabra Faulds,mh4g-dex-build7+mh4edit-mit-save-id,2,0
+141,鬼蛙裙甲,Tetsucabra Coat,mh4g-dex-build7+mh4edit-mit-save-id,2,0
+142,鬼蛙腿甲Ｓ,Tetsucabra Faulds S,mh4g-dex-build7+mh4edit-mit-save-id,5,0
+143,鬼蛙裙甲Ｓ,Tetsucabra Coat S,mh4g-dex-build7+mh4edit-mit-save-id,5,0
+144,影蜘蛛腿甲,Nerscylla Faulds,mh4g-dex-build7+mh4edit-mit-save-id,2,0
+145,影蜘蛛裙甲,Nerscylla Coat,mh4g-dex-build7+mh4edit-mit-save-id,2,0
+146,影蜘蛛腿甲Ｓ,Nerscylla Faulds S,mh4g-dex-build7+mh4edit-mit-save-id,5,0
+147,影蜘蛛裙甲Ｓ,Nerscylla Coat S,mh4g-dex-build7+mh4edit-mit-save-id,5,0
+148,绞蛇龙腿甲,Najarala Faulds,mh4g-dex-build7+mh4edit-mit-save-id,2,0
+149,绞蛇龙裙甲,Najarala Coat,mh4g-dex-build7+mh4edit-mit-save-id,2,0
+150,绞蛇龙腿甲Ｓ,Najarala Faulds S,mh4g-dex-build7+mh4edit-mit-save-id,5,0
+151,绞蛇龙裙甲Ｓ,Najarala Coat S,mh4g-dex-build7+mh4edit-mit-save-id,5,0
+152,黑狼鸟腿甲,Garuga Tassets,mh4g-dex-build7+mh4edit-mit-save-id,3,0
+153,黑狼鸟裙甲,Garuga Coat,mh4g-dex-build7+mh4edit-mit-save-id,3,0
+154,黑狼鸟腿甲Ｓ,Garuga Tassets S,mh4g-dex-build7+mh4edit-mit-save-id,5,0
+155,黑狼鸟裙甲Ｓ,Garuga Coat S,mh4g-dex-build7+mh4edit-mit-save-id,5,0
+156,岩龙腿甲,Basarios Tassets,mh4g-dex-build7+mh4edit-mit-save-id,2,0
+157,岩龙裙甲,Basarios Coat,mh4g-dex-build7+mh4edit-mit-save-id,2,0
+158,岩龙腿甲Ｓ,Basarios Tassets S,mh4g-dex-build7+mh4edit-mit-save-id,5,0
+159,岩龙裙甲Ｓ,Basarios Coat S,mh4g-dex-build7+mh4edit-mit-save-id,5,0
+160,桃岩龙腿甲Ｕ,Basarios Tassets U,mh4g-dex-build7+mh4edit-mit-save-id,6,0
+161,桃岩龙裙甲Ｕ,Basarios Coat U,mh4g-dex-build7+mh4edit-mit-save-id,6,0
+162,战斗腿甲,Battle Tassets,mh4g-dex-build7+mh4edit-mit-save-id,2,0
+163,战斗裙甲,Battle Coat,mh4g-dex-build7+mh4edit-mit-save-id,2,0
+164,蓝速龙腿甲,Velociprey Tassets,mh4g-dex-build7+mh4edit-mit-save-id,2,0
+165,蓝速龙裙甲,Velociprey Coat,mh4g-dex-build7+mh4edit-mit-save-id,2,0
+166,蓝速龙腿甲Ｓ,Velociprey Tassets S,mh4g-dex-build7+mh4edit-mit-save-id,4,0
+167,蓝速龙裙甲Ｓ,Velociprey Coat S,mh4g-dex-build7+mh4edit-mit-save-id,4,0
+168,黄速龙腿甲,Genprey Tassets,mh4g-dex-build7+mh4edit-mit-save-id,2,0
+169,黄速龙裙甲,Genprey Coat,mh4g-dex-build7+mh4edit-mit-save-id,2,0
+170,黄速龙腿甲Ｓ,Genprey Tassets S,mh4g-dex-build7+mh4edit-mit-save-id,4,0
+171,黄速龙裙甲Ｓ,Genprey Coat S,mh4g-dex-build7+mh4edit-mit-save-id,4,0
+172,红速龙腿甲,Ioprey Tassets,mh4g-dex-build7+mh4edit-mit-save-id,2,0
+173,红速龙裙甲,Ioprey Coat,mh4g-dex-build7+mh4edit-mit-save-id,2,0
+174,红速龙腿甲Ｓ,Ioprey Tassets S,mh4g-dex-build7+mh4edit-mit-save-id,4,0
+175,红速龙裙甲Ｓ,Ioprey Coat S,mh4g-dex-build7+mh4edit-mit-save-id,4,0
+176,大怪鸟腿甲,Kut-Ku Tassets,mh4g-dex-build7+mh4edit-mit-save-id,2,0
+177,大怪鸟裙甲,Kut-Ku Coat,mh4g-dex-build7+mh4edit-mit-save-id,2,0
+178,大怪鸟腿甲Ｓ,Kut-Ku Tassets S,mh4g-dex-build7+mh4edit-mit-save-id,4,0
+179,大怪鸟裙甲Ｓ,Kut-Ku Coat S,mh4g-dex-build7+mh4edit-mit-save-id,4,0
+180,青怪鸟腿甲Ｕ,Kut-Ku Tassets U,mh4g-dex-build7+mh4edit-mit-save-id,5,0
+181,青怪鸟裙甲Ｕ,Kut-Ku Coat U,mh4g-dex-build7+mh4edit-mit-save-id,5,0
+182,毒怪鸟腿甲,Gypceros Tassets,mh4g-dex-build7+mh4edit-mit-save-id,2,0
+183,毒怪鸟裙甲,Gypceros Coat,mh4g-dex-build7+mh4edit-mit-save-id,2,0
+184,毒怪鸟腿甲Ｓ,Gypceros Tassets S,mh4g-dex-build7+mh4edit-mit-save-id,5,0
+185,毒怪鸟裙甲Ｓ,Gypceros Coat S,mh4g-dex-build7+mh4edit-mit-save-id,5,0
+186,紫毒怪鸟腿甲Ｕ,Gypceros Tassets U,mh4g-dex-build7+mh4edit-mit-save-id,6,0
+187,紫毒怪鸟裙甲Ｕ,Gypceros Coat U,mh4g-dex-build7+mh4edit-mit-save-id,6,0
+188,毒怪鸟腿甲,Gypceros Tassets,mh4g-dex-build7+mh4edit-mit-save-id,2,0
+189,毒怪鸟裙甲,Gypceros Coat,mh4g-dex-build7+mh4edit-mit-save-id,2,0
+190,紫毒怪鸟腿甲Ｕ,Gypceros Tassets U,mh4g-dex-build7+mh4edit-mit-save-id,6,0
+191,紫毒怪鸟裙甲Ｕ,Gypceros Coat U,mh4g-dex-build7+mh4edit-mit-save-id,6,0
+192,桃毛兽腿甲,Conga Tassets,mh4g-dex-build7+mh4edit-mit-save-id,2,0
+193,桃毛兽裙甲,Conga Coat,mh4g-dex-build7+mh4edit-mit-save-id,2,0
+194,桃毛兽腿甲Ｓ,Conga Tassets S,mh4g-dex-build7+mh4edit-mit-save-id,4,0
+195,桃毛兽裙甲Ｓ,Conga Coat S,mh4g-dex-build7+mh4edit-mit-save-id,4,0
+196,绿毛兽腿甲Ｕ,Conga Tassets U,mh4g-dex-build7+mh4edit-mit-save-id,5,0
+197,绿毛兽裙甲Ｕ,Conga Coat U,mh4g-dex-build7+mh4edit-mit-save-id,5,0
+198,铠龙腿甲,Gravios Tassets,mh4g-dex-build7+mh4edit-mit-save-id,3,0
+199,铠龙裙甲,Gravios Coat,mh4g-dex-build7+mh4edit-mit-save-id,3,0
+200,铠龙腿甲Ｓ,Gravios Tassets S,mh4g-dex-build7+mh4edit-mit-save-id,5,0
+201,铠龙裙甲Ｓ,Gravios Coat S,mh4g-dex-build7+mh4edit-mit-save-id,5,0
+202,黑铠龙腿甲Ｕ,Gravios Tassets U,mh4g-dex-build7+mh4edit-mit-save-id,6,0
+203,黑铠龙裙甲Ｕ,Gravios Coat U,mh4g-dex-build7+mh4edit-mit-save-id,6,0
+204,电龙腿甲,Khezu Tassets,mh4g-dex-build7+mh4edit-mit-save-id,2,0
+205,电龙裙甲,Khezu Coat,mh4g-dex-build7+mh4edit-mit-save-id,2,0
+206,电龙腿甲Ｓ,Khezu Tassets S,mh4g-dex-build7+mh4edit-mit-save-id,5,0
+207,电龙裙甲Ｓ,Khezu Coat S,mh4g-dex-build7+mh4edit-mit-save-id,5,0
+208,赤电龙腿甲Ｕ,Khezu Tassets U,mh4g-dex-build7+mh4edit-mit-save-id,6,0
+209,赤电龙裙甲Ｕ,Khezu Coat U,mh4g-dex-build7+mh4edit-mit-save-id,6,0
+210,电龙腿甲,Khezu Tassets,mh4g-dex-build7+mh4edit-mit-save-id,2,0
+211,电龙裙甲,Khezu Coat,mh4g-dex-build7+mh4edit-mit-save-id,2,0
+212,赤电龙腿甲Ｕ,Khezu Tassets U,mh4g-dex-build7+mh4edit-mit-save-id,6,0
+213,赤电龙裙甲Ｕ,Khezu Coat U,mh4g-dex-build7+mh4edit-mit-save-id,6,0
+214,麒麟裙箍,Kirin Hoop,mh4g-dex-build7+mh4edit-mit-save-id,3,0
+215,麒麟饰带,Kirin Shorts,mh4g-dex-build7+mh4edit-mit-save-id,3,0
+216,麒麟裙箍Ｓ,Kirin Hoop S,mh4g-dex-build7+mh4edit-mit-save-id,6,0
+217,麒麟饰带Ｓ,Kirin Shorts S,mh4g-dex-build7+mh4edit-mit-save-id,6,0
+218,冰麒麟裙箍Ｕ,Kirin Hoop U,mh4g-dex-build7+mh4edit-mit-save-id,7,0
+219,冰麒麟饰带Ｕ,Kirin Shorts U,mh4g-dex-build7+mh4edit-mit-save-id,7,0
+220,麒麟裙箍,Kirin Hoop,mh4g-dex-build7+mh4edit-mit-save-id,3,0
+221,麒麟饰带,Kirin Shorts,mh4g-dex-build7+mh4edit-mit-save-id,3,0
+222,冰麒麟裙箍Ｕ,Kirin Hoop U,mh4g-dex-build7+mh4edit-mit-save-id,7,0
+223,冰麒麟饰带Ｕ,Kirin Shorts U,mh4g-dex-build7+mh4edit-mit-save-id,7,0
+224,钢龙腿甲,Kushala Cocoon,mh4g-dex-build7+mh4edit-mit-save-id,7,0
+225,钢龙甲裙,Kushala Wind Wrap,mh4g-dex-build7+mh4edit-mit-save-id,7,0
+226,EX钢龙腿甲,EX Kushala Cocoon,mh4g-dex-build7+mh4edit-mit-save-id,7,0
+227,EX钢龙甲裙,EX Kushala Wind Wrap,mh4g-dex-build7+mh4edit-mit-save-id,7,0
+228,钢龙腿甲,Kushala Cocoon,mh4g-dex-build7+mh4edit-mit-save-id,7,0
+229,钢龙甲裙,Kushala Wind Wrap,mh4g-dex-build7+mh4edit-mit-save-id,7,0
+230,炎妃龙腿甲,Empress Tassets,mh4g-dex-build7+mh4edit-mit-save-id,7,0
+231,炎妃龙裙甲,Empress Coat,mh4g-dex-build7+mh4edit-mit-save-id,7,0
+232,镰蟹腿甲,Ceanataur Tassets,mh4g-dex-build7+mh4edit-mit-save-id,2,0
+233,镰蟹裙甲,Ceanataur Coat,mh4g-dex-build7+mh4edit-mit-save-id,2,0
+234,镰蟹腿甲,Ceanataur Tassets,mh4g-dex-build7+mh4edit-mit-save-id,2,0
+235,镰蟹裙甲,Ceanataur Coat,mh4g-dex-build7+mh4edit-mit-save-id,2,0
+236,晓丸【腰甲】,Auroros Tassets,mh4g-dex-build7+mh4edit-mit-save-id,3,0
+237,凛【腰甲】,Borealis Tassets,mh4g-dex-build7+mh4edit-mit-save-id,3,0
+238,曙丸【腰甲】,Genesis Tassets,mh4g-dex-build7+mh4edit-mit-save-id,3,0
+239,妖艳【腰甲】,Glyph Tassets,mh4g-dex-build7+mh4edit-mit-save-id,3,0
+240,晓丸【腰甲】,Auroros Tassets,mh4g-dex-build7+mh4edit-mit-save-id,3,0
+241,凛【腰甲】,Borealis Tassets,mh4g-dex-build7+mh4edit-mit-save-id,3,0
+242,曙丸【腰甲】,Genesis Tassets,mh4g-dex-build7+mh4edit-mit-save-id,3,0
+243,妖艳【腰甲】,Glyph Tassets,mh4g-dex-build7+mh4edit-mit-save-id,3,0
+244,溶岩龙腿甲,Lava Tassets,mh4g-dex-build7+mh4edit-mit-save-id,3,0
+245,溶岩龙裙甲,Lava Coat,mh4g-dex-build7+mh4edit-mit-save-id,3,0
+246,翼蛇龙套扣带,Remobra Belt,mh4g-dex-build7+mh4edit-mit-save-id,2,0
+247,翼蛇龙套之箍,Remobra Band,mh4g-dex-build7+mh4edit-mit-save-id,2,0
+248,翼蛇龙扣带Ｓ,Remobra Belt S,mh4g-dex-build7+mh4edit-mit-save-id,4,0
+249,翼蛇龙之箍Ｓ,Remobra Band S,mh4g-dex-build7+mh4edit-mit-save-id,4,0
+250,鬼鲛腿甲,Zamtrios Faulds,mh4g-dex-build7+mh4edit-mit-save-id,2,0
+251,鬼鲛裙甲,Zamtrios Coat,mh4g-dex-build7+mh4edit-mit-save-id,2,0
+252,鬼鲛腿甲Ｓ,Zamtrios Faulds S,mh4g-dex-build7+mh4edit-mit-save-id,5,0
+253,鬼鲛裙甲Ｓ,Zamtrios Coat S,mh4g-dex-build7+mh4edit-mit-save-id,5,0
+254,重甲虫腿甲,Seltas Faulds,mh4g-dex-build7+mh4edit-mit-save-id,3,0
+255,重甲虫裙甲,Seltas Coat,mh4g-dex-build7+mh4edit-mit-save-id,3,0
+256,重甲虫腿甲Ｓ,Seltas Faulds S,mh4g-dex-build7+mh4edit-mit-save-id,5,0
+257,重甲虫裙甲Ｓ,Seltas Coat S,mh4g-dex-build7+mh4edit-mit-save-id,5,0
+258,弧光腿甲,Arc Faulds,mh4g-dex-build7+mh4edit-mit-save-id,3,0
+259,弧光裙甲,Arc Coat,mh4g-dex-build7+mh4edit-mit-save-id,3,0
+260,弧光腿甲Ｓ,Arc Faulds S,mh4g-dex-build7+mh4edit-mit-save-id,7,0
+261,弧光裙甲Ｓ,Arc Coat S,mh4g-dex-build7+mh4edit-mit-save-id,7,0
+262,弧光腿甲,Arc Faulds,mh4g-dex-build7+mh4edit-mit-save-id,3,0
+263,弧光裙甲,Arc Coat,mh4g-dex-build7+mh4edit-mit-save-id,3,0
+264,炎王龙腿甲,Kaiser Tassets,mh4g-dex-build7+mh4edit-mit-save-id,7,0
+265,炎王龙裙甲,Kaiser Coat,mh4g-dex-build7+mh4edit-mit-save-id,7,0
+266,金色的系带,Golden Obi,mh4g-dex-build7+mh4edit-mit-save-id,7,0
+267,黑子的系带,Puppeteer Obi,mh4g-dex-build7+mh4edit-mit-save-id,7,0
+268,怒天的系带,Divine Ire Obi,mh4g-dex-build7+mh4edit-mit-save-id,7,0
+269,心灭的系带,Crusher Belt,mh4g-dex-build7+mh4edit-mit-save-id,7,0
+270,逆乱腿甲,Rebellion Coil,mh4g-dex-build7+mh4edit-mit-save-id,7,0
+271,暴乱裙甲,Riot Coat,mh4g-dex-build7+mh4edit-mit-save-id,7,0
+272,逆乱腿甲,Rebellion Coil,mh4g-dex-build7+mh4edit-mit-save-id,7,0
+273,暴乱裙甲,Riot Coat,mh4g-dex-build7+mh4edit-mit-save-id,7,0
+274,恶龙斜袴Ｘ,Dragonbarbs X,mh4g-dex-build7+mh4edit-mit-save-id,10,0
+275,恶龙尾Ｘ,Dragonsheath X,mh4g-dex-build7+mh4edit-mit-save-id,10,0
+276,恶龙斜袴,Dragonbarbs,mh4g-dex-build7+mh4edit-mit-save-id,7,0
+277,恶龙尾,Dragonsheath,mh4g-dex-build7+mh4edit-mit-save-id,7,0
+278,红黑龙之翼,Fatalis Crimsonwings,mh4g-dex-build7+mh4edit-mit-save-id,7,0
+279,红黑龙之尾,Fatalis Crimsontail,mh4g-dex-build7+mh4edit-mit-save-id,7,0
+280,砂龙腿甲,Cephalos Tassets,mh4g-dex-build7+mh4edit-mit-save-id,4,0
+281,砂龙裙甲,Cephalos Coat,mh4g-dex-build7+mh4edit-mit-save-id,4,0
+282,罔象【丸带】,Mizuha Sash,mh4g-dex-build7+mh4edit-mit-save-id,7,0
+283,丰玉【丸带】,Cham Coat,mh4g-dex-build7+mh4edit-mit-save-id,7,0
+284,盾蟹腿甲,Hermitaur Tassets,mh4g-dex-build7+mh4edit-mit-save-id,4,0
+285,盾蟹裙甲,Hermitaur Coat,mh4g-dex-build7+mh4edit-mit-save-id,4,0
+286,盾蟹腿甲,Hermitaur Tassets,mh4g-dex-build7+mh4edit-mit-save-id,4,0
+287,盾蟹裙甲,Hermitaur Coat,mh4g-dex-build7+mh4edit-mit-save-id,4,0
+288,飞虫腿甲,Vespoid Tassets,mh4g-dex-build7+mh4edit-mit-save-id,4,0
+289,飞虫裙甲,Vespoid Coat,mh4g-dex-build7+mh4edit-mit-save-id,4,0
+290,彩鸟腿甲,Qurupeco Coil,mh4g-dex-build7+mh4edit-mit-save-id,4,0
+291,彩鸟裙甲,Qurupeco Coat,mh4g-dex-build7+mh4edit-mit-save-id,4,0
+292,炎戈龙腿甲,Agnaktor Faulds,mh4g-dex-build7+mh4edit-mit-save-id,6,0
+293,炎戈龙裙甲,Agnaktor Coat,mh4g-dex-build7+mh4edit-mit-save-id,6,0
+294,冰牙龙腿甲,Barioth Faulds,mh4g-dex-build7+mh4edit-mit-save-id,5,0
+295,冰牙龙裙甲,Barioth Coat,mh4g-dex-build7+mh4edit-mit-save-id,5,0
+296,赤甲兽腿甲,Volvidon Faulds,mh4g-dex-build7+mh4edit-mit-save-id,4,0
+297,赤甲兽裙甲,Volvidon Coat,mh4g-dex-build7+mh4edit-mit-save-id,4,0
+298,海龙腿甲,Lagiacrus Faulds,mh4g-dex-build7+mh4edit-mit-save-id,6,0
+299,海龙裙甲,Lagiacrus Coat,mh4g-dex-build7+mh4edit-mit-save-id,6,0
+300,海龙腿甲,Lagiacrus Faulds,mh4g-dex-build7+mh4edit-mit-save-id,6,0
+301,海龙裙甲,Lagiacrus Coat,mh4g-dex-build7+mh4edit-mit-save-id,6,0
+302,太阳神腿甲,Helios Coil,mh4g-dex-build7+mh4edit-mit-save-id,7,0
+303,太阳神裙甲,Helios Coat,mh4g-dex-build7+mh4edit-mit-save-id,7,0
+304,月神腿甲,Selene Coil,mh4g-dex-build7+mh4edit-mit-save-id,7,0
+305,月神裙甲,Selene Coat,mh4g-dex-build7+mh4edit-mit-save-id,7,0
+306,灯鱼龙腿甲,Gobul Faulds,mh4g-dex-build7+mh4edit-mit-save-id,5,0
+307,灯鱼龙裙甲,Gobul Coat,mh4g-dex-build7+mh4edit-mit-save-id,5,0
+308,大和【腰甲】,Yamato Koshiate,mh4g-dex-build7+mh4edit-mit-save-id,7,0
+309,日向【腰甲】,Hyuga Koshiate,mh4g-dex-build7+mh4edit-mit-save-id,7,0
+310,陆奥【腰甲】,Mutsu Koshiate,mh4g-dex-build7+mh4edit-mit-save-id,7,0
+311,天成【腰甲】,Amagi Koshiate,mh4g-dex-build7+mh4edit-mit-save-id,7,0
+312,煌黑龙之力,Escadora Might,mh4g-dex-build7+mh4edit-mit-save-id,7,0
+313,煌黑龙力量,Escadora Force,mh4g-dex-build7+mh4edit-mit-save-id,7,0
+314,煌黑龙之力,Escadora Might,mh4g-dex-build7+mh4edit-mit-save-id,7,0
+315,煌黑龙力量,Escadora Force,mh4g-dex-build7+mh4edit-mit-save-id,7,0
+316,雪狮子腿甲,Blango Tassets,mh4g-dex-build7+mh4edit-mit-save-id,5,0
+317,雪狮子裙甲,Blango Coat,mh4g-dex-build7+mh4edit-mit-save-id,5,0
+318,龙虾王腿甲,Lobster Coil,mh4g-dex-build7+mh4edit-mit-save-id,4,0
+319,龙虾王裙甲,Lobster Coat,mh4g-dex-build7+mh4edit-mit-save-id,4,0
+320,崩龙腿甲,Ukanlos Cincture,mh4g-dex-build7+mh4edit-mit-save-id,7,0
+321,崩龙甲裙,Ukanlos Sash,mh4g-dex-build7+mh4edit-mit-save-id,7,0
+322,金刚【腰甲】,Indra Wrap,mh4g-dex-build7+mh4edit-mit-save-id,7,0
+323,不动【腰甲】,Steadfast Coat,mh4g-dex-build7+mh4edit-mit-save-id,7,0
+324,夜叉【腰卷】,Yaksha Coil,mh4g-dex-build7+mh4edit-mit-save-id,7,0
+325,修罗【腰卷】,Carnage Wrap,mh4g-dex-build7+mh4edit-mit-save-id,7,0
+326,铬合金腿甲,Chrome Metal Coil,mh4g-dex-build7+mh4edit-mit-save-id,4,0
+327,铬合金裙甲,Chrome Metal Coat,mh4g-dex-build7+mh4edit-mit-save-id,4,0
+328,神秘腿甲Ｓ,Artian Coil S,mh4g-dex-build7+mh4edit-mit-save-id,5,0
+329,神秘裙甲Ｓ,Artian Coat S,mh4g-dex-build7+mh4edit-mit-save-id,5,0
+330,远古龙腿甲,Dober Coil,mh4g-dex-build7+mh4edit-mit-save-id,6,0
+331,远古龙裙甲,Dober Coat,mh4g-dex-build7+mh4edit-mit-save-id,6,0
+332,铸锭腿甲,Ingot Coil,mh4g-dex-build7+mh4edit-mit-save-id,3,0
+333,铸锭裙甲,Ingot Coat,mh4g-dex-build7+mh4edit-mit-save-id,3,0
+334,铸锭腿甲,Ingot Coil,mh4g-dex-build7+mh4edit-mit-save-id,3,0
+335,铸锭裙甲,Ingot Coat,mh4g-dex-build7+mh4edit-mit-save-id,3,0
+336,锹虫腿甲,Aelucanth Elytra,mh4g-dex-build7+mh4edit-mit-save-id,4,0
+337,蝴蝶腿甲,Rhopessa Elytra,mh4g-dex-build7+mh4edit-mit-save-id,4,0
+338,锹虫裙甲,Aelucanth Alae,mh4g-dex-build7+mh4edit-mit-save-id,4,0
+339,蝴蝶裙甲,Rhopessa Alae,mh4g-dex-build7+mh4edit-mit-save-id,4,0
+340,独角仙腿甲,Obituary Elytra,mh4g-dex-build7+mh4edit-mit-save-id,5,0
+341,彩蝶腿甲,Butterfly Elytra,mh4g-dex-build7+mh4edit-mit-save-id,5,0
+342,独角仙裙甲,Obituary Alae,mh4g-dex-build7+mh4edit-mit-save-id,5,0
+343,彩蝶裙甲,Butterfly Alae,mh4g-dex-build7+mh4edit-mit-save-id,5,0
+344,南瓜裙腰,Mosgharl Folia,mh4g-dex-build7+mh4edit-mit-save-id,4,0
+345,南瓜裙甲,Mosgharl Fronds,mh4g-dex-build7+mh4edit-mit-save-id,4,0
+346,工会精英腿甲,Guild Bard Coil,mh4g-dex-build7+mh4edit-mit-save-id,4,0
+347,店员褶裙,Scholar's Skirt,mh4g-dex-build7+mh4edit-mit-save-id,4,0
+348,工会精英裙甲,Guild Bard Coat,mh4g-dex-build7+mh4edit-mit-save-id,4,0
+349,店员迷你裙,Scholar's Mini,mh4g-dex-build7+mh4edit-mit-save-id,4,0
+350,教官腿甲,Black Belt Tassets,mh4g-dex-build7+mh4edit-mit-save-id,6,0
+351,教官裙甲,Black Belt Coat,mh4g-dex-build7+mh4edit-mit-save-id,6,0
+352,守护者腿甲,Guardian Coil,mh4g-dex-build7+mh4edit-mit-save-id,4,0
+353,女佣褶裙,Helper Skirt,mh4g-dex-build7+mh4edit-mit-save-id,4,0
+354,守护者裙甲,Guardian Coat,mh4g-dex-build7+mh4edit-mit-save-id,4,0
+355,女佣迷你裙,Helper Frills,mh4g-dex-build7+mh4edit-mit-save-id,4,0
+356,忍之带・天,Shinobi Sky Belt,mh4g-dex-build7+mh4edit-mit-save-id,7,0
+357,忍之带・地,Shinobi Land Belt,mh4g-dex-build7+mh4edit-mit-save-id,7,0
+358,工会骑士腿甲,Guild Knight Coat,mh4g-dex-build7+mh4edit-mit-save-id,6,0
+359,女仆装褶裙,Maiden's Skirt,mh4g-dex-build7+mh4edit-mit-save-id,6,0
+360,工会骑士褶裙,Guild Knight Kilt,mh4g-dex-build7+mh4edit-mit-save-id,6,0
+361,女仆装迷你裙,Maiden's Frills,mh4g-dex-build7+mh4edit-mit-save-id,6,0
+362,结云腰带・天,Yukumo Sky Obi,mh4g-dex-build7+mh4edit-mit-save-id,6,0
+363,结云腰带・地,Yukumo Land Obi,mh4g-dex-build7+mh4edit-mit-save-id,6,0
+364,矿石腿甲,High Metal Tassets,mh4g-dex-build7+mh4edit-mit-save-id,2,0
+365,矿石裙甲,High Metal Coat,mh4g-dex-build7+mh4edit-mit-save-id,2,0
+366,城塞游击队【锁带】,Ranger's Sash,mh4g-dex-build7+mh4edit-mit-save-id,6,0
+367,城塞弓击队【弹带】,Archer's Belt,mh4g-dex-build7+mh4edit-mit-save-id,6,0
+368,矿石扣带,Iron Belt,mh4g-dex-build7+mh4edit-mit-save-id,1,0
+369,轻皮扣带,Light Belt,mh4g-dex-build7+mh4edit-mit-save-id,1,0
+370,三孔腰饰,Chakra Waistlet,mh4g-dex-build7+mh4edit-mit-save-id,5,0
+371,水手服褶裙,Sailor Skirt,mh4g-dex-build7+mh4edit-mit-save-id,6,0
+372,水手服迷你裙,Sailor Mini,mh4g-dex-build7+mh4edit-mit-save-id,6,0
+373,团长腿甲,Hawkcoil,mh4g-dex-build7+mh4edit-mit-save-id,6,0
+374,看板娘褶裙,Lecturer's Skirt,mh4g-dex-build7+mh4edit-mit-save-id,6,0
+375,团长裙甲,Hawkcoat,mh4g-dex-build7+mh4edit-mit-save-id,6,0
+376,看板娘迷你裙,Lecturer's Frills,mh4g-dex-build7+mh4edit-mit-save-id,6,0
+377,蓝星花腿甲,Blue Star Coil,mh4g-dex-build7+mh4edit-mit-save-id,7,0
+378,蓝星花裙甲,Blue Star Coat,mh4g-dex-build7+mh4edit-mit-save-id,7,0
+379,dummy702,dummy702,mh4edit-mit-save-id-en-fallback,0,0
+380,dummy714,dummy714,mh4edit-mit-save-id-en-fallback,0,0
+381,优衣库裤袋,Uniqlo Pouch,mh4g-dex-build7+mh4edit-mit-save-id,7,0
+382,优衣库挎包,Uniqlo Pochette,mh4g-dex-build7+mh4edit-mit-save-id,7,0
+383,路克星腿甲,Star Rook Coil,mh4g-dex-build7+mh4edit-mit-save-id,7,0
+384,路克星裙甲,Star Rook Coat,mh4g-dex-build7+mh4edit-mit-save-id,7,0
+385,dummy706,dummy706,mh4edit-mit-save-id-en-fallback,0,0
+386,dummy718,dummy718,mh4edit-mit-save-id-en-fallback,0,0
+387,dummy707,dummy707,mh4edit-mit-save-id-en-fallback,0,0
+388,dummy719,dummy719,mh4edit-mit-save-id-en-fallback,0,0
+389,dummy709,dummy709,mh4edit-mit-save-id-en-fallback,0,0
+390,dummy721,dummy721,mh4edit-mit-save-id-en-fallback,0,0
+391,DUMMY,DUMMY,mh4edit-mit-save-id-en-fallback,0,0
+392,DUMMY,DUMMY,mh4edit-mit-save-id-en-fallback,0,0
+393,神秘腿甲Ｓ,Artian Coil S,mh4g-dex-build7+mh4edit-mit-save-id,5,0
+394,神秘裙甲Ｓ,Artian Coat S,mh4g-dex-build7+mh4edit-mit-save-id,5,0
+395,DUMMY,DUMMY,mh4edit-mit-save-id-en-fallback,0,0
+396,DUMMY,DUMMY,mh4edit-mit-save-id-en-fallback,0,0
+397,勇者的扣带,Hero's Belt,mh4g-dex-build7+mh4edit-mit-save-id,7,0
+398,勇者的之箍,Hero's Band,mh4g-dex-build7+mh4edit-mit-save-id,7,0
+399,dummy731,dummy731,mh4edit-mit-save-id-en-fallback,0,0
+400,dummy732,dummy732,mh4edit-mit-save-id-en-fallback,0,0
+401,EX逆乱腿甲,EX Rebellion Coil,mh4g-dex-build7+mh4edit-mit-save-id,7,0
+402,EX暴乱裙甲,EX Riot Coat,mh4g-dex-build7+mh4edit-mit-save-id,7,0
+403,EX黑蚀龙腿甲,EX Gore Faulds,mh4g-dex-build7+mh4edit-mit-save-id,7,0
+404,EX黑蚀龙裙甲,EX Gore Coat,mh4g-dex-build7+mh4edit-mit-save-id,7,0
+405,EX高合金腿甲,EX Ingot Coil,mh4g-dex-build7+mh4edit-mit-save-id,7,0
+406,EX高合金裙甲,EX Ingot Coat,mh4g-dex-build7+mh4edit-mit-save-id,7,0
+407,EX冰麒麟裙箍Ｕ,EX Kirin Hoop U,mh4g-dex-build7+mh4edit-mit-save-id,7,0
+408,EX冰麒麟饰带Ｕ,EX Kirin Shorts U,mh4g-dex-build7+mh4edit-mit-save-id,7,0
+409,EX神秘腿甲,EX Artian Coil,mh4g-dex-build7+mh4edit-mit-save-id,7,0
+410,EX神秘裙甲,EX Artian Coat,mh4g-dex-build7+mh4edit-mit-save-id,7,0
+411,友爱腿甲,Storge Faulds,mh4g-dex-build7+mh4edit-mit-save-id,3,0
+412,友爱裙甲,Storge Coat,mh4g-dex-build7+mh4edit-mit-save-id,3,0
+413,友爱腿甲Ｓ,Storge Faulds S,mh4g-dex-build7+mh4edit-mit-save-id,7,0
+414,友爱裙甲Ｓ,Storge Coat S,mh4g-dex-build7+mh4edit-mit-save-id,7,0
+415,友爱腿甲,Storge Faulds,mh4g-dex-build7+mh4edit-mit-save-id,3,0
+416,友爱裙甲,Storge Coat,mh4g-dex-build7+mh4edit-mit-save-id,3,0
+417,猎人腿甲,Hunter's Faulds,mh4g-dex-build7+mh4edit-mit-save-id,1,0
+418,猎人裙甲,Hunter's Coat,mh4g-dex-build7+mh4edit-mit-save-id,1,0
+419,合金腿甲,Alloy Coil,mh4g-dex-build7+mh4edit-mit-save-id,1,0
+420,合金裙甲,Alloy Coat,mh4g-dex-build7+mh4edit-mit-save-id,1,0
+421,水兽腿甲,Ludroth Faulds,mh4g-dex-build7+mh4edit-mit-save-id,2,0
+422,水兽裙甲,Ludroth Coat,mh4g-dex-build7+mh4edit-mit-save-id,2,0
+423,雌火龙腿甲,Rathian Faulds,mh4g-dex-build7+mh4edit-mit-save-id,2,0
+424,雌火龙裙甲,Rathian Coat,mh4g-dex-build7+mh4edit-mit-save-id,2,0
+425,樱火龙腿甲,Rath Heart Coil,mh4g-dex-build7+mh4edit-mit-save-id,6,0
+426,樱火龙裙甲,Rath Heart Coat,mh4g-dex-build7+mh4edit-mit-save-id,6,0
+427,雄火龙腿甲,Rathalos Faulds,mh4g-dex-build7+mh4edit-mit-save-id,3,0
+428,雄火龙裙甲,Rathalos Coat,mh4g-dex-build7+mh4edit-mit-save-id,3,0
+429,苍火龙腿甲,Rath Soul Coil,mh4g-dex-build7+mh4edit-mit-save-id,6,0
+430,苍火龙裙甲,Rath Soul Coat,mh4g-dex-build7+mh4edit-mit-save-id,6,0
+431,银火龙腿甲,Silver Solcoil,mh4g-dex-build7+mh4edit-mit-save-id,7,0
+432,银火龙裙甲,Silver Solcoat,mh4g-dex-build7+mh4edit-mit-save-id,7,0
+433,贪婪腿甲,Esurient Faulds,mh4g-dex-build7+mh4edit-mit-save-id,7,0
+434,贪婪裙甲,Esurient Coat,mh4g-dex-build7+mh4edit-mit-save-id,7,0
+435,残阳【腰甲】,Gloaming Girdle,mh4g-dex-build7+mh4edit-mit-save-id,3,0
+436,常磐【腰甲】,Adamance Girdle,mh4g-dex-build7+mh4edit-mit-save-id,3,0
+437,东云【腰甲】,Dayspring Girdle,mh4g-dex-build7+mh4edit-mit-save-id,3,0
+438,八千代【腰甲】,Epoch Girdle,mh4g-dex-build7+mh4edit-mit-save-id,3,0
+439,轰龙腿甲,Tigrex Tassets,mh4g-dex-build7+mh4edit-mit-save-id,3,0
+440,轰龙裙甲,Tigrex Coat,mh4g-dex-build7+mh4edit-mit-save-id,3,0
+441,黑轰龙腿甲Ｕ,Tigrex Tassets U,mh4g-dex-build7+mh4edit-mit-save-id,6,0
+442,黑轰龙裙甲Ｕ,Tigrex Coat U,mh4g-dex-build7+mh4edit-mit-save-id,6,0
+443,霸龙腿甲,Akantor Cincture,mh4g-dex-build7+mh4edit-mit-save-id,7,0
+444,霸龙甲裙,Akantor Sash,mh4g-dex-build7+mh4edit-mit-save-id,7,0
+445,狱狼龙腿甲Ｕ,Zinogre Faulds U,mh4g-dex-build7+mh4edit-mit-save-id,6,0
+446,狱狼龙裙甲Ｕ,Zinogre Coat U,mh4g-dex-build7+mh4edit-mit-save-id,6,0
+447,黑蚀龙腿甲,Gore Faulds,mh4g-dex-build7+mh4edit-mit-save-id,3,0
+448,黑蚀龙裙甲,Gore Coat,mh4g-dex-build7+mh4edit-mit-save-id,3,0
+449,毒怪鸟腿甲,Gypceros Tassets,mh4g-dex-build7+mh4edit-mit-save-id,2,0
+450,毒怪鸟裙甲,Gypceros Coat,mh4g-dex-build7+mh4edit-mit-save-id,2,0
+451,紫毒怪鸟腿甲Ｕ,Gypceros Tassets U,mh4g-dex-build7+mh4edit-mit-save-id,6,0
+452,紫毒怪鸟裙甲Ｕ,Gypceros Coat U,mh4g-dex-build7+mh4edit-mit-save-id,6,0
+453,电龙腿甲,Khezu Tassets,mh4g-dex-build7+mh4edit-mit-save-id,2,0
+454,电龙裙甲,Khezu Coat,mh4g-dex-build7+mh4edit-mit-save-id,2,0
+455,赤电龙腿甲Ｕ,Khezu Tassets U,mh4g-dex-build7+mh4edit-mit-save-id,6,0
+456,赤电龙裙甲Ｕ,Khezu Coat U,mh4g-dex-build7+mh4edit-mit-save-id,6,0
+457,麒麟裙箍,Kirin Hoop,mh4g-dex-build7+mh4edit-mit-save-id,3,0
+458,麒麟饰带,Kirin Shorts,mh4g-dex-build7+mh4edit-mit-save-id,3,0
+459,冰麒麟裙箍Ｕ,Kirin Hoop U,mh4g-dex-build7+mh4edit-mit-save-id,7,0
+460,冰麒麟饰带Ｕ,Kirin Shorts U,mh4g-dex-build7+mh4edit-mit-save-id,7,0
+461,钢龙腿甲,Kushala Cocoon,mh4g-dex-build7+mh4edit-mit-save-id,7,0
+462,钢龙甲裙,Kushala Wind Wrap,mh4g-dex-build7+mh4edit-mit-save-id,7,0
+463,镰蟹腿甲,Ceanataur Tassets,mh4g-dex-build7+mh4edit-mit-save-id,2,0
+464,镰蟹裙甲,Ceanataur Coat,mh4g-dex-build7+mh4edit-mit-save-id,2,0
+465,晓丸【腰甲】,Auroros Tassets,mh4g-dex-build7+mh4edit-mit-save-id,3,0
+466,凛【腰甲】,Borealis Tassets,mh4g-dex-build7+mh4edit-mit-save-id,3,0
+467,曙丸【腰甲】,Genesis Tassets,mh4g-dex-build7+mh4edit-mit-save-id,3,0
+468,妖艳【腰甲】,Glyph Tassets,mh4g-dex-build7+mh4edit-mit-save-id,3,0
+469,弧光腿甲,Arc Faulds,mh4g-dex-build7+mh4edit-mit-save-id,3,0
+470,弧光裙甲,Arc Coat,mh4g-dex-build7+mh4edit-mit-save-id,3,0
+471,逆乱腿甲,Rebellion Coil,mh4g-dex-build7+mh4edit-mit-save-id,7,0
+472,暴乱裙甲,Riot Coat,mh4g-dex-build7+mh4edit-mit-save-id,7,0
+473,恶龙斜袴Ｘ,Dragonbarbs X,mh4g-dex-build7+mh4edit-mit-save-id,10,0
+474,恶龙尾Ｘ,Dragonsheath X,mh4g-dex-build7+mh4edit-mit-save-id,10,0
+475,盾蟹腿甲,Hermitaur Tassets,mh4g-dex-build7+mh4edit-mit-save-id,4,0
+476,盾蟹裙甲,Hermitaur Coat,mh4g-dex-build7+mh4edit-mit-save-id,4,0
+477,海龙腿甲,Lagiacrus Faulds,mh4g-dex-build7+mh4edit-mit-save-id,6,0
+478,海龙裙甲,Lagiacrus Coat,mh4g-dex-build7+mh4edit-mit-save-id,6,0
+479,煌黑龙之力,Escadora Might,mh4g-dex-build7+mh4edit-mit-save-id,7,0
+480,煌黑龙力量,Escadora Force,mh4g-dex-build7+mh4edit-mit-save-id,7,0
+481,铸锭腿甲,Ingot Coil,mh4g-dex-build7+mh4edit-mit-save-id,3,0
+482,铸锭裙甲,Ingot Coat,mh4g-dex-build7+mh4edit-mit-save-id,3,0
+483,神秘腿甲Ｓ,Artian Coil S,mh4g-dex-build7+mh4edit-mit-save-id,5,0
+484,神秘裙甲Ｓ,Artian Coat S,mh4g-dex-build7+mh4edit-mit-save-id,5,0
+485,友爱腿甲,Storge Faulds,mh4g-dex-build7+mh4edit-mit-save-id,3,0
+486,友爱裙甲,Storge Coat,mh4g-dex-build7+mh4edit-mit-save-id,3,0
+487,蓝速龙腿甲Ｘ,Velociprey Tassets X,mh4g-dex-build7+mh4edit-mit-save-id,8,0
+488,蓝速龙裙甲Ｘ,Velociprey Coat X,mh4g-dex-build7+mh4edit-mit-save-id,8,0
+489,红速龙腿甲Ｘ,Ioprey Tassets X,mh4g-dex-build7+mh4edit-mit-save-id,8,0
+490,红速龙裙甲Ｘ,Ioprey Coat X,mh4g-dex-build7+mh4edit-mit-save-id,8,0
+491,奇猿狐腿甲Ｘ,Kecha Faulds X,mh4g-dex-build7+mh4edit-mit-save-id,8,0
+492,奇猿狐裙甲Ｘ,Kecha Coat X,mh4g-dex-build7+mh4edit-mit-save-id,8,0
+493,白猿狐腿甲Ｚ,Kecha Faulds Z,mh4g-dex-build7+mh4edit-mit-save-id,8,0
+494,白猿狐裙甲Ｚ,Kecha Coat Z,mh4g-dex-build7+mh4edit-mit-save-id,8,0
+495,鬼蛙腿甲Ｘ,Tetsucabra Faulds X,mh4g-dex-build7+mh4edit-mit-save-id,8,0
+496,鬼蛙裙甲Ｘ,Tetsucabra Coat X,mh4g-dex-build7+mh4edit-mit-save-id,8,0
+497,荒鬼蛙腿甲Ｚ,Tetsucabra Faulds Z,mh4g-dex-build7+mh4edit-mit-save-id,8,0
+498,荒鬼蛙裙甲Ｚ,Tetsucabra Coat Z,mh4g-dex-build7+mh4edit-mit-save-id,8,0
+499,影蜘蛛腿甲Ｘ,Nerscylla Faulds X,mh4g-dex-build7+mh4edit-mit-save-id,8,0
+500,影蜘蛛裙甲Ｘ,Nerscylla Coat X,mh4g-dex-build7+mh4edit-mit-save-id,8,0
+501,骸蜘蛛腿甲Ｚ,Nerscylla Faulds Z,mh4g-dex-build7+mh4edit-mit-save-id,9,0
+502,骸蜘蛛裙甲Ｚ,Nerscylla Coat Z,mh4g-dex-build7+mh4edit-mit-save-id,9,0
+503,鬼鲛腿甲Ｘ,Zamtrios Faulds X,mh4g-dex-build7+mh4edit-mit-save-id,8,0
+504,鬼鲛裙甲Ｘ,Zamtrios Coat X,mh4g-dex-build7+mh4edit-mit-save-id,8,0
+505,虎鲛腿甲Ｚ,Zamtrios Faulds Z,mh4g-dex-build7+mh4edit-mit-save-id,8,0
+506,虎鲛裙甲Ｚ,Zamtrios Coat Z,mh4g-dex-build7+mh4edit-mit-save-id,8,0
+507,绞蛇龙腿甲Ｘ,Najarala Faulds X,mh4g-dex-build7+mh4edit-mit-save-id,8,0
+508,绞蛇龙裙甲Ｘ,Najarala Coat X,mh4g-dex-build7+mh4edit-mit-save-id,8,0
+509,水蛇龙腿甲Ｚ,Najarala Faulds Z,mh4g-dex-build7+mh4edit-mit-save-id,8,0
+510,水蛇龙裙甲Ｚ,Najarala Coat Z,mh4g-dex-build7+mh4edit-mit-save-id,8,0
+511,重甲虫腿甲Ｘ,Seltas Faulds X,mh4g-dex-build7+mh4edit-mit-save-id,9,0
+512,重甲虫裙甲Ｘ,Seltas Coat X,mh4g-dex-build7+mh4edit-mit-save-id,9,0
+513,炮甲虫腿甲Ｚ,Seltas Faulds Z,mh4g-dex-build7+mh4edit-mit-save-id,9,0
+514,炮甲虫裙甲Ｚ,Seltas Coat Z,mh4g-dex-build7+mh4edit-mit-save-id,9,0
+515,黑蚀龙腿甲Ｘ,Gore Faulds X,mh4g-dex-build7+mh4edit-mit-save-id,9,0
+516,黑蚀龙裙甲Ｘ,Gore Coat X,mh4g-dex-build7+mh4edit-mit-save-id,9,0
+517,Gore Base,Gore Base,mh4edit-mit-save-id-en-fallback,0,0
+518,Gore Tuilles,Gore Tuilles,mh4edit-mit-save-id-en-fallback,0,0
+519,弧光腿甲Ｘ,Arc Faulds X,mh4g-dex-build7+mh4edit-mit-save-id,10,0
+520,友爱腿甲Ｘ,Storge Faulds X,mh4g-dex-build7+mh4edit-mit-save-id,10,0
+521,弧光裙甲Ｘ,Arc Coat X,mh4g-dex-build7+mh4edit-mit-save-id,10,0
+522,友爱裙甲Ｘ,Storge Coat X,mh4g-dex-build7+mh4edit-mit-save-id,10,0
+523,Arc Base,Arc Base,mh4edit-mit-save-id-en-fallback,0,0
+524,Storge Base,Storge Base,mh4edit-mit-save-id-en-fallback,0,0
+525,Arc Tuilles,Arc Tuilles,mh4edit-mit-save-id-en-fallback,0,0
+526,Storge Tuilles,Storge Tuilles,mh4edit-mit-save-id-en-fallback,0,0
+527,巨戟龙腿甲,Gogma Faulds,mh4g-dex-build7+mh4edit-mit-save-id,10,0
+528,巨戟龙裙甲,Gogma Coat,mh4g-dex-build7+mh4edit-mit-save-id,10,0
+529,毒怪鸟腿甲Ｘ,Gypceros Tassets X,mh4g-dex-build7+mh4edit-mit-save-id,8,0
+530,毒怪鸟裙甲Ｘ,Gypceros Coat X,mh4g-dex-build7+mh4edit-mit-save-id,8,0
+531,Gypceros Base,Gypceros Base,mh4edit-mit-save-id-en-fallback,0,0
+532,Gypceros Tuilles,Gypceros Tuilles,mh4edit-mit-save-id-en-fallback,0,0
+533,紫毒怪鸟腿甲Ｚ,Gypceros Tassets Z,mh4g-dex-build7+mh4edit-mit-save-id,8,0
+534,紫毒怪鸟裙甲Ｚ,Gypceros Coat Z,mh4g-dex-build7+mh4edit-mit-save-id,8,0
+535,Gypceros Base U,Gypceros Base U,mh4edit-mit-save-id-en-fallback,0,0
+536,Gypceros Tuilles U,Gypceros Tuilles U,mh4edit-mit-save-id-en-fallback,0,0
+537,白兔兽腿甲Ｘ,Lagombi Faulds X,mh4g-dex-build7+mh4edit-mit-save-id,8,0
+538,白兔兽裙甲Ｘ,Lagombi Coat X,mh4g-dex-build7+mh4edit-mit-save-id,8,0
+539,桃毛兽腿甲Ｘ,Conga Tassets X,mh4g-dex-build7+mh4edit-mit-save-id,8,0
+540,桃毛兽裙甲Ｘ,Conga Coat X,mh4g-dex-build7+mh4edit-mit-save-id,8,0
+541,绿毛兽腿甲Ｚ,Conga Tassets Z,mh4g-dex-build7+mh4edit-mit-save-id,8,0
+542,绿毛兽裙甲Ｚ,Conga Coat Z,mh4g-dex-build7+mh4edit-mit-save-id,8,0
+543,电龙腿甲Ｘ,Khezu Tassets X,mh4g-dex-build7+mh4edit-mit-save-id,8,0
+544,电龙裙甲Ｘ,Khezu Coat X,mh4g-dex-build7+mh4edit-mit-save-id,8,0
+545,Khezu Base,Khezu Base,mh4edit-mit-save-id-en-fallback,0,0
+546,Khezu Tuilles,Khezu Tuilles,mh4edit-mit-save-id-en-fallback,0,0
+547,赤电龙腿甲Ｚ,Khezu Tassets Z,mh4g-dex-build7+mh4edit-mit-save-id,8,0
+548,赤电龙裙甲Ｚ,Khezu Coat Z,mh4g-dex-build7+mh4edit-mit-save-id,8,0
+549,Khezu Base U,Khezu Base U,mh4edit-mit-save-id-en-fallback,0,0
+550,Khezu Tuilles U,Khezu Tuilles U,mh4edit-mit-save-id-en-fallback,0,0
+551,雌火龙腿甲Ｘ,Rathian Faulds X,mh4g-dex-build7+mh4edit-mit-save-id,8,0
+552,雌火龙裙甲Ｘ,Rathian Coat X,mh4g-dex-build7+mh4edit-mit-save-id,8,0
+553,Rathian Base,Rathian Base,mh4edit-mit-save-id-en-fallback,0,0
+554,Rathian Tuilles,Rathian Tuilles,mh4edit-mit-save-id-en-fallback,0,0
+555,樱火龙腿甲Ｚ,Rath Heart Coil Z,mh4g-dex-build7+mh4edit-mit-save-id,8,0
+556,樱火龙裙甲Ｚ,Rath Heart Coat Z,mh4g-dex-build7+mh4edit-mit-save-id,8,0
+557,Rath Heart Base,Rath Heart Base,mh4edit-mit-save-id-en-fallback,0,0
+558,Rath Heart Tuilles,Rath Heart Tuilles,mh4edit-mit-save-id-en-fallback,0,0
+559,Ｇ・金火龙腿甲Ｚ,Golden Lunecoil Z,mh4g-dex-build7+mh4edit-mit-save-id,10,0
+560,Ｇ・金火龙裙甲Ｚ,Golden Lunecoat Z,mh4g-dex-build7+mh4edit-mit-save-id,10,0
+561,雄火龙腿甲Ｘ,Rathalos Faulds X,mh4g-dex-build7+mh4edit-mit-save-id,9,0
+562,雄火龙裙甲Ｘ,Rathalos Coat X,mh4g-dex-build7+mh4edit-mit-save-id,9,0
+563,Rathalos Base,Rathalos Base,mh4edit-mit-save-id-en-fallback,0,0
+564,Rathalos Tuilles,Rathalos Tuilles,mh4edit-mit-save-id-en-fallback,0,0
+565,苍火龙腿甲Ｚ,Rath Soul Coil Z,mh4g-dex-build7+mh4edit-mit-save-id,9,0
+566,苍火龙裙甲Ｚ,Rath Soul Coat Z,mh4g-dex-build7+mh4edit-mit-save-id,9,0
+567,Rath Soul Base,Rath Soul Base,mh4edit-mit-save-id-en-fallback,0,0
+568,Rath Soul Tuilles,Rath Soul Tuilles,mh4edit-mit-save-id-en-fallback,0,0
+569,Ｓ・银火龙腿甲Ｚ,Silver Solcoil Z,mh4g-dex-build7+mh4edit-mit-save-id,10,0
+570,Ｓ・银火龙裙甲Ｚ,Silver Solcoat Z,mh4g-dex-build7+mh4edit-mit-save-id,10,0
+571,Silver Solbase,Silver Solbase,mh4edit-mit-save-id-en-fallback,0,0
+572,Silver Soltuilles,Silver Soltuilles,mh4edit-mit-save-id-en-fallback,0,0
+573,雷狼龙腿甲Ｘ,Zinogre Faulds X,mh4g-dex-build7+mh4edit-mit-save-id,9,0
+574,雷狼龙裙甲Ｘ,Zinogre Coat X,mh4g-dex-build7+mh4edit-mit-save-id,9,0
+575,狱狼龙腿甲Ｚ,Zinogre Faulds Z,mh4g-dex-build7+mh4edit-mit-save-id,9,0
+576,狱狼龙裙甲Ｚ,Zinogre Coat Z,mh4g-dex-build7+mh4edit-mit-save-id,9,0
+577,Zinogre Base U,Zinogre Base U,mh4edit-mit-save-id-en-fallback,0,0
+578,Zinogre Tuilles U,Zinogre Tuilles U,mh4edit-mit-save-id-en-fallback,0,0
+579,轰龙腿甲Ｘ,Tigrex Tassets X,mh4g-dex-build7+mh4edit-mit-save-id,9,0
+580,轰龙裙甲Ｘ,Tigrex Coat X,mh4g-dex-build7+mh4edit-mit-save-id,9,0
+581,Tigrex Base,Tigrex Base,mh4edit-mit-save-id-en-fallback,0,0
+582,Tigrex Tuilles,Tigrex Tuilles,mh4edit-mit-save-id-en-fallback,0,0
+583,黑轰龙腿甲Ｚ,Tigrex Tassets Z,mh4g-dex-build7+mh4edit-mit-save-id,9,0
+584,黑轰龙裙甲Ｚ,Tigrex Coat Z,mh4g-dex-build7+mh4edit-mit-save-id,9,0
+585,Tigrex Base U,Tigrex Base U,mh4edit-mit-save-id-en-fallback,0,0
+586,Tigrex Tuilles U,Tigrex Tuilles U,mh4edit-mit-save-id-en-fallback,0,0
+587,大轰龙腿甲Ｚ,Excello Coil Z,mh4g-dex-build7+mh4edit-mit-save-id,10,0
+588,大轰龙裙甲Ｚ,Excello Coat Z,mh4g-dex-build7+mh4edit-mit-save-id,10,0
+589,铠龙腿甲Ｘ,Gravios Tassets X,mh4g-dex-build7+mh4edit-mit-save-id,9,0
+590,铠龙裙甲Ｘ,Gravios Coat X,mh4g-dex-build7+mh4edit-mit-save-id,9,0
+591,黑铠龙腿甲Ｚ,Gravios Tassets Z,mh4g-dex-build7+mh4edit-mit-save-id,9,0
+592,黑铠龙裙甲Ｚ,Gravios Coat Z,mh4g-dex-build7+mh4edit-mit-save-id,9,0
+593,碎龙腿甲Ｘ,Brachydios Faulds X,mh4g-dex-build7+mh4edit-mit-save-id,9,0
+594,碎龙裙甲Ｘ,Brachydios Coat X,mh4g-dex-build7+mh4edit-mit-save-id,9,0
+595,极限碎龙腿甲,Brachydium Faulds,mh4g-dex-build7+mh4edit-mit-save-id,10,0
+596,极限碎龙裙甲,Brachydium Coat,mh4g-dex-build7+mh4edit-mit-save-id,10,0
+597,残阳・真【腰甲】,Grand Gloaming Girdle,mh4g-dex-build7+mh4edit-mit-save-id,10,0
+598,常磐・真【腰甲】,Grand Adamance Girdle,mh4g-dex-build7+mh4edit-mit-save-id,10,0
+599,东云・真【腰甲】,Grand Dayspring Girdle,mh4g-dex-build7+mh4edit-mit-save-id,10,0
+600,八千代・真【腰甲】,Grand Epoch Girdle,mh4g-dex-build7+mh4edit-mit-save-id,10,0
+601,Gloaming Redfaulds,Gloaming Redfaulds,mh4edit-mit-save-id-en-fallback,0,0
+602,Adamance Redfaulds,Adamance Redfaulds,mh4edit-mit-save-id-en-fallback,0,0
+603,Dayspring Redfaulds,Dayspring Redfaulds,mh4edit-mit-save-id-en-fallback,0,0
+604,Epoch Redfaulds,Epoch Redfaulds,mh4edit-mit-save-id-en-fallback,0,0
+605,恐暴龙腿甲Ｘ,Vangis Coil X,mh4g-dex-build7+mh4edit-mit-save-id,9,0
+606,恐暴龙裙甲Ｘ,Vangis Coat X,mh4g-dex-build7+mh4edit-mit-save-id,9,0
+607,贪婪腿甲Ｚ,Esurient Faulds Z,mh4g-dex-build7+mh4edit-mit-save-id,10,0
+608,贪婪裙甲Ｚ,Esurient Coat Z,mh4g-dex-build7+mh4edit-mit-save-id,10,0
+609,Esurient Base,Esurient Base,mh4edit-mit-save-id-en-fallback,0,0
+610,Esurient Tuilles,Esurient Tuilles,mh4edit-mit-save-id-en-fallback,0,0
+611,炎王龙腿甲Ｘ,Kaiser Tassets X,mh4g-dex-build7+mh4edit-mit-save-id,10,0
+612,炎王龙裙甲Ｘ,Kaiser Coat X,mh4g-dex-build7+mh4edit-mit-save-id,10,0
+613,霸龙腿甲Ｘ,Akantor Cincture X,mh4g-dex-build7+mh4edit-mit-save-id,10,0
+614,霸龙甲裙Ｘ,Akantor Sash X,mh4g-dex-build7+mh4edit-mit-save-id,10,0
+615,Akantor Base,Akantor Base,mh4edit-mit-save-id-en-fallback,0,0
+616,Akantor Tuilles,Akantor Tuilles,mh4edit-mit-save-id-en-fallback,0,0
+617,EX煌黑龙之力,EX Escadora Might,mh4g-dex-build7+mh4edit-mit-save-id,10,0
+618,EX煌黑龙力量,EX Escadora Force,mh4g-dex-build7+mh4edit-mit-save-id,10,0
+619,崩龙腿甲Ｘ,Ukanlos Cincture X,mh4g-dex-build7+mh4edit-mit-save-id,10,0
+620,崩龙甲裙Ｘ,Ukanlos Sash X,mh4g-dex-build7+mh4edit-mit-save-id,10,0
+621,钢龙腿甲Ｘ,Kushala Cocoon X,mh4g-dex-build7+mh4edit-mit-save-id,10,0
+622,钢龙甲裙Ｘ,Kushala Wind Wrap X,mh4g-dex-build7+mh4edit-mit-save-id,10,0
+623,Kushala Base,Kushala Base,mh4edit-mit-save-id-en-fallback,0,0
+624,Kushala Tuilles,Kushala Tuilles,mh4edit-mit-save-id-en-fallback,0,0
+625,锈钢龙腿甲,Kujula Cocoon,mh4g-dex-build7+mh4edit-mit-save-id,10,0
+626,锈钢龙甲裙,Kujula Wind Wrap,mh4g-dex-build7+mh4edit-mit-save-id,10,0
+627,齐天的系带・真,Grand God's Peer Belt,mh4g-dex-build7+mh4edit-mit-save-id,10,0
+628,仙师的系带・真,Grand Hermit Belt,mh4g-dex-build7+mh4edit-mit-save-id,10,0
+629,怒天的系带・真,Grand Divine Ire Obi,mh4g-dex-build7+mh4edit-mit-save-id,10,0
+630,心灭的系带・真,Grand Crusher Belt,mh4g-dex-build7+mh4edit-mit-save-id,10,0
+631,逆乱腿甲Ｘ,Rebellion Coil X,mh4g-dex-build7+mh4edit-mit-save-id,10,0
+632,暴乱裙甲Ｘ,Riot Coat X,mh4g-dex-build7+mh4edit-mit-save-id,10,0
+633,Rebellion Base,Rebellion Base,mh4edit-mit-save-id-en-fallback,0,0
+634,Riot Tuilles,Riot Tuilles,mh4edit-mit-save-id-en-fallback,0,0
+635,逆乱腿甲Ｚ,Rebellion Coil Z,mh4g-dex-build7+mh4edit-mit-save-id,10,0
+636,暴乱裙甲Ｚ,Riot Coat Z,mh4g-dex-build7+mh4edit-mit-save-id,10,0
+637,砂龙腿甲Ｘ,Cephalos Tassets X,mh4g-dex-build7+mh4edit-mit-save-id,8,0
+638,砂龙裙甲Ｘ,Cephalos Coat X,mh4g-dex-build7+mh4edit-mit-save-id,8,0
+639,盾蟹腿甲Ｘ,Hermitaur Tassets X,mh4g-dex-build7+mh4edit-mit-save-id,8,0
+640,盾蟹裙甲Ｘ,Hermitaur Coat X,mh4g-dex-build7+mh4edit-mit-save-id,8,0
+641,Hermitaur Base,Hermitaur Base,mh4edit-mit-save-id-en-fallback,0,0
+642,Hermitaur Tuilles,Hermitaur Tuilles,mh4edit-mit-save-id-en-fallback,0,0
+643,紫盾蟹腿甲Ｚ,Hermitaur Tassets Z,mh4g-dex-build7+mh4edit-mit-save-id,8,0
+644,紫盾蟹裙甲Ｚ,Hermitaur Coat Z,mh4g-dex-build7+mh4edit-mit-save-id,8,0
+645,一角龙腿甲Ｓ,Mono Coil S,mh4g-dex-build7+mh4edit-mit-save-id,5,0
+646,一角龙裙甲Ｓ,Mono Coat S,mh4g-dex-build7+mh4edit-mit-save-id,5,0
+647,一角龙腿甲Ｘ,Mono Coil X,mh4g-dex-build7+mh4edit-mit-save-id,9,0
+648,一角龙裙甲Ｘ,Mono Coat X,mh4g-dex-build7+mh4edit-mit-save-id,9,0
+649,Mono Coil,Mono Coil,mh4edit-mit-save-id-en-fallback,0,0
+650,Mono Coat,Mono Coat,mh4edit-mit-save-id-en-fallback,0,0
+651,Mono Base,Mono Base,mh4edit-mit-save-id-en-fallback,0,0
+652,Mono Tuilles,Mono Tuilles,mh4edit-mit-save-id-en-fallback,0,0
+653,白一角龙腿甲,Monodevil Coil,mh4g-dex-build7+mh4edit-mit-save-id,9,0
+654,白一角龙裙甲,Monodevil Coat,mh4g-dex-build7+mh4edit-mit-save-id,9,0
+655,白一角龙腿甲,Monodevil Coil,mh4g-dex-build7+mh4edit-mit-save-id,9,0
+656,白一角龙裙甲,Monodevil Coat,mh4g-dex-build7+mh4edit-mit-save-id,9,0
+657,Monodevil Base,Monodevil Base,mh4edit-mit-save-id-en-fallback,0,0
+658,Monodevil Tuilles,Monodevil Tuilles,mh4edit-mit-save-id-en-fallback,0,0
+659,角龙腿甲Ｘ,Diablos Coil X,mh4g-dex-build7+mh4edit-mit-save-id,9,0
+660,角龙裙甲Ｘ,Diablos Coat X,mh4g-dex-build7+mh4edit-mit-save-id,9,0
+661,角龙腿甲,Diablos Coil,mh4g-dex-build7+mh4edit-mit-save-id,3,0
+662,角龙裙甲,Diablos Coat,mh4g-dex-build7+mh4edit-mit-save-id,3,0
+663,Diablos Base,Diablos Base,mh4edit-mit-save-id-en-fallback,0,0
+664,Diablos Tuilles,Diablos Tuilles,mh4edit-mit-save-id-en-fallback,0,0
+665,黑角龙腿甲Ｚ,Diablos Coil Z,mh4g-dex-build7+mh4edit-mit-save-id,9,0
+666,黑角龙裙甲Ｚ,Diablos Coat Z,mh4g-dex-build7+mh4edit-mit-save-id,9,0
+667,恶龙斜袴Ｘ,Dragonbarbs X,mh4g-dex-build7+mh4edit-mit-save-id,10,0
+668,恶龙尾Ｘ,Dragonsheath X,mh4g-dex-build7+mh4edit-mit-save-id,10,0
+669,Dragonbase X,Dragonbase X,mh4edit-mit-save-id-en-fallback,0,0
+670,Dragontuilles X,Dragontuilles X,mh4edit-mit-save-id-en-fallback,0,0
+671,Fatalis Crimsonbarbs Z,Fatalis Crimsonbarbs Z,mh4edit-mit-save-id-en-fallback,0,0
+672,Fatalis Crimsonscale Z,Fatalis Crimsonscale Z,mh4edit-mit-save-id-en-fallback,0,0
+673,Fatalis Crimsonbase Z,Fatalis Crimsonbase Z,mh4edit-mit-save-id-en-fallback,0,0
+674,Fatalis Crimsontuilles Z,Fatalis Crimsontuilles Z,mh4edit-mit-save-id-en-fallback,0,0
+675,黑龙斜袴,Wroth Spines,mh4g-dex-build7+mh4edit-mit-save-id,10,0
+676,黑龙尾,Wroth Scales,mh4g-dex-build7+mh4edit-mit-save-id,10,0
+677,祖龙斜袴,White Fatalis Spine,mh4g-dex-build7+mh4edit-mit-save-id,10,0
+678,祖龙尾,White Fatalis Scale,mh4g-dex-build7+mh4edit-mit-save-id,10,0
+679,罔象真【丸带】,Grand Mizuha Sash,mh4g-dex-build7+mh4edit-mit-save-id,10,0
+680,丰玉真【丸带】,Grand Cham Coat,mh4g-dex-build7+mh4edit-mit-save-id,10,0
+681,千刃龙腿甲Ｓ,Regios Tassets S,mh4g-dex-build7+mh4edit-mit-save-id,6,0
+682,千刃龙裙甲Ｓ,Regios Coat S,mh4g-dex-build7+mh4edit-mit-save-id,6,0
+683,千刃龙腿甲Ｘ,Regios Tassets X,mh4g-dex-build7+mh4edit-mit-save-id,9,0
+684,千刃龙裙甲Ｘ,Regios Coat X,mh4g-dex-build7+mh4edit-mit-save-id,9,0
+685,浑沌腿甲,Chaos Faulds,mh4g-dex-build7+mh4edit-mit-save-id,9,0
+686,拿非利腿甲,Nephilim Tassets,mh4g-dex-build7+mh4edit-mit-save-id,9,0
+687,浑沌裙甲,Chaos Coat,mh4g-dex-build7+mh4edit-mit-save-id,9,0
+688,拿非利裙甲,Nephilim Coat,mh4g-dex-build7+mh4edit-mit-save-id,9,0
+689,岩龙腿甲Ｘ,Basarios Tassets X,mh4g-dex-build7+mh4edit-mit-save-id,8,0
+690,岩龙裙甲Ｘ,Basarios Coat X,mh4g-dex-build7+mh4edit-mit-save-id,8,0
+691,桃岩龙腿甲Ｚ,Basarios Tassets Z,mh4g-dex-build7+mh4edit-mit-save-id,8,0
+692,桃岩龙裙甲Ｚ,Basarios Coat Z,mh4g-dex-build7+mh4edit-mit-save-id,8,0
+693,大怪鸟腿甲Ｘ,Kut-Ku Tassets X,mh4g-dex-build7+mh4edit-mit-save-id,8,0
+694,大怪鸟裙甲Ｘ,Kut-Ku Coat X,mh4g-dex-build7+mh4edit-mit-save-id,8,0
+695,青怪鸟腿甲Ｚ,Kut-Ku Tassets Z,mh4g-dex-build7+mh4edit-mit-save-id,8,0
+696,青怪鸟裙甲Ｚ,Kut-Ku Coat Z,mh4g-dex-build7+mh4edit-mit-save-id,8,0
+697,黑狼鸟腿甲Ｘ,Garuga Tassets X,mh4g-dex-build7+mh4edit-mit-save-id,9,0
+698,黑狼鸟裙甲Ｘ,Garuga Coat X,mh4g-dex-build7+mh4edit-mit-save-id,9,0
+699,麒麟裙箍Ｘ,Kirin Hoop X,mh4g-dex-build7+mh4edit-mit-save-id,10,0
+700,麒麟饰带Ｘ,Kirin Shorts X,mh4g-dex-build7+mh4edit-mit-save-id,10,0
+701,Kirin Base,Kirin Base,mh4edit-mit-save-id-en-fallback,0,0
+702,Kirin Tuilles,Kirin Tuilles,mh4edit-mit-save-id-en-fallback,0,0
+703,冰麒麟裙箍Ｚ,Kirin Hoop Z,mh4g-dex-build7+mh4edit-mit-save-id,10,0
+704,冰麒麟饰带Ｚ,Kirin Shorts Z,mh4g-dex-build7+mh4edit-mit-save-id,10,0
+705,Kirin Base U,Kirin Base U,mh4edit-mit-save-id-en-fallback,0,0
+706,Kirin Tuilles U,Kirin Tuilles U,mh4edit-mit-save-id-en-fallback,0,0
+707,飞甲虫腿甲Ｘ,Bnahabra Coil X,mh4g-dex-build7+mh4edit-mit-save-id,8,0
+708,飞甲虫裙甲Ｘ,Bnahabra Coat X,mh4g-dex-build7+mh4edit-mit-save-id,8,0
+709,DUMMY,DUMMY,mh4edit-mit-save-id-en-fallback,0,0
+710,DUMMY,DUMMY,mh4edit-mit-save-id-en-fallback,0,0
+711,草食龙腿甲Ｘ,Rhenoplos Coil X,mh4g-dex-build7+mh4edit-mit-save-id,8,0
+712,草食龙裙甲Ｘ,Rhenoplos Coat X,mh4g-dex-build7+mh4edit-mit-save-id,8,0
+713,Hunter's Base,Hunter's Base,mh4edit-mit-save-id-en-fallback,0,0
+714,Hunter's Tuilles,Hunter's Tuilles,mh4edit-mit-save-id-en-fallback,0,0
+715,Alloy Base,Alloy Base,mh4edit-mit-save-id-en-fallback,0,0
+716,Alloy Tuilles,Alloy Tuilles,mh4edit-mit-save-id-en-fallback,0,0
+717,神秘腿甲Ｘ,Artian Coil X,mh4g-dex-build7+mh4edit-mit-save-id,9,0
+718,神秘裙甲Ｘ,Artian Coat X,mh4g-dex-build7+mh4edit-mit-save-id,9,0
+719,Arc Base S,Arc Base S,mh4edit-mit-save-id-en-fallback,0,0
+720,Arc Tuilles S,Arc Tuilles S,mh4edit-mit-save-id-en-fallback,0,0
+721,Ingot Base,Ingot Base,mh4edit-mit-save-id-en-fallback,0,0
+722,Ingot Tuilles,Ingot Tuilles,mh4edit-mit-save-id-en-fallback,0,0
+723,守护者腿甲Ｘ,Guardian Coil X,mh4g-dex-build7+mh4edit-mit-save-id,8,0
+724,女佣褶裙Ｘ,Helper Skirt X,mh4g-dex-build7+mh4edit-mit-save-id,8,0
+725,守护者裙甲Ｘ,Guardian Coat X,mh4g-dex-build7+mh4edit-mit-save-id,8,0
+726,护士迷你裙Ｘ,Healer Frills X,mh4g-dex-build7+mh4edit-mit-save-id,8,0
+727,守护者腿甲Ｚ,Guardian Coil Z,mh4g-dex-build7+mh4edit-mit-save-id,9,0
+728,女佣褶裙Ｚ,Helper Skirt Z,mh4g-dex-build7+mh4edit-mit-save-id,9,0
+729,守护者裙甲Ｚ,Guardian Coat Z,mh4g-dex-build7+mh4edit-mit-save-id,9,0
+730,护士迷你裙Ｚ,Healer Frills Z,mh4g-dex-build7+mh4edit-mit-save-id,9,0
+731,G骑士装腿甲Ｘ,G. Knight Coat X,mh4g-dex-build7+mh4edit-mit-save-id,9,0
+732,女仆装褶裙Ｘ,Maiden's Skirt X,mh4g-dex-build7+mh4edit-mit-save-id,9,0
+733,G骑士装褶裙Ｘ,G. Knight Kilt X,mh4g-dex-build7+mh4edit-mit-save-id,9,0
+734,私密装迷你裙Ｘ,Exclusive Frills X,mh4g-dex-build7+mh4edit-mit-save-id,9,0
+735,首领腿甲,Ace Faulds,mh4g-dex-build7+mh4edit-mit-save-id,9,0
+736,女王腿甲,Sororal Faulds,mh4g-dex-build7+mh4edit-mit-save-id,9,0
+737,首领裙甲,Ace Coat,mh4g-dex-build7+mh4edit-mit-save-id,9,0
+738,女王裙甲,Sororal Coat,mh4g-dex-build7+mh4edit-mit-save-id,9,0
+739,Ceanataur Base,Ceanataur Base,mh4edit-mit-save-id-en-fallback,0,0
+740,Ceanataur Tuilles,Ceanataur Tuilles,mh4edit-mit-save-id-en-fallback,0,0
+741,Lagiacrus Base,Lagiacrus Base,mh4edit-mit-save-id-en-fallback,0,0
+742,Lagiacrus Tuilles,Lagiacrus Tuilles,mh4edit-mit-save-id-en-fallback,0,0
+743,Escadora Base,Escadora Base,mh4edit-mit-save-id-en-fallback,0,0
+744,Escadora Tuilles,Escadora Tuilles,mh4edit-mit-save-id-en-fallback,0,0
+745,Auroros Kermes Faulds,Auroros Kermes Faulds,mh4edit-mit-save-id-en-fallback,0,0
+746,Borealis Woad Faulds,Borealis Woad Faulds,mh4edit-mit-save-id-en-fallback,0,0
+747,Genesis Kermes Faulds,Genesis Kermes Faulds,mh4edit-mit-save-id-en-fallback,0,0
+748,Glyph Woad Faulds,Glyph Woad Faulds,mh4edit-mit-save-id-en-fallback,0,0
+749,Ludroth Base,Ludroth Base,mh4edit-mit-save-id-en-fallback,0,0
+750,Ludroth Tuilles,Ludroth Tuilles,mh4edit-mit-save-id-en-fallback,0,0
+751,Hornet Tassets,Hornet Tassets,mh4edit-mit-save-id-en-fallback,0,0
+752,Hornet Coat,Hornet Coat,mh4edit-mit-save-id-en-fallback,0,0
+753,Hornet Base,Hornet Base,mh4edit-mit-save-id-en-fallback,0,0
+754,Hornet Tuilles,Hornet Tuilles,mh4edit-mit-save-id-en-fallback,0,0
+755,Wroggi Faulds,Wroggi Faulds,mh4edit-mit-save-id-en-fallback,0,0
+756,Wroggi Coat,Wroggi Coat,mh4edit-mit-save-id-en-fallback,0,0
+757,Wroggi Base,Wroggi Base,mh4edit-mit-save-id-en-fallback,0,0
+758,Wroggi Tuilles,Wroggi Tuilles,mh4edit-mit-save-id-en-fallback,0,0
+759,Gigginox Faulds,Gigginox Faulds,mh4edit-mit-save-id-en-fallback,0,0
+760,Gigginox Coat,Gigginox Coat,mh4edit-mit-save-id-en-fallback,0,0
+761,Gigginox Base,Gigginox Base,mh4edit-mit-save-id-en-fallback,0,0
+762,Gigginox Tuilles,Gigginox Tuilles,mh4edit-mit-save-id-en-fallback,0,0
+763,荒天【带】,Tempest Obi,mh4g-dex-build7+mh4edit-mit-save-id,10,0
+764,苍天【带】,Welkin Obi,mh4g-dex-build7+mh4edit-mit-save-id,10,0
+765,Tempest Truss,Tempest Truss,mh4edit-mit-save-id-en-fallback,0,0
+766,Welkin Truss,Welkin Truss,mh4edit-mit-save-id-en-fallback,0,0
+767,Death Stench Bowels,Death Stench Bowels,mh4edit-mit-save-id-en-fallback,0,0
+768,Death Stench Belly,Death Stench Belly,mh4edit-mit-save-id-en-fallback,0,0
+769,Death Stench Base,Death Stench Base,mh4edit-mit-save-id-en-fallback,0,0
+770,Death Stench Tuilles,Death Stench Tuilles,mh4edit-mit-save-id-en-fallback,0,0
+771,Damascus Coil,Damascus Coil,mh4edit-mit-save-id-en-fallback,0,0
+772,Damascus Coat,Damascus Coat,mh4edit-mit-save-id-en-fallback,0,0
+773,Damascus Base,Damascus Base,mh4edit-mit-save-id-en-fallback,0,0
+774,Damascus Tuilles,Damascus Tuilles,mh4edit-mit-save-id-en-fallback,0,0
+775,海龙腿甲Ｘ,Lagiacrus Faulds X,mh4g-dex-build7+mh4edit-mit-save-id,9,0
+776,海龙裙甲Ｘ,Lagiacrus Coat X,mh4g-dex-build7+mh4edit-mit-save-id,9,0
+777,迅龙腿甲Ｘ,Nargacuga Faulds X,mh4g-dex-build7+mh4edit-mit-save-id,9,0
+778,迅龙裙甲Ｘ,Nargacuga Coat X,mh4g-dex-build7+mh4edit-mit-save-id,9,0
+779,炎妃龙腿甲Ｘ,Empress Coil X,mh4g-dex-build7+mh4edit-mit-save-id,10,0
+780,炎妃龙裙甲Ｘ,Empress Coat X,mh4g-dex-build7+mh4edit-mit-save-id,10,0
+781,太阳神腿甲Ｘ,Helios Coil X,mh4g-dex-build7+mh4edit-mit-save-id,10,0
+782,月神腿甲Ｘ,Selene Coil X,mh4g-dex-build7+mh4edit-mit-save-id,10,0
+783,太阳神裙甲Ｘ,Helios Coat X,mh4g-dex-build7+mh4edit-mit-save-id,10,0
+784,月神裙甲Ｘ,Selene Coat X,mh4g-dex-build7+mh4edit-mit-save-id,10,0
+785,炎戈龙腿甲Ｘ,Agnaktor Faulds X,mh4g-dex-build7+mh4edit-mit-save-id,8,0
+786,炎戈龙裙甲Ｘ,Agnaktor Coat X,mh4g-dex-build7+mh4edit-mit-save-id,8,0
+787,彩鸟腿甲Ｘ,Qurupeco Coil X,mh4g-dex-build7+mh4edit-mit-save-id,8,0
+788,彩鸟裙甲Ｘ,Qurupeco Coat X,mh4g-dex-build7+mh4edit-mit-save-id,8,0
+789,灯鱼龙腿甲Ｘ,Gobul Faulds X,mh4g-dex-build7+mh4edit-mit-save-id,8,0
+790,灯鱼龙裙甲Ｘ,Gobul Coat X,mh4g-dex-build7+mh4edit-mit-save-id,8,0
+791,冰牙龙腿甲Ｘ,Barioth Faulds X,mh4g-dex-build7+mh4edit-mit-save-id,8,0
+792,冰牙龙裙甲Ｘ,Barioth Coat X,mh4g-dex-build7+mh4edit-mit-save-id,8,0
+793,土砂龙腿甲Ｘ,Barroth Faulds X,mh4g-dex-build7+mh4edit-mit-save-id,8,0
+794,土砂龙裙甲Ｘ,Barroth Coat X,mh4g-dex-build7+mh4edit-mit-save-id,8,0
+795,潜口龙腿甲Ｘ,Nibelsnarf Faulds X,mh4g-dex-build7+mh4edit-mit-save-id,8,0
+796,潜口龙裙甲Ｘ,Nibelsnarf Coat X,mh4g-dex-build7+mh4edit-mit-save-id,8,0
+797,尾槌龙腿甲Ｘ,Duramboros Faulds X,mh4g-dex-build7+mh4edit-mit-save-id,9,0
+798,尾槌龙裙甲Ｘ,Duramboros Coat X,mh4g-dex-build7+mh4edit-mit-save-id,9,0
+799,溶岩龙腿甲Ｘ,Lava Tassets X,mh4g-dex-build7+mh4edit-mit-save-id,9,0
+800,溶岩龙裙甲Ｘ,Lava Coat X,mh4g-dex-build7+mh4edit-mit-save-id,9,0
+801,大和・真【腰甲】,Grand Yamato Koshiate,mh4g-dex-build7+mh4edit-mit-save-id,10,0
+802,日向・真【腰甲】,Grand Hyuga Koshiate,mh4g-dex-build7+mh4edit-mit-save-id,10,0
+803,陆奥・真【腰甲】,Grand Mutsu Koshiate,mh4g-dex-build7+mh4edit-mit-save-id,10,0
+804,天成・真【腰甲】,Grand Amagi Koshiate,mh4g-dex-build7+mh4edit-mit-save-id,10,0
+805,夜叉・真【腰卷】,Grand Yaksha Coil,mh4g-dex-build7+mh4edit-mit-save-id,10,0
+806,修罗・真【腰卷】,Grand Carnage Wrap,mh4g-dex-build7+mh4edit-mit-save-id,10,0
+807,炼黑龙斜袴,Miralis Barbs,mh4g-dex-build7+mh4edit-mit-save-id,10,0
+808,炼黑龙尾,Miralis Sheath,mh4g-dex-build7+mh4edit-mit-save-id,10,0
+809,翠水龙腿甲Ｚ,Plesioth Tassets Z,mh4g-dex-build7+mh4edit-mit-save-id,8,0
+810,翠水龙裙甲Ｚ,Plesioth Coat Z,mh4g-dex-build7+mh4edit-mit-save-id,8,0
+811,DUMMY,DUMMY,mh4edit-mit-save-id-en-fallback,0,0
+812,DUMMY,DUMMY,mh4edit-mit-save-id-en-fallback,0,0
+813,厨师沙龙,Patissier's Sarong,mh4g-dex-build7+mh4edit-mit-save-id,7,0
+814,厨师围裙,Patissier's Apron,mh4g-dex-build7+mh4edit-mit-save-id,7,0
+815,矿石腿甲Ｓ,High Metal Tassets S,mh4g-dex-build7+mh4edit-mit-save-id,5,0
+816,矿石裙甲Ｓ,High Metal Coat S,mh4g-dex-build7+mh4edit-mit-save-id,5,0
+817,锹虫腿甲Ｘ,Aelucanth Elytra X,mh4g-dex-build7+mh4edit-mit-save-id,8,0
+818,蝴蝶腿甲Ｘ,Rhopessa Elytra X,mh4g-dex-build7+mh4edit-mit-save-id,8,0
+819,锹虫裙甲Ｘ,Aelucanth Alae X,mh4g-dex-build7+mh4edit-mit-save-id,8,0
+820,蝴蝶裙甲Ｘ,Rhopessa Alae X,mh4g-dex-build7+mh4edit-mit-save-id,8,0
+821,独角仙腿甲Ｘ,Obituary Elytra X,mh4g-dex-build7+mh4edit-mit-save-id,8,0
+822,彩蝶腿甲Ｘ,Butterfly Elytra X,mh4g-dex-build7+mh4edit-mit-save-id,8,0
+823,独角仙裙甲Ｘ,Obituary Alae X,mh4g-dex-build7+mh4edit-mit-save-id,8,0
+824,彩蝶裙甲Ｘ,Butterfly Alae X,mh4g-dex-build7+mh4edit-mit-save-id,8,0
+825,EX晓丸【腰甲】,EX Auroros Tassets,mh4g-dex-build7+mh4edit-mit-save-id,10,0
+826,EX凛【腰甲】,EX Borealis Tassets,mh4g-dex-build7+mh4edit-mit-save-id,10,0
+827,EX曙丸【腰甲】,EX Genesis Tassets,mh4g-dex-build7+mh4edit-mit-save-id,10,0
+828,EX妖艳【腰甲】,EX Glyph Tassets,mh4g-dex-build7+mh4edit-mit-save-id,10,0
+829,荒天【带】,Tempest Obi,mh4g-dex-build7+mh4edit-mit-save-id,10,0
+830,苍天【带】,Welkin Obi,mh4g-dex-build7+mh4edit-mit-save-id,10,0
+831,GX Escadora Base,GX Escadora Base,mh4edit-mit-save-id-en-fallback,0,0
+832,GX Escadora Tuilles,GX Escadora Tuilles,mh4edit-mit-save-id-en-fallback,0,0
+833,GX Dragonbase X,GX Dragonbase X,mh4edit-mit-save-id-en-fallback,0,0
+834,GX Dragontuilles X,GX Dragontuilles X,mh4edit-mit-save-id-en-fallback,0,0
+835,星骑士腿甲,Star Knight Coil,mh4g-dex-build7+mh4edit-mit-save-id,10,0
+836,星骑士裙甲,Star Knight Coat,mh4g-dex-build7+mh4edit-mit-save-id,10,0
+837,dummy351,dummy351,mh4edit-mit-save-id-en-fallback,0,0
+838,dummy1352,dummy1352,mh4edit-mit-save-id-en-fallback,0,0
+839,dummy1353,dummy1353,mh4edit-mit-save-id-en-fallback,0,0
+840,dummy1354,dummy1354,mh4edit-mit-save-id-en-fallback,0,0
+841,dummy1357,dummy1357,mh4edit-mit-save-id-en-fallback,0,0
+842,dummy1358,dummy1358,mh4edit-mit-save-id-en-fallback,0,0
+843,DUMMY,DUMMY,mh4edit-mit-save-id-en-fallback,0,0
+844,DUMMY,DUMMY,mh4edit-mit-save-id-en-fallback,0,0
+845,DUMMY,DUMMY,mh4edit-mit-save-id-en-fallback,0,0
+846,DUMMY,DUMMY,mh4edit-mit-save-id-en-fallback,0,0
+847,DUMMY,DUMMY,mh4edit-mit-save-id-en-fallback,0,0
+848,DUMMY,DUMMY,mh4edit-mit-save-id-en-fallback,0,0
+849,团长腿甲Ｘ,Hawkcoil X,mh4g-dex-build7+mh4edit-mit-save-id,9,0
+850,看板娘褶裙Ｘ,Lecturer's Skirt X,mh4g-dex-build7+mh4edit-mit-save-id,9,0
+851,团长裙甲Ｘ,Hawkcoat X,mh4g-dex-build7+mh4edit-mit-save-id,9,0
+852,看板娘迷你裙Ｘ,Lecturer's Frills X,mh4g-dex-build7+mh4edit-mit-save-id,9,0
+853,GX猎人木材,GX Hunter's Base,mh4g-dex-build7+mh4edit-mit-save-id,10,0
+854,GX猎人腿甲,GX Hunter's Tuilles,mh4g-dex-build7+mh4edit-mit-save-id,10,0
+855,GX贪婪木材,GX Esurient Base,mh4g-dex-build7+mh4edit-mit-save-id,10,0
+856,GX贪婪腿甲,GX Esurient Tuilles,mh4g-dex-build7+mh4edit-mit-save-id,10,0
+857,GX荒天【羽带】,GX Tempest Truss,mh4g-dex-build7+mh4edit-mit-save-id,10,0
+858,GX苍天【羽带】,GX Welkin Truss,mh4g-dex-build7+mh4edit-mit-save-id,10,0
+859,GX红黑龙木材Ｚ,GX Fatalis Crimsonbase,mh4g-dex-build7+mh4edit-mit-save-id,10,0
+860,GX红黑龙腿甲Ｚ,GX Fatalis Crimsontuilles,mh4g-dex-build7+mh4edit-mit-save-id,10,0
+861,猎人腿甲,Hunter's Faulds,mh4g-dex-build7+mh4edit-mit-save-id,1,0
+862,猎人裙甲,Hunter's Coat,mh4g-dex-build7+mh4edit-mit-save-id,1,0
+863,猎人腿甲,Hunter's Faulds,mh4g-dex-build7+mh4edit-mit-save-id,1,0
+864,猎人裙甲,Hunter's Coat,mh4g-dex-build7+mh4edit-mit-save-id,1,0
+865,水兽腿甲,Ludroth Faulds,mh4g-dex-build7+mh4edit-mit-save-id,2,0
+866,水兽裙甲,Ludroth Coat,mh4g-dex-build7+mh4edit-mit-save-id,2,0
+867,水兽腿甲,Ludroth Faulds,mh4g-dex-build7+mh4edit-mit-save-id,2,0
+868,水兽裙甲,Ludroth Coat,mh4g-dex-build7+mh4edit-mit-save-id,2,0
+869,合金腿甲,Alloy Coil,mh4g-dex-build7+mh4edit-mit-save-id,1,0
+870,合金裙甲,Alloy Coat,mh4g-dex-build7+mh4edit-mit-save-id,1,0
+871,合金腿甲,Alloy Coil,mh4g-dex-build7+mh4edit-mit-save-id,1,0
+872,合金裙甲,Alloy Coat,mh4g-dex-build7+mh4edit-mit-save-id,1,0
+873,毒怪鸟腿甲,Gypceros Tassets,mh4g-dex-build7+mh4edit-mit-save-id,2,0
+874,毒怪鸟裙甲,Gypceros Coat,mh4g-dex-build7+mh4edit-mit-save-id,2,0
+875,毒怪鸟腿甲,Gypceros Tassets,mh4g-dex-build7+mh4edit-mit-save-id,2,0
+876,毒怪鸟裙甲,Gypceros Coat,mh4g-dex-build7+mh4edit-mit-save-id,2,0
+877,电龙腿甲,Khezu Tassets,mh4g-dex-build7+mh4edit-mit-save-id,2,0
+878,电龙裙甲,Khezu Coat,mh4g-dex-build7+mh4edit-mit-save-id,2,0
+879,电龙腿甲,Khezu Tassets,mh4g-dex-build7+mh4edit-mit-save-id,2,0
+880,电龙裙甲,Khezu Coat,mh4g-dex-build7+mh4edit-mit-save-id,2,0
+881,铸锭腿甲,Ingot Coil,mh4g-dex-build7+mh4edit-mit-save-id,3,0
+882,铸锭裙甲,Ingot Coat,mh4g-dex-build7+mh4edit-mit-save-id,3,0
+883,铸锭腿甲,Ingot Coil,mh4g-dex-build7+mh4edit-mit-save-id,3,0
+884,铸锭裙甲,Ingot Coat,mh4g-dex-build7+mh4edit-mit-save-id,3,0
+885,雌火龙腿甲,Rathian Faulds,mh4g-dex-build7+mh4edit-mit-save-id,2,0
+886,雌火龙裙甲,Rathian Coat,mh4g-dex-build7+mh4edit-mit-save-id,2,0
+887,海龙腿甲,Lagiacrus Faulds,mh4g-dex-build7+mh4edit-mit-save-id,6,0
+888,海龙裙甲,Lagiacrus Coat,mh4g-dex-build7+mh4edit-mit-save-id,6,0
+889,雄火龙腿甲,Rathalos Faulds,mh4g-dex-build7+mh4edit-mit-save-id,3,0
+890,雄火龙裙甲,Rathalos Coat,mh4g-dex-build7+mh4edit-mit-save-id,3,0
+891,紫毒怪鸟腿甲Ｕ,Gypceros Tassets U,mh4g-dex-build7+mh4edit-mit-save-id,6,0
+892,紫毒怪鸟裙甲Ｕ,Gypceros Coat U,mh4g-dex-build7+mh4edit-mit-save-id,6,0
+893,赤电龙腿甲Ｕ,Khezu Tassets U,mh4g-dex-build7+mh4edit-mit-save-id,6,0
+894,赤电龙裙甲Ｕ,Khezu Coat U,mh4g-dex-build7+mh4edit-mit-save-id,6,0
+895,轰龙腿甲,Tigrex Tassets,mh4g-dex-build7+mh4edit-mit-save-id,3,0
+896,轰龙裙甲,Tigrex Coat,mh4g-dex-build7+mh4edit-mit-save-id,3,0
+897,麒麟裙箍,Kirin Hoop,mh4g-dex-build7+mh4edit-mit-save-id,3,0
+898,麒麟饰带,Kirin Shorts,mh4g-dex-build7+mh4edit-mit-save-id,3,0
+899,麒麟裙箍,Kirin Hoop,mh4g-dex-build7+mh4edit-mit-save-id,3,0
+900,麒麟饰带,Kirin Shorts,mh4g-dex-build7+mh4edit-mit-save-id,3,0
+901,神秘腿甲Ｓ,Artian Coil S,mh4g-dex-build7+mh4edit-mit-save-id,5,0
+902,神秘裙甲Ｓ,Artian Coat S,mh4g-dex-build7+mh4edit-mit-save-id,5,0
+903,镰蟹腿甲,Ceanataur Tassets,mh4g-dex-build7+mh4edit-mit-save-id,2,0
+904,镰蟹裙甲,Ceanataur Coat,mh4g-dex-build7+mh4edit-mit-save-id,2,0
+905,镰蟹腿甲,Ceanataur Tassets,mh4g-dex-build7+mh4edit-mit-save-id,2,0
+906,镰蟹裙甲,Ceanataur Coat,mh4g-dex-build7+mh4edit-mit-save-id,2,0
+907,残阳【腰甲】,Gloaming Girdle,mh4g-dex-build7+mh4edit-mit-save-id,3,0
+908,东云【腰甲】,Dayspring Girdle,mh4g-dex-build7+mh4edit-mit-save-id,3,0
+909,常磐【腰甲】,Adamance Girdle,mh4g-dex-build7+mh4edit-mit-save-id,3,0
+910,八千代【腰甲】,Epoch Girdle,mh4g-dex-build7+mh4edit-mit-save-id,3,0
+911,Zinogre Coil U,Zinogre Coil U,mh4edit-mit-save-id-en-fallback,0,0
+912,狱狼龙裙甲Ｕ,Zinogre Coat U,mh4g-dex-build7+mh4edit-mit-save-id,6,0
+913,黑轰龙腿甲Ｕ,Tigrex Tassets U,mh4g-dex-build7+mh4edit-mit-save-id,6,0
+914,黑轰龙裙甲Ｕ,Tigrex Coat U,mh4g-dex-build7+mh4edit-mit-save-id,6,0
+915,黑蚀龙腿甲,Gore Faulds,mh4g-dex-build7+mh4edit-mit-save-id,3,0
+916,黑蚀龙裙甲,Gore Coat,mh4g-dex-build7+mh4edit-mit-save-id,3,0
+917,晓丸【腰甲】,Auroros Tassets,mh4g-dex-build7+mh4edit-mit-save-id,3,0
+918,曙丸【腰甲】,Genesis Tassets,mh4g-dex-build7+mh4edit-mit-save-id,3,0
+919,凛【腰甲】,Borealis Tassets,mh4g-dex-build7+mh4edit-mit-save-id,3,0
+920,妖艳【腰甲】,Glyph Tassets,mh4g-dex-build7+mh4edit-mit-save-id,3,0
+921,冰麒麟裙箍Ｕ,Kirin Hoop U,mh4g-dex-build7+mh4edit-mit-save-id,7,0
+922,冰麒麟饰带Ｕ,Kirin Shorts U,mh4g-dex-build7+mh4edit-mit-save-id,7,0
+923,冰麒麟裙箍Ｕ,Kirin Hoop U,mh4g-dex-build7+mh4edit-mit-save-id,7,0
+924,冰麒麟饰带Ｕ,Kirin Shorts U,mh4g-dex-build7+mh4edit-mit-save-id,7,0
+925,贪婪腿甲,Esurient Faulds,mh4g-dex-build7+mh4edit-mit-save-id,7,0
+926,贪婪裙甲,Esurient Coat,mh4g-dex-build7+mh4edit-mit-save-id,7,0
+927,Monoblos Coil,Monoblos Coil,mh4edit-mit-save-id-en-fallback,0,0
+928,Monoblos Coat,Monoblos Coat,mh4edit-mit-save-id-en-fallback,0,0
+929,Hornet Tassets,Hornet Tassets,mh4edit-mit-save-id-en-fallback,0,0
+930,Hornet Coat,Hornet Coat,mh4edit-mit-save-id-en-fallback,0,0
+931,Wroggi Faulds,Wroggi Faulds,mh4edit-mit-save-id-en-fallback,0,0
+932,Wroggi Coat,Wroggi Coat,mh4edit-mit-save-id-en-fallback,0,0
+933,白一角龙腿甲,Monodevil Coil,mh4g-dex-build7+mh4edit-mit-save-id,9,0
+934,白一角龙裙甲,Monodevil Coat,mh4g-dex-build7+mh4edit-mit-save-id,9,0
+935,角龙腿甲,Diablos Coil,mh4g-dex-build7+mh4edit-mit-save-id,3,0
+936,角龙裙甲,Diablos Coat,mh4g-dex-build7+mh4edit-mit-save-id,3,0
+937,Gigginox Faulds,Gigginox Faulds,mh4edit-mit-save-id-en-fallback,0,0
+938,Gigginox Coat,Gigginox Coat,mh4edit-mit-save-id-en-fallback,0,0
+939,Death Stench Bowels,Death Stench Bowels,mh4edit-mit-save-id-en-fallback,0,0
+940,Death Stench Belly,Death Stench Belly,mh4edit-mit-save-id-en-fallback,0,0
+941,Damascus Coil,Damascus Coil,mh4edit-mit-save-id-en-fallback,0,0
+942,Damascus Coat,Damascus Coat,mh4edit-mit-save-id-en-fallback,0,0
+943,DUMMY,DUMMY,mh4edit-mit-save-id-en-fallback,0,0
+944,DUMMY,DUMMY,mh4edit-mit-save-id-en-fallback,0,0
+945,Gigginox Greaves,Gigginox Greaves,mh4edit-mit-save-id-en-fallback,0,0
+946,Gigginox Leggings,Gigginox Leggings,mh4edit-mit-save-id-en-fallback,0,0
+947,Death Stench Heel,Death Stench Heel,mh4edit-mit-save-id-en-fallback,0,0
+948,Death Stench March,Death Stench March,mh4edit-mit-save-id-en-fallback,0,0
+949,Damascus Greaves,Damascus Greaves,mh4edit-mit-save-id-en-fallback,0,0
+950,Damascus Leggings,Damascus Leggings,mh4edit-mit-save-id-en-fallback,0,0
+951,DUMMY,DUMMY,mh4edit-mit-save-id-en-fallback,0,0
+952,DUMMY,DUMMY,mh4edit-mit-save-id-en-fallback,0,0

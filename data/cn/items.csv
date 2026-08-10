@@ -1,0 +1,1914 @@
+id,name,english,source
+1,调合书①入门篇,Book of Combos 1,mh4g-dex-build7
+2,调合书②初级篇,Book of Combos 2,mh4g-dex-build7
+3,调合书③中级篇,Book of Combos 3,mh4g-dex-build7
+4,调合书④上级篇,Book of Combos 4,mh4g-dex-build7
+5,调合书⑤达人篇,Book of Combos 5,mh4g-dex-build7
+6,收纳上手・技之书,Organizer Guide,mh4g-dex-build7
+7,收纳上手・力之书,Pack Rat Guide,mh4g-dex-build7
+8,回复药,Potion,mh4g-dex-build7
+9,回复药Ｇ,Mega Potion,mh4g-dex-build7
+10,营养剂,Nutrients,mh4g-dex-build7
+11,营养剂Ｇ,Mega Nutrients,mh4g-dex-build7
+12,解毒药,Antidote,mh4g-dex-build7
+13,活力剂,Immunizer,mh4g-dex-build7
+14,强走药,Dash Juice,mh4g-dex-build7
+15,强走药Ｇ,Mega Dash Juice,mh4g-dex-build7
+16,鬼人药,Demondrug,mh4g-dex-build7
+17,鬼人药Ｇ,Mega Demondrug,mh4g-dex-build7
+18,怪力药丸,Might Pill,mh4g-dex-build7
+19,硬化药,Armorskin,mh4g-dex-build7
+20,硬化药Ｇ,Mega Armorskin,mh4g-dex-build7
+21,忍耐药丸,Adamant Pill,mh4g-dex-build7
+22,冷饮,Cool Drink,mh4g-dex-build7
+23,热饮,Hot Drink,mh4g-dex-build7
+24,消散剂,Cleanser,mh4g-dex-build7
+25,消臭玉,Deodorant,mh4g-dex-build7
+26,千里眼药,Psychoserum,mh4g-dex-build7
+27,汉方药,Herbal Medicine,mh4g-dex-build7
+28,秘药,Max Potion,mh4g-dex-build7
+29,远古秘药,Ancient Potion,mh4g-dex-build7
+30,增强剂,Catalyst,mh4g-dex-build7
+31,提神饮料,Energy Drink,mh4g-dex-build7
+32,爆药,Gunpowder,mh4g-dex-build7
+33,生命之粉,Lifecrystals,mh4g-dex-build7
+34,生命粉尘,Lifepowder,mh4g-dex-build7
+35,捕获用麻醉药,Tranquilizer,mh4g-dex-build7
+36,谜之护身符,Mystery Charm,mh4g-dex-build7
+37,闪光护身符,Shining Charm,mh4g-dex-build7
+38,腐朽护身符,Timeworn Charm,mh4g-dex-build7
+39,扭曲护身符,Distorted Charm,mh4g-dex-build7
+40,力之护符,Powercharm,mh4g-dex-build7
+41,力之爪,Powertalon,mh4g-dex-build7
+42,守之护符,Armorcharm,mh4g-dex-build7
+43,守之爪,Armortalon,mh4g-dex-build7
+44,生肉,Raw Meat,mh4g-dex-build7
+45,毒生肉,Poisoned Meat,mh4g-dex-build7
+46,麻痹生肉,Tinged Meat,mh4g-dex-build7
+47,睡眠生肉,Drugged Meat,mh4g-dex-build7
+48,半生肉,Rare Steak,mh4g-dex-build7
+49,烤熟的肉,Well-done Steak,mh4g-dex-build7
+50,焦肉,Burnt Meat,mh4g-dex-build7
+51,冷肉,Chilled Meat,mh4g-dex-build7
+52,热肉,Hot Meat,mh4g-dex-build7
+53,狗龙腿肉,Mosswine Jerky,mh4g-dex-build7
+54,回力镖,Boomerang,mh4g-dex-build7
+55,投掷匕首,Throwing Knife,mh4g-dex-build7
+56,毒投掷匕首,Poison Knife,mh4g-dex-build7
+57,催眠投掷匕首,Sleep Knife,mh4g-dex-build7
+58,麻痹投掷匕首,Paralysis Knife,mh4g-dex-build7
+59,捕获用麻醉匕首,Tranq Knife,mh4g-dex-build7
+60,素材弹,Bomb Casing,mh4g-dex-build7
+61,染色球,Paintball,mh4g-dex-build7
+62,闪光弹,Flash Bomb,mh4g-dex-build7
+63,音爆弹,Sonic Bomb,mh4g-dex-build7
+64,怪物的粪,Dung,mh4g-dex-build7
+65,肥料玉,Dung Bomb,mh4g-dex-build7
+66,烟雾弹,Smoke Bomb,mh4g-dex-build7
+67,毒烟雾弹,Poison Smoke Bomb,mh4g-dex-build7
+68,回家弹,Farcaster,mh4g-dex-build7
+69,捕获用麻醉玉,Tranq Bomb,mh4g-dex-build7
+70,蜘蛛巢,Spider Web,mh4g-dex-build7
+71,网,Net,mh4g-dex-build7
+72,陷阱工具,Trap Tool,mh4g-dex-build7
+73,落穴陷阱,Pitfall Trap,mh4g-dex-build7
+74,麻痹陷阱,Shock Trap,mh4g-dex-build7
+75,小桶,Small Barrel,mh4g-dex-build7
+76,大桶,Large Barrel,mh4g-dex-build7
+77,小桶爆弹,Barrel Bomb S,mh4g-dex-build7
+78,小桶爆弹Ｇ,Barrel Bomb S+,mh4g-dex-build7
+79,大桶爆弹,Barrel Bomb L,mh4g-dex-build7
+80,大桶爆弹Ｇ,Barrel Bomb L+,mh4g-dex-build7
+81,飞空爆弹,Bounce Bomb,mh4g-dex-build7
+82,飞空爆弹Ｇ,Bounce Bomb+,mh4g-dex-build7
+83,木天蓼爆弾,Felvine Bomb,mh4g-dex-build7
+84,ＪＵＭＰ爆弹,[JP] JUMP Bomb,mh4g-dex-build7
+85,空心果,Huskberry,mh4g-dex-build7
+86,空心骨,Bone Husk,mh4g-dex-build7
+87,LV1 通常弹,Normal S Lv1,mh4g-dex-build7
+88,LV2 通常弹,Normal S Lv2,mh4g-dex-build7
+89,LV3 通常弹,Normal S Lv3,mh4g-dex-build7
+90,LV1 贯通弹,Pierce S Lv1,mh4g-dex-build7
+91,LV2 贯通弹,Pierce S Lv2,mh4g-dex-build7
+92,LV3 贯通弹,Pierce S Lv3,mh4g-dex-build7
+93,LV1 散弹,Pellet S Lv1,mh4g-dex-build7
+94,LV2 散弹,Pellet S Lv2,mh4g-dex-build7
+95,LV3 散弹,Pellet S Lv3,mh4g-dex-build7
+96,LV1 彻甲榴弹,Crag S Lv1,mh4g-dex-build7
+97,LV2 彻甲榴弹,Crag S Lv2,mh4g-dex-build7
+98,LV3 彻甲榴弹,Crag S Lv3,mh4g-dex-build7
+99,LV1 扩散弹,Clust S Lv1,mh4g-dex-build7
+100,LV2 扩散弹,Clust S Lv2,mh4g-dex-build7
+101,LV3 扩散弹,Clust S Lv3,mh4g-dex-build7
+102,火炎弹,Flaming S,mh4g-dex-build7
+103,水冷弹,Water S,mh4g-dex-build7
+104,电击弹,Thunder S,mh4g-dex-build7
+105,冰结弹,Freeze S,mh4g-dex-build7
+106,灭龙弹,Dragon S,mh4g-dex-build7
+107,LV1 毒弹,Poison S Lv1,mh4g-dex-build7
+108,LV2 毒弹,Poison S Lv2,mh4g-dex-build7
+109,LV1 麻痹弹,Para S Lv1,mh4g-dex-build7
+110,LV2 麻痹弹,Para S Lv2,mh4g-dex-build7
+111,LV1 睡眠弹,Sleep S Lv1,mh4g-dex-build7
+112,LV2 睡眠弹,Sleep S Lv2,mh4g-dex-build7
+113,LV1 减气弹,Exhaust S Lv1,mh4g-dex-build7
+114,LV2 减气弹,Exhaust S Lv2,mh4g-dex-build7
+115,斩裂弹,Slicing S,mh4g-dex-build7
+116,龙击弹,WyvernFire,mh4g-dex-build7
+117,爆破弹,Blast S,mh4g-dex-build7
+118,LV1 回复弹,Recover S Lv1,mh4g-dex-build7
+119,LV2 回复弹,Recover S Lv2,mh4g-dex-build7
+120,鬼人弹,Demon S,mh4g-dex-build7
+121,硬化弹,Armor S,mh4g-dex-build7
+122,染色弹,Paint S,mh4g-dex-build7
+123,捕获用麻醉弹,Tranq S,mh4g-dex-build7
+125,空瓶,Empty Phial,mh4g-dex-build7
+126,强击瓶,Power Coating,mh4g-dex-build7
+127,接击瓶,C.Range Coating,mh4g-dex-build7
+128,毒瓶,Poison Coating,mh4g-dex-build7
+129,麻痹瓶,Para Coating,mh4g-dex-build7
+130,睡眠瓶,Sleep Coating,mh4g-dex-build7
+131,减气瓶,Exhaust Coating,mh4g-dex-build7
+132,爆破瓶,Blast Coating,mh4g-dex-build7
+133,染色瓶,Paint Coating,mh4g-dex-build7
+134,力之虫饵・火,Power Nectar: Fire,mh4g-dex-build7
+135,体之虫饵・水,Stam Nectar: Water,mh4g-dex-build7
+136,速之虫饵・雷,Spd Nectar: Thunder,mh4g-dex-build7
+137,速之虫饵・冰,Speed Nectar: Ice,mh4g-dex-build7
+138,体之虫饵・龙,Stam Nectar: Dragon,mh4g-dex-build7
+139,力之上虫饵,Power+ Nectar,mh4g-dex-build7
+140,体之上虫饵,Stamina+ Nectar,mh4g-dex-build7
+141,速之上虫饵,Speed+ Nectar,mh4g-dex-build7
+142,虫饵・火炎,Nectar: Fire+,mh4g-dex-build7
+143,虫饵・流水,Nectar: Water+,mh4g-dex-build7
+144,虫饵・雷光,Nectar: Thunder+,mh4g-dex-build7
+145,虫饵・冰结,Nectar: Ice+,mh4g-dex-build7
+146,虫饵・破龙,Nectar: Dragon+,mh4g-dex-build7
+147,力之上虫饵・火,Power+ Nectar: Fire,mh4g-dex-build7
+148,体之上虫饵・水,Stam+ Nectar: Water,mh4g-dex-build7
+149,速之上虫饵・雷,Spd+ Nectar: Thunder,mh4g-dex-build7
+150,力之虫饵・火炎,Power Nectar: Fire+,mh4g-dex-build7
+151,速之虫饵・流水,Speed Nectar: Water+,mh4g-dex-build7
+152,速之虫饵・雷光,Spd Nectar: Thunder+,mh4g-dex-build7
+153,速之虫饵・冰结,Speed Nectar: Ice+,mh4g-dex-build7
+154,体之虫饵・破龙,Stam Nectar: Dragon+,mh4g-dex-build7
+155,蚯蚓鱼饵,Worm,mh4g-dex-build7
+156,苍蝇鱼饵,Mega Fishing Fly,mh4g-dex-build7
+157,青蛙鱼饵,Frog,mh4g-dex-build7
+158,鱼刺身团子,Sushifish Bait,mh4g-dex-build7
+159,虫团子,Burst Bait,mh4g-dex-build7
+160,黄金团子,Goldenfish Bait,mh4g-dex-build7
+161,破铁镐,Old Pickaxe,mh4g-dex-build7
+162,铁镐,Iron Pickaxe,mh4g-dex-build7
+163,铁镐Ｇ,Mega Pickaxe,mh4g-dex-build7
+164,破捕虫网,Old Bug Net,mh4g-dex-build7
+165,捕虫网,Bug Net,mh4g-dex-build7
+166,捕虫网Ｇ,Mega Bug Net,mh4g-dex-build7
+167,烤肉架,BBQ Spit,mh4g-dex-build7
+168,砥石,Whetstone,mh4g-dex-build7
+169,双眼镜,Binoculars,mh4g-dex-build7
+170,不可燃垃圾,Garbage,mh4g-dex-build7
+171,角笛,Field Horn,mh4g-dex-build7
+172,回复笛,Health Horn,mh4g-dex-build7
+173,解毒笛,Antidote Horn,mh4g-dex-build7
+174,鬼人笛,Demon Horn,mh4g-dex-build7
+175,硬化笛,Armor Horn,mh4g-dex-build7
+176,蜂蜜,Honey,mh4g-dex-build7
+177,药草,Herb,mh4g-dex-build7
+178,解毒草,Antidote Herb,mh4g-dex-build7
+179,火药草,Fire Herb,mh4g-dex-build7
+180,常春藤叶,Ivy,mh4g-dex-build7
+181,睡眠草,Sleep Herb,mh4g-dex-build7
+182,粘着草,Sap Plant,mh4g-dex-build7
+183,木天蓼,Felvine,mh4g-dex-build7
+184,洛阳草的根,Gloamgrass Root,mh4g-dex-build7
+185,辣椒,Hot Pepper,mh4g-dex-build7
+186,龙仙花种子,Cathangea Seed,mh4g-dex-build7
+187,龙仙花,Cathangea,mh4g-dex-build7
+188,龙仙丹,Cathangea Elixir,mh4g-dex-build7
+189,蓝蘑菇,Blue Mushroom,mh4g-dex-build7
+190,硝化伞菇,Nitroshroom,mh4g-dex-build7
+191,麻痹伞菇,Parashroom,mh4g-dex-build7
+192,毒伞菇,Toadstool,mh4g-dex-build7
+193,心跳蘑菇,Exciteshroom,mh4g-dex-build7
+194,疲劳伞菇,Mopeshroom,mh4g-dex-build7
+195,曼陀罗,Dragon Toadstool,mh4g-dex-build7
+196,染色果,Paintberry,mh4g-dex-build7
+197,怪力之种,Might Seed,mh4g-dex-build7
+198,忍耐之种,Adamant Seed,mh4g-dex-build7
+199,抵消果实,Nulberry,mh4g-dex-build7
+200,杀龙果,Dragonfell Berry,mh4g-dex-build7
+201,爆裂核桃,Scatternut,mh4g-dex-build7
+202,针果,Needleberry,mh4g-dex-build7
+203,贯通果,Latchberry,mh4g-dex-build7
+204,扩散果,Bomberry,mh4g-dex-build7
+205,大南瓜,Bumblepumpkin,mh4g-dex-build7
+206,小石子,Stone,mh4g-dex-build7
+207,铁矿石,Iron Ore,mh4g-dex-build7
+208,大地结晶,Earth Crystal,mh4g-dex-build7
+209,燕雀石,Machalite Ore,mh4g-dex-build7
+210,辉龙石,Dragonite Ore,mh4g-dex-build7
+211,光水晶,Lightcrystal,mh4g-dex-build7
+212,冰结晶,Ice Crystal,mh4g-dex-build7
+213,红莲石,Firestone,mh4g-dex-build7
+214,天闪石,Gossamite Ore,mh4g-dex-build7
+215,天空结晶,Heavenly Crystal,mh4g-dex-build7
+216,灵鹤石,Carbalite Ore,mh4g-dex-build7
+217,辉水晶,Novacrystal,mh4g-dex-build7
+218,白鹭石,Fucium Ore,mh4g-dex-build7
+219,狱炎石,Firecell Stone,mh4g-dex-build7
+220,星崩石,Yoldspar Ore,mh4g-dex-build7
+221,研磨材,Abrasive,mh4g-dex-build7
+222,高级研磨材,Quality Abrasive,mh4g-dex-build7
+223,最高级研磨材,Awesome Abrasive,mh4g-dex-build7
+224,铠石,Armor Stone,mh4g-dex-build7
+225,铠玉,Armor Sphere,mh4g-dex-build7
+226,上铠玉,Armor Sphere+,mh4g-dex-build7
+227,尖铠玉,Adv Armor Sphere,mh4g-dex-build7
+228,坚铠玉,Hard Armor Sphere,mh4g-dex-build7
+229,重铠玉,Heavy Armor Sphere,mh4g-dex-build7
+230,真铠玉,True Armor Sphere,mh4g-dex-build7
+231,切味鱼,Whetfish,mh4g-dex-build7
+232,鱼刺身,Sushifish,mh4g-dex-build7
+233,眠鱼,Sleepyfish,mh4g-dex-build7
+234,针金枪鱼,Pin Tuna,mh4g-dex-build7
+235,旗鱼,Speartuna,mh4g-dex-build7
+236,爆裂沙丁鱼,Popfish,mh4g-dex-build7
+237,扩散凸眼金鱼,Scatterfish,mh4g-dex-build7
+238,破裂龙鱼,Burst Arowana,mh4g-dex-build7
+239,爆裂龙鱼,Bomb Arowana,mh4g-dex-build7
+240,贪食金枪鱼,Glutton Tuna,mh4g-dex-build7
+241,超贪食金枪鱼,Gastronome Tuna,mh4g-dex-build7
+242,小金鱼,Small Goldenfish,mh4g-dex-build7
+243,深水沙丁鱼,Wanchovy,mh4g-dex-build7
+244,古代鱼,Ancient Fish,mh4g-dex-build7
+245,太刀鱼,Blue Cutthroat,mh4g-dex-build7
+246,工会票,Bronze Guild Ticket,mh4g-dex-build7
+247,工会票Ｓ,Silver Guild Ticket,mh4g-dex-build7
+248,虫的死骸,Insect Husk,mh4g-dex-build7
+249,工会票Ｇ,Gold Guild Ticket,mh4g-dex-build7
+250,骨蚱蜢,Stinkhopper,mh4g-dex-build7
+251,土蜂的幼虫,Snakebee Larva,mh4g-dex-build7
+252,不死虫,Godbug,mh4g-dex-build7
+253,苦虫,Bitterbug,mh4g-dex-build7
+254,光虫,Flashbug,mh4g-dex-build7
+255,雷光虫,Thunderbug,mh4g-dex-build7
+256,粘着蚱蜢,Glueglopper,mh4g-dex-build7
+257,杀人蜂幼虫,Killer Beetle,mh4g-dex-build7
+258,独角甲虫王,Hercudrome,mh4g-dex-build7
+259,超电雷光虫,Fulgurbug,mh4g-dex-build7
+260,稀有金龟子,Rare Scarab,mh4g-dex-build7
+261,大津风蝴蝶,Great Hornfly,mh4g-dex-build7
+262,大锹扬羽虫,Butterfly Beetle,mh4g-dex-build7
+263,龙骨【小】,Monster Bone S,mh4g-dex-build7
+264,龙骨【中】,Monster Bone M,mh4g-dex-build7
+265,龙骨【大】,Monster Bone L,mh4g-dex-build7
+266,谜之骨,Mystery Bone,mh4g-dex-build7
+267,谜之头骨,Unknown Skull,mh4g-dex-build7
+268,上龙骨,Monster Bone+,mh4g-dex-build7
+269,尖龙骨,Monster Keenbone,mh4g-dex-build7
+270,坚龙骨,Monster Hardbone,mh4g-dex-build7
+271,古龙骨,Elder Dragon Bone,mh4g-dex-build7
+272,上质的鸟龙骨,Avian Finebone,mh4g-dex-build7
+273,兽骨,Brute Bone,mh4g-dex-build7
+274,大骨,Jumbo Bone,mh4g-dex-build7
+275,坚固之骨,Stoutbone,mh4g-dex-build7
+276,远古龙骨,Dragonbone Relic,mh4g-dex-build7
+277,龙牙,Wyvern Fang,mh4g-dex-build7
+278,龙爪,Wyvern Claw,mh4g-dex-build7
+279,鸟龙玉,Bird Wyvern Gem,mh4g-dex-build7
+280,龙玉,Wyvern Gem,mh4g-dex-build7
+281,古龙血,Elder Dragon Blood,mh4g-dex-build7
+282,钢蛋,Steel Egg,mh4g-dex-build7
+283,银蛋,Silver Egg,mh4g-dex-build7
+284,金蛋,Golden Egg,mh4g-dex-build7
+285,增殖镐,Slickaxe,mh4g-dex-build7
+286,鸣袋,Screamer Sac,mh4g-dex-build7
+287,毒袋,Poison Sac,mh4g-dex-build7
+288,猛毒袋,Toxin Sac,mh4g-dex-build7
+289,麻痹袋,Paralysis Sac,mh4g-dex-build7
+290,睡眠袋,Sleep Sac,mh4g-dex-build7
+291,火炎袋,Flame Sac,mh4g-dex-build7
+292,爆炎袋,Inferno Sac,mh4g-dex-build7
+293,电气袋,Electro Sac,mh4g-dex-build7
+294,电击袋,Thunder Sac,mh4g-dex-build7
+295,冰结袋,Frost Sac,mh4g-dex-build7
+296,冻结袋,Freezer Sac,mh4g-dex-build7
+297,水袋,Aqua Sac,mh4g-dex-build7
+298,大水袋,Torrent Sac,mh4g-dex-build7
+299,狂走浸出物,Dash Extract,mh4g-dex-build7
+300,白色浸出物,Pale Extract,mh4g-dex-build7
+301,丸鸟的羽,Gargwa Feather,mh4g-dex-build7
+302,羚鹿的角,Kelbi Horn,mh4g-dex-build7
+303,羚鹿的苍角,Blue Kelbi Horn,mh4g-dex-build7
+304,暖和的毛皮,Warm Pelt,mh4g-dex-build7
+305,上质的毛皮,High-quality Pelt,mh4g-dex-build7
+306,草食龙的甲壳,Rhenoplos Shell,mh4g-dex-build7
+307,草食龙的坚壳,Rhenoplos Carapace,mh4g-dex-build7
+308,草食龙的头壳,Rhenoplos Scalp,mh4g-dex-build7
+309,垂皮龙的皮,Slagtoth Hide,mh4g-dex-build7
+310,垂皮龙的上皮,Slagtoth Hide+,mh4g-dex-build7
+311,飞甲虫的甲壳,Bnahabra Shell,mh4g-dex-build7
+312,飞甲虫的坚壳,Bnahabra Carapace,mh4g-dex-build7
+313,飞甲虫的羽,Bnahabra Wing,mh4g-dex-build7
+314,甲虫的大颚,Altaroth Jaw,mh4g-dex-build7
+315,甲虫的腹袋,Altaroth Stomach,mh4g-dex-build7
+316,上质的腹袋,Quality Stomach,mh4g-dex-build7
+317,尖牙,Sharp Fang,mh4g-dex-build7
+318,盾虫的甲壳,Konchu Shell,mh4g-dex-build7
+319,盾虫的坚壳,Konchu Carapace,mh4g-dex-build7
+320,翼蛇龙的皮,Remobra Hide,mh4g-dex-build7
+321,翼蛇龙的上皮,Remobra Hide+,mh4g-dex-build7
+322,缟模样的皮,Striped Skin,mh4g-dex-build7
+323,翼蛇龙的头,Remobra Head,mh4g-dex-build7
+324,小狗龙的鳞,Jaggi Scale,mh4g-dex-build7
+325,小狗龙的上鳞,Jaggi Scale+,mh4g-dex-build7
+326,小狗龙的皮,Jaggi Hide,mh4g-dex-build7
+327,鸟龙种的牙,Bird Wyvern Fang,mh4g-dex-build7
+328,强韧的鸟龙皮,Tough Bird Wyv Hide,mh4g-dex-build7
+329,狗龙的皮,G.Jaggi Hide,mh4g-dex-build7
+330,狗龙的上皮,G.Jaggi Hide+,mh4g-dex-build7
+331,狗龙的爪,G.Jaggi Claw,mh4g-dex-build7
+332,狗龙的尖爪,G.Jaggi Claw+,mh4g-dex-build7
+333,王者的围脖,King's Frill,mh4g-dex-build7
+334,狗龙的头,Great Jaggi Head,mh4g-dex-build7
+335,蓝速龙的鳞,Velociprey Scale,mh4g-dex-build7
+336,蓝速龙的上鳞,Velociprey Scale+,mh4g-dex-build7
+337,蓝速龙的皮,Velociprey Hide,mh4g-dex-build7
+338,蓝速龙的上皮,Velociprey Hide+,mh4g-dex-build7
+339,蓝速龙王的皮,Velocidrome Hide,mh4g-dex-build7
+340,蓝速龙王的爪,Velocidrome Claw,mh4g-dex-build7
+341,蓝速龙的尖爪,Velocidrome Claw+,mh4g-dex-build7
+342,蓝速龙王的头,Velocidrome Head,mh4g-dex-build7
+343,黄速龙的麻痹牙,Genprey Fang,mh4g-dex-build7
+344,黄速龙的鳞,Genprey Scale,mh4g-dex-build7
+345,黄速龙的上鳞,Genprey Scale+,mh4g-dex-build7
+346,黄速龙的皮,Genprey Hide,mh4g-dex-build7
+347,黄速龙的上皮,Genprey Hide+,mh4g-dex-build7
+348,黄速龙王的皮,Gendrome Hide,mh4g-dex-build7
+349,黄速龙王的尾,Gendrome Tail,mh4g-dex-build7
+350,黄速龙王的头,Gendrome Head,mh4g-dex-build7
+351,红速龙的毒牙,Ioprey Fang,mh4g-dex-build7
+352,红速龙的鳞,Ioprey Scale,mh4g-dex-build7
+353,红速龙的上鳞,Ioprey Scale+,mh4g-dex-build7
+354,红速龙的皮,Ioprey Hide,mh4g-dex-build7
+355,红速龙的上皮,Ioprey Hide+,mh4g-dex-build7
+356,红速龙王的皮,Iodrome Hide,mh4g-dex-build7
+357,红速龙王的头,Iodrome Head,mh4g-dex-build7
+358,白兔兽的毛,Lagombi Pelt,mh4g-dex-build7
+359,白兔兽的刚毛,Lagombi Pelt+,mh4g-dex-build7
+360,白兔兽的耳,Lagombi Ear,mh4g-dex-build7
+361,白兔兽的大耳,Lagombi Ear+,mh4g-dex-build7
+362,白兔兽的腹甲,Lagombi Plastron,mh4g-dex-build7
+363,白兔兽的坚腹甲,Lagombi Plastron+,mh4g-dex-build7
+364,白兔兽的冰爪,Lagombi Iceclaw,mh4g-dex-build7
+365,白兔兽的冻爪,Lagombi Frozenclaw,mh4g-dex-build7
+366,怪鸟的鳞,Kut-Ku Scale,mh4g-dex-build7
+367,怪鸟的上鳞,Kut-Ku Scale+,mh4g-dex-build7
+368,怪鸟的甲壳,Kut-Ku Shell,mh4g-dex-build7
+369,怪鸟的坚壳,Kut-Ku Carapace,mh4g-dex-build7
+370,怪鸟的耳,Kut-Ku Ear,mh4g-dex-build7
+371,怪鸟的地狱耳,Kut-Ku Auricle,mh4g-dex-build7
+372,巨大的喙,Giant Beak,mh4g-dex-build7
+373,漂亮的喙,Splendid Beak,mh4g-dex-build7
+374,怪鸟的翼膜,Kut-Ku Webbing,mh4g-dex-build7
+376,青怪鸟的上鳞,Blue Kut-Ku Scale+,mh4g-dex-build7
+377,青怪鸟的坚壳,Blue Kut-Ku Carapace,mh4g-dex-build7
+378,橡胶质的皮,Rubbery Hide,mh4g-dex-build7
+379,橡胶质的上皮,Rubbery Hide+,mh4g-dex-build7
+380,毒怪鸟的头,Gypceros Head,mh4g-dex-build7
+381,橡胶质的紫皮,Rubbery Purple Hide,mh4g-dex-build7
+382,毒怪鸟的紫翼,P.Gypceros Wing,mh4g-dex-build7
+383,黑狼鸟的鳞,Garuga Scale,mh4g-dex-build7
+384,黑狼鸟的上鳞,Garuga Scale+,mh4g-dex-build7
+385,黑狼鸟的甲壳,Garuga Shell,mh4g-dex-build7
+386,黑狼鸟的坚壳,Garuga Carapace,mh4g-dex-build7
+387,黑狼鸟的耳,Garuga Ear,mh4g-dex-build7
+388,黑狼鸟的地狱耳,Garuga Auricle,mh4g-dex-build7
+389,尖喙,Sharpened Beak,mh4g-dex-build7
+390,鲜活的喙,Rejuvenated Beak,mh4g-dex-build7
+391,黑狼鸟的翼,Garuga Wing,mh4g-dex-build7
+392,黑狼鸟的尻尾,Garuga Tail,mh4g-dex-build7
+393,黑狼鸟的鬃毛,Garuga Mane,mh4g-dex-build7
+394,奇猿狐的毛,Kecha Pelt,mh4g-dex-build7
+395,奇猿狐的刚毛,Kecha Pelt+,mh4g-dex-build7
+396,奇猿狐的长骨,Kecha Longbone,mh4g-dex-build7
+397,奇猿狐的坚长骨,Kecha Grandbone,mh4g-dex-build7
+398,奇猿狐的钩爪,Kecha Talon,mh4g-dex-build7
+399,奇猿狐的耳,Kecha Ear,mh4g-dex-build7
+400,奇猿狐的大耳,Kecha Ear+,mh4g-dex-build7
+401,奇猿狐的尻尾,Kecha Tail,mh4g-dex-build7
+402,小桃毛兽的毛,Conga Pelt,mh4g-dex-build7
+403,小桃毛兽的刚毛,Conga Pelt+,mh4g-dex-build7
+404,尖爪,Sharp Claw,mh4g-dex-build7
+405,桃毛兽的毛,Congalala Pelt,mh4g-dex-build7
+406,桃毛兽的刚毛,Congalala Pelt+,mh4g-dex-build7
+407,极彩色的毛,Vibrant Pelt,mh4g-dex-build7
+408,桃毛兽的爪,Congalala Claw,mh4g-dex-build7
+409,桃毛兽的尖爪,Congalala Claw+,mh4g-dex-build7
+410,桃毛兽的牙,Congalala Fang,mh4g-dex-build7
+411,绿毛兽的刚毛,E.Congalala Pelt+,mh4g-dex-build7
+412,绿毛兽的锐牙,E.Congalala Fang+,mh4g-dex-build7
+413,绿毛兽的尖爪,E.Congalala Claw+,mh4g-dex-build7
+414,金狮子的尖角,Rajang Horn+,mh4g-dex-build7
+415,金狮子的锐牙,Rajang Fang+,mh4g-dex-build7
+416,金狮子的黑毛,Rajang Blackfur,mh4g-dex-build7
+417,金狮子的尖爪,Rajang Claw+,mh4g-dex-build7
+418,金狮子的尻尾,Rajang Tail,mh4g-dex-build7
+419,黄金的毛,Gold Rajang Pelt,mh4g-dex-build7
+420,金狮子的怒发,Rajang Ragehair,mh4g-dex-build7
+421,金狮子的斗魂,Rajang Nerve,mh4g-dex-build7
+422,罗刹的金角,Ghoulish Gold Horn,mh4g-dex-build7
+423,鬼蛙的鳞,Tetsucabra Scale,mh4g-dex-build7
+424,鬼蛙的上鳞,Tetsucabra Scale+,mh4g-dex-build7
+425,鬼蛙的甲壳,Tetsucabra Shell,mh4g-dex-build7
+426,鬼蛙的坚壳,Tetsucabra Carapace,mh4g-dex-build7
+427,鬼蛙的爪,Tetsucabra Claw,mh4g-dex-build7
+428,鬼蛙的尖爪,Tetsucabra Claw+,mh4g-dex-build7
+429,鬼蛙的大牙,Tetsucabra Tusks,mh4g-dex-build7
+430,鬼蛙的巨大牙,Tetsucabra Tusks+,mh4g-dex-build7
+431,威风凛凛的头骨,Dignified Skull,mh4g-dex-build7
+432,蛤蟆的油,Paddock Oil,mh4g-dex-build7
+433,蛤蟆的灯油,Paddock Oil+,mh4g-dex-build7
+434,鲛肌的鳞,Sharqskin Scale,mh4g-dex-build7
+435,厚实的皮,Meaty Hide,mh4g-dex-build7
+436,厚实的上皮,Meaty Hide+,mh4g-dex-build7
+437,鬼鲛的皮,Zamtrios Hide,mh4g-dex-build7
+438,鬼鲛的上皮,Zamtrios Hide+,mh4g-dex-build7
+439,鬼鲛的鳞,Zamtrios Scale,mh4g-dex-build7
+440,鬼鲛的上鳞,Zamtrios Scale+,mh4g-dex-build7
+441,鬼鲛的鳍,Zamtrios Fin,mh4g-dex-build7
+442,鬼鲛的上鳍,Zamtrios Fin+,mh4g-dex-build7
+443,鬼鲛的锯齿,Zamtrios Sawtooth,mh4g-dex-build7
+444,鬼鲛的刃尾,Zamtrios Tailblade,mh4g-dex-build7
+445,绞蛇龙的甲壳,Najarala Shell,mh4g-dex-build7
+446,绞蛇龙的坚壳,Najarala Carapace,mh4g-dex-build7
+447,绞蛇龙的皮,Najarala Hide,mh4g-dex-build7
+448,绞蛇龙的上皮,Najarala Hide+,mh4g-dex-build7
+449,绞蛇龙的骨髓,Najarala Marrow,mh4g-dex-build7
+450,绞蛇龙的延髓,Najarala Medulla,mh4g-dex-build7
+451,绞蛇龙的鸣甲,Najarala Sounder,mh4g-dex-build7
+452,绞蛇龙的上鸣甲,Najarala Sounder+,mh4g-dex-build7
+453,绞蛇龙的牙,Najarala Fang,mh4g-dex-build7
+454,毛骨悚然的喙,Chilling Beak,mh4g-dex-build7
+455,影蜘蛛的甲壳,Nerscylla Shell,mh4g-dex-build7
+456,影蜘蛛的坚壳,Nerscylla Carapace,mh4g-dex-build7
+457,影蜘蛛的铗角,Nerscylla Chelicera,mh4g-dex-build7
+458,影蜘蛛的坚铗角,Nerscylla Shear,mh4g-dex-build7
+459,影蜘蛛的爪,Nerscylla Claw,mh4g-dex-build7
+460,影蜘蛛的锐爪,Nerscylla Sharpclaw,mh4g-dex-build7
+461,影蜘蛛的棘,Nerscylla Spike,mh4g-dex-build7
+462,影蜘蛛的上棘,Nerscylla Spike+,mh4g-dex-build7
+463,怪物的体液,Monster Fluid,mh4g-dex-build7
+464,怪物的浓汁,Monster Broth,mh4g-dex-build7
+465,彻甲虫的甲壳,Seltas Shell,mh4g-dex-build7
+466,彻甲虫的坚壳,Seltas Carapace,mh4g-dex-build7
+467,彻甲虫的羽,Seltas Wing,mh4g-dex-build7
+468,彻甲虫的薄羽,Seltas Innerwing,mh4g-dex-build7
+469,彻甲虫的角,Seltas Horn,mh4g-dex-build7
+470,彻甲虫的尖角,Seltas Horn+,mh4g-dex-build7
+471,重甲虫的甲壳,S.Queen Shell,mh4g-dex-build7
+472,重甲虫的坚壳,S.Queen Carapace,mh4g-dex-build7
+473,重甲虫的胸壳,S.Queen Pectus,mh4g-dex-build7
+474,重甲虫的坚胸壳,S.Queen Hardpectus,mh4g-dex-build7
+475,重甲虫的爪,S.Queen Claw,mh4g-dex-build7
+476,重甲虫的锐爪,S.Queen Sharpclaw,mh4g-dex-build7
+477,重甲虫的大颚,S.Queen Jaw,mh4g-dex-build7
+478,重甲虫的圆月尾,S.Queen Crescent,mh4g-dex-build7
+479,重甲浸出物,S.Queen Extract,mh4g-dex-build7
+480,浓缩重甲浸出物,S.Queen Concentrate,mh4g-dex-build7
+481,柔软的皮,Flabby Hide,mh4g-dex-build7
+482,珍珠色的柔皮,Pearl Hide,mh4g-dex-build7
+483,白化的脊背,Pale Bone,mh4g-dex-build7
+484,白化的生肉片,Pale Steak,mh4g-dex-build7
+485,魅惑色的柔皮,Alluring Hide,mh4g-dex-build7
+486,魅惑色的翼膜,Alluring Webbing,mh4g-dex-build7
+487,雌火龙的鳞,Rathian Scale,mh4g-dex-build7
+488,雌火龙的上鳞,Rathian Scale+,mh4g-dex-build7
+489,雌火龙的甲壳,Rathian Shell,mh4g-dex-build7
+490,雌火龙的坚壳,Rathian Carapace,mh4g-dex-build7
+491,雌火龙的翼膜,Rathian Webbing,mh4g-dex-build7
+492,雌火龙的棘,Rathian Spike,mh4g-dex-build7
+493,雌火龙的上棘,Rathian Spike+,mh4g-dex-build7
+494,雌火龙的逆鳞,Rathian Plate,mh4g-dex-build7
+495,雌火龙的红玉,Rathian Ruby,mh4g-dex-build7
+496,樱火龙的上鳞,P.Rathian Scale+,mh4g-dex-build7
+497,樱火龙的坚壳,P.Rathian Carapace,mh4g-dex-build7
+498,金火龙的上鳞,G.Rathian Scale+,mh4g-dex-build7
+499,金火龙的坚壳,G.Rathian Carapace,mh4g-dex-build7
+500,金火龙的上棘,G.Rathian Spike+,mh4g-dex-build7
+501,火龙的鳞,Rathalos Scale,mh4g-dex-build7
+502,火龙的上鳞,Rathalos Scale+,mh4g-dex-build7
+503,火龙的甲壳,Rathalos Shell,mh4g-dex-build7
+504,火龙的坚壳,Rathalos Carapace,mh4g-dex-build7
+505,火龙的翼膜,Rathalos Webbing,mh4g-dex-build7
+506,火龙的翼,Rathalos Wing,mh4g-dex-build7
+507,火龙的尻尾,Rathalos Tail,mh4g-dex-build7
+508,火龙的逆鳞,Rathalos Plate,mh4g-dex-build7
+509,火龙的红玉,Rathalos Ruby,mh4g-dex-build7
+510,苍火龙的上鳞,A.Rathalos Scale+,mh4g-dex-build7
+511,苍火龙的坚壳,A.Rathalos Carapace,mh4g-dex-build7
+512,苍火龙的尻尾,A.Rathalos Tail,mh4g-dex-build7
+513,苍火龙的翼,A.Rathalos Wing,mh4g-dex-build7
+514,银火龙的上鳞,S.Rathalos Scale+,mh4g-dex-build7
+515,银火龙的坚壳,S.Rathalos Carapace,mh4g-dex-build7
+516,银火龙的尻尾,S.Rathalos Tail,mh4g-dex-build7
+517,火龙的翼爪,Rath Wingtalon,mh4g-dex-build7
+518,火龙的骨髓,Rath Marrow,mh4g-dex-build7
+519,火龙的延髓,Rath Medulla,mh4g-dex-build7
+520,火龙的煌液,Rath Gleam,mh4g-dex-build7
+521,雷狼龙的甲壳,Zinogre Shell,mh4g-dex-build7
+522,雷狼龙的坚壳,Zinogre Carapace,mh4g-dex-build7
+523,雷狼龙的带电毛,Zinogre Shockfur,mh4g-dex-build7
+524,雷狼龙的高电毛,Zinogre Electrofur,mh4g-dex-build7
+525,雷狼龙的角,Zinogre Horn,mh4g-dex-build7
+526,雷狼龙的尖角,Zinogre Horn+,mh4g-dex-build7
+527,雷狼龙的爪,Zinogre Claw,mh4g-dex-build7
+528,雷狼龙的尖爪,Zinogre Claw+,mh4g-dex-build7
+529,雷狼龙的尻尾,Zinogre Tail,mh4g-dex-build7
+530,雷狼龙的蓄电壳,Zinogre Shocker,mh4g-dex-build7
+531,雷狼龙的高电壳,Zinogre Shocker+,mh4g-dex-build7
+532,雷狼龙的逆鳞,Zinogre Plate,mh4g-dex-build7
+533,雷狼龙的碧玉,Zinogre Jasper,mh4g-dex-build7
+534,狱狼龙的坚壳,S.Zinogre Carapace,mh4g-dex-build7
+535,狱狼龙的尖角,S.Zinogre Horn+,mh4g-dex-build7
+536,狱狼龙的尖爪,S.Zinogre Claw+,mh4g-dex-build7
+537,狱狼龙的尻尾,S.Zinogre Tail,mh4g-dex-build7
+538,狱狼龙的龙壳,S.Zin Drakeshell,mh4g-dex-build7
+539,蚀龙虫,Dracophage Bug,mh4g-dex-build7
+540,狱狼龙的龙毛,S.Zinogre Dragonhair,mh4g-dex-build7
+541,狱狼龙的昏玉,S.Zinogre Umbrage,mh4g-dex-build7
+542,碎龙的甲壳,Brach Shell,mh4g-dex-build7
+543,碎龙的坚壳,Brach Carapace,mh4g-dex-build7
+544,碎龙的黑曜甲,Brach Ebonshell,mh4g-dex-build7
+545,碎龙的坚黑曜甲,Brach Ebonshell+,mh4g-dex-build7
+546,碎龙的头壳,Brach Scalp,mh4g-dex-build7
+547,碎龙的尖头壳,Brach Scalp+,mh4g-dex-build7
+548,谜之粘菌,Mystery Slime,mh4g-dex-build7
+549,碎龙的拳,Brach Hammer,mh4g-dex-build7
+550,碎龙的刚拳,Brach Pounder,mh4g-dex-build7
+551,碎龙的尻尾,Brach Tail,mh4g-dex-build7
+552,碎龙的骨髓,Brach Marrow,mh4g-dex-build7
+553,碎龙的宝玉,Brach Gem,mh4g-dex-build7
+554,岩龙的甲壳,Basarios Shell,mh4g-dex-build7
+555,岩龙的坚壳,Basarios Carapace,mh4g-dex-build7
+556,岩龙的翼,Basarios Wing,mh4g-dex-build7
+557,岩龙的泪,Basarios Tears,mh4g-dex-build7
+558,桃岩龙的翼,R.Basarios Wing,mh4g-dex-build7
+559,桃岩龙的坚壳,R.Basarios Carapace,mh4g-dex-build7
+560,铠龙的甲壳,Gravios Shell,mh4g-dex-build7
+561,铠龙的坚壳,Gravios Carapace,mh4g-dex-build7
+562,铠龙的头壳,Gravios Scalp,mh4g-dex-build7
+563,铠龙的延髓,Gravios Medulla,mh4g-dex-build7
+564,铠龙的翼,Gravios Wing,mh4g-dex-build7
+565,黑铠龙的坚壳,B.Gravios Carapace,mh4g-dex-build7
+566,黑铠龙的头壳,B.Gravios Scalp,mh4g-dex-build7
+567,轰龙的鳞,Tigrex Scale,mh4g-dex-build7
+568,轰龙的上鳞,Tigrex Scale+,mh4g-dex-build7
+569,轰龙的甲壳,Tigrex Shell,mh4g-dex-build7
+570,轰龙的坚壳,Tigrex Carapace,mh4g-dex-build7
+571,轰龙的尻尾,Tigrex Tail,mh4g-dex-build7
+572,轰龙的爪,Tigrex Claw,mh4g-dex-build7
+573,轰龙的尖爪,Tigrex Claw+,mh4g-dex-build7
+574,轰龙的牙,Tigrex Fang,mh4g-dex-build7
+575,轰龙的锐牙,Tigrex Fang+,mh4g-dex-build7
+576,轰龙的头壳,Tigrex Scalp,mh4g-dex-build7
+577,轰龙的腭,Tigrex Maw,mh4g-dex-build7
+578,黑轰龙的上鳞,B.Tigrex Scale+,mh4g-dex-build7
+579,黑轰龙的坚壳,B.Tigrex Carapace,mh4g-dex-build7
+580,黑轰龙的尖爪,B.Tigrex Claw+,mh4g-dex-build7
+581,黑轰龙的锐牙,B.Tigrex Fang+,mh4g-dex-build7
+582,大轰龙的上鳞,M.Tigrex Scale+,mh4g-dex-build7
+583,大轰龙的坚壳,M.Tigrex Carapace,mh4g-dex-build7
+584,大轰龙的爆爪,M.Tigrex Blastclaw,mh4g-dex-build7
+585,大轰龙的锐牙,M.Tigrex Fang+,mh4g-dex-build7
+586,大轰龙的尻尾,M.Tigrex Tail,mh4g-dex-build7
+587,脉动的爆心,Pulsating Blastheart,mh4g-dex-build7
+588,黑蚀龙的鳞,Gore Magala Scale,mh4g-dex-build7
+589,黑蚀龙的上鳞,Gore Magala Scale+,mh4g-dex-build7
+590,黑蚀龙的甲壳,Gore Magala Shell,mh4g-dex-build7
+591,黑蚀龙的坚壳,Gore Magala Carapace,mh4g-dex-build7
+592,黑蚀龙的暗翼,Gore Magala Wing,mh4g-dex-build7
+593,黑蚀龙的上暗翼,Gore Magala Wing+,mh4g-dex-build7
+594,黑蚀龙的惨爪,Gore Magala Ripclaw,mh4g-dex-build7
+595,黑蚀龙的锐惨爪,Gore Magala Ripclaw+,mh4g-dex-build7
+596,黑蚀龙的尻尾,Gore Magala Tail,mh4g-dex-build7
+597,黑蚀龙的逆鳞,Gore Magala Plate,mh4g-dex-build7
+598,黑蚀龙的暗玉,Gore Magala Nyctgem,mh4g-dex-build7
+599,黑蚀龙的触角,Gore Magala Feeler,mh4g-dex-build7
+600,黑蚀龙的尖触角,Gore Magala Feeler+,mh4g-dex-build7
+601,污秽的龙鳞,Defiled Scale,mh4g-dex-build7
+602,天迴龙的鳞,S.Magala Scale,mh4g-dex-build7
+603,天迴龙的上鳞,S.Magala Scale+,mh4g-dex-build7
+604,天迴龙的甲壳,S.Magala Shell,mh4g-dex-build7
+605,天迴龙的坚壳,S.Magala Carapace,mh4g-dex-build7
+606,天迴龙的虹翼,S.Magala Prismwing,mh4g-dex-build7
+607,天迴龙的上虹翼,S.Magala Prismwing+,mh4g-dex-build7
+608,天迴龙的净爪,S.Magala Caress,mh4g-dex-build7
+609,天迴龙的锐净爪,S.Magala Caress+,mh4g-dex-build7
+610,天迴龙的尻尾,S.Magala Tail,mh4g-dex-build7
+611,天迴龙的逆鳞,S.Magala Plate,mh4g-dex-build7
+612,天迴龙的光玉,S.Magala Phosgem,mh4g-dex-build7
+613,天迴龙的角,S.Magala Horn,mh4g-dex-build7
+614,天迴龙的尖角,S.Magala Horn+,mh4g-dex-build7
+615,纯白的龙鳞,Pure Scale,mh4g-dex-build7
+616,恐暴龙的黑鳞,Deviljho Scale,mh4g-dex-build7
+617,恐暴龙的黑皮,Deviljho Hide,mh4g-dex-build7
+618,恐暴龙的大牙,Deviljho Tallfang,mh4g-dex-build7
+619,恐暴龙的钩爪,Deviljho Talon,mh4g-dex-build7
+620,恐暴龙的头壳,Deviljho Scalp,mh4g-dex-build7
+621,恐暴龙的尻尾,Deviljho Tail,mh4g-dex-build7
+622,恐暴龙的唾液,Deviljho Saliva,mh4g-dex-build7
+623,漆黑之血,Black Blood,mh4g-dex-build7
+624,历战的漆黑皮,Spattered Hide,mh4g-dex-build7
+625,恐暴龙的宝玉,Deviljho Gem,mh4g-dex-build7
+626,麒麟的雷角,Kirin Thunderhorn,mh4g-dex-build7
+627,麒麟的皮,Kirin Hide,mh4g-dex-build7
+628,麒麟的上皮,Kirin Hide+,mh4g-dex-build7
+629,麒麟的鬃毛,Kirin Mane,mh4g-dex-build7
+630,麒麟的雷尾,Kirin Thundertail,mh4g-dex-build7
+631,麒麟的苍角,Kirin Azure Horn,mh4g-dex-build7
+632,麒麟的冰角,Kirin Icehorn,mh4g-dex-build7
+633,麒麟的霜尾,Kirin Frost Tail,mh4g-dex-build7
+634,钢之龙鳞,Daora Scale,mh4g-dex-build7
+635,钢龙的坚壳,Daora Carapace,mh4g-dex-build7
+636,钢龙的尖爪,Daora Claw+,mh4g-dex-build7
+637,钢龙的尻尾,Daora Tail,mh4g-dex-build7
+638,钢龙的翼膜,Daora Webbing,mh4g-dex-build7
+639,钢龙的尖角,Daora Horn+,mh4g-dex-build7
+640,钢龙的宝玉,Daora Gem,mh4g-dex-build7
+641,炎王龙的坚壳,Teostra Carapace,mh4g-dex-build7
+642,炎王龙的鬃毛,Teostra Mane,mh4g-dex-build7
+643,炎王龙的尻尾,Teostra Tail,mh4g-dex-build7
+644,炎王龙的尖角,Teostra Horn+,mh4g-dex-build7
+645,狱炎的龙鳞,Fire Dragon Scale+,mh4g-dex-build7
+646,炎龙的尖爪,Teostra Claw+,mh4g-dex-build7
+647,炎龙的翼膜,Teostra Webbing,mh4g-dex-build7
+648,炎龙的尘粉,Teostra Powder,mh4g-dex-build7
+649,炎龙的宝玉,Teostra Gem,mh4g-dex-build7
+650,豪山龙的甲岩壳,D.Mohran Shell,mh4g-dex-build7
+651,豪山龙的坚岩壳,D.Mohran Carapace,mh4g-dex-build7
+652,豪山龙的红鳞,D.Mohran Bloodscale,mh4g-dex-build7
+653,豪山龙的上红鳞,D.Mohran Bloodscale+,mh4g-dex-build7
+654,豪山龙的腕甲,D.Mohran Brace,mh4g-dex-build7
+655,豪山龙的上腕甲,D.Mohran Brace+,mh4g-dex-build7
+656,粗野的龙角,Brutal Horn,mh4g-dex-build7
+657,粗野的龙尖角,Brutal Horn+,mh4g-dex-build7
+658,豪龙岩,Dah'renstone,mh4g-dex-build7
+659,大地的龙玉,Earth Dragongem,mh4g-dex-build7
+660,霸龙的上鳞,Akantor Scale+,mh4g-dex-build7
+661,霸龙的坚壳,Akantor Carapace,mh4g-dex-build7
+662,霸龙的尻尾,Akantor Tail,mh4g-dex-build7
+663,霸龙的刚爪,Akantor Hardclaw,mh4g-dex-build7
+664,霸龙的大牙,Akantor Tallfang,mh4g-dex-build7
+665,霸龙的大棘,Akantor Spike,mh4g-dex-build7
+666,霸龙的宝玉,Akantor Gem,mh4g-dex-build7
+667,黑龙的角,Fatalis Horn,mh4g-dex-build7
+668,黑龙的鳞,Fatalis Scale,mh4g-dex-build7
+669,黑龙的甲壳,Fatalis Shell,mh4g-dex-build7
+670,黑龙的眼,Fatalis Eye,mh4g-dex-build7
+671,黑龙的翼膜,Fatalis Webbing,mh4g-dex-build7
+672,黑龙的红角,Fatalis Bloodhorn,mh4g-dex-build7
+673,黑龙的红鳞,Fatalis Bloodscale,mh4g-dex-build7
+674,黑龙的红壳,Fatalis Bloodshell,mh4g-dex-build7
+675,黑龙的魔眼,Fatalis Devileye,mh4g-dex-build7
+676,黑龙的红翼,Fatalis Bloodwing,mh4g-dex-build7
+677,蛇王龙的钢皮,Dalamadur Steel,mh4g-dex-build7
+678,蛇王龙的尾鳞,Dalam Tail Scale,mh4g-dex-build7
+679,蛇王龙的睨眼,Dalamadur Gazer,mh4g-dex-build7
+680,蛇王龙的胸壳,Dalamadur Pectus,mh4g-dex-build7
+681,蛇王龙的剑鳞,Dalamadur Glaive,mh4g-dex-build7
+682,蛇王龙的钩爪,Dalamadur Talon,mh4g-dex-build7
+683,蛇王龙的尾壳,Dalam Tail Shell,mh4g-dex-build7
+684,蛇王龙的扇刃,Dalamadur Fanblade,mh4g-dex-build7
+685,涡卷骨,Vortex Bone,mh4g-dex-build7
+686,天剑的龙玉,Skyblade Gem,mh4g-dex-build7
+687,凶星的破片,Shattered Omen,mh4g-dex-build7
+688,狂龙结晶的碎片,Frenzy Shard,mh4g-dex-build7
+689,狂龙结晶,Frenzy Crystal,mh4g-dex-build7
+690,不祥的狂龙结晶,Vile Frenzy Crystal,mh4g-dex-build7
+691,虾的小壳,Small Lobstershell,mh4g-dex-build7
+692,虾的尾扇,Lobster Tail Fan,mh4g-dex-build7
+693,水龙的鳞,Plesioth Scale,mh4g-dex-build7
+694,水龙的鳍,Plesioth Fin,mh4g-dex-build7
+695,青熊兽的甲壳,Arzuros Shell,mh4g-dex-build7
+696,青熊兽的毛,Arzuros Pelt,mh4g-dex-build7
+697,水兽的爪,Royal Ludroth Claw,mh4g-dex-build7
+698,海绵质的皮,Spongy Hide,mh4g-dex-build7
+699,极彩色的羽毛,Vivid Feather,mh4g-dex-build7
+700,奇怪的喙,Strange Beak,mh4g-dex-build7
+701,土砂龙的甲壳,Barroth Shell,mh4g-dex-build7
+702,土砂龙的头壳,Barroth Scalp,mh4g-dex-build7
+703,潜口龙的皮,Nibelsnarf Hide,mh4g-dex-build7
+704,鲜艳的体液,Vivid Fluid,mh4g-dex-build7
+705,镰蟹的甲壳,Ceanataur Shell,mh4g-dex-build7
+706,镰蟹的铗,Ceanataur Pincer,mh4g-dex-build7
+707,爆锤龙的骨髓,Uragaan Marrow,mh4g-dex-build7
+708,爆锤龙的耐热壳,Uragaan Scute,mh4g-dex-build7
+709,迅龙的黑毛,Nargacuga Blackfur,mh4g-dex-build7
+710,迅龙的骨髓,Nargacuga Marrow,mh4g-dex-build7
+711,迅龙的刃翼,Nargacuga Cutwing,mh4g-dex-build7
+712,尾槌龙的苔甲,Duramboros Mossplate,mh4g-dex-build7
+713,尾槌龙的角,Duramboros Horn,mh4g-dex-build7
+714,溶岩龙的鳞,Lavasioth Scale,mh4g-dex-build7
+715,溶岩龙的鳍,Lavasioth Fin,mh4g-dex-build7
+716,角龙的甲壳,Diablos Shell,mh4g-dex-build7
+717,上质的卷角,Majestic Horn,mh4g-dex-build7
+718,老山龙的甲壳,Lao-Shan Shell,mh4g-dex-build7
+719,老山龙的大爪,Lao-Shan Claw,mh4g-dex-build7
+720,老山龙的角,Lao-Shan Horn,mh4g-dex-build7
+721,飞虫的薄羽,Vespoid Innerwing,mh4g-dex-build7
+722,砂龙的上鳍,Cephalos Fin+,mh4g-dex-build7
+723,砂龙的上鳞,Cephalos Scale+,mh4g-dex-build7
+724,盾蟹的坚壳,Hermitaur Carapace,mh4g-dex-build7
+725,盾蟹的尖爪,Hermitaur Claw+,mh4g-dex-build7
+726,灯鱼龙的上皮,Gobul Hide+,mh4g-dex-build7
+727,灯鱼龙的上棘,Gobul Spike+,mh4g-dex-build7
+728,赤甲兽的坚壳,Volvidon Carapace,mh4g-dex-build7
+729,琥珀色的锐牙,Amber Tusks+,mh4g-dex-build7
+730,冰牙龙的上毛皮,Barioth Pelt+,mh4g-dex-build7
+731,雪狮子的刚毛,Blangonga Pelt+,mh4g-dex-build7
+732,雪狮子的须,Blangonga Whisker,mh4g-dex-build7
+733,雪狮子的锐牙,Blangonga Fang+,mh4g-dex-build7
+734,海龙的高电壳,Shell Shocker+,mh4g-dex-build7
+735,海龙的苍玉,Lagiacrus Sapphire,mh4g-dex-build7
+736,炎戈龙的坚壳,Agnaktor Carapace,mh4g-dex-build7
+737,炎戈龙的上鳍,Agnaktor Fin+,mh4g-dex-build7
+738,炎妃龙的坚壳,Lunastra Carapace,mh4g-dex-build7
+739,炎妃龙的鬃毛,Lunastra Mane,mh4g-dex-build7
+740,霞龙的上皮,Chameleos Hide+,mh4g-dex-build7
+741,霞龙的宝玉,Chameleos Gem,mh4g-dex-build7
+742,霞龙的尻尾,Chameleos Tail,mh4g-dex-build7
+743,浮岳龙的体液,Tsukami Fluid,mh4g-dex-build7
+744,神龙木,Dragonwood+,mh4g-dex-build7
+745,神龙苔,Dragonmoss+,mh4g-dex-build7
+746,崩龙的削颚,Ukanlos Shoveljaw,mh4g-dex-build7
+747,崩龙的坚壳,Ukanlos Carapace,mh4g-dex-build7
+748,崩龙的宝玉,Ukanlos Gem,mh4g-dex-build7
+749,砦蟹的铗,Gaoren Pincer,mh4g-dex-build7
+750,砦蟹的坚甲,Gaoren Thoracic,mh4g-dex-build7
+751,砦蟹的尖爪,Gaoren Claw+,mh4g-dex-build7
+752,大海龙的甲皮,Ceadeus Hide,mh4g-dex-build7
+753,弯曲的龙角,Crooked Horn,mh4g-dex-build7
+754,神秘的发光体,Luminous Organ,mh4g-dex-build7
+755,煌黑龙的逆鳞,Alatreon Plate,mh4g-dex-build7
+756,煌黑龙的翼膜,Alatreon Webbing,mh4g-dex-build7
+757,贯天之角,Skypiercer,mh4g-dex-build7
+758,锈块,Rustshard,mh4g-dex-build7
+759,太古之块,Ancient Shard,mh4g-dex-build7
+760,锈破片,Rusted Fragment,mh4g-dex-build7
+761,太古之破片,Ancient Fragment,mh4g-dex-build7
+762,带划痕的武器,Battered Weapon,mh4g-dex-build7
+763,带划痕的防具,Battered Armor,mh4g-dex-build7
+764,历战的武器,Seasoned Weapon,mh4g-dex-build7
+765,历战的防具,Seasoned Armor,mh4g-dex-build7
+766,荣光的武器,Venerable Weapon,mh4g-dex-build7
+767,荣光的防具,Venerable Armor,mh4g-dex-build7
+768,地图,Map,mh4g-dex-build7
+769,应急药,First-aid Med,mh4g-dex-build7
+770,应急药Ｇ,First-aid Med+,mh4g-dex-build7
+771,携带食料,Ration,mh4g-dex-build7
+772,携带烤肉架,Portable Spit,mh4g-dex-build7
+773,携带砥石,Mini Whetstone,mh4g-dex-build7
+774,携带麻痹陷阱,EZ Shock Trap,mh4g-dex-build7
+775,支给专用闪光弹,EZ Flash Bomb,mh4g-dex-build7
+776,支给专用音爆弹,EZ Sonic Bomb,mh4g-dex-build7
+777,支给专用秘药,EZ Max Potion,mh4g-dex-build7
+778,支给专用落穴陷阱,EZ Pitfall Trap,mh4g-dex-build7
+779,支给用大桶爆弹,EZ Barrel Bomb L,mh4g-dex-build7
+780,大弩炮弹,Ballista Ammo,mh4g-dex-build7
+781,大弩用拘束弹,Ballista Binder,mh4g-dex-build7
+782,单发式拘束弹,One-shot Binder,mh4g-dex-build7
+783,大炮弹,Cannon Ammo,mh4g-dex-build7
+784,对巨龙爆弹,Anti-dragon Bomb,mh4g-dex-build7
+785,火把,Torch,mh4g-dex-build7
+786,猫券,Paw Pass Ticket,mh4g-dex-build7
+787,特产蘑菇,Unique Mushroom,mh4g-dex-build7
+788,严选蘑菇,Choice Mushroom,mh4g-dex-build7
+789,熟成蘑菇,Ripened Mushroom,mh4g-dex-build7
+790,黄金鱼,Goldenfish,mh4g-dex-build7
+791,白金鱼,Silverfish,mh4g-dex-build7
+792,皇家甲虫,Royal Rhino,mh4g-dex-build7
+793,硫黄结晶,Sulfur Crystal,mh4g-dex-build7
+794,黄金石块,Auristone Chunk,mh4g-dex-build7
+795,龙骨结晶,Crystal Bone,mh4g-dex-build7
+796,血石,Bloodstone,mh4g-dex-build7
+797,燃石炭,Coal,mh4g-dex-build7
+798,化石骨,Fossilized Bone,mh4g-dex-build7
+799,霞草,Mistentoe,mh4g-dex-build7
+800,腐朽的龙鳞,Decayed Scale,mh4g-dex-build7
+801,小小的碎片,Tiny Spall,mh4g-dex-build7
+802,幸运的碎片,Lucky Spall,mh4g-dex-build7
+803,激运的碎片,Miracle Spall,mh4g-dex-build7
+804,白肝,White Liver,mh4g-dex-build7
+805,垂皮油,Slagtoth Oil,mh4g-dex-build7
+806,秘密的口袋,Secret Stash,mh4g-dex-build7
+807,滚圆的团栗,Round Acorn,mh4g-dex-build7
+808,漂亮的腹袋,Fine Stomach,mh4g-dex-build7
+809,闪光的腹袋,Luminous Stomach,mh4g-dex-build7
+810,怪物的肝,Monster Guts,mh4g-dex-build7
+811,猛犸的舌头,Popo Tongue,mh4g-dex-build7
+812,丸鸟的蛋,Gargwa Egg,mh4g-dex-build7
+813,丸鸟的金蛋,Gold Gargwa Egg,mh4g-dex-build7
+814,飞龙的蛋,Wyvern Egg,mh4g-dex-build7
+815,草食龙的蛋,Herbivore Egg,mh4g-dex-build7
+816,灰水晶原石,Sootstone Ore,mh4g-dex-build7
+817,火药岩,Powderstone,mh4g-dex-build7
+818,丸鸟的粪,Gargwa Guano,mh4g-dex-build7
+819,划地盘的粪,Territorial Dung,mh4g-dex-build7
+820,划地盘粪堆,Territorial Dung+,mh4g-dex-build7
+821,士兵费洛蒙,Drone Substance,mh4g-dex-build7
+822,女王费洛蒙,Queen Substance,mh4g-dex-build7
+823,蛤蟆的眼泪,Toad Tear,mh4g-dex-build7
+824,蛤蟆的大颗眼泪,Large Toad Tear,mh4g-dex-build7
+825,龙的眼泪,Wyvern Tear,mh4g-dex-build7
+826,龙的大颗眼泪,Large Wyvern Tear,mh4g-dex-build7
+827,牙兽的眼泪,Beast Tear,mh4g-dex-build7
+828,牙兽的大颗眼泪,Large Beast Tear,mh4g-dex-build7
+829,龙秘宝,Dragon Treasure,mh4g-dex-build7
+830,古代龙秘宝,Old Dragon Treasure,mh4g-dex-build7
+831,斗技王硬币,Pinnacle Coin,mh4g-dex-build7
+832,狩猎王硬币,Hunter King Coin,mh4g-dex-build7
+833,击龙王硬币,Ace Hunter Coin,mh4g-dex-build7
+834,牙兽的硬币,Beast Coin,mh4g-dex-build7
+835,飞龙的硬币,Flying Coin,mh4g-dex-build7
+836,鸟龙的硬币,Bird Coin,mh4g-dex-build7
+837,牙龙的硬币,Fang Coin,mh4g-dex-build7
+838,兽龙的硬币,Brute Coin,mh4g-dex-build7
+839,虫的硬币,Vermin Coin,mh4g-dex-build7
+840,蛤蟆的硬币,Toad Coin,mh4g-dex-build7
+842,餐饮券,Voucher,mh4g-dex-build7
+843,高级餐饮券,Gourmet Voucher,mh4g-dex-build7
+844,工作室通行证,Studio Pass,mh4g-dex-build7
+845,【日】财宝Ｊ票,[JP] Treasury J Ticket,mh4g-dex-build7
+846,【日】50贝利的通缉令,[JP] 50 Belly Wanted Poster,mh4g-dex-build7
+847,【日】K隆星,[JP] Kerron Star,mh4g-dex-build7
+848,【日】杂志票,[JP] Magazine Ticket,mh4g-dex-build7
+849,【日】武装的请柬,[JP] Armament Invitation,mh4g-dex-build7
+850,【日】法米通票,[JP] Famitsu Ticket,mh4g-dex-build7
+851,【日】古之大妖牙,[JP] Ancient Demon Fang,mh4g-dex-build7
+852,猛汉部入部申请书,Fan Club Invite,mh4g-dex-build7
+853,MONQLO票,Monqlo Ticket,mh4g-dex-build7
+854,工作室Ｇ通行证,Gold Studio Pass,mh4g-dex-build7
+855,工作室Ｐ通行证,Platinum Pass,mh4g-dex-build7
+856,【日】海贼Ｊ票,[JP] Pirate J Ticket,mh4g-dex-build7
+857,传说Ｊ的锚,Amulet Keepsake,mh4g-dex-build7
+858,【日】传说Ｊ的海贼帽,[JP] Legend J Pirate Hat,mh4g-dex-build7
+859,【日】过亿的通缉令,[JP] 100m+ Wanted Poster,mh4g-dex-build7
+860,悬赏的通缉令,Interpol Badge,mh4g-dex-build7
+861,巴尔巴雷票,Val Habar Ticket,mh4g-dex-build7
+862,【日】冥天的星屑,[JP] Hades Stardust,mh4g-dex-build7
+863,铃兰最强之证,Goddess's Melody,mh4g-dex-build7
+864,地上最强的证明,Goddess's Embrace,mh4g-dex-build7
+865,【日】任侠风的画,[JP] Chivalrous Artwork,mh4g-dex-build7
+866,UNIQLO票,Uniqlo Ticket,mh4g-dex-build7
+867,【日】纹章票,[JP] Enbure Ticket,mh4g-dex-build7
+868,【日】SUNDAY票,[JP] Sunday Ticket,mh4g-dex-build7
+869,【日】埃索诺票,[JP] Ezono Ticket,mh4g-dex-build7
+870,COROCORO票,Anklet Memento,mh4g-dex-build7
+871,【日】电击票,[JP] Dengeki Ticket,mh4g-dex-build7
+872,【日】电击Ｇ票,[JP] Dengeki G Ticket,mh4g-dex-build7
+873,【日】卡普本狩猎增刊,[JP] Capcom MH Sp. Issue,mh4g-dex-build7
+874,猛汉部许可证,Fan Club Certificate,mh4g-dex-build7
+875,三角力量,Triforce,mh4g-dex-build7
+876,女神之炎,Goddess's Fire,mh4g-dex-build7
+877,超级蘑菇,Super Mushroom,mh4g-dex-build7
+879,豪山龙票,D.Mohran Ticket,mh4g-dex-build7
+881,蛇王龙票,Dalamadur Ticket,mh4g-dex-build7
+882,金狮子票,Rajang Ticket,mh4g-dex-build7
+883,黑蚀龙票,Gore Magala Ticket,mh4g-dex-build7
+884,蛇与蛙票,Viper & Toad Ticket,mh4g-dex-build7
+885,幻兽票,Oroshi Kirin Ticket,mh4g-dex-build7
+886,勇气之证,Commendation,mh4g-dex-build7
+887,勇气之证Ｇ,Commendation G,mh4g-dex-build7
+888,希望之证,Accolade,mh4g-dex-build7
+889,希望之证Ｇ,Accolade G,mh4g-dex-build7
+890,旅团票,Caravan Ticket,mh4g-dex-build7
+891,随从猫票,Palico Ticket,mh4g-dex-build7
+892,猫猎人票,Meownster Ticket,mh4g-dex-build7
+893,探求者之证,Quester's Ticket,mh4g-dex-build7
+894,钢龙票,Kushala Daora Ticket,mh4g-dex-build7
+895,炎王龙票,Teostra Ticket,mh4g-dex-build7
+896,肉球印章,Pawprint Stamp,mh4g-dex-build7
+897,山菜组交换券,VE Ticket,mh4g-dex-build7
+898,山菜组交换券Ｇ,VE Deluxe Ticket,mh4g-dex-build7
+899,钢之山菜组交换券,VE Bronze Ticket,mh4g-dex-build7
+900,银之山菜组交换券,VE Silver Ticket,mh4g-dex-build7
+901,金之山菜组交换券,VE Golden Ticket,mh4g-dex-build7
+902,素朴的端材,Humble Scrap,mh4g-dex-build7
+903,基础的端材,Handsome Scrap,mh4g-dex-build7
+904,丸鸟的端材,Gargwa Scrap,mh4g-dex-build7
+905,青熊兽的端材,Arzuros Scrap,mh4g-dex-build7
+906,奇猿狐的端材,Kecha Wacha Scrap,mh4g-dex-build7
+907,怪鸟的端材,Yian Kut-Ku Scrap,mh4g-dex-build7
+908,飞甲虫的端材,Bnahabra Scrap,mh4g-dex-build7
+909,大猪的端材,Bulldrome Scrap,mh4g-dex-build7
+910,草食龙的端材,Rhenoplos Scrap,mh4g-dex-build7
+911,狗龙的端材,Great Jaggi Scrap,mh4g-dex-build7
+912,影蜘蛛的端材,Nerscylla Scrap,mh4g-dex-build7
+913,彩鸟的端材,Qurupeco Scrap,mh4g-dex-build7
+914,鬼鲛的端材,Zamtrios Scrap,mh4g-dex-build7
+915,白兔兽的端材,Lagombi Scrap,mh4g-dex-build7
+916,鬼蛙的端材,Tetsucabra Scrap,mh4g-dex-build7
+917,土砂龙的端材,Barroth Scrap,mh4g-dex-build7
+918,垂皮龙的端材,Slagtoth Scrap,mh4g-dex-build7
+919,赤甲兽的端材,Volvidon Scrap,mh4g-dex-build7
+920,轰龙的端材,Tigrex Scrap,mh4g-dex-build7
+921,眠狗龙的端材,Great Baggi Scrap,mh4g-dex-build7
+922,潜口龙的端材,Nibelsnarf Scrap,mh4g-dex-build7
+923,重甲虫的端材,Seltas Queen Scrap,mh4g-dex-build7
+924,爆锤龙的端材,Uragaan Scrap,mh4g-dex-build7
+925,毒狗龙的端材,Great Wroggi Scrap,mh4g-dex-build7
+926,角龙的端材,Diablos Scrap,mh4g-dex-build7
+927,雌火龙的端材,Rathian Scrap,mh4g-dex-build7
+928,软绵绵的端材,Khezu Scrap,mh4g-dex-build7
+929,尾槌龙的端材,Duramboros Scrap,mh4g-dex-build7
+930,雷狼龙的端材,Zinogre Scrap,mh4g-dex-build7
+931,迅龙的端材,Nargacuga Scrap,mh4g-dex-build7
+932,火龙的端材,Rathalos Scrap,mh4g-dex-build7
+933,炎戈龙的端材,Agnaktor Scrap,mh4g-dex-build7
+934,绞蛇龙的端材,Najarala Scrap,mh4g-dex-build7
+935,黑蚀龙的端材,Gore Magala Scrap,mh4g-dex-build7
+936,天迴龙的端材,Shagaru Magala Scrap,mh4g-dex-build7
+937,炎王龙的端材,Teostra Scrap,mh4g-dex-build7
+938,恐暴龙的端材,Deviljho Scrap,mh4g-dex-build7
+939,霸龙的端材,Akantor Scrap,mh4g-dex-build7
+940,煌黑龙的端材,Alatreon Scrap,mh4g-dex-build7
+941,钢龙的端材,Kushala Daora Scrap,mh4g-dex-build7
+942,崩龙的端材,Ukanlos Scrap,mh4g-dex-build7
+943,麒麟的端材,Kirin Scrap,mh4g-dex-build7
+944,毒怪龙的端材,Gigginox Scrap,mh4g-dex-build7
+945,金狮子的端材,Rajang Scrap,mh4g-dex-build7
+946,碎龙的端材,Brach Scrap,mh4g-dex-build7
+947,冰牙龙的端材,Barioth Scrap,mh4g-dex-build7
+948,岚龙的端材,Amatsu Scrap,mh4g-dex-build7
+949,豪山龙的端材,Dah'ren Mohran Scrap,mh4g-dex-build7
+950,峯山龙的端材,Jhen Mohran Scrap,mh4g-dex-build7
+951,蛇王龙的端材,Dalamadur Scrap,mh4g-dex-build7
+952,水兽的端材,Royal Ludroth Scrap,mh4g-dex-build7
+953,水龙的端材,Plesioth Scrap,mh4g-dex-build7
+954,海龙的端材,Lagiacrus Scrap,mh4g-dex-build7
+955,水光原珠,Aquaglow Jewel,mh4g-dex-build7
+956,阳翔原珠,Sunspire Jewel,mh4g-dex-build7
+957,修罗原珠,Bloodrun Jewel,mh4g-dex-build7
+958,瑠璃原珠,Lazurite Jewel,mh4g-dex-build7
+959,金刚原珠,Adamant Orb,mh4g-dex-build7
+960,耐毒珠【1】,Antidote Jewel 1,mh4g-dex-build7
+961,耐毒珠【2】,Antidote Jewel 2,mh4g-dex-build7
+962,耐痹珠【1】,Paralysis Jwl 1,mh4g-dex-build7
+963,耐痹珠【2】,Paralysis Jwl 2,mh4g-dex-build7
+964,耐眠珠【1】,Pep Jewel 1,mh4g-dex-build7
+965,耐眠珠【2】,Pep Jewel 2,mh4g-dex-build7
+966,耐绝珠【1】,Steadfast Jwl 1,mh4g-dex-build7
+967,制绝珠【1】,Standfast Jwl 1,mh4g-dex-build7
+968,耐粘珠【1】,Tracker Jewel 1,mh4g-dex-build7
+969,抗粘珠【1】,Trekker Jewel 1,mh4g-dex-build7
+970,忍脚珠【1】,Ninja Jewel 1,mh4g-dex-build7
+971,体力珠【1】,Vitality Jewel 1,mh4g-dex-build7
+972,早复珠【1】,Recovery Jewel 1,mh4g-dex-build7
+973,早复珠【2】,Recovery Jewel 2,mh4g-dex-build7
+974,斩铁珠【1】,Razor Jewel 1,mh4g-dex-build7
+975,斩铁珠【3】,Razor Jewel 3,mh4g-dex-build7
+976,匠珠【2】,Handicraft Jwl 2,mh4g-dex-build7
+977,匠珠【3】,Handicraft Jwl 3,mh4g-dex-build7
+978,剑豪珠【1】,Fencer Jewel 1,mh4g-dex-build7
+979,剑豪珠【3】,Fencer Jewel 3,mh4g-dex-build7
+980,达人珠【1】,Expert Jewel 1,mh4g-dex-build7
+981,达人珠【2】,Expert Jewel 2,mh4g-dex-build7
+982,达人珠【3】,Expert Jewel 3,mh4g-dex-build7
+983,研磨珠【1】,Grinder Jewel 1,mh4g-dex-build7
+984,铁壁珠【1】,Ironwall Jewel 1,mh4g-dex-build7
+985,铁壁珠【2】,Ironwall Jewel 2,mh4g-dex-build7
+986,强壁珠【1】,Shield Jewel 1,mh4g-dex-build7
+987,强壁珠【2】,Shield Jewel 2,mh4g-dex-build7
+988,早填珠【1】,Quickload Jwl 1,mh4g-dex-build7
+989,早填珠【2】,Quickload Jwl 2,mh4g-dex-build7
+990,抑反珠【1】,Absorber Jewel 1,mh4g-dex-build7
+991,抑反珠【3】,Absorber Jewel 3,mh4g-dex-build7
+992,强弹珠【1】,Forceshot Jwl 1,mh4g-dex-build7
+993,强弹珠【3】,Forceshot Jwl 3,mh4g-dex-build7
+994,贯通珠【1】,Pierce Jewel 1,mh4g-dex-build7
+995,贯通珠【3】,Pierce Jewel 3,mh4g-dex-build7
+996,散弹珠【1】,Pellet Jewel 1,mh4g-dex-build7
+997,散弹珠【3】,Pellet Jewel 3,mh4g-dex-build7
+998,加弹珠【1】,ShotPlus Jewel 1,mh4g-dex-build7
+999,加弹珠【2】,ShotPlus Jewel 2,mh4g-dex-build7
+1000,加贯珠【1】,PiercePlus Jwl 1,mh4g-dex-build7
+1001,加散珠【1】,PelletPlus Jwl 1,mh4g-dex-build7
+1002,加榴珠【1】,CragPlus Jewel 1,mh4g-dex-build7
+1003,加扩珠【1】,ClustPlus Jwl 1,mh4g-dex-build7
+1004,特攻珠【1】,Disabler Jewel 1,mh4g-dex-build7
+1005,特攻珠【2】,Disabler Jewel 2,mh4g-dex-build7
+1006,属攻珠【1】,Element Jewel 1,mh4g-dex-build7
+1007,属攻珠【3】,Element Jewel 3,mh4g-dex-build7
+1008,爆师珠【1】,Bombardier Jwl 1,mh4g-dex-build7
+1009,无食珠【1】,Hungerless Jwl 1,mh4g-dex-build7
+1010,食汉珠【1】,Metabolism Jwl 1,mh4g-dex-build7
+1011,攻击珠【1】,Attack Jewel 1,mh4g-dex-build7
+1012,攻击珠【2】,Attack Jewel 2,mh4g-dex-build7
+1013,攻击珠【3】,Attack Jewel 3,mh4g-dex-build7
+1014,防御珠【1】,Defense Jewel 1,mh4g-dex-build7
+1015,防御珠【2】,Defense Jewel 2,mh4g-dex-build7
+1016,加护珠【1】,Protection Jwl 1,mh4g-dex-build7
+1017,神护珠【1】,Asylum Jewel 1,mh4g-dex-build7
+1018,防音珠【1】,Earplug Jewel 1,mh4g-dex-build7
+1019,防音珠【3】,Earplug Jewel 3,mh4g-dex-build7
+1020,防盗珠【1】,Alarm Jewel 1,mh4g-dex-build7
+1021,友爱珠【1】,Friendship Jwl 1,mh4g-dex-build7
+1022,友爱珠【2】,Friendship Jwl 2,mh4g-dex-build7
+1023,运搬珠【1】,Transportr Jwl 1,mh4g-dex-build7
+1024,耐火珠【1】,Fire Res Jewel 1,mh4g-dex-build7
+1025,耐水珠【1】,Water Res Jwl 1,mh4g-dex-build7
+1026,耐冰珠【1】,Ice Res Jewel 1,mh4g-dex-build7
+1027,耐雷珠【1】,ThunderRes Jwl 1,mh4g-dex-build7
+1028,耐龙珠【1】,Dragon Res Jwl 1,mh4g-dex-build7
+1029,耐暑珠【1】,Heat Res Jewel 1,mh4g-dex-build7
+1030,耐寒珠【1】,Cold Res Jewel 1,mh4g-dex-build7
+1031,防风珠【1】,Wind Res Jewel 1,mh4g-dex-build7
+1032,防风珠【2】,Wind Res Jewel 2,mh4g-dex-build7
+1033,采取珠【1】,Gathering Jwl 1,mh4g-dex-build7
+1034,速集珠【1】,Spree Jewel 1,mh4g-dex-build7
+1035,祝福珠【1】,Blessing Jewel 1,mh4g-dex-build7
+1036,运气珠【1】,Fate Jewel 1,mh4g-dex-build7
+1037,运气珠【3】,Fate Jewel 3,mh4g-dex-build7
+1038,千里珠【1】,Psychic Jewel 1,mh4g-dex-build7
+1039,治愈珠【1】,Medicine Jewel 1,mh4g-dex-build7
+1040,治愈珠【2】,Medicine Jewel 2,mh4g-dex-build7
+1041,博士珠【1】,Professor Jwl 1,mh4g-dex-build7
+1042,弹制珠【1】,Factory Jewel 1,mh4g-dex-build7
+1043,回避珠【1】,Evasion Jewel 1,mh4g-dex-build7
+1044,回避珠【2】,Evasion Jewel 2,mh4g-dex-build7
+1045,底力珠【1】,Potential Jwl 1,mh4g-dex-build7
+1046,底力珠【2】,Potential Jwl 2,mh4g-dex-build7
+1047,持续珠【1】,Enduring Jewel 1,mh4g-dex-build7
+1048,强走珠【1】,Sprinter Jewel 1,mh4g-dex-build7
+1049,强走珠【3】,Sprinter Jewel 3,mh4g-dex-build7
+1050,装填珠【2】,Capacity Jewel 2,mh4g-dex-build7
+1051,装填珠【3】,Capacity Jewel 3,mh4g-dex-build7
+1052,点射珠【1】,Sniper Jewel 1,mh4g-dex-build7
+1053,早食珠【1】,Gobbler Jewel 1,mh4g-dex-build7
+1054,早食珠【3】,Gobbler Jewel 3,mh4g-dex-build7
+1055,皮剥珠【1】,Carver Jewel 1,mh4g-dex-build7
+1056,皮剥珠【3】,Carver Jewel 3,mh4g-dex-build7
+1057,耐震珠【1】,Footing Jewel 1,mh4g-dex-build7
+1058,抗震珠【1】,Tectonic Jewel 1,mh4g-dex-build7
+1059,跳跃珠【1】,Jumping Jewel 1,mh4g-dex-build7
+1060,拔刀珠【1】,Draw Jewel 1,mh4g-dex-build7
+1061,拔刀珠【2】,Draw Jewel 2,mh4g-dex-build7
+1062,罠师珠【1】,Trapmaster Jwl 1,mh4g-dex-build7
+1063,体术珠【1】,Physique Jewel 1,mh4g-dex-build7
+1064,体术珠【2】,Physique Jewel 2,mh4g-dex-build7
+1065,捕获珠【1】,Capture Jewel 1,mh4g-dex-build7
+1066,捕获珠【3】,Capture Jewel 3,mh4g-dex-build7
+1067,观察珠【1】,Perception Jwl 1,mh4g-dex-build7
+1068,短缩珠【1】,Charger Jewel 1,mh4g-dex-build7
+1069,短缩珠【3】,Charger Jewel 3,mh4g-dex-build7
+1070,拔打珠【1】,Gambit Jewel 1,mh4g-dex-build7
+1071,拔打珠【3】,Gambit Jewel 3,mh4g-dex-build7
+1072,属耐珠【1】,Resistor Jewel 1,mh4g-dex-build7
+1073,解放珠【2】,Release Jewel 2,mh4g-dex-build7
+1074,觉醒珠【3】,Catalyst Jewel 3,mh4g-dex-build7
+1075,逆境珠【1】,Fortitude Jwl 1,mh4g-dex-build7
+1076,逆境珠【2】,Fortitude Jwl 2,mh4g-dex-build7
+1077,速射珠【1】,Salvo Jewel 1,mh4g-dex-build7
+1078,速射珠【3】,Salvo Jewel 3,mh4g-dex-build7
+1079,燃烧珠【1】,Torchlight Jwl 1,mh4g-dex-build7
+1080,耐防珠【1】,Def Lock Jewel 1,mh4g-dex-build7
+1081,火炎珠【1】,Blaze Jewel 1,mh4g-dex-build7
+1082,火炎珠【2】,Blaze Jewel 2,mh4g-dex-build7
+1083,流水珠【1】,Stream Jewel 1,mh4g-dex-build7
+1084,流水珠【2】,Stream Jewel 2,mh4g-dex-build7
+1085,雷光珠【1】,Bolt Jewel 1,mh4g-dex-build7
+1086,雷光珠【2】,Bolt Jewel 2,mh4g-dex-build7
+1087,冰结珠【1】,Frost Jewel 1,mh4g-dex-build7
+1088,冰结珠【2】,Frost Jewel 2,mh4g-dex-build7
+1089,破龙珠【1】,Dragon Jewel 1,mh4g-dex-build7
+1090,破龙珠【2】,Dragon Jewel 2,mh4g-dex-build7
+1091,痛击珠【1】,Tenderizer Jwl 1,mh4g-dex-build7
+1092,痛击珠【3】,Tenderizer Jwl 3,mh4g-dex-build7
+1093,重击珠【1】,Destroyer Jwl 1,mh4g-dex-build7
+1094,重击珠【3】,Destroyer Jwl 3,mh4g-dex-build7
+1095,全开珠【1】,Throttle Jewel 1,mh4g-dex-build7
+1096,全开珠【2】,Throttle Jewel 2,mh4g-dex-build7
+1097,ＫＯ珠【1】,KO Jewel 1,mh4g-dex-build7
+1098,夺气珠【1】,Drain Jewel 1,mh4g-dex-build7
+1099,夺气珠【2】,Drain Jewel 2,mh4g-dex-build7
+1100,鼓笛珠【1】,Sonorous Jewel 1,mh4g-dex-build7
+1101,炮术珠【1】,Artillery Jwl 1,mh4g-dex-build7
+1102,属耐珠【3】,Resistor Jewel 3,mh4g-dex-build7
+1103,制火珠【1】,Nul-Fire Jewel 1,mh4g-dex-build7
+1104,制水珠【1】,Nul-Water Jwl 1,mh4g-dex-build7
+1105,制雷珠【1】,Nul-Thundr Jwl 1,mh4g-dex-build7
+1106,制冰珠【1】,Nul-Ice Jewel 1,mh4g-dex-build7
+1107,制龙珠【1】,Nul-Dragon Jwl 1,mh4g-dex-build7
+1108,速纳珠【1】,Sheath Jewel 1,mh4g-dex-build7
+1109,速纳珠【2】,Sheath Jewel 2,mh4g-dex-build7
+1110,早气珠【1】,Refresh Jewel 1,mh4g-dex-build7
+1111,早气珠【2】,Refresh Jewel 2,mh4g-dex-build7
+1112,狩人珠【1】,Ranger Jewel 1,mh4g-dex-build7
+1113,加斩珠【1】,SlicePlus Jwl 1,mh4g-dex-build7
+1114,痹瓶珠【1】,Paracoat Jewel 1,mh4g-dex-build7
+1115,痹瓶珠【2】,Paracoat Jewel 2,mh4g-dex-build7
+1116,眠瓶珠【1】,Sleepcoat Jwl 1,mh4g-dex-build7
+1117,毒瓶珠【1】,Poisoncoat Jwl 1,mh4g-dex-build7
+1118,强瓶珠【1】,Powercoat Jwl 1,mh4g-dex-build7
+1119,强瓶珠【2】,Powercoat Jwl 2,mh4g-dex-build7
+1120,接瓶珠【1】,Rangecoat Jwl 1,mh4g-dex-build7
+1121,减瓶珠【1】,Draincoat Jwl 1,mh4g-dex-build7
+1122,根性珠【1】,Guts Jewel 1,mh4g-dex-build7
+1123,根性珠【2】,Guts Jewel 2,mh4g-dex-build7
+1124,肉食珠【1】,Meateater Jwl 1,mh4g-dex-build7
+1125,肉好珠【1】,Meatlover Jwl 1,mh4g-dex-build7
+1126,蜜集珠【1】,Honeybee Jewel 1,mh4g-dex-build7
+1127,蜜占珠【1】,Queenbee Jewel 1,mh4g-dex-build7
+1128,菌学珠【1】,Biology Jewel 1,mh4g-dex-build7
+1129,菌究珠【1】,Microbio Jewel 1,mh4g-dex-build7
+1130,斗魂珠【1】,Spirit Jewel 1,mh4g-dex-build7
+1131,斗魂珠【2】,Spirit Jewel 2,mh4g-dex-build7
+1132,无伤珠【1】,Flawless Jewel 1,mh4g-dex-build7
+1133,无伤珠【2】,Flawless Jewel 2,mh4g-dex-build7
+1134,刚体珠【1】,Steady Jewel 1,mh4g-dex-build7
+1135,刚体珠【3】,Steady Jewel 3,mh4g-dex-build7
+1136,采配珠【1】,Player Jewel 1,mh4g-dex-build7
+1137,名采配珠【1】,Morale Jewel 1,mh4g-dex-build7
+1138,号令珠【1】,Leader Jewel 1,mh4g-dex-build7
+1139,号令珠【2】,Leader Jewel 2,mh4g-dex-build7
+1140,ＫＯ珠【2】,KO Jewel 2,mh4g-dex-build7
+1141,护石珠【1】,Charmer Jewel 1,mh4g-dex-build7
+1142,加爆珠【1】,BlastPlus Jwl 1,mh4g-dex-build7
+1143,爆瓶珠【1】,Blastcoat Jwl 1,mh4g-dex-build7
+1144,兽人种之书,Lynians,mh4g-dex-build7
+1145,甲虫种之书【卷1】,Neopterons Vol 1,mh4g-dex-build7
+1146,影蜘蛛之书,Nerscylla,mh4g-dex-build7
+1147,重甲虫之书,Seltas Queen,mh4g-dex-build7
+1148,鱼龙种之书【卷1】,Piscine Wyverns Vol1,mh4g-dex-build7
+1149,食草种之书【卷1】,Herbivores Vol 1,mh4g-dex-build7
+1150,食草种之书【卷2】,Herbivores Vol 2,mh4g-dex-build7
+1151,鸟龙种之书【卷1】,Bird Wyverns Vol 1,mh4g-dex-build7
+1152,鸟龙种之书【卷2】,Bird Wyverns Vol 2,mh4g-dex-build7
+1153,鸟龙种之书【卷3】,Bird Wyverns Vol 3,mh4g-dex-build7
+1154,牙兽种之书【卷1】,Fanged Beasts Vol 1,mh4g-dex-build7
+1155,牙兽种之书【卷2】,Fanged Beasts Vol 2,mh4g-dex-build7
+1156,牙兽种之书【卷3】,Fanged Beasts Vol 3,mh4g-dex-build7
+1157,金狮子之书,Rajang,mh4g-dex-build7
+1158,鬼蛙之书,Tetsucabra,mh4g-dex-build7
+1159,鬼鲛之书,Zamtrios,mh4g-dex-build7
+1160,蛇龙种之书【卷1】,Snake Wyverns Vol 1,mh4g-dex-build7
+1161,碎龙之书,Brachydios,mh4g-dex-build7
+1162,恐暴龙之书,Deviljho,mh4g-dex-build7
+1163,飞龙种之书【卷1】,Flying Wyverns Vol 1,mh4g-dex-build7
+1164,飞龙种之书【卷2】,Flying Wyverns Vol 2,mh4g-dex-build7
+1165,飞龙种之书【卷3】,Flying Wyverns Vol 3,mh4g-dex-build7
+1166,飞龙种之书【卷4】,Flying Wyverns Vol 4,mh4g-dex-build7
+1167,飞龙种之书【卷5】,Flying Wyverns Vol 5,mh4g-dex-build7
+1168,飞龙种之书【卷6】,Flying Wyverns Vol 6,mh4g-dex-build7
+1169,黑蚀龙之书,Gore Magala,mh4g-dex-build7
+1170,霸龙之书,Akantor,mh4g-dex-build7
+1171,牙龙种之书【卷1】,Fanged Wyverns Vol 1,mh4g-dex-build7
+1172,牙龙种之书【卷2】,Fanged Wyverns Vol 2,mh4g-dex-build7
+1173,麒麟之书,Kirin,mh4g-dex-build7
+1174,麒麟亚种之书,Oroshi Kirin,mh4g-dex-build7
+1175,天迴龙之书,Shagaru Magala,mh4g-dex-build7
+1176,豪山龙之书,Dah'ren Mohran,mh4g-dex-build7
+1177,钢龙之书,Kushala Daora,mh4g-dex-build7
+1178,炎王龙之书,Teostra,mh4g-dex-build7
+1179,蛇王龙之书,Dalamadur,mh4g-dex-build7
+1180,黑龙之书,Fatalis,mh4g-dex-build7
+1181,刀匠珠【1】,Honed Jwl 1,mh4g-dex-build7
+1182,刀匠珠【2】,Honed Jwl 2,mh4g-dex-build7
+1183,刀匠珠【3】,Honed Jwl 3,mh4g-dex-build7
+1184,刀匠真珠【3】,True Honed Jwl 3,mh4g-dex-build7
+1185,射手珠【1】,Calm Jwl 1,mh4g-dex-build7
+1186,射手珠【2】,Calm Jwl 2,mh4g-dex-build7
+1187,射手珠【3】,Calm Jwl 3,mh4g-dex-build7
+1188,射手真珠【3】,True Calm Jwl 3,mh4g-dex-build7
+1189,状耐珠【1】,Hale Jwl 1,mh4g-dex-build7
+1190,状耐珠【2】,Hale Jwl 2,mh4g-dex-build7
+1191,状耐珠【3】,Hale Jwl 3,mh4g-dex-build7
+1192,状耐真珠【3】,True Hale Jwl 3,mh4g-dex-build7
+1193,怒珠【1】,Ire Jwl 1,mh4g-dex-build7
+1194,怒珠【2】,Ire Jwl 2,mh4g-dex-build7
+1195,怒珠【3】,Ire Jwl 3,mh4g-dex-build7
+1196,怒真珠【3】,True Ire Jwl 3,mh4g-dex-build7
+1197,回术珠【1】,Nimble Jwl 1,mh4g-dex-build7
+1198,回术真珠【1】,True Nimble Jwl 1,mh4g-dex-build7
+1199,回术珠【2】,Nimble Jwl 2,mh4g-dex-build7
+1200,回术珠【3】,Nimble Jwl 3,mh4g-dex-build7
+1201,回术真珠【3】,True Nimble Jwl 3,mh4g-dex-build7
+1202,顽强珠【1】,Hardy Jwl 1,mh4g-dex-build7
+1203,顽强真珠【1】,True Hardy Jwl 1,mh4g-dex-build7
+1204,顽强珠【2】,Hardy Jwl 2,mh4g-dex-build7
+1205,顽强珠【3】,Hardy Jwl 3,mh4g-dex-build7
+1206,顽强真珠【3】,True Hardy Jwl 3,mh4g-dex-build7
+1207,居合珠【1】,Withdrawn Jwl 1,mh4g-dex-build7
+1208,居合珠【3】,Withdrawn Jwl 3,mh4g-dex-build7
+1209,刚击珠【1】,Impactful Jwl 1,mh4g-dex-build7
+1210,刚击珠【3】,Impactful Jwl 3,mh4g-dex-build7
+1211,一心珠【2】,Intense Jwl 2,mh4g-dex-build7
+1212,一心珠【3】,Intense Jwl 3,mh4g-dex-build7
+1213,盾持珠【2】,Aegis Jwl 2,mh4g-dex-build7
+1214,盾持珠【3】,Aegis Jwl 3,mh4g-dex-build7
+1215,洁癖珠【2】,Tactful Jwl 2,mh4g-dex-build7
+1216,洁癖珠【3】,Tactful Jwl 3,mh4g-dex-build7
+1217,增幅珠【2】,Broad Jwl 2,mh4g-dex-build7
+1218,增幅珠【3】,Broad Jwl 3,mh4g-dex-build7
+1219,护收珠【1】,Trove Jwl 1,mh4g-dex-build7
+1220,护收真珠【1】,True Trove Jwl 1,mh4g-dex-build7
+1221,护收珠【2】,Trove Jwl 2,mh4g-dex-build7
+1222,护收真珠【2】,True Trove Jwl 2,mh4g-dex-build7
+1223,护收珠【3】,Trove Jwl 3,mh4g-dex-build7
+1224,强欲珠【1】,Avid Jwl 1,mh4g-dex-build7
+1225,强欲真珠【1】,True Avid Jwl 1,mh4g-dex-build7
+1226,强欲珠【2】,Avid Jwl 2,mh4g-dex-build7
+1227,强欲真珠【2】,True Avid Jwl 2,mh4g-dex-build7
+1228,强欲珠【3】,Avid Jwl 3,mh4g-dex-build7
+1229,力之高级虫饵,Power++ Nectar,mh4g-dex-build7
+1230,体之高级虫饵,Stamina++ Nectar,mh4g-dex-build7
+1231,速之高级虫饵,Speed++ Nectar,mh4g-dex-build7
+1232,高级虫饵・灼热,Nectar: Fire++,mh4g-dex-build7
+1233,高级虫饵・激流,Nectar: Water++,mh4g-dex-build7
+1234,高级虫饵・雷鸣,Nectar: Thunder++,mh4g-dex-build7
+1235,高级虫饵・吹雪,Nectar: Ice++,mh4g-dex-build7
+1236,高级虫饵・灭龙,Nectar: Dragon++,mh4g-dex-build7
+1237,LV1 抗龙石・耐冲,Wystone Lv1: Brace,mh4g-dex-build7
+1238,LV1 抗龙石・属击,Wystone Lv1: Element,mh4g-dex-build7
+1239,LV1 抗龙石・刚击,Wystone Lv1: Force,mh4g-dex-build7
+1240,LV1 抗龙石・心击,Wystone Lv1: Drive,mh4g-dex-build7
+1241,鱼龙种之书【卷2】,Piscine Wyverns Vol2,mh4g-dex-build7
+1242,食草种之书【卷3】,Herbivores Vol 3,mh4g-dex-build7
+1243,甲壳种之书【卷1】,Carapaceons Vol 1,mh4g-dex-build7
+1244,甲壳种之书【卷2】,Carapaceons Vol 2,mh4g-dex-build7
+1245,甲虫种之书【卷2】,Neopterons Vol 2,mh4g-dex-build7
+1246,甲虫种之书【卷3】,Neopterons Vol 3,mh4g-dex-build7
+1247,飞龙种之书【卷7】,Flying Wyverns Vol 7,mh4g-dex-build7
+1248,飞龙种之书【卷8】,Flying Wyverns Vol 8,mh4g-dex-build7
+1249,千刃龙之书,Seregios,mh4g-dex-build7
+1250,牙兽种之书【卷4】,Fanged Beasts Vol 4,mh4g-dex-build7
+1251,两生种之书,Amphibians,mh4g-dex-build7
+1252,蛇龙种之书【卷2】,Snake Wyverns Vol 2,mh4g-dex-build7
+1254,崩龙之书,Ukanlos,mh4g-dex-build7
+1255,古龙种之书,Elder Dragons,mh4g-dex-build7
+1256,巨戟龙之书,Gogmazios,mh4g-dex-build7
+1257,小鳟鱼,Coinperch S,mh4g-dex-build7
+1258,鳟鱼,Coinperch M,mh4g-dex-build7
+1259,大鳟鱼,Coinperch L,mh4g-dex-build7
+1260,龙仙幼鱼,Cathangeafish Fry,mh4g-dex-build7
+1261,龙仙鱼,Cathangeafish,mh4g-dex-build7
+1262,冬多尔玛金枪鱼,Dundorma Tuna,mh4g-dex-build7
+1263,铗角种之书,Temnocerans,mh4g-dex-build7
+1264,雌火龙的厚鳞,Rathian Shard,mh4g-dex-build7
+1265,雌火龙的重壳,Rathian Cortex,mh4g-dex-build7
+1266,雌火龙的秘棘,Rathian Surspike,mh4g-dex-build7
+1267,雌火龙的天鳞,Rathian Mantle,mh4g-dex-build7
+1268,火龙的刚翼爪,Rath Wingtalon+,mh4g-dex-build7
+1269,樱火龙的厚鳞,P.Rathian Shard,mh4g-dex-build7
+1270,樱火龙的重壳,P.Rathian Cortex,mh4g-dex-build7
+1271,金火龙的厚鳞,G.Rathian Shard,mh4g-dex-build7
+1272,金火龙的重壳,G.Rathian Cortex,mh4g-dex-build7
+1273,金火龙的秘棘,G.Rath Surspike,mh4g-dex-build7
+1274,煌炎之雫,Firegleam Dollop,mh4g-dex-build7
+1275,火龙的厚鳞,Rathalos Shard,mh4g-dex-build7
+1276,火龙的厚壳,Rathalos Cortex,mh4g-dex-build7
+1277,火龙的韧尾,Rathalos Lash,mh4g-dex-build7
+1278,火龙的刚翼,Rathalos Fellwing,mh4g-dex-build7
+1279,火龙的天鳞,Rathalos Mantle,mh4g-dex-build7
+1280,苍火龙的厚鳞,A.Rathalos Shard,mh4g-dex-build7
+1281,苍火龙的重壳,A.Rathalos Cortex,mh4g-dex-build7
+1282,苍火龙的韧尾,A.Rathalos Lash,mh4g-dex-build7
+1283,银火龙的厚鳞,S.Rathalos Shard,mh4g-dex-build7
+1284,银火龙的重壳,S.Rath Cortex,mh4g-dex-build7
+1285,银火龙的韧尾,S.Rath Lash,mh4g-dex-build7
+1286,怪鸟的厚鳞,Kut-Ku Shard,mh4g-dex-build7
+1287,怪鸟的重壳,Kut-Ku Cortex,mh4g-dex-build7
+1288,怪鸟的刚翼,Kut-Ku Fellwing,mh4g-dex-build7
+1289,怪鸟的福耳,Kut-Ku Luckear,mh4g-dex-build7
+1290,青怪鸟的厚鳞,Blue Kut-Ku Shard,mh4g-dex-build7
+1291,青怪鸟的重壳,Blue Kut-Ku Cortex,mh4g-dex-build7
+1292,黑狼鸟的厚鳞,Garuga Shard,mh4g-dex-build7
+1293,黑狼鸟的重壳,Garuga Cortex,mh4g-dex-build7
+1294,黑狼鸟的银狼毛,Garuga Silverpelt,mh4g-dex-build7
+1295,黑狼鸟的刚翼,Garuga Fellwing,mh4g-dex-build7
+1296,黑狼鸟的韧尾,Garuga Lash,mh4g-dex-build7
+1297,橡胶质的特上皮,Rubbery Finehide,mh4g-dex-build7
+1298,毒怪鸟的石头,Gypceros Hardhead,mh4g-dex-build7
+1299,橡胶质的紫柔皮,Rubbery Purple Hide+,mh4g-dex-build7
+1300,毒怪鸟的紫刚翼,P.Gypceros Fellwing,mh4g-dex-build7
+1301,轰龙的厚鳞,Tigrex Shard,mh4g-dex-build7
+1302,轰龙的重壳,Tigrex Cortex,mh4g-dex-build7
+1303,轰龙的重牙,Tigrex Hardfang,mh4g-dex-build7
+1304,轰龙的刚爪,Tigrex Hardclaw,mh4g-dex-build7
+1305,轰龙的韧尾,Tigrex Lash,mh4g-dex-build7
+1306,轰龙的天鳞,Tigrex Mantle,mh4g-dex-build7
+1307,黑轰龙的厚鳞,B.Tigrex Shard,mh4g-dex-build7
+1308,黑轰龙的重壳,B.Tigrex Cortex,mh4g-dex-build7
+1309,黑轰龙的重牙,B.Tigrex Hardfang,mh4g-dex-build7
+1310,黑轰龙的刚爪,B.Tigrex Hardclaw,mh4g-dex-build7
+1311,大轰龙的厚鳞,M.Tigrex Shard,mh4g-dex-build7
+1312,大轰龙的重壳,M.Tigrex Cortex,mh4g-dex-build7
+1313,大轰龙的重牙,M.Tigrex Hardfang,mh4g-dex-build7
+1314,大轰龙的刚爆爪,M.Tigrex Trigger,mh4g-dex-build7
+1315,大轰龙的韧尾,M.Tigrex Lash,mh4g-dex-build7
+1316,惊异的大爆心,Dire Blastheart,mh4g-dex-build7
+1317,红速龙的厚皮,Ioprey Piel,mh4g-dex-build7
+1318,蓝速龙的刚爪,Velocidrome Hardclaw,mh4g-dex-build7
+1319,桃毛兽的豪刚毛,Congalala Fur,mh4g-dex-build7
+1320,桃毛兽的刚爪,Congalala Hardclaw,mh4g-dex-build7
+1321,坚牢的牙兽牙,Beastly Fang,mh4g-dex-build7
+1322,绿毛兽的豪刚毛,E.Congalala Fur,mh4g-dex-build7
+1323,绿毛兽的刚爪,E.Congalala Hardclaw,mh4g-dex-build7
+1324,极彩色的头冠,Vibrant Comb,mh4g-dex-build7
+1325,金狮子的黑荒毛,Rajang Wildpelt,mh4g-dex-build7
+1326,金狮子的刚角,Rajang Hardhorn,mh4g-dex-build7
+1327,金狮子的重牙,Rajang Hardfang,mh4g-dex-build7
+1328,金狮子的刚爪,Rajang Hardclaw,mh4g-dex-build7
+1329,黄金的煌毛,Gold Rajang Pelt+,mh4g-dex-build7
+1330,金狮子的怒发天,Rajang Apoplexy,mh4g-dex-build7
+1331,罗刹的金刚角,Ghoulish Gold Gorer,mh4g-dex-build7
+1332,金狮子的心脏,Rajang Heart,mh4g-dex-build7
+1333,奇猿狐的豪刚毛,Kecha Fur,mh4g-dex-build7
+1334,奇猿狐的重长骨,Kecha Leadbone,mh4g-dex-build7
+1335,奇猿狐的地狱耳,Kecha Auricle,mh4g-dex-build7
+1336,奇猿狐的刚钩爪,Kecha Ripper,mh4g-dex-build7
+1337,奇猿狐的韧尾,Kecha Lash,mh4g-dex-build7
+1338,白猿狐的豪刚毛,A.Kecha Fur,mh4g-dex-build7
+1339,白猿狐的重长骨,A.Kecha Leadbone,mh4g-dex-build7
+1340,白猿狐的地狱耳,A.Kecha Auricle,mh4g-dex-build7
+1341,白猿狐的刚钩爪,A.Kecha Ripper,mh4g-dex-build7
+1342,白猿狐的韧尾,A.Kecha Lash,mh4g-dex-build7
+1343,鬼蛙的厚鳞,Tetsucabra Shard,mh4g-dex-build7
+1344,鬼蛙的重壳,Tetsucabra Cortex,mh4g-dex-build7
+1345,鬼蛙的弩级牙,Tetsucabra Gnawrl,mh4g-dex-build7
+1346,鬼蛙的刚爪,Tetsucabra Hardclaw,mh4g-dex-build7
+1347,强面的大头骨,Vicious Visage,mh4g-dex-build7
+1348,荒鬼蛙的厚鳞,B.Tetsucabra Shard,mh4g-dex-build7
+1349,荒鬼蛙的重壳,B.Tetsucabra Cortex,mh4g-dex-build7
+1350,荒鬼蛙的弩级牙,B.Tetsucabra Gnawrl,mh4g-dex-build7
+1351,荒鬼蛙的刚爪,B.TetsucabraHardclaw,mh4g-dex-build7
+1352,鬼鲛的厚皮,Zamtrios Shard,mh4g-dex-build7
+1353,鬼鲛的厚鳞,Zamtrios Piel,mh4g-dex-build7
+1354,鬼鲛的特上鳍,Zamtrios Grandfin,mh4g-dex-build7
+1355,鬼鲛的重锯齿,Zamtrios Sawtooth+,mh4g-dex-build7
+1356,鬼鲛的刚刃尾,Zamtrios Tailbrand,mh4g-dex-build7
+1357,虎鲛的厚鳞,T.Zamtrios Shard,mh4g-dex-build7
+1358,虎鲛的厚皮,T.Zamtrios Piel,mh4g-dex-build7
+1359,虎鲛的特上鳍,T.Zamtrios Grandfin,mh4g-dex-build7
+1360,虎鲛的重锯齿,T.Zamtrios Sawtooth+,mh4g-dex-build7
+1361,虎鲛的刚刃尾,T.Zamtrios Tailbrand,mh4g-dex-build7
+1362,绞蛇龙的厚皮,Najarala Piel,mh4g-dex-build7
+1363,绞蛇龙的重壳,Najarala Cortex,mh4g-dex-build7
+1364,不寒而栗的喙,Heart-stopping Beak,mh4g-dex-build7
+1365,绞蛇龙的重鸣甲,Najarala Ampsounder,mh4g-dex-build7
+1366,水蛇龙的厚皮,T.Najarala Piel,mh4g-dex-build7
+1367,水蛇龙的重壳,T.Najarala Cortex,mh4g-dex-build7
+1368,水蛇龙的拨水甲,T.Najarala Splasher,mh4g-dex-build7
+1369,蛇王龙的厚钢皮,Dalamadur Steel+,mh4g-dex-build7
+1370,蛇王龙的厚剑鳞,Dalamadur Glaive+,mh4g-dex-build7
+1371,蛇王龙的重胸壳,Dalamadur Pectus+,mh4g-dex-build7
+1372,蛇王龙的刚钩爪,Dalamadur Ripper,mh4g-dex-build7
+1373,蛇王龙的大扇刃,Dalamadur Fanblade+,mh4g-dex-build7
+1374,蛇王龙的厚尾鳞,Dalam Tail Scale+,mh4g-dex-build7
+1375,蛇王龙的重尾壳,Dalam Tail Shell+,mh4g-dex-build7
+1376,天剑的龙神玉,Skyblade Drgnsphire,mh4g-dex-build7
+1377,蛇帝龙的厚钢皮,S.Dalamadur Steel+,mh4g-dex-build7
+1378,蛇帝龙的厚剑鳞,S.Dalamadur Glaive+,mh4g-dex-build7
+1379,蛇帝龙的睨眼,S.Dalamadur Gazer,mh4g-dex-build7
+1380,蛇帝龙的重胸壳,S.Dalamadur Pectus+,mh4g-dex-build7
+1381,蛇帝龙的刚钩爪,S.Dalamadur Ripper,mh4g-dex-build7
+1382,蛇帝龙的大扇刃,S.Dalam Fanblade+,mh4g-dex-build7
+1383,蛇帝龙的厚尾鳞,S.Dalam Tail Scale+,mh4g-dex-build7
+1384,蛇帝龙的重尾壳,S.Dalam Tail Shell+,mh4g-dex-build7
+1385,彻甲虫的重壳,Seltas Cortex,mh4g-dex-build7
+1386,彻甲虫的斩羽,Seltas Razorwing,mh4g-dex-build7
+1387,彻甲虫的刚角,Seltas Hardhorn,mh4g-dex-build7
+1388,斧甲虫的重壳,D.Seltas Cortex,mh4g-dex-build7
+1389,斧甲虫的斩羽,D.Seltas Razorwing,mh4g-dex-build7
+1390,斧甲虫的刚角,D.Seltas Hardhorn,mh4g-dex-build7
+1391,重甲虫的重壳,S.Queen Cortex,mh4g-dex-build7
+1392,重甲虫的重胸壳,S.Queen Pectus+,mh4g-dex-build7
+1393,重甲虫的重颚,S.Queen Maw,mh4g-dex-build7
+1394,重甲虫的刚爪,S.Queen Hardclaw,mh4g-dex-build7
+1395,重甲虫的断月尾,S.Queen Moonlash,mh4g-dex-build7
+1396,特浓重甲浸出物,D.S.QueenConcentrate,mh4g-dex-build7
+1397,炮甲虫的重壳,D.S.Queen Cortex,mh4g-dex-build7
+1398,炮甲虫的重胸壳,D.S.Queen Pectus+,mh4g-dex-build7
+1399,炮甲虫的重颚,D.S.Queen Maw,mh4g-dex-build7
+1400,炮甲虫的刚爪,D.S.Queen Hardclaw,mh4g-dex-build7
+1401,炮甲虫的断月尾,D.S.Queen Moonlash,mh4g-dex-build7
+1402,影蜘蛛的重壳,Nerscylla Cortex,mh4g-dex-build7
+1403,影蜘蛛的重铗角,Nerscylla Scishorn,mh4g-dex-build7
+1404,影蜘蛛的刚爪,Nerscylla Hardclaw,mh4g-dex-build7
+1405,影蜘蛛的秘棘,Nerscylla Surspike,mh4g-dex-build7
+1406,骸蜘蛛的重壳,S.Nerscylla Cortex,mh4g-dex-build7
+1407,骸蜘蛛的重铗角,S.Nerscylla Scishorn,mh4g-dex-build7
+1408,骸蜘蛛的刚爪,S.Nerscylla Hardclaw,mh4g-dex-build7
+1409,骸蜘蛛的秘棘,S.Nerscylla Surspike,mh4g-dex-build7
+1410,黑蚀龙的厚鳞,Gore Magala Shard,mh4g-dex-build7
+1411,黑蚀龙的重壳,Gore Magala Cortex,mh4g-dex-build7
+1412,黑蚀龙的刚触角,Gore Magala Sensor,mh4g-dex-build7
+1413,黑蚀龙的刚惨爪,Gore Magala Shredder,mh4g-dex-build7
+1414,黑蚀龙的暗黑翼,Gore Magala Eclipse,mh4g-dex-build7
+1415,黑蚀龙的韧尾,Gore Magala Lash,mh4g-dex-build7
+1416,黑蚀龙的天鳞,Gore Magala Mantle,mh4g-dex-build7
+1417,浑沌的龙鳞,Chaos Scale,mh4g-dex-build7
+1418,相克的变异角,Diametrical Horn,mh4g-dex-build7
+1419,二律缠身的乱翼,Antinomic Wing,mh4g-dex-build7
+1420,背反的双逆鳞,Contrary Scale,mh4g-dex-build7
+1421,天迴龙的厚鳞,S.Magala Shard,mh4g-dex-build7
+1422,天迴龙的重壳,S.Magala Cortex,mh4g-dex-build7
+1423,天迴龙的刚角,S.Magala Hardhorn,mh4g-dex-build7
+1424,天迴龙的刚净爪,S.Magala Purifier,mh4g-dex-build7
+1425,天迴龙的光虹翼,S.Magala Lightwing,mh4g-dex-build7
+1426,天迴龙的韧尾,S.Magala Lash,mh4g-dex-build7
+1427,天迴龙的天鳞,S.Magala Mantle,mh4g-dex-build7
+1428,钢龙的重壳,Daora Cortex,mh4g-dex-build7
+1429,钢龙的刚角,Daora Hardhorn,mh4g-dex-build7
+1430,钢龙的刚翼,Daora Fellwing,mh4g-dex-build7
+1431,钢龙的韧尾,Daora Lash,mh4g-dex-build7
+1432,钢之厚龙鳞,Daora Shard,mh4g-dex-build7
+1433,钢龙的刚爪,Daora Hardclaw,mh4g-dex-build7
+1434,锖钢的龙壳,Steelrust Drakeshell,mh4g-dex-build7
+1435,银岭之冠,Silverpeak Corona,mh4g-dex-build7
+1436,锖钢的龙爪,Steelrust Claw,mh4g-dex-build7
+1437,暴风的破翼,Maelstriker Wing,mh4g-dex-build7
+1438,锖钢的龙鳞,Steelrust Scale,mh4g-dex-build7
+1439,狱炎的厚龙鳞,Flame Shard,mh4g-dex-build7
+1440,炎王龙的重壳,Teostra Cortex,mh4g-dex-build7
+1441,炎王龙的刚角,Teostra Hardhorn,mh4g-dex-build7
+1442,炎龙的刚爪,Fire Dragon Hardclaw,mh4g-dex-build7
+1443,炎王龙的韧尾,Teostra Lash,mh4g-dex-build7
+1444,霸龙的厚鳞,Akantor Shard,mh4g-dex-build7
+1445,霸龙的重壳,Akantor Cortex,mh4g-dex-build7
+1446,霸龙的极大牙,Akantor Greatfang,mh4g-dex-build7
+1447,霸龙的刚裂爪,Akantor Shredtalon,mh4g-dex-build7
+1448,霸龙的重棘,Akantor Thickspike,mh4g-dex-build7
+1449,霸龙的重尾,Akantor Flail,mh4g-dex-build7
+1450,霸导玉,Conquest Sphere,mh4g-dex-build7
+1451,麒麟的特上皮,Kirin Finehide,mh4g-dex-build7
+1452,麒麟的刚苍角,Kirin Azure Peak,mh4g-dex-build7
+1453,白银的鬃毛,Platinum Mane,mh4g-dex-build7
+1454,麒麟的韧雷尾,Kirin Thunderlash,mh4g-dex-build7
+1455,麒麟的刚冰角,Kirin Ice Peak,mh4g-dex-build7
+1456,麒麟的韧霜尾,Kirin Frostlash,mh4g-dex-build7
+1457,珍珠色的艳皮,Pearl Glosshide,mh4g-dex-build7
+1458,特选生肉片,Khezu Special Cut,mh4g-dex-build7
+1459,魅惑色的艳皮,Alluring Glosshide,mh4g-dex-build7
+1460,魅惑色的刚翼,Alluring Fellwing,mh4g-dex-build7
+1461,岩龙的重壳,Basarios Cortex,mh4g-dex-build7
+1462,岩龙的刚翼,Basarios Fellwing,mh4g-dex-build7
+1463,桃岩龙的重壳,R.Basarios Cortex,mh4g-dex-build7
+1464,桃岩龙的刚翼,R.Basarios Fellwing,mh4g-dex-build7
+1465,铠龙的重壳,Gravios Cortex,mh4g-dex-build7
+1466,铠龙的重头壳,Gravios Crown,mh4g-dex-build7
+1467,铠龙的刚翼,Gravios Fellwing,mh4g-dex-build7
+1468,铠龙的天壳,Gravios Pallium,mh4g-dex-build7
+1469,黑铠龙的重壳,B.Gravios Cortex,mh4g-dex-build7
+1470,黑铠龙的重头壳,B.Gravios Crown,mh4g-dex-build7
+1471,黑铠龙的天壳,B.Gravios Pallium,mh4g-dex-build7
+1472,恐暴龙的厚黑鳞,Deviljho Shard,mh4g-dex-build7
+1473,恐暴龙的厚黑皮,Deviljho Blackpiel,mh4g-dex-build7
+1474,恐暴龙的重牙,Deviljho Hardfang,mh4g-dex-build7
+1475,恐暴龙的刚钩爪,Deviljho Ripper,mh4g-dex-build7
+1476,恐暴龙的重尾,Deviljho Flail,mh4g-dex-build7
+1477,恐暴龙的灭鳞,Deviljho Crook,mh4g-dex-build7
+1478,血战的漆黑皮,Bloodied Ebonhide,mh4g-dex-build7
+1479,极恶之牙,Vile Fang,mh4g-dex-build7
+1480,碎龙的重壳,Brach Cortex,mh4g-dex-build7
+1481,碎龙的重黑曜甲,Fine Brach Ebonshell,mh4g-dex-build7
+1482,碎龙的重头壳,Brach Crown,mh4g-dex-build7
+1483,碎龙的刚铁拳,Brach Pounder+,mh4g-dex-build7
+1484,碎龙的韧尾,Brach Lash,mh4g-dex-build7
+1485,碎龙的天壳,Brach Pallium,mh4g-dex-build7
+1486,闪光粘菌,Glowing Slime,mh4g-dex-build7
+1493,豪山龙的重岩壳,D.Mohran Rockskin,mh4g-dex-build7
+1494,豪山龙的重红鳞,D.Mohran Heavyscale,mh4g-dex-build7
+1495,粗野的龙刚角,Brutal Biter,mh4g-dex-build7
+1496,豪山龙的重腕甲,D.Mohran Allbrace,mh4g-dex-build7
+1497,大地的神龙玉,Earth Dragonsphire,mh4g-dex-build7
+1498,白兔兽的豪刚毛,Lagombi Fur,mh4g-dex-build7
+1499,白兔兽的地狱耳,Lagombi Auricle,mh4g-dex-build7
+1500,雷狼龙的雷电毛,Zinogre Electrofur+,mh4g-dex-build7
+1501,雷狼龙的重壳,Zinogre Cortex,mh4g-dex-build7
+1502,雷狼龙的刚角,Zinogre Hardhorn,mh4g-dex-build7
+1503,雷狼龙的刚爪,Zinogre Hardclaw,mh4g-dex-build7
+1504,雷狼龙的雷电壳,Zinogre D-Shocker,mh4g-dex-build7
+1505,雷狼龙的韧尾,Zinogre Lash,mh4g-dex-build7
+1506,雷狼龙的天玉,Zinogre Skymerald,mh4g-dex-build7
+1507,狱狼龙的灭龙毛,S.Zin Dragonlocks,mh4g-dex-build7
+1508,狱狼龙的重壳,S.Zinogre Cortex,mh4g-dex-build7
+1509,狱狼龙的刚角,S.Zinogre Hardhorn,mh4g-dex-build7
+1510,狱狼龙的刚爪,S.Zinogre Hardclaw,mh4g-dex-build7
+1511,狱狼龙的灭龙壳,S.Zinogre Drakehold,mh4g-dex-build7
+1512,狱狼龙的韧尾,S.Zinogre Lash,mh4g-dex-build7
+1513,狱狼龙的天玉,S.Zinogre Skymerald,mh4g-dex-build7
+1514,千刃龙的锐刃鳞,Seregios Slavescale,mh4g-dex-build7
+1515,千刃龙的斩刃鳞,Seregios Slavescale+,mh4g-dex-build7
+1516,千刃龙的飞刃,Seregios Airblade,mh4g-dex-build7
+1517,千刃龙的破刃,Seregios Airblade+,mh4g-dex-build7
+1518,千刃龙的刻爪,Seregios Carver,mh4g-dex-build7
+1519,千刃龙的闪裂爪,Seregios Carver+,mh4g-dex-build7
+1520,千刃龙的枪尾,Seregios Impaler,mh4g-dex-build7
+1521,千刃龙的绝枪尾,Seregios Impaler+,mh4g-dex-build7
+1522,千刃龙的伐刀角,Seregios Breacher,mh4g-dex-build7
+1523,千刃龙的断刀角,Seregios Breacher+,mh4g-dex-build7
+1524,千刃龙的尖翼爪,Seregios Scraper,mh4g-dex-build7
+1525,千刃龙的斩翼爪,Seregios Scraper+,mh4g-dex-build7
+1526,千刃龙的反逆鳞,Seregios Dissenter,mh4g-dex-build7
+1527,千刃龙的镜玉,Seregios Lens,mh4g-dex-build7
+1528,巨戟龙的塞鳞,Gogmazios Battlement,mh4g-dex-build7
+1529,巨戟龙的城壳,Gogmazios Fortress,mh4g-dex-build7
+1530,巨戟龙的凶刃,Gogmazios Gasher,mh4g-dex-build7
+1531,巨戟龙的战爪,Gogmazios Offenders,mh4g-dex-build7
+1532,巨戟龙的筋纤翼,Gogmazios Fiberwing,mh4g-dex-build7
+1533,巨戟龙的荆棘尾,Gogmazios Briartail,mh4g-dex-build7
+1534,战火的龙神玉,Wartorn Dragonsphire,mh4g-dex-build7
+1535,超重质龙骨油,Heavy Drakesbone Oil,mh4g-dex-build7
+1536,角龙的重壳,Diablos Cortex,mh4g-dex-build7
+1537,角龙的重甲,Diablos Chine,mh4g-dex-build7
+1538,坚牢的卷角,Twisted Stouthorn,mh4g-dex-build7
+1539,贯穿大地的刚角,Diablos Hardhorn,mh4g-dex-build7
+1540,角龙的重尾甲,Diablos Tailcase+,mh4g-dex-build7
+1541,角龙的延髓,Blos Medulla,mh4g-dex-build7
+1542,黑角龙的重壳,B.Diablos Cortex,mh4g-dex-build7
+1543,黑角龙的重甲,B.Diablos Chine,mh4g-dex-build7
+1544,坚牢的黑卷角,Blackcurl Stouthorn,mh4g-dex-build7
+1545,一角龙的坚壳,Monoblos Carapace,mh4g-dex-build7
+1546,一角龙的重壳,Monoblos Cortex,mh4g-dex-build7
+1547,一角龙的坚甲,Monoblos Thoracic,mh4g-dex-build7
+1548,一角龙的重甲,Monoblos Chine,mh4g-dex-build7
+1549,上质真红之角,Scarlet Finehorn,mh4g-dex-build7
+1550,坚牢真红之角,Scarlet Stouthorn,mh4g-dex-build7
+1551,一角龙的心脏,Monoblos Heart,mh4g-dex-build7
+1552,白一角龙的重壳,W.Monoblos Cortex,mh4g-dex-build7
+1553,白一角龙的重甲,W.Monoblos Chine,mh4g-dex-build7
+1554,坚牢白银之角,Argent Stouthorn,mh4g-dex-build7
+1555,盾蟹的重壳,Hermitaur Cortex,mh4g-dex-build7
+1556,盾蟹的刚爪,Hermitaur Hardclaw,mh4g-dex-build7
+1557,黑珍珠,Black Pearl,mh4g-dex-build7
+1558,极上黑珍珠,Fine Black Pearl,mh4g-dex-build7
+1559,龙头壳,Wyvern Scalp,mh4g-dex-build7
+1560,盾蟹的紫壳,Hermitaur Purpshell,mh4g-dex-build7
+1561,盾蟹的紫爪,Hermitaur Purpclaw,mh4g-dex-build7
+1562,砂龙的厚鳞,Cephalos Shard,mh4g-dex-build7
+1563,砂龙的紫鳞,Cephalos Purpscale,mh4g-dex-build7
+1564,砂龙的特上鳍,Cephalos Grandfin,mh4g-dex-build7
+1565,砂龙的桃鳍,Cephalos Pinkfin,mh4g-dex-build7
+1566,砂龙的锐牙,Cephalos Fang+,mh4g-dex-build7
+1567,砂龙的重牙,Cephalos Hardfang,mh4g-dex-build7
+1568,鱼龙的肝,Piscine Liver,mh4g-dex-build7
+1569,崩龙的重壳,Ukanlos Cortex,mh4g-dex-build7
+1570,崩龙的腹鳞,Ukanlos Underscale,mh4g-dex-build7
+1571,崩龙的厚腹鳞,Ukanlos Underscale+,mh4g-dex-build7
+1572,崩龙的尻尾,Ukanlos Tail,mh4g-dex-build7
+1573,崩龙的重尾,Ukanlos Flail,mh4g-dex-build7
+1574,崩龙的穿爪,Ukanlos Digger,mh4g-dex-build7
+1575,崩龙的刚穿爪,Ukanlos Digger+,mh4g-dex-build7
+1576,崩龙的重削颚,Ukanlos Shoveljaw+,mh4g-dex-build7
+1577,崩龙的上鳍,Ukanlos Fin+,mh4g-dex-build7
+1578,崩龙的刚鳍,Ukanlos Strongfin,mh4g-dex-build7
+1579,崩天玉,Ukanlos Stone,mh4g-dex-build7
+1580,霞龙的特上皮,Chameleos Finehide,mh4g-dex-build7
+1581,霞龙的刚角,Chameleos Hardhorn,mh4g-dex-build7
+1582,霞龙的刚翼,Chameleos Fellwing,mh4g-dex-build7
+1583,霞龙的韧尾,Chameleos Lash,mh4g-dex-build7
+1584,黑龙的厚鳞,Fatalis Shard,mh4g-dex-build7
+1585,黑龙的重壳,Fatalis Cortex,mh4g-dex-build7
+1586,黑龙的刚角,Fatalis Hardhorn,mh4g-dex-build7
+1587,黑龙的邪眼,Fatalis Evil Eye,mh4g-dex-build7
+1588,黑龙的刚翼,Fatalis Fellwing,mh4g-dex-build7
+1589,黑龙的红焰鳞,Fatalis Flamescale,mh4g-dex-build7
+1590,黑龙的红焰壳,Fatalis Flameshell,mh4g-dex-build7
+1591,黑龙的红焰角,Fatalis Flamehorn,mh4g-dex-build7
+1592,黑龙的红焰翼,Fatalis Flamewing,mh4g-dex-build7
+1593,黑龙的魔神眼,Fatalis Devileye+,mh4g-dex-build7
+1594,祖龙的厚白鳞,Old Fatalis Shard,mh4g-dex-build7
+1595,祖龙的重壳,Old Fatalis Cortex,mh4g-dex-build7
+1596,祖龙的刚翼,Old Fatalis Fellwing,mh4g-dex-build7
+1597,祖龙的刚角,Old Fatalis Hardhorn,mh4g-dex-build7
+1598,祖龙的灵眼,Old Fatalis Souleye,mh4g-dex-build7
+1599,剧烈毒袋,Deadly Poison Sac,mh4g-dex-build7
+1600,业炎袋,Conflagrant Sac,mh4g-dex-build7
+1601,特大水袋,Flood Sac,mh4g-dex-build7
+1602,瞬间冻结袋,Cryo Sac,mh4g-dex-build7
+1603,雷电袋,Lightning Sac,mh4g-dex-build7
+1604,强力麻痹袋,Omniplegia Sac,mh4g-dex-build7
+1605,昏睡袋,Coma Sac,mh4g-dex-build7
+1606,幻鸟龙玉,Fey Wyvern Gem,mh4g-dex-build7
+1607,蛤蟆的大灯油,Paddock Cream,mh4g-dex-build7
+1608,太古龙骨,Lrg ElderDragon Bone,mh4g-dex-build7
+1609,古龙的大宝玉,Lrg Elder Dragon Gem,mh4g-dex-build7
+1610,大龙玉,Lrg Wyvern Gem,mh4g-dex-build7
+1611,重龙骨,Monster Slogbone,mh4g-dex-build7
+1612,远古巨龙骨,Dragonbone Artifact,mh4g-dex-build7
+1613,重厚之骨,Massive Bone,mh4g-dex-build7
+1614,极上的毛皮,Prized Pelt,mh4g-dex-build7
+1615,草食龙的重骨,Rhenoplos Bone,mh4g-dex-build7
+1616,坚牢的鸟龙骨,Avian Stoutbone,mh4g-dex-build7
+1617,翼蛇龙的特上皮,Remobra Finehide,mh4g-dex-build7
+1618,厚实的厚皮,Meaty Piel,mh4g-dex-build7
+1619,重厚的牙,Crushing Fang,mh4g-dex-build7
+1620,盾蟹的小壳,Sml Hermitaur Shell,mh4g-dex-build7
+1621,锐利的爪,Piercing Claw,mh4g-dex-build7
+1622,飞甲虫的斩羽,Bnahabra Razorwing,mh4g-dex-build7
+1623,盾虫的重壳,Konchu Cortex,mh4g-dex-build7
+1624,怪物的特浓,Monster Essence,mh4g-dex-build7
+1625,蟹黄酱,Carapaceon Brains,mh4g-dex-build7
+1626,极上蟹黄酱,Carapaceon Brains+,mh4g-dex-build7
+1627,盾蟹珍珠,Crab Pearl,mh4g-dex-build7
+1628,极上盾蟹珍珠,Crab Pearl+,mh4g-dex-build7
+1629,皇帝蚱蜢,Emperor Hopper,mh4g-dex-build7
+1630,幻之蝶,Flutterfly,mh4g-dex-build7
+1631,王锹扬羽虫,Elder Bfly Beetle,mh4g-dex-build7
+1632,王津风蝴蝶,Great Elder Hornfly,mh4g-dex-build7
+1633,神甲虫,Divine Rhino,mh4g-dex-build7
+1634,星石结晶,Meteor Crystal,mh4g-dex-build7
+1635,绯鸢石,Eltalite Ore,mh4g-dex-build7
+1636,云鸠石,Meldspar Ore,mh4g-dex-build7
+1637,真红莲石,Allfire Stone,mh4g-dex-build7
+1638,纯水晶,Purecrystal,mh4g-dex-build7
+1639,极光石,Cosmicite Ore,mh4g-dex-build7
+1640,扭曲之破片,Distorted Fragment,mh4g-dex-build7
+1641,极上研磨材,Ultimate Abrasive,mh4g-dex-build7
+1642,明王原珠,Sovereign Orb,mh4g-dex-build7
+1643,刚铠玉,Strong Armor Sphere,mh4g-dex-build7
+1644,天铠玉,Divine Armor Sphere,mh4g-dex-build7
+1645,污秽的狂龙结晶,Pure Frenzy Crystal,mh4g-dex-build7
+1646,极龙玉,Zenith Wyvern Gem,mh4g-dex-build7
+1647,大极龙玉,Zenith Wyvern Gem L,mh4g-dex-build7
+1648,风化护身符,Enduring Charm,mh4g-dex-build7
+1649,雕刻护身符,Graven Charm,mh4g-dex-build7
+1650,英雄的武器,Champion's Weapon,mh4g-dex-build7
+1651,雕刻的武器,Beshackled Weapon,mh4g-dex-build7
+1652,英雄的防具,Champion's Armor,mh4g-dex-build7
+1653,雕刻的防具,Beshackled Armor,mh4g-dex-build7
+1654,落阳草的花,Gloamgrass Bud,mh4g-dex-build7
+1655,素朴的上端材,Humble Scrap+,mh4g-dex-build7
+1656,基础的上端材,Handsome Scrap+,mh4g-dex-build7
+1657,丸鸟的上端材,Gargwa Scrap+,mh4g-dex-build7
+1658,青熊兽的上端材,Arzuros Scrap+,mh4g-dex-build7
+1659,草食龙的上端材,Rhenoplos Scrap+,mh4g-dex-build7
+1660,狗龙的上端材,Great Jaggi Scrap+,mh4g-dex-build7
+1661,飞甲虫的上端材,Bnahabra Scrap+,mh4g-dex-build7
+1662,大猪的上端材,Bulldrome Scrap+,mh4g-dex-build7
+1663,垂皮龙的上端材,Slagtoth Scrap+,mh4g-dex-build7
+1664,赤甲兽的上端材,Volvidon Scrap+,mh4g-dex-build7
+1665,砂龙的上端材,Cephalos Scrap+,mh4g-dex-build7
+1666,盾虫的上端材,Konchu Scrap+,mh4g-dex-build7
+1667,奇猿狐的上端材,Kecha Wacha Scrap+,mh4g-dex-build7
+1668,怪鸟的上端材,Yian Kut-Ku Scrap+,mh4g-dex-build7
+1669,鬼蛙的上端材,Tetsucabra Scrap+,mh4g-dex-build7
+1670,土砂龙的上端材,Barroth Scrap+,mh4g-dex-build7
+1671,鬼鲛的上端材,Zamtrios Scrap+,mh4g-dex-build7
+1672,白兔兽的上端材,Lagombi Scrap+,mh4g-dex-build7
+1673,爆锤龙的上端材,Uragaan Scrap+,mh4g-dex-build7
+1674,雌火龙的上端材,Rathian Scrap+,mh4g-dex-build7
+1675,珍珠色的上端材,Khezu Scrap+,mh4g-dex-build7
+1676,毒狗龙的上端材,Great Wroggi Scrap+,mh4g-dex-build7
+1677,桃毛兽的上端材,Congalala Scrap+,mh4g-dex-build7
+1678,岩龙的上端材,Basarios Scrap+,mh4g-dex-build7
+1679,影蜘蛛的上端材,Nerscylla Scrap+,mh4g-dex-build7
+1680,彩鸟的上端材,Qurupeco Scrap+,mh4g-dex-build7
+1681,潜口龙的上端材,Nibelsnarf Scrap+,mh4g-dex-build7
+1682,轰龙的上端材,Tigrex Scrap+,mh4g-dex-build7
+1683,眠狗龙的上端材,Great Baggi Scrap+,mh4g-dex-build7
+1684,火龙的上端材,Rathalos Scrap+,mh4g-dex-build7
+1685,炎戈龙的上端材,Agnaktor Scrap+,mh4g-dex-build7
+1686,重甲虫的上端材,Seltas Queen Scrap+,mh4g-dex-build7
+1687,尾槌龙的上端材,Duramboros Scrap+,mh4g-dex-build7
+1688,角龙的上端材,Diablos Scrap+,mh4g-dex-build7
+1689,金狮子的上端材,Rajang Scrap+,mh4g-dex-build7
+1690,冰牙龙的上端材,Barioth Scrap+,mh4g-dex-build7
+1691,碎龙的上端材,Brach Scrap+,mh4g-dex-build7
+1692,雷狼龙的上端材,Zinogre Scrap+,mh4g-dex-build7
+1693,迅龙的上端材,Nargacuga Scrap+,mh4g-dex-build7
+1694,绞蛇龙的上端材,Najarala Scrap+,mh4g-dex-build7
+1695,千刃龙的上端材,Seregios Scrap+,mh4g-dex-build7
+1696,一角龙的上端材,Monoblos Scrap+,mh4g-dex-build7
+1697,铠龙的上端材,Gravios Scrap+,mh4g-dex-build7
+1698,黑狼鸟的上端材,Yian Garuga Scrap+,mh4g-dex-build7
+1699,毒怪鸟的上端材,Gypceros Scrap+,mh4g-dex-build7
+1700,蛇王龙的上端材,Dalamadur Scrap+,mh4g-dex-build7
+1701,岚龙的上端材,Amatsu Scrap+,mh4g-dex-build7
+1702,天迴龙的上端材,S.Magala Scrap+,mh4g-dex-build7
+1703,黑蚀龙的上端材,Gore Magala Scrap+,mh4g-dex-build7
+1704,钢龙的上端材,Kushala Daora Scrap+,mh4g-dex-build7
+1705,崩龙的上端材,Ukanlos Scrap+,mh4g-dex-build7
+1706,炎王龙的上端材,Teostra Scrap+,mh4g-dex-build7
+1707,恐暴龙的上端材,Deviljho Scrap+,mh4g-dex-build7
+1708,麒麟的上端材,Kirin Scrap+,mh4g-dex-build7
+1709,霸龙的上端材,Akantor Scrap+,mh4g-dex-build7
+1710,煌黑龙的上端材,Alatreon Scrap+,mh4g-dex-build7
+1711,豪山龙的上端材,Dah'renMohran Scrap+,mh4g-dex-build7
+1712,峯山龙的上端材,Jhen Mohran Scrap+,mh4g-dex-build7
+1713,巨戟龙的上端材,Gogmazios Scrap+,mh4g-dex-build7
+1714,霞龙的上端材,Chameleos Scrap+,mh4g-dex-build7
+1715,生命大粉尘,Dust of Life,mh4g-dex-build7
+1716,教官硬币Ｇ,Black Belt Coin G,mh4g-dex-build7
+1717,达人硬币Ｇ,Expert Coin G,mh4g-dex-build7
+1718,传说硬币Ｇ,Legend Coin G,mh4g-dex-build7
+1719,天之山菜组交换券,VE Cosmic Ticket,mh4g-dex-build7
+1720,霸王之证,Conqueror's Seal,mh4g-dex-build7
+1721,霸王之证Ｇ,Conqueror's Seal G,mh4g-dex-build7
+1722,旅团票Ｇ,Caravan Ticket G,mh4g-dex-build7
+1723,大长老票,Immenseness Ticket,mh4g-dex-build7
+1724,大长老票Ｓ,Immenseness Ticket S,mh4g-dex-build7
+1725,试作抗龙石・心击,Proto Wystone: Drive,mh4g-dex-build7
+1726,热带草莓,Tropical Berry,mh4g-dex-build7
+1727,万能温泉烟雾弹,Portable Steam Bomb,mh4g-dex-build7
+1728,应急耳拴,Disposable Earplugs,mh4g-dex-build7
+1729,要塞防御式弩炮弹,Garrison Bllsta Ammo,mh4g-dex-build7
+1730,高密度灭龙炭,Dense Marcoal,mh4g-dex-build7
+1731,支给专用回家弹,EZ Farcaster,mh4g-dex-build7
+1732,支给用生命粉尘,EZ Lifepowder,mh4g-dex-build7
+1733,支给专用大粉尘,EZ Dust of Life,mh4g-dex-build7
+1734,陨石的大块,Meteor Chunk,mh4g-dex-build7
+1735,冰结晶草莓,Frozen Berry,mh4g-dex-build7
+1736,猪猪珍珠,Poogie Pearl,mh4g-dex-build7
+1737,碎龙的弹头壳,Brach Warhead,mh4g-dex-build7
+1738,碎龙的击灭拳,Brach Obliterator,mh4g-dex-build7
+1739,不灭的炉心壳,Immortal Reactor,mh4g-dex-build7
+1740,临界极限的粘菌,Flashpoint Slime,mh4g-dex-build7
+1741,翠水龙的厚鳞,G.Plesioth Shard,mh4g-dex-build7
+1742,翠水龙的特上鳍,Fine G.Plesioth Fin,mh4g-dex-build7
+1743,毒怪龙的上端材,Gigginox Scrap+,mh4g-dex-build7
+1744,水兽的上端材,Royal Ludroth Scrap+,mh4g-dex-build7
+1745,水龙的上端材,Plesioth Scrap+,mh4g-dex-build7
+1746,海龙的上端材,Lagiacrus Scrap+,mh4g-dex-build7
+1747,盾蟹的上端材,Hermitaur Scrap+,mh4g-dex-build7
+1748,风牙龙的锐爪,S.Barioth Sharpclaw,mh4g-dex-build7
+1749,冰碎龙的坚甲,J.Barroth Thoracic,mh4g-dex-build7
+1750,彩鸟的厚鳞,Qurupeco Shard,mh4g-dex-build7
+1751,极彩色的艳羽毛,Lustrous Feather,mh4g-dex-build7
+1752,红彩鸟的刚翼,C.Qurupeco Fellwing,mh4g-dex-build7
+1753,灯鱼龙的厚皮,Gobul Piel,mh4g-dex-build7
+1754,灯鱼龙的秘棘,Gobul Surspike,mh4g-dex-build7
+1755,飞虫的斩羽,Vespoid Razorwing,mh4g-dex-build7
+1756,青熊兽的重壳,Arzuros Cortex,mh4g-dex-build7
+1757,潜口龙的重壳,Nibelsnarf Cortex,mh4g-dex-build7
+1758,光辉的体液,Dazzling Fluid,mh4g-dex-build7
+1759,镰蟹的朱爪,Ceanataur Terraclaw,mh4g-dex-build7
+1760,冰牙龙的厚毛皮,Barioth Thickfur,mh4g-dex-build7
+1761,琥珀色的重牙,Heavy Amber Tusk,mh4g-dex-build7
+1762,土砂龙的重壳,Barroth Cortex,mh4g-dex-build7
+1763,土砂龙的重头壳,Barroth Crown,mh4g-dex-build7
+1764,风牙龙的刚爪,S.Barioth Hardclaw,mh4g-dex-build7
+1765,赤甲兽的重壳,Volvidon Cortex,mh4g-dex-build7
+1766,炎戈龙的重壳,Agnaktor Cortex,mh4g-dex-build7
+1767,炎戈龙的特上鳍,Fine Agnaktor Fin,mh4g-dex-build7
+1768,冰碎龙的重壳,J.Barroth Cortex,mh4g-dex-build7
+1769,尾槌龙的重壳,Duramboros Cortex,mh4g-dex-build7
+1770,尾槌龙的刚角,Duramboros Hardhorn,mh4g-dex-build7
+1771,尾槌的石块,Durambolite,mh4g-dex-build7
+1772,爆锤龙的重壳,Uragaan Cortex,mh4g-dex-build7
+1773,爆锤龙的天壳,Uragaan Pallium,mh4g-dex-build7
+1774,迅龙的豪黑毛,Nargacuga Blackfur+,mh4g-dex-build7
+1775,迅龙的刚刃翼,Nargacuga Cutwing+,mh4g-dex-build7
+1776,迅龙的天鳞,Nargacuga Mantle,mh4g-dex-build7
+1777,海龙的厚鳞,Lagiacrus Shard,mh4g-dex-build7
+1778,海龙的雷电壳,Deathly Shocker,mh4g-dex-build7
+1779,海龙的苍天鳞,Lagiacrus Mantle,mh4g-dex-build7
+1780,白海龙的雷电壳,I.Lagi D-Shocker,mh4g-dex-build7
+1781,白海龙的刚角,I.Lagi Hardhorn,mh4g-dex-build7
+1782,溶岩龙的厚鳞,Lavasioth Shard,mh4g-dex-build7
+1783,溶岩龙的特上鳍,Fine Lavasioth Fin,mh4g-dex-build7
+1784,钢锤龙的重耐热壳,S.Uragaan Scute+,mh4g-dex-build7
+1785,大海龙的鳞,Ceadeus Scale,mh4g-dex-build7
+1786,大海龙的铠毛,Ceadeus Strongfur,mh4g-dex-build7
+1787,深渊的龙玉,Deep Dragongem,mh4g-dex-build7
+1788,浮岳龙的鳍,Tsukami Fillet,mh4g-dex-build7
+1789,太古的龙苔,Ancient Dragonmoss,mh4g-dex-build7
+1790,太古的龙木,Ancient Dragonwood,mh4g-dex-build7
+1791,峯山龙的重岩壳,Mohran Rockskin,mh4g-dex-build7
+1792,峯山龙的重腕甲,Mohran Allbrace,mh4g-dex-build7
+1793,神圣的龙牙,Deific Fang,mh4g-dex-build7
+1794,炎妃龙的重壳,Lunastra Cortex,mh4g-dex-build7
+1795,炎妃龙的尻尾,Lunastra Tail,mh4g-dex-build7
+1796,老山龙的苍大爪,Lao-Shan Azure Claw,mh4g-dex-build7
+1797,炼黑龙的黑鳞,Miralis Scale,mh4g-dex-build7
+1798,炼黑龙的灼热核,Miralis Smelter,mh4g-dex-build7
+1799,光炎的大龙玉,Dire Dragongem,mh4g-dex-build7
+1800,冥海龙的雷电壳,A.Lagi D-Shocker,mh4g-dex-build7
+1801,冥海龙的雷魂,A.Lagi Dynamo,mh4g-dex-build7
+1802,月迅龙的透刃翼,L.Nargacuga Razor,mh4g-dex-build7
+1803,胧月的欠片,Cloudy Moonshard,mh4g-dex-build7
+1804,老山龙的重壳,Lao-Shan Cortex,mh4g-dex-build7
+1805,老山龙的厚鳞,Lao-Shan Shard,mh4g-dex-build7
+1806,老山龙的天鳞,Lao-Shan Mantle,mh4g-dex-build7
+1807,岚龙的坚壳,Amatsu Carapace,mh4g-dex-build7
+1808,岚龙的飞膜,Amatsu Webbing,mh4g-dex-build7
+1809,天空的龙玉,Heavenly Dragongem,mh4g-dex-build7
+1810,煌黑龙的天鳞,Alatreon Mantle,mh4g-dex-build7
+1811,煌黑龙的凶爪,Alatreon Riptalon,mh4g-dex-build7
+1812,琉璃色的龙神玉,Azure Dragonsphire,mh4g-dex-build7
+1813,LV2 抗龙石・耐冲,Wystone Lv2: Brace,mh4g-dex-build7
+1814,LV2 抗龙石・属击,Wystone Lv2: Element,mh4g-dex-build7
+1815,LV2 抗龙石・刚击,Wystone Lv2: Force,mh4g-dex-build7
+1816,LV2 抗龙石・心击,Wystone Lv2: Drive,mh4g-dex-build7
+1817,豪仙龙神丸,Fardrake's Eye,mh4g-dex-build7
+1818,属会珠【1】,CritElementJwl 1,mh4g-dex-build7
+1819,属会珠【2】,CritElementJwl 2,mh4g-dex-build7
+1820,特会珠【1】,Crit Status Jwl 1,mh4g-dex-build7
+1821,特会珠【2】,Crit Status Jwl 2,mh4g-dex-build7
+1822,射法珠【1】,Precise Jewel 1,mh4g-dex-build7
+1823,射法珠【2】,Precise Jewel 2,mh4g-dex-build7
+1824,茸好珠【1】,Fungiform Jewel 1,mh4g-dex-build7
+1825,节食珠【1】,Satiated Jewel 1,mh4g-dex-build7
+1826,抗伤珠【1】,Staunch Jewel 1,mh4g-dex-build7
+1827,抗着珠【1】,Clean Jewel 1,mh4g-dex-build7
+1828,乘惯珠【1】,Rodeo Jewel 1,mh4g-dex-build7
+1829,抗狂珠【1】,Sane Jewel 1,mh4g-dex-build7
+1830,抗狂珠【3】,Sane Jewel 3,mh4g-dex-build7
+1831,名匠珠【3】,Artisan Jewel 3,mh4g-dex-build7
+1832,防御珠【3】,Defense Jewel 3,mh4g-dex-build7
+1833,真觉醒珠【3】,TrueCatalystJwl 3,mh4g-dex-build7
+1834,斩术珠【1】,Cutting Jwl 1,mh4g-dex-build7
+1835,斩术珠【2】,Cutting Jwl 2,mh4g-dex-build7
+1836,斩术珠【3】,Cutting Jwl 3,mh4g-dex-build7
+1837,斩术真珠【3】,TrueCuttingJwl 3,mh4g-dex-build7
+1838,秘传珠【1】,Arcane Jwl 1,mh4g-dex-build7
+1839,秘传珠【2】,Arcane Jwl 2,mh4g-dex-build7
+1840,秘传珠【3】,Arcane Jwl 3,mh4g-dex-build7
+1841,秘传真珠【3】,True Arcane Jwl 3,mh4g-dex-build7
+1842,刚腕珠【1】,Brawn Jwl 1,mh4g-dex-build7
+1843,刚腕珠【2】,Brawn Jwl 2,mh4g-dex-build7
+1844,刚腕珠【3】,Brawn Jwl 3,mh4g-dex-build7
+1845,刚腕真珠【3】,True Brawn Jwl 3,mh4g-dex-build7
+1846,祈愿珠【1】,Supplicant Jwl 1,mh4g-dex-build7
+1847,祈愿珠【2】,Supplicant Jwl 2,mh4g-dex-build7
+1848,祈愿珠【3】,Supplicant Jwl 3,mh4g-dex-build7
+1849,里业珠【1】,Furtive Jwl 1,mh4g-dex-build7
+1850,里业珠【2】,Furtive Jwl 2,mh4g-dex-build7
+1851,里业珠【3】,Furtive Jwl 3,mh4g-dex-build7
+1852,里业真珠【3】,TrueFurtiveJwl 3,mh4g-dex-build7
+1853,刀匠真珠【2】,True Honed Jwl 2,mh4g-dex-build7
+1854,刀匠极珠【3】,UltimateHonedJwl3,mh4g-dex-build7
+1855,射手真珠【2】,True Calm Jwl 2,mh4g-dex-build7
+1856,射手极珠【3】,UltimateCalmJwl 3,mh4g-dex-build7
+1857,状耐真珠【2】,True Hale Jwl 2,mh4g-dex-build7
+1858,状耐极珠【3】,UltimateHaleJwl 3,mh4g-dex-build7
+1859,怒真珠【2】,True Ire Jwl 2,mh4g-dex-build7
+1860,怒极珠【3】,UltimateIreJwl 3,mh4g-dex-build7
+1861,居合珠【2】,Withdrawn Jwl 2,mh4g-dex-build7
+1862,居合真珠【3】,TrueWithdrawnJwl3,mh4g-dex-build7
+1863,刚击珠【2】,Impactful Jwl 2,mh4g-dex-build7
+1864,刚击真珠【3】,TrueImpactfulJwl3,mh4g-dex-build7
+1865,一心真珠【2】,TrueIntenseJwl 2,mh4g-dex-build7
+1866,一心真珠【3】,TrueIntenseJwl 3,mh4g-dex-build7
+1867,盾持真珠【2】,True Aegis Jwl 2,mh4g-dex-build7
+1868,盾持真珠【3】,True Aegis Jwl 3,mh4g-dex-build7
+1869,洁癖真珠【2】,TrueTactfulJwl 2,mh4g-dex-build7
+1870,洁癖真珠【3】,TrueTactfulJwl 3,mh4g-dex-build7
+1871,增幅真珠【2】,True Broad Jwl 2,mh4g-dex-build7
+1872,增幅真珠【3】,True Broad Jwl 3,mh4g-dex-build7
+1874,增填珠【3】,Laden Jewel 3,mh4g-dex-build7
+1875,盾蟹硬币,Daimyo Coin,mh4g-dex-build7
+1876,交易船票,Argosy Ticket,mh4g-dex-build7
+1877,结云票,Yukumo Ticket,mh4g-dex-build7
+1878,旅人猫票,Felcote Ticket,mh4g-dex-build7
+1879,奇面族票,Shakalaka Ticket,mh4g-dex-build7
+1880,教官票,Instructor's Ticket,mh4g-dex-build7
+1881,受付娘票,Guild Clerk Ticket,mh4g-dex-build7
+1882,江波票,Jumbo Ticket,mh4g-dex-build7
+1883,狩人票,Hunter's Ticket,mh4g-dex-build7
+1884,强欲票,Deviljho Ticket,mh4g-dex-build7
+1885,岚龙票,Amatsu Ticket,mh4g-dex-build7
+1886,红龙票,Crimson Fatalis Ticket,mh4g-dex-build7
+1887,工作室Ｗ通行证,Wonderful Pass,mh4g-dex-build7
+1888,工作室Ｓ通行证,Special Pass,mh4g-dex-build7
+1889,【日】断罪Ｊ票,[JP] Conviction J Ticket,mh4g-dex-build7
+1890,【日】反逆Ｊ票,[JP] Rebellion J Ticket,mh4g-dex-build7
+1891,【日】法米通优惠券,[JP] Famitsu Coupon,mh4g-dex-build7
+1892,【日】巴尔巴德的宝剑,[JP] Alibaba's Sword,mh4g-dex-build7
+1893,所罗门的智慧,Clockwork Blueprint,mh4g-dex-build7
+1894,【日】电击票优惠券,[JP] Dengeki Coupon,mh4g-dex-build7
+1895,猛汉部会报纸,Fan Club Newsletter,mh4g-dex-build7
+1896,猛汉部应援歌,Fan Club Cheer,mh4g-dex-build7
+1897,Ｅ能量罐,E-Tank,mh4g-dex-build7
+1898,高级红酒食肉券,Vintage Meat Ticket,mh4g-dex-build7
+1899,假货目录,Fake Catalog,mh4g-dex-build7
+1900,猎人急募告知,Recruitment Poster,mh4g-dex-build7
+1901,英雄之证,Hero's Seal,mh4g-dex-build7
+1902,设计模板,Design Pattern,mh4g-dex-build7
+1903,武器资料,Weapon Data,mh4g-dex-build7
+1904,模块机能,Defense Module,mh4g-dex-build7
+1905,刃牙道之书,The Tale of Poogie,mh4g-dex-build7
+1906,刃牙道之证,Goddess's Grace,mh4g-dex-build7
+1907,金环,Gold Ring,mh4g-dex-build7
+1908,节日太鼓的乐谱,Festival Drum Music,mh4g-dex-build7
+1909,【日】大罪人的画像,[JP] Portrait of Sins,mh4g-dex-build7
+1917,试作高密度灭龙炭,Proto Dense Marcoal,mh4g-dex-build7
+1918,飞龙的硬币Ｇ,Flying Coin G,mh4g-dex-build7
+1919,兽龙的硬币Ｇ,Brute Coin G,mh4g-dex-build7
+1920,虫的硬币Ｇ,Vermin Coin G,mh4g-dex-build7
+1921,蛤蟆的硬币Ｇ,Toad Coin G,mh4g-dex-build7
+1922,蛇龙的硬币Ｇ,Snake Coin G,mh4g-dex-build7
+1923,笔头票Ｇ,Ace Ticket,mh4g-dex-build7
+1926,跳跃珠【2】,Jumping Jewel 2,mh4g-dex-build7
+1927,炸弹活鱼,Live Bombfish,mh4g-dex-build7
+1928,旗鱼,Blue Marlin,mh4g-dex-build7
+1929,味之鱼,Horse Mackerel,mh4g-dex-build7
+1930,龙睛鱼,Pop-eyed Goldfish,mh4g-dex-build7
+1931,大锹形虫,Giant Stag,mh4g-dex-build7
+1932,银蜻蜓,Darner Dragonfly,mh4g-dex-build7
+1933,纹白蝶,Common Butterfly,mh4g-dex-build7
+1934,跳骚,Flea,mh4g-dex-build7
+1935,支给专用灭龙炭,EZ Marcoal,mh4g-dex-build7

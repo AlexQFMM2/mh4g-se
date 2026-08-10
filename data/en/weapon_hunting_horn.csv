@@ -1,0 +1,186 @@
+id,name,english,source,rarity,is_relic
+0,None,None,mh4g-save-format,0,0
+1,Metal Bagpipe,Metal Bagpipe,mh4g-dex-build7+mh4edit-mit-save-id,1,0
+2,Metal Bagpipe+,Metal Bagpipe+,mh4g-dex-build7+mh4edit-mit-save-id,1,0
+3,Great Bagpipe,Great Bagpipe,mh4g-dex-build7+mh4edit-mit-save-id,1,0
+4,Heavy Bagpipe,Heavy Bagpipe,mh4g-dex-build7+mh4edit-mit-save-id,2,0
+5,Heavy Bagpipe+,Heavy Bagpipe+,mh4g-dex-build7+mh4edit-mit-save-id,2,0
+6,Fortissimo,Fortissimo,mh4g-dex-build7+mh4edit-mit-save-id,3,0
+7,Master Bagpipe,Master Bagpipe,mh4g-dex-build7+mh4edit-mit-save-id,4,0
+8,Sforzando,Sforzando,mh4g-dex-build7+mh4edit-mit-save-id,5,0
+9,Kummerklang,Kummerklang,mh4g-dex-build7+mh4edit-mit-save-id,3,0
+10,Gramklang,Gramklang,mh4g-dex-build7+mh4edit-mit-save-id,4,0
+11,Trauerklang,Trauerklang,mh4g-dex-build7+mh4edit-mit-save-id,5,0
+12,La Sépulture,La Sépulture,mh4g-dex-build7+mh4edit-mit-save-id,7,0
+13,Valkyrie Chordmaker,Valkyrie Chordmaker,mh4g-dex-build7+mh4edit-mit-save-id,2,0
+14,Valkyrie Chordmaker+,Valkyrie Chordmaker+,mh4g-dex-build7+mh4edit-mit-save-id,3,0
+15,Queen's Chordmaker,Queen's Chordmaker,mh4g-dex-build7+mh4edit-mit-save-id,5,0
+16,Gold Chordmaker,Gold Chordmaker,mh4g-dex-build7+mh4edit-mit-save-id,7,0
+17,Kecha Whappa,Kecha Whappa,mh4g-dex-build7+mh4edit-mit-save-id,2,0
+18,Kecha Whappa+,Kecha Whappa+,mh4g-dex-build7+mh4edit-mit-save-id,2,0
+19,Kechachacha Whappa,Kechachacha Whappa,mh4g-dex-build7+mh4edit-mit-save-id,3,0
+20,Kecha Thumpa,Kecha Thumpa,mh4g-dex-build7+mh4edit-mit-save-id,4,0
+21,Kecha Clanga,Kecha Clanga,mh4g-dex-build7+mh4edit-mit-save-id,5,0
+22,Usurper's Growl,Usurper's Growl,mh4g-dex-build7+mh4edit-mit-save-id,3,0
+23,Usurper's Growl+,Usurper's Growl+,mh4g-dex-build7+mh4edit-mit-save-id,5,0
+24,Despot's Thunderclap,Despot's Thunderclap,mh4g-dex-build7+mh4edit-mit-save-id,6,0
+25,Brimstren Drakesong,Brimstren Drakesong,mh4g-dex-build7+mh4edit-mit-save-id,6,0
+26,Ice Kazoo,Ice Kazoo,mh4g-dex-build7+mh4edit-mit-save-id,2,0
+27,Glacial Kazoo,Glacial Kazoo,mh4g-dex-build7+mh4edit-mit-save-id,3,0
+28,Frost Groaner,Frost Groaner,mh4g-dex-build7+mh4edit-mit-save-id,4,0
+29,Frost General,Frost General,mh4g-dex-build7+mh4edit-mit-save-id,6,0
+30,Bone Horn,Bone Horn,mh4g-dex-build7+mh4edit-mit-save-id,1,0
+31,Bone Horn+,Bone Horn+,mh4g-dex-build7+mh4edit-mit-save-id,1,0
+32,Hunter's Horn,Hunter's Horn,mh4g-dex-build7+mh4edit-mit-save-id,1,0
+33,Hunter's Horn+,Hunter's Horn+,mh4g-dex-build7+mh4edit-mit-save-id,2,0
+34,Native's Horn,Native's Horn,mh4g-dex-build7+mh4edit-mit-save-id,2,0
+35,Striped Gong,Striped Gong,mh4g-dex-build7+mh4edit-mit-save-id,3,0
+36,Tigrex Horn,Tigrex Horn,mh4g-dex-build7+mh4edit-mit-save-id,5,0
+37,Accursed Wail,Accursed Wail,mh4g-dex-build7+mh4edit-mit-save-id,6,0
+38,Howling Gravedrum,Howling Gravedrum,mh4g-dex-build7+mh4edit-mit-save-id,7,0
+39,Dios Bell,Dios Bell,mh4g-dex-build7+mh4edit-mit-save-id,4,0
+40,Dios Bell+,Dios Bell+,mh4g-dex-build7+mh4edit-mit-save-id,5,0
+41,Demolition Chime,Demolition Chime,mh4g-dex-build7+mh4edit-mit-save-id,6,0
+42,Khezu Horn,Khezu Horn,mh4g-dex-build7+mh4edit-mit-save-id,2,0
+43,Khezu Flute,Khezu Flute,mh4g-dex-build7+mh4edit-mit-save-id,3,0
+44,Blood Horn,Blood Horn,mh4g-dex-build7+mh4edit-mit-save-id,5,0
+45,Blood Flute,Blood Flute,mh4g-dex-build7+mh4edit-mit-save-id,6,0
+46,War Drum,War Drum,mh4g-dex-build7+mh4edit-mit-save-id,2,0
+47,War Bongo,War Bongo,mh4g-dex-build7+mh4edit-mit-save-id,2,0
+48,War Conga,War Conga,mh4g-dex-build7+mh4edit-mit-save-id,3,0
+49,Jungle Bongo,Jungle Bongo,mh4g-dex-build7+mh4edit-mit-save-id,4,0
+50,Jungle Conga,Jungle Conga,mh4g-dex-build7+mh4edit-mit-save-id,5,0
+51,Danger Call,Danger Call,mh4g-dex-build7+mh4edit-mit-save-id,2,0
+52,Danger Call+,Danger Call+,mh4g-dex-build7+mh4edit-mit-save-id,3,0
+53,Hazardous Call,Hazardous Call,mh4g-dex-build7+mh4edit-mit-save-id,5,0
+54,Parahazard Call,Parahazard Call,mh4g-dex-build7+mh4edit-mit-save-id,6,0
+55,Velociprey Balloon,Velociprey Balloon,mh4g-dex-build7+mh4edit-mit-save-id,1,0
+56,Velociprey Balloon+,Velociprey Balloon+,mh4g-dex-build7+mh4edit-mit-save-id,2,0
+57,Raven Shamisen,Raven Shamisen,mh4g-dex-build7+mh4edit-mit-save-id,3,0
+58,Wolf Shamisen,Wolf Shamisen,mh4g-dex-build7+mh4edit-mit-save-id,4,0
+59,Crow Shamisen,Crow Shamisen,mh4g-dex-build7+mh4edit-mit-save-id,6,0
+60,Basarios Rock,Basarios Rock,mh4g-dex-build7+mh4edit-mit-save-id,2,0
+61,Basarios Rock Mk.II,Basarios Rock Mk.II,mh4g-dex-build7+mh4edit-mit-save-id,3,0
+62,Volcanic Rock,Volcanic Rock,mh4g-dex-build7+mh4edit-mit-save-id,5,0
+63,Volcanic Gig,Volcanic Gig,mh4g-dex-build7+mh4edit-mit-save-id,6,0
+64,Beating Gunrock,Beating Gunrock,mh4g-dex-build7+mh4edit-mit-save-id,5,0
+65,Fleeting Gunrock,Fleeting Gunrock,mh4g-dex-build7+mh4edit-mit-save-id,6,0
+66,Vicello Nulo (W),Vicello Nulo (W),mh4g-dex-build7+mh4edit-mit-save-id,2,0
+67,Vicello Unu (W),Vicello Unu (W),mh4g-dex-build7+mh4edit-mit-save-id,2,0
+68,Vicello Du (W),Vicello Du (W),mh4g-dex-build7+mh4edit-mit-save-id,4,0
+69,Magia Charm,Magia Charm,mh4g-dex-build7+mh4edit-mit-save-id,6,0
+70,Dragonwood Flute,Dragonwood Flute,mh4g-dex-build7+mh4edit-mit-save-id,7,0
+71,Worn Horn,Worn Horn,mh4g-dex-build7+mh4edit-mit-save-id,5,0
+72,Weathered Horn,Weathered Horn,mh4g-dex-build7+mh4edit-mit-save-id,5,0
+73,Avenir's Music Box,Avenir's Music Box,mh4g-dex-build7+mh4edit-mit-save-id,6,0
+74,Akantor Horn,Akantor Horn,mh4g-dex-build7+mh4edit-mit-save-id,7,0
+75,Veilglare Hymn,Veilglare Hymn,mh4g-dex-build7+mh4edit-mit-save-id,6,0
+76,The Ascending Strain,The Ascending Strain,mh4g-dex-build7+mh4edit-mit-save-id,7,0
+77,Fatalis Menace,Fatalis Menace,mh4g-dex-build7+mh4edit-mit-save-id,7,0
+78,dummy78,dummy78,mh4edit-mit-save-id,0,0
+79,dummy79,dummy79,mh4edit-mit-save-id,0,0
+80,Megaphone,Megaphone,mh4g-dex-build7+mh4edit-mit-save-id,6,0
+81,Basarios Rock (red),Basarios Rock (red),mh4g-dex-build7+mh4edit-mit-save-id,0,1
+82,Basarios Rock (yellow),Basarios Rock (yellow),mh4g-dex-build7+mh4edit-mit-save-id,0,1
+83,Basarios Rock (green),Basarios Rock (green),mh4g-dex-build7+mh4edit-mit-save-id,0,1
+84,Basarios Rock (blue),Basarios Rock (blue),mh4g-dex-build7+mh4edit-mit-save-id,0,1
+85,Basarios Rock (purple),Basarios Rock (purple),mh4g-dex-build7+mh4edit-mit-save-id,0,1
+86,Hellstrings (red),Hellstrings (red),mh4edit-mit-save-id,0,1
+87,Hellstrings (yellow),Hellstrings (yellow),mh4edit-mit-save-id,0,1
+88,Hellstrings (green),Hellstrings (green),mh4edit-mit-save-id,0,1
+89,Hellstrings (blue),Hellstrings (blue),mh4edit-mit-save-id,0,1
+90,Hellstrings (purple),Hellstrings (purple),mh4edit-mit-save-id,0,1
+91,Swell Shell (red),Swell Shell (red),mh4edit-mit-save-id,0,1
+92,Swell Shell (yellow),Swell Shell (yellow),mh4edit-mit-save-id,0,1
+93,Swell Shell (green),Swell Shell (green),mh4edit-mit-save-id,0,1
+94,Swell Shell (blue),Swell Shell (blue),mh4edit-mit-save-id,0,1
+95,Swell Shell (purple),Swell Shell (purple),mh4edit-mit-save-id,0,1
+96,Gold Chordmaker (red),Gold Chordmaker (red),mh4g-dex-build7+mh4edit-mit-save-id,0,1
+97,Gold Chordmaker (yellow),Gold Chordmaker (yellow),mh4g-dex-build7+mh4edit-mit-save-id,0,1
+98,Gold Chordmaker (green),Gold Chordmaker (green),mh4g-dex-build7+mh4edit-mit-save-id,0,1
+99,Gold Chordmaker (blue),Gold Chordmaker (blue),mh4g-dex-build7+mh4edit-mit-save-id,0,1
+100,Gold Chordmaker (purple),Gold Chordmaker (purple),mh4g-dex-build7+mh4edit-mit-save-id,0,1
+101,Sforzando+,Sforzando+,mh4g-dex-build7+mh4edit-mit-save-id,8,0
+102,Rinforzato,Rinforzato,mh4g-dex-build7+mh4edit-mit-save-id,9,0
+103,La Joie,La Joie,mh4g-dex-build7+mh4edit-mit-save-id,9,0
+104,Le Grégorien,Le Grégorien,mh4g-dex-build7+mh4edit-mit-save-id,10,0
+105,Grimm/Joie,Grimm/Joie,mh4g-dex-build7+mh4edit-mit-save-id,9,0
+106,Gold Chordmaker+,Gold Chordmaker+,mh4g-dex-build7+mh4edit-mit-save-id,8,0
+107,Lunar Chordmaker,Lunar Chordmaker,mh4g-dex-build7+mh4edit-mit-save-id,10,0
+108,Kecha Clanga+,Kecha Clanga+,mh4g-dex-build7+mh4edit-mit-save-id,8,0
+109,Kecha Clanvira,Kecha Clanvira,mh4g-dex-build7+mh4edit-mit-save-id,9,0
+110,Oppressor's Boon,Oppressor's Boon,mh4g-dex-build7+mh4edit-mit-save-id,9,0
+111,Brimstren Drakesong+,Brimstren Drakesong+,mh4g-dex-build7+mh4edit-mit-save-id,9,0
+112,Stygian Tristitia,Stygian Tristitia,mh4g-dex-build7+mh4edit-mit-save-id,9,0
+113,Denden Daiko,Denden Daiko,mh4g-dex-build7+mh4edit-mit-save-id,9,0
+114,Denden Doomsounder,Denden Doomsounder,mh4g-dex-build7+mh4edit-mit-save-id,10,0
+115,Poli'ahu Pipe,Poli'ahu Pipe,mh4g-dex-build7+mh4edit-mit-save-id,8,0
+116,Phenomenal Phlute,Phenomenal Phlute,mh4g-dex-build7+mh4edit-mit-save-id,9,0
+117,Howling Gravedrum+,Howling Gravedrum+,mh4g-dex-build7+mh4edit-mit-save-id,9,0
+118,Dancing Grisdrum,Dancing Grisdrum,mh4g-dex-build7+mh4edit-mit-save-id,10,0
+119,Timbral Demolisher,Timbral Demolisher,mh4g-dex-build7+mh4edit-mit-save-id,9,0
+120,Lightbreak Timbre,Lightbreak Timbre,mh4g-dex-build7+mh4edit-mit-save-id,10,0
+121,Shell Castanet,Shell Castanet,mh4g-dex-build7+mh4edit-mit-save-id,4,0
+122,Shell Castanet+,Shell Castanet+,mh4g-dex-build7+mh4edit-mit-save-id,8,0
+123,Colored Castanet,Colored Castanet,mh4g-dex-build7+mh4edit-mit-save-id,9,0
+124,Crabby Castanet,Crabby Castanet,mh4g-dex-build7+mh4edit-mit-save-id,8,0
+125,Klick-Klack,Klick-Klack,mh4g-dex-build7+mh4edit-mit-save-id,9,0
+126,Blood Flute+,Blood Flute+,mh4g-dex-build7+mh4edit-mit-save-id,8,0
+127,Brute Flute,Brute Flute,mh4g-dex-build7+mh4edit-mit-save-id,9,0
+128,Jungle Conga+,Jungle Conga+,mh4g-dex-build7+mh4edit-mit-save-id,8,0
+129,Primal Conga,Primal Conga,mh4g-dex-build7+mh4edit-mit-save-id,8,0
+130,Parahazard Call+,Parahazard Call+,mh4g-dex-build7+mh4edit-mit-save-id,8,0
+131,Para Calamity,Para Calamity,mh4g-dex-build7+mh4edit-mit-save-id,9,0
+132,Naja Warning,Naja Warning,mh4g-dex-build7+mh4edit-mit-save-id,8,0
+133,Naja Alluvion,Naja Alluvion,mh4g-dex-build7+mh4edit-mit-save-id,9,0
+134,Pox Shamisen,Pox Shamisen,mh4g-dex-build7+mh4edit-mit-save-id,8,0
+135,Garuga Shamisen,Garuga Shamisen,mh4g-dex-build7+mh4edit-mit-save-id,9,0
+136,Volcanic Gig+,Volcanic Gig+,mh4g-dex-build7+mh4edit-mit-save-id,8,0
+137,Conflagrig,Conflagrig,mh4g-dex-build7+mh4edit-mit-save-id,9,0
+138,Heavy Facemelter,Heavy Facemelter,mh4g-dex-build7+mh4edit-mit-save-id,8,0
+139,Lullaby Facemelter,Lullaby Facemelter,mh4g-dex-build7+mh4edit-mit-save-id,9,0
+140,Magia Charmbell,Magia Charmbell,mh4g-dex-build7+mh4edit-mit-save-id,8,0
+141,Aria Rhota,Aria Rhota,mh4g-dex-build7+mh4edit-mit-save-id,9,0
+142,Dragonwood Godflute,Dragonwood Godflute,mh4g-dex-build7+mh4edit-mit-save-id,10,0
+143,Avenir's Music Box+,Avenir's Music Box+,mh4g-dex-build7+mh4edit-mit-save-id,8,0
+144,Eternal Music Box,Eternal Music Box,mh4g-dex-build7+mh4edit-mit-save-id,9,0
+145,Teostra's Tiple,Teostra's Tiple,mh4g-dex-build7+mh4edit-mit-save-id,7,0
+146,Teostra's Orphée,Teostra's Orphée,mh4g-dex-build7+mh4edit-mit-save-id,10,0
+147,Daora's Taus,Daora's Taus,mh4g-dex-build7+mh4edit-mit-save-id,7,0
+148,Daora's Baphophone,Daora's Baphophone,mh4g-dex-build7+mh4edit-mit-save-id,10,0
+149,Eldaora's Taus,Eldaora's Taus,mh4g-dex-build7+mh4edit-mit-save-id,10,0
+150,Genie's Ocarina,Genie's Ocarina,mh4g-dex-build7+mh4edit-mit-save-id,10,0
+151,Akantor Dark Melody,Akantor Dark Melody,mh4g-dex-build7+mh4edit-mit-save-id,10,0
+152,Ukanlos Horned Flute,Ukanlos Horned Flute,mh4g-dex-build7+mh4edit-mit-save-id,7,0
+153,Ukanlos Skysinger,Ukanlos Skysinger,mh4g-dex-build7+mh4edit-mit-save-id,9,0
+154,Orgueil the Insane,Orgueil the Insane,mh4g-dex-build7+mh4edit-mit-save-id,9,0
+155,Dalamadur Song,Dalamadur Song,mh4g-dex-build7+mh4edit-mit-save-id,10,0
+156,Bloodied Dalamadur,Bloodied Dalamadur,mh4g-dex-build7+mh4edit-mit-save-id,10,0
+157,Fatalis Menace Lute,Fatalis Menace Lute,mh4g-dex-build7+mh4edit-mit-save-id,10,0
+158,Fatalis Menace Soul,Fatalis Menace Soul,mh4g-dex-build7+mh4edit-mit-save-id,10,0
+159,Fatalis Ancient Lute,Fatalis Ancient Lute,mh4g-dex-build7+mh4edit-mit-save-id,10,0
+160,Vadya Muse,Vadya Muse,mh4g-dex-build7+mh4edit-mit-save-id,6,0
+161,Vadya Muse+,Vadya Muse+,mh4g-dex-build7+mh4edit-mit-save-id,7,0
+162,Seditious Warhorn,Seditious Warhorn,mh4g-dex-build7+mh4edit-mit-save-id,9,0
+163,Maqam Sedition,Maqam Sedition,mh4g-dex-build7+mh4edit-mit-save-id,10,0
+164,Clemency's Peal,Clemency's Peal,mh4g-dex-build7+mh4edit-mit-save-id,10,0
+165,Onyx Terpsichore,Onyx Terpsichore,mh4g-dex-build7+mh4edit-mit-save-id,10,0
+166,Glass Royale,Glass Royale,mh4g-dex-build7+mh4edit-mit-save-id,9,0
+167,Queen's Flute,Queen's Flute,mh4g-dex-build7+mh4edit-mit-save-id,9,0
+168,Handmade Frog,Handmade Frog,mh4g-dex-build7+mh4edit-mit-save-id,8,0
+169,Hunter Master,Hunter Master,mh4g-dex-build7+mh4edit-mit-save-id,10,0
+170,Emperor's Speech,Emperor's Speech,mh4g-dex-build7+mh4edit-mit-save-id,2,0
+171,DUMMY,DUMMY,mh4edit-mit-save-id,0,0
+172,DUMMY,DUMMY,mh4edit-mit-save-id,0,0
+173,Scorpion Lute,Scorpion Lute,mh4edit-mit-save-id,0,0
+174,Endless Loop,Endless Loop,mh4edit-mit-save-id,0,0
+175,Sonic Glass (red),Sonic Glass (red),mh4edit-mit-save-id,0,1
+176,Sonic Glass (yellow),Sonic Glass (yellow),mh4edit-mit-save-id,0,1
+177,Sonic Glass (green),Sonic Glass (green),mh4edit-mit-save-id,0,1
+178,Sonic Glass (blue),Sonic Glass (blue),mh4edit-mit-save-id,0,1
+179,Sonic Glass (purple),Sonic Glass (purple),mh4edit-mit-save-id,0,1
+180,Hidden Harmonic (red),Hidden Harmonic (red),mh4edit-mit-save-id,0,1
+181,Hidden Harmonic (yellow),Hidden Harmonic (yellow),mh4edit-mit-save-id,0,1
+182,Hidden Harmonic (green),Hidden Harmonic (green),mh4edit-mit-save-id,0,1
+183,Hidden Harmonic (blue),Hidden Harmonic (blue),mh4edit-mit-save-id,0,1
+184,Hidden Harmonic (purple),Hidden Harmonic (purple),mh4edit-mit-save-id,0,1

@@ -1,0 +1,408 @@
+{
+  "dex": {
+    "product": "MH4G Dex v1.0 Build 7",
+    "runtime_dump_format": "mh4g-dex-runtime-dump-v1",
+    "source_files": [
+      {
+        "name": "MH4G Dex.exe",
+        "sha256": "b58a9bb8d8a9b723f1925a9a13e355f8fd51789d428e5c2474dd451fb9ad5931",
+        "size": 13864960
+      },
+      {
+        "name": "System.Data.SQLite.dll",
+        "sha256": "11ecf4326902eaa2f2a9da0fbbac31c51666993357da362be4dd83e2d6849b31",
+        "size": 278528
+      },
+      {
+        "name": "System.Data.SQLite.Linq.dll",
+        "sha256": "4388959ff8d3da5fe30cc0a3eb395a97c6fd6fc0e4cdd9cb79e87cf171bd95f1",
+        "size": 5250048
+      },
+      {
+        "name": "System.Data.SQLite.EF6.dll",
+        "sha256": "b940b6b24061e6d9d2adc7687023c637c049dd10f4e8b7eee4ff8146371b88b4",
+        "size": 57053184
+      },
+      {
+        "name": "winbind.dll",
+        "sha256": "2d16b238a43db569d3bc9eb51d13526c2832978d4759cd8487cdc7be3acd7dcc",
+        "size": 134656
+      }
+    ]
+  },
+  "files": {
+    "cn/armor_arms.csv": {
+      "records": 956,
+      "sha256": "9d98e54dddff8b94335fa345dca7ebe6de60da63b393a38a66a0491fbe3997e0"
+    },
+    "cn/armor_chest.csv": {
+      "records": 972,
+      "sha256": "b377b8a140111b05a946e4dbca62821b1725eb2ce0be37d5ea8350fd19d439fa"
+    },
+    "cn/armor_head.csv": {
+      "records": 987,
+      "sha256": "d07addd5e4639e5d4a67e1174d8cbd06da8f1d77f61138c0ef0f1f604bf4cba8"
+    },
+    "cn/armor_legs.csv": {
+      "records": 964,
+      "sha256": "14a901431342cb6c841b119d3915b722312a2c973123b7f6df8214c5d41308df"
+    },
+    "cn/armor_waist.csv": {
+      "records": 953,
+      "sha256": "d229cd789c12dfaa2c191f78e272a2da49f03db1e8f905306e6fbc870b2dc60d"
+    },
+    "cn/decorations.csv": {
+      "records": 290,
+      "sha256": "92a21f77eb1155dde99758f141e64d26d92fe44b4f18851ae990e9b07e8cb78c"
+    },
+    "cn/equipment_lookups.csv": {
+      "records": 2741,
+      "sha256": "3ea9b885ec8e0f725620ead5e6d990c471f747f9ee04fe12c0f726921467b002"
+    },
+    "cn/equipment_types.csv": {
+      "records": 21,
+      "sha256": "2a0d992a92347c1fe123b0442ab1e16312db9887dd683863ffe74cf411468546"
+    },
+    "cn/items.csv": {
+      "records": 1913,
+      "sha256": "0885afdfb3436abbc58b5ccdfff965243cf63b0fcd86e6b94fb4efd898c41b90"
+    },
+    "cn/skills.csv": {
+      "records": 145,
+      "sha256": "b8f829eb7b5152a28bdf2ee8b1505c51f94453d540416c7dd3f2735cd286f5ea"
+    },
+    "cn/talismans.csv": {
+      "records": 15,
+      "sha256": "189afd4a863b665ca95e249afabb7282fbf2ea62f4c6114d887d4ad6fa50032a"
+    },
+    "cn/weapon_bow.csv": {
+      "records": 206,
+      "sha256": "14f328e75be9eb6159f78ba3a75f0e1c5675de48fd64f4bde0a5a2f76e07f8b9"
+    },
+    "cn/weapon_charge_blade.csv": {
+      "records": 125,
+      "sha256": "d6613eb4d4e2b604e2179e751d1ac8bcfefa8397b63da081b9e81ca2025f586c"
+    },
+    "cn/weapon_dual_blades.csv": {
+      "records": 229,
+      "sha256": "644ac4e775c7a42b8a9720f31c45ab3941a5ae8375727ee33c34b0860b94b8a1"
+    },
+    "cn/weapon_great_sword.csv": {
+      "records": 246,
+      "sha256": "7a6febdf01948dbccdbf7096c82fd32f54302c1bdbe21a48b3314ac15009bd68"
+    },
+    "cn/weapon_gunlance.csv": {
+      "records": 221,
+      "sha256": "6c714eaaa611a29229b89bc9d00440aa2f19849d9fd5cc65a3b2388a22fae0ac"
+    },
+    "cn/weapon_hammer.csv": {
+      "records": 247,
+      "sha256": "8a5ebdebbce5ed8018a1e8e9304b98d215f8e69ccbc63b8a65d17c6068a46db1"
+    },
+    "cn/weapon_heavy_bowgun.csv": {
+      "records": 157,
+      "sha256": "f502f3127b51ec6550fe353b92277dd039cf006e3792afb1494a84fcac5de5c3"
+    },
+    "cn/weapon_hunting_horn.csv": {
+      "records": 185,
+      "sha256": "ec29d2f8b732388c9760d15e053317c6e9fd743d206dce441cd97e0db2367b20"
+    },
+    "cn/weapon_insect_glaive.csv": {
+      "records": 160,
+      "sha256": "e6008f279b69deae39040d27489da0e8800479d90a6bcf9155f7b52015c3619b"
+    },
+    "cn/weapon_lance.csv": {
+      "records": 216,
+      "sha256": "a2f512bc8df0c9bcd3f052d701e799d4a819443998da69787800f45be654f1b8"
+    },
+    "cn/weapon_light_bowgun.csv": {
+      "records": 185,
+      "sha256": "b19a7aa3f8c92f0b0402e67b60f622ba4092131b7921f57d2d82e0394a93edee"
+    },
+    "cn/weapon_long_sword.csv": {
+      "records": 227,
+      "sha256": "1e1ccc6801ceefc1f52774fdfb4ce0afb071a4e7535ef6143f0154c522711b8e"
+    },
+    "cn/weapon_switch_axe.csv": {
+      "records": 198,
+      "sha256": "13e07ebe029fae344ea41cc46e26de2e9bd39c685ad5e76fbb2a63906356ac4c"
+    },
+    "cn/weapon_sword_and_shield.csv": {
+      "records": 247,
+      "sha256": "324f11632bfa5affc6163e8b794fed2e022c7badafccd4554feef8a184aa1c82"
+    },
+    "en/armor_arms.csv": {
+      "records": 956,
+      "sha256": "101e2c5d2ef8f6638f7439be7221f16025eb449347800173d55685d368bfc5c6"
+    },
+    "en/armor_chest.csv": {
+      "records": 972,
+      "sha256": "28b145eedb78059bdc09c0e2d7a842b01cfaa4caf798b4cb6c108f38c1167083"
+    },
+    "en/armor_head.csv": {
+      "records": 987,
+      "sha256": "4213171f4f3a16871a8124079c13f3303193f5af82ae671adb9697c3d4498f33"
+    },
+    "en/armor_legs.csv": {
+      "records": 964,
+      "sha256": "8d7f2004a63a7293a48e7e1662a114f176c7bc481684ca30c078d04cb797d37f"
+    },
+    "en/armor_waist.csv": {
+      "records": 953,
+      "sha256": "ec13812108065d70c23a09cc051a18b4f69a8d1fdec1df62b651a1adf5313090"
+    },
+    "en/decorations.csv": {
+      "records": 290,
+      "sha256": "db266d77858815b27cfacc2f12bba9a7439e7498f7e61c999e9e88d13126ac34"
+    },
+    "en/equipment_lookups.csv": {
+      "records": 2741,
+      "sha256": "6f798a31af0f685d16a6da86713e4a9c72da0855b2d5066bc49f97aec88552d0"
+    },
+    "en/equipment_types.csv": {
+      "records": 21,
+      "sha256": "624fe04879f91c1557ce3ede4603ca3188a5e2badb7facd4312c22b31ed35614"
+    },
+    "en/items.csv": {
+      "records": 1913,
+      "sha256": "ea18bc68d01b5a361e5225dfc0478b06ef5f05390bcb88eefd1359ed0c75c102"
+    },
+    "en/skills.csv": {
+      "records": 145,
+      "sha256": "1175e151dc79732447d9afdcc689d6db6c4c5ef3a25157dc2071e28e335fe28c"
+    },
+    "en/talismans.csv": {
+      "records": 15,
+      "sha256": "6d6b35ac443a36caba45d650886a2dace144bbe95249cba7fd25bf39d19cb6d9"
+    },
+    "en/weapon_bow.csv": {
+      "records": 206,
+      "sha256": "5d1778a5307c7350c291f1727719e8141eca7c1cfb4568ff864384e55c2c7934"
+    },
+    "en/weapon_charge_blade.csv": {
+      "records": 125,
+      "sha256": "5b81493654ba2c7f02956f734d6daae7b5a42e7fd314899853d23116d4ab78d7"
+    },
+    "en/weapon_dual_blades.csv": {
+      "records": 229,
+      "sha256": "fc763d284ee3d3c00625328f70959177b0fda8ed57e3c6d12dd39799fde0c16d"
+    },
+    "en/weapon_great_sword.csv": {
+      "records": 246,
+      "sha256": "c8803e829c311bc52e02262ec4f3f249129fcd519a6e93b8c1eb7288b015a2d8"
+    },
+    "en/weapon_gunlance.csv": {
+      "records": 221,
+      "sha256": "24c136adaab34ac22a2667dd8df0a8f98a8399072d46ffa03e35998ca45a14b9"
+    },
+    "en/weapon_hammer.csv": {
+      "records": 247,
+      "sha256": "bc76de5c009820017a49ebc2852f9cccd49e6be8826c6419c3e7c347e42a2398"
+    },
+    "en/weapon_heavy_bowgun.csv": {
+      "records": 157,
+      "sha256": "50491159c4b138fc46281a5c82c3b70d23996def2461e7a429e483f8a4357854"
+    },
+    "en/weapon_hunting_horn.csv": {
+      "records": 185,
+      "sha256": "fd5faaccf426d8998bc89ae7d90037cf49d0c1646824253918704a741008f874"
+    },
+    "en/weapon_insect_glaive.csv": {
+      "records": 160,
+      "sha256": "faef6176f2a8e5d80b2b826bf9f3673fab79b23be6b7bb388a696a0e5b87c77d"
+    },
+    "en/weapon_lance.csv": {
+      "records": 216,
+      "sha256": "a989a083aeeea886d455fe10b1612f1f210983aaf50efb35168c05ae60015350"
+    },
+    "en/weapon_light_bowgun.csv": {
+      "records": 185,
+      "sha256": "6025d82865ab6a8d675818793a1ca0a7c9145ecab54d96f0c581bcf1d679ab32"
+    },
+    "en/weapon_long_sword.csv": {
+      "records": 227,
+      "sha256": "db5ff2ca750ba73b828b1f1ae5407b5140709548e4aee73495037943e98a8a0c"
+    },
+    "en/weapon_switch_axe.csv": {
+      "records": 198,
+      "sha256": "097d1ddad956a3c26aa1f6628d4b91889822a4eeaeddc3a4c787ed7827ac3005"
+    },
+    "en/weapon_sword_and_shield.csv": {
+      "records": 247,
+      "sha256": "b11382881f926e5c3753684c2dc75aad0f80090ebcb9b3b3b04648b440ce32bf"
+    }
+  },
+  "filters": {
+    "decoration_reference_names_without_exact_dex_match": 0,
+    "decorations": "save-local allJewels order; save value 0 is None",
+    "equipment": "save-local reference order including value 0; exact normalized English join to Dex",
+    "items": "save ID is parsed from DB_Itm.Hex; DB_Itm.Itm_ID is used only to join names",
+    "items_excluded_rows": 0,
+    "skills": "SklTree_ID > 0 plus save value 0 (None)"
+  },
+  "format_version": "1.0.0",
+  "generator": {
+    "name": "tools/build_data.py",
+    "version": "1.0.0"
+  },
+  "languages": [
+    "cn",
+    "en"
+  ],
+  "mapping": {
+    "format": "mh4g-data-mapping-v1",
+    "sha256": "aee49336907b597a50f38a165fc393f27068fb1321c5ef2f9985dd3ddc0c1c63"
+  },
+  "match_statistics": {
+    "armor_arms.csv": {
+      "dex_name_matches": 825,
+      "relic_rows": 0,
+      "rows": 956,
+      "unmatched": 130
+    },
+    "armor_chest.csv": {
+      "dex_name_matches": 833,
+      "relic_rows": 0,
+      "rows": 972,
+      "unmatched": 138
+    },
+    "armor_head.csv": {
+      "dex_name_matches": 850,
+      "relic_rows": 0,
+      "rows": 987,
+      "unmatched": 136
+    },
+    "armor_legs.csv": {
+      "dex_name_matches": 823,
+      "relic_rows": 0,
+      "rows": 964,
+      "unmatched": 140
+    },
+    "armor_waist.csv": {
+      "dex_name_matches": 791,
+      "relic_rows": 0,
+      "rows": 953,
+      "unmatched": 161
+    },
+    "weapon_bow.csv": {
+      "dex_name_matches": 177,
+      "relic_rows": 35,
+      "rows": 206,
+      "unmatched": 28
+    },
+    "weapon_charge_blade.csv": {
+      "dex_name_matches": 117,
+      "relic_rows": 20,
+      "rows": 125,
+      "unmatched": 7
+    },
+    "weapon_dual_blades.csv": {
+      "dex_name_matches": 192,
+      "relic_rows": 35,
+      "rows": 229,
+      "unmatched": 36
+    },
+    "weapon_great_sword.csv": {
+      "dex_name_matches": 195,
+      "relic_rows": 35,
+      "rows": 246,
+      "unmatched": 50
+    },
+    "weapon_gunlance.csv": {
+      "dex_name_matches": 206,
+      "relic_rows": 35,
+      "rows": 221,
+      "unmatched": 14
+    },
+    "weapon_hammer.csv": {
+      "dex_name_matches": 201,
+      "relic_rows": 40,
+      "rows": 247,
+      "unmatched": 45
+    },
+    "weapon_heavy_bowgun.csv": {
+      "dex_name_matches": 141,
+      "relic_rows": 20,
+      "rows": 157,
+      "unmatched": 15
+    },
+    "weapon_hunting_horn.csv": {
+      "dex_name_matches": 158,
+      "relic_rows": 30,
+      "rows": 185,
+      "unmatched": 26
+    },
+    "weapon_insect_glaive.csv": {
+      "dex_name_matches": 152,
+      "relic_rows": 20,
+      "rows": 160,
+      "unmatched": 7
+    },
+    "weapon_lance.csv": {
+      "dex_name_matches": 187,
+      "relic_rows": 35,
+      "rows": 216,
+      "unmatched": 28
+    },
+    "weapon_light_bowgun.csv": {
+      "dex_name_matches": 165,
+      "relic_rows": 21,
+      "rows": 185,
+      "unmatched": 19
+    },
+    "weapon_long_sword.csv": {
+      "dex_name_matches": 181,
+      "relic_rows": 35,
+      "rows": 227,
+      "unmatched": 45
+    },
+    "weapon_switch_axe.csv": {
+      "dex_name_matches": 162,
+      "relic_rows": 35,
+      "rows": 198,
+      "unmatched": 35
+    },
+    "weapon_sword_and_shield.csv": {
+      "dex_name_matches": 204,
+      "relic_rows": 40,
+      "rows": 247,
+      "unmatched": 42
+    }
+  },
+  "raw_table_counts": {
+    "DB_Amr": 3119,
+    "DB_Itm": 1913,
+    "DB_Jew": 325,
+    "DB_Wpn": 2331,
+    "ID_Amr_Name": 3120,
+    "ID_Itm_Name": 1914,
+    "ID_SklTree_Name": 145,
+    "ID_Wpn_AxePhial": 8,
+    "ID_Wpn_BowShot": 5,
+    "ID_Wpn_GunRecoil": 5,
+    "ID_Wpn_GunReloadSpd": 6,
+    "ID_Wpn_GunSteadiness": 8,
+    "ID_Wpn_HHSongCategory": 7,
+    "ID_Wpn_ISKinsectType": 3,
+    "ID_Wpn_Name": 2332,
+    "ID_Wpn_RapidFireGap": 5,
+    "ID_Wpn_RecitalEffect": 65,
+    "ID_Wpn_ShotType": 37,
+    "ID_Wpn_SpAtk": 10
+  },
+  "reference": {
+    "commit": "20d593a46163c9c34f6f90f368bfdfaf065c4af0",
+    "copyright": "Copyright (c) 2025 Rokumaehn",
+    "dataset_format": "mh4edit-save-id-reference-v1",
+    "dataset_sha256": "297c1b2cca85e6bb8297249c14f0fd6618ed72a423358c882d6eccdfab045191",
+    "file": "MonHunEquipStatic.cs",
+    "license": "MIT",
+    "repository": "https://github.com/Rokumaehn/mh4edit"
+  },
+  "row_accounting": {
+    "decorations": "DB_Jew has 325 recipe rows and 289 unique item IDs; output adds save value 0 (None) to those save-local decoration values",
+    "items": "DB_Itm rows map one-to-one to output rows through Hex",
+    "skills": "exclude the ID_SklTree_Name -1 placeholder and add save value 0",
+    "weapons_and_armor": "output follows save-local reference arrays; Dex tables provide exact-name metadata matches"
+  }
+}

@@ -1,0 +1,126 @@
+id,name,english,source,rarity,is_relic
+0,无,None,mh4g-save-format,0,0
+1,精锐讨伐队盾斧,Elite Blade,mh4g-dex-build7+mh4edit-mit-save-id,1,0
+2,精锐讨伐队盾斧改,Elite Blade+,mh4g-dex-build7+mh4edit-mit-save-id,1,0
+3,近卫队专用盾斧,Defender's Blade,mh4g-dex-build7+mh4edit-mit-save-id,2,0
+4,帝星搬运者,Kaiser Blade,mh4g-dex-build7+mh4edit-mit-save-id,2,0
+5,黑色防御,Blackguard,mh4g-dex-build7+mh4edit-mit-save-id,4,0
+6,黑色大防御,Full Blackguard,mh4g-dex-build7+mh4edit-mit-save-id,5,0
+7,卫士队正式盾斧,Sentinel Blade,mh4g-dex-build7+mh4edit-mit-save-id,5,0
+8,卫士队正式盾斧改,Sentinel Blade+,mh4g-dex-build7+mh4edit-mit-save-id,6,0
+9,位高则任重,Noblest of Lieges,mh4g-dex-build7+mh4edit-mit-save-id,7,0
+10,迪亚＝鲁特米斯,Dear Lutemis,mh4g-dex-build7+mh4edit-mit-save-id,2,0
+11,迪亚＝鲁特米亚,Dear Lutemia,mh4g-dex-build7+mh4edit-mit-save-id,3,0
+12,迪亚＝赫卡特尔,Dear Hecatel,mh4g-dex-build7+mh4edit-mit-save-id,5,0
+13,迪亚＝赫卡特利亚,Dear Hecatelia,mh4g-dex-build7+mh4edit-mit-save-id,6,0
+14,炎斧阿克塞里翁,Axelion Blade,mh4g-dex-build7+mh4edit-mit-save-id,3,0
+15,焰斧哈尔巴里翁,Halberion Blade,mh4g-dex-build7+mh4edit-mit-save-id,5,0
+16,红莲斧尤尼奥里翁,Bardichion Blade,mh4g-dex-build7+mh4edit-mit-save-id,6,0
+17,业火斧赫尔梅斯雷,Hellsire Blade,mh4g-dex-build7+mh4edit-mit-save-id,6,0
+18,烈日斧赫尔梅斯萨,Hellspawn Blade,mh4g-dex-build7+mh4edit-mit-save-id,7,0
+19,鲨鱼盾矢,Guardsqual,mh4g-dex-build7+mh4edit-mit-save-id,2,0
+20,鲨鱼盾矢改,Guardsqual+,mh4g-dex-build7+mh4edit-mit-save-id,3,0
+21,冰鲨斧,Squaliarma,mh4g-dex-build7+mh4edit-mit-save-id,5,0
+22,冰鲨强斧,Squaliarmada,mh4g-dex-build7+mh4edit-mit-save-id,6,0
+23,原力of坠落,Elendskraft,mh4g-dex-build7+mh4edit-mit-save-id,3,0
+24,原力of毁灭,Leidenskraft,mh4g-dex-build7+mh4edit-mit-save-id,4,0
+25,原力of灾厄,Unheilskraft,mh4g-dex-build7+mh4edit-mit-save-id,5,0
+26,THE镇压者,L'Oppresseur,mh4g-dex-build7+mh4edit-mit-save-id,7,0
+27,大海龙之斧,Deceadeus,mh4g-dex-build7+mh4edit-mit-save-id,6,0
+28,大海龙勇斧,Heroic Deceadeus,mh4g-dex-build7+mh4edit-mit-save-id,7,0
+29,八尺盾斧,Permanence,mh4g-dex-build7+mh4edit-mit-save-id,4,0
+30,豪盾斧【伊邪那美】,Izanami,mh4g-dex-build7+mh4edit-mit-save-id,7,0
+31,黑龙盾斧,Fatalis Charger,mh4g-dex-build7+mh4edit-mit-save-id,7,0
+32,黑灭龙盾斧,Ruiner Reaver,mh4g-dex-build7+mh4edit-mit-save-id,7,0
+33,星光之斧,Starlight Axe,mh4g-dex-build7+mh4edit-mit-save-id,5,0
+34,巨光之斧,Grandstar Axe,mh4g-dex-build7+mh4edit-mit-save-id,7,0
+35,dummy35,dummy35,mh4edit-mit-save-id-en-fallback,0,0
+36,dummy36,dummy36,mh4edit-mit-save-id-en-fallback,0,0
+37,黑色大防御改,Full Blackguard+,mh4g-dex-build7+mh4edit-mit-save-id,8,0
+38,漆黑之盾,Schwarzschild,mh4g-dex-build7+mh4edit-mit-save-id,9,0
+39,骑士团队证盾斧,K. Captain's Blade,mh4g-dex-build7+mh4edit-mit-save-id,8,0
+40,女武神,Die Walküre,mh4g-dex-build7+mh4edit-mit-save-id,9,0
+41,蜘蛛之鳞,Arachnoscale,mh4g-dex-build7+mh4edit-mit-save-id,4,0
+42,蜘蛛之鳞改,Arachnoscale+,mh4g-dex-build7+mh4edit-mit-save-id,6,0
+43,蜘蛛毒镰,Arachnoscythe,mh4g-dex-build7+mh4edit-mit-save-id,8,0
+44,白神毒镰,Belobog's Scythe,mh4g-dex-build7+mh4edit-mit-save-id,9,0
+45,黑之斧,Schwarzschlum,mh4g-dex-build7+mh4edit-mit-save-id,9,0
+46,黑之斧改,Schwarzschlum+,mh4g-dex-build7+mh4edit-mit-save-id,9,0
+47,黑神眠斧,Chernobog's Scythe,mh4g-dex-build7+mh4edit-mit-save-id,9,0
+48,泥沙昆虫,Schildsect,mh4g-dex-build7+mh4edit-mit-save-id,4,0
+49,泥沙昆虫改,Schildsect+,mh4g-dex-build7+mh4edit-mit-save-id,6,0
+50,狂暴昆虫,Galvanisect,mh4g-dex-build7+mh4edit-mit-save-id,8,0
+51,神圣昆虫,Dominisect,mh4g-dex-build7+mh4edit-mit-save-id,9,0
+52,极限昆虫,Maximinsect,mh4g-dex-build7+mh4edit-mit-save-id,9,0
+53,迪亚＝罗泽,Dear Rose,mh4g-dex-build7+mh4edit-mit-save-id,8,0
+54,迪亚＝罗泽塔,Dear Rosetta,mh4g-dex-build7+mh4edit-mit-save-id,9,0
+55,露娜＝艾思特卡雷,Luna Eostre,mh4g-dex-build7+mh4edit-mit-save-id,10,0
+56,樱剑苍盾【燕】,Azure Swallow,mh4g-dex-build7+mh4edit-mit-save-id,9,0
+57,樱剑苍盾【云雀】,Azure Skylark,mh4g-dex-build7+mh4edit-mit-save-id,9,0
+58,煌炎斧赫尔梅斯诺亚,Rathflame Ubernova,mh4g-dex-build7+mh4edit-mit-save-id,9,0
+59,缭乱之盾斧,Blossomauler,mh4g-dex-build7+mh4edit-mit-save-id,10,0
+60,金华胧银之盾斧,Propensity,mh4g-dex-build7+mh4edit-mit-save-id,10,0
+61,急冻盾斧,Serrated Glace,mh4g-dex-build7+mh4edit-mit-save-id,8,0
+62,终极狂鲨,Trios Tristesse,mh4g-dex-build7+mh4edit-mit-save-id,9,0
+63,沙暴,The Haboob,mh4g-dex-build7+mh4edit-mit-save-id,8,0
+64,沙漠玫瑰,Desert Rose,mh4g-dex-build7+mh4edit-mit-save-id,9,0
+65,THE爆破,L'Essor,mh4g-dex-build7+mh4edit-mit-save-id,9,0
+66,THE救世主,Le Salut,mh4g-dex-build7+mh4edit-mit-save-id,10,0
+67,爆破or坠落,Elends/Essor,mh4g-dex-build7+mh4edit-mit-save-id,9,0
+68,巨角之臂,Diablos Strongarm,mh4g-dex-build7+mh4edit-mit-save-id,9,0
+69,角王盾斧吉奥布罗斯,Cera Cediment,mh4g-dex-build7+mh4edit-mit-save-id,9,0
+70,海王器纳巴尔雷加利亚,Ceadeus Regalia,mh4g-dex-build7+mh4edit-mit-save-id,10,0
+71,九泉盾斧,Kyusen,mh4g-dex-build7+mh4edit-mit-save-id,9,0
+72,豪溜盾斧【绵津见】,Watatsumi,mh4g-dex-build7+mh4edit-mit-save-id,10,0
+73,达欧拉＝卡斯卡,Daora's Casca,mh4g-dex-build7+mh4edit-mit-save-id,7,0
+74,达欧拉＝肯姆,Daora's Thwartoise,mh4g-dex-build7+mh4edit-mit-save-id,10,0
+75,埃尔达欧尔＝卡斯卡,Eldaora Casca,mh4g-dex-build7+mh4edit-mit-save-id,10,0
+76,炎王强袭,Teostra's Striker,mh4g-dex-build7+mh4edit-mit-save-id,7,0
+77,炎王诺亚,Teostra's Nova,mh4g-dex-build7+mh4edit-mit-save-id,10,0
+78,迪欧斯之臂,Dios Strongarm,mh4g-dex-build7+mh4edit-mit-save-id,4,0
+79,爆碎之盾斧,Demolition C. Blade,mh4g-dex-build7+mh4edit-mit-save-id,6,0
+80,破岩盾斧伊芙尔泽特,Fulgent Demolisher,mh4g-dex-build7+mh4edit-mit-save-id,9,0
+81,碎光之盾斧,Lightbreak C. Blade,mh4g-dex-build7+mh4edit-mit-save-id,10,0
+82,鬼神盾斧【夜叉】,Demonlord C. Blade,mh4g-dex-build7+mh4edit-mit-save-id,9,0
+83,鬼神盾斧【金刚夜叉】,Demonlord Supersurge,mh4g-dex-build7+mh4edit-mit-save-id,10,0
+84,霸盾斧恩卡穆特尔姆,Akantor C. Blade,mh4g-dex-build7+mh4edit-mit-save-id,7,0
+85,霸断斧库奈恩卡姆,Akantor Severance,mh4g-dex-build7+mh4edit-mit-save-id,10,0
+86,缠绕凶刃之战具,Bebladed Implement,mh4g-dex-build7+mh4edit-mit-save-id,7,0
+87,星火燎原之装机神,Machina Razer,mh4g-dex-build7+mh4edit-mit-save-id,7,0
+88,解放王阿德尔机神,Adélie the Savior,mh4g-dex-build7+mh4edit-mit-save-id,9,0
+89,帝盾斧达拉卡尔特里亚,Dalamadur C. Blade,mh4g-dex-build7+mh4edit-mit-save-id,10,0
+90,蛇盾斧哥德尔玛迪拉,Patient Dalamadur,mh4g-dex-build7+mh4edit-mit-save-id,10,0
+91,真・黑龙盾斧,True Fatalis Charger,mh4g-dex-build7+mh4edit-mit-save-id,10,0
+92,真・黑灭龙盾斧,True Ruiner Reaver,mh4g-dex-build7+mh4edit-mit-save-id,10,0
+93,龙祖之击,Fatalis Mien,mh4g-dex-build7+mh4edit-mit-save-id,10,0
+94,千刃盾斧,Aslat Charger,mh4g-dex-build7+mh4edit-mit-save-id,6,0
+95,千刃盾斧改,Aslat Charger+,mh4g-dex-build7+mh4edit-mit-save-id,7,0
+96,叛逆之盾斧,Seditious C. Blade,mh4g-dex-build7+mh4edit-mit-save-id,9,0
+97,叛逆盾斧加尔雷吉昂,Garuda Sedition,mh4g-dex-build7+mh4edit-mit-save-id,10,0
+98,被禁之棺,Forbidden Coffin,mh4g-dex-build7+mh4edit-mit-save-id,10,0
+99,代价之深渊,Promised Nadir,mh4g-dex-build7+mh4edit-mit-save-id,10,0
+100,dummy100,dummy100,mh4edit-mit-save-id-en-fallback,0,0
+101,DUMMY,DUMMY,mh4edit-mit-save-id-en-fallback,0,0
+102,DUMMY,DUMMY,mh4edit-mit-save-id-en-fallback,0,0
+103,Awaritia,Awaritia,mh4edit-mit-save-id-en-fallback,0,0
+104,Fallen Morgenröte,Fallen Morgenröte,mh4edit-mit-save-id-en-fallback,0,0
+105,精锐讨伐队盾斧（红）,Elite Blade (red),mh4g-dex-build7+mh4edit-mit-save-id,0,1
+106,精锐讨伐队盾斧（黄）,Elite Blade (yellow),mh4g-dex-build7+mh4edit-mit-save-id,0,1
+107,精锐讨伐队盾斧（绿）,Elite Blade (green),mh4g-dex-build7+mh4edit-mit-save-id,0,1
+108,精锐讨伐队盾斧（蓝）,Elite Blade (blue),mh4g-dex-build7+mh4edit-mit-save-id,0,1
+109,精锐讨伐队盾斧（紫）,Elite Blade (purple),mh4g-dex-build7+mh4edit-mit-save-id,0,1
+110,迪亚＝鲁特米斯（红）,Dear Lutemis (red),mh4g-dex-build7+mh4edit-mit-save-id,0,1
+111,迪亚＝鲁特米斯（黄）,Dear Lutemis (yellow),mh4g-dex-build7+mh4edit-mit-save-id,0,1
+112,迪亚＝鲁特米斯（绿）,Dear Lutemis (green),mh4g-dex-build7+mh4edit-mit-save-id,0,1
+113,迪亚＝鲁特米斯（蓝）,Dear Lutemis (blue),mh4g-dex-build7+mh4edit-mit-save-id,0,1
+114,迪亚＝鲁特米斯（紫）,Dear Lutemis (purple),mh4g-dex-build7+mh4edit-mit-save-id,0,1
+115,原力of坠落（红）,Elendskraft (red),mh4g-dex-build7+mh4edit-mit-save-id,0,1
+116,原力of坠落（黄）,Elendskraft (yellow),mh4g-dex-build7+mh4edit-mit-save-id,0,1
+117,原力of坠落（绿）,Elendskraft (green),mh4g-dex-build7+mh4edit-mit-save-id,0,1
+118,原力of坠落（蓝）,Elendskraft (blue),mh4g-dex-build7+mh4edit-mit-save-id,0,1
+119,原力of坠落（紫）,Elendskraft (purple),mh4g-dex-build7+mh4edit-mit-save-id,0,1
+120,大海龙之斧（红）,Deceadeus (red),mh4g-dex-build7+mh4edit-mit-save-id,0,1
+121,大海龙之斧（黄）,Deceadeus (yellow),mh4g-dex-build7+mh4edit-mit-save-id,0,1
+122,大海龙之斧（绿）,Deceadeus (green),mh4g-dex-build7+mh4edit-mit-save-id,0,1
+123,大海龙之斧（蓝）,Deceadeus (blue),mh4g-dex-build7+mh4edit-mit-save-id,0,1
+124,大海龙之斧（紫）,Deceadeus (purple),mh4g-dex-build7+mh4edit-mit-save-id,0,1

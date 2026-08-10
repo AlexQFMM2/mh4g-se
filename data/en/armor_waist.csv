@@ -1,0 +1,954 @@
+id,name,english,source,rarity,is_relic
+0,None,None,mh4g-save-format,0,0
+1,Hunter's Faulds S,Hunter's Faulds S,mh4g-dex-build7+mh4edit-mit-save-id,4,0
+2,Hunter's Coat S,Hunter's Coat S,mh4g-dex-build7+mh4edit-mit-save-id,4,0
+3,Hunter's Faulds,Hunter's Faulds,mh4g-dex-build7+mh4edit-mit-save-id,1,0
+4,Hunter's Coat,Hunter's Coat,mh4g-dex-build7+mh4edit-mit-save-id,1,0
+5,Bone Faulds,Bone Faulds,mh4g-dex-build7+mh4edit-mit-save-id,1,0
+6,Bone Coat,Bone Coat,mh4g-dex-build7+mh4edit-mit-save-id,1,0
+7,Bone Faulds S,Bone Faulds S,mh4g-dex-build7+mh4edit-mit-save-id,4,0
+8,Bone Coat S,Bone Coat S,mh4g-dex-build7+mh4edit-mit-save-id,4,0
+9,Alloy Coil,Alloy Coil,mh4g-dex-build7+mh4edit-mit-save-id,1,0
+10,Alloy Coat,Alloy Coat,mh4g-dex-build7+mh4edit-mit-save-id,1,0
+11,Alloy Coil S,Alloy Coil S,mh4g-dex-build7+mh4edit-mit-save-id,4,0
+12,Alloy Coat S,Alloy Coat S,mh4g-dex-build7+mh4edit-mit-save-id,4,0
+13,Alloy Coil,Alloy Coil,mh4g-dex-build7+mh4edit-mit-save-id,1,0
+14,Alloy Coat,Alloy Coat,mh4g-dex-build7+mh4edit-mit-save-id,1,0
+15,Jaggi Faulds,Jaggi Faulds,mh4g-dex-build7+mh4edit-mit-save-id,2,0
+16,Jaggi Coat,Jaggi Coat,mh4g-dex-build7+mh4edit-mit-save-id,2,0
+17,Jaggi Faulds S,Jaggi Faulds S,mh4g-dex-build7+mh4edit-mit-save-id,4,0
+18,Jaggi Coat S,Jaggi Coat S,mh4g-dex-build7+mh4edit-mit-save-id,4,0
+19,Loc Lac Kilt,Loc Lac Kilt,mh4g-dex-build7+mh4edit-mit-save-id,1,0
+20,Ludroth Faulds,Ludroth Faulds,mh4g-dex-build7+mh4edit-mit-save-id,2,0
+21,Ludroth Coat,Ludroth Coat,mh4g-dex-build7+mh4edit-mit-save-id,2,0
+22,Ludroth Faulds,Ludroth Faulds,mh4g-dex-build7+mh4edit-mit-save-id,2,0
+23,Ludroth Coat,Ludroth Coat,mh4g-dex-build7+mh4edit-mit-save-id,2,0
+24,Rhenoplos Coil,Rhenoplos Coil,mh4g-dex-build7+mh4edit-mit-save-id,2,0
+25,Rhenoplos Coat,Rhenoplos Coat,mh4g-dex-build7+mh4edit-mit-save-id,2,0
+26,Rhenoplos Coil S,Rhenoplos Coil S,mh4g-dex-build7+mh4edit-mit-save-id,4,0
+27,Rhenoplos Coat S,Rhenoplos Coat S,mh4g-dex-build7+mh4edit-mit-save-id,4,0
+28,Bnahabra Coil,Bnahabra Coil,mh4g-dex-build7+mh4edit-mit-save-id,2,0
+29,Bnahabra Coat,Bnahabra Coat,mh4g-dex-build7+mh4edit-mit-save-id,2,0
+30,Bnahabra Coil S,Bnahabra Coil S,mh4g-dex-build7+mh4edit-mit-save-id,4,0
+31,Bnahabra Coat S,Bnahabra Coat S,mh4g-dex-build7+mh4edit-mit-save-id,4,0
+32,Barroth Faulds,Barroth Faulds,mh4g-dex-build7+mh4edit-mit-save-id,2,0
+33,Barroth Coat,Barroth Coat,mh4g-dex-build7+mh4edit-mit-save-id,2,0
+34,Rathian Faulds,Rathian Faulds,mh4g-dex-build7+mh4edit-mit-save-id,2,0
+35,Rathian Coat,Rathian Coat,mh4g-dex-build7+mh4edit-mit-save-id,2,0
+36,Rathian Faulds S,Rathian Faulds S,mh4g-dex-build7+mh4edit-mit-save-id,5,0
+37,Rathian Coat S,Rathian Coat S,mh4g-dex-build7+mh4edit-mit-save-id,5,0
+38,Rath Heart Coil,Rath Heart Coil,mh4g-dex-build7+mh4edit-mit-save-id,6,0
+39,Rath Heart Coat,Rath Heart Coat,mh4g-dex-build7+mh4edit-mit-save-id,6,0
+40,Golden Lunecoil,Golden Lunecoil,mh4g-dex-build7+mh4edit-mit-save-id,7,0
+41,Golden Lunecoat,Golden Lunecoat,mh4g-dex-build7+mh4edit-mit-save-id,7,0
+42,Rathian Faulds,Rathian Faulds,mh4g-dex-build7+mh4edit-mit-save-id,2,0
+43,Rathian Coat,Rathian Coat,mh4g-dex-build7+mh4edit-mit-save-id,2,0
+44,Rath Heart Coil,Rath Heart Coil,mh4g-dex-build7+mh4edit-mit-save-id,6,0
+45,Rath Heart Coat,Rath Heart Coat,mh4g-dex-build7+mh4edit-mit-save-id,6,0
+46,EX Rathian Faulds,EX Rathian Faulds,mh4g-dex-build7+mh4edit-mit-save-id,7,0
+47,EX Rathian Coat,EX Rathian Coat,mh4g-dex-build7+mh4edit-mit-save-id,7,0
+48,Rathalos Faulds,Rathalos Faulds,mh4g-dex-build7+mh4edit-mit-save-id,3,0
+49,Rathalos Coat,Rathalos Coat,mh4g-dex-build7+mh4edit-mit-save-id,3,0
+50,Rathalos Faulds S,Rathalos Faulds S,mh4g-dex-build7+mh4edit-mit-save-id,5,0
+51,Rathalos Coat S,Rathalos Coat S,mh4g-dex-build7+mh4edit-mit-save-id,5,0
+52,Rath Soul Coil,Rath Soul Coil,mh4g-dex-build7+mh4edit-mit-save-id,6,0
+53,Rath Soul Coat,Rath Soul Coat,mh4g-dex-build7+mh4edit-mit-save-id,6,0
+54,Silver Solcoil,Silver Solcoil,mh4g-dex-build7+mh4edit-mit-save-id,7,0
+55,Silver Solcoat,Silver Solcoat,mh4g-dex-build7+mh4edit-mit-save-id,7,0
+56,Rathalos Faulds,Rathalos Faulds,mh4g-dex-build7+mh4edit-mit-save-id,3,0
+57,Rathalos Coat,Rathalos Coat,mh4g-dex-build7+mh4edit-mit-save-id,3,0
+58,Rath Soul Coil,Rath Soul Coil,mh4g-dex-build7+mh4edit-mit-save-id,6,0
+59,Rath Soul Coat,Rath Soul Coat,mh4g-dex-build7+mh4edit-mit-save-id,6,0
+60,Silver Solcoil,Silver Solcoil,mh4g-dex-build7+mh4edit-mit-save-id,7,0
+61,Silver Solcoat,Silver Solcoat,mh4g-dex-build7+mh4edit-mit-save-id,7,0
+62,EX Rathalos Faulds,EX Rathalos Faulds,mh4g-dex-build7+mh4edit-mit-save-id,7,0
+63,EX Rathalos Coat,EX Rathalos Coat,mh4g-dex-build7+mh4edit-mit-save-id,7,0
+64,Diablos Coil,Diablos Coil,mh4g-dex-build7+mh4edit-mit-save-id,3,0
+65,Diablos Coat,Diablos Coat,mh4g-dex-build7+mh4edit-mit-save-id,3,0
+66,Uragaan Faulds,Uragaan Faulds,mh4g-dex-build7+mh4edit-mit-save-id,3,0
+67,Uragaan Coat,Uragaan Coat,mh4g-dex-build7+mh4edit-mit-save-id,3,0
+68,Vangis Coil,Vangis Coil,mh4g-dex-build7+mh4edit-mit-save-id,6,0
+69,Vangis Coat,Vangis Coat,mh4g-dex-build7+mh4edit-mit-save-id,6,0
+70,Esurient Faulds,Esurient Faulds,mh4g-dex-build7+mh4edit-mit-save-id,7,0
+71,Esurient Coat,Esurient Coat,mh4g-dex-build7+mh4edit-mit-save-id,7,0
+72,Esurient Faulds,Esurient Faulds,mh4g-dex-build7+mh4edit-mit-save-id,7,0
+73,Esurient Coat,Esurient Coat,mh4g-dex-build7+mh4edit-mit-save-id,7,0
+74,Gloaming Girdle,Gloaming Girdle,mh4g-dex-build7+mh4edit-mit-save-id,3,0
+75,Adamance Girdle,Adamance Girdle,mh4g-dex-build7+mh4edit-mit-save-id,3,0
+76,Dayspring Girdle,Dayspring Girdle,mh4g-dex-build7+mh4edit-mit-save-id,3,0
+77,Epoch Girdle,Epoch Girdle,mh4g-dex-build7+mh4edit-mit-save-id,3,0
+78,Gloaming Archgirdle,Gloaming Archgirdle,mh4g-dex-build7+mh4edit-mit-save-id,7,0
+79,Adamance Archgirdle,Adamance Archgirdle,mh4g-dex-build7+mh4edit-mit-save-id,7,0
+80,Dayspring Archgirdle,Dayspring Archgirdle,mh4g-dex-build7+mh4edit-mit-save-id,7,0
+81,Epoch Archgirdle,Epoch Archgirdle,mh4g-dex-build7+mh4edit-mit-save-id,7,0
+82,Gloaming Girdle,Gloaming Girdle,mh4g-dex-build7+mh4edit-mit-save-id,3,0
+83,Adamance Girdle,Adamance Girdle,mh4g-dex-build7+mh4edit-mit-save-id,3,0
+84,Dayspring Girdle,Dayspring Girdle,mh4g-dex-build7+mh4edit-mit-save-id,3,0
+85,Epoch Girdle,Epoch Girdle,mh4g-dex-build7+mh4edit-mit-save-id,3,0
+86,Nibelsnarf Faulds,Nibelsnarf Faulds,mh4g-dex-build7+mh4edit-mit-save-id,2,0
+87,Nibelsnarf Coat,Nibelsnarf Coat,mh4g-dex-build7+mh4edit-mit-save-id,2,0
+88,Duramboros Faulds,Duramboros Faulds,mh4g-dex-build7+mh4edit-mit-save-id,3,0
+89,Duramboros Coat,Duramboros Coat,mh4g-dex-build7+mh4edit-mit-save-id,3,0
+90,Arzuros Faulds,Arzuros Faulds,mh4g-dex-build7+mh4edit-mit-save-id,2,0
+91,Arzuros Coat,Arzuros Coat,mh4g-dex-build7+mh4edit-mit-save-id,2,0
+92,Lagombi Faulds,Lagombi Faulds,mh4g-dex-build7+mh4edit-mit-save-id,2,0
+93,Lagombi Coat,Lagombi Coat,mh4g-dex-build7+mh4edit-mit-save-id,2,0
+94,Lagombi Faulds S,Lagombi Faulds S,mh4g-dex-build7+mh4edit-mit-save-id,4,0
+95,Lagombi Coat S,Lagombi Coat S,mh4g-dex-build7+mh4edit-mit-save-id,4,0
+96,Nargacuga Faulds,Nargacuga Faulds,mh4g-dex-build7+mh4edit-mit-save-id,3,0
+97,Nargacuga Coat,Nargacuga Coat,mh4g-dex-build7+mh4edit-mit-save-id,3,0
+98,Tigrex Tassets,Tigrex Tassets,mh4g-dex-build7+mh4edit-mit-save-id,3,0
+99,Tigrex Coat,Tigrex Coat,mh4g-dex-build7+mh4edit-mit-save-id,3,0
+100,Tigrex Tassets S,Tigrex Tassets S,mh4g-dex-build7+mh4edit-mit-save-id,5,0
+101,Tigrex Coat S,Tigrex Coat S,mh4g-dex-build7+mh4edit-mit-save-id,5,0
+102,Tigrex Tassets U,Tigrex Tassets U,mh4g-dex-build7+mh4edit-mit-save-id,6,0
+103,Tigrex Coat U,Tigrex Coat U,mh4g-dex-build7+mh4edit-mit-save-id,6,0
+104,Excello Coil,Excello Coil,mh4g-dex-build7+mh4edit-mit-save-id,7,0
+105,Excello Coat,Excello Coat,mh4g-dex-build7+mh4edit-mit-save-id,7,0
+106,EX Tigrex Tassets,EX Tigrex Tassets,mh4g-dex-build7+mh4edit-mit-save-id,7,0
+107,EX Tigrex Coat,EX Tigrex Coat,mh4g-dex-build7+mh4edit-mit-save-id,7,0
+108,Tigrex Tassets,Tigrex Tassets,mh4g-dex-build7+mh4edit-mit-save-id,3,0
+109,Tigrex Coat,Tigrex Coat,mh4g-dex-build7+mh4edit-mit-save-id,3,0
+110,Tigrex Tassets U,Tigrex Tassets U,mh4g-dex-build7+mh4edit-mit-save-id,6,0
+111,Tigrex Coat U,Tigrex Coat U,mh4g-dex-build7+mh4edit-mit-save-id,6,0
+112,Brachydios Faulds,Brachydios Faulds,mh4g-dex-build7+mh4edit-mit-save-id,3,0
+113,Brachydios Coat,Brachydios Coat,mh4g-dex-build7+mh4edit-mit-save-id,3,0
+114,Brachydios Faulds S,Brachydios Faulds S,mh4g-dex-build7+mh4edit-mit-save-id,6,0
+115,Brachydios Coat S,Brachydios Coat S,mh4g-dex-build7+mh4edit-mit-save-id,6,0
+116,Akantor Cincture,Akantor Cincture,mh4g-dex-build7+mh4edit-mit-save-id,7,0
+117,Akantor Sash,Akantor Sash,mh4g-dex-build7+mh4edit-mit-save-id,7,0
+118,Akantor Cincture,Akantor Cincture,mh4g-dex-build7+mh4edit-mit-save-id,7,0
+119,Akantor Sash,Akantor Sash,mh4g-dex-build7+mh4edit-mit-save-id,7,0
+120,Zinogre Faulds,Zinogre Faulds,mh4g-dex-build7+mh4edit-mit-save-id,3,0
+121,Zinogre Coat,Zinogre Coat,mh4g-dex-build7+mh4edit-mit-save-id,3,0
+122,Zinogre Faulds S,Zinogre Faulds S,mh4g-dex-build7+mh4edit-mit-save-id,5,0
+123,Zinogre Coat S,Zinogre Coat S,mh4g-dex-build7+mh4edit-mit-save-id,5,0
+124,Zinogre Faulds U,Zinogre Faulds U,mh4g-dex-build7+mh4edit-mit-save-id,6,0
+125,Zinogre Coat U,Zinogre Coat U,mh4g-dex-build7+mh4edit-mit-save-id,6,0
+126,Zinogre Faulds U,Zinogre Faulds U,mh4g-dex-build7+mh4edit-mit-save-id,6,0
+127,Zinogre Coat U,Zinogre Coat U,mh4g-dex-build7+mh4edit-mit-save-id,6,0
+128,EX Kaiser Tassets,EX Kaiser Tassets,mh4g-dex-build7+mh4edit-mit-save-id,7,0
+129,EX Kaiser Coat,EX Kaiser Coat,mh4g-dex-build7+mh4edit-mit-save-id,7,0
+130,Kecha Faulds,Kecha Faulds,mh4g-dex-build7+mh4edit-mit-save-id,2,0
+131,Kecha Coat,Kecha Coat,mh4g-dex-build7+mh4edit-mit-save-id,2,0
+132,Kecha Faulds S,Kecha Faulds S,mh4g-dex-build7+mh4edit-mit-save-id,4,0
+133,Kecha Coat S,Kecha Coat S,mh4g-dex-build7+mh4edit-mit-save-id,4,0
+134,Gore Faulds,Gore Faulds,mh4g-dex-build7+mh4edit-mit-save-id,3,0
+135,Gore Coat,Gore Coat,mh4g-dex-build7+mh4edit-mit-save-id,3,0
+136,Gore Faulds S,Gore Faulds S,mh4g-dex-build7+mh4edit-mit-save-id,6,0
+137,Gore Coat S,Gore Coat S,mh4g-dex-build7+mh4edit-mit-save-id,6,0
+138,Gore Faulds,Gore Faulds,mh4g-dex-build7+mh4edit-mit-save-id,3,0
+139,Gore Coat,Gore Coat,mh4g-dex-build7+mh4edit-mit-save-id,3,0
+140,Tetsucabra Faulds,Tetsucabra Faulds,mh4g-dex-build7+mh4edit-mit-save-id,2,0
+141,Tetsucabra Coat,Tetsucabra Coat,mh4g-dex-build7+mh4edit-mit-save-id,2,0
+142,Tetsucabra Faulds S,Tetsucabra Faulds S,mh4g-dex-build7+mh4edit-mit-save-id,5,0
+143,Tetsucabra Coat S,Tetsucabra Coat S,mh4g-dex-build7+mh4edit-mit-save-id,5,0
+144,Nerscylla Faulds,Nerscylla Faulds,mh4g-dex-build7+mh4edit-mit-save-id,2,0
+145,Nerscylla Coat,Nerscylla Coat,mh4g-dex-build7+mh4edit-mit-save-id,2,0
+146,Nerscylla Faulds S,Nerscylla Faulds S,mh4g-dex-build7+mh4edit-mit-save-id,5,0
+147,Nerscylla Coat S,Nerscylla Coat S,mh4g-dex-build7+mh4edit-mit-save-id,5,0
+148,Najarala Faulds,Najarala Faulds,mh4g-dex-build7+mh4edit-mit-save-id,2,0
+149,Najarala Coat,Najarala Coat,mh4g-dex-build7+mh4edit-mit-save-id,2,0
+150,Najarala Faulds S,Najarala Faulds S,mh4g-dex-build7+mh4edit-mit-save-id,5,0
+151,Najarala Coat S,Najarala Coat S,mh4g-dex-build7+mh4edit-mit-save-id,5,0
+152,Garuga Tassets,Garuga Tassets,mh4g-dex-build7+mh4edit-mit-save-id,3,0
+153,Garuga Coat,Garuga Coat,mh4g-dex-build7+mh4edit-mit-save-id,3,0
+154,Garuga Tassets S,Garuga Tassets S,mh4g-dex-build7+mh4edit-mit-save-id,5,0
+155,Garuga Coat S,Garuga Coat S,mh4g-dex-build7+mh4edit-mit-save-id,5,0
+156,Basarios Tassets,Basarios Tassets,mh4g-dex-build7+mh4edit-mit-save-id,2,0
+157,Basarios Coat,Basarios Coat,mh4g-dex-build7+mh4edit-mit-save-id,2,0
+158,Basarios Tassets S,Basarios Tassets S,mh4g-dex-build7+mh4edit-mit-save-id,5,0
+159,Basarios Coat S,Basarios Coat S,mh4g-dex-build7+mh4edit-mit-save-id,5,0
+160,Basarios Tassets U,Basarios Tassets U,mh4g-dex-build7+mh4edit-mit-save-id,6,0
+161,Basarios Coat U,Basarios Coat U,mh4g-dex-build7+mh4edit-mit-save-id,6,0
+162,Battle Tassets,Battle Tassets,mh4g-dex-build7+mh4edit-mit-save-id,2,0
+163,Battle Coat,Battle Coat,mh4g-dex-build7+mh4edit-mit-save-id,2,0
+164,Velociprey Tassets,Velociprey Tassets,mh4g-dex-build7+mh4edit-mit-save-id,2,0
+165,Velociprey Coat,Velociprey Coat,mh4g-dex-build7+mh4edit-mit-save-id,2,0
+166,Velociprey Tassets S,Velociprey Tassets S,mh4g-dex-build7+mh4edit-mit-save-id,4,0
+167,Velociprey Coat S,Velociprey Coat S,mh4g-dex-build7+mh4edit-mit-save-id,4,0
+168,Genprey Tassets,Genprey Tassets,mh4g-dex-build7+mh4edit-mit-save-id,2,0
+169,Genprey Coat,Genprey Coat,mh4g-dex-build7+mh4edit-mit-save-id,2,0
+170,Genprey Tassets S,Genprey Tassets S,mh4g-dex-build7+mh4edit-mit-save-id,4,0
+171,Genprey Coat S,Genprey Coat S,mh4g-dex-build7+mh4edit-mit-save-id,4,0
+172,Ioprey Tassets,Ioprey Tassets,mh4g-dex-build7+mh4edit-mit-save-id,2,0
+173,Ioprey Coat,Ioprey Coat,mh4g-dex-build7+mh4edit-mit-save-id,2,0
+174,Ioprey Tassets S,Ioprey Tassets S,mh4g-dex-build7+mh4edit-mit-save-id,4,0
+175,Ioprey Coat S,Ioprey Coat S,mh4g-dex-build7+mh4edit-mit-save-id,4,0
+176,Kut-Ku Tassets,Kut-Ku Tassets,mh4g-dex-build7+mh4edit-mit-save-id,2,0
+177,Kut-Ku Coat,Kut-Ku Coat,mh4g-dex-build7+mh4edit-mit-save-id,2,0
+178,Kut-Ku Tassets S,Kut-Ku Tassets S,mh4g-dex-build7+mh4edit-mit-save-id,4,0
+179,Kut-Ku Coat S,Kut-Ku Coat S,mh4g-dex-build7+mh4edit-mit-save-id,4,0
+180,Kut-Ku Tassets U,Kut-Ku Tassets U,mh4g-dex-build7+mh4edit-mit-save-id,5,0
+181,Kut-Ku Coat U,Kut-Ku Coat U,mh4g-dex-build7+mh4edit-mit-save-id,5,0
+182,Gypceros Tassets,Gypceros Tassets,mh4g-dex-build7+mh4edit-mit-save-id,2,0
+183,Gypceros Coat,Gypceros Coat,mh4g-dex-build7+mh4edit-mit-save-id,2,0
+184,Gypceros Tassets S,Gypceros Tassets S,mh4g-dex-build7+mh4edit-mit-save-id,5,0
+185,Gypceros Coat S,Gypceros Coat S,mh4g-dex-build7+mh4edit-mit-save-id,5,0
+186,Gypceros Tassets U,Gypceros Tassets U,mh4g-dex-build7+mh4edit-mit-save-id,6,0
+187,Gypceros Coat U,Gypceros Coat U,mh4g-dex-build7+mh4edit-mit-save-id,6,0
+188,Gypceros Tassets,Gypceros Tassets,mh4g-dex-build7+mh4edit-mit-save-id,2,0
+189,Gypceros Coat,Gypceros Coat,mh4g-dex-build7+mh4edit-mit-save-id,2,0
+190,Gypceros Tassets U,Gypceros Tassets U,mh4g-dex-build7+mh4edit-mit-save-id,6,0
+191,Gypceros Coat U,Gypceros Coat U,mh4g-dex-build7+mh4edit-mit-save-id,6,0
+192,Conga Tassets,Conga Tassets,mh4g-dex-build7+mh4edit-mit-save-id,2,0
+193,Conga Coat,Conga Coat,mh4g-dex-build7+mh4edit-mit-save-id,2,0
+194,Conga Tassets S,Conga Tassets S,mh4g-dex-build7+mh4edit-mit-save-id,4,0
+195,Conga Coat S,Conga Coat S,mh4g-dex-build7+mh4edit-mit-save-id,4,0
+196,Conga Tassets U,Conga Tassets U,mh4g-dex-build7+mh4edit-mit-save-id,5,0
+197,Conga Coat U,Conga Coat U,mh4g-dex-build7+mh4edit-mit-save-id,5,0
+198,Gravios Tassets,Gravios Tassets,mh4g-dex-build7+mh4edit-mit-save-id,3,0
+199,Gravios Coat,Gravios Coat,mh4g-dex-build7+mh4edit-mit-save-id,3,0
+200,Gravios Tassets S,Gravios Tassets S,mh4g-dex-build7+mh4edit-mit-save-id,5,0
+201,Gravios Coat S,Gravios Coat S,mh4g-dex-build7+mh4edit-mit-save-id,5,0
+202,Gravios Tassets U,Gravios Tassets U,mh4g-dex-build7+mh4edit-mit-save-id,6,0
+203,Gravios Coat U,Gravios Coat U,mh4g-dex-build7+mh4edit-mit-save-id,6,0
+204,Khezu Tassets,Khezu Tassets,mh4g-dex-build7+mh4edit-mit-save-id,2,0
+205,Khezu Coat,Khezu Coat,mh4g-dex-build7+mh4edit-mit-save-id,2,0
+206,Khezu Tassets S,Khezu Tassets S,mh4g-dex-build7+mh4edit-mit-save-id,5,0
+207,Khezu Coat S,Khezu Coat S,mh4g-dex-build7+mh4edit-mit-save-id,5,0
+208,Khezu Tassets U,Khezu Tassets U,mh4g-dex-build7+mh4edit-mit-save-id,6,0
+209,Khezu Coat U,Khezu Coat U,mh4g-dex-build7+mh4edit-mit-save-id,6,0
+210,Khezu Tassets,Khezu Tassets,mh4g-dex-build7+mh4edit-mit-save-id,2,0
+211,Khezu Coat,Khezu Coat,mh4g-dex-build7+mh4edit-mit-save-id,2,0
+212,Khezu Tassets U,Khezu Tassets U,mh4g-dex-build7+mh4edit-mit-save-id,6,0
+213,Khezu Coat U,Khezu Coat U,mh4g-dex-build7+mh4edit-mit-save-id,6,0
+214,Kirin Hoop,Kirin Hoop,mh4g-dex-build7+mh4edit-mit-save-id,3,0
+215,Kirin Shorts,Kirin Shorts,mh4g-dex-build7+mh4edit-mit-save-id,3,0
+216,Kirin Hoop S,Kirin Hoop S,mh4g-dex-build7+mh4edit-mit-save-id,6,0
+217,Kirin Shorts S,Kirin Shorts S,mh4g-dex-build7+mh4edit-mit-save-id,6,0
+218,Kirin Hoop U,Kirin Hoop U,mh4g-dex-build7+mh4edit-mit-save-id,7,0
+219,Kirin Shorts U,Kirin Shorts U,mh4g-dex-build7+mh4edit-mit-save-id,7,0
+220,Kirin Hoop,Kirin Hoop,mh4g-dex-build7+mh4edit-mit-save-id,3,0
+221,Kirin Shorts,Kirin Shorts,mh4g-dex-build7+mh4edit-mit-save-id,3,0
+222,Kirin Hoop U,Kirin Hoop U,mh4g-dex-build7+mh4edit-mit-save-id,7,0
+223,Kirin Shorts U,Kirin Shorts U,mh4g-dex-build7+mh4edit-mit-save-id,7,0
+224,Kushala Cocoon,Kushala Cocoon,mh4g-dex-build7+mh4edit-mit-save-id,7,0
+225,Kushala Wind Wrap,Kushala Wind Wrap,mh4g-dex-build7+mh4edit-mit-save-id,7,0
+226,EX Kushala Cocoon,EX Kushala Cocoon,mh4g-dex-build7+mh4edit-mit-save-id,7,0
+227,EX Kushala Wind Wrap,EX Kushala Wind Wrap,mh4g-dex-build7+mh4edit-mit-save-id,7,0
+228,Kushala Cocoon,Kushala Cocoon,mh4g-dex-build7+mh4edit-mit-save-id,7,0
+229,Kushala Wind Wrap,Kushala Wind Wrap,mh4g-dex-build7+mh4edit-mit-save-id,7,0
+230,Empress Tassets,Empress Tassets,mh4g-dex-build7+mh4edit-mit-save-id,7,0
+231,Empress Coat,Empress Coat,mh4g-dex-build7+mh4edit-mit-save-id,7,0
+232,Ceanataur Tassets,Ceanataur Tassets,mh4g-dex-build7+mh4edit-mit-save-id,2,0
+233,Ceanataur Coat,Ceanataur Coat,mh4g-dex-build7+mh4edit-mit-save-id,2,0
+234,Ceanataur Tassets,Ceanataur Tassets,mh4g-dex-build7+mh4edit-mit-save-id,2,0
+235,Ceanataur Coat,Ceanataur Coat,mh4g-dex-build7+mh4edit-mit-save-id,2,0
+236,Auroros Tassets,Auroros Tassets,mh4g-dex-build7+mh4edit-mit-save-id,3,0
+237,Borealis Tassets,Borealis Tassets,mh4g-dex-build7+mh4edit-mit-save-id,3,0
+238,Genesis Tassets,Genesis Tassets,mh4g-dex-build7+mh4edit-mit-save-id,3,0
+239,Glyph Tassets,Glyph Tassets,mh4g-dex-build7+mh4edit-mit-save-id,3,0
+240,Auroros Tassets,Auroros Tassets,mh4g-dex-build7+mh4edit-mit-save-id,3,0
+241,Borealis Tassets,Borealis Tassets,mh4g-dex-build7+mh4edit-mit-save-id,3,0
+242,Genesis Tassets,Genesis Tassets,mh4g-dex-build7+mh4edit-mit-save-id,3,0
+243,Glyph Tassets,Glyph Tassets,mh4g-dex-build7+mh4edit-mit-save-id,3,0
+244,Lava Tassets,Lava Tassets,mh4g-dex-build7+mh4edit-mit-save-id,3,0
+245,Lava Coat,Lava Coat,mh4g-dex-build7+mh4edit-mit-save-id,3,0
+246,Remobra Belt,Remobra Belt,mh4g-dex-build7+mh4edit-mit-save-id,2,0
+247,Remobra Band,Remobra Band,mh4g-dex-build7+mh4edit-mit-save-id,2,0
+248,Remobra Belt S,Remobra Belt S,mh4g-dex-build7+mh4edit-mit-save-id,4,0
+249,Remobra Band S,Remobra Band S,mh4g-dex-build7+mh4edit-mit-save-id,4,0
+250,Zamtrios Faulds,Zamtrios Faulds,mh4g-dex-build7+mh4edit-mit-save-id,2,0
+251,Zamtrios Coat,Zamtrios Coat,mh4g-dex-build7+mh4edit-mit-save-id,2,0
+252,Zamtrios Faulds S,Zamtrios Faulds S,mh4g-dex-build7+mh4edit-mit-save-id,5,0
+253,Zamtrios Coat S,Zamtrios Coat S,mh4g-dex-build7+mh4edit-mit-save-id,5,0
+254,Seltas Faulds,Seltas Faulds,mh4g-dex-build7+mh4edit-mit-save-id,3,0
+255,Seltas Coat,Seltas Coat,mh4g-dex-build7+mh4edit-mit-save-id,3,0
+256,Seltas Faulds S,Seltas Faulds S,mh4g-dex-build7+mh4edit-mit-save-id,5,0
+257,Seltas Coat S,Seltas Coat S,mh4g-dex-build7+mh4edit-mit-save-id,5,0
+258,Arc Faulds,Arc Faulds,mh4g-dex-build7+mh4edit-mit-save-id,3,0
+259,Arc Coat,Arc Coat,mh4g-dex-build7+mh4edit-mit-save-id,3,0
+260,Arc Faulds S,Arc Faulds S,mh4g-dex-build7+mh4edit-mit-save-id,7,0
+261,Arc Coat S,Arc Coat S,mh4g-dex-build7+mh4edit-mit-save-id,7,0
+262,Arc Faulds,Arc Faulds,mh4g-dex-build7+mh4edit-mit-save-id,3,0
+263,Arc Coat,Arc Coat,mh4g-dex-build7+mh4edit-mit-save-id,3,0
+264,Kaiser Tassets,Kaiser Tassets,mh4g-dex-build7+mh4edit-mit-save-id,7,0
+265,Kaiser Coat,Kaiser Coat,mh4g-dex-build7+mh4edit-mit-save-id,7,0
+266,Golden Obi,Golden Obi,mh4g-dex-build7+mh4edit-mit-save-id,7,0
+267,Puppeteer Obi,Puppeteer Obi,mh4g-dex-build7+mh4edit-mit-save-id,7,0
+268,Divine Ire Obi,Divine Ire Obi,mh4g-dex-build7+mh4edit-mit-save-id,7,0
+269,Crusher Belt,Crusher Belt,mh4g-dex-build7+mh4edit-mit-save-id,7,0
+270,Rebellion Coil,Rebellion Coil,mh4g-dex-build7+mh4edit-mit-save-id,7,0
+271,Riot Coat,Riot Coat,mh4g-dex-build7+mh4edit-mit-save-id,7,0
+272,Rebellion Coil,Rebellion Coil,mh4g-dex-build7+mh4edit-mit-save-id,7,0
+273,Riot Coat,Riot Coat,mh4g-dex-build7+mh4edit-mit-save-id,7,0
+274,Dragonbarbs X,Dragonbarbs X,mh4g-dex-build7+mh4edit-mit-save-id,10,0
+275,Dragonsheath X,Dragonsheath X,mh4g-dex-build7+mh4edit-mit-save-id,10,0
+276,Dragonbarbs,Dragonbarbs,mh4g-dex-build7+mh4edit-mit-save-id,7,0
+277,Dragonsheath,Dragonsheath,mh4g-dex-build7+mh4edit-mit-save-id,7,0
+278,Fatalis Crimsonwings,Fatalis Crimsonwings,mh4g-dex-build7+mh4edit-mit-save-id,7,0
+279,Fatalis Crimsontail,Fatalis Crimsontail,mh4g-dex-build7+mh4edit-mit-save-id,7,0
+280,Cephalos Tassets,Cephalos Tassets,mh4g-dex-build7+mh4edit-mit-save-id,4,0
+281,Cephalos Coat,Cephalos Coat,mh4g-dex-build7+mh4edit-mit-save-id,4,0
+282,Mizuha Sash,Mizuha Sash,mh4g-dex-build7+mh4edit-mit-save-id,7,0
+283,Cham Coat,Cham Coat,mh4g-dex-build7+mh4edit-mit-save-id,7,0
+284,Hermitaur Tassets,Hermitaur Tassets,mh4g-dex-build7+mh4edit-mit-save-id,4,0
+285,Hermitaur Coat,Hermitaur Coat,mh4g-dex-build7+mh4edit-mit-save-id,4,0
+286,Hermitaur Tassets,Hermitaur Tassets,mh4g-dex-build7+mh4edit-mit-save-id,4,0
+287,Hermitaur Coat,Hermitaur Coat,mh4g-dex-build7+mh4edit-mit-save-id,4,0
+288,Vespoid Tassets,Vespoid Tassets,mh4g-dex-build7+mh4edit-mit-save-id,4,0
+289,Vespoid Coat,Vespoid Coat,mh4g-dex-build7+mh4edit-mit-save-id,4,0
+290,Qurupeco Coil,Qurupeco Coil,mh4g-dex-build7+mh4edit-mit-save-id,4,0
+291,Qurupeco Coat,Qurupeco Coat,mh4g-dex-build7+mh4edit-mit-save-id,4,0
+292,Agnaktor Faulds,Agnaktor Faulds,mh4g-dex-build7+mh4edit-mit-save-id,6,0
+293,Agnaktor Coat,Agnaktor Coat,mh4g-dex-build7+mh4edit-mit-save-id,6,0
+294,Barioth Faulds,Barioth Faulds,mh4g-dex-build7+mh4edit-mit-save-id,5,0
+295,Barioth Coat,Barioth Coat,mh4g-dex-build7+mh4edit-mit-save-id,5,0
+296,Volvidon Faulds,Volvidon Faulds,mh4g-dex-build7+mh4edit-mit-save-id,4,0
+297,Volvidon Coat,Volvidon Coat,mh4g-dex-build7+mh4edit-mit-save-id,4,0
+298,Lagiacrus Faulds,Lagiacrus Faulds,mh4g-dex-build7+mh4edit-mit-save-id,6,0
+299,Lagiacrus Coat,Lagiacrus Coat,mh4g-dex-build7+mh4edit-mit-save-id,6,0
+300,Lagiacrus Faulds,Lagiacrus Faulds,mh4g-dex-build7+mh4edit-mit-save-id,6,0
+301,Lagiacrus Coat,Lagiacrus Coat,mh4g-dex-build7+mh4edit-mit-save-id,6,0
+302,Helios Coil,Helios Coil,mh4g-dex-build7+mh4edit-mit-save-id,7,0
+303,Helios Coat,Helios Coat,mh4g-dex-build7+mh4edit-mit-save-id,7,0
+304,Selene Coil,Selene Coil,mh4g-dex-build7+mh4edit-mit-save-id,7,0
+305,Selene Coat,Selene Coat,mh4g-dex-build7+mh4edit-mit-save-id,7,0
+306,Gobul Faulds,Gobul Faulds,mh4g-dex-build7+mh4edit-mit-save-id,5,0
+307,Gobul Coat,Gobul Coat,mh4g-dex-build7+mh4edit-mit-save-id,5,0
+308,Yamato Koshiate,Yamato Koshiate,mh4g-dex-build7+mh4edit-mit-save-id,7,0
+309,Hyuga Koshiate,Hyuga Koshiate,mh4g-dex-build7+mh4edit-mit-save-id,7,0
+310,Mutsu Koshiate,Mutsu Koshiate,mh4g-dex-build7+mh4edit-mit-save-id,7,0
+311,Amagi Koshiate,Amagi Koshiate,mh4g-dex-build7+mh4edit-mit-save-id,7,0
+312,Escadora Might,Escadora Might,mh4g-dex-build7+mh4edit-mit-save-id,7,0
+313,Escadora Force,Escadora Force,mh4g-dex-build7+mh4edit-mit-save-id,7,0
+314,Escadora Might,Escadora Might,mh4g-dex-build7+mh4edit-mit-save-id,7,0
+315,Escadora Force,Escadora Force,mh4g-dex-build7+mh4edit-mit-save-id,7,0
+316,Blango Tassets,Blango Tassets,mh4g-dex-build7+mh4edit-mit-save-id,5,0
+317,Blango Coat,Blango Coat,mh4g-dex-build7+mh4edit-mit-save-id,5,0
+318,Lobster Coil,Lobster Coil,mh4g-dex-build7+mh4edit-mit-save-id,4,0
+319,Lobster Coat,Lobster Coat,mh4g-dex-build7+mh4edit-mit-save-id,4,0
+320,Ukanlos Cincture,Ukanlos Cincture,mh4g-dex-build7+mh4edit-mit-save-id,7,0
+321,Ukanlos Sash,Ukanlos Sash,mh4g-dex-build7+mh4edit-mit-save-id,7,0
+322,Indra Wrap,Indra Wrap,mh4g-dex-build7+mh4edit-mit-save-id,7,0
+323,Steadfast Coat,Steadfast Coat,mh4g-dex-build7+mh4edit-mit-save-id,7,0
+324,Yaksha Coil,Yaksha Coil,mh4g-dex-build7+mh4edit-mit-save-id,7,0
+325,Carnage Wrap,Carnage Wrap,mh4g-dex-build7+mh4edit-mit-save-id,7,0
+326,Chrome Metal Coil,Chrome Metal Coil,mh4g-dex-build7+mh4edit-mit-save-id,4,0
+327,Chrome Metal Coat,Chrome Metal Coat,mh4g-dex-build7+mh4edit-mit-save-id,4,0
+328,Artian Coil S,Artian Coil S,mh4g-dex-build7+mh4edit-mit-save-id,5,0
+329,Artian Coat S,Artian Coat S,mh4g-dex-build7+mh4edit-mit-save-id,5,0
+330,Dober Coil,Dober Coil,mh4g-dex-build7+mh4edit-mit-save-id,6,0
+331,Dober Coat,Dober Coat,mh4g-dex-build7+mh4edit-mit-save-id,6,0
+332,Ingot Coil,Ingot Coil,mh4g-dex-build7+mh4edit-mit-save-id,3,0
+333,Ingot Coat,Ingot Coat,mh4g-dex-build7+mh4edit-mit-save-id,3,0
+334,Ingot Coil,Ingot Coil,mh4g-dex-build7+mh4edit-mit-save-id,3,0
+335,Ingot Coat,Ingot Coat,mh4g-dex-build7+mh4edit-mit-save-id,3,0
+336,Aelucanth Elytra,Aelucanth Elytra,mh4g-dex-build7+mh4edit-mit-save-id,4,0
+337,Rhopessa Elytra,Rhopessa Elytra,mh4g-dex-build7+mh4edit-mit-save-id,4,0
+338,Aelucanth Alae,Aelucanth Alae,mh4g-dex-build7+mh4edit-mit-save-id,4,0
+339,Rhopessa Alae,Rhopessa Alae,mh4g-dex-build7+mh4edit-mit-save-id,4,0
+340,Obituary Elytra,Obituary Elytra,mh4g-dex-build7+mh4edit-mit-save-id,5,0
+341,Butterfly Elytra,Butterfly Elytra,mh4g-dex-build7+mh4edit-mit-save-id,5,0
+342,Obituary Alae,Obituary Alae,mh4g-dex-build7+mh4edit-mit-save-id,5,0
+343,Butterfly Alae,Butterfly Alae,mh4g-dex-build7+mh4edit-mit-save-id,5,0
+344,Mosgharl Folia,Mosgharl Folia,mh4g-dex-build7+mh4edit-mit-save-id,4,0
+345,Mosgharl Fronds,Mosgharl Fronds,mh4g-dex-build7+mh4edit-mit-save-id,4,0
+346,Guild Bard Coil,Guild Bard Coil,mh4g-dex-build7+mh4edit-mit-save-id,4,0
+347,Scholar's Skirt,Scholar's Skirt,mh4g-dex-build7+mh4edit-mit-save-id,4,0
+348,Guild Bard Coat,Guild Bard Coat,mh4g-dex-build7+mh4edit-mit-save-id,4,0
+349,Scholar's Mini,Scholar's Mini,mh4g-dex-build7+mh4edit-mit-save-id,4,0
+350,Black Belt Tassets,Black Belt Tassets,mh4g-dex-build7+mh4edit-mit-save-id,6,0
+351,Black Belt Coat,Black Belt Coat,mh4g-dex-build7+mh4edit-mit-save-id,6,0
+352,Guardian Coil,Guardian Coil,mh4g-dex-build7+mh4edit-mit-save-id,4,0
+353,Helper Skirt,Helper Skirt,mh4g-dex-build7+mh4edit-mit-save-id,4,0
+354,Guardian Coat,Guardian Coat,mh4g-dex-build7+mh4edit-mit-save-id,4,0
+355,Helper Frills,Helper Frills,mh4g-dex-build7+mh4edit-mit-save-id,4,0
+356,Shinobi Sky Belt,Shinobi Sky Belt,mh4g-dex-build7+mh4edit-mit-save-id,7,0
+357,Shinobi Land Belt,Shinobi Land Belt,mh4g-dex-build7+mh4edit-mit-save-id,7,0
+358,Guild Knight Coat,Guild Knight Coat,mh4g-dex-build7+mh4edit-mit-save-id,6,0
+359,Maiden's Skirt,Maiden's Skirt,mh4g-dex-build7+mh4edit-mit-save-id,6,0
+360,Guild Knight Kilt,Guild Knight Kilt,mh4g-dex-build7+mh4edit-mit-save-id,6,0
+361,Maiden's Frills,Maiden's Frills,mh4g-dex-build7+mh4edit-mit-save-id,6,0
+362,Yukumo Sky Obi,Yukumo Sky Obi,mh4g-dex-build7+mh4edit-mit-save-id,6,0
+363,Yukumo Land Obi,Yukumo Land Obi,mh4g-dex-build7+mh4edit-mit-save-id,6,0
+364,High Metal Tassets,High Metal Tassets,mh4g-dex-build7+mh4edit-mit-save-id,2,0
+365,High Metal Coat,High Metal Coat,mh4g-dex-build7+mh4edit-mit-save-id,2,0
+366,Ranger's Sash,Ranger's Sash,mh4g-dex-build7+mh4edit-mit-save-id,6,0
+367,Archer's Belt,Archer's Belt,mh4g-dex-build7+mh4edit-mit-save-id,6,0
+368,Iron Belt,Iron Belt,mh4g-dex-build7+mh4edit-mit-save-id,1,0
+369,Light Belt,Light Belt,mh4g-dex-build7+mh4edit-mit-save-id,1,0
+370,Chakra Waistlet,Chakra Waistlet,mh4g-dex-build7+mh4edit-mit-save-id,5,0
+371,Sailor Skirt,Sailor Skirt,mh4g-dex-build7+mh4edit-mit-save-id,6,0
+372,Sailor Mini,Sailor Mini,mh4g-dex-build7+mh4edit-mit-save-id,6,0
+373,Hawkcoil,Hawkcoil,mh4g-dex-build7+mh4edit-mit-save-id,6,0
+374,Lecturer's Skirt,Lecturer's Skirt,mh4g-dex-build7+mh4edit-mit-save-id,6,0
+375,Hawkcoat,Hawkcoat,mh4g-dex-build7+mh4edit-mit-save-id,6,0
+376,Lecturer's Frills,Lecturer's Frills,mh4g-dex-build7+mh4edit-mit-save-id,6,0
+377,Blue Star Coil,Blue Star Coil,mh4g-dex-build7+mh4edit-mit-save-id,7,0
+378,Blue Star Coat,Blue Star Coat,mh4g-dex-build7+mh4edit-mit-save-id,7,0
+379,dummy702,dummy702,mh4edit-mit-save-id,0,0
+380,dummy714,dummy714,mh4edit-mit-save-id,0,0
+381,Uniqlo Pouch,Uniqlo Pouch,mh4g-dex-build7+mh4edit-mit-save-id,7,0
+382,Uniqlo Pochette,Uniqlo Pochette,mh4g-dex-build7+mh4edit-mit-save-id,7,0
+383,Star Rook Coil,Star Rook Coil,mh4g-dex-build7+mh4edit-mit-save-id,7,0
+384,Star Rook Coat,Star Rook Coat,mh4g-dex-build7+mh4edit-mit-save-id,7,0
+385,dummy706,dummy706,mh4edit-mit-save-id,0,0
+386,dummy718,dummy718,mh4edit-mit-save-id,0,0
+387,dummy707,dummy707,mh4edit-mit-save-id,0,0
+388,dummy719,dummy719,mh4edit-mit-save-id,0,0
+389,dummy709,dummy709,mh4edit-mit-save-id,0,0
+390,dummy721,dummy721,mh4edit-mit-save-id,0,0
+391,DUMMY,DUMMY,mh4edit-mit-save-id,0,0
+392,DUMMY,DUMMY,mh4edit-mit-save-id,0,0
+393,Artian Coil S,Artian Coil S,mh4g-dex-build7+mh4edit-mit-save-id,5,0
+394,Artian Coat S,Artian Coat S,mh4g-dex-build7+mh4edit-mit-save-id,5,0
+395,DUMMY,DUMMY,mh4edit-mit-save-id,0,0
+396,DUMMY,DUMMY,mh4edit-mit-save-id,0,0
+397,Hero's Belt,Hero's Belt,mh4g-dex-build7+mh4edit-mit-save-id,7,0
+398,Hero's Band,Hero's Band,mh4g-dex-build7+mh4edit-mit-save-id,7,0
+399,dummy731,dummy731,mh4edit-mit-save-id,0,0
+400,dummy732,dummy732,mh4edit-mit-save-id,0,0
+401,EX Rebellion Coil,EX Rebellion Coil,mh4g-dex-build7+mh4edit-mit-save-id,7,0
+402,EX Riot Coat,EX Riot Coat,mh4g-dex-build7+mh4edit-mit-save-id,7,0
+403,EX Gore Faulds,EX Gore Faulds,mh4g-dex-build7+mh4edit-mit-save-id,7,0
+404,EX Gore Coat,EX Gore Coat,mh4g-dex-build7+mh4edit-mit-save-id,7,0
+405,EX Ingot Coil,EX Ingot Coil,mh4g-dex-build7+mh4edit-mit-save-id,7,0
+406,EX Ingot Coat,EX Ingot Coat,mh4g-dex-build7+mh4edit-mit-save-id,7,0
+407,EX Kirin Hoop U,EX Kirin Hoop U,mh4g-dex-build7+mh4edit-mit-save-id,7,0
+408,EX Kirin Shorts U,EX Kirin Shorts U,mh4g-dex-build7+mh4edit-mit-save-id,7,0
+409,EX Artian Coil,EX Artian Coil,mh4g-dex-build7+mh4edit-mit-save-id,7,0
+410,EX Artian Coat,EX Artian Coat,mh4g-dex-build7+mh4edit-mit-save-id,7,0
+411,Storge Faulds,Storge Faulds,mh4g-dex-build7+mh4edit-mit-save-id,3,0
+412,Storge Coat,Storge Coat,mh4g-dex-build7+mh4edit-mit-save-id,3,0
+413,Storge Faulds S,Storge Faulds S,mh4g-dex-build7+mh4edit-mit-save-id,7,0
+414,Storge Coat S,Storge Coat S,mh4g-dex-build7+mh4edit-mit-save-id,7,0
+415,Storge Faulds,Storge Faulds,mh4g-dex-build7+mh4edit-mit-save-id,3,0
+416,Storge Coat,Storge Coat,mh4g-dex-build7+mh4edit-mit-save-id,3,0
+417,Hunter's Faulds,Hunter's Faulds,mh4g-dex-build7+mh4edit-mit-save-id,1,0
+418,Hunter's Coat,Hunter's Coat,mh4g-dex-build7+mh4edit-mit-save-id,1,0
+419,Alloy Coil,Alloy Coil,mh4g-dex-build7+mh4edit-mit-save-id,1,0
+420,Alloy Coat,Alloy Coat,mh4g-dex-build7+mh4edit-mit-save-id,1,0
+421,Ludroth Faulds,Ludroth Faulds,mh4g-dex-build7+mh4edit-mit-save-id,2,0
+422,Ludroth Coat,Ludroth Coat,mh4g-dex-build7+mh4edit-mit-save-id,2,0
+423,Rathian Faulds,Rathian Faulds,mh4g-dex-build7+mh4edit-mit-save-id,2,0
+424,Rathian Coat,Rathian Coat,mh4g-dex-build7+mh4edit-mit-save-id,2,0
+425,Rath Heart Coil,Rath Heart Coil,mh4g-dex-build7+mh4edit-mit-save-id,6,0
+426,Rath Heart Coat,Rath Heart Coat,mh4g-dex-build7+mh4edit-mit-save-id,6,0
+427,Rathalos Faulds,Rathalos Faulds,mh4g-dex-build7+mh4edit-mit-save-id,3,0
+428,Rathalos Coat,Rathalos Coat,mh4g-dex-build7+mh4edit-mit-save-id,3,0
+429,Rath Soul Coil,Rath Soul Coil,mh4g-dex-build7+mh4edit-mit-save-id,6,0
+430,Rath Soul Coat,Rath Soul Coat,mh4g-dex-build7+mh4edit-mit-save-id,6,0
+431,Silver Solcoil,Silver Solcoil,mh4g-dex-build7+mh4edit-mit-save-id,7,0
+432,Silver Solcoat,Silver Solcoat,mh4g-dex-build7+mh4edit-mit-save-id,7,0
+433,Esurient Faulds,Esurient Faulds,mh4g-dex-build7+mh4edit-mit-save-id,7,0
+434,Esurient Coat,Esurient Coat,mh4g-dex-build7+mh4edit-mit-save-id,7,0
+435,Gloaming Girdle,Gloaming Girdle,mh4g-dex-build7+mh4edit-mit-save-id,3,0
+436,Adamance Girdle,Adamance Girdle,mh4g-dex-build7+mh4edit-mit-save-id,3,0
+437,Dayspring Girdle,Dayspring Girdle,mh4g-dex-build7+mh4edit-mit-save-id,3,0
+438,Epoch Girdle,Epoch Girdle,mh4g-dex-build7+mh4edit-mit-save-id,3,0
+439,Tigrex Tassets,Tigrex Tassets,mh4g-dex-build7+mh4edit-mit-save-id,3,0
+440,Tigrex Coat,Tigrex Coat,mh4g-dex-build7+mh4edit-mit-save-id,3,0
+441,Tigrex Tassets U,Tigrex Tassets U,mh4g-dex-build7+mh4edit-mit-save-id,6,0
+442,Tigrex Coat U,Tigrex Coat U,mh4g-dex-build7+mh4edit-mit-save-id,6,0
+443,Akantor Cincture,Akantor Cincture,mh4g-dex-build7+mh4edit-mit-save-id,7,0
+444,Akantor Sash,Akantor Sash,mh4g-dex-build7+mh4edit-mit-save-id,7,0
+445,Zinogre Faulds U,Zinogre Faulds U,mh4g-dex-build7+mh4edit-mit-save-id,6,0
+446,Zinogre Coat U,Zinogre Coat U,mh4g-dex-build7+mh4edit-mit-save-id,6,0
+447,Gore Faulds,Gore Faulds,mh4g-dex-build7+mh4edit-mit-save-id,3,0
+448,Gore Coat,Gore Coat,mh4g-dex-build7+mh4edit-mit-save-id,3,0
+449,Gypceros Tassets,Gypceros Tassets,mh4g-dex-build7+mh4edit-mit-save-id,2,0
+450,Gypceros Coat,Gypceros Coat,mh4g-dex-build7+mh4edit-mit-save-id,2,0
+451,Gypceros Tassets U,Gypceros Tassets U,mh4g-dex-build7+mh4edit-mit-save-id,6,0
+452,Gypceros Coat U,Gypceros Coat U,mh4g-dex-build7+mh4edit-mit-save-id,6,0
+453,Khezu Tassets,Khezu Tassets,mh4g-dex-build7+mh4edit-mit-save-id,2,0
+454,Khezu Coat,Khezu Coat,mh4g-dex-build7+mh4edit-mit-save-id,2,0
+455,Khezu Tassets U,Khezu Tassets U,mh4g-dex-build7+mh4edit-mit-save-id,6,0
+456,Khezu Coat U,Khezu Coat U,mh4g-dex-build7+mh4edit-mit-save-id,6,0
+457,Kirin Hoop,Kirin Hoop,mh4g-dex-build7+mh4edit-mit-save-id,3,0
+458,Kirin Shorts,Kirin Shorts,mh4g-dex-build7+mh4edit-mit-save-id,3,0
+459,Kirin Hoop U,Kirin Hoop U,mh4g-dex-build7+mh4edit-mit-save-id,7,0
+460,Kirin Shorts U,Kirin Shorts U,mh4g-dex-build7+mh4edit-mit-save-id,7,0
+461,Kushala Cocoon,Kushala Cocoon,mh4g-dex-build7+mh4edit-mit-save-id,7,0
+462,Kushala Wind Wrap,Kushala Wind Wrap,mh4g-dex-build7+mh4edit-mit-save-id,7,0
+463,Ceanataur Tassets,Ceanataur Tassets,mh4g-dex-build7+mh4edit-mit-save-id,2,0
+464,Ceanataur Coat,Ceanataur Coat,mh4g-dex-build7+mh4edit-mit-save-id,2,0
+465,Auroros Tassets,Auroros Tassets,mh4g-dex-build7+mh4edit-mit-save-id,3,0
+466,Borealis Tassets,Borealis Tassets,mh4g-dex-build7+mh4edit-mit-save-id,3,0
+467,Genesis Tassets,Genesis Tassets,mh4g-dex-build7+mh4edit-mit-save-id,3,0
+468,Glyph Tassets,Glyph Tassets,mh4g-dex-build7+mh4edit-mit-save-id,3,0
+469,Arc Faulds,Arc Faulds,mh4g-dex-build7+mh4edit-mit-save-id,3,0
+470,Arc Coat,Arc Coat,mh4g-dex-build7+mh4edit-mit-save-id,3,0
+471,Rebellion Coil,Rebellion Coil,mh4g-dex-build7+mh4edit-mit-save-id,7,0
+472,Riot Coat,Riot Coat,mh4g-dex-build7+mh4edit-mit-save-id,7,0
+473,Dragonbarbs X,Dragonbarbs X,mh4g-dex-build7+mh4edit-mit-save-id,10,0
+474,Dragonsheath X,Dragonsheath X,mh4g-dex-build7+mh4edit-mit-save-id,10,0
+475,Hermitaur Tassets,Hermitaur Tassets,mh4g-dex-build7+mh4edit-mit-save-id,4,0
+476,Hermitaur Coat,Hermitaur Coat,mh4g-dex-build7+mh4edit-mit-save-id,4,0
+477,Lagiacrus Faulds,Lagiacrus Faulds,mh4g-dex-build7+mh4edit-mit-save-id,6,0
+478,Lagiacrus Coat,Lagiacrus Coat,mh4g-dex-build7+mh4edit-mit-save-id,6,0
+479,Escadora Might,Escadora Might,mh4g-dex-build7+mh4edit-mit-save-id,7,0
+480,Escadora Force,Escadora Force,mh4g-dex-build7+mh4edit-mit-save-id,7,0
+481,Ingot Coil,Ingot Coil,mh4g-dex-build7+mh4edit-mit-save-id,3,0
+482,Ingot Coat,Ingot Coat,mh4g-dex-build7+mh4edit-mit-save-id,3,0
+483,Artian Coil S,Artian Coil S,mh4g-dex-build7+mh4edit-mit-save-id,5,0
+484,Artian Coat S,Artian Coat S,mh4g-dex-build7+mh4edit-mit-save-id,5,0
+485,Storge Faulds,Storge Faulds,mh4g-dex-build7+mh4edit-mit-save-id,3,0
+486,Storge Coat,Storge Coat,mh4g-dex-build7+mh4edit-mit-save-id,3,0
+487,Velociprey Tassets X,Velociprey Tassets X,mh4g-dex-build7+mh4edit-mit-save-id,8,0
+488,Velociprey Coat X,Velociprey Coat X,mh4g-dex-build7+mh4edit-mit-save-id,8,0
+489,Ioprey Tassets X,Ioprey Tassets X,mh4g-dex-build7+mh4edit-mit-save-id,8,0
+490,Ioprey Coat X,Ioprey Coat X,mh4g-dex-build7+mh4edit-mit-save-id,8,0
+491,Kecha Faulds X,Kecha Faulds X,mh4g-dex-build7+mh4edit-mit-save-id,8,0
+492,Kecha Coat X,Kecha Coat X,mh4g-dex-build7+mh4edit-mit-save-id,8,0
+493,Kecha Faulds Z,Kecha Faulds Z,mh4g-dex-build7+mh4edit-mit-save-id,8,0
+494,Kecha Coat Z,Kecha Coat Z,mh4g-dex-build7+mh4edit-mit-save-id,8,0
+495,Tetsucabra Faulds X,Tetsucabra Faulds X,mh4g-dex-build7+mh4edit-mit-save-id,8,0
+496,Tetsucabra Coat X,Tetsucabra Coat X,mh4g-dex-build7+mh4edit-mit-save-id,8,0
+497,Tetsucabra Faulds Z,Tetsucabra Faulds Z,mh4g-dex-build7+mh4edit-mit-save-id,8,0
+498,Tetsucabra Coat Z,Tetsucabra Coat Z,mh4g-dex-build7+mh4edit-mit-save-id,8,0
+499,Nerscylla Faulds X,Nerscylla Faulds X,mh4g-dex-build7+mh4edit-mit-save-id,8,0
+500,Nerscylla Coat X,Nerscylla Coat X,mh4g-dex-build7+mh4edit-mit-save-id,8,0
+501,Nerscylla Faulds Z,Nerscylla Faulds Z,mh4g-dex-build7+mh4edit-mit-save-id,9,0
+502,Nerscylla Coat Z,Nerscylla Coat Z,mh4g-dex-build7+mh4edit-mit-save-id,9,0
+503,Zamtrios Faulds X,Zamtrios Faulds X,mh4g-dex-build7+mh4edit-mit-save-id,8,0
+504,Zamtrios Coat X,Zamtrios Coat X,mh4g-dex-build7+mh4edit-mit-save-id,8,0
+505,Zamtrios Faulds Z,Zamtrios Faulds Z,mh4g-dex-build7+mh4edit-mit-save-id,8,0
+506,Zamtrios Coat Z,Zamtrios Coat Z,mh4g-dex-build7+mh4edit-mit-save-id,8,0
+507,Najarala Faulds X,Najarala Faulds X,mh4g-dex-build7+mh4edit-mit-save-id,8,0
+508,Najarala Coat X,Najarala Coat X,mh4g-dex-build7+mh4edit-mit-save-id,8,0
+509,Najarala Faulds Z,Najarala Faulds Z,mh4g-dex-build7+mh4edit-mit-save-id,8,0
+510,Najarala Coat Z,Najarala Coat Z,mh4g-dex-build7+mh4edit-mit-save-id,8,0
+511,Seltas Faulds X,Seltas Faulds X,mh4g-dex-build7+mh4edit-mit-save-id,9,0
+512,Seltas Coat X,Seltas Coat X,mh4g-dex-build7+mh4edit-mit-save-id,9,0
+513,Seltas Faulds Z,Seltas Faulds Z,mh4g-dex-build7+mh4edit-mit-save-id,9,0
+514,Seltas Coat Z,Seltas Coat Z,mh4g-dex-build7+mh4edit-mit-save-id,9,0
+515,Gore Faulds X,Gore Faulds X,mh4g-dex-build7+mh4edit-mit-save-id,9,0
+516,Gore Coat X,Gore Coat X,mh4g-dex-build7+mh4edit-mit-save-id,9,0
+517,Gore Base,Gore Base,mh4edit-mit-save-id,0,0
+518,Gore Tuilles,Gore Tuilles,mh4edit-mit-save-id,0,0
+519,Arc Faulds X,Arc Faulds X,mh4g-dex-build7+mh4edit-mit-save-id,10,0
+520,Storge Faulds X,Storge Faulds X,mh4g-dex-build7+mh4edit-mit-save-id,10,0
+521,Arc Coat X,Arc Coat X,mh4g-dex-build7+mh4edit-mit-save-id,10,0
+522,Storge Coat X,Storge Coat X,mh4g-dex-build7+mh4edit-mit-save-id,10,0
+523,Arc Base,Arc Base,mh4edit-mit-save-id,0,0
+524,Storge Base,Storge Base,mh4edit-mit-save-id,0,0
+525,Arc Tuilles,Arc Tuilles,mh4edit-mit-save-id,0,0
+526,Storge Tuilles,Storge Tuilles,mh4edit-mit-save-id,0,0
+527,Gogma Faulds,Gogma Faulds,mh4g-dex-build7+mh4edit-mit-save-id,10,0
+528,Gogma Coat,Gogma Coat,mh4g-dex-build7+mh4edit-mit-save-id,10,0
+529,Gypceros Tassets X,Gypceros Tassets X,mh4g-dex-build7+mh4edit-mit-save-id,8,0
+530,Gypceros Coat X,Gypceros Coat X,mh4g-dex-build7+mh4edit-mit-save-id,8,0
+531,Gypceros Base,Gypceros Base,mh4edit-mit-save-id,0,0
+532,Gypceros Tuilles,Gypceros Tuilles,mh4edit-mit-save-id,0,0
+533,Gypceros Tassets Z,Gypceros Tassets Z,mh4g-dex-build7+mh4edit-mit-save-id,8,0
+534,Gypceros Coat Z,Gypceros Coat Z,mh4g-dex-build7+mh4edit-mit-save-id,8,0
+535,Gypceros Base U,Gypceros Base U,mh4edit-mit-save-id,0,0
+536,Gypceros Tuilles U,Gypceros Tuilles U,mh4edit-mit-save-id,0,0
+537,Lagombi Faulds X,Lagombi Faulds X,mh4g-dex-build7+mh4edit-mit-save-id,8,0
+538,Lagombi Coat X,Lagombi Coat X,mh4g-dex-build7+mh4edit-mit-save-id,8,0
+539,Conga Tassets X,Conga Tassets X,mh4g-dex-build7+mh4edit-mit-save-id,8,0
+540,Conga Coat X,Conga Coat X,mh4g-dex-build7+mh4edit-mit-save-id,8,0
+541,Conga Tassets Z,Conga Tassets Z,mh4g-dex-build7+mh4edit-mit-save-id,8,0
+542,Conga Coat Z,Conga Coat Z,mh4g-dex-build7+mh4edit-mit-save-id,8,0
+543,Khezu Tassets X,Khezu Tassets X,mh4g-dex-build7+mh4edit-mit-save-id,8,0
+544,Khezu Coat X,Khezu Coat X,mh4g-dex-build7+mh4edit-mit-save-id,8,0
+545,Khezu Base,Khezu Base,mh4edit-mit-save-id,0,0
+546,Khezu Tuilles,Khezu Tuilles,mh4edit-mit-save-id,0,0
+547,Khezu Tassets Z,Khezu Tassets Z,mh4g-dex-build7+mh4edit-mit-save-id,8,0
+548,Khezu Coat Z,Khezu Coat Z,mh4g-dex-build7+mh4edit-mit-save-id,8,0
+549,Khezu Base U,Khezu Base U,mh4edit-mit-save-id,0,0
+550,Khezu Tuilles U,Khezu Tuilles U,mh4edit-mit-save-id,0,0
+551,Rathian Faulds X,Rathian Faulds X,mh4g-dex-build7+mh4edit-mit-save-id,8,0
+552,Rathian Coat X,Rathian Coat X,mh4g-dex-build7+mh4edit-mit-save-id,8,0
+553,Rathian Base,Rathian Base,mh4edit-mit-save-id,0,0
+554,Rathian Tuilles,Rathian Tuilles,mh4edit-mit-save-id,0,0
+555,Rath Heart Coil Z,Rath Heart Coil Z,mh4g-dex-build7+mh4edit-mit-save-id,8,0
+556,Rath Heart Coat Z,Rath Heart Coat Z,mh4g-dex-build7+mh4edit-mit-save-id,8,0
+557,Rath Heart Base,Rath Heart Base,mh4edit-mit-save-id,0,0
+558,Rath Heart Tuilles,Rath Heart Tuilles,mh4edit-mit-save-id,0,0
+559,Golden Lunecoil Z,Golden Lunecoil Z,mh4g-dex-build7+mh4edit-mit-save-id,10,0
+560,Golden Lunecoat Z,Golden Lunecoat Z,mh4g-dex-build7+mh4edit-mit-save-id,10,0
+561,Rathalos Faulds X,Rathalos Faulds X,mh4g-dex-build7+mh4edit-mit-save-id,9,0
+562,Rathalos Coat X,Rathalos Coat X,mh4g-dex-build7+mh4edit-mit-save-id,9,0
+563,Rathalos Base,Rathalos Base,mh4edit-mit-save-id,0,0
+564,Rathalos Tuilles,Rathalos Tuilles,mh4edit-mit-save-id,0,0
+565,Rath Soul Coil Z,Rath Soul Coil Z,mh4g-dex-build7+mh4edit-mit-save-id,9,0
+566,Rath Soul Coat Z,Rath Soul Coat Z,mh4g-dex-build7+mh4edit-mit-save-id,9,0
+567,Rath Soul Base,Rath Soul Base,mh4edit-mit-save-id,0,0
+568,Rath Soul Tuilles,Rath Soul Tuilles,mh4edit-mit-save-id,0,0
+569,Silver Solcoil Z,Silver Solcoil Z,mh4g-dex-build7+mh4edit-mit-save-id,10,0
+570,Silver Solcoat Z,Silver Solcoat Z,mh4g-dex-build7+mh4edit-mit-save-id,10,0
+571,Silver Solbase,Silver Solbase,mh4edit-mit-save-id,0,0
+572,Silver Soltuilles,Silver Soltuilles,mh4edit-mit-save-id,0,0
+573,Zinogre Faulds X,Zinogre Faulds X,mh4g-dex-build7+mh4edit-mit-save-id,9,0
+574,Zinogre Coat X,Zinogre Coat X,mh4g-dex-build7+mh4edit-mit-save-id,9,0
+575,Zinogre Faulds Z,Zinogre Faulds Z,mh4g-dex-build7+mh4edit-mit-save-id,9,0
+576,Zinogre Coat Z,Zinogre Coat Z,mh4g-dex-build7+mh4edit-mit-save-id,9,0
+577,Zinogre Base U,Zinogre Base U,mh4edit-mit-save-id,0,0
+578,Zinogre Tuilles U,Zinogre Tuilles U,mh4edit-mit-save-id,0,0
+579,Tigrex Tassets X,Tigrex Tassets X,mh4g-dex-build7+mh4edit-mit-save-id,9,0
+580,Tigrex Coat X,Tigrex Coat X,mh4g-dex-build7+mh4edit-mit-save-id,9,0
+581,Tigrex Base,Tigrex Base,mh4edit-mit-save-id,0,0
+582,Tigrex Tuilles,Tigrex Tuilles,mh4edit-mit-save-id,0,0
+583,Tigrex Tassets Z,Tigrex Tassets Z,mh4g-dex-build7+mh4edit-mit-save-id,9,0
+584,Tigrex Coat Z,Tigrex Coat Z,mh4g-dex-build7+mh4edit-mit-save-id,9,0
+585,Tigrex Base U,Tigrex Base U,mh4edit-mit-save-id,0,0
+586,Tigrex Tuilles U,Tigrex Tuilles U,mh4edit-mit-save-id,0,0
+587,Excello Coil Z,Excello Coil Z,mh4g-dex-build7+mh4edit-mit-save-id,10,0
+588,Excello Coat Z,Excello Coat Z,mh4g-dex-build7+mh4edit-mit-save-id,10,0
+589,Gravios Tassets X,Gravios Tassets X,mh4g-dex-build7+mh4edit-mit-save-id,9,0
+590,Gravios Coat X,Gravios Coat X,mh4g-dex-build7+mh4edit-mit-save-id,9,0
+591,Gravios Tassets Z,Gravios Tassets Z,mh4g-dex-build7+mh4edit-mit-save-id,9,0
+592,Gravios Coat Z,Gravios Coat Z,mh4g-dex-build7+mh4edit-mit-save-id,9,0
+593,Brachydios Faulds X,Brachydios Faulds X,mh4g-dex-build7+mh4edit-mit-save-id,9,0
+594,Brachydios Coat X,Brachydios Coat X,mh4g-dex-build7+mh4edit-mit-save-id,9,0
+595,Brachydium Faulds,Brachydium Faulds,mh4g-dex-build7+mh4edit-mit-save-id,10,0
+596,Brachydium Coat,Brachydium Coat,mh4g-dex-build7+mh4edit-mit-save-id,10,0
+597,Grand Gloaming Girdle,Grand Gloaming Girdle,mh4g-dex-build7+mh4edit-mit-save-id,10,0
+598,Grand Adamance Girdle,Grand Adamance Girdle,mh4g-dex-build7+mh4edit-mit-save-id,10,0
+599,Grand Dayspring Girdle,Grand Dayspring Girdle,mh4g-dex-build7+mh4edit-mit-save-id,10,0
+600,Grand Epoch Girdle,Grand Epoch Girdle,mh4g-dex-build7+mh4edit-mit-save-id,10,0
+601,Gloaming Redfaulds,Gloaming Redfaulds,mh4edit-mit-save-id,0,0
+602,Adamance Redfaulds,Adamance Redfaulds,mh4edit-mit-save-id,0,0
+603,Dayspring Redfaulds,Dayspring Redfaulds,mh4edit-mit-save-id,0,0
+604,Epoch Redfaulds,Epoch Redfaulds,mh4edit-mit-save-id,0,0
+605,Vangis Coil X,Vangis Coil X,mh4g-dex-build7+mh4edit-mit-save-id,9,0
+606,Vangis Coat X,Vangis Coat X,mh4g-dex-build7+mh4edit-mit-save-id,9,0
+607,Esurient Faulds Z,Esurient Faulds Z,mh4g-dex-build7+mh4edit-mit-save-id,10,0
+608,Esurient Coat Z,Esurient Coat Z,mh4g-dex-build7+mh4edit-mit-save-id,10,0
+609,Esurient Base,Esurient Base,mh4edit-mit-save-id,0,0
+610,Esurient Tuilles,Esurient Tuilles,mh4edit-mit-save-id,0,0
+611,Kaiser Tassets X,Kaiser Tassets X,mh4g-dex-build7+mh4edit-mit-save-id,10,0
+612,Kaiser Coat X,Kaiser Coat X,mh4g-dex-build7+mh4edit-mit-save-id,10,0
+613,Akantor Cincture X,Akantor Cincture X,mh4g-dex-build7+mh4edit-mit-save-id,10,0
+614,Akantor Sash X,Akantor Sash X,mh4g-dex-build7+mh4edit-mit-save-id,10,0
+615,Akantor Base,Akantor Base,mh4edit-mit-save-id,0,0
+616,Akantor Tuilles,Akantor Tuilles,mh4edit-mit-save-id,0,0
+617,EX Escadora Might,EX Escadora Might,mh4g-dex-build7+mh4edit-mit-save-id,10,0
+618,EX Escadora Force,EX Escadora Force,mh4g-dex-build7+mh4edit-mit-save-id,10,0
+619,Ukanlos Cincture X,Ukanlos Cincture X,mh4g-dex-build7+mh4edit-mit-save-id,10,0
+620,Ukanlos Sash X,Ukanlos Sash X,mh4g-dex-build7+mh4edit-mit-save-id,10,0
+621,Kushala Cocoon X,Kushala Cocoon X,mh4g-dex-build7+mh4edit-mit-save-id,10,0
+622,Kushala Wind Wrap X,Kushala Wind Wrap X,mh4g-dex-build7+mh4edit-mit-save-id,10,0
+623,Kushala Base,Kushala Base,mh4edit-mit-save-id,0,0
+624,Kushala Tuilles,Kushala Tuilles,mh4edit-mit-save-id,0,0
+625,Kujula Cocoon,Kujula Cocoon,mh4g-dex-build7+mh4edit-mit-save-id,10,0
+626,Kujula Wind Wrap,Kujula Wind Wrap,mh4g-dex-build7+mh4edit-mit-save-id,10,0
+627,Grand God's Peer Belt,Grand God's Peer Belt,mh4g-dex-build7+mh4edit-mit-save-id,10,0
+628,Grand Hermit Belt,Grand Hermit Belt,mh4g-dex-build7+mh4edit-mit-save-id,10,0
+629,Grand Divine Ire Obi,Grand Divine Ire Obi,mh4g-dex-build7+mh4edit-mit-save-id,10,0
+630,Grand Crusher Belt,Grand Crusher Belt,mh4g-dex-build7+mh4edit-mit-save-id,10,0
+631,Rebellion Coil X,Rebellion Coil X,mh4g-dex-build7+mh4edit-mit-save-id,10,0
+632,Riot Coat X,Riot Coat X,mh4g-dex-build7+mh4edit-mit-save-id,10,0
+633,Rebellion Base,Rebellion Base,mh4edit-mit-save-id,0,0
+634,Riot Tuilles,Riot Tuilles,mh4edit-mit-save-id,0,0
+635,Rebellion Coil Z,Rebellion Coil Z,mh4g-dex-build7+mh4edit-mit-save-id,10,0
+636,Riot Coat Z,Riot Coat Z,mh4g-dex-build7+mh4edit-mit-save-id,10,0
+637,Cephalos Tassets X,Cephalos Tassets X,mh4g-dex-build7+mh4edit-mit-save-id,8,0
+638,Cephalos Coat X,Cephalos Coat X,mh4g-dex-build7+mh4edit-mit-save-id,8,0
+639,Hermitaur Tassets X,Hermitaur Tassets X,mh4g-dex-build7+mh4edit-mit-save-id,8,0
+640,Hermitaur Coat X,Hermitaur Coat X,mh4g-dex-build7+mh4edit-mit-save-id,8,0
+641,Hermitaur Base,Hermitaur Base,mh4edit-mit-save-id,0,0
+642,Hermitaur Tuilles,Hermitaur Tuilles,mh4edit-mit-save-id,0,0
+643,Hermitaur Tassets Z,Hermitaur Tassets Z,mh4g-dex-build7+mh4edit-mit-save-id,8,0
+644,Hermitaur Coat Z,Hermitaur Coat Z,mh4g-dex-build7+mh4edit-mit-save-id,8,0
+645,Mono Coil S,Mono Coil S,mh4g-dex-build7+mh4edit-mit-save-id,5,0
+646,Mono Coat S,Mono Coat S,mh4g-dex-build7+mh4edit-mit-save-id,5,0
+647,Mono Coil X,Mono Coil X,mh4g-dex-build7+mh4edit-mit-save-id,9,0
+648,Mono Coat X,Mono Coat X,mh4g-dex-build7+mh4edit-mit-save-id,9,0
+649,Mono Coil,Mono Coil,mh4edit-mit-save-id,0,0
+650,Mono Coat,Mono Coat,mh4edit-mit-save-id,0,0
+651,Mono Base,Mono Base,mh4edit-mit-save-id,0,0
+652,Mono Tuilles,Mono Tuilles,mh4edit-mit-save-id,0,0
+653,Monodevil Coil,Monodevil Coil,mh4g-dex-build7+mh4edit-mit-save-id,9,0
+654,Monodevil Coat,Monodevil Coat,mh4g-dex-build7+mh4edit-mit-save-id,9,0
+655,Monodevil Coil,Monodevil Coil,mh4g-dex-build7+mh4edit-mit-save-id,9,0
+656,Monodevil Coat,Monodevil Coat,mh4g-dex-build7+mh4edit-mit-save-id,9,0
+657,Monodevil Base,Monodevil Base,mh4edit-mit-save-id,0,0
+658,Monodevil Tuilles,Monodevil Tuilles,mh4edit-mit-save-id,0,0
+659,Diablos Coil X,Diablos Coil X,mh4g-dex-build7+mh4edit-mit-save-id,9,0
+660,Diablos Coat X,Diablos Coat X,mh4g-dex-build7+mh4edit-mit-save-id,9,0
+661,Diablos Coil,Diablos Coil,mh4g-dex-build7+mh4edit-mit-save-id,3,0
+662,Diablos Coat,Diablos Coat,mh4g-dex-build7+mh4edit-mit-save-id,3,0
+663,Diablos Base,Diablos Base,mh4edit-mit-save-id,0,0
+664,Diablos Tuilles,Diablos Tuilles,mh4edit-mit-save-id,0,0
+665,Diablos Coil Z,Diablos Coil Z,mh4g-dex-build7+mh4edit-mit-save-id,9,0
+666,Diablos Coat Z,Diablos Coat Z,mh4g-dex-build7+mh4edit-mit-save-id,9,0
+667,Dragonbarbs X,Dragonbarbs X,mh4g-dex-build7+mh4edit-mit-save-id,10,0
+668,Dragonsheath X,Dragonsheath X,mh4g-dex-build7+mh4edit-mit-save-id,10,0
+669,Dragonbase X,Dragonbase X,mh4edit-mit-save-id,0,0
+670,Dragontuilles X,Dragontuilles X,mh4edit-mit-save-id,0,0
+671,Fatalis Crimsonbarbs Z,Fatalis Crimsonbarbs Z,mh4edit-mit-save-id,0,0
+672,Fatalis Crimsonscale Z,Fatalis Crimsonscale Z,mh4edit-mit-save-id,0,0
+673,Fatalis Crimsonbase Z,Fatalis Crimsonbase Z,mh4edit-mit-save-id,0,0
+674,Fatalis Crimsontuilles Z,Fatalis Crimsontuilles Z,mh4edit-mit-save-id,0,0
+675,Wroth Spines,Wroth Spines,mh4g-dex-build7+mh4edit-mit-save-id,10,0
+676,Wroth Scales,Wroth Scales,mh4g-dex-build7+mh4edit-mit-save-id,10,0
+677,White Fatalis Spine,White Fatalis Spine,mh4g-dex-build7+mh4edit-mit-save-id,10,0
+678,White Fatalis Scale,White Fatalis Scale,mh4g-dex-build7+mh4edit-mit-save-id,10,0
+679,Grand Mizuha Sash,Grand Mizuha Sash,mh4g-dex-build7+mh4edit-mit-save-id,10,0
+680,Grand Cham Coat,Grand Cham Coat,mh4g-dex-build7+mh4edit-mit-save-id,10,0
+681,Regios Tassets S,Regios Tassets S,mh4g-dex-build7+mh4edit-mit-save-id,6,0
+682,Regios Coat S,Regios Coat S,mh4g-dex-build7+mh4edit-mit-save-id,6,0
+683,Regios Tassets X,Regios Tassets X,mh4g-dex-build7+mh4edit-mit-save-id,9,0
+684,Regios Coat X,Regios Coat X,mh4g-dex-build7+mh4edit-mit-save-id,9,0
+685,Chaos Faulds,Chaos Faulds,mh4g-dex-build7+mh4edit-mit-save-id,9,0
+686,Nephilim Tassets,Nephilim Tassets,mh4g-dex-build7+mh4edit-mit-save-id,9,0
+687,Chaos Coat,Chaos Coat,mh4g-dex-build7+mh4edit-mit-save-id,9,0
+688,Nephilim Coat,Nephilim Coat,mh4g-dex-build7+mh4edit-mit-save-id,9,0
+689,Basarios Tassets X,Basarios Tassets X,mh4g-dex-build7+mh4edit-mit-save-id,8,0
+690,Basarios Coat X,Basarios Coat X,mh4g-dex-build7+mh4edit-mit-save-id,8,0
+691,Basarios Tassets Z,Basarios Tassets Z,mh4g-dex-build7+mh4edit-mit-save-id,8,0
+692,Basarios Coat Z,Basarios Coat Z,mh4g-dex-build7+mh4edit-mit-save-id,8,0
+693,Kut-Ku Tassets X,Kut-Ku Tassets X,mh4g-dex-build7+mh4edit-mit-save-id,8,0
+694,Kut-Ku Coat X,Kut-Ku Coat X,mh4g-dex-build7+mh4edit-mit-save-id,8,0
+695,Kut-Ku Tassets Z,Kut-Ku Tassets Z,mh4g-dex-build7+mh4edit-mit-save-id,8,0
+696,Kut-Ku Coat Z,Kut-Ku Coat Z,mh4g-dex-build7+mh4edit-mit-save-id,8,0
+697,Garuga Tassets X,Garuga Tassets X,mh4g-dex-build7+mh4edit-mit-save-id,9,0
+698,Garuga Coat X,Garuga Coat X,mh4g-dex-build7+mh4edit-mit-save-id,9,0
+699,Kirin Hoop X,Kirin Hoop X,mh4g-dex-build7+mh4edit-mit-save-id,10,0
+700,Kirin Shorts X,Kirin Shorts X,mh4g-dex-build7+mh4edit-mit-save-id,10,0
+701,Kirin Base,Kirin Base,mh4edit-mit-save-id,0,0
+702,Kirin Tuilles,Kirin Tuilles,mh4edit-mit-save-id,0,0
+703,Kirin Hoop Z,Kirin Hoop Z,mh4g-dex-build7+mh4edit-mit-save-id,10,0
+704,Kirin Shorts Z,Kirin Shorts Z,mh4g-dex-build7+mh4edit-mit-save-id,10,0
+705,Kirin Base U,Kirin Base U,mh4edit-mit-save-id,0,0
+706,Kirin Tuilles U,Kirin Tuilles U,mh4edit-mit-save-id,0,0
+707,Bnahabra Coil X,Bnahabra Coil X,mh4g-dex-build7+mh4edit-mit-save-id,8,0
+708,Bnahabra Coat X,Bnahabra Coat X,mh4g-dex-build7+mh4edit-mit-save-id,8,0
+709,DUMMY,DUMMY,mh4edit-mit-save-id,0,0
+710,DUMMY,DUMMY,mh4edit-mit-save-id,0,0
+711,Rhenoplos Coil X,Rhenoplos Coil X,mh4g-dex-build7+mh4edit-mit-save-id,8,0
+712,Rhenoplos Coat X,Rhenoplos Coat X,mh4g-dex-build7+mh4edit-mit-save-id,8,0
+713,Hunter's Base,Hunter's Base,mh4edit-mit-save-id,0,0
+714,Hunter's Tuilles,Hunter's Tuilles,mh4edit-mit-save-id,0,0
+715,Alloy Base,Alloy Base,mh4edit-mit-save-id,0,0
+716,Alloy Tuilles,Alloy Tuilles,mh4edit-mit-save-id,0,0
+717,Artian Coil X,Artian Coil X,mh4g-dex-build7+mh4edit-mit-save-id,9,0
+718,Artian Coat X,Artian Coat X,mh4g-dex-build7+mh4edit-mit-save-id,9,0
+719,Arc Base S,Arc Base S,mh4edit-mit-save-id,0,0
+720,Arc Tuilles S,Arc Tuilles S,mh4edit-mit-save-id,0,0
+721,Ingot Base,Ingot Base,mh4edit-mit-save-id,0,0
+722,Ingot Tuilles,Ingot Tuilles,mh4edit-mit-save-id,0,0
+723,Guardian Coil X,Guardian Coil X,mh4g-dex-build7+mh4edit-mit-save-id,8,0
+724,Helper Skirt X,Helper Skirt X,mh4g-dex-build7+mh4edit-mit-save-id,8,0
+725,Guardian Coat X,Guardian Coat X,mh4g-dex-build7+mh4edit-mit-save-id,8,0
+726,Healer Frills X,Healer Frills X,mh4g-dex-build7+mh4edit-mit-save-id,8,0
+727,Guardian Coil Z,Guardian Coil Z,mh4g-dex-build7+mh4edit-mit-save-id,9,0
+728,Helper Skirt Z,Helper Skirt Z,mh4g-dex-build7+mh4edit-mit-save-id,9,0
+729,Guardian Coat Z,Guardian Coat Z,mh4g-dex-build7+mh4edit-mit-save-id,9,0
+730,Healer Frills Z,Healer Frills Z,mh4g-dex-build7+mh4edit-mit-save-id,9,0
+731,G. Knight Coat X,G. Knight Coat X,mh4g-dex-build7+mh4edit-mit-save-id,9,0
+732,Maiden's Skirt X,Maiden's Skirt X,mh4g-dex-build7+mh4edit-mit-save-id,9,0
+733,G. Knight Kilt X,G. Knight Kilt X,mh4g-dex-build7+mh4edit-mit-save-id,9,0
+734,Exclusive Frills X,Exclusive Frills X,mh4g-dex-build7+mh4edit-mit-save-id,9,0
+735,Ace Faulds,Ace Faulds,mh4g-dex-build7+mh4edit-mit-save-id,9,0
+736,Sororal Faulds,Sororal Faulds,mh4g-dex-build7+mh4edit-mit-save-id,9,0
+737,Ace Coat,Ace Coat,mh4g-dex-build7+mh4edit-mit-save-id,9,0
+738,Sororal Coat,Sororal Coat,mh4g-dex-build7+mh4edit-mit-save-id,9,0
+739,Ceanataur Base,Ceanataur Base,mh4edit-mit-save-id,0,0
+740,Ceanataur Tuilles,Ceanataur Tuilles,mh4edit-mit-save-id,0,0
+741,Lagiacrus Base,Lagiacrus Base,mh4edit-mit-save-id,0,0
+742,Lagiacrus Tuilles,Lagiacrus Tuilles,mh4edit-mit-save-id,0,0
+743,Escadora Base,Escadora Base,mh4edit-mit-save-id,0,0
+744,Escadora Tuilles,Escadora Tuilles,mh4edit-mit-save-id,0,0
+745,Auroros Kermes Faulds,Auroros Kermes Faulds,mh4edit-mit-save-id,0,0
+746,Borealis Woad Faulds,Borealis Woad Faulds,mh4edit-mit-save-id,0,0
+747,Genesis Kermes Faulds,Genesis Kermes Faulds,mh4edit-mit-save-id,0,0
+748,Glyph Woad Faulds,Glyph Woad Faulds,mh4edit-mit-save-id,0,0
+749,Ludroth Base,Ludroth Base,mh4edit-mit-save-id,0,0
+750,Ludroth Tuilles,Ludroth Tuilles,mh4edit-mit-save-id,0,0
+751,Hornet Tassets,Hornet Tassets,mh4edit-mit-save-id,0,0
+752,Hornet Coat,Hornet Coat,mh4edit-mit-save-id,0,0
+753,Hornet Base,Hornet Base,mh4edit-mit-save-id,0,0
+754,Hornet Tuilles,Hornet Tuilles,mh4edit-mit-save-id,0,0
+755,Wroggi Faulds,Wroggi Faulds,mh4edit-mit-save-id,0,0
+756,Wroggi Coat,Wroggi Coat,mh4edit-mit-save-id,0,0
+757,Wroggi Base,Wroggi Base,mh4edit-mit-save-id,0,0
+758,Wroggi Tuilles,Wroggi Tuilles,mh4edit-mit-save-id,0,0
+759,Gigginox Faulds,Gigginox Faulds,mh4edit-mit-save-id,0,0
+760,Gigginox Coat,Gigginox Coat,mh4edit-mit-save-id,0,0
+761,Gigginox Base,Gigginox Base,mh4edit-mit-save-id,0,0
+762,Gigginox Tuilles,Gigginox Tuilles,mh4edit-mit-save-id,0,0
+763,Tempest Obi,Tempest Obi,mh4g-dex-build7+mh4edit-mit-save-id,10,0
+764,Welkin Obi,Welkin Obi,mh4g-dex-build7+mh4edit-mit-save-id,10,0
+765,Tempest Truss,Tempest Truss,mh4edit-mit-save-id,0,0
+766,Welkin Truss,Welkin Truss,mh4edit-mit-save-id,0,0
+767,Death Stench Bowels,Death Stench Bowels,mh4edit-mit-save-id,0,0
+768,Death Stench Belly,Death Stench Belly,mh4edit-mit-save-id,0,0
+769,Death Stench Base,Death Stench Base,mh4edit-mit-save-id,0,0
+770,Death Stench Tuilles,Death Stench Tuilles,mh4edit-mit-save-id,0,0
+771,Damascus Coil,Damascus Coil,mh4edit-mit-save-id,0,0
+772,Damascus Coat,Damascus Coat,mh4edit-mit-save-id,0,0
+773,Damascus Base,Damascus Base,mh4edit-mit-save-id,0,0
+774,Damascus Tuilles,Damascus Tuilles,mh4edit-mit-save-id,0,0
+775,Lagiacrus Faulds X,Lagiacrus Faulds X,mh4g-dex-build7+mh4edit-mit-save-id,9,0
+776,Lagiacrus Coat X,Lagiacrus Coat X,mh4g-dex-build7+mh4edit-mit-save-id,9,0
+777,Nargacuga Faulds X,Nargacuga Faulds X,mh4g-dex-build7+mh4edit-mit-save-id,9,0
+778,Nargacuga Coat X,Nargacuga Coat X,mh4g-dex-build7+mh4edit-mit-save-id,9,0
+779,Empress Coil X,Empress Coil X,mh4g-dex-build7+mh4edit-mit-save-id,10,0
+780,Empress Coat X,Empress Coat X,mh4g-dex-build7+mh4edit-mit-save-id,10,0
+781,Helios Coil X,Helios Coil X,mh4g-dex-build7+mh4edit-mit-save-id,10,0
+782,Selene Coil X,Selene Coil X,mh4g-dex-build7+mh4edit-mit-save-id,10,0
+783,Helios Coat X,Helios Coat X,mh4g-dex-build7+mh4edit-mit-save-id,10,0
+784,Selene Coat X,Selene Coat X,mh4g-dex-build7+mh4edit-mit-save-id,10,0
+785,Agnaktor Faulds X,Agnaktor Faulds X,mh4g-dex-build7+mh4edit-mit-save-id,8,0
+786,Agnaktor Coat X,Agnaktor Coat X,mh4g-dex-build7+mh4edit-mit-save-id,8,0
+787,Qurupeco Coil X,Qurupeco Coil X,mh4g-dex-build7+mh4edit-mit-save-id,8,0
+788,Qurupeco Coat X,Qurupeco Coat X,mh4g-dex-build7+mh4edit-mit-save-id,8,0
+789,Gobul Faulds X,Gobul Faulds X,mh4g-dex-build7+mh4edit-mit-save-id,8,0
+790,Gobul Coat X,Gobul Coat X,mh4g-dex-build7+mh4edit-mit-save-id,8,0
+791,Barioth Faulds X,Barioth Faulds X,mh4g-dex-build7+mh4edit-mit-save-id,8,0
+792,Barioth Coat X,Barioth Coat X,mh4g-dex-build7+mh4edit-mit-save-id,8,0
+793,Barroth Faulds X,Barroth Faulds X,mh4g-dex-build7+mh4edit-mit-save-id,8,0
+794,Barroth Coat X,Barroth Coat X,mh4g-dex-build7+mh4edit-mit-save-id,8,0
+795,Nibelsnarf Faulds X,Nibelsnarf Faulds X,mh4g-dex-build7+mh4edit-mit-save-id,8,0
+796,Nibelsnarf Coat X,Nibelsnarf Coat X,mh4g-dex-build7+mh4edit-mit-save-id,8,0
+797,Duramboros Faulds X,Duramboros Faulds X,mh4g-dex-build7+mh4edit-mit-save-id,9,0
+798,Duramboros Coat X,Duramboros Coat X,mh4g-dex-build7+mh4edit-mit-save-id,9,0
+799,Lava Tassets X,Lava Tassets X,mh4g-dex-build7+mh4edit-mit-save-id,9,0
+800,Lava Coat X,Lava Coat X,mh4g-dex-build7+mh4edit-mit-save-id,9,0
+801,Grand Yamato Koshiate,Grand Yamato Koshiate,mh4g-dex-build7+mh4edit-mit-save-id,10,0
+802,Grand Hyuga Koshiate,Grand Hyuga Koshiate,mh4g-dex-build7+mh4edit-mit-save-id,10,0
+803,Grand Mutsu Koshiate,Grand Mutsu Koshiate,mh4g-dex-build7+mh4edit-mit-save-id,10,0
+804,Grand Amagi Koshiate,Grand Amagi Koshiate,mh4g-dex-build7+mh4edit-mit-save-id,10,0
+805,Grand Yaksha Coil,Grand Yaksha Coil,mh4g-dex-build7+mh4edit-mit-save-id,10,0
+806,Grand Carnage Wrap,Grand Carnage Wrap,mh4g-dex-build7+mh4edit-mit-save-id,10,0
+807,Miralis Barbs,Miralis Barbs,mh4g-dex-build7+mh4edit-mit-save-id,10,0
+808,Miralis Sheath,Miralis Sheath,mh4g-dex-build7+mh4edit-mit-save-id,10,0
+809,Plesioth Tassets Z,Plesioth Tassets Z,mh4g-dex-build7+mh4edit-mit-save-id,8,0
+810,Plesioth Coat Z,Plesioth Coat Z,mh4g-dex-build7+mh4edit-mit-save-id,8,0
+811,DUMMY,DUMMY,mh4edit-mit-save-id,0,0
+812,DUMMY,DUMMY,mh4edit-mit-save-id,0,0
+813,Patissier's Sarong,Patissier's Sarong,mh4g-dex-build7+mh4edit-mit-save-id,7,0
+814,Patissier's Apron,Patissier's Apron,mh4g-dex-build7+mh4edit-mit-save-id,7,0
+815,High Metal Tassets S,High Metal Tassets S,mh4g-dex-build7+mh4edit-mit-save-id,5,0
+816,High Metal Coat S,High Metal Coat S,mh4g-dex-build7+mh4edit-mit-save-id,5,0
+817,Aelucanth Elytra X,Aelucanth Elytra X,mh4g-dex-build7+mh4edit-mit-save-id,8,0
+818,Rhopessa Elytra X,Rhopessa Elytra X,mh4g-dex-build7+mh4edit-mit-save-id,8,0
+819,Aelucanth Alae X,Aelucanth Alae X,mh4g-dex-build7+mh4edit-mit-save-id,8,0
+820,Rhopessa Alae X,Rhopessa Alae X,mh4g-dex-build7+mh4edit-mit-save-id,8,0
+821,Obituary Elytra X,Obituary Elytra X,mh4g-dex-build7+mh4edit-mit-save-id,8,0
+822,Butterfly Elytra X,Butterfly Elytra X,mh4g-dex-build7+mh4edit-mit-save-id,8,0
+823,Obituary Alae X,Obituary Alae X,mh4g-dex-build7+mh4edit-mit-save-id,8,0
+824,Butterfly Alae X,Butterfly Alae X,mh4g-dex-build7+mh4edit-mit-save-id,8,0
+825,EX Auroros Tassets,EX Auroros Tassets,mh4g-dex-build7+mh4edit-mit-save-id,10,0
+826,EX Borealis Tassets,EX Borealis Tassets,mh4g-dex-build7+mh4edit-mit-save-id,10,0
+827,EX Genesis Tassets,EX Genesis Tassets,mh4g-dex-build7+mh4edit-mit-save-id,10,0
+828,EX Glyph Tassets,EX Glyph Tassets,mh4g-dex-build7+mh4edit-mit-save-id,10,0
+829,Tempest Obi,Tempest Obi,mh4g-dex-build7+mh4edit-mit-save-id,10,0
+830,Welkin Obi,Welkin Obi,mh4g-dex-build7+mh4edit-mit-save-id,10,0
+831,GX Escadora Base,GX Escadora Base,mh4edit-mit-save-id,0,0
+832,GX Escadora Tuilles,GX Escadora Tuilles,mh4edit-mit-save-id,0,0
+833,GX Dragonbase X,GX Dragonbase X,mh4edit-mit-save-id,0,0
+834,GX Dragontuilles X,GX Dragontuilles X,mh4edit-mit-save-id,0,0
+835,Star Knight Coil,Star Knight Coil,mh4g-dex-build7+mh4edit-mit-save-id,10,0
+836,Star Knight Coat,Star Knight Coat,mh4g-dex-build7+mh4edit-mit-save-id,10,0
+837,dummy351,dummy351,mh4edit-mit-save-id,0,0
+838,dummy1352,dummy1352,mh4edit-mit-save-id,0,0
+839,dummy1353,dummy1353,mh4edit-mit-save-id,0,0
+840,dummy1354,dummy1354,mh4edit-mit-save-id,0,0
+841,dummy1357,dummy1357,mh4edit-mit-save-id,0,0
+842,dummy1358,dummy1358,mh4edit-mit-save-id,0,0
+843,DUMMY,DUMMY,mh4edit-mit-save-id,0,0
+844,DUMMY,DUMMY,mh4edit-mit-save-id,0,0
+845,DUMMY,DUMMY,mh4edit-mit-save-id,0,0
+846,DUMMY,DUMMY,mh4edit-mit-save-id,0,0
+847,DUMMY,DUMMY,mh4edit-mit-save-id,0,0
+848,DUMMY,DUMMY,mh4edit-mit-save-id,0,0
+849,Hawkcoil X,Hawkcoil X,mh4g-dex-build7+mh4edit-mit-save-id,9,0
+850,Lecturer's Skirt X,Lecturer's Skirt X,mh4g-dex-build7+mh4edit-mit-save-id,9,0
+851,Hawkcoat X,Hawkcoat X,mh4g-dex-build7+mh4edit-mit-save-id,9,0
+852,Lecturer's Frills X,Lecturer's Frills X,mh4g-dex-build7+mh4edit-mit-save-id,9,0
+853,GX Hunter's Base,GX Hunter's Base,mh4g-dex-build7+mh4edit-mit-save-id,10,0
+854,GX Hunter's Tuilles,GX Hunter's Tuilles,mh4g-dex-build7+mh4edit-mit-save-id,10,0
+855,GX Esurient Base,GX Esurient Base,mh4g-dex-build7+mh4edit-mit-save-id,10,0
+856,GX Esurient Tuilles,GX Esurient Tuilles,mh4g-dex-build7+mh4edit-mit-save-id,10,0
+857,GX Tempest Truss,GX Tempest Truss,mh4g-dex-build7+mh4edit-mit-save-id,10,0
+858,GX Welkin Truss,GX Welkin Truss,mh4g-dex-build7+mh4edit-mit-save-id,10,0
+859,GX Fatalis Crimsonbase,GX Fatalis Crimsonbase,mh4g-dex-build7+mh4edit-mit-save-id,10,0
+860,GX Fatalis Crimsontuilles,GX Fatalis Crimsontuilles,mh4g-dex-build7+mh4edit-mit-save-id,10,0
+861,Hunter's Faulds,Hunter's Faulds,mh4g-dex-build7+mh4edit-mit-save-id,1,0
+862,Hunter's Coat,Hunter's Coat,mh4g-dex-build7+mh4edit-mit-save-id,1,0
+863,Hunter's Faulds,Hunter's Faulds,mh4g-dex-build7+mh4edit-mit-save-id,1,0
+864,Hunter's Coat,Hunter's Coat,mh4g-dex-build7+mh4edit-mit-save-id,1,0
+865,Ludroth Faulds,Ludroth Faulds,mh4g-dex-build7+mh4edit-mit-save-id,2,0
+866,Ludroth Coat,Ludroth Coat,mh4g-dex-build7+mh4edit-mit-save-id,2,0
+867,Ludroth Faulds,Ludroth Faulds,mh4g-dex-build7+mh4edit-mit-save-id,2,0
+868,Ludroth Coat,Ludroth Coat,mh4g-dex-build7+mh4edit-mit-save-id,2,0
+869,Alloy Coil,Alloy Coil,mh4g-dex-build7+mh4edit-mit-save-id,1,0
+870,Alloy Coat,Alloy Coat,mh4g-dex-build7+mh4edit-mit-save-id,1,0
+871,Alloy Coil,Alloy Coil,mh4g-dex-build7+mh4edit-mit-save-id,1,0
+872,Alloy Coat,Alloy Coat,mh4g-dex-build7+mh4edit-mit-save-id,1,0
+873,Gypceros Tassets,Gypceros Tassets,mh4g-dex-build7+mh4edit-mit-save-id,2,0
+874,Gypceros Coat,Gypceros Coat,mh4g-dex-build7+mh4edit-mit-save-id,2,0
+875,Gypceros Tassets,Gypceros Tassets,mh4g-dex-build7+mh4edit-mit-save-id,2,0
+876,Gypceros Coat,Gypceros Coat,mh4g-dex-build7+mh4edit-mit-save-id,2,0
+877,Khezu Tassets,Khezu Tassets,mh4g-dex-build7+mh4edit-mit-save-id,2,0
+878,Khezu Coat,Khezu Coat,mh4g-dex-build7+mh4edit-mit-save-id,2,0
+879,Khezu Tassets,Khezu Tassets,mh4g-dex-build7+mh4edit-mit-save-id,2,0
+880,Khezu Coat,Khezu Coat,mh4g-dex-build7+mh4edit-mit-save-id,2,0
+881,Ingot Coil,Ingot Coil,mh4g-dex-build7+mh4edit-mit-save-id,3,0
+882,Ingot Coat,Ingot Coat,mh4g-dex-build7+mh4edit-mit-save-id,3,0
+883,Ingot Coil,Ingot Coil,mh4g-dex-build7+mh4edit-mit-save-id,3,0
+884,Ingot Coat,Ingot Coat,mh4g-dex-build7+mh4edit-mit-save-id,3,0
+885,Rathian Faulds,Rathian Faulds,mh4g-dex-build7+mh4edit-mit-save-id,2,0
+886,Rathian Coat,Rathian Coat,mh4g-dex-build7+mh4edit-mit-save-id,2,0
+887,Lagiacrus Faulds,Lagiacrus Faulds,mh4g-dex-build7+mh4edit-mit-save-id,6,0
+888,Lagiacrus Coat,Lagiacrus Coat,mh4g-dex-build7+mh4edit-mit-save-id,6,0
+889,Rathalos Faulds,Rathalos Faulds,mh4g-dex-build7+mh4edit-mit-save-id,3,0
+890,Rathalos Coat,Rathalos Coat,mh4g-dex-build7+mh4edit-mit-save-id,3,0
+891,Gypceros Tassets U,Gypceros Tassets U,mh4g-dex-build7+mh4edit-mit-save-id,6,0
+892,Gypceros Coat U,Gypceros Coat U,mh4g-dex-build7+mh4edit-mit-save-id,6,0
+893,Khezu Tassets U,Khezu Tassets U,mh4g-dex-build7+mh4edit-mit-save-id,6,0
+894,Khezu Coat U,Khezu Coat U,mh4g-dex-build7+mh4edit-mit-save-id,6,0
+895,Tigrex Tassets,Tigrex Tassets,mh4g-dex-build7+mh4edit-mit-save-id,3,0
+896,Tigrex Coat,Tigrex Coat,mh4g-dex-build7+mh4edit-mit-save-id,3,0
+897,Kirin Hoop,Kirin Hoop,mh4g-dex-build7+mh4edit-mit-save-id,3,0
+898,Kirin Shorts,Kirin Shorts,mh4g-dex-build7+mh4edit-mit-save-id,3,0
+899,Kirin Hoop,Kirin Hoop,mh4g-dex-build7+mh4edit-mit-save-id,3,0
+900,Kirin Shorts,Kirin Shorts,mh4g-dex-build7+mh4edit-mit-save-id,3,0
+901,Artian Coil S,Artian Coil S,mh4g-dex-build7+mh4edit-mit-save-id,5,0
+902,Artian Coat S,Artian Coat S,mh4g-dex-build7+mh4edit-mit-save-id,5,0
+903,Ceanataur Tassets,Ceanataur Tassets,mh4g-dex-build7+mh4edit-mit-save-id,2,0
+904,Ceanataur Coat,Ceanataur Coat,mh4g-dex-build7+mh4edit-mit-save-id,2,0
+905,Ceanataur Tassets,Ceanataur Tassets,mh4g-dex-build7+mh4edit-mit-save-id,2,0
+906,Ceanataur Coat,Ceanataur Coat,mh4g-dex-build7+mh4edit-mit-save-id,2,0
+907,Gloaming Girdle,Gloaming Girdle,mh4g-dex-build7+mh4edit-mit-save-id,3,0
+908,Dayspring Girdle,Dayspring Girdle,mh4g-dex-build7+mh4edit-mit-save-id,3,0
+909,Adamance Girdle,Adamance Girdle,mh4g-dex-build7+mh4edit-mit-save-id,3,0
+910,Epoch Girdle,Epoch Girdle,mh4g-dex-build7+mh4edit-mit-save-id,3,0
+911,Zinogre Coil U,Zinogre Coil U,mh4edit-mit-save-id,0,0
+912,Zinogre Coat U,Zinogre Coat U,mh4g-dex-build7+mh4edit-mit-save-id,6,0
+913,Tigrex Tassets U,Tigrex Tassets U,mh4g-dex-build7+mh4edit-mit-save-id,6,0
+914,Tigrex Coat U,Tigrex Coat U,mh4g-dex-build7+mh4edit-mit-save-id,6,0
+915,Gore Faulds,Gore Faulds,mh4g-dex-build7+mh4edit-mit-save-id,3,0
+916,Gore Coat,Gore Coat,mh4g-dex-build7+mh4edit-mit-save-id,3,0
+917,Auroros Tassets,Auroros Tassets,mh4g-dex-build7+mh4edit-mit-save-id,3,0
+918,Genesis Tassets,Genesis Tassets,mh4g-dex-build7+mh4edit-mit-save-id,3,0
+919,Borealis Tassets,Borealis Tassets,mh4g-dex-build7+mh4edit-mit-save-id,3,0
+920,Glyph Tassets,Glyph Tassets,mh4g-dex-build7+mh4edit-mit-save-id,3,0
+921,Kirin Hoop U,Kirin Hoop U,mh4g-dex-build7+mh4edit-mit-save-id,7,0
+922,Kirin Shorts U,Kirin Shorts U,mh4g-dex-build7+mh4edit-mit-save-id,7,0
+923,Kirin Hoop U,Kirin Hoop U,mh4g-dex-build7+mh4edit-mit-save-id,7,0
+924,Kirin Shorts U,Kirin Shorts U,mh4g-dex-build7+mh4edit-mit-save-id,7,0
+925,Esurient Faulds,Esurient Faulds,mh4g-dex-build7+mh4edit-mit-save-id,7,0
+926,Esurient Coat,Esurient Coat,mh4g-dex-build7+mh4edit-mit-save-id,7,0
+927,Monoblos Coil,Monoblos Coil,mh4edit-mit-save-id,0,0
+928,Monoblos Coat,Monoblos Coat,mh4edit-mit-save-id,0,0
+929,Hornet Tassets,Hornet Tassets,mh4edit-mit-save-id,0,0
+930,Hornet Coat,Hornet Coat,mh4edit-mit-save-id,0,0
+931,Wroggi Faulds,Wroggi Faulds,mh4edit-mit-save-id,0,0
+932,Wroggi Coat,Wroggi Coat,mh4edit-mit-save-id,0,0
+933,Monodevil Coil,Monodevil Coil,mh4g-dex-build7+mh4edit-mit-save-id,9,0
+934,Monodevil Coat,Monodevil Coat,mh4g-dex-build7+mh4edit-mit-save-id,9,0
+935,Diablos Coil,Diablos Coil,mh4g-dex-build7+mh4edit-mit-save-id,3,0
+936,Diablos Coat,Diablos Coat,mh4g-dex-build7+mh4edit-mit-save-id,3,0
+937,Gigginox Faulds,Gigginox Faulds,mh4edit-mit-save-id,0,0
+938,Gigginox Coat,Gigginox Coat,mh4edit-mit-save-id,0,0
+939,Death Stench Bowels,Death Stench Bowels,mh4edit-mit-save-id,0,0
+940,Death Stench Belly,Death Stench Belly,mh4edit-mit-save-id,0,0
+941,Damascus Coil,Damascus Coil,mh4edit-mit-save-id,0,0
+942,Damascus Coat,Damascus Coat,mh4edit-mit-save-id,0,0
+943,DUMMY,DUMMY,mh4edit-mit-save-id,0,0
+944,DUMMY,DUMMY,mh4edit-mit-save-id,0,0
+945,Gigginox Greaves,Gigginox Greaves,mh4edit-mit-save-id,0,0
+946,Gigginox Leggings,Gigginox Leggings,mh4edit-mit-save-id,0,0
+947,Death Stench Heel,Death Stench Heel,mh4edit-mit-save-id,0,0
+948,Death Stench March,Death Stench March,mh4edit-mit-save-id,0,0
+949,Damascus Greaves,Damascus Greaves,mh4edit-mit-save-id,0,0
+950,Damascus Leggings,Damascus Leggings,mh4edit-mit-save-id,0,0
+951,DUMMY,DUMMY,mh4edit-mit-save-id,0,0
+952,DUMMY,DUMMY,mh4edit-mit-save-id,0,0

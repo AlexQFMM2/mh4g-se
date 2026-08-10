@@ -1,0 +1,973 @@
+id,name,english,source,rarity,is_relic
+0,无,None,mh4g-save-format,0,0
+1,勇气内衣,Derring Jacket,mh4g-dex-build7+mh4edit-mit-save-id,1,0
+2,勇气铠甲Ｓ,Derring Mail S,mh4g-dex-build7+mh4edit-mit-save-id,4,0
+3,勇气炼甲Ｓ,Derring Vest S,mh4g-dex-build7+mh4edit-mit-save-id,4,0
+4,皮制内衣,Leather Vest,mh4g-dex-build7+mh4edit-mit-save-id,1,0
+5,皮质铠甲Ｓ,Leather Mail S,mh4g-dex-build7+mh4edit-mit-save-id,4,0
+6,皮质炼甲Ｓ,Leather Vest S,mh4g-dex-build7+mh4edit-mit-save-id,4,0
+7,锁链内衣,Chainmail Vest,mh4g-dex-build7+mh4edit-mit-save-id,1,0
+8,锁链铠甲Ｓ,Chainmail Armor S,mh4g-dex-build7+mh4edit-mit-save-id,4,0
+9,锁链炼甲Ｓ,Chainmail Vest S,mh4g-dex-build7+mh4edit-mit-save-id,4,0
+10,猎人铠甲,Hunter's Mail,mh4g-dex-build7+mh4edit-mit-save-id,1,0
+11,猎人炼甲,Hunter's Vest,mh4g-dex-build7+mh4edit-mit-save-id,1,0
+12,猎人铠甲Ｓ,Hunter's Mail S,mh4g-dex-build7+mh4edit-mit-save-id,4,0
+13,猎人炼甲Ｓ,Hunter's Vest S,mh4g-dex-build7+mh4edit-mit-save-id,4,0
+14,猎人铠甲,Hunter's Mail,mh4g-dex-build7+mh4edit-mit-save-id,1,0
+15,猎人炼甲,Hunter's Vest,mh4g-dex-build7+mh4edit-mit-save-id,1,0
+16,骨制铠甲,Bone Mail,mh4g-dex-build7+mh4edit-mit-save-id,1,0
+17,骨制炼甲,Bone Vest,mh4g-dex-build7+mh4edit-mit-save-id,1,0
+18,骨制铠甲Ｓ,Bone Mail S,mh4g-dex-build7+mh4edit-mit-save-id,4,0
+19,骨制炼甲Ｓ,Bone Vest S,mh4g-dex-build7+mh4edit-mit-save-id,4,0
+20,合金铠甲,Alloy Mail,mh4g-dex-build7+mh4edit-mit-save-id,1,0
+21,合金炼甲,Alloy Vest,mh4g-dex-build7+mh4edit-mit-save-id,1,0
+22,合金铠甲Ｓ,Alloy Mail S,mh4g-dex-build7+mh4edit-mit-save-id,4,0
+23,合金炼甲Ｓ,Alloy Vest S,mh4g-dex-build7+mh4edit-mit-save-id,4,0
+24,合金铠甲,Alloy Mail,mh4g-dex-build7+mh4edit-mit-save-id,1,0
+25,合金炼甲,Alloy Vest,mh4g-dex-build7+mh4edit-mit-save-id,1,0
+26,狗龙铠甲,Jaggi Mail,mh4g-dex-build7+mh4edit-mit-save-id,2,0
+27,狗龙炼甲,Jaggi Vest,mh4g-dex-build7+mh4edit-mit-save-id,2,0
+28,狗龙铠甲Ｓ,Jaggi Mail S,mh4g-dex-build7+mh4edit-mit-save-id,4,0
+29,狗龙炼甲Ｓ,Jaggi Vest S,mh4g-dex-build7+mh4edit-mit-save-id,4,0
+30,洛克拉克上衣,Loc Lac Shawl,mh4g-dex-build7+mh4edit-mit-save-id,1,0
+31,水兽铠甲,Ludroth Mail,mh4g-dex-build7+mh4edit-mit-save-id,2,0
+32,水兽炼甲,Ludroth Vest,mh4g-dex-build7+mh4edit-mit-save-id,2,0
+33,水兽铠甲,Ludroth Mail,mh4g-dex-build7+mh4edit-mit-save-id,2,0
+34,水兽炼甲,Ludroth Vest,mh4g-dex-build7+mh4edit-mit-save-id,2,0
+35,草食龙铠甲,Rhenoplos Mail,mh4g-dex-build7+mh4edit-mit-save-id,2,0
+36,草食龙炼甲,Rhenoplos Vest,mh4g-dex-build7+mh4edit-mit-save-id,2,0
+37,草食龙铠甲Ｓ,Rhenoplos Mail S,mh4g-dex-build7+mh4edit-mit-save-id,4,0
+38,草食龙炼甲Ｓ,Rhenoplos Vest S,mh4g-dex-build7+mh4edit-mit-save-id,4,0
+39,飞甲虫上衣,Bnahabra Suit,mh4g-dex-build7+mh4edit-mit-save-id,2,0
+40,飞甲虫内衣,Bnahabra Vest,mh4g-dex-build7+mh4edit-mit-save-id,2,0
+41,飞甲虫上衣Ｓ,Bnahabra Suit S,mh4g-dex-build7+mh4edit-mit-save-id,4,0
+42,飞甲虫内衣Ｓ,Bnahabra Vest S,mh4g-dex-build7+mh4edit-mit-save-id,4,0
+43,土砂龙铠甲,Barroth Mail,mh4g-dex-build7+mh4edit-mit-save-id,2,0
+44,土砂龙炼甲,Barroth Vest,mh4g-dex-build7+mh4edit-mit-save-id,2,0
+45,雌火龙铠甲,Rathian Mail,mh4g-dex-build7+mh4edit-mit-save-id,2,0
+46,雌火龙炼甲,Rathian Vest,mh4g-dex-build7+mh4edit-mit-save-id,2,0
+47,雌火龙铠甲Ｓ,Rathian Mail S,mh4g-dex-build7+mh4edit-mit-save-id,5,0
+48,雌火龙炼甲Ｓ,Rathian Vest S,mh4g-dex-build7+mh4edit-mit-save-id,5,0
+49,樱火龙铠甲,Rath Heart Mail,mh4g-dex-build7+mh4edit-mit-save-id,6,0
+50,樱火龙炼甲,Rath Heart Vest,mh4g-dex-build7+mh4edit-mit-save-id,6,0
+51,金火龙铠甲,Golden Lunemail,mh4g-dex-build7+mh4edit-mit-save-id,7,0
+52,金火龙炼甲,Golden Lunevest,mh4g-dex-build7+mh4edit-mit-save-id,7,0
+53,雌火龙铠甲,Rathian Mail,mh4g-dex-build7+mh4edit-mit-save-id,2,0
+54,雌火龙炼甲,Rathian Vest,mh4g-dex-build7+mh4edit-mit-save-id,2,0
+55,樱火龙铠甲,Rath Heart Mail,mh4g-dex-build7+mh4edit-mit-save-id,6,0
+56,樱火龙炼甲,Rath Heart Vest,mh4g-dex-build7+mh4edit-mit-save-id,6,0
+57,EX雌火龙铠甲,EX Rathian Mail,mh4g-dex-build7+mh4edit-mit-save-id,7,0
+58,EX雌火龙炼甲,EX Rathian Vest,mh4g-dex-build7+mh4edit-mit-save-id,7,0
+59,雄火龙铠甲,Rathalos Mail,mh4g-dex-build7+mh4edit-mit-save-id,3,0
+60,雄火龙炼甲,Rathalos Vest,mh4g-dex-build7+mh4edit-mit-save-id,3,0
+61,雄火龙铠甲Ｓ,Rathalos Mail S,mh4g-dex-build7+mh4edit-mit-save-id,5,0
+62,雄火龙炼甲Ｓ,Rathalos Vest S,mh4g-dex-build7+mh4edit-mit-save-id,5,0
+63,苍火龙铠甲,Rath Soul Mail,mh4g-dex-build7+mh4edit-mit-save-id,6,0
+64,苍火龙炼甲,Rath Soul Vest,mh4g-dex-build7+mh4edit-mit-save-id,6,0
+65,银火龙铠甲,Silver Solmail,mh4g-dex-build7+mh4edit-mit-save-id,7,0
+66,银火龙炼甲,Silver Solvest,mh4g-dex-build7+mh4edit-mit-save-id,7,0
+67,雄火龙铠甲,Rathalos Mail,mh4g-dex-build7+mh4edit-mit-save-id,3,0
+68,雄火龙炼甲,Rathalos Vest,mh4g-dex-build7+mh4edit-mit-save-id,3,0
+69,苍火龙铠甲,Rath Soul Mail,mh4g-dex-build7+mh4edit-mit-save-id,6,0
+70,苍火龙炼甲,Rath Soul Vest,mh4g-dex-build7+mh4edit-mit-save-id,6,0
+71,银火龙铠甲,Silver Solmail,mh4g-dex-build7+mh4edit-mit-save-id,7,0
+72,银火龙炼甲,Silver Solvest,mh4g-dex-build7+mh4edit-mit-save-id,7,0
+73,EX雄火龙铠甲,EX Rathalos Mail,mh4g-dex-build7+mh4edit-mit-save-id,7,0
+74,EX雄火龙炼甲,EX Rathalos Vest,mh4g-dex-build7+mh4edit-mit-save-id,7,0
+75,角龙铠甲,Diablos Mail,mh4g-dex-build7+mh4edit-mit-save-id,3,0
+76,角龙炼甲,Diablos Vest,mh4g-dex-build7+mh4edit-mit-save-id,3,0
+77,爆锤龙铠甲,Uragaan Mail,mh4g-dex-build7+mh4edit-mit-save-id,3,0
+78,爆锤龙炼甲,Uragaan Vest,mh4g-dex-build7+mh4edit-mit-save-id,3,0
+79,恐暴龙铠甲,Vangis Mail,mh4g-dex-build7+mh4edit-mit-save-id,6,0
+80,恐暴龙炼甲,Vangis Vest,mh4g-dex-build7+mh4edit-mit-save-id,6,0
+81,贪婪铠甲,Esurient Mail,mh4g-dex-build7+mh4edit-mit-save-id,7,0
+82,贪婪炼甲,Esurient Vest,mh4g-dex-build7+mh4edit-mit-save-id,7,0
+83,贪婪铠甲,Esurient Mail,mh4g-dex-build7+mh4edit-mit-save-id,7,0
+84,贪婪炼甲,Esurient Vest,mh4g-dex-build7+mh4edit-mit-save-id,7,0
+85,残阳【胴体】,Gloaming Plate,mh4g-dex-build7+mh4edit-mit-save-id,3,0
+86,常磐【胴体】,Adamance Plate,mh4g-dex-build7+mh4edit-mit-save-id,3,0
+87,东云【胴体】,Dayspring Plate,mh4g-dex-build7+mh4edit-mit-save-id,3,0
+88,八千代【胴体】,Epoch Plate,mh4g-dex-build7+mh4edit-mit-save-id,3,0
+89,残阳・霸【胴体】,Gloaming Archplate,mh4g-dex-build7+mh4edit-mit-save-id,7,0
+90,常磐・霸【胴体】,Adamance Archplate,mh4g-dex-build7+mh4edit-mit-save-id,7,0
+91,东云・霸【胴体】,Dayspring Archplate,mh4g-dex-build7+mh4edit-mit-save-id,7,0
+92,八千代・霸【胴体】,Epoch Archplate,mh4g-dex-build7+mh4edit-mit-save-id,7,0
+93,残阳【胴体】,Gloaming Plate,mh4g-dex-build7+mh4edit-mit-save-id,3,0
+94,常磐【胴体】,Adamance Plate,mh4g-dex-build7+mh4edit-mit-save-id,3,0
+95,东云【胴体】,Dayspring Plate,mh4g-dex-build7+mh4edit-mit-save-id,3,0
+96,八千代【胴体】,Epoch Plate,mh4g-dex-build7+mh4edit-mit-save-id,3,0
+97,水龙铠甲,Plesioth Mail,mh4g-dex-build7+mh4edit-mit-save-id,4,0
+98,水龙炼甲,Plesioth Vest,mh4g-dex-build7+mh4edit-mit-save-id,4,0
+99,潜口龙铠甲,Nibelsnarf Mail,mh4g-dex-build7+mh4edit-mit-save-id,2,0
+100,潜口龙炼甲,Nibelsnarf Vest,mh4g-dex-build7+mh4edit-mit-save-id,2,0
+101,尾槌龙铠甲,Duramboros Mail,mh4g-dex-build7+mh4edit-mit-save-id,3,0
+102,尾槌龙炼甲,Duramboros Vest,mh4g-dex-build7+mh4edit-mit-save-id,3,0
+103,青熊兽铠甲,Arzuros Mail,mh4g-dex-build7+mh4edit-mit-save-id,2,0
+104,青熊兽炼甲,Arzuros Vest,mh4g-dex-build7+mh4edit-mit-save-id,2,0
+105,白兔兽铠甲,Lagombi Mail,mh4g-dex-build7+mh4edit-mit-save-id,2,0
+106,白兔兽炼甲,Lagombi Vest,mh4g-dex-build7+mh4edit-mit-save-id,2,0
+107,白兔兽铠甲Ｓ,Lagombi Mail S,mh4g-dex-build7+mh4edit-mit-save-id,4,0
+108,白兔兽炼甲Ｓ,Lagombi Vest S,mh4g-dex-build7+mh4edit-mit-save-id,4,0
+109,垂皮龙披风,Slagtoth Cloak,mh4g-dex-build7+mh4edit-mit-save-id,2,0
+110,垂皮龙大衣,Slagtoth Wrap,mh4g-dex-build7+mh4edit-mit-save-id,2,0
+111,垂皮龙披风Ｓ,Slagtoth Cloak S,mh4g-dex-build7+mh4edit-mit-save-id,4,0
+112,垂皮龙大衣Ｓ,Slagtoth Wrap S,mh4g-dex-build7+mh4edit-mit-save-id,4,0
+113,迅龙铠甲,Nargacuga Mail,mh4g-dex-build7+mh4edit-mit-save-id,3,0
+114,迅龙炼甲,Nargacuga Vest,mh4g-dex-build7+mh4edit-mit-save-id,3,0
+115,轰龙铠甲,Tigrex Mail,mh4g-dex-build7+mh4edit-mit-save-id,3,0
+116,轰龙炼甲,Tigrex Vest,mh4g-dex-build7+mh4edit-mit-save-id,3,0
+117,轰龙铠甲Ｓ,Tigrex Mail S,mh4g-dex-build7+mh4edit-mit-save-id,5,0
+118,轰龙炼甲Ｓ,Tigrex Vest S,mh4g-dex-build7+mh4edit-mit-save-id,5,0
+119,黑轰龙铠甲Ｕ,Tigrex Mail U,mh4g-dex-build7+mh4edit-mit-save-id,6,0
+120,黑轰龙炼甲Ｕ,Tigrex Vest U,mh4g-dex-build7+mh4edit-mit-save-id,6,0
+121,大轰龙铠甲,Excello Mail,mh4g-dex-build7+mh4edit-mit-save-id,7,0
+122,大轰龙炼甲,Excello Vest,mh4g-dex-build7+mh4edit-mit-save-id,7,0
+123,EX轰龙铠甲,EX Tigrex Mail,mh4g-dex-build7+mh4edit-mit-save-id,7,0
+124,EX轰龙炼甲,EX Tigrex Vest,mh4g-dex-build7+mh4edit-mit-save-id,7,0
+125,轰龙铠甲,Tigrex Mail,mh4g-dex-build7+mh4edit-mit-save-id,3,0
+126,轰龙炼甲,Tigrex Vest,mh4g-dex-build7+mh4edit-mit-save-id,3,0
+127,黑轰龙铠甲Ｕ,Tigrex Mail U,mh4g-dex-build7+mh4edit-mit-save-id,6,0
+128,黑轰龙炼甲Ｕ,Tigrex Vest U,mh4g-dex-build7+mh4edit-mit-save-id,6,0
+129,碎龙铠甲,Brachydios Mail,mh4g-dex-build7+mh4edit-mit-save-id,3,0
+130,碎龙炼甲,Brachydios Vest,mh4g-dex-build7+mh4edit-mit-save-id,3,0
+131,碎龙铠甲Ｓ,Brachydios Mail S,mh4g-dex-build7+mh4edit-mit-save-id,6,0
+132,碎龙炼甲Ｓ,Brachydios Vest S,mh4g-dex-build7+mh4edit-mit-save-id,6,0
+133,霸龙铠甲,Akantor Aegis,mh4g-dex-build7+mh4edit-mit-save-id,7,0
+134,霸龙链甲,Akantor Plate,mh4g-dex-build7+mh4edit-mit-save-id,7,0
+135,霸龙铠甲,Akantor Aegis,mh4g-dex-build7+mh4edit-mit-save-id,7,0
+136,霸龙链甲,Akantor Plate,mh4g-dex-build7+mh4edit-mit-save-id,7,0
+137,雷狼龙铠甲,Zinogre Mail,mh4g-dex-build7+mh4edit-mit-save-id,3,0
+138,雷狼龙炼甲,Zinogre Vest,mh4g-dex-build7+mh4edit-mit-save-id,3,0
+139,雷狼龙铠甲Ｓ,Zinogre Mail S,mh4g-dex-build7+mh4edit-mit-save-id,5,0
+140,雷狼龙炼甲Ｓ,Zinogre Vest S,mh4g-dex-build7+mh4edit-mit-save-id,5,0
+141,狱狼龙铠甲Ｕ,Zinogre Mail U,mh4g-dex-build7+mh4edit-mit-save-id,6,0
+142,狱狼龙炼甲Ｕ,Zinogre Vest U,mh4g-dex-build7+mh4edit-mit-save-id,6,0
+143,狱狼龙铠甲Ｕ,Zinogre Mail U,mh4g-dex-build7+mh4edit-mit-save-id,6,0
+144,狱狼龙炼甲Ｕ,Zinogre Vest U,mh4g-dex-build7+mh4edit-mit-save-id,6,0
+145,EX炎王龙铠甲,EX Kaiser Mail,mh4g-dex-build7+mh4edit-mit-save-id,7,0
+146,EX炎王龙炼甲,EX Kaiser Vest,mh4g-dex-build7+mh4edit-mit-save-id,7,0
+147,奇猿狐铠甲,Kecha Mail,mh4g-dex-build7+mh4edit-mit-save-id,2,0
+148,奇猿狐炼甲,Kecha Vest,mh4g-dex-build7+mh4edit-mit-save-id,2,0
+149,奇猿狐铠甲Ｓ,Kecha Mail S,mh4g-dex-build7+mh4edit-mit-save-id,4,0
+150,奇猿狐炼甲Ｓ,Kecha Vest S,mh4g-dex-build7+mh4edit-mit-save-id,4,0
+151,黑蚀龙铠甲,Gore Mail,mh4g-dex-build7+mh4edit-mit-save-id,3,0
+152,黑蚀龙炼甲,Gore Vest,mh4g-dex-build7+mh4edit-mit-save-id,3,0
+153,黑蚀龙铠甲Ｓ,Gore Mail S,mh4g-dex-build7+mh4edit-mit-save-id,6,0
+154,黑蚀龙炼甲Ｓ,Gore Vest S,mh4g-dex-build7+mh4edit-mit-save-id,6,0
+155,黑蚀龙铠甲,Gore Mail,mh4g-dex-build7+mh4edit-mit-save-id,3,0
+156,黑蚀龙炼甲,Gore Vest,mh4g-dex-build7+mh4edit-mit-save-id,3,0
+157,鬼蛙铠甲,Tetsucabra Mail,mh4g-dex-build7+mh4edit-mit-save-id,2,0
+158,鬼蛙炼甲,Tetsucabra Vest,mh4g-dex-build7+mh4edit-mit-save-id,2,0
+159,鬼蛙铠甲Ｓ,Tetsucabra Mail S,mh4g-dex-build7+mh4edit-mit-save-id,5,0
+160,鬼蛙炼甲Ｓ,Tetsucabra Vest S,mh4g-dex-build7+mh4edit-mit-save-id,5,0
+161,影蜘蛛铠甲,Nerscylla Mail,mh4g-dex-build7+mh4edit-mit-save-id,2,0
+162,影蜘蛛炼甲,Nerscylla Vest,mh4g-dex-build7+mh4edit-mit-save-id,2,0
+163,影蜘蛛铠甲Ｓ,Nerscylla Mail S,mh4g-dex-build7+mh4edit-mit-save-id,5,0
+164,影蜘蛛炼甲Ｓ,Nerscylla Vest S,mh4g-dex-build7+mh4edit-mit-save-id,5,0
+165,绞蛇龙铠甲,Najarala Mail,mh4g-dex-build7+mh4edit-mit-save-id,2,0
+166,绞蛇龙炼甲,Najarala Vest,mh4g-dex-build7+mh4edit-mit-save-id,2,0
+167,绞蛇龙铠甲Ｓ,Najarala Mail S,mh4g-dex-build7+mh4edit-mit-save-id,5,0
+168,绞蛇龙炼甲Ｓ,Najarala Vest S,mh4g-dex-build7+mh4edit-mit-save-id,5,0
+169,黑狼鸟铠甲,Garuga Mail,mh4g-dex-build7+mh4edit-mit-save-id,3,0
+170,黑狼鸟炼甲,Garuga Vest,mh4g-dex-build7+mh4edit-mit-save-id,3,0
+171,黑狼鸟铠甲Ｓ,Garuga Mail S,mh4g-dex-build7+mh4edit-mit-save-id,5,0
+172,黑狼鸟炼甲Ｓ,Garuga Vest S,mh4g-dex-build7+mh4edit-mit-save-id,5,0
+173,岩龙铠甲,Basarios Mail,mh4g-dex-build7+mh4edit-mit-save-id,2,0
+174,岩龙炼甲,Basarios Vest,mh4g-dex-build7+mh4edit-mit-save-id,2,0
+175,岩龙铠甲Ｓ,Basarios Mail S,mh4g-dex-build7+mh4edit-mit-save-id,5,0
+176,岩龙炼甲Ｓ,Basarios Vest S,mh4g-dex-build7+mh4edit-mit-save-id,5,0
+177,桃岩龙铠甲Ｕ,Basarios Mail U,mh4g-dex-build7+mh4edit-mit-save-id,6,0
+178,桃岩龙炼甲Ｕ,Basarios Vest U,mh4g-dex-build7+mh4edit-mit-save-id,6,0
+179,战斗铠甲,Battle Mail,mh4g-dex-build7+mh4edit-mit-save-id,2,0
+180,战斗炼甲,Battle Vest,mh4g-dex-build7+mh4edit-mit-save-id,2,0
+181,蓝速龙铠甲,Velociprey Mail,mh4g-dex-build7+mh4edit-mit-save-id,2,0
+182,蓝速龙炼甲,Velociprey Vest,mh4g-dex-build7+mh4edit-mit-save-id,2,0
+183,蓝速龙铠甲Ｓ,Velociprey Mail S,mh4g-dex-build7+mh4edit-mit-save-id,4,0
+184,蓝速龙炼甲Ｓ,Velociprey Vest S,mh4g-dex-build7+mh4edit-mit-save-id,4,0
+185,黄速龙铠甲,Genprey Mail,mh4g-dex-build7+mh4edit-mit-save-id,2,0
+186,黄速龙炼甲,Genprey Vest,mh4g-dex-build7+mh4edit-mit-save-id,2,0
+187,黄速龙铠甲Ｓ,Genprey Mail S,mh4g-dex-build7+mh4edit-mit-save-id,4,0
+188,黄速龙炼甲Ｓ,Genprey Vest S,mh4g-dex-build7+mh4edit-mit-save-id,4,0
+189,红速龙铠甲,Ioprey Mail,mh4g-dex-build7+mh4edit-mit-save-id,2,0
+190,红速龙炼甲,Ioprey Vest,mh4g-dex-build7+mh4edit-mit-save-id,2,0
+191,红速龙铠甲Ｓ,Ioprey Mail S,mh4g-dex-build7+mh4edit-mit-save-id,4,0
+192,红速龙炼甲Ｓ,Ioprey Vest S,mh4g-dex-build7+mh4edit-mit-save-id,4,0
+193,大怪鸟铠甲,Kut-Ku Mail,mh4g-dex-build7+mh4edit-mit-save-id,2,0
+194,大怪鸟炼甲,Kut-Ku Vest,mh4g-dex-build7+mh4edit-mit-save-id,2,0
+195,大怪鸟铠甲Ｓ,Kut-Ku Mail S,mh4g-dex-build7+mh4edit-mit-save-id,4,0
+196,大怪鸟炼甲Ｓ,Kut-Ku Vest S,mh4g-dex-build7+mh4edit-mit-save-id,4,0
+197,青怪鸟铠甲Ｕ,Kut-Ku Mail U,mh4g-dex-build7+mh4edit-mit-save-id,5,0
+198,青怪鸟炼甲Ｕ,Kut-Ku Vest U,mh4g-dex-build7+mh4edit-mit-save-id,5,0
+199,毒怪鸟铠甲,Gypceros Mail,mh4g-dex-build7+mh4edit-mit-save-id,2,0
+200,毒怪鸟炼甲,Gypceros Vest,mh4g-dex-build7+mh4edit-mit-save-id,2,0
+201,毒怪鸟铠甲Ｓ,Gypceros Mail S,mh4g-dex-build7+mh4edit-mit-save-id,5,0
+202,毒怪鸟炼甲Ｓ,Gypceros Vest S,mh4g-dex-build7+mh4edit-mit-save-id,5,0
+203,紫毒怪鸟铠甲Ｕ,Gypceros Mail U,mh4g-dex-build7+mh4edit-mit-save-id,6,0
+204,紫毒怪鸟炼甲Ｕ,Gypceros Vest U,mh4g-dex-build7+mh4edit-mit-save-id,6,0
+205,毒怪鸟铠甲,Gypceros Mail,mh4g-dex-build7+mh4edit-mit-save-id,2,0
+206,毒怪鸟炼甲,Gypceros Vest,mh4g-dex-build7+mh4edit-mit-save-id,2,0
+207,紫毒怪鸟铠甲Ｕ,Gypceros Mail U,mh4g-dex-build7+mh4edit-mit-save-id,6,0
+208,紫毒怪鸟炼甲Ｕ,Gypceros Vest U,mh4g-dex-build7+mh4edit-mit-save-id,6,0
+209,桃毛兽铠甲,Conga Mail,mh4g-dex-build7+mh4edit-mit-save-id,2,0
+210,桃毛兽炼甲,Conga Vest,mh4g-dex-build7+mh4edit-mit-save-id,2,0
+211,桃毛兽铠甲Ｓ,Conga Mail S,mh4g-dex-build7+mh4edit-mit-save-id,4,0
+212,桃毛兽炼甲Ｓ,Conga Vest S,mh4g-dex-build7+mh4edit-mit-save-id,4,0
+213,绿毛兽铠甲Ｕ,Conga Mail U,mh4g-dex-build7+mh4edit-mit-save-id,5,0
+214,绿毛兽炼甲Ｕ,Conga Vest U,mh4g-dex-build7+mh4edit-mit-save-id,5,0
+215,铠龙铠甲,Gravios Mail,mh4g-dex-build7+mh4edit-mit-save-id,3,0
+216,铠龙炼甲,Gravios Vest,mh4g-dex-build7+mh4edit-mit-save-id,3,0
+217,铠龙铠甲Ｓ,Gravios Mail S,mh4g-dex-build7+mh4edit-mit-save-id,5,0
+218,铠龙炼甲Ｓ,Gravios Vest S,mh4g-dex-build7+mh4edit-mit-save-id,5,0
+219,黑铠龙铠甲Ｕ,Gravios Mail U,mh4g-dex-build7+mh4edit-mit-save-id,6,0
+220,黑铠龙炼甲Ｕ,Gravios Vest U,mh4g-dex-build7+mh4edit-mit-save-id,6,0
+221,电龙铠甲,Khezu Mail,mh4g-dex-build7+mh4edit-mit-save-id,2,0
+222,电龙炼甲,Khezu Vest,mh4g-dex-build7+mh4edit-mit-save-id,2,0
+223,电龙铠甲Ｓ,Khezu Mail S,mh4g-dex-build7+mh4edit-mit-save-id,5,0
+224,电龙炼甲Ｓ,Khezu Vest S,mh4g-dex-build7+mh4edit-mit-save-id,5,0
+225,赤电龙铠甲Ｕ,Khezu Mail U,mh4g-dex-build7+mh4edit-mit-save-id,6,0
+226,赤电龙炼甲Ｕ,Khezu Vest U,mh4g-dex-build7+mh4edit-mit-save-id,6,0
+227,电龙铠甲,Khezu Mail,mh4g-dex-build7+mh4edit-mit-save-id,2,0
+228,电龙炼甲,Khezu Vest,mh4g-dex-build7+mh4edit-mit-save-id,2,0
+229,赤电龙铠甲Ｕ,Khezu Mail U,mh4g-dex-build7+mh4edit-mit-save-id,6,0
+230,赤电龙炼甲Ｕ,Khezu Vest U,mh4g-dex-build7+mh4edit-mit-save-id,6,0
+231,麒麟内衣,Kirin Jacket,mh4g-dex-build7+mh4edit-mit-save-id,3,0
+232,麒麟大衣,Kirin Cape,mh4g-dex-build7+mh4edit-mit-save-id,3,0
+233,麒麟内衣Ｓ,Kirin Jacket S,mh4g-dex-build7+mh4edit-mit-save-id,6,0
+234,麒麟大衣Ｓ,Kirin Cape S,mh4g-dex-build7+mh4edit-mit-save-id,6,0
+235,冰麒麟内衣Ｕ,Kirin Jacket U,mh4g-dex-build7+mh4edit-mit-save-id,7,0
+236,冰麒麟大衣Ｕ,Kirin Cape U,mh4g-dex-build7+mh4edit-mit-save-id,7,0
+237,麒麟内衣,Kirin Jacket,mh4g-dex-build7+mh4edit-mit-save-id,3,0
+238,麒麟大衣,Kirin Cape,mh4g-dex-build7+mh4edit-mit-save-id,3,0
+239,冰麒麟内衣Ｕ,Kirin Jacket U,mh4g-dex-build7+mh4edit-mit-save-id,7,0
+240,冰麒麟大衣Ｕ,Kirin Cape U,mh4g-dex-build7+mh4edit-mit-save-id,7,0
+241,钢龙铠甲,Kushala Cista,mh4g-dex-build7+mh4edit-mit-save-id,7,0
+242,钢龙胸铠,Kushala Vise,mh4g-dex-build7+mh4edit-mit-save-id,7,0
+243,EX钢龙铠甲,EX Kushala Cista,mh4g-dex-build7+mh4edit-mit-save-id,7,0
+244,EX钢龙胸铠,EX Kushala Vise,mh4g-dex-build7+mh4edit-mit-save-id,7,0
+245,钢龙铠甲,Kushala Cista,mh4g-dex-build7+mh4edit-mit-save-id,7,0
+246,钢龙胸铠,Kushala Vise,mh4g-dex-build7+mh4edit-mit-save-id,7,0
+247,炎妃龙铠甲,Empress Mail,mh4g-dex-build7+mh4edit-mit-save-id,7,0
+248,炎妃龙炼甲,Empress Vest,mh4g-dex-build7+mh4edit-mit-save-id,7,0
+249,镰蟹铠甲,Ceanataur Mail,mh4g-dex-build7+mh4edit-mit-save-id,2,0
+250,镰蟹炼甲,Ceanataur Vest,mh4g-dex-build7+mh4edit-mit-save-id,2,0
+251,镰蟹铠甲,Ceanataur Mail,mh4g-dex-build7+mh4edit-mit-save-id,2,0
+252,镰蟹炼甲,Ceanataur Vest,mh4g-dex-build7+mh4edit-mit-save-id,2,0
+253,晓丸【胴体】,Auroros Torso,mh4g-dex-build7+mh4edit-mit-save-id,3,0
+254,凛【胴体】,Borealis Chest,mh4g-dex-build7+mh4edit-mit-save-id,3,0
+255,曙丸【胴体】,Genesis Torso,mh4g-dex-build7+mh4edit-mit-save-id,3,0
+256,妖艳【胴体】,Glyph Chest,mh4g-dex-build7+mh4edit-mit-save-id,3,0
+257,晓丸【胴体】,Auroros Torso,mh4g-dex-build7+mh4edit-mit-save-id,3,0
+258,凛【胴体】,Borealis Chest,mh4g-dex-build7+mh4edit-mit-save-id,3,0
+259,曙丸【胴体】,Genesis Torso,mh4g-dex-build7+mh4edit-mit-save-id,3,0
+260,妖艳【胴体】,Glyph Chest,mh4g-dex-build7+mh4edit-mit-save-id,3,0
+261,溶岩龙铠甲,Lava Mail,mh4g-dex-build7+mh4edit-mit-save-id,3,0
+262,溶岩龙炼甲,Lava Vest,mh4g-dex-build7+mh4edit-mit-save-id,3,0
+263,翼蛇龙套之躯,Remobra Suit,mh4g-dex-build7+mh4edit-mit-save-id,2,0
+264,翼蛇龙套上衣,Remobra Wear,mh4g-dex-build7+mh4edit-mit-save-id,2,0
+265,翼蛇龙之躯Ｓ,Remobra Suit S,mh4g-dex-build7+mh4edit-mit-save-id,4,0
+266,翼蛇龙上衣Ｓ,Remobra Wear S,mh4g-dex-build7+mh4edit-mit-save-id,4,0
+267,鬼鲛铠甲,Zamtrios Mail,mh4g-dex-build7+mh4edit-mit-save-id,2,0
+268,鬼鲛炼甲,Zamtrios Vest,mh4g-dex-build7+mh4edit-mit-save-id,2,0
+269,鬼鲛铠甲Ｓ,Zamtrios Mail S,mh4g-dex-build7+mh4edit-mit-save-id,5,0
+270,鬼鲛炼甲Ｓ,Zamtrios Vest S,mh4g-dex-build7+mh4edit-mit-save-id,5,0
+271,重甲虫铠甲,Seltas Mail,mh4g-dex-build7+mh4edit-mit-save-id,3,0
+272,重甲虫炼甲,Seltas Vest,mh4g-dex-build7+mh4edit-mit-save-id,3,0
+273,重甲虫铠甲Ｓ,Seltas Mail S,mh4g-dex-build7+mh4edit-mit-save-id,5,0
+274,重甲虫炼甲Ｓ,Seltas Vest S,mh4g-dex-build7+mh4edit-mit-save-id,5,0
+275,弧光铠甲,Arc Mail,mh4g-dex-build7+mh4edit-mit-save-id,3,0
+276,弧光炼甲,Arc Vest,mh4g-dex-build7+mh4edit-mit-save-id,3,0
+277,弧光铠甲Ｓ,Arc Mail S,mh4g-dex-build7+mh4edit-mit-save-id,7,0
+278,弧光炼甲Ｓ,Arc Vest S,mh4g-dex-build7+mh4edit-mit-save-id,7,0
+279,弧光铠甲,Arc Mail,mh4g-dex-build7+mh4edit-mit-save-id,3,0
+280,弧光炼甲,Arc Vest,mh4g-dex-build7+mh4edit-mit-save-id,3,0
+281,炎王龙铠甲,Kaiser Mail,mh4g-dex-build7+mh4edit-mit-save-id,7,0
+282,炎王龙炼甲,Kaiser Vest,mh4g-dex-build7+mh4edit-mit-save-id,7,0
+283,金色的羽织,Golden Haori,mh4g-dex-build7+mh4edit-mit-save-id,7,0
+284,黑子的装束,Puppeteer Suit,mh4g-dex-build7+mh4edit-mit-save-id,7,0
+285,怒天的羽织,Divine Ire Haori,mh4g-dex-build7+mh4edit-mit-save-id,7,0
+286,心灭的装束,Crusher Garb,mh4g-dex-build7+mh4edit-mit-save-id,7,0
+287,逆乱铠甲,Rebellion Mail,mh4g-dex-build7+mh4edit-mit-save-id,7,0
+288,暴乱炼甲,Riot Vest,mh4g-dex-build7+mh4edit-mit-save-id,7,0
+289,逆乱铠甲,Rebellion Mail,mh4g-dex-build7+mh4edit-mit-save-id,7,0
+290,暴乱炼甲,Riot Vest,mh4g-dex-build7+mh4edit-mit-save-id,7,0
+291,恶龙皮衣Ｘ,Dragonhide X,mh4g-dex-build7+mh4edit-mit-save-id,10,0
+292,恶龙胸甲Ｘ,Dragonskin X,mh4g-dex-build7+mh4edit-mit-save-id,10,0
+293,恶龙皮衣,Dragonhide,mh4g-dex-build7+mh4edit-mit-save-id,7,0
+294,恶龙胸甲,Dragonskin,mh4g-dex-build7+mh4edit-mit-save-id,7,0
+295,红黑龙皮衣,Fatalis Crimsonhide,mh4g-dex-build7+mh4edit-mit-save-id,7,0
+296,红黑龙胸甲,Fatalis Crimsonskin,mh4g-dex-build7+mh4edit-mit-save-id,7,0
+297,红速龙套之躯,Ioprey Body,mh4g-dex-build7+mh4edit-mit-save-id,5,0
+298,红速龙套上衣,Ioprey Wear,mh4g-dex-build7+mh4edit-mit-save-id,5,0
+299,砂龙铠甲,Cephalos Mail,mh4g-dex-build7+mh4edit-mit-save-id,4,0
+300,砂龙炼甲,Cephalos Vest,mh4g-dex-build7+mh4edit-mit-save-id,4,0
+301,罔象【胴体】,Mizuha Guards,mh4g-dex-build7+mh4edit-mit-save-id,7,0
+302,丰玉【胴体】,Cham Camise,mh4g-dex-build7+mh4edit-mit-save-id,7,0
+303,盾蟹铠甲,Hermitaur Mail,mh4g-dex-build7+mh4edit-mit-save-id,4,0
+304,盾蟹炼甲,Hermitaur Vest,mh4g-dex-build7+mh4edit-mit-save-id,4,0
+305,盾蟹铠甲,Hermitaur Mail,mh4g-dex-build7+mh4edit-mit-save-id,4,0
+306,盾蟹炼甲,Hermitaur Vest,mh4g-dex-build7+mh4edit-mit-save-id,4,0
+307,飞虫铠甲,Vespoid Mail,mh4g-dex-build7+mh4edit-mit-save-id,4,0
+308,飞虫炼甲,Vespoid Vest,mh4g-dex-build7+mh4edit-mit-save-id,4,0
+309,彩鸟铠甲,Qurupeco Mail,mh4g-dex-build7+mh4edit-mit-save-id,4,0
+310,彩鸟炼甲,Qurupeco Vest,mh4g-dex-build7+mh4edit-mit-save-id,4,0
+311,炎戈龙铠甲,Agnaktor Mail,mh4g-dex-build7+mh4edit-mit-save-id,6,0
+312,炎戈龙炼甲,Agnaktor Vest,mh4g-dex-build7+mh4edit-mit-save-id,6,0
+313,冰牙龙铠甲,Barioth Mail,mh4g-dex-build7+mh4edit-mit-save-id,5,0
+314,冰牙龙炼甲,Barioth Vest,mh4g-dex-build7+mh4edit-mit-save-id,5,0
+315,赤甲兽铠甲,Volvidon Mail,mh4g-dex-build7+mh4edit-mit-save-id,4,0
+316,赤甲兽炼甲,Volvidon Vest,mh4g-dex-build7+mh4edit-mit-save-id,4,0
+317,海龙铠甲,Lagiacrus Mail,mh4g-dex-build7+mh4edit-mit-save-id,6,0
+318,海龙炼甲,Lagiacrus Vest,mh4g-dex-build7+mh4edit-mit-save-id,6,0
+319,海龙铠甲,Lagiacrus Mail,mh4g-dex-build7+mh4edit-mit-save-id,6,0
+320,海龙炼甲,Lagiacrus Vest,mh4g-dex-build7+mh4edit-mit-save-id,6,0
+321,太阳神铠甲,Helios Mail,mh4g-dex-build7+mh4edit-mit-save-id,7,0
+322,太阳神炼甲,Helios Vest,mh4g-dex-build7+mh4edit-mit-save-id,7,0
+323,月神铠甲,Selene Mail,mh4g-dex-build7+mh4edit-mit-save-id,7,0
+324,月神炼甲,Selene Vest,mh4g-dex-build7+mh4edit-mit-save-id,7,0
+325,灯鱼龙铠甲,Gobul Mail,mh4g-dex-build7+mh4edit-mit-save-id,5,0
+326,灯鱼龙炼甲,Gobul Vest,mh4g-dex-build7+mh4edit-mit-save-id,5,0
+327,大和【胴体】,Yamato Doate,mh4g-dex-build7+mh4edit-mit-save-id,7,0
+328,日向【胴体】,Hyuga Muneate,mh4g-dex-build7+mh4edit-mit-save-id,7,0
+329,陆奥【胴体】,Mutsu Doate,mh4g-dex-build7+mh4edit-mit-save-id,7,0
+330,天成【胴体】,Amagi Muneate,mh4g-dex-build7+mh4edit-mit-save-id,7,0
+331,煌黑龙之魂,Escadora Soul,mh4g-dex-build7+mh4edit-mit-save-id,7,0
+332,煌黑龙精神,Escadora Seele,mh4g-dex-build7+mh4edit-mit-save-id,7,0
+333,煌黑龙之魂,Escadora Soul,mh4g-dex-build7+mh4edit-mit-save-id,7,0
+334,煌黑龙精神,Escadora Seele,mh4g-dex-build7+mh4edit-mit-save-id,7,0
+335,雪狮子铠甲,Blango Mail,mh4g-dex-build7+mh4edit-mit-save-id,5,0
+336,雪狮子炼甲,Blango Vest,mh4g-dex-build7+mh4edit-mit-save-id,5,0
+337,龙虾王胸壳,Lobster Mail,mh4g-dex-build7+mh4edit-mit-save-id,4,0
+338,龙虾王胸甲,Lobster Vest,mh4g-dex-build7+mh4edit-mit-save-id,4,0
+339,崩龙铠甲,Ukanlos Aegis,mh4g-dex-build7+mh4edit-mit-save-id,7,0
+340,崩龙链甲,Ukanlos Plate,mh4g-dex-build7+mh4edit-mit-save-id,7,0
+341,金刚【胴体】,Indra Vest,mh4g-dex-build7+mh4edit-mit-save-id,7,0
+342,不动【胴体】,Steadfast Vest,mh4g-dex-build7+mh4edit-mit-save-id,7,0
+343,夜叉【羽衣】,Yaksha Raiment,mh4g-dex-build7+mh4edit-mit-save-id,7,0
+344,修罗【羽衣】,Carnage Raiment,mh4g-dex-build7+mh4edit-mit-save-id,7,0
+345,神秘铠甲,Artian Mail,mh4g-dex-build7+mh4edit-mit-save-id,3,0
+346,神秘炼甲,Artian Vest,mh4g-dex-build7+mh4edit-mit-save-id,3,0
+347,神秘铠甲Ｓ,Artian Mail S,mh4g-dex-build7+mh4edit-mit-save-id,5,0
+348,神秘炼甲Ｓ,Artian Vest S,mh4g-dex-build7+mh4edit-mit-save-id,5,0
+349,神秘铠甲Ｓ,Artian Mail S,mh4g-dex-build7+mh4edit-mit-save-id,5,0
+350,神秘炼甲Ｓ,Artian Vest S,mh4g-dex-build7+mh4edit-mit-save-id,5,0
+351,远古龙铠甲,Dober Mail,mh4g-dex-build7+mh4edit-mit-save-id,6,0
+352,远古龙炼甲,Dober Vest,mh4g-dex-build7+mh4edit-mit-save-id,6,0
+353,铸锭铠甲,Ingot Mail,mh4g-dex-build7+mh4edit-mit-save-id,3,0
+354,铸锭炼甲,Ingot Vest,mh4g-dex-build7+mh4edit-mit-save-id,3,0
+355,铸锭铠甲,Ingot Mail,mh4g-dex-build7+mh4edit-mit-save-id,3,0
+356,铸锭炼甲,Ingot Vest,mh4g-dex-build7+mh4edit-mit-save-id,3,0
+357,锹虫铠甲,Aelucanth Thorax,mh4g-dex-build7+mh4edit-mit-save-id,4,0
+358,蝴蝶铠甲,Rhopessa Thorax,mh4g-dex-build7+mh4edit-mit-save-id,4,0
+359,锹虫炼甲,Aelucanth Pleuron,mh4g-dex-build7+mh4edit-mit-save-id,4,0
+360,蝴蝶炼甲,Rhopessa Pleuron,mh4g-dex-build7+mh4edit-mit-save-id,4,0
+361,独角仙铠甲,Obituary Thorax,mh4g-dex-build7+mh4edit-mit-save-id,5,0
+362,彩蝶铠甲,Butterfly Thorax,mh4g-dex-build7+mh4edit-mit-save-id,5,0
+363,独角仙炼甲,Obituary Pleuron,mh4g-dex-build7+mh4edit-mit-save-id,5,0
+364,彩蝶炼甲,Butterfly Pleuron,mh4g-dex-build7+mh4edit-mit-save-id,5,0
+365,南瓜外衣,Mosgharl Ribplate,mh4g-dex-build7+mh4edit-mit-save-id,4,0
+366,南瓜内衣,Mosgharl Ribguard,mh4g-dex-build7+mh4edit-mit-save-id,4,0
+367,工会精英上衣,Guild Bard Bolero,mh4g-dex-build7+mh4edit-mit-save-id,4,0
+368,店员上衣,Scholar's Blouse,mh4g-dex-build7+mh4edit-mit-save-id,4,0
+369,工会精英内衣,Guild Bard Vest,mh4g-dex-build7+mh4edit-mit-save-id,4,0
+370,店员内衣,Scholar's Vest,mh4g-dex-build7+mh4edit-mit-save-id,4,0
+371,教官铠甲,Black Belt Mail,mh4g-dex-build7+mh4edit-mit-save-id,6,0
+372,教官炼甲,Black Belt Vest,mh4g-dex-build7+mh4edit-mit-save-id,6,0
+373,守护者上衣,Guardian Suit,mh4g-dex-build7+mh4edit-mit-save-id,4,0
+374,女佣上衣,Helper Suit,mh4g-dex-build7+mh4edit-mit-save-id,4,0
+375,守护者内衣,Guardian Vest,mh4g-dex-build7+mh4edit-mit-save-id,4,0
+376,女佣内衣,Helper Vest,mh4g-dex-build7+mh4edit-mit-save-id,4,0
+377,忍之装束・天,Shinobi Sky Suit,mh4g-dex-build7+mh4edit-mit-save-id,7,0
+378,忍之装束・地,Shinobi Land Suit,mh4g-dex-build7+mh4edit-mit-save-id,7,0
+379,工会骑士上衣,Guild Knight Suit,mh4g-dex-build7+mh4edit-mit-save-id,6,0
+380,女仆装上衣,Maiden's Suit,mh4g-dex-build7+mh4edit-mit-save-id,6,0
+381,工会骑士内衣,Guild Knight Vest,mh4g-dex-build7+mh4edit-mit-save-id,6,0
+382,女仆装内衣,Maiden's Vest,mh4g-dex-build7+mh4edit-mit-save-id,6,0
+383,结云外套・天,Yukumo Sky Dogi,mh4g-dex-build7+mh4edit-mit-save-id,6,0
+384,结云外套・地,Yukumo Land Dogi,mh4g-dex-build7+mh4edit-mit-save-id,6,0
+385,矿石铠甲,High Metal Mail,mh4g-dex-build7+mh4edit-mit-save-id,2,0
+386,矿石炼甲,High Metal Vest,mh4g-dex-build7+mh4edit-mit-save-id,2,0
+387,城塞游击队【胴卷】,Ranger's Girdle,mh4g-dex-build7+mh4edit-mit-save-id,6,0
+388,城塞弓击队【胴卷】,Archer's Girdle,mh4g-dex-build7+mh4edit-mit-save-id,6,0
+389,三孔首饰,Chakra Necklace,mh4g-dex-build7+mh4edit-mit-save-id,5,0
+390,水手服上衣,Sailor Suit,mh4g-dex-build7+mh4edit-mit-save-id,6,0
+391,水手服内衣,Sailor Vest,mh4g-dex-build7+mh4edit-mit-save-id,6,0
+392,团长上衣,Hawksuit,mh4g-dex-build7+mh4edit-mit-save-id,6,0
+393,看板娘上衣,Lecturer's Suit,mh4g-dex-build7+mh4edit-mit-save-id,6,0
+394,团长内衣,Hawkjacket,mh4g-dex-build7+mh4edit-mit-save-id,6,0
+395,看板娘内衣,Lecturer's Jacket,mh4g-dex-build7+mh4edit-mit-save-id,6,0
+396,蓝星花上衣,Blue Star Suit,mh4g-dex-build7+mh4edit-mit-save-id,7,0
+397,蓝星花内衣,Blue Star Jacket,mh4g-dex-build7+mh4edit-mit-save-id,7,0
+398,【美】阿纳特铠甲,Mail of Anat,mh4g-dex-build7+mh4edit-mit-save-id,10,0
+399,【美】阿纳特炼甲,Vest of Anat,mh4g-dex-build7+mh4edit-mit-save-id,10,0
+400,猛汉部大衣,Fan Club Jacket,mh4g-dex-build7+mh4edit-mit-save-id,7,0
+401,猛汉部外套,Fan Club Tracksuit,mh4g-dex-build7+mh4edit-mit-save-id,7,0
+402,优衣库外套,Uniqlo Bomber,mh4g-dex-build7+mh4edit-mit-save-id,7,0
+403,优衣库风衣,Uniqlo Hoodie,mh4g-dex-build7+mh4edit-mit-save-id,7,0
+404,路克星铠甲,Star Rook Mail,mh4g-dex-build7+mh4edit-mit-save-id,7,0
+405,路克星炼甲,Star Rook Vest,mh4g-dex-build7+mh4edit-mit-save-id,7,0
+406,dummy706,dummy706,mh4edit-mit-save-id-en-fallback,0,0
+407,dummy718,dummy718,mh4edit-mit-save-id-en-fallback,0,0
+408,dummy707,dummy707,mh4edit-mit-save-id-en-fallback,0,0
+409,dummy719,dummy719,mh4edit-mit-save-id-en-fallback,0,0
+410,狩猎迷彩外套,Hunter's Camo Suit,mh4g-dex-build7+mh4edit-mit-save-id,7,0
+411,狩猎迷彩大衣,Hunter's Camo Jacket,mh4g-dex-build7+mh4edit-mit-save-id,7,0
+412,dummy709,dummy709,mh4edit-mit-save-id-en-fallback,0,0
+413,dummy721,dummy721,mh4edit-mit-save-id-en-fallback,0,0
+414,DUMMY,DUMMY,mh4edit-mit-save-id-en-fallback,0,0
+415,DUMMY,DUMMY,mh4edit-mit-save-id-en-fallback,0,0
+416,狩猎战线大衣,Rider Jacket,mh4g-dex-build7+mh4edit-mit-save-id,7,0
+417,狩猎战线外套,Rider Leather,mh4g-dex-build7+mh4edit-mit-save-id,7,0
+418,dummy712,dummy712,mh4edit-mit-save-id-en-fallback,0,0
+419,dummy724,dummy724,mh4edit-mit-save-id-en-fallback,0,0
+420,DUMMY,DUMMY,mh4edit-mit-save-id-en-fallback,0,0
+421,DUMMY,DUMMY,mh4edit-mit-save-id-en-fallback,0,0
+422,勇者的衣服,Hero's Clothes,mh4g-dex-build7+mh4edit-mit-save-id,7,0
+423,勇者的上衣,Hero's Tunic,mh4g-dex-build7+mh4edit-mit-save-id,7,0
+424,dummy729,dummy729,mh4edit-mit-save-id-en-fallback,0,0
+425,dummy730,dummy730,mh4edit-mit-save-id-en-fallback,0,0
+426,dummy731,dummy731,mh4edit-mit-save-id-en-fallback,0,0
+427,dummy732,dummy732,mh4edit-mit-save-id-en-fallback,0,0
+428,EX逆乱铠甲,EX Rebellion Mail,mh4g-dex-build7+mh4edit-mit-save-id,7,0
+429,EX暴乱炼甲,EX Riot Vest,mh4g-dex-build7+mh4edit-mit-save-id,7,0
+430,EX神秘铠甲,EX Artian Mail,mh4g-dex-build7+mh4edit-mit-save-id,7,0
+431,EX神秘炼甲,EX Artian Vest,mh4g-dex-build7+mh4edit-mit-save-id,7,0
+432,EX黑蚀龙铠甲,EX Gore Mail,mh4g-dex-build7+mh4edit-mit-save-id,7,0
+433,EX黑蚀龙炼甲,EX Gore Vest,mh4g-dex-build7+mh4edit-mit-save-id,7,0
+434,EX高合金铠甲,EX Ingot Mail,mh4g-dex-build7+mh4edit-mit-save-id,7,0
+435,EX高合金炼甲,EX Ingot Vest,mh4g-dex-build7+mh4edit-mit-save-id,7,0
+436,EX冰麒麟内衣Ｕ,EX Kirin Jacket U,mh4g-dex-build7+mh4edit-mit-save-id,7,0
+437,EX冰麒麟大衣Ｕ,EX Kirin Cape U,mh4g-dex-build7+mh4edit-mit-save-id,7,0
+438,友爱铠甲,Storge Mail,mh4g-dex-build7+mh4edit-mit-save-id,3,0
+439,友爱炼甲,Storge Vest,mh4g-dex-build7+mh4edit-mit-save-id,3,0
+440,友爱铠甲Ｓ,Storge Mail S,mh4g-dex-build7+mh4edit-mit-save-id,7,0
+441,友爱炼甲Ｓ,Storge Vest S,mh4g-dex-build7+mh4edit-mit-save-id,7,0
+442,友爱铠甲,Storge Mail,mh4g-dex-build7+mh4edit-mit-save-id,3,0
+443,友爱炼甲,Storge Vest,mh4g-dex-build7+mh4edit-mit-save-id,3,0
+444,猎人铠甲,Hunter's Mail,mh4g-dex-build7+mh4edit-mit-save-id,1,0
+445,猎人炼甲,Hunter's Vest,mh4g-dex-build7+mh4edit-mit-save-id,1,0
+446,合金铠甲,Alloy Mail,mh4g-dex-build7+mh4edit-mit-save-id,1,0
+447,合金炼甲,Alloy Vest,mh4g-dex-build7+mh4edit-mit-save-id,1,0
+448,水兽铠甲,Ludroth Mail,mh4g-dex-build7+mh4edit-mit-save-id,2,0
+449,水兽炼甲,Ludroth Vest,mh4g-dex-build7+mh4edit-mit-save-id,2,0
+450,雌火龙铠甲,Rathian Mail,mh4g-dex-build7+mh4edit-mit-save-id,2,0
+451,雌火龙炼甲,Rathian Vest,mh4g-dex-build7+mh4edit-mit-save-id,2,0
+452,樱火龙铠甲,Rath Heart Mail,mh4g-dex-build7+mh4edit-mit-save-id,6,0
+453,樱火龙炼甲,Rath Heart Vest,mh4g-dex-build7+mh4edit-mit-save-id,6,0
+454,雄火龙铠甲,Rathalos Mail,mh4g-dex-build7+mh4edit-mit-save-id,3,0
+455,雄火龙炼甲,Rathalos Vest,mh4g-dex-build7+mh4edit-mit-save-id,3,0
+456,苍火龙铠甲,Rath Soul Mail,mh4g-dex-build7+mh4edit-mit-save-id,6,0
+457,苍火龙炼甲,Rath Soul Vest,mh4g-dex-build7+mh4edit-mit-save-id,6,0
+458,银火龙铠甲,Silver Solmail,mh4g-dex-build7+mh4edit-mit-save-id,7,0
+459,银火龙炼甲,Silver Solvest,mh4g-dex-build7+mh4edit-mit-save-id,7,0
+460,贪婪铠甲,Esurient Mail,mh4g-dex-build7+mh4edit-mit-save-id,7,0
+461,贪婪炼甲,Esurient Vest,mh4g-dex-build7+mh4edit-mit-save-id,7,0
+462,残阳【胴体】,Gloaming Plate,mh4g-dex-build7+mh4edit-mit-save-id,3,0
+463,常磐【胴体】,Adamance Plate,mh4g-dex-build7+mh4edit-mit-save-id,3,0
+464,东云【胴体】,Dayspring Plate,mh4g-dex-build7+mh4edit-mit-save-id,3,0
+465,八千代【胴体】,Epoch Plate,mh4g-dex-build7+mh4edit-mit-save-id,3,0
+466,轰龙铠甲,Tigrex Mail,mh4g-dex-build7+mh4edit-mit-save-id,3,0
+467,轰龙炼甲,Tigrex Vest,mh4g-dex-build7+mh4edit-mit-save-id,3,0
+468,黑轰龙铠甲Ｕ,Tigrex Mail U,mh4g-dex-build7+mh4edit-mit-save-id,6,0
+469,黑轰龙炼甲Ｕ,Tigrex Vest U,mh4g-dex-build7+mh4edit-mit-save-id,6,0
+470,霸龙铠甲,Akantor Aegis,mh4g-dex-build7+mh4edit-mit-save-id,7,0
+471,霸龙链甲,Akantor Plate,mh4g-dex-build7+mh4edit-mit-save-id,7,0
+472,狱狼龙铠甲Ｕ,Zinogre Mail U,mh4g-dex-build7+mh4edit-mit-save-id,6,0
+473,狱狼龙炼甲Ｕ,Zinogre Vest U,mh4g-dex-build7+mh4edit-mit-save-id,6,0
+474,黑蚀龙铠甲,Gore Mail,mh4g-dex-build7+mh4edit-mit-save-id,3,0
+475,黑蚀龙炼甲,Gore Vest,mh4g-dex-build7+mh4edit-mit-save-id,3,0
+476,毒怪鸟铠甲,Gypceros Mail,mh4g-dex-build7+mh4edit-mit-save-id,2,0
+477,毒怪鸟炼甲,Gypceros Vest,mh4g-dex-build7+mh4edit-mit-save-id,2,0
+478,紫毒怪鸟铠甲Ｕ,Gypceros Mail U,mh4g-dex-build7+mh4edit-mit-save-id,6,0
+479,紫毒怪鸟炼甲Ｕ,Gypceros Vest U,mh4g-dex-build7+mh4edit-mit-save-id,6,0
+480,电龙铠甲,Khezu Mail,mh4g-dex-build7+mh4edit-mit-save-id,2,0
+481,电龙炼甲,Khezu Vest,mh4g-dex-build7+mh4edit-mit-save-id,2,0
+482,赤电龙铠甲Ｕ,Khezu Mail U,mh4g-dex-build7+mh4edit-mit-save-id,6,0
+483,赤电龙炼甲Ｕ,Khezu Vest U,mh4g-dex-build7+mh4edit-mit-save-id,6,0
+484,麒麟内衣,Kirin Jacket,mh4g-dex-build7+mh4edit-mit-save-id,3,0
+485,麒麟大衣,Kirin Cape,mh4g-dex-build7+mh4edit-mit-save-id,3,0
+486,冰麒麟内衣Ｕ,Kirin Jacket U,mh4g-dex-build7+mh4edit-mit-save-id,7,0
+487,冰麒麟大衣Ｕ,Kirin Cape U,mh4g-dex-build7+mh4edit-mit-save-id,7,0
+488,钢龙铠甲,Kushala Cista,mh4g-dex-build7+mh4edit-mit-save-id,7,0
+489,钢龙胸铠,Kushala Vise,mh4g-dex-build7+mh4edit-mit-save-id,7,0
+490,镰蟹铠甲,Ceanataur Mail,mh4g-dex-build7+mh4edit-mit-save-id,2,0
+491,镰蟹炼甲,Ceanataur Vest,mh4g-dex-build7+mh4edit-mit-save-id,2,0
+492,晓丸【胴体】,Auroros Torso,mh4g-dex-build7+mh4edit-mit-save-id,3,0
+493,凛【胴体】,Borealis Chest,mh4g-dex-build7+mh4edit-mit-save-id,3,0
+494,曙丸【胴体】,Genesis Torso,mh4g-dex-build7+mh4edit-mit-save-id,3,0
+495,妖艳【胴体】,Glyph Chest,mh4g-dex-build7+mh4edit-mit-save-id,3,0
+496,弧光铠甲,Arc Mail,mh4g-dex-build7+mh4edit-mit-save-id,3,0
+497,弧光炼甲,Arc Vest,mh4g-dex-build7+mh4edit-mit-save-id,3,0
+498,逆乱铠甲,Rebellion Mail,mh4g-dex-build7+mh4edit-mit-save-id,7,0
+499,暴乱炼甲,Riot Vest,mh4g-dex-build7+mh4edit-mit-save-id,7,0
+500,恶龙皮衣Ｘ,Dragonhide X,mh4g-dex-build7+mh4edit-mit-save-id,10,0
+501,恶龙胸甲Ｘ,Dragonskin X,mh4g-dex-build7+mh4edit-mit-save-id,10,0
+502,盾蟹铠甲,Hermitaur Mail,mh4g-dex-build7+mh4edit-mit-save-id,4,0
+503,盾蟹炼甲,Hermitaur Vest,mh4g-dex-build7+mh4edit-mit-save-id,4,0
+504,海龙铠甲,Lagiacrus Mail,mh4g-dex-build7+mh4edit-mit-save-id,6,0
+505,海龙炼甲,Lagiacrus Vest,mh4g-dex-build7+mh4edit-mit-save-id,6,0
+506,煌黑龙之魂,Escadora Soul,mh4g-dex-build7+mh4edit-mit-save-id,7,0
+507,煌黑龙精神,Escadora Seele,mh4g-dex-build7+mh4edit-mit-save-id,7,0
+508,神秘铠甲Ｓ,Artian Mail S,mh4g-dex-build7+mh4edit-mit-save-id,5,0
+509,神秘炼甲Ｓ,Artian Vest S,mh4g-dex-build7+mh4edit-mit-save-id,5,0
+510,铸锭铠甲,Ingot Mail,mh4g-dex-build7+mh4edit-mit-save-id,3,0
+511,铸锭炼甲,Ingot Vest,mh4g-dex-build7+mh4edit-mit-save-id,3,0
+512,友爱铠甲,Storge Mail,mh4g-dex-build7+mh4edit-mit-save-id,3,0
+513,友爱炼甲,Storge Vest,mh4g-dex-build7+mh4edit-mit-save-id,3,0
+514,蓝速龙铠甲Ｘ,Velociprey Mail X,mh4g-dex-build7+mh4edit-mit-save-id,8,0
+515,蓝速龙炼甲Ｘ,Velociprey Vest X,mh4g-dex-build7+mh4edit-mit-save-id,8,0
+516,红速龙铠甲Ｘ,Ioprey Mail X,mh4g-dex-build7+mh4edit-mit-save-id,8,0
+517,红速龙炼甲Ｘ,Ioprey Vest X,mh4g-dex-build7+mh4edit-mit-save-id,8,0
+518,奇猿狐铠甲Ｘ,Kecha Mail X,mh4g-dex-build7+mh4edit-mit-save-id,8,0
+519,奇猿狐炼甲Ｘ,Kecha Vest X,mh4g-dex-build7+mh4edit-mit-save-id,8,0
+520,白猿狐铠甲Ｚ,Kecha Mail Z,mh4g-dex-build7+mh4edit-mit-save-id,8,0
+521,白猿狐炼甲Ｚ,Kecha Vest Z,mh4g-dex-build7+mh4edit-mit-save-id,8,0
+522,鬼蛙铠甲Ｘ,Tetsucabra Mail X,mh4g-dex-build7+mh4edit-mit-save-id,8,0
+523,鬼蛙炼甲Ｘ,Tetsucabra Vest X,mh4g-dex-build7+mh4edit-mit-save-id,8,0
+524,荒鬼蛙铠甲Ｚ,Tetsucabra Mail Z,mh4g-dex-build7+mh4edit-mit-save-id,8,0
+525,荒鬼蛙炼甲Ｚ,Tetsucabra Vest Z,mh4g-dex-build7+mh4edit-mit-save-id,8,0
+526,影蜘蛛铠甲Ｘ,Nerscylla Mail X,mh4g-dex-build7+mh4edit-mit-save-id,8,0
+527,影蜘蛛炼甲Ｘ,Nerscylla Vest X,mh4g-dex-build7+mh4edit-mit-save-id,8,0
+528,骸蜘蛛铠甲Ｚ,Nerscylla Mail Z,mh4g-dex-build7+mh4edit-mit-save-id,9,0
+529,骸蜘蛛炼甲Ｚ,Nerscylla Vest Z,mh4g-dex-build7+mh4edit-mit-save-id,9,0
+530,鬼鲛铠甲Ｘ,Zamtrios Mail X,mh4g-dex-build7+mh4edit-mit-save-id,8,0
+531,鬼鲛炼甲Ｘ,Zamtrios Vest X,mh4g-dex-build7+mh4edit-mit-save-id,8,0
+532,虎鲛铠甲Ｚ,Zamtrios Mail Z,mh4g-dex-build7+mh4edit-mit-save-id,8,0
+533,虎鲛炼甲Ｚ,Zamtrios Vest Z,mh4g-dex-build7+mh4edit-mit-save-id,8,0
+534,绞蛇龙铠甲Ｘ,Najarala Mail X,mh4g-dex-build7+mh4edit-mit-save-id,8,0
+535,绞蛇龙炼甲Ｘ,Najarala Vest X,mh4g-dex-build7+mh4edit-mit-save-id,8,0
+536,水蛇龙铠甲Ｚ,Najarala Mail Z,mh4g-dex-build7+mh4edit-mit-save-id,8,0
+537,水蛇龙炼甲Ｚ,Najarala Vest Z,mh4g-dex-build7+mh4edit-mit-save-id,8,0
+538,重甲虫铠甲Ｘ,Seltas Mail X,mh4g-dex-build7+mh4edit-mit-save-id,9,0
+539,重甲虫炼甲Ｘ,Seltas Vest X,mh4g-dex-build7+mh4edit-mit-save-id,9,0
+540,炮甲虫铠甲Ｚ,Seltas Mail Z,mh4g-dex-build7+mh4edit-mit-save-id,9,0
+541,炮甲虫炼甲Ｚ,Seltas Vest Z,mh4g-dex-build7+mh4edit-mit-save-id,9,0
+542,黑蚀龙铠甲Ｘ,Gore Mail X,mh4g-dex-build7+mh4edit-mit-save-id,9,0
+543,黑蚀龙炼甲Ｘ,Gore Vest X,mh4g-dex-build7+mh4edit-mit-save-id,9,0
+544,Gore Armor,Gore Armor,mh4edit-mit-save-id-en-fallback,0,0
+545,Gore Pizane,Gore Pizane,mh4edit-mit-save-id-en-fallback,0,0
+546,弧光铠甲Ｘ,Arc Mail X,mh4g-dex-build7+mh4edit-mit-save-id,10,0
+547,友爱铠甲Ｘ,Storge Mail X,mh4g-dex-build7+mh4edit-mit-save-id,10,0
+548,弧光炼甲Ｘ,Arc Vest X,mh4g-dex-build7+mh4edit-mit-save-id,10,0
+549,友爱炼甲Ｘ,Storge Vest X,mh4g-dex-build7+mh4edit-mit-save-id,10,0
+550,Arc Armor,Arc Armor,mh4edit-mit-save-id-en-fallback,0,0
+551,Storge Armor,Storge Armor,mh4edit-mit-save-id-en-fallback,0,0
+552,Arc Pizane,Arc Pizane,mh4edit-mit-save-id-en-fallback,0,0
+553,Storge Pizane,Storge Pizane,mh4edit-mit-save-id-en-fallback,0,0
+554,巨戟龙铠甲,Gogma Mail,mh4g-dex-build7+mh4edit-mit-save-id,10,0
+555,巨戟龙炼甲,Gogma Vest,mh4g-dex-build7+mh4edit-mit-save-id,10,0
+556,毒怪鸟铠甲Ｘ,Gypceros Mail X,mh4g-dex-build7+mh4edit-mit-save-id,8,0
+557,毒怪鸟炼甲Ｘ,Gypceros Vest X,mh4g-dex-build7+mh4edit-mit-save-id,8,0
+558,Gypceros Armor,Gypceros Armor,mh4edit-mit-save-id-en-fallback,0,0
+559,Gypceros Pizane,Gypceros Pizane,mh4edit-mit-save-id-en-fallback,0,0
+560,紫毒怪鸟铠甲Ｚ,Gypceros Mail Z,mh4g-dex-build7+mh4edit-mit-save-id,8,0
+561,紫毒怪鸟炼甲Ｚ,Gypceros Vest Z,mh4g-dex-build7+mh4edit-mit-save-id,8,0
+562,Gypceros Armor U,Gypceros Armor U,mh4edit-mit-save-id-en-fallback,0,0
+563,Gypceros Pizane U,Gypceros Pizane U,mh4edit-mit-save-id-en-fallback,0,0
+564,白兔兽铠甲Ｘ,Lagombi Mail X,mh4g-dex-build7+mh4edit-mit-save-id,8,0
+565,白兔兽炼甲Ｘ,Lagombi Vest X,mh4g-dex-build7+mh4edit-mit-save-id,8,0
+566,桃毛兽铠甲Ｘ,Conga Mail X,mh4g-dex-build7+mh4edit-mit-save-id,8,0
+567,桃毛兽炼甲Ｘ,Conga Vest X,mh4g-dex-build7+mh4edit-mit-save-id,8,0
+568,绿毛兽铠甲Ｚ,Conga Mail Z,mh4g-dex-build7+mh4edit-mit-save-id,8,0
+569,绿毛兽炼甲Ｚ,Conga Vest Z,mh4g-dex-build7+mh4edit-mit-save-id,8,0
+570,电龙铠甲Ｘ,Khezu Mail X,mh4g-dex-build7+mh4edit-mit-save-id,8,0
+571,电龙炼甲Ｘ,Khezu Vest X,mh4g-dex-build7+mh4edit-mit-save-id,8,0
+572,Khezu Armor,Khezu Armor,mh4edit-mit-save-id-en-fallback,0,0
+573,Khezu Pizane,Khezu Pizane,mh4edit-mit-save-id-en-fallback,0,0
+574,赤电龙铠甲Ｚ,Khezu Mail Z,mh4g-dex-build7+mh4edit-mit-save-id,8,0
+575,赤电龙炼甲Ｚ,Khezu Vest Z,mh4g-dex-build7+mh4edit-mit-save-id,8,0
+576,Khezu Armor U,Khezu Armor U,mh4edit-mit-save-id-en-fallback,0,0
+577,Khezu Pizane U,Khezu Pizane U,mh4edit-mit-save-id-en-fallback,0,0
+578,雌火龙铠甲Ｘ,Rathian Mail X,mh4g-dex-build7+mh4edit-mit-save-id,8,0
+579,雌火龙炼甲Ｘ,Rathian Vest X,mh4g-dex-build7+mh4edit-mit-save-id,8,0
+580,Rathian Armor,Rathian Armor,mh4edit-mit-save-id-en-fallback,0,0
+581,Rathian Pizane,Rathian Pizane,mh4edit-mit-save-id-en-fallback,0,0
+582,樱火龙铠甲Ｚ,Rath Heart Mail Z,mh4g-dex-build7+mh4edit-mit-save-id,8,0
+583,樱火龙炼甲Ｚ,Rath Heart Vest Z,mh4g-dex-build7+mh4edit-mit-save-id,8,0
+584,Rath Heart Armor,Rath Heart Armor,mh4edit-mit-save-id-en-fallback,0,0
+585,Rath Heart Pizane,Rath Heart Pizane,mh4edit-mit-save-id-en-fallback,0,0
+586,Ｇ・金火龙铠甲Ｚ,Golden Lunemail Z,mh4g-dex-build7+mh4edit-mit-save-id,10,0
+587,Ｇ・金火龙炼甲Ｚ,Golden Lunevest Z,mh4g-dex-build7+mh4edit-mit-save-id,10,0
+588,雄火龙铠甲Ｘ,Rathalos Mail X,mh4g-dex-build7+mh4edit-mit-save-id,9,0
+589,雄火龙炼甲Ｘ,Rathalos Vest X,mh4g-dex-build7+mh4edit-mit-save-id,9,0
+590,Rathalos Armor,Rathalos Armor,mh4edit-mit-save-id-en-fallback,0,0
+591,Rathalos Pizane,Rathalos Pizane,mh4edit-mit-save-id-en-fallback,0,0
+592,苍火龙铠甲Ｚ,Rath Soul Mail Z,mh4g-dex-build7+mh4edit-mit-save-id,9,0
+593,苍火龙炼甲Ｚ,Rath Soul Vest Z,mh4g-dex-build7+mh4edit-mit-save-id,9,0
+594,Rath Soul Armor,Rath Soul Armor,mh4edit-mit-save-id-en-fallback,0,0
+595,Rath Soul Pizane,Rath Soul Pizane,mh4edit-mit-save-id-en-fallback,0,0
+596,Ｓ・银火龙铠甲Ｚ,Silver Solmail Z,mh4g-dex-build7+mh4edit-mit-save-id,10,0
+597,Ｓ・银火龙炼甲Ｚ,Silver Solvest Z,mh4g-dex-build7+mh4edit-mit-save-id,10,0
+598,Silver Solarmor,Silver Solarmor,mh4edit-mit-save-id-en-fallback,0,0
+599,Silver Solpizane,Silver Solpizane,mh4edit-mit-save-id-en-fallback,0,0
+600,雷狼龙铠甲Ｘ,Zinogre Mail X,mh4g-dex-build7+mh4edit-mit-save-id,9,0
+601,雷狼龙炼甲Ｘ,Zinogre Vest X,mh4g-dex-build7+mh4edit-mit-save-id,9,0
+602,狱狼龙铠甲Ｚ,Zinogre Mail Z,mh4g-dex-build7+mh4edit-mit-save-id,9,0
+603,狱狼龙炼甲Ｚ,Zinogre Vest Z,mh4g-dex-build7+mh4edit-mit-save-id,9,0
+604,Zinogre Armor U,Zinogre Armor U,mh4edit-mit-save-id-en-fallback,0,0
+605,Zinogre Pizane U,Zinogre Pizane U,mh4edit-mit-save-id-en-fallback,0,0
+606,轰龙铠甲Ｘ,Tigrex Mail X,mh4g-dex-build7+mh4edit-mit-save-id,9,0
+607,轰龙炼甲Ｘ,Tigrex Vest X,mh4g-dex-build7+mh4edit-mit-save-id,9,0
+608,Tigrex Armor,Tigrex Armor,mh4edit-mit-save-id-en-fallback,0,0
+609,Tigrex Pizane,Tigrex Pizane,mh4edit-mit-save-id-en-fallback,0,0
+610,黑轰龙铠甲Ｚ,Tigrex Mail Z,mh4g-dex-build7+mh4edit-mit-save-id,9,0
+611,黑轰龙炼甲Ｚ,Tigrex Vest Z,mh4g-dex-build7+mh4edit-mit-save-id,9,0
+612,Tigrex Armor U,Tigrex Armor U,mh4edit-mit-save-id-en-fallback,0,0
+613,Tigrex Pizane U,Tigrex Pizane U,mh4edit-mit-save-id-en-fallback,0,0
+614,大轰龙铠甲Ｚ,Excello Mail Z,mh4g-dex-build7+mh4edit-mit-save-id,10,0
+615,大轰龙炼甲Ｚ,Excello Vest Z,mh4g-dex-build7+mh4edit-mit-save-id,10,0
+616,铠龙铠甲Ｘ,Gravios Mail X,mh4g-dex-build7+mh4edit-mit-save-id,9,0
+617,铠龙炼甲Ｘ,Gravios Vest X,mh4g-dex-build7+mh4edit-mit-save-id,9,0
+618,黑铠龙铠甲Ｚ,Gravios Mail Z,mh4g-dex-build7+mh4edit-mit-save-id,9,0
+619,黑铠龙炼甲Ｚ,Gravios Vest Z,mh4g-dex-build7+mh4edit-mit-save-id,9,0
+620,碎龙铠甲Ｘ,Brachydios Mail X,mh4g-dex-build7+mh4edit-mit-save-id,9,0
+621,碎龙炼甲Ｘ,Brachydios Vest X,mh4g-dex-build7+mh4edit-mit-save-id,9,0
+622,极限碎龙铠甲,Brachydium Mail,mh4g-dex-build7+mh4edit-mit-save-id,10,0
+623,极限碎龙炼甲,Brachydium Vest,mh4g-dex-build7+mh4edit-mit-save-id,10,0
+624,残阳・真【胴体】,Grand Gloaming Plate,mh4g-dex-build7+mh4edit-mit-save-id,10,0
+625,常磐・真【胴体】,Grand Adamance Plate,mh4g-dex-build7+mh4edit-mit-save-id,10,0
+626,东云・真【胴体】,Grand Dayspring Plate,mh4g-dex-build7+mh4edit-mit-save-id,10,0
+627,八千代・真【胴体】,Grand Epoch Plate,mh4g-dex-build7+mh4edit-mit-save-id,10,0
+628,Gloaming Redplate,Gloaming Redplate,mh4edit-mit-save-id-en-fallback,0,0
+629,Adamance Redplate,Adamance Redplate,mh4edit-mit-save-id-en-fallback,0,0
+630,Dayspring Redplate,Dayspring Redplate,mh4edit-mit-save-id-en-fallback,0,0
+631,Epoch Redplate,Epoch Redplate,mh4edit-mit-save-id-en-fallback,0,0
+632,恐暴龙铠甲Ｘ,Vangis Mail X,mh4g-dex-build7+mh4edit-mit-save-id,9,0
+633,恐暴龙炼甲Ｘ,Vangis Vest X,mh4g-dex-build7+mh4edit-mit-save-id,9,0
+634,贪婪铠甲Ｚ,Esurient Mail Z,mh4g-dex-build7+mh4edit-mit-save-id,10,0
+635,贪婪炼甲Ｚ,Esurient Vest Z,mh4g-dex-build7+mh4edit-mit-save-id,10,0
+636,Esurient Armor,Esurient Armor,mh4edit-mit-save-id-en-fallback,0,0
+637,Esurient Pizane,Esurient Pizane,mh4edit-mit-save-id-en-fallback,0,0
+638,炎王龙铠甲Ｘ,Kaiser Mail X,mh4g-dex-build7+mh4edit-mit-save-id,10,0
+639,炎王龙炼甲Ｘ,Kaiser Vest X,mh4g-dex-build7+mh4edit-mit-save-id,10,0
+640,霸龙铠甲Ｘ,Akantor Aegis X,mh4g-dex-build7+mh4edit-mit-save-id,10,0
+641,霸龙链甲Ｘ,Akantor Plate X,mh4g-dex-build7+mh4edit-mit-save-id,10,0
+642,Akantor Armor,Akantor Armor,mh4edit-mit-save-id-en-fallback,0,0
+643,Akantor Pizane,Akantor Pizane,mh4edit-mit-save-id-en-fallback,0,0
+644,EX煌黑龙之魂,EX Escadora Soul,mh4g-dex-build7+mh4edit-mit-save-id,10,0
+645,EX煌黑龙精神,EX Escadora Seele,mh4g-dex-build7+mh4edit-mit-save-id,10,0
+646,崩龙铠甲Ｘ,Ukanlos Aegis X,mh4g-dex-build7+mh4edit-mit-save-id,10,0
+647,崩龙链甲Ｘ,Ukanlos Plate X,mh4g-dex-build7+mh4edit-mit-save-id,10,0
+648,钢龙铠甲Ｘ,Kushala Cista X,mh4g-dex-build7+mh4edit-mit-save-id,10,0
+649,钢龙胸铠Ｘ,Kushala Vise X,mh4g-dex-build7+mh4edit-mit-save-id,10,0
+650,Kushala Armor,Kushala Armor,mh4edit-mit-save-id-en-fallback,0,0
+651,Kushala Pizane,Kushala Pizane,mh4edit-mit-save-id-en-fallback,0,0
+652,锈钢龙铠甲,Kujula Cista,mh4g-dex-build7+mh4edit-mit-save-id,10,0
+653,锈钢龙胸铠,Kujula Vise,mh4g-dex-build7+mh4edit-mit-save-id,10,0
+654,齐天的上衣・真,Grand God's Peer Robe,mh4g-dex-build7+mh4edit-mit-save-id,10,0
+655,仙师的上衣・真,Grand Hermit Robe,mh4g-dex-build7+mh4edit-mit-save-id,10,0
+656,怒天的上衣・真,Grand Divine Ire Robe,mh4g-dex-build7+mh4edit-mit-save-id,10,0
+657,心灭的上衣・真,Grand Crusher Robe,mh4g-dex-build7+mh4edit-mit-save-id,10,0
+658,逆乱铠甲Ｘ,Rebellion Mail X,mh4g-dex-build7+mh4edit-mit-save-id,10,0
+659,暴乱炼甲Ｘ,Riot Vest X,mh4g-dex-build7+mh4edit-mit-save-id,10,0
+660,Rebellion Armor,Rebellion Armor,mh4edit-mit-save-id-en-fallback,0,0
+661,Riot Pizane,Riot Pizane,mh4edit-mit-save-id-en-fallback,0,0
+662,逆乱铠甲Ｚ,Rebellion Mail Z,mh4g-dex-build7+mh4edit-mit-save-id,10,0
+663,暴乱炼甲Ｚ,Riot Vest Z,mh4g-dex-build7+mh4edit-mit-save-id,10,0
+664,砂龙铠甲Ｘ,Cephalos Mail X,mh4g-dex-build7+mh4edit-mit-save-id,8,0
+665,砂龙炼甲Ｘ,Cephalos Vest X,mh4g-dex-build7+mh4edit-mit-save-id,8,0
+666,盾蟹铠甲Ｘ,Hermitaur Mail X,mh4g-dex-build7+mh4edit-mit-save-id,8,0
+667,盾蟹炼甲Ｘ,Hermitaur Vest X,mh4g-dex-build7+mh4edit-mit-save-id,8,0
+668,Hermitaur Armor,Hermitaur Armor,mh4edit-mit-save-id-en-fallback,0,0
+669,Hermitaur Pizane,Hermitaur Pizane,mh4edit-mit-save-id-en-fallback,0,0
+670,紫盾蟹铠甲Ｚ,Hermitaur Mail Z,mh4g-dex-build7+mh4edit-mit-save-id,8,0
+671,紫盾蟹炼甲Ｚ,Hermitaur Vest Z,mh4g-dex-build7+mh4edit-mit-save-id,8,0
+672,一角龙铠甲Ｓ,Mono Mail S,mh4g-dex-build7+mh4edit-mit-save-id,5,0
+673,一角龙炼甲Ｓ,Mono Vest S,mh4g-dex-build7+mh4edit-mit-save-id,5,0
+674,一角龙铠甲Ｘ,Mono Mail X,mh4g-dex-build7+mh4edit-mit-save-id,9,0
+675,一角龙炼甲Ｘ,Mono Vest X,mh4g-dex-build7+mh4edit-mit-save-id,9,0
+676,Mono Mail,Mono Mail,mh4edit-mit-save-id-en-fallback,0,0
+677,Mono Vest,Mono Vest,mh4edit-mit-save-id-en-fallback,0,0
+678,Mono Armor,Mono Armor,mh4edit-mit-save-id-en-fallback,0,0
+679,Mono Pizane,Mono Pizane,mh4edit-mit-save-id-en-fallback,0,0
+680,白一角龙铠甲,Monodevil Mail,mh4g-dex-build7+mh4edit-mit-save-id,9,0
+681,白一角龙炼甲,Monodevil Vest,mh4g-dex-build7+mh4edit-mit-save-id,9,0
+682,白一角龙铠甲,Monodevil Mail,mh4g-dex-build7+mh4edit-mit-save-id,9,0
+683,白一角龙炼甲,Monodevil Vest,mh4g-dex-build7+mh4edit-mit-save-id,9,0
+684,Monodevil Armor,Monodevil Armor,mh4edit-mit-save-id-en-fallback,0,0
+685,Monodevil Pizane,Monodevil Pizane,mh4edit-mit-save-id-en-fallback,0,0
+686,角龙铠甲Ｘ,Diablos Mail X,mh4g-dex-build7+mh4edit-mit-save-id,9,0
+687,角龙炼甲Ｘ,Diablos Vest X,mh4g-dex-build7+mh4edit-mit-save-id,9,0
+688,角龙铠甲,Diablos Mail,mh4g-dex-build7+mh4edit-mit-save-id,3,0
+689,角龙炼甲,Diablos Vest,mh4g-dex-build7+mh4edit-mit-save-id,3,0
+690,Diablos Armor,Diablos Armor,mh4edit-mit-save-id-en-fallback,0,0
+691,Diablos Pizane,Diablos Pizane,mh4edit-mit-save-id-en-fallback,0,0
+692,黑角龙铠甲Ｚ,Diablos Mail Z,mh4g-dex-build7+mh4edit-mit-save-id,9,0
+693,黑角龙炼甲Ｚ,Diablos Vest Z,mh4g-dex-build7+mh4edit-mit-save-id,9,0
+694,恶龙皮衣Ｘ,Dragonhide X,mh4g-dex-build7+mh4edit-mit-save-id,10,0
+695,恶龙胸甲Ｘ,Dragonskin X,mh4g-dex-build7+mh4edit-mit-save-id,10,0
+696,Dragonarmor X,Dragonarmor X,mh4edit-mit-save-id-en-fallback,0,0
+697,Dragonpizane X,Dragonpizane X,mh4edit-mit-save-id-en-fallback,0,0
+698,Fatalis Crimsonhide Z,Fatalis Crimsonhide Z,mh4edit-mit-save-id-en-fallback,0,0
+699,Fatalis Crimsonskin Z,Fatalis Crimsonskin Z,mh4edit-mit-save-id-en-fallback,0,0
+700,Fatalis Crimsonarmor Z,Fatalis Crimsonarmor Z,mh4edit-mit-save-id-en-fallback,0,0
+701,Fatalis Crimsonpizane Z,Fatalis Crimsonpizane Z,mh4edit-mit-save-id-en-fallback,0,0
+702,黑龙皮衣,Wrothhide,mh4g-dex-build7+mh4edit-mit-save-id,10,0
+703,黑龙胸甲,Wrothskin,mh4g-dex-build7+mh4edit-mit-save-id,10,0
+704,祖龙皮衣,White Fatalis Hide,mh4g-dex-build7+mh4edit-mit-save-id,10,0
+705,祖龙胸甲,White Fatalis Skin,mh4g-dex-build7+mh4edit-mit-save-id,10,0
+706,罔象真【胴体】,Grand Mizuha Guards,mh4g-dex-build7+mh4edit-mit-save-id,10,0
+707,丰玉真【胴体】,Grand Cham Camise,mh4g-dex-build7+mh4edit-mit-save-id,10,0
+708,千刃龙铠甲Ｓ,Regios Mail S,mh4g-dex-build7+mh4edit-mit-save-id,6,0
+709,千刃龙炼甲Ｓ,Regios Vest S,mh4g-dex-build7+mh4edit-mit-save-id,6,0
+710,千刃龙铠甲Ｘ,Regios Mail X,mh4g-dex-build7+mh4edit-mit-save-id,9,0
+711,千刃龙炼甲Ｘ,Regios Vest X,mh4g-dex-build7+mh4edit-mit-save-id,9,0
+712,浑沌铠甲,Chaos Mail,mh4g-dex-build7+mh4edit-mit-save-id,9,0
+713,拿非利铠甲,Nephilim Mail,mh4g-dex-build7+mh4edit-mit-save-id,9,0
+714,浑沌炼甲,Chaos Vest,mh4g-dex-build7+mh4edit-mit-save-id,9,0
+715,拿非利炼甲,Nephilim Vest,mh4g-dex-build7+mh4edit-mit-save-id,9,0
+716,岩龙铠甲Ｘ,Basarios Mail X,mh4g-dex-build7+mh4edit-mit-save-id,8,0
+717,岩龙炼甲Ｘ,Basarios Vest X,mh4g-dex-build7+mh4edit-mit-save-id,8,0
+718,桃岩龙铠甲Ｚ,Basarios Mail Z,mh4g-dex-build7+mh4edit-mit-save-id,8,0
+719,桃岩龙炼甲Ｚ,Basarios Vest Z,mh4g-dex-build7+mh4edit-mit-save-id,8,0
+720,大怪鸟铠甲Ｘ,Kut-Ku Mail X,mh4g-dex-build7+mh4edit-mit-save-id,8,0
+721,大怪鸟炼甲Ｘ,Kut-Ku Vest X,mh4g-dex-build7+mh4edit-mit-save-id,8,0
+722,青怪鸟铠甲Ｚ,Kut-Ku Mail Z,mh4g-dex-build7+mh4edit-mit-save-id,8,0
+723,青怪鸟炼甲Ｚ,Kut-Ku Vest Z,mh4g-dex-build7+mh4edit-mit-save-id,8,0
+724,黑狼鸟铠甲Ｘ,Garuga Mail X,mh4g-dex-build7+mh4edit-mit-save-id,9,0
+725,黑狼鸟炼甲Ｘ,Garuga Vest X,mh4g-dex-build7+mh4edit-mit-save-id,9,0
+726,麒麟内衣Ｘ,Kirin Jacket X,mh4g-dex-build7+mh4edit-mit-save-id,10,0
+727,麒麟大衣Ｘ,Kirin Cape X,mh4g-dex-build7+mh4edit-mit-save-id,10,0
+728,Kirin Armor,Kirin Armor,mh4edit-mit-save-id-en-fallback,0,0
+729,Kirin Pizane,Kirin Pizane,mh4edit-mit-save-id-en-fallback,0,0
+730,冰麒麟内衣Ｚ,Kirin Jacket Z,mh4g-dex-build7+mh4edit-mit-save-id,10,0
+731,冰麒麟大衣Ｚ,Kirin Cape Z,mh4g-dex-build7+mh4edit-mit-save-id,10,0
+732,Kirin Armor U,Kirin Armor U,mh4edit-mit-save-id-en-fallback,0,0
+733,Kirin Pizane U,Kirin Pizane U,mh4edit-mit-save-id-en-fallback,0,0
+734,飞甲虫上衣Ｘ,Bnahabra Suit X,mh4g-dex-build7+mh4edit-mit-save-id,8,0
+735,飞甲虫内衣Ｘ,Bnahabra Vest X,mh4g-dex-build7+mh4edit-mit-save-id,8,0
+736,垂皮龙披风Ｘ,Slagtoth Cloak X,mh4g-dex-build7+mh4edit-mit-save-id,8,0
+737,垂皮龙大衣Ｘ,Slagtoth Wrap X,mh4g-dex-build7+mh4edit-mit-save-id,8,0
+738,草食龙铠甲Ｘ,Rhenoplos Mail X,mh4g-dex-build7+mh4edit-mit-save-id,8,0
+739,草食龙炼甲Ｘ,Rhenoplos Vest X,mh4g-dex-build7+mh4edit-mit-save-id,8,0
+740,Hunter's Armor,Hunter's Armor,mh4edit-mit-save-id-en-fallback,0,0
+741,Hunter's Pizane,Hunter's Pizane,mh4edit-mit-save-id-en-fallback,0,0
+742,Alloy Armor,Alloy Armor,mh4edit-mit-save-id-en-fallback,0,0
+743,Alloy Pizane,Alloy Pizane,mh4edit-mit-save-id-en-fallback,0,0
+744,神秘铠甲Ｘ,Artian Mail X,mh4g-dex-build7+mh4edit-mit-save-id,9,0
+745,神秘炼甲Ｘ,Artian Vest X,mh4g-dex-build7+mh4edit-mit-save-id,9,0
+746,Arc Armor S,Arc Armor S,mh4edit-mit-save-id-en-fallback,0,0
+747,Arc Pizane S,Arc Pizane S,mh4edit-mit-save-id-en-fallback,0,0
+748,Ingot Armor,Ingot Armor,mh4edit-mit-save-id-en-fallback,0,0
+749,Ingot Pizane,Ingot Pizane,mh4edit-mit-save-id-en-fallback,0,0
+750,守护者上衣Ｘ,Guardian Suit X,mh4g-dex-build7+mh4edit-mit-save-id,8,0
+751,女佣内衣Ｘ,Helper Vest X,mh4g-dex-build7+mh4edit-mit-save-id,8,0
+752,守护者内衣Ｘ,Guardian Vest X,mh4g-dex-build7+mh4edit-mit-save-id,8,0
+753,护士内衣Ｘ,Healer Vest X,mh4g-dex-build7+mh4edit-mit-save-id,8,0
+754,守护者上衣Ｚ,Guardian Suit Z,mh4g-dex-build7+mh4edit-mit-save-id,9,0
+755,女佣内衣Ｚ,Helper Vest Z,mh4g-dex-build7+mh4edit-mit-save-id,9,0
+756,守护者内衣Ｚ,Guardian Vest Z,mh4g-dex-build7+mh4edit-mit-save-id,9,0
+757,护士内衣Ｚ,Healer Vest Z,mh4g-dex-build7+mh4edit-mit-save-id,9,0
+758,G骑士装上衣Ｘ,G. Knight Suit X,mh4g-dex-build7+mh4edit-mit-save-id,9,0
+759,女仆装上衣Ｘ,Maiden's Suit X,mh4g-dex-build7+mh4edit-mit-save-id,9,0
+760,G骑士装内衣Ｘ,G. Knight Vest X,mh4g-dex-build7+mh4edit-mit-save-id,9,0
+761,私密装内衣Ｘ,Exclusive Vest X,mh4g-dex-build7+mh4edit-mit-save-id,9,0
+762,首领铠甲,Ace Mail,mh4g-dex-build7+mh4edit-mit-save-id,9,0
+763,女王铠甲,Sororal Mail,mh4g-dex-build7+mh4edit-mit-save-id,9,0
+764,首领炼甲,Ace Vest,mh4g-dex-build7+mh4edit-mit-save-id,9,0
+765,女王炼甲,Sororal Vest,mh4g-dex-build7+mh4edit-mit-save-id,9,0
+766,Ceanataur Armor,Ceanataur Armor,mh4edit-mit-save-id-en-fallback,0,0
+767,Ceanataur Pizane,Ceanataur Pizane,mh4edit-mit-save-id-en-fallback,0,0
+768,Lagiacrus Armor,Lagiacrus Armor,mh4edit-mit-save-id-en-fallback,0,0
+769,Lagiacrus Pizane,Lagiacrus Pizane,mh4edit-mit-save-id-en-fallback,0,0
+770,Escadora Armor,Escadora Armor,mh4edit-mit-save-id-en-fallback,0,0
+771,Escadora Pizane,Escadora Pizane,mh4edit-mit-save-id-en-fallback,0,0
+772,Auroros Kermes Plate,Auroros Kermes Plate,mh4edit-mit-save-id-en-fallback,0,0
+773,Borealis Woad Plate,Borealis Woad Plate,mh4edit-mit-save-id-en-fallback,0,0
+774,Genesis Kermes Plate,Genesis Kermes Plate,mh4edit-mit-save-id-en-fallback,0,0
+775,Glyph Woad Plate,Glyph Woad Plate,mh4edit-mit-save-id-en-fallback,0,0
+776,Ludroth Armor,Ludroth Armor,mh4edit-mit-save-id-en-fallback,0,0
+777,Ludroth Pizane,Ludroth Pizane,mh4edit-mit-save-id-en-fallback,0,0
+778,Hornet Mail,Hornet Mail,mh4edit-mit-save-id-en-fallback,0,0
+779,Hornet Vest,Hornet Vest,mh4edit-mit-save-id-en-fallback,0,0
+780,Hornet Armor,Hornet Armor,mh4edit-mit-save-id-en-fallback,0,0
+781,Hornet Pizane,Hornet Pizane,mh4edit-mit-save-id-en-fallback,0,0
+782,Wroggi Mail,Wroggi Mail,mh4edit-mit-save-id-en-fallback,0,0
+783,Wroggi Vest,Wroggi Vest,mh4edit-mit-save-id-en-fallback,0,0
+784,Wroggi Armor,Wroggi Armor,mh4edit-mit-save-id-en-fallback,0,0
+785,Wroggi Pizane,Wroggi Pizane,mh4edit-mit-save-id-en-fallback,0,0
+786,Gigginox Mail,Gigginox Mail,mh4edit-mit-save-id-en-fallback,0,0
+787,Gigginox Vest,Gigginox Vest,mh4edit-mit-save-id-en-fallback,0,0
+788,Gigginox Armor,Gigginox Armor,mh4edit-mit-save-id-en-fallback,0,0
+789,Gigginox Pizane,Gigginox Pizane,mh4edit-mit-save-id-en-fallback,0,0
+790,荒天【衣】,Tempest Robe,mh4g-dex-build7+mh4edit-mit-save-id,10,0
+791,苍天【衣】,Welkin Robe,mh4g-dex-build7+mh4edit-mit-save-id,10,0
+792,Tempest Vesture,Tempest Vesture,mh4edit-mit-save-id-en-fallback,0,0
+793,Welkin Vesture,Welkin Vesture,mh4edit-mit-save-id-en-fallback,0,0
+794,Death Stench Muscle,Death Stench Muscle,mh4edit-mit-save-id-en-fallback,0,0
+795,Death Stench Heart,Death Stench Heart,mh4edit-mit-save-id-en-fallback,0,0
+796,Death Stench Armor,Death Stench Armor,mh4edit-mit-save-id-en-fallback,0,0
+797,Death Stench Pizane,Death Stench Pizane,mh4edit-mit-save-id-en-fallback,0,0
+798,Damascus Mail,Damascus Mail,mh4edit-mit-save-id-en-fallback,0,0
+799,Damascus Vest,Damascus Vest,mh4edit-mit-save-id-en-fallback,0,0
+800,Damascus Armor,Damascus Armor,mh4edit-mit-save-id-en-fallback,0,0
+801,Damascus Pizane,Damascus Pizane,mh4edit-mit-save-id-en-fallback,0,0
+802,海龙铠甲Ｘ,Lagiacrus Mail X,mh4g-dex-build7+mh4edit-mit-save-id,9,0
+803,海龙炼甲Ｘ,Lagiacrus Vest X,mh4g-dex-build7+mh4edit-mit-save-id,9,0
+804,迅龙铠甲Ｘ,Nargacuga Mail X,mh4g-dex-build7+mh4edit-mit-save-id,9,0
+805,迅龙炼甲Ｘ,Nargacuga Vest X,mh4g-dex-build7+mh4edit-mit-save-id,9,0
+806,炎妃龙铠甲Ｘ,Empress Mail X,mh4g-dex-build7+mh4edit-mit-save-id,10,0
+807,炎妃龙炼甲Ｘ,Empress Vest X,mh4g-dex-build7+mh4edit-mit-save-id,10,0
+808,太阳神铠甲Ｘ,Helios Mail X,mh4g-dex-build7+mh4edit-mit-save-id,10,0
+809,月神铠甲Ｘ,Selene Mail X,mh4g-dex-build7+mh4edit-mit-save-id,10,0
+810,太阳神炼甲Ｘ,Helios Vest X,mh4g-dex-build7+mh4edit-mit-save-id,10,0
+811,月神炼甲Ｘ,Selene Vest X,mh4g-dex-build7+mh4edit-mit-save-id,10,0
+812,炎戈龙铠甲Ｘ,Agnaktor Mail X,mh4g-dex-build7+mh4edit-mit-save-id,8,0
+813,炎戈龙炼甲Ｘ,Agnaktor Vest X,mh4g-dex-build7+mh4edit-mit-save-id,8,0
+814,彩鸟铠甲Ｘ,Qurupeco Mail X,mh4g-dex-build7+mh4edit-mit-save-id,8,0
+815,彩鸟炼甲Ｘ,Qurupeco Vest X,mh4g-dex-build7+mh4edit-mit-save-id,8,0
+816,灯鱼龙铠甲Ｘ,Gobul Mail X,mh4g-dex-build7+mh4edit-mit-save-id,8,0
+817,灯鱼龙炼甲Ｘ,Gobul Vest X,mh4g-dex-build7+mh4edit-mit-save-id,8,0
+818,冰牙龙铠甲Ｘ,Barioth Mail X,mh4g-dex-build7+mh4edit-mit-save-id,8,0
+819,冰牙龙炼甲Ｘ,Barioth Vest X,mh4g-dex-build7+mh4edit-mit-save-id,8,0
+820,土砂龙铠甲Ｘ,Barroth Mail X,mh4g-dex-build7+mh4edit-mit-save-id,8,0
+821,土砂龙炼甲Ｘ,Barroth Vest X,mh4g-dex-build7+mh4edit-mit-save-id,8,0
+822,潜口龙铠甲Ｘ,Nibelsnarf Mail X,mh4g-dex-build7+mh4edit-mit-save-id,8,0
+823,潜口龙炼甲Ｘ,Nibelsnarf Vest X,mh4g-dex-build7+mh4edit-mit-save-id,8,0
+824,尾槌龙铠甲Ｘ,Duramboros Mail X,mh4g-dex-build7+mh4edit-mit-save-id,9,0
+825,尾槌龙炼甲Ｘ,Duramboros Vest X,mh4g-dex-build7+mh4edit-mit-save-id,9,0
+826,溶岩龙铠甲Ｘ,Lava Mail X,mh4g-dex-build7+mh4edit-mit-save-id,9,0
+827,溶岩龙炼甲Ｘ,Lava Vest X,mh4g-dex-build7+mh4edit-mit-save-id,9,0
+828,大和・真【胴体】,Grand Yamato Doate,mh4g-dex-build7+mh4edit-mit-save-id,10,0
+829,日向・真【胴体】,Grand Hyuga Muneate,mh4g-dex-build7+mh4edit-mit-save-id,10,0
+830,陆奥・真【胴体】,Grand Mutsu Doate,mh4g-dex-build7+mh4edit-mit-save-id,10,0
+831,天成・真【胴体】,Grand Amagi Muneate,mh4g-dex-build7+mh4edit-mit-save-id,10,0
+832,夜叉・真【羽衣】,Grand Yaksha Raiment,mh4g-dex-build7+mh4edit-mit-save-id,10,0
+833,修罗・真【羽衣】,Grand Carnage Raiment,mh4g-dex-build7+mh4edit-mit-save-id,10,0
+834,炼黑龙皮衣,Miralis Breastplate,mh4g-dex-build7+mh4edit-mit-save-id,10,0
+835,炼黑龙胸甲,Miralis Chestguard,mh4g-dex-build7+mh4edit-mit-save-id,10,0
+836,翠水龙铠甲Ｚ,Plesioth Mail Z,mh4g-dex-build7+mh4edit-mit-save-id,8,0
+837,翠水龙炼甲Ｚ,Plesioth Vest Z,mh4g-dex-build7+mh4edit-mit-save-id,8,0
+838,北辰【上衣】,Kita Star Jacket,mh4g-dex-build7+mh4edit-mit-save-id,8,0
+839,海渊【上衣】,Umi Ocean Jacket,mh4g-dex-build7+mh4edit-mit-save-id,8,0
+840,厨师上衣,Patissier's Suit,mh4g-dex-build7+mh4edit-mit-save-id,7,0
+841,厨师内衣,Patissier's Vest,mh4g-dex-build7+mh4edit-mit-save-id,7,0
+842,矿石铠甲Ｓ,High Metal Mail S,mh4g-dex-build7+mh4edit-mit-save-id,5,0
+843,矿石炼甲Ｓ,High Metal Vest S,mh4g-dex-build7+mh4edit-mit-save-id,5,0
+844,锹虫铠甲Ｘ,Aelucanth Thorax X,mh4g-dex-build7+mh4edit-mit-save-id,8,0
+845,蝴蝶铠甲Ｘ,Rhopessa Thorax X,mh4g-dex-build7+mh4edit-mit-save-id,8,0
+846,锹虫炼甲Ｘ,Aelucanth Pleuron X,mh4g-dex-build7+mh4edit-mit-save-id,8,0
+847,蝴蝶炼甲Ｘ,Rhopessa Pleuron X,mh4g-dex-build7+mh4edit-mit-save-id,8,0
+848,独角仙铠甲Ｘ,Obituary Thorax X,mh4g-dex-build7+mh4edit-mit-save-id,8,0
+849,彩蝶铠甲Ｘ,Butterfly Thorax X,mh4g-dex-build7+mh4edit-mit-save-id,8,0
+850,独角仙炼甲Ｘ,Obituary Pleuron X,mh4g-dex-build7+mh4edit-mit-save-id,8,0
+851,彩蝶炼甲Ｘ,Butterfly Pleuron X,mh4g-dex-build7+mh4edit-mit-save-id,8,0
+852,EX晓丸【胴体】,EX Auroros Torso,mh4g-dex-build7+mh4edit-mit-save-id,10,0
+853,EX凛【胴体】,EX Borealis Chest,mh4g-dex-build7+mh4edit-mit-save-id,10,0
+854,EX曙丸【胴体】,EX Genesis Torso,mh4g-dex-build7+mh4edit-mit-save-id,10,0
+855,EX妖艳【胴体】,EX Glyph Chest,mh4g-dex-build7+mh4edit-mit-save-id,10,0
+856,荒天【衣】,Tempest Robe,mh4g-dex-build7+mh4edit-mit-save-id,10,0
+857,苍天【衣】,Welkin Robe,mh4g-dex-build7+mh4edit-mit-save-id,10,0
+858,GX Escadora Armor,GX Escadora Armor,mh4edit-mit-save-id-en-fallback,0,0
+859,GX Escadora Pizane,GX Escadora Pizane,mh4edit-mit-save-id-en-fallback,0,0
+860,GX Dragonarmor X,GX Dragonarmor X,mh4edit-mit-save-id-en-fallback,0,0
+861,GX Dragonpizane X,GX Dragonpizane X,mh4edit-mit-save-id-en-fallback,0,0
+862,星骑士铠甲,Star Knight Mail,mh4g-dex-build7+mh4edit-mit-save-id,10,0
+863,星骑士炼甲,Star Knight Vest,mh4g-dex-build7+mh4edit-mit-save-id,10,0
+864,【美】愤怒铠甲,Mail of Rage,mh4g-dex-build7+mh4edit-mit-save-id,10,0
+865,【美】愤怒炼甲,Vest of Rage,mh4g-dex-build7+mh4edit-mit-save-id,10,0
+866,屏障装铠甲,Varia Suit Armor,mh4g-dex-build7+mh4edit-mit-save-id,10,0
+867,【美】零式装之躯,Zero Suit Body,mh4g-dex-build7+mh4edit-mit-save-id,10,0
+868,屏障装护栏,Varia Suit Barrier,mh4g-dex-build7+mh4edit-mit-save-id,10,0
+869,【美】零式装上衣,Zero Suit Wear,mh4g-dex-build7+mh4edit-mit-save-id,10,0
+870,屏障装铠甲,Varia Suit Armor,mh4g-dex-build7+mh4edit-mit-save-id,10,0
+871,【美】零式装之躯,Zero Suit Body,mh4g-dex-build7+mh4edit-mit-save-id,10,0
+872,屏障装护栏,Varia Suit Barrier,mh4g-dex-build7+mh4edit-mit-save-id,10,0
+873,【美】零式装上衣,Zero Suit Wear,mh4g-dex-build7+mh4edit-mit-save-id,10,0
+874,猛汉部金标志大衣,Fan Club Goldsuit,mh4g-dex-build7+mh4edit-mit-save-id,10,0
+875,猛汉部银标志外套,Fan Club Silversuit,mh4g-dex-build7+mh4edit-mit-save-id,10,0
+876,团长上衣Ｘ,Hawksuit X,mh4g-dex-build7+mh4edit-mit-save-id,9,0
+877,看板娘上衣Ｘ,Lecturer's Suit X,mh4g-dex-build7+mh4edit-mit-save-id,9,0
+878,团长内衣Ｘ,Hawkjacket X,mh4g-dex-build7+mh4edit-mit-save-id,9,0
+879,看板娘内衣Ｘ,Lecturer's Jacket X,mh4g-dex-build7+mh4edit-mit-save-id,9,0
+880,GX猎人铠甲,GX Hunter's Armor,mh4g-dex-build7+mh4edit-mit-save-id,10,0
+881,GX猎人板甲,GX Hunter's Pizane,mh4g-dex-build7+mh4edit-mit-save-id,10,0
+882,GX贪婪铠甲,GX Esurient Armor,mh4g-dex-build7+mh4edit-mit-save-id,10,0
+883,GX贪婪板甲,GX Esurient Pizane,mh4g-dex-build7+mh4edit-mit-save-id,10,0
+884,GX荒天【羽衣】,GX Tempest Vesture,mh4g-dex-build7+mh4edit-mit-save-id,10,0
+885,GX苍天【羽衣】,GX Welkin Vesture,mh4g-dex-build7+mh4edit-mit-save-id,10,0
+886,GX红黑龙铠甲Ｚ,GX Fatalis Crimsonarmor,mh4g-dex-build7+mh4edit-mit-save-id,10,0
+887,GX红黑龙板甲Ｚ,GX Fatalis Crimsonpizane,mh4g-dex-build7+mh4edit-mit-save-id,10,0
+888,猎人铠甲,Hunter's Mail,mh4g-dex-build7+mh4edit-mit-save-id,1,0
+889,猎人炼甲,Hunter's Vest,mh4g-dex-build7+mh4edit-mit-save-id,1,0
+890,猎人铠甲,Hunter's Mail,mh4g-dex-build7+mh4edit-mit-save-id,1,0
+891,猎人炼甲,Hunter's Vest,mh4g-dex-build7+mh4edit-mit-save-id,1,0
+892,水兽铠甲,Ludroth Mail,mh4g-dex-build7+mh4edit-mit-save-id,2,0
+893,水兽炼甲,Ludroth Vest,mh4g-dex-build7+mh4edit-mit-save-id,2,0
+894,水兽铠甲,Ludroth Mail,mh4g-dex-build7+mh4edit-mit-save-id,2,0
+895,水兽炼甲,Ludroth Vest,mh4g-dex-build7+mh4edit-mit-save-id,2,0
+896,合金铠甲,Alloy Mail,mh4g-dex-build7+mh4edit-mit-save-id,1,0
+897,合金炼甲,Alloy Vest,mh4g-dex-build7+mh4edit-mit-save-id,1,0
+898,合金铠甲,Alloy Mail,mh4g-dex-build7+mh4edit-mit-save-id,1,0
+899,合金炼甲,Alloy Vest,mh4g-dex-build7+mh4edit-mit-save-id,1,0
+900,毒怪鸟铠甲,Gypceros Mail,mh4g-dex-build7+mh4edit-mit-save-id,2,0
+901,毒怪鸟炼甲,Gypceros Vest,mh4g-dex-build7+mh4edit-mit-save-id,2,0
+902,毒怪鸟铠甲,Gypceros Mail,mh4g-dex-build7+mh4edit-mit-save-id,2,0
+903,毒怪鸟炼甲,Gypceros Vest,mh4g-dex-build7+mh4edit-mit-save-id,2,0
+904,电龙铠甲,Khezu Mail,mh4g-dex-build7+mh4edit-mit-save-id,2,0
+905,电龙炼甲,Khezu Vest,mh4g-dex-build7+mh4edit-mit-save-id,2,0
+906,电龙铠甲,Khezu Mail,mh4g-dex-build7+mh4edit-mit-save-id,2,0
+907,电龙炼甲,Khezu Vest,mh4g-dex-build7+mh4edit-mit-save-id,2,0
+908,铸锭铠甲,Ingot Mail,mh4g-dex-build7+mh4edit-mit-save-id,3,0
+909,铸锭炼甲,Ingot Vest,mh4g-dex-build7+mh4edit-mit-save-id,3,0
+910,铸锭铠甲,Ingot Mail,mh4g-dex-build7+mh4edit-mit-save-id,3,0
+911,铸锭炼甲,Ingot Vest,mh4g-dex-build7+mh4edit-mit-save-id,3,0
+912,雌火龙铠甲,Rathian Mail,mh4g-dex-build7+mh4edit-mit-save-id,2,0
+913,雌火龙炼甲,Rathian Vest,mh4g-dex-build7+mh4edit-mit-save-id,2,0
+914,海龙铠甲,Lagiacrus Mail,mh4g-dex-build7+mh4edit-mit-save-id,6,0
+915,海龙炼甲,Lagiacrus Vest,mh4g-dex-build7+mh4edit-mit-save-id,6,0
+916,雄火龙铠甲,Rathalos Mail,mh4g-dex-build7+mh4edit-mit-save-id,3,0
+917,雄火龙炼甲,Rathalos Vest,mh4g-dex-build7+mh4edit-mit-save-id,3,0
+918,紫毒怪鸟铠甲Ｕ,Gypceros Mail U,mh4g-dex-build7+mh4edit-mit-save-id,6,0
+919,紫毒怪鸟炼甲Ｕ,Gypceros Vest U,mh4g-dex-build7+mh4edit-mit-save-id,6,0
+920,赤电龙铠甲Ｕ,Khezu Mail U,mh4g-dex-build7+mh4edit-mit-save-id,6,0
+921,赤电龙炼甲Ｕ,Khezu Vest U,mh4g-dex-build7+mh4edit-mit-save-id,6,0
+922,轰龙铠甲,Tigrex Mail,mh4g-dex-build7+mh4edit-mit-save-id,3,0
+923,轰龙炼甲,Tigrex Vest,mh4g-dex-build7+mh4edit-mit-save-id,3,0
+924,麒麟内衣,Kirin Jacket,mh4g-dex-build7+mh4edit-mit-save-id,3,0
+925,麒麟大衣,Kirin Cape,mh4g-dex-build7+mh4edit-mit-save-id,3,0
+926,麒麟内衣,Kirin Jacket,mh4g-dex-build7+mh4edit-mit-save-id,3,0
+927,麒麟大衣,Kirin Cape,mh4g-dex-build7+mh4edit-mit-save-id,3,0
+928,神秘铠甲Ｓ,Artian Mail S,mh4g-dex-build7+mh4edit-mit-save-id,5,0
+929,神秘炼甲Ｓ,Artian Vest S,mh4g-dex-build7+mh4edit-mit-save-id,5,0
+930,镰蟹铠甲,Ceanataur Mail,mh4g-dex-build7+mh4edit-mit-save-id,2,0
+931,镰蟹炼甲,Ceanataur Vest,mh4g-dex-build7+mh4edit-mit-save-id,2,0
+932,镰蟹铠甲,Ceanataur Mail,mh4g-dex-build7+mh4edit-mit-save-id,2,0
+933,镰蟹炼甲,Ceanataur Vest,mh4g-dex-build7+mh4edit-mit-save-id,2,0
+934,残阳【胴体】,Gloaming Plate,mh4g-dex-build7+mh4edit-mit-save-id,3,0
+935,东云【胴体】,Dayspring Plate,mh4g-dex-build7+mh4edit-mit-save-id,3,0
+936,常磐【胴体】,Adamance Plate,mh4g-dex-build7+mh4edit-mit-save-id,3,0
+937,八千代【胴体】,Epoch Plate,mh4g-dex-build7+mh4edit-mit-save-id,3,0
+938,狱狼龙铠甲Ｕ,Zinogre Mail U,mh4g-dex-build7+mh4edit-mit-save-id,6,0
+939,狱狼龙炼甲Ｕ,Zinogre Vest U,mh4g-dex-build7+mh4edit-mit-save-id,6,0
+940,黑轰龙铠甲Ｕ,Tigrex Mail U,mh4g-dex-build7+mh4edit-mit-save-id,6,0
+941,黑轰龙炼甲Ｕ,Tigrex Vest U,mh4g-dex-build7+mh4edit-mit-save-id,6,0
+942,黑蚀龙铠甲,Gore Mail,mh4g-dex-build7+mh4edit-mit-save-id,3,0
+943,黑蚀龙炼甲,Gore Vest,mh4g-dex-build7+mh4edit-mit-save-id,3,0
+944,晓丸【胴体】,Auroros Torso,mh4g-dex-build7+mh4edit-mit-save-id,3,0
+945,曙丸【胴体】,Genesis Torso,mh4g-dex-build7+mh4edit-mit-save-id,3,0
+946,凛【胴体】,Borealis Chest,mh4g-dex-build7+mh4edit-mit-save-id,3,0
+947,妖艳【胴体】,Glyph Chest,mh4g-dex-build7+mh4edit-mit-save-id,3,0
+948,冰麒麟内衣Ｕ,Kirin Jacket U,mh4g-dex-build7+mh4edit-mit-save-id,7,0
+949,冰麒麟大衣Ｕ,Kirin Cape U,mh4g-dex-build7+mh4edit-mit-save-id,7,0
+950,冰麒麟内衣Ｕ,Kirin Jacket U,mh4g-dex-build7+mh4edit-mit-save-id,7,0
+951,冰麒麟大衣Ｕ,Kirin Cape U,mh4g-dex-build7+mh4edit-mit-save-id,7,0
+952,贪婪铠甲,Esurient Mail,mh4g-dex-build7+mh4edit-mit-save-id,7,0
+953,贪婪炼甲,Esurient Vest,mh4g-dex-build7+mh4edit-mit-save-id,7,0
+954,Monoblos Mail,Monoblos Mail,mh4edit-mit-save-id-en-fallback,0,0
+955,Monoblos Vest,Monoblos Vest,mh4edit-mit-save-id-en-fallback,0,0
+956,Hornet Mail,Hornet Mail,mh4edit-mit-save-id-en-fallback,0,0
+957,Hornet Vest,Hornet Vest,mh4edit-mit-save-id-en-fallback,0,0
+958,Wroggi Mail,Wroggi Mail,mh4edit-mit-save-id-en-fallback,0,0
+959,Wroggi Vest,Wroggi Vest,mh4edit-mit-save-id-en-fallback,0,0
+960,白一角龙铠甲,Monodevil Mail,mh4g-dex-build7+mh4edit-mit-save-id,9,0
+961,白一角龙炼甲,Monodevil Vest,mh4g-dex-build7+mh4edit-mit-save-id,9,0
+962,角龙铠甲,Diablos Mail,mh4g-dex-build7+mh4edit-mit-save-id,3,0
+963,角龙炼甲,Diablos Vest,mh4g-dex-build7+mh4edit-mit-save-id,3,0
+964,Gigginox Mail,Gigginox Mail,mh4edit-mit-save-id-en-fallback,0,0
+965,Gigginox Vest,Gigginox Vest,mh4edit-mit-save-id-en-fallback,0,0
+966,Death Stench Muscle,Death Stench Muscle,mh4edit-mit-save-id-en-fallback,0,0
+967,Death Stench Heart,Death Stench Heart,mh4edit-mit-save-id-en-fallback,0,0
+968,Damascus Mail,Damascus Mail,mh4edit-mit-save-id-en-fallback,0,0
+969,Damascus Vest,Damascus Vest,mh4edit-mit-save-id-en-fallback,0,0
+970,DUMMY,DUMMY,mh4edit-mit-save-id-en-fallback,0,0
+971,DUMMY,DUMMY,mh4edit-mit-save-id-en-fallback,0,0

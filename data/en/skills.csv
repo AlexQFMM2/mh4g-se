@@ -1,0 +1,146 @@
+id,name,english,source
+0,None,None,mh4g-save-format
+1,Torso Up,Torso Up,mh4g-dex-build7
+2,Edgemaster,Edgemaster,mh4g-dex-build7
+3,SteadyHand,SteadyHand,mh4g-dex-build7
+4,Status Res,Status Res,mh4g-dex-build7
+5,Fury,Fury,mh4g-dex-build7
+6,Biology,Biology,mh4g-dex-build7
+7,Nimbleness,Nimbleness,mh4g-dex-build7
+8,Readiness,Readiness,mh4g-dex-build7
+9,Resilience,Resilience,mh4g-dex-build7
+10,Brutality,Brutality,mh4g-dex-build7
+11,Ferocity,Ferocity,mh4g-dex-build7
+12,Stalwart,Stalwart,mh4g-dex-build7
+13,Prudence,Prudence,mh4g-dex-build7
+14,Amplify,Amplify,mh4g-dex-build7
+15,Hoarding,Hoarding,mh4g-dex-build7
+16,Avarice,Avarice,mh4g-dex-build7
+17,FreeElemnt,FreeElemnt,mh4g-dex-build7
+18,Fencing,Fencing,mh4g-dex-build7
+19,Handicraft,Handicraft,mh4g-dex-build7
+20,Crit Draw,Crit Draw,mh4g-dex-build7
+21,PunishDraw,PunishDraw,mh4g-dex-build7
+22,Reload Spd,Reload Spd,mh4g-dex-build7
+23,Recoil,Recoil,mh4g-dex-build7
+24,Rapid Fire,Rapid Fire,mh4g-dex-build7
+25,Gloves Off,Gloves Off,mh4g-dex-build7
+26,Spirit,Spirit,mh4g-dex-build7
+27,Unshakable,Unshakable,mh4g-dex-build7
+28,Charmer,Charmer,mh4g-dex-build7
+29,Tenderizer,Tenderizer,mh4g-dex-build7
+30,Blight Res,Blight Res,mh4g-dex-build7
+31,Attack,Attack,mh4g-dex-build7
+32,Defense,Defense,mh4g-dex-build7
+33,Gathering,Gathering,mh4g-dex-build7
+34,Carving,Carving,mh4g-dex-build7
+35,Fate,Fate,mh4g-dex-build7
+36,Tranquilzr,Tranquilzr,mh4g-dex-build7
+37,Expert,Expert,mh4g-dex-build7
+38,Artillery,Artillery,mh4g-dex-build7
+39,Evasion,Evasion,mh4g-dex-build7
+40,Health,Health,mh4g-dex-build7
+41,Hearing,Hearing,mh4g-dex-build7
+42,Sharpness,Sharpness,mh4g-dex-build7
+43,Guard,Guard,mh4g-dex-build7
+44,Guard Up,Guard Up,mh4g-dex-build7
+45,Sharpener,Sharpener,mh4g-dex-build7
+46,Potential,Potential,mh4g-dex-build7
+47,Bomb Boost,Bomb Boost,mh4g-dex-build7
+48,Status,Status,mh4g-dex-build7
+49,Stamina,Stamina,mh4g-dex-build7
+50,Destroyer,Destroyer,mh4g-dex-build7
+51,Evade Dist,Evade Dist,mh4g-dex-build7
+52,Sheathing,Sheathing,mh4g-dex-build7
+53,FastCharge,FastCharge,mh4g-dex-build7
+54,Stam Drain,Stam Drain,mh4g-dex-build7
+55,Unscathed,Unscathed,mh4g-dex-build7
+56,Guts,Guts,mh4g-dex-build7
+57,Loading,Loading,mh4g-dex-build7
+58,Normal Up,Normal Up,mh4g-dex-build7
+59,Pierce Up,Pierce Up,mh4g-dex-build7
+60,Pellet Up,Pellet Up,mh4g-dex-build7
+61,KO,KO,mh4g-dex-build7
+62,Def Lock,Def Lock,mh4g-dex-build7
+63,LastingPwr,LastingPwr,mh4g-dex-build7
+64,Normal S+,Normal S+,mh4g-dex-build7
+65,Pierce S+,Pierce S+,mh4g-dex-build7
+66,Pellet S+,Pellet S+,mh4g-dex-build7
+67,Crag S+,Crag S+,mh4g-dex-build7
+68,Clust S+,Clust S+,mh4g-dex-build7
+69,Slicing S+,Slicing S+,mh4g-dex-build7
+70,Blast S+,Blast S+,mh4g-dex-build7
+71,Poison C+,Poison C+,mh4g-dex-build7
+72,Para C+,Para C+,mh4g-dex-build7
+73,Sleep C+,Sleep C+,mh4g-dex-build7
+74,Power C+,Power C+,mh4g-dex-build7
+75,C.Range C+,C.Range C+,mh4g-dex-build7
+76,Exhaust C+,Exhaust C+,mh4g-dex-build7
+77,Blast C+,Blast C+,mh4g-dex-build7
+78,Precision,Precision,mh4g-dex-build7
+79,Fire Atk,Fire Atk,mh4g-dex-build7
+80,Water Atk,Water Atk,mh4g-dex-build7
+81,ThunderAtk,ThunderAtk,mh4g-dex-build7
+82,Ice Atk,Ice Atk,mh4g-dex-build7
+83,Dragon Atk,Dragon Atk,mh4g-dex-build7
+84,Elemental,Elemental,mh4g-dex-build7
+85,Fire Res,Fire Res,mh4g-dex-build7
+86,Water Res,Water Res,mh4g-dex-build7
+87,ThunderRes,ThunderRes,mh4g-dex-build7
+88,Ice Res,Ice Res,mh4g-dex-build7
+89,Dragon Res,Dragon Res,mh4g-dex-build7
+90,Spd Gather,Spd Gather,mh4g-dex-build7
+91,Psychic,Psychic,mh4g-dex-build7
+92,Perception,Perception,mh4g-dex-build7
+93,Rec Level,Rec Level,mh4g-dex-build7
+94,Wide-Range,Wide-Range,mh4g-dex-build7
+95,Maestro,Maestro,mh4g-dex-build7
+96,Survivor,Survivor,mh4g-dex-build7
+97,Carnivore,Carnivore,mh4g-dex-build7
+98,Gluttony,Gluttony,mh4g-dex-build7
+99,Constitutn,Constitutn,mh4g-dex-build7
+100,Stam Recov,Stam Recov,mh4g-dex-build7
+101,Wind Res,Wind Res,mh4g-dex-build7
+102,Eating,Eating,mh4g-dex-build7
+103,Combo Rate,Combo Rate,mh4g-dex-build7
+104,Combo Plus,Combo Plus,mh4g-dex-build7
+105,Ranger,Ranger,mh4g-dex-build7
+106,Heat Res,Heat Res,mh4g-dex-build7
+107,Cold Res,Cold Res,mh4g-dex-build7
+108,Commander,Commander,mh4g-dex-build7
+109,TeamPlayer,TeamPlayer,mh4g-dex-build7
+110,TeamLeader,TeamLeader,mh4g-dex-build7
+111,Rec Speed,Rec Speed,mh4g-dex-build7
+112,Whim,Whim,mh4g-dex-build7
+113,Protection,Protection,mh4g-dex-build7
+114,Hunger,Hunger,mh4g-dex-build7
+115,Transportr,Transportr,mh4g-dex-build7
+116,SpeedSetup,SpeedSetup,mh4g-dex-build7
+117,Honey,Honey,mh4g-dex-build7
+118,Poison,Poison,mh4g-dex-build7
+119,Paralysis,Paralysis,mh4g-dex-build7
+120,Sleep,Sleep,mh4g-dex-build7
+121,Stun,Stun,mh4g-dex-build7
+122,Mud/Snow,Mud/Snow,mh4g-dex-build7
+123,Tremor Res,Tremor Res,mh4g-dex-build7
+124,Anti-Theft,Anti-Theft,mh4g-dex-build7
+125,Sense,Sense,mh4g-dex-build7
+126,Flame Aura,Flame Aura,mh4g-dex-build7
+127,Auto-Guard,Auto-Guard,mh4g-dex-build7
+128,Frenzy Res,Frenzy Res,mh4g-dex-build7
+129,Mounting,Mounting,mh4g-dex-build7
+130,CritElemnt,CritElemnt,mh4g-dex-build7
+131,CritStatus,CritStatus,mh4g-dex-build7
+132,Dead Eye,Dead Eye,mh4g-dex-build7
+133,Mycology,Mycology,mh4g-dex-build7
+134,LightEater,LightEater,mh4g-dex-build7
+135,Bleeding,Bleeding,mh4g-dex-build7
+136,Sticky Res,Sticky Res,mh4g-dex-build7
+137,Edge Lore,Edge Lore,mh4g-dex-build7
+138,PowerEater,PowerEater,mh4g-dex-build7
+139,D. Fencing,D. Fencing,mh4g-dex-build7
+140,Arcana,Arcana,mh4g-dex-build7
+141,Mechanic,Mechanic,mh4g-dex-build7
+142,Brawn,Brawn,mh4g-dex-build7
+143,Prayer,Prayer,mh4g-dex-build7
+144,Covert,Covert,mh4g-dex-build7

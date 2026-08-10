@@ -1,0 +1,186 @@
+id,name,english,source,rarity,is_relic
+0,无,None,mh4g-save-format,0,0
+1,金属风笛,Metal Bagpipe,mh4g-dex-build7+mh4edit-mit-save-id,1,0
+2,金属风笛改,Metal Bagpipe+,mh4g-dex-build7+mh4edit-mit-save-id,1,0
+3,巨风笛,Great Bagpipe,mh4g-dex-build7+mh4edit-mit-save-id,1,0
+4,重风笛,Heavy Bagpipe,mh4g-dex-build7+mh4edit-mit-save-id,2,0
+5,重风笛改,Heavy Bagpipe+,mh4g-dex-build7+mh4edit-mit-save-id,2,0
+6,巨响大笛,Fortissimo,mh4g-dex-build7+mh4edit-mit-save-id,3,0
+7,大师风笛,Master Bagpipe,mh4g-dex-build7+mh4edit-mit-save-id,4,0
+8,最强音,Sforzando,mh4g-dex-build7+mh4edit-mit-save-id,5,0
+9,声乐of哭泣,Kummerklang,mh4g-dex-build7+mh4edit-mit-save-id,3,0
+10,声乐of悲痛,Gramklang,mh4g-dex-build7+mh4edit-mit-save-id,4,0
+11,声乐of死亡,Trauerklang,mh4g-dex-build7+mh4edit-mit-save-id,5,0
+12,THE镇魂曲,La Sépulture,mh4g-dex-build7+mh4edit-mit-save-id,7,0
+13,女武神之笛,Valkyrie Chordmaker,mh4g-dex-build7+mh4edit-mit-save-id,2,0
+14,女武神之笛改,Valkyrie Chordmaker+,mh4g-dex-build7+mh4edit-mit-save-id,3,0
+15,女王之笛,Queen's Chordmaker,mh4g-dex-build7+mh4edit-mit-save-id,5,0
+16,金笛,Gold Chordmaker,mh4g-dex-build7+mh4edit-mit-save-id,7,0
+17,奇猿狐喇叭,Kecha Whappa,mh4g-dex-build7+mh4edit-mit-save-id,2,0
+18,奇猿狐喇叭改,Kecha Whappa+,mh4g-dex-build7+mh4edit-mit-save-id,2,0
+19,奇猿狐大喇叭,Kechachacha Whappa,mh4g-dex-build7+mh4edit-mit-save-id,3,0
+20,奇猿狐吉尔邦笛,Kecha Thumpa,mh4g-dex-build7+mh4edit-mit-save-id,4,0
+21,奇猿狐哈伦笛,Kecha Clanga,mh4g-dex-build7+mh4edit-mit-save-id,5,0
+22,王琴轰雷,Usurper's Growl,mh4g-dex-build7+mh4edit-mit-save-id,3,0
+23,王琴轰雷改,Usurper's Growl+,mh4g-dex-build7+mh4edit-mit-save-id,5,0
+24,王牙琴【鸣雷】,Despot's Thunderclap,mh4g-dex-build7+mh4edit-mit-save-id,6,0
+25,狱琴龙星,Brimstren Drakesong,mh4g-dex-build7+mh4edit-mit-save-id,6,0
+26,冰霜笛,Ice Kazoo,mh4g-dex-build7+mh4edit-mit-save-id,2,0
+27,冰冻刃笛,Glacial Kazoo,mh4g-dex-build7+mh4edit-mit-save-id,3,0
+28,冰封巨人,Frost Groaner,mh4g-dex-build7+mh4edit-mit-save-id,4,0
+29,冰封将军,Frost General,mh4g-dex-build7+mh4edit-mit-save-id,6,0
+30,骨号角,Bone Horn,mh4g-dex-build7+mh4edit-mit-save-id,1,0
+31,骨号角改,Bone Horn+,mh4g-dex-build7+mh4edit-mit-save-id,1,0
+32,猎人号角,Hunter's Horn,mh4g-dex-build7+mh4edit-mit-save-id,1,0
+33,猎人号角改,Hunter's Horn+,mh4g-dex-build7+mh4edit-mit-save-id,2,0
+34,土著号角,Native's Horn,mh4g-dex-build7+mh4edit-mit-save-id,2,0
+35,轰龙鼓,Striped Gong,mh4g-dex-build7+mh4edit-mit-save-id,3,0
+36,轰鼓【虎钟】,Tigrex Horn,mh4g-dex-build7+mh4edit-mit-save-id,5,0
+37,暴君虎鼓,Accursed Wail,mh4g-dex-build7+mh4edit-mit-save-id,6,0
+38,冲鼓【叫虎】,Howling Gravedrum,mh4g-dex-build7+mh4edit-mit-save-id,7,0
+39,迪奥斯之铃,Dios Bell,mh4g-dex-build7+mh4edit-mit-save-id,4,0
+40,迪奥斯之铃改,Dios Bell+,mh4g-dex-build7+mh4edit-mit-save-id,5,0
+41,爆碎之坏铃,Demolition Chime,mh4g-dex-build7+mh4edit-mit-save-id,6,0
+42,电龙号角,Khezu Horn,mh4g-dex-build7+mh4edit-mit-save-id,2,0
+43,电龙长笛,Khezu Flute,mh4g-dex-build7+mh4edit-mit-save-id,3,0
+44,血色号角,Blood Horn,mh4g-dex-build7+mh4edit-mit-save-id,5,0
+45,血色长笛,Blood Flute,mh4g-dex-build7+mh4edit-mit-save-id,6,0
+46,战鼓,War Drum,mh4g-dex-build7+mh4edit-mit-save-id,2,0
+47,大战鼓,War Bongo,mh4g-dex-build7+mh4edit-mit-save-id,2,0
+48,桃毛战鼓,War Conga,mh4g-dex-build7+mh4edit-mit-save-id,3,0
+49,丛林战鼓,Jungle Bongo,mh4g-dex-build7+mh4edit-mit-save-id,4,0
+50,丛林桃毛战鼓,Jungle Conga,mh4g-dex-build7+mh4edit-mit-save-id,5,0
+51,警报铃,Danger Call,mh4g-dex-build7+mh4edit-mit-save-id,2,0
+52,警报铃改,Danger Call+,mh4g-dex-build7+mh4edit-mit-save-id,3,0
+53,危机铃,Hazardous Call,mh4g-dex-build7+mh4edit-mit-save-id,5,0
+54,帕拉哈危机铃,Parahazard Call,mh4g-dex-build7+mh4edit-mit-save-id,6,0
+55,蓝速龙气球,Velociprey Balloon,mh4g-dex-build7+mh4edit-mit-save-id,1,0
+56,蓝速龙气球改,Velociprey Balloon+,mh4g-dex-build7+mh4edit-mit-save-id,2,0
+57,三味线【鸟】,Raven Shamisen,mh4g-dex-build7+mh4edit-mit-save-id,3,0
+58,三味线【狼】,Wolf Shamisen,mh4g-dex-build7+mh4edit-mit-save-id,4,0
+59,三味线【凶】,Crow Shamisen,mh4g-dex-build7+mh4edit-mit-save-id,6,0
+60,刚兹＝洛克,Basarios Rock,mh4g-dex-build7+mh4edit-mit-save-id,2,0
+61,刚兹＝洛克Ⅱ,Basarios Rock Mk.II,mh4g-dex-build7+mh4edit-mit-save-id,3,0
+62,熔岩洛克,Volcanic Rock,mh4g-dex-build7+mh4edit-mit-save-id,5,0
+63,熔岩基格,Volcanic Gig,mh4g-dex-build7+mh4edit-mit-save-id,6,0
+64,比特＝刚洛克,Beating Gunrock,mh4g-dex-build7+mh4edit-mit-save-id,5,0
+65,阿克塞尔＝刚洛克,Fleeting Gunrock,mh4g-dex-build7+mh4edit-mit-save-id,6,0
+66,冰蓝的旋律,Vicello Nulo (W),mh4g-dex-build7+mh4edit-mit-save-id,2,0
+67,冰蓝的节奏,Vicello Unu (W),mh4g-dex-build7+mh4edit-mit-save-id,2,0
+68,冰蓝的神曲,Vicello Du (W),mh4g-dex-build7+mh4edit-mit-save-id,4,0
+69,魔法少女变身棒,Magia Charm,mh4g-dex-build7+mh4edit-mit-save-id,6,0
+70,龙木之古笛,Dragonwood Flute,mh4g-dex-build7+mh4edit-mit-save-id,7,0
+71,风化严重的狩猎笛,Worn Horn,mh4g-dex-build7+mh4edit-mit-save-id,5,0
+72,风化的狩猎笛,Weathered Horn,mh4g-dex-build7+mh4edit-mit-save-id,5,0
+73,黎明监星官八音盒,Avenir's Music Box,mh4g-dex-build7+mh4edit-mit-save-id,6,0
+74,霸笛黑神音,Akantor Horn,mh4g-dex-build7+mh4edit-mit-save-id,7,0
+75,寄宿睨眼的战曲器,Veilglare Hymn,mh4g-dex-build7+mh4edit-mit-save-id,6,0
+76,响彻天外的音乐,The Ascending Strain,mh4g-dex-build7+mh4edit-mit-save-id,7,0
+77,黑笛,Fatalis Menace,mh4g-dex-build7+mh4edit-mit-save-id,7,0
+78,dummy78,dummy78,mh4edit-mit-save-id-en-fallback,0,0
+79,dummy79,dummy79,mh4edit-mit-save-id-en-fallback,0,0
+80,应援团笛【大角】,Megaphone,mh4g-dex-build7+mh4edit-mit-save-id,6,0
+81,刚兹＝洛克（红）,Basarios Rock (red),mh4g-dex-build7+mh4edit-mit-save-id,0,1
+82,刚兹＝洛克（黄）,Basarios Rock (yellow),mh4g-dex-build7+mh4edit-mit-save-id,0,1
+83,刚兹＝洛克（绿）,Basarios Rock (green),mh4g-dex-build7+mh4edit-mit-save-id,0,1
+84,刚兹＝洛克（蓝）,Basarios Rock (blue),mh4g-dex-build7+mh4edit-mit-save-id,0,1
+85,刚兹＝洛克（紫）,Basarios Rock (purple),mh4g-dex-build7+mh4edit-mit-save-id,0,1
+86,Hellstrings (red),Hellstrings (red),mh4edit-mit-save-id-en-fallback,0,1
+87,Hellstrings (yellow),Hellstrings (yellow),mh4edit-mit-save-id-en-fallback,0,1
+88,Hellstrings (green),Hellstrings (green),mh4edit-mit-save-id-en-fallback,0,1
+89,Hellstrings (blue),Hellstrings (blue),mh4edit-mit-save-id-en-fallback,0,1
+90,Hellstrings (purple),Hellstrings (purple),mh4edit-mit-save-id-en-fallback,0,1
+91,Swell Shell (red),Swell Shell (red),mh4edit-mit-save-id-en-fallback,0,1
+92,Swell Shell (yellow),Swell Shell (yellow),mh4edit-mit-save-id-en-fallback,0,1
+93,Swell Shell (green),Swell Shell (green),mh4edit-mit-save-id-en-fallback,0,1
+94,Swell Shell (blue),Swell Shell (blue),mh4edit-mit-save-id-en-fallback,0,1
+95,Swell Shell (purple),Swell Shell (purple),mh4edit-mit-save-id-en-fallback,0,1
+96,金笛（红）,Gold Chordmaker (red),mh4g-dex-build7+mh4edit-mit-save-id,0,1
+97,金笛（黄）,Gold Chordmaker (yellow),mh4g-dex-build7+mh4edit-mit-save-id,0,1
+98,金笛（绿）,Gold Chordmaker (green),mh4g-dex-build7+mh4edit-mit-save-id,0,1
+99,金笛（蓝）,Gold Chordmaker (blue),mh4g-dex-build7+mh4edit-mit-save-id,0,1
+100,金笛（紫）,Gold Chordmaker (purple),mh4g-dex-build7+mh4edit-mit-save-id,0,1
+101,最强音改,Sforzando+,mh4g-dex-build7+mh4edit-mit-save-id,8,0
+102,终极强音,Rinforzato,mh4g-dex-build7+mh4edit-mit-save-id,9,0
+103,THE狂欢,La Joie,mh4g-dex-build7+mh4edit-mit-save-id,9,0
+104,THE圣歌,Le Grégorien,mh4g-dex-build7+mh4edit-mit-save-id,10,0
+105,狂欢or叙述,Grimm/Joie,mh4g-dex-build7+mh4edit-mit-save-id,9,0
+106,金笛改,Gold Chordmaker+,mh4g-dex-build7+mh4edit-mit-save-id,8,0
+107,月笛,Lunar Chordmaker,mh4g-dex-build7+mh4edit-mit-save-id,10,0
+108,奇猿狐哈伦笛改,Kecha Clanga+,mh4g-dex-build7+mh4edit-mit-save-id,8,0
+109,奇猿王笛,Kecha Clanvira,mh4g-dex-build7+mh4edit-mit-save-id,9,0
+110,真・王牙琴【天禄】,Oppressor's Boon,mh4g-dex-build7+mh4edit-mit-save-id,9,0
+111,狱琴龙星改,Brimstren Drakesong+,mh4g-dex-build7+mh4edit-mit-save-id,9,0
+112,狼牙琴【异狱】,Stygian Tristitia,mh4g-dex-build7+mh4edit-mit-save-id,9,0
+113,电电太鼓,Denden Daiko,mh4g-dex-build7+mh4edit-mit-save-id,9,0
+114,电电太鼓【雷轰】,Denden Doomsounder,mh4g-dex-build7+mh4edit-mit-save-id,10,0
+115,冰雪女神之笛,Poli'ahu Pipe,mh4g-dex-build7+mh4edit-mit-save-id,8,0
+116,冰笛菲诺米纳尔,Phenomenal Phlute,mh4g-dex-build7+mh4edit-mit-save-id,9,0
+117,冲鼓【叫虎】改,Howling Gravedrum+,mh4g-dex-build7+mh4edit-mit-save-id,9,0
+118,绝冲鼓【虎舞】,Dancing Grisdrum,mh4g-dex-build7+mh4edit-mit-save-id,10,0
+119,破岩铃耶罗格拉芙,Timbral Demolisher,mh4g-dex-build7+mh4edit-mit-save-id,9,0
+120,碎光之阳铃,Lightbreak Timbre,mh4g-dex-build7+mh4edit-mit-save-id,10,0
+121,重壳响板,Shell Castanet,mh4g-dex-build7+mh4edit-mit-save-id,4,0
+122,重壳响板改,Shell Castanet+,mh4g-dex-build7+mh4edit-mit-save-id,8,0
+123,大盾蟹响板,Colored Castanet,mh4g-dex-build7+mh4edit-mit-save-id,9,0
+124,敲击响板,Crabby Castanet,mh4g-dex-build7+mh4edit-mit-save-id,8,0
+125,响鼓,Klick-Klack,mh4g-dex-build7+mh4edit-mit-save-id,9,0
+126,血色长笛改,Blood Flute+,mh4g-dex-build7+mh4edit-mit-save-id,8,0
+127,血腥长笛,Brute Flute,mh4g-dex-build7+mh4edit-mit-save-id,9,0
+128,丛林桃毛战鼓改,Jungle Conga+,mh4g-dex-build7+mh4edit-mit-save-id,8,0
+129,原始桃毛战鼓,Primal Conga,mh4g-dex-build7+mh4edit-mit-save-id,8,0
+130,帕拉哈危机铃改,Parahazard Call+,mh4g-dex-build7+mh4edit-mit-save-id,8,0
+131,帕拉米迪铃,Para Calamity,mh4g-dex-build7+mh4edit-mit-save-id,9,0
+132,水蛇警报铃,Naja Warning,mh4g-dex-build7+mh4edit-mit-save-id,8,0
+133,水蛇暴风雨,Naja Alluvion,mh4g-dex-build7+mh4edit-mit-save-id,9,0
+134,三味线【厄】,Pox Shamisen,mh4g-dex-build7+mh4edit-mit-save-id,8,0
+135,黑狼师之三味线,Garuga Shamisen,mh4g-dex-build7+mh4edit-mit-save-id,9,0
+136,熔岩基格改,Volcanic Gig+,mh4g-dex-build7+mh4edit-mit-save-id,8,0
+137,火神基格,Conflagrig,mh4g-dex-build7+mh4edit-mit-save-id,9,0
+138,重型刚洛克,Heavy Facemelter,mh4g-dex-build7+mh4edit-mit-save-id,8,0
+139,拉拉拜＝刚洛克,Lullaby Facemelter,mh4g-dex-build7+mh4edit-mit-save-id,9,0
+140,魔法少女变身棒＝铃,Magia Charmbell,mh4g-dex-build7+mh4edit-mit-save-id,8,0
+141,魔法少女之魔杖,Aria Rhota,mh4g-dex-build7+mh4edit-mit-save-id,9,0
+142,龙木之古笛【神歌】,Dragonwood Godflute,mh4g-dex-build7+mh4edit-mit-save-id,10,0
+143,黎明监星官八音盒改,Avenir's Music Box+,mh4g-dex-build7+mh4edit-mit-save-id,8,0
+144,永恒八音盒,Eternal Music Box,mh4g-dex-build7+mh4edit-mit-save-id,9,0
+145,炎王之弦,Teostra's Tiple,mh4g-dex-build7+mh4edit-mit-save-id,7,0
+146,炎王竖琴,Teostra's Orphée,mh4g-dex-build7+mh4edit-mit-save-id,10,0
+147,卡伦＝达欧拉,Daora's Taus,mh4g-dex-build7+mh4edit-mit-save-id,7,0
+148,巴佛穆尔＝达欧拉,Daora's Baphophone,mh4g-dex-build7+mh4edit-mit-save-id,10,0
+149,卡伦＝埃尔达欧尔,Eldaora's Taus,mh4g-dex-build7+mh4edit-mit-save-id,10,0
+150,魔神之笛,Genie's Ocarina,mh4g-dex-build7+mh4edit-mit-save-id,10,0
+151,霸重笛库奈哈乌卡姆,Akantor Dark Melody,mh4g-dex-build7+mh4edit-mit-save-id,10,0
+152,崩笛伊克卡姆鲁巴斯,Ukanlos Horned Flute,mh4g-dex-build7+mh4edit-mit-save-id,7,0
+153,崩天笛伊克卡翁卡姆,Ukanlos Skysinger,mh4g-dex-build7+mh4edit-mit-save-id,9,0
+154,狂骚王姆基卡殴鲁格,Orgueil the Insane,mh4g-dex-build7+mh4edit-mit-save-id,9,0
+155,笛弦达拉布鲁特,Dalamadur Song,mh4g-dex-build7+mh4edit-mit-save-id,10,0
+156,蛇帝弦柯罗弗玛迪拉,Bloodied Dalamadur,mh4g-dex-build7+mh4edit-mit-save-id,10,0
+157,黑笛之灵,Fatalis Menace Lute,mh4g-dex-build7+mh4edit-mit-save-id,10,0
+158,黑笛之魂,Fatalis Menace Soul,mh4g-dex-build7+mh4edit-mit-save-id,10,0
+159,龙祖之音,Fatalis Ancient Lute,mh4g-dex-build7+mh4edit-mit-save-id,10,0
+160,千刃之笛,Vadya Muse,mh4g-dex-build7+mh4edit-mit-save-id,6,0
+161,千刃之笛改,Vadya Muse+,mh4g-dex-build7+mh4edit-mit-save-id,7,0
+162,叛逆之战笛,Seditious Warhorn,mh4g-dex-build7+mh4edit-mit-save-id,9,0
+163,叛逆笛拉加雷吉昂,Maqam Sedition,mh4g-dex-build7+mh4edit-mit-save-id,10,0
+164,赦免之钟,Clemency's Peal,mh4g-dex-build7+mh4edit-mit-save-id,10,0
+165,暗黑之舞,Onyx Terpsichore,mh4g-dex-build7+mh4edit-mit-save-id,10,0
+166,ロイヤルビードロー,Glass Royale,mh4g-dex-build7+mh4edit-mit-save-id,9,0
+167,女王笛ランゴスタ,Queen's Flute,mh4g-dex-build7+mh4edit-mit-save-id,9,0
+168,カエルクラフト,Handmade Frog,mh4g-dex-build7+mh4edit-mit-save-id,8,0
+169,狩猟の達人,Hunter Master,mh4g-dex-build7+mh4edit-mit-save-id,10,0
+170,【美】皇帝的讲话,Emperor's Speech,mh4g-dex-build7+mh4edit-mit-save-id,2,0
+171,DUMMY,DUMMY,mh4edit-mit-save-id-en-fallback,0,0
+172,DUMMY,DUMMY,mh4edit-mit-save-id-en-fallback,0,0
+173,Scorpion Lute,Scorpion Lute,mh4edit-mit-save-id-en-fallback,0,0
+174,Endless Loop,Endless Loop,mh4edit-mit-save-id-en-fallback,0,0
+175,Sonic Glass (red),Sonic Glass (red),mh4edit-mit-save-id-en-fallback,0,1
+176,Sonic Glass (yellow),Sonic Glass (yellow),mh4edit-mit-save-id-en-fallback,0,1
+177,Sonic Glass (green),Sonic Glass (green),mh4edit-mit-save-id-en-fallback,0,1
+178,Sonic Glass (blue),Sonic Glass (blue),mh4edit-mit-save-id-en-fallback,0,1
+179,Sonic Glass (purple),Sonic Glass (purple),mh4edit-mit-save-id-en-fallback,0,1
+180,Hidden Harmonic (red),Hidden Harmonic (red),mh4edit-mit-save-id-en-fallback,0,1
+181,Hidden Harmonic (yellow),Hidden Harmonic (yellow),mh4edit-mit-save-id-en-fallback,0,1
+182,Hidden Harmonic (green),Hidden Harmonic (green),mh4edit-mit-save-id-en-fallback,0,1
+183,Hidden Harmonic (blue),Hidden Harmonic (blue),mh4edit-mit-save-id-en-fallback,0,1
+184,Hidden Harmonic (purple),Hidden Harmonic (purple),mh4edit-mit-save-id-en-fallback,0,1

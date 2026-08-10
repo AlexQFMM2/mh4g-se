@@ -1,0 +1,207 @@
+id,name,english,source,rarity,is_relic
+0,无,None,mh4g-save-format,0,0
+1,猎弓Ⅰ,Hunter's Bow I,mh4g-dex-build7+mh4edit-mit-save-id,1,0
+2,猎弓Ⅱ,Hunter's Bow II,mh4g-dex-build7+mh4edit-mit-save-id,1,0
+3,猎弓Ⅲ,Hunter's Bow III,mh4g-dex-build7+mh4edit-mit-save-id,1,0
+4,强化猎弓Ⅰ,Hunter's Stoutbow I,mh4g-dex-build7+mh4edit-mit-save-id,2,0
+5,强化猎弓Ⅱ,Hunter's Stoutbow II,mh4g-dex-build7+mh4edit-mit-save-id,2,0
+6,强化猎弓Ⅲ,Hunter's Stoutbow III,mh4g-dex-build7+mh4edit-mit-save-id,3,0
+7,冰柱弓Ⅰ,Icicle Bow I,mh4g-dex-build7+mh4edit-mit-save-id,4,0
+8,冰柱弓Ⅱ,Icicle Bow II,mh4g-dex-build7+mh4edit-mit-save-id,5,0
+9,迪欧斯之弓,Dios Flier,mh4g-dex-build7+mh4edit-mit-save-id,4,0
+10,迪欧斯之弓改,Dios Flier+,mh4g-dex-build7+mh4edit-mit-save-id,5,0
+11,爆碎之征矢,Demolition Bow,mh4g-dex-build7+mh4edit-mit-save-id,6,0
+12,女王光线炮Ⅰ,Queen Blaster I,mh4g-dex-build7+mh4edit-mit-save-id,2,0
+13,女王光线炮Ⅱ,Queen Blaster II,mh4g-dex-build7+mh4edit-mit-save-id,3,0
+14,射心弓Ⅰ,Heartshot Bow I,mh4g-dex-build7+mh4edit-mit-save-id,5,0
+15,射心弓Ⅱ,Heartshot Bow II,mh4g-dex-build7+mh4edit-mit-save-id,6,0
+16,射月女神,Selene Moonbroken,mh4g-dex-build7+mh4edit-mit-save-id,7,0
+17,日珥弓Ⅰ,Prominence Bow I,mh4g-dex-build7+mh4edit-mit-save-id,3,0
+18,日珥弓Ⅱ,Prominence Bow II,mh4g-dex-build7+mh4edit-mit-save-id,5,0
+19,日珥弓Ⅲ,Prominence Bow III,mh4g-dex-build7+mh4edit-mit-save-id,6,0
+20,开天的许珀里翁,Hyperion,mh4g-dex-build7+mh4edit-mit-save-id,7,0
+21,蓝光Ⅰ,Blue Alighter I,mh4g-dex-build7+mh4edit-mit-save-id,2,0
+22,蓝光Ⅱ,Blue Alighter II,mh4g-dex-build7+mh4edit-mit-save-id,3,0
+23,黄金冰光,Ice Cold Alighter,mh4g-dex-build7+mh4edit-mit-save-id,5,0
+24,冰冻之光,Freezing Alighter,mh4g-dex-build7+mh4edit-mit-save-id,6,0
+25,野性弓,Wild Bow,mh4g-dex-build7+mh4edit-mit-save-id,2,0
+26,强化野性弓Ⅰ,Wild Power Bow I,mh4g-dex-build7+mh4edit-mit-save-id,2,0
+27,强化野性弓Ⅱ,Wild Power Bow II,mh4g-dex-build7+mh4edit-mit-save-id,3,0
+28,丛林弓Ⅰ,Jungle Bow I,mh4g-dex-build7+mh4edit-mit-save-id,4,0
+29,丛林弓Ⅱ,Jungle Bow II,mh4g-dex-build7+mh4edit-mit-save-id,6,0
+30,轰龙弓,Tigrex Archer,mh4g-dex-build7+mh4edit-mit-save-id,3,0
+31,轰弓【虎髯】,Tigrex Whisker,mh4g-dex-build7+mh4edit-mit-save-id,5,0
+32,暴君之箭,Accursed Bow,mh4g-dex-build7+mh4edit-mit-save-id,6,0
+33,冲弓【虎穿】,Piercing Gravebow,mh4g-dex-build7+mh4edit-mit-save-id,7,0
+34,电龙弓Ⅰ,Khezu Bow I,mh4g-dex-build7+mh4edit-mit-save-id,2,0
+35,电龙弓Ⅱ,Khezu Bow II,mh4g-dex-build7+mh4edit-mit-save-id,3,0
+36,电龙弓Ⅲ,Khezu Bow III,mh4g-dex-build7+mh4edit-mit-save-id,4,0
+37,血沫雷霆,Bloodcurdler,mh4g-dex-build7+mh4edit-mit-save-id,5,0
+38,王弓圆雷Ⅰ,Distant Thunder I,mh4g-dex-build7+mh4edit-mit-save-id,3,0
+39,王弓圆雷Ⅱ,Distant Thunder II,mh4g-dex-build7+mh4edit-mit-save-id,5,0
+40,王牙弓【稚雷】,Despot's Earlybolt,mh4g-dex-build7+mh4edit-mit-save-id,6,0
+41,狱弓龙眼Ⅰ,Brimstren Drakegaze,mh4g-dex-build7+mh4edit-mit-save-id,6,0
+42,狱弓龙眼Ⅱ,Brimstren Drakeglare,mh4g-dex-build7+mh4edit-mit-save-id,6,0
+43,预知of失落,Entbehrung,mh4g-dex-build7+mh4edit-mit-save-id,3,0
+44,预知of消失,Verzweiflung,mh4g-dex-build7+mh4edit-mit-save-id,4,0
+45,预知of虚空,Untergang,mh4g-dex-build7+mh4edit-mit-save-id,5,0
+46,THE捕捉者,Le Ravisseur,mh4g-dex-build7+mh4edit-mit-save-id,7,0
+47,翅弓浮游,Heat Haze,mh4g-dex-build7+mh4edit-mit-save-id,1,0
+48,翅弓雄,Hulking Haze,mh4g-dex-build7+mh4edit-mit-save-id,2,0
+49,鞘翅弓雌,Feminine Haze,mh4g-dex-build7+mh4edit-mit-save-id,3,0
+50,鞘翅弓合体虫,Formidable Haze,mh4g-dex-build7+mh4edit-mit-save-id,5,0
+51,完全变态刚德瓦,Absolute Deviance,mh4g-dex-build7+mh4edit-mit-save-id,6,0
+52,影蜘蛛之弓Ⅰ,Scylla Fist I,mh4g-dex-build7+mh4edit-mit-save-id,2,0
+53,影蜘蛛之弓Ⅱ,Scylla Fist II,mh4g-dex-build7+mh4edit-mit-save-id,3,0
+54,影蜘蛛烈弓Ⅰ,Scylla Weave I,mh4g-dex-build7+mh4edit-mit-save-id,4,0
+55,影蜘蛛烈弓Ⅱ,Scylla Weave II,mh4g-dex-build7+mh4edit-mit-save-id,5,0
+56,影蜘蛛强弓,Scylla Shredder,mh4g-dex-build7+mh4edit-mit-save-id,6,0
+57,鸟币弓Ⅰ,Kut-Ku Stave I,mh4g-dex-build7+mh4edit-mit-save-id,1,0
+58,鸟币弓Ⅱ,Kut-Ku Stave II,mh4g-dex-build7+mh4edit-mit-save-id,2,0
+59,鸟币弓Ⅲ,Kut-Ku Stave III,mh4g-dex-build7+mh4edit-mit-save-id,3,0
+60,青鸟币弓Ⅰ,Blue Kut-Ku Stave I,mh4g-dex-build7+mh4edit-mit-save-id,4,0
+61,青鸟币弓Ⅱ,Blue Kut-Ku Stave II,mh4g-dex-build7+mh4edit-mit-save-id,5,0
+62,弓【乌】,Crow Bow,mh4g-dex-build7+mh4edit-mit-save-id,3,0
+63,弓【狼】,Wolf Bow,mh4g-dex-build7+mh4edit-mit-save-id,5,0
+64,弓【凶】,Jinx Bow,mh4g-dex-build7+mh4edit-mit-save-id,6,0
+65,强狩猎弓,Arca Raptora,mh4g-dex-build7+mh4edit-mit-save-id,4,0
+66,阿姆尼斯,Amnis,mh4g-dex-build7+mh4edit-mit-save-id,5,0
+67,梶木弓【粗】,Morsel Bowfish,mh4g-dex-build7+mh4edit-mit-save-id,2,0
+68,梶木弓【三枚卸】,Ample Bowfish,mh4g-dex-build7+mh4edit-mit-save-id,5,0
+69,鹿角弹弓,Kelbi Stingshot,mh4g-dex-build7+mh4edit-mit-save-id,3,0
+70,鹿角刚弹弓,Kelbi Strongshot,mh4g-dex-build7+mh4edit-mit-save-id,5,0
+71,祈愿希弓,Supplication,mh4g-dex-build7+mh4edit-mit-save-id,4,0
+72,豪弓【月读命】,Tsukuyomi,mh4g-dex-build7+mh4edit-mit-save-id,7,0
+73,雷弓【兽王】,Beast Thunderbow,mh4g-dex-build7+mh4edit-mit-save-id,6,0
+74,雷弓【百兽王】,Beastking Thunderbow,mh4g-dex-build7+mh4edit-mit-save-id,7,0
+75,祈弓必胜,Prayerful Victoria,mh4g-dex-build7+mh4edit-mit-save-id,7,0
+76,钢冰马弓,Icesteel Bow,mh4g-dex-build7+mh4edit-mit-save-id,6,0
+77,阿尔娜斯＝达欧拉,Daora's Sagittarii,mh4g-dex-build7+mh4edit-mit-save-id,7,0
+78,勇气与希望之凄弓,Bow of Hope & Valor,mh4g-dex-build7+mh4edit-mit-save-id,7,0
+79,霸弓莱拉卡姆托鲁姆,Akantor Bow,mh4g-dex-build7+mh4edit-mit-save-id,7,0
+80,柔硬的胸壳之弓,Cradlecrush Embrace,mh4g-dex-build7+mh4edit-mit-save-id,6,0
+81,神算鬼谋的与一,The Keen Stratagem,mh4g-dex-build7+mh4edit-mit-save-id,7,0
+82,歼灭与破坏的钢弓,Bow of Rack & Ruin,mh4g-dex-build7+mh4edit-mit-save-id,7,0
+83,dummy83,dummy83,mh4edit-mit-save-id-en-fallback,0,0
+84,dummy83,dummy83,mh4edit-mit-save-id-en-fallback,0,0
+85,勇者之弓,Hero's Bow,mh4g-dex-build7+mh4edit-mit-save-id,5,0
+86,圣弓,Sacred Bow,mh4g-dex-build7+mh4edit-mit-save-id,7,0
+87,霸弓莱拉卡姆托鲁姆（红）,Akantor Bow (red),mh4g-dex-build7+mh4edit-mit-save-id,0,1
+88,霸弓莱拉卡姆托鲁姆（黄）,Akantor Bow (yellow),mh4g-dex-build7+mh4edit-mit-save-id,0,1
+89,霸弓莱拉卡姆托鲁姆（绿）,Akantor Bow (green),mh4g-dex-build7+mh4edit-mit-save-id,0,1
+90,霸弓莱拉卡姆托鲁姆（蓝）,Akantor Bow (blue),mh4g-dex-build7+mh4edit-mit-save-id,0,1
+91,霸弓莱拉卡姆托鲁姆（紫）,Akantor Bow (purple),mh4g-dex-build7+mh4edit-mit-save-id,0,1
+92,Prominence Bow (red),Prominence Bow (red),mh4edit-mit-save-id-en-fallback,0,1
+93,Prominence Bow (yellow),Prominence Bow (yellow),mh4edit-mit-save-id-en-fallback,0,1
+94,Prominence Bow (green),Prominence Bow (green),mh4edit-mit-save-id-en-fallback,0,1
+95,Prominence Bow (blue),Prominence Bow (blue),mh4edit-mit-save-id-en-fallback,0,1
+96,Prominence Bow (purple),Prominence Bow (purple),mh4edit-mit-save-id-en-fallback,0,1
+97,Queen Blaster (red),Queen Blaster (red),mh4edit-mit-save-id-en-fallback,0,1
+98,Queen Blaster (yellow),Queen Blaster (yellow),mh4edit-mit-save-id-en-fallback,0,1
+99,Queen Blaster (green),Queen Blaster (green),mh4edit-mit-save-id-en-fallback,0,1
+100,Queen Blaster (blue),Queen Blaster (blue),mh4edit-mit-save-id-en-fallback,0,1
+101,Queen Blaster (purple),Queen Blaster (purple),mh4edit-mit-save-id-en-fallback,0,1
+102,钢冰马弓（红）,Icesteel Bow (red),mh4g-dex-build7+mh4edit-mit-save-id,0,1
+103,钢冰马弓（黄）,Icesteel Bow (yellow),mh4g-dex-build7+mh4edit-mit-save-id,0,1
+104,钢冰马弓（绿）,Icesteel Bow (green),mh4g-dex-build7+mh4edit-mit-save-id,0,1
+105,钢冰马弓（蓝）,Icesteel Bow (blue),mh4g-dex-build7+mh4edit-mit-save-id,0,1
+106,钢冰马弓（紫）,Icesteel Bow (purple),mh4g-dex-build7+mh4edit-mit-save-id,0,1
+107,歼灭与破坏的钢弓（红）,Bow of Rack & Ruin (red),mh4g-dex-build7+mh4edit-mit-save-id,0,1
+108,歼灭与破坏的钢弓（黄）,Bow of Rack & Ruin (yellow),mh4g-dex-build7+mh4edit-mit-save-id,0,1
+109,歼灭与破坏的钢弓（绿）,Bow of Rack & Ruin (green),mh4g-dex-build7+mh4edit-mit-save-id,0,1
+110,歼灭与破坏的钢弓（蓝）,Bow of Rack & Ruin (blue),mh4g-dex-build7+mh4edit-mit-save-id,0,1
+111,歼灭与破坏的钢弓（紫）,Bow of Rack & Ruin (purple),mh4g-dex-build7+mh4edit-mit-save-id,0,1
+112,冰柱弓Ⅲ,Icicle Bow III,mh4g-dex-build7+mh4edit-mit-save-id,8,0
+113,冰河弓,Névé Bow,mh4g-dex-build7+mh4edit-mit-save-id,9,0
+114,破岩弓伊克萨普罗德,Warflare Demolisher,mh4g-dex-build7+mh4edit-mit-save-id,9,0
+115,碎光之闪矢,Lightbreak Bow,mh4g-dex-build7+mh4edit-mit-save-id,10,0
+116,射月女神改,Selene Moonbroken+,mh4g-dex-build7+mh4edit-mit-save-id,8,0
+117,月创之阿尔忒弥斯,Artemis Moonmaker,mh4g-dex-build7+mh4edit-mit-save-id,10,0
+118,开天巨神改,Hyperion+,mh4g-dex-build7+mh4edit-mit-save-id,9,0
+119,宣告宿命之乌拉诺斯,Uranus Herald,mh4g-dex-build7+mh4edit-mit-save-id,10,0
+120,冰冻之光改,Freezing Alighter+,mh4g-dex-build7+mh4edit-mit-save-id,8,0
+121,暴风雪,Hailstorm,mh4g-dex-build7+mh4edit-mit-save-id,9,0
+122,石英之光,Quartzlight,mh4g-dex-build7+mh4edit-mit-save-id,8,0
+123,水晶十字架,Crystal Lode,mh4g-dex-build7+mh4edit-mit-save-id,9,0
+124,丛林弓Ⅲ,Jungle Bow III,mh4g-dex-build7+mh4edit-mit-save-id,8,0
+125,丛林弓Ⅳ,Jungle Bow IV,mh4g-dex-build7+mh4edit-mit-save-id,9,0
+126,冲弓【虎穿】改,Piercing Gravebow+,mh4g-dex-build7+mh4edit-mit-save-id,9,0
+127,绝冲弓【虎翼】,Soaring Grisbow,mh4g-dex-build7+mh4edit-mit-save-id,10,0
+128,血沫雷霆改,Bloodcurdler+,mh4g-dex-build7+mh4edit-mit-save-id,8,0
+129,血深泥斯普拉缇加,Splattika,mh4g-dex-build7+mh4edit-mit-save-id,9,0
+130,真・王牙弓【天翔】,Oppressor's Wing,mh4g-dex-build7+mh4edit-mit-save-id,9,0
+131,牙王维罗巴尔,Orcus Sagittus,mh4g-dex-build7+mh4edit-mit-save-id,9,0
+132,狼牙弓【邪御】,Stygian Patientia,mh4g-dex-build7+mh4edit-mit-save-id,9,0
+133,真・狼牙弓【灭罪】,Charonian Patientia,mh4g-dex-build7+mh4edit-mit-save-id,9,0
+134,THE欲望,Le Désir,mh4g-dex-build7+mh4edit-mit-save-id,9,0
+135,THE无罪,L'Innocence,mh4g-dex-build7+mh4edit-mit-save-id,10,0
+136,欲望or消失,Verzweiflung/Désir,mh4g-dex-build7+mh4edit-mit-save-id,9,0
+137,爆锤之弓,Brazencord,mh4g-dex-build7+mh4edit-mit-save-id,5,0
+138,重弓赫拉基加斯,Gigacles,mh4g-dex-build7+mh4edit-mit-save-id,8,0
+139,刚重弓基加特马基雅,Gigantomachy,mh4g-dex-build7+mh4edit-mit-save-id,9,0
+140,黄金之弓,Gold Popillia,mh4g-dex-build7+mh4edit-mit-save-id,9,0
+141,黄金弓格尔特・雷,Golden Ray,mh4g-dex-build7+mh4edit-mit-save-id,9,0
+142,影蜘蛛勇弓,Scylla Webdart,mh4g-dex-build7+mh4edit-mit-save-id,8,0
+143,空虚之浪,Weblivion,mh4g-dex-build7+mh4edit-mit-save-id,9,0
+144,果敢空虚之浪,Wide Weblivion,mh4g-dex-build7+mh4edit-mit-save-id,9,0
+145,青鸟币弓Ⅲ,Blue Kut-Ku Stave III,mh4g-dex-build7+mh4edit-mit-save-id,8,0
+146,青鸟币弓Ⅳ,Blue Kut-Ku Stave IV,mh4g-dex-build7+mh4edit-mit-save-id,9,0
+147,弓【厄】,Pox Bow,mh4g-dex-build7+mh4edit-mit-save-id,8,0
+148,黑狼殿之大弓,Garuga Oyumi,mh4g-dex-build7+mh4edit-mit-save-id,9,0
+149,大钳Ⅰ,Daimyo's Warbow I,mh4g-dex-build7+mh4edit-mit-save-id,4,0
+150,大钳Ⅱ,Daimyo's Warbow II,mh4g-dex-build7+mh4edit-mit-save-id,5,0
+151,大钳Ⅲ,Daimyo's Warbow III,mh4g-dex-build7+mh4edit-mit-save-id,8,0
+152,大紫钳Ⅰ,Great Purple Emperor I,mh4g-dex-build7+mh4edit-mit-save-id,8,0
+153,大紫钳Ⅱ,Great Purple Emperor II,mh4g-dex-build7+mh4edit-mit-save-id,9,0
+154,巨角弓,Diablos Coilbender,mh4g-dex-build7+mh4edit-mit-save-id,9,0
+155,刚角王弓破坏神之角,Cera Cyclord,mh4g-dex-build7+mh4edit-mit-save-id,9,0
+156,福尔克托斯,Fluctus,mh4g-dex-build7+mh4edit-mit-save-id,8,0
+157,梶木弓【姿造】,Viand Bowfish,mh4g-dex-build7+mh4edit-mit-save-id,8,0
+158,鹿角之刚弹弓改,Kelbi Strongshot+,mh4g-dex-build7+mh4edit-mit-save-id,8,0
+159,大鹿角之破弹弓,Great Kelbi Deershot,mh4g-dex-build7+mh4edit-mit-save-id,9,0
+160,天鹿儿弓,Amenokago,mh4g-dex-build7+mh4edit-mit-save-id,9,0
+161,豪岭弓【玉祖命】,Tamanoya,mh4g-dex-build7+mh4edit-mit-save-id,10,0
+162,雷公弓,Archbeast Thunderbow,mh4g-dex-build7+mh4edit-mit-save-id,9,0
+163,雷公弓【大圣】,Archbeast Paragon,mh4g-dex-build7+mh4edit-mit-save-id,10,0
+164,祈弓必胜改,Prayerful Victoria+,mh4g-dex-build7+mh4edit-mit-save-id,9,0
+165,女神弓伊丽莎白,Heedful Elizabeth,mh4g-dex-build7+mh4edit-mit-save-id,10,0
+166,萨基塔尔＝达欧拉,Daora's Toxotes,mh4g-dex-build7+mh4edit-mit-save-id,10,0
+167,阿尔娜斯＝埃尔达欧尔,Eldaora's Sagittarii,mh4g-dex-build7+mh4edit-mit-save-id,10,0
+168,勇气与希望之凄弓Ⅱ,Courageous Wish,mh4g-dex-build7+mh4edit-mit-save-id,10,0
+169,魔弓格里莫瓦尔,Genie's Grimoire,mh4g-dex-build7+mh4edit-mit-save-id,10,0
+170,霸灭弓库奈雷拉卡姆,Akantor Chaos Bow,mh4g-dex-build7+mh4edit-mit-save-id,10,0
+171,崩弓艾卡姆鲁巴斯,Ukanlos Bow,mh4g-dex-build7+mh4edit-mit-save-id,7,0
+172,崩天弓艾卡翁卡姆,Ukanlos Skyflier,mh4g-dex-build7+mh4edit-mit-save-id,9,0
+173,必中王黎明与一,Yoichi the Sighted,mh4g-dex-build7+mh4edit-mit-save-id,9,0
+174,帝弓达拉欧尼克斯,Dalamadur Bow,mh4g-dex-build7+mh4edit-mit-save-id,10,0
+175,蛇帝弓纳格尔玛迪拉,Enraged Dalamadur,mh4g-dex-build7+mh4edit-mit-save-id,10,0
+176,歼灭与破坏的钢弓Ⅱ,Exterminator Bow II,mh4g-dex-build7+mh4edit-mit-save-id,10,0
+177,破灭与灾厄的红莲弓,Red Heaven Ruiner,mh4g-dex-build7+mh4edit-mit-save-id,10,0
+178,胜利与光荣的勇弓,Victory and Glory,mh4g-dex-build7+mh4edit-mit-save-id,10,0
+179,千刃之矢,Shalya Bow,mh4g-dex-build7+mh4edit-mit-save-id,6,0
+180,千刃之矢改,Shalya Bow+,mh4g-dex-build7+mh4edit-mit-save-id,7,0
+181,叛逆之穿矢,Seditious Arrow,mh4g-dex-build7+mh4edit-mit-save-id,9,0
+182,叛逆弓卡玛雷吉昂,Kama Sedition,mh4g-dex-build7+mh4edit-mit-save-id,10,0
+183,抗拒之牢,Unwelcoming Gaol,mh4g-dex-build7+mh4edit-mit-save-id,10,0
+184,亡国之爱神,Calamitous Cupid,mh4g-dex-build7+mh4edit-mit-save-id,10,0
+185,圣弓Ｇ,Sacred Bow G,mh4g-dex-build7+mh4edit-mit-save-id,10,0
+186,龙头琴,Seahorse Harp,mh4g-dex-build7+mh4edit-mit-save-id,9,0
+187,竹取弓,Bamboo Taketori,mh4g-dex-build7+mh4edit-mit-save-id,4,0
+188,竹取弓【翁】,Bamboo Okina,mh4g-dex-build7+mh4edit-mit-save-id,8,0
+189,竹取弓【伽具夜】,Bamboo Kaguya,mh4g-dex-build7+mh4edit-mit-save-id,9,0
+190,DUMMY,DUMMY,mh4edit-mit-save-id-en-fallback,0,0
+191,DUMMY,DUMMY,mh4edit-mit-save-id-en-fallback,0,0
+192,DUMMY,DUMMY,mh4edit-mit-save-id-en-fallback,0,0
+193,DUMMY,DUMMY,mh4edit-mit-save-id-en-fallback,0,0
+194,Eclipse Bow (red),Eclipse Bow (red),mh4edit-mit-save-id-en-fallback,0,1
+195,Eclipse Bow (yellow),Eclipse Bow (yellow),mh4edit-mit-save-id-en-fallback,0,1
+196,Eclipse Bow (green),Eclipse Bow (green),mh4edit-mit-save-id-en-fallback,0,1
+197,Eclipse Bow (blue),Eclipse Bow (blue),mh4edit-mit-save-id-en-fallback,0,1
+198,Eclipse Bow (purple),Eclipse Bow (purple),mh4edit-mit-save-id-en-fallback,0,1
+199,Dragon Bow (red),Dragon Bow (red),mh4edit-mit-save-id-en-fallback,0,1
+200,Dragon Bow (yellow),Dragon Bow (yellow),mh4edit-mit-save-id-en-fallback,0,1
+201,Dragon Bow (green),Dragon Bow (green),mh4edit-mit-save-id-en-fallback,0,1
+202,Dragon Bow (blue),Dragon Bow (blue),mh4edit-mit-save-id-en-fallback,0,1
+203,Dragon Bow (purple),Dragon Bow (purple),mh4edit-mit-save-id-en-fallback,0,1
+204,Moonlit Phoenix,Moonlit Phoenix,mh4edit-mit-save-id-en-fallback,0,0
+205,Daybreak Arrow,Daybreak Arrow,mh4edit-mit-save-id-en-fallback,0,0

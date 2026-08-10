@@ -1,0 +1,291 @@
+id,name,english,source
+0,None,None,mh4g-save-format
+1,Antidote Jewel 1,Antidote Jewel 1,mh4g-dex-build7+mh4edit-mit-save-id
+2,Antidote Jewel 2,Antidote Jewel 2,mh4g-dex-build7+mh4edit-mit-save-id
+3,Paralysis Jwl 1,Paralysis Jwl 1,mh4g-dex-build7+mh4edit-mit-save-id
+4,Paralysis Jwl 2,Paralysis Jwl 2,mh4g-dex-build7+mh4edit-mit-save-id
+5,Pep Jewel 1,Pep Jewel 1,mh4g-dex-build7+mh4edit-mit-save-id
+6,Pep Jewel 2,Pep Jewel 2,mh4g-dex-build7+mh4edit-mit-save-id
+7,Steadfast Jwl 1,Steadfast Jwl 1,mh4g-dex-build7+mh4edit-mit-save-id
+8,Standfast Jwl 1,Standfast Jwl 1,mh4g-dex-build7+mh4edit-mit-save-id
+9,Tracker Jewel 1,Tracker Jewel 1,mh4g-dex-build7+mh4edit-mit-save-id
+10,Trekker Jewel 1,Trekker Jewel 1,mh4g-dex-build7+mh4edit-mit-save-id
+11,Ninja Jewel 1,Ninja Jewel 1,mh4g-dex-build7+mh4edit-mit-save-id
+12,Vitality Jewel 1,Vitality Jewel 1,mh4g-dex-build7+mh4edit-mit-save-id
+13,Recovery Jewel 1,Recovery Jewel 1,mh4g-dex-build7+mh4edit-mit-save-id
+14,Recovery Jewel 2,Recovery Jewel 2,mh4g-dex-build7+mh4edit-mit-save-id
+15,Razor Jewel 1,Razor Jewel 1,mh4g-dex-build7+mh4edit-mit-save-id
+16,Razor Jewel 3,Razor Jewel 3,mh4g-dex-build7+mh4edit-mit-save-id
+17,Handicraft Jwl 2,Handicraft Jwl 2,mh4g-dex-build7+mh4edit-mit-save-id
+18,Handicraft Jwl 3,Handicraft Jwl 3,mh4g-dex-build7+mh4edit-mit-save-id
+19,Artisan Jewel 3,Artisan Jewel 3,mh4g-dex-build7+mh4edit-mit-save-id
+20,Fencer Jewel 1,Fencer Jewel 1,mh4g-dex-build7+mh4edit-mit-save-id
+21,Fencer Jewel 3,Fencer Jewel 3,mh4g-dex-build7+mh4edit-mit-save-id
+22,Expert Jewel 1,Expert Jewel 1,mh4g-dex-build7+mh4edit-mit-save-id
+23,Expert Jewel 2,Expert Jewel 2,mh4g-dex-build7+mh4edit-mit-save-id
+24,Expert Jewel 3,Expert Jewel 3,mh4g-dex-build7+mh4edit-mit-save-id
+25,Grinder Jewel 1,Grinder Jewel 1,mh4g-dex-build7+mh4edit-mit-save-id
+26,Ironwall Jewel 1,Ironwall Jewel 1,mh4g-dex-build7+mh4edit-mit-save-id
+27,Ironwall Jewel 2,Ironwall Jewel 2,mh4g-dex-build7+mh4edit-mit-save-id
+28,Shield Jewel 1,Shield Jewel 1,mh4g-dex-build7+mh4edit-mit-save-id
+29,Shield Jewel 2,Shield Jewel 2,mh4g-dex-build7+mh4edit-mit-save-id
+30,Quickload Jwl 1,Quickload Jwl 1,mh4g-dex-build7+mh4edit-mit-save-id
+31,Quickload Jwl 2,Quickload Jwl 2,mh4g-dex-build7+mh4edit-mit-save-id
+32,Absorber Jewel 1,Absorber Jewel 1,mh4g-dex-build7+mh4edit-mit-save-id
+33,Absorber Jewel 3,Absorber Jewel 3,mh4g-dex-build7+mh4edit-mit-save-id
+34,Forceshot Jwl 1,Forceshot Jwl 1,mh4g-dex-build7+mh4edit-mit-save-id
+35,Forceshot Jwl 3,Forceshot Jwl 3,mh4g-dex-build7+mh4edit-mit-save-id
+36,Pierce Jewel 1,Pierce Jewel 1,mh4g-dex-build7+mh4edit-mit-save-id
+37,Pierce Jewel 3,Pierce Jewel 3,mh4g-dex-build7+mh4edit-mit-save-id
+38,Pellet Jewel 1,Pellet Jewel 1,mh4g-dex-build7+mh4edit-mit-save-id
+39,Pellet Jewel 3,Pellet Jewel 3,mh4g-dex-build7+mh4edit-mit-save-id
+40,ShotPlus Jewel 1,ShotPlus Jewel 1,mh4g-dex-build7+mh4edit-mit-save-id
+41,ShotPlus Jewel 2,ShotPlus Jewel 2,mh4g-dex-build7+mh4edit-mit-save-id
+42,PiercePlus Jwl 1,PiercePlus Jwl 1,mh4g-dex-build7+mh4edit-mit-save-id
+43,PelletPlus Jwl 1,PelletPlus Jwl 1,mh4g-dex-build7+mh4edit-mit-save-id
+44,CragPlus Jewel 1,CragPlus Jewel 1,mh4g-dex-build7+mh4edit-mit-save-id
+45,ClustPlus Jwl 1,ClustPlus Jwl 1,mh4g-dex-build7+mh4edit-mit-save-id
+46,SlicePlus Jwl 1,SlicePlus Jwl 1,mh4g-dex-build7+mh4edit-mit-save-id
+47,BlastPlus Jwl 1,BlastPlus Jwl 1,mh4g-dex-build7+mh4edit-mit-save-id
+48,Disabler Jewel 1,Disabler Jewel 1,mh4g-dex-build7+mh4edit-mit-save-id
+49,Disabler Jewel 2,Disabler Jewel 2,mh4g-dex-build7+mh4edit-mit-save-id
+50,Element Jewel 1,Element Jewel 1,mh4g-dex-build7+mh4edit-mit-save-id
+51,Element Jewel 3,Element Jewel 3,mh4g-dex-build7+mh4edit-mit-save-id
+52,Bombardier Jwl 1,Bombardier Jwl 1,mh4g-dex-build7+mh4edit-mit-save-id
+53,Hungerless Jwl 1,Hungerless Jwl 1,mh4g-dex-build7+mh4edit-mit-save-id
+54,Metabolism Jwl 1,Metabolism Jwl 1,mh4g-dex-build7+mh4edit-mit-save-id
+55,Attack Jewel 1,Attack Jewel 1,mh4g-dex-build7+mh4edit-mit-save-id
+56,Attack Jewel 2,Attack Jewel 2,mh4g-dex-build7+mh4edit-mit-save-id
+57,Attack Jewel 3,Attack Jewel 3,mh4g-dex-build7+mh4edit-mit-save-id
+58,Defense Jewel 1,Defense Jewel 1,mh4g-dex-build7+mh4edit-mit-save-id
+59,Defense Jewel 2,Defense Jewel 2,mh4g-dex-build7+mh4edit-mit-save-id
+60,Defense Jewel 3,Defense Jewel 3,mh4g-dex-build7+mh4edit-mit-save-id
+61,Protection Jwl 1,Protection Jwl 1,mh4g-dex-build7+mh4edit-mit-save-id
+62,Asylum Jewel 1,Asylum Jewel 1,mh4g-dex-build7+mh4edit-mit-save-id
+63,Earplug Jewel 1,Earplug Jewel 1,mh4g-dex-build7+mh4edit-mit-save-id
+64,Earplug Jewel 3,Earplug Jewel 3,mh4g-dex-build7+mh4edit-mit-save-id
+65,Alarm Jewel 1,Alarm Jewel 1,mh4g-dex-build7+mh4edit-mit-save-id
+66,Friendship Jwl 1,Friendship Jwl 1,mh4g-dex-build7+mh4edit-mit-save-id
+67,Friendship Jwl 2,Friendship Jwl 2,mh4g-dex-build7+mh4edit-mit-save-id
+68,Transportr Jwl 1,Transportr Jwl 1,mh4g-dex-build7+mh4edit-mit-save-id
+69,Fire Res Jewel 1,Fire Res Jewel 1,mh4g-dex-build7+mh4edit-mit-save-id
+70,Nul-Fire Jewel 1,Nul-Fire Jewel 1,mh4g-dex-build7+mh4edit-mit-save-id
+71,Water Res Jwl 1,Water Res Jwl 1,mh4g-dex-build7+mh4edit-mit-save-id
+72,Nul-Water Jwl 1,Nul-Water Jwl 1,mh4g-dex-build7+mh4edit-mit-save-id
+73,Ice Res Jewel 1,Ice Res Jewel 1,mh4g-dex-build7+mh4edit-mit-save-id
+74,Nul-Ice Jewel 1,Nul-Ice Jewel 1,mh4g-dex-build7+mh4edit-mit-save-id
+75,ThunderRes Jwl 1,ThunderRes Jwl 1,mh4g-dex-build7+mh4edit-mit-save-id
+76,Nul-Thundr Jwl 1,Nul-Thundr Jwl 1,mh4g-dex-build7+mh4edit-mit-save-id
+77,Dragon Res Jwl 1,Dragon Res Jwl 1,mh4g-dex-build7+mh4edit-mit-save-id
+78,Nul-Dragon Jwl 1,Nul-Dragon Jwl 1,mh4g-dex-build7+mh4edit-mit-save-id
+79,Heat Res Jewel 1,Heat Res Jewel 1,mh4g-dex-build7+mh4edit-mit-save-id
+80,Cold Res Jewel 1,Cold Res Jewel 1,mh4g-dex-build7+mh4edit-mit-save-id
+81,Wind Res Jewel 1,Wind Res Jewel 1,mh4g-dex-build7+mh4edit-mit-save-id
+82,Wind Res Jewel 2,Wind Res Jewel 2,mh4g-dex-build7+mh4edit-mit-save-id
+83,Gathering Jwl 1,Gathering Jwl 1,mh4g-dex-build7+mh4edit-mit-save-id
+84,Spree Jewel 1,Spree Jewel 1,mh4g-dex-build7+mh4edit-mit-save-id
+85,Blessing Jewel 1,Blessing Jewel 1,mh4g-dex-build7+mh4edit-mit-save-id
+86,Fate Jewel 1,Fate Jewel 1,mh4g-dex-build7+mh4edit-mit-save-id
+87,Fate Jewel 3,Fate Jewel 3,mh4g-dex-build7+mh4edit-mit-save-id
+88,Psychic Jewel 1,Psychic Jewel 1,mh4g-dex-build7+mh4edit-mit-save-id
+89,Medicine Jewel 1,Medicine Jewel 1,mh4g-dex-build7+mh4edit-mit-save-id
+90,Medicine Jewel 2,Medicine Jewel 2,mh4g-dex-build7+mh4edit-mit-save-id
+91,Professor Jwl 1,Professor Jwl 1,mh4g-dex-build7+mh4edit-mit-save-id
+92,Factory Jewel 1,Factory Jewel 1,mh4g-dex-build7+mh4edit-mit-save-id
+93,Evasion Jewel 1,Evasion Jewel 1,mh4g-dex-build7+mh4edit-mit-save-id
+94,Evasion Jewel 2,Evasion Jewel 2,mh4g-dex-build7+mh4edit-mit-save-id
+95,Potential Jwl 1,Potential Jwl 1,mh4g-dex-build7+mh4edit-mit-save-id
+96,Potential Jwl 2,Potential Jwl 2,mh4g-dex-build7+mh4edit-mit-save-id
+97,Enduring Jewel 1,Enduring Jewel 1,mh4g-dex-build7+mh4edit-mit-save-id
+98,Sprinter Jewel 1,Sprinter Jewel 1,mh4g-dex-build7+mh4edit-mit-save-id
+99,Sprinter Jewel 3,Sprinter Jewel 3,mh4g-dex-build7+mh4edit-mit-save-id
+100,Capacity Jewel 2,Capacity Jewel 2,mh4g-dex-build7+mh4edit-mit-save-id
+101,Capacity Jewel 3,Capacity Jewel 3,mh4g-dex-build7+mh4edit-mit-save-id
+102,Laden Jewel 3,Laden Jewel 3,mh4g-dex-build7+mh4edit-mit-save-id
+103,Sniper Jewel 1,Sniper Jewel 1,mh4g-dex-build7+mh4edit-mit-save-id
+104,Gobbler Jewel 1,Gobbler Jewel 1,mh4g-dex-build7+mh4edit-mit-save-id
+105,Gobbler Jewel 3,Gobbler Jewel 3,mh4g-dex-build7+mh4edit-mit-save-id
+106,Carver Jewel 1,Carver Jewel 1,mh4g-dex-build7+mh4edit-mit-save-id
+107,Carver Jewel 3,Carver Jewel 3,mh4g-dex-build7+mh4edit-mit-save-id
+108,Footing Jewel 1,Footing Jewel 1,mh4g-dex-build7+mh4edit-mit-save-id
+109,Tectonic Jewel 1,Tectonic Jewel 1,mh4g-dex-build7+mh4edit-mit-save-id
+110,Jumping Jewel 1,Jumping Jewel 1,mh4g-dex-build7+mh4edit-mit-save-id
+111,Jumping Jewel 2,Jumping Jewel 2,mh4g-dex-build7+mh4edit-mit-save-id
+112,Draw Jewel 1,Draw Jewel 1,mh4g-dex-build7+mh4edit-mit-save-id
+113,Draw Jewel 2,Draw Jewel 2,mh4g-dex-build7+mh4edit-mit-save-id
+114,Trapmaster Jwl 1,Trapmaster Jwl 1,mh4g-dex-build7+mh4edit-mit-save-id
+115,Physique Jewel 1,Physique Jewel 1,mh4g-dex-build7+mh4edit-mit-save-id
+116,Physique Jewel 2,Physique Jewel 2,mh4g-dex-build7+mh4edit-mit-save-id
+117,Capture Jewel 1,Capture Jewel 1,mh4g-dex-build7+mh4edit-mit-save-id
+118,Capture Jewel 3,Capture Jewel 3,mh4g-dex-build7+mh4edit-mit-save-id
+119,Perception Jwl 1,Perception Jwl 1,mh4g-dex-build7+mh4edit-mit-save-id
+120,Charger Jewel 1,Charger Jewel 1,mh4g-dex-build7+mh4edit-mit-save-id
+121,Charger Jewel 3,Charger Jewel 3,mh4g-dex-build7+mh4edit-mit-save-id
+122,Gambit Jewel 1,Gambit Jewel 1,mh4g-dex-build7+mh4edit-mit-save-id
+123,Gambit Jewel 3,Gambit Jewel 3,mh4g-dex-build7+mh4edit-mit-save-id
+124,Resistor Jewel 1,Resistor Jewel 1,mh4g-dex-build7+mh4edit-mit-save-id
+125,Resistor Jewel 3,Resistor Jewel 3,mh4g-dex-build7+mh4edit-mit-save-id
+126,Release Jewel 2,Release Jewel 2,mh4g-dex-build7+mh4edit-mit-save-id
+127,Catalyst Jewel 3,Catalyst Jewel 3,mh4g-dex-build7+mh4edit-mit-save-id
+128,TrueCatalystJwl 3,TrueCatalystJwl 3,mh4g-dex-build7+mh4edit-mit-save-id
+129,Fortitude Jwl 1,Fortitude Jwl 1,mh4g-dex-build7+mh4edit-mit-save-id
+130,Fortitude Jwl 2,Fortitude Jwl 2,mh4g-dex-build7+mh4edit-mit-save-id
+131,Salvo Jewel 1,Salvo Jewel 1,mh4g-dex-build7+mh4edit-mit-save-id
+132,Salvo Jewel 3,Salvo Jewel 3,mh4g-dex-build7+mh4edit-mit-save-id
+133,Torchlight Jwl 1,Torchlight Jwl 1,mh4g-dex-build7+mh4edit-mit-save-id
+134,Def Lock Jewel 1,Def Lock Jewel 1,mh4g-dex-build7+mh4edit-mit-save-id
+135,Blaze Jewel 1,Blaze Jewel 1,mh4g-dex-build7+mh4edit-mit-save-id
+136,Blaze Jewel 2,Blaze Jewel 2,mh4g-dex-build7+mh4edit-mit-save-id
+137,Stream Jewel 1,Stream Jewel 1,mh4g-dex-build7+mh4edit-mit-save-id
+138,Stream Jewel 2,Stream Jewel 2,mh4g-dex-build7+mh4edit-mit-save-id
+139,Bolt Jewel 1,Bolt Jewel 1,mh4g-dex-build7+mh4edit-mit-save-id
+140,Bolt Jewel 2,Bolt Jewel 2,mh4g-dex-build7+mh4edit-mit-save-id
+141,Frost Jewel 1,Frost Jewel 1,mh4g-dex-build7+mh4edit-mit-save-id
+142,Frost Jewel 2,Frost Jewel 2,mh4g-dex-build7+mh4edit-mit-save-id
+143,Dragon Jewel 1,Dragon Jewel 1,mh4g-dex-build7+mh4edit-mit-save-id
+144,Dragon Jewel 2,Dragon Jewel 2,mh4g-dex-build7+mh4edit-mit-save-id
+145,Tenderizer Jwl 1,Tenderizer Jwl 1,mh4g-dex-build7+mh4edit-mit-save-id
+146,Tenderizer Jwl 3,Tenderizer Jwl 3,mh4g-dex-build7+mh4edit-mit-save-id
+147,Destroyer Jwl 1,Destroyer Jwl 1,mh4g-dex-build7+mh4edit-mit-save-id
+148,Destroyer Jwl 3,Destroyer Jwl 3,mh4g-dex-build7+mh4edit-mit-save-id
+149,Throttle Jewel 1,Throttle Jewel 1,mh4g-dex-build7+mh4edit-mit-save-id
+150,Throttle Jewel 2,Throttle Jewel 2,mh4g-dex-build7+mh4edit-mit-save-id
+151,KO Jewel 1,KO Jewel 1,mh4g-dex-build7+mh4edit-mit-save-id
+152,KO Jewel 2,KO Jewel 2,mh4g-dex-build7+mh4edit-mit-save-id
+153,Drain Jewel 1,Drain Jewel 1,mh4g-dex-build7+mh4edit-mit-save-id
+154,Drain Jewel 2,Drain Jewel 2,mh4g-dex-build7+mh4edit-mit-save-id
+155,Sonorous Jewel 1,Sonorous Jewel 1,mh4g-dex-build7+mh4edit-mit-save-id
+156,Artillery Jwl 1,Artillery Jwl 1,mh4g-dex-build7+mh4edit-mit-save-id
+157,Sheath Jewel 1,Sheath Jewel 1,mh4g-dex-build7+mh4edit-mit-save-id
+158,Sheath Jewel 2,Sheath Jewel 2,mh4g-dex-build7+mh4edit-mit-save-id
+159,Refresh Jewel 1,Refresh Jewel 1,mh4g-dex-build7+mh4edit-mit-save-id
+160,Refresh Jewel 2,Refresh Jewel 2,mh4g-dex-build7+mh4edit-mit-save-id
+161,Ranger Jewel 1,Ranger Jewel 1,mh4g-dex-build7+mh4edit-mit-save-id
+162,Paracoat Jewel 1,Paracoat Jewel 1,mh4g-dex-build7+mh4edit-mit-save-id
+163,Paracoat Jewel 2,Paracoat Jewel 2,mh4g-dex-build7+mh4edit-mit-save-id
+164,Sleepcoat Jwl 1,Sleepcoat Jwl 1,mh4g-dex-build7+mh4edit-mit-save-id
+165,Poisoncoat Jwl 1,Poisoncoat Jwl 1,mh4g-dex-build7+mh4edit-mit-save-id
+166,Powercoat Jwl 1,Powercoat Jwl 1,mh4g-dex-build7+mh4edit-mit-save-id
+167,Powercoat Jwl 2,Powercoat Jwl 2,mh4g-dex-build7+mh4edit-mit-save-id
+168,Rangecoat Jwl 1,Rangecoat Jwl 1,mh4g-dex-build7+mh4edit-mit-save-id
+169,Blastcoat Jwl 1,Blastcoat Jwl 1,mh4g-dex-build7+mh4edit-mit-save-id
+170,Draincoat Jwl 1,Draincoat Jwl 1,mh4g-dex-build7+mh4edit-mit-save-id
+171,Guts Jewel 1,Guts Jewel 1,mh4g-dex-build7+mh4edit-mit-save-id
+172,Guts Jewel 2,Guts Jewel 2,mh4g-dex-build7+mh4edit-mit-save-id
+173,Meateater Jwl 1,Meateater Jwl 1,mh4g-dex-build7+mh4edit-mit-save-id
+174,Meatlover Jwl 1,Meatlover Jwl 1,mh4g-dex-build7+mh4edit-mit-save-id
+175,Honeybee Jewel 1,Honeybee Jewel 1,mh4g-dex-build7+mh4edit-mit-save-id
+176,Queenbee Jewel 1,Queenbee Jewel 1,mh4g-dex-build7+mh4edit-mit-save-id
+177,Biology Jewel 1,Biology Jewel 1,mh4g-dex-build7+mh4edit-mit-save-id
+178,Microbio Jewel 1,Microbio Jewel 1,mh4g-dex-build7+mh4edit-mit-save-id
+179,Spirit Jewel 1,Spirit Jewel 1,mh4g-dex-build7+mh4edit-mit-save-id
+180,Spirit Jewel 2,Spirit Jewel 2,mh4g-dex-build7+mh4edit-mit-save-id
+181,Flawless Jewel 1,Flawless Jewel 1,mh4g-dex-build7+mh4edit-mit-save-id
+182,Flawless Jewel 2,Flawless Jewel 2,mh4g-dex-build7+mh4edit-mit-save-id
+183,Steady Jewel 1,Steady Jewel 1,mh4g-dex-build7+mh4edit-mit-save-id
+184,Steady Jewel 3,Steady Jewel 3,mh4g-dex-build7+mh4edit-mit-save-id
+185,Player Jewel 1,Player Jewel 1,mh4g-dex-build7+mh4edit-mit-save-id
+186,Morale Jewel 1,Morale Jewel 1,mh4g-dex-build7+mh4edit-mit-save-id
+187,Leader Jewel 1,Leader Jewel 1,mh4g-dex-build7+mh4edit-mit-save-id
+188,Leader Jewel 2,Leader Jewel 2,mh4g-dex-build7+mh4edit-mit-save-id
+189,Charmer Jewel 1,Charmer Jewel 1,mh4g-dex-build7+mh4edit-mit-save-id
+190,Honed Jwl 1,Honed Jwl 1,mh4g-dex-build7+mh4edit-mit-save-id
+191,Honed Jwl 2,Honed Jwl 2,mh4g-dex-build7+mh4edit-mit-save-id
+192,Honed Jwl 3,Honed Jwl 3,mh4g-dex-build7+mh4edit-mit-save-id
+193,True Honed Jwl 3,True Honed Jwl 3,mh4g-dex-build7+mh4edit-mit-save-id
+194,Calm Jwl 1,Calm Jwl 1,mh4g-dex-build7+mh4edit-mit-save-id
+195,Calm Jwl 2,Calm Jwl 2,mh4g-dex-build7+mh4edit-mit-save-id
+196,Calm Jwl 3,Calm Jwl 3,mh4g-dex-build7+mh4edit-mit-save-id
+197,True Calm Jwl 3,True Calm Jwl 3,mh4g-dex-build7+mh4edit-mit-save-id
+198,Hale Jwl 1,Hale Jwl 1,mh4g-dex-build7+mh4edit-mit-save-id
+199,Hale Jwl 2,Hale Jwl 2,mh4g-dex-build7+mh4edit-mit-save-id
+200,Hale Jwl 3,Hale Jwl 3,mh4g-dex-build7+mh4edit-mit-save-id
+201,True Hale Jwl 3,True Hale Jwl 3,mh4g-dex-build7+mh4edit-mit-save-id
+202,Ire Jwl 1,Ire Jwl 1,mh4g-dex-build7+mh4edit-mit-save-id
+203,Ire Jwl 2,Ire Jwl 2,mh4g-dex-build7+mh4edit-mit-save-id
+204,Ire Jwl 3,Ire Jwl 3,mh4g-dex-build7+mh4edit-mit-save-id
+205,True Ire Jwl 3,True Ire Jwl 3,mh4g-dex-build7+mh4edit-mit-save-id
+206,Nimble Jwl 1,Nimble Jwl 1,mh4g-dex-build7+mh4edit-mit-save-id
+207,True Nimble Jwl 1,True Nimble Jwl 1,mh4g-dex-build7+mh4edit-mit-save-id
+208,Nimble Jwl 2,Nimble Jwl 2,mh4g-dex-build7+mh4edit-mit-save-id
+209,Nimble Jwl 3,Nimble Jwl 3,mh4g-dex-build7+mh4edit-mit-save-id
+210,True Nimble Jwl 3,True Nimble Jwl 3,mh4g-dex-build7+mh4edit-mit-save-id
+211,Hardy Jwl 1,Hardy Jwl 1,mh4g-dex-build7+mh4edit-mit-save-id
+212,True Hardy Jwl 1,True Hardy Jwl 1,mh4g-dex-build7+mh4edit-mit-save-id
+213,Hardy Jwl 2,Hardy Jwl 2,mh4g-dex-build7+mh4edit-mit-save-id
+214,Hardy Jwl 3,Hardy Jwl 3,mh4g-dex-build7+mh4edit-mit-save-id
+215,True Hardy Jwl 3,True Hardy Jwl 3,mh4g-dex-build7+mh4edit-mit-save-id
+216,Withdrawn Jwl 1,Withdrawn Jwl 1,mh4g-dex-build7+mh4edit-mit-save-id
+217,Withdrawn Jwl 3,Withdrawn Jwl 3,mh4g-dex-build7+mh4edit-mit-save-id
+218,Impactful Jwl 1,Impactful Jwl 1,mh4g-dex-build7+mh4edit-mit-save-id
+219,Impactful Jwl 3,Impactful Jwl 3,mh4g-dex-build7+mh4edit-mit-save-id
+220,Intense Jwl 2,Intense Jwl 2,mh4g-dex-build7+mh4edit-mit-save-id
+221,Intense Jwl 3,Intense Jwl 3,mh4g-dex-build7+mh4edit-mit-save-id
+222,Aegis Jwl 2,Aegis Jwl 2,mh4g-dex-build7+mh4edit-mit-save-id
+223,Aegis Jwl 3,Aegis Jwl 3,mh4g-dex-build7+mh4edit-mit-save-id
+224,Tactful Jwl 2,Tactful Jwl 2,mh4g-dex-build7+mh4edit-mit-save-id
+225,Tactful Jwl 3,Tactful Jwl 3,mh4g-dex-build7+mh4edit-mit-save-id
+226,Broad Jwl 2,Broad Jwl 2,mh4g-dex-build7+mh4edit-mit-save-id
+227,Broad Jwl 3,Broad Jwl 3,mh4g-dex-build7+mh4edit-mit-save-id
+228,Trove Jwl 1,Trove Jwl 1,mh4g-dex-build7+mh4edit-mit-save-id
+229,True Trove Jwl 1,True Trove Jwl 1,mh4g-dex-build7+mh4edit-mit-save-id
+230,Trove Jwl 2,Trove Jwl 2,mh4g-dex-build7+mh4edit-mit-save-id
+231,True Trove Jwl 2,True Trove Jwl 2,mh4g-dex-build7+mh4edit-mit-save-id
+232,Trove Jwl 3,Trove Jwl 3,mh4g-dex-build7+mh4edit-mit-save-id
+233,Avid Jwl 1,Avid Jwl 1,mh4g-dex-build7+mh4edit-mit-save-id
+234,True Avid Jwl 1,True Avid Jwl 1,mh4g-dex-build7+mh4edit-mit-save-id
+235,Avid Jwl 2,Avid Jwl 2,mh4g-dex-build7+mh4edit-mit-save-id
+236,True Avid Jwl 2,True Avid Jwl 2,mh4g-dex-build7+mh4edit-mit-save-id
+237,Avid Jwl 3,Avid Jwl 3,mh4g-dex-build7+mh4edit-mit-save-id
+238,CritElementJwl 1,CritElementJwl 1,mh4g-dex-build7+mh4edit-mit-save-id
+239,CritElementJwl 2,CritElementJwl 2,mh4g-dex-build7+mh4edit-mit-save-id
+240,Crit Status Jwl 1,Crit Status Jwl 1,mh4g-dex-build7+mh4edit-mit-save-id
+241,Crit Status Jwl 2,Crit Status Jwl 2,mh4g-dex-build7+mh4edit-mit-save-id
+242,Precise Jewel 1,Precise Jewel 1,mh4g-dex-build7+mh4edit-mit-save-id
+243,Precise Jewel 2,Precise Jewel 2,mh4g-dex-build7+mh4edit-mit-save-id
+244,Fungiform Jewel 1,Fungiform Jewel 1,mh4g-dex-build7+mh4edit-mit-save-id
+245,Satiated Jewel 1,Satiated Jewel 1,mh4g-dex-build7+mh4edit-mit-save-id
+246,Staunch Jewel 1,Staunch Jewel 1,mh4g-dex-build7+mh4edit-mit-save-id
+247,Clean Jewel 1,Clean Jewel 1,mh4g-dex-build7+mh4edit-mit-save-id
+248,Rodeo Jewel 1,Rodeo Jewel 1,mh4g-dex-build7+mh4edit-mit-save-id
+249,Sane Jewel 1,Sane Jewel 1,mh4g-dex-build7+mh4edit-mit-save-id
+250,Sane Jewel 3,Sane Jewel 3,mh4g-dex-build7+mh4edit-mit-save-id
+251,Cutting Jwl 1,Cutting Jwl 1,mh4g-dex-build7+mh4edit-mit-save-id
+252,Cutting Jwl 2,Cutting Jwl 2,mh4g-dex-build7+mh4edit-mit-save-id
+253,Cutting Jwl 3,Cutting Jwl 3,mh4g-dex-build7+mh4edit-mit-save-id
+254,TrueCuttingJwl 3,TrueCuttingJwl 3,mh4g-dex-build7+mh4edit-mit-save-id
+255,Arcane Jwl 1,Arcane Jwl 1,mh4g-dex-build7+mh4edit-mit-save-id
+256,Arcane Jwl 2,Arcane Jwl 2,mh4g-dex-build7+mh4edit-mit-save-id
+257,Arcane Jwl 3,Arcane Jwl 3,mh4g-dex-build7+mh4edit-mit-save-id
+258,True Arcane Jwl 3,True Arcane Jwl 3,mh4g-dex-build7+mh4edit-mit-save-id
+259,Brawn Jwl 1,Brawn Jwl 1,mh4g-dex-build7+mh4edit-mit-save-id
+260,Brawn Jwl 2,Brawn Jwl 2,mh4g-dex-build7+mh4edit-mit-save-id
+261,Brawn Jwl 3,Brawn Jwl 3,mh4g-dex-build7+mh4edit-mit-save-id
+262,True Brawn Jwl 3,True Brawn Jwl 3,mh4g-dex-build7+mh4edit-mit-save-id
+263,Supplicant Jwl 1,Supplicant Jwl 1,mh4g-dex-build7+mh4edit-mit-save-id
+264,Supplicant Jwl 2,Supplicant Jwl 2,mh4g-dex-build7+mh4edit-mit-save-id
+265,Supplicant Jwl 3,Supplicant Jwl 3,mh4g-dex-build7+mh4edit-mit-save-id
+266,Furtive Jwl 1,Furtive Jwl 1,mh4g-dex-build7+mh4edit-mit-save-id
+267,Furtive Jwl 2,Furtive Jwl 2,mh4g-dex-build7+mh4edit-mit-save-id
+268,Furtive Jwl 3,Furtive Jwl 3,mh4g-dex-build7+mh4edit-mit-save-id
+269,TrueFurtiveJwl 3,TrueFurtiveJwl 3,mh4g-dex-build7+mh4edit-mit-save-id
+270,True Honed Jwl 2,True Honed Jwl 2,mh4g-dex-build7+mh4edit-mit-save-id
+271,UltimateHonedJwl3,UltimateHonedJwl3,mh4g-dex-build7+mh4edit-mit-save-id
+272,True Calm Jwl 2,True Calm Jwl 2,mh4g-dex-build7+mh4edit-mit-save-id
+273,UltimateCalmJwl 3,UltimateCalmJwl 3,mh4g-dex-build7+mh4edit-mit-save-id
+274,True Hale Jwl 2,True Hale Jwl 2,mh4g-dex-build7+mh4edit-mit-save-id
+275,UltimateHaleJwl 3,UltimateHaleJwl 3,mh4g-dex-build7+mh4edit-mit-save-id
+276,True Ire Jwl 2,True Ire Jwl 2,mh4g-dex-build7+mh4edit-mit-save-id
+277,UltimateIreJwl 3,UltimateIreJwl 3,mh4g-dex-build7+mh4edit-mit-save-id
+278,Withdrawn Jwl 2,Withdrawn Jwl 2,mh4g-dex-build7+mh4edit-mit-save-id
+279,TrueWithdrawnJwl3,TrueWithdrawnJwl3,mh4g-dex-build7+mh4edit-mit-save-id
+280,Impactful Jwl 2,Impactful Jwl 2,mh4g-dex-build7+mh4edit-mit-save-id
+281,TrueImpactfulJwl3,TrueImpactfulJwl3,mh4g-dex-build7+mh4edit-mit-save-id
+282,TrueIntenseJwl 2,TrueIntenseJwl 2,mh4g-dex-build7+mh4edit-mit-save-id
+283,TrueIntenseJwl 3,TrueIntenseJwl 3,mh4g-dex-build7+mh4edit-mit-save-id
+284,True Aegis Jwl 2,True Aegis Jwl 2,mh4g-dex-build7+mh4edit-mit-save-id
+285,True Aegis Jwl 3,True Aegis Jwl 3,mh4g-dex-build7+mh4edit-mit-save-id
+286,TrueTactfulJwl 2,TrueTactfulJwl 2,mh4g-dex-build7+mh4edit-mit-save-id
+287,TrueTactfulJwl 3,TrueTactfulJwl 3,mh4g-dex-build7+mh4edit-mit-save-id
+288,True Broad Jwl 2,True Broad Jwl 2,mh4g-dex-build7+mh4edit-mit-save-id
+289,True Broad Jwl 3,True Broad Jwl 3,mh4g-dex-build7+mh4edit-mit-save-id

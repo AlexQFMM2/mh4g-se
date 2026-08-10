@@ -1,0 +1,965 @@
+id,name,english,source,rarity,is_relic
+0,None,None,mh4g-save-format,0,0
+1,Derring Trousers,Derring Trousers,mh4g-dex-build7+mh4edit-mit-save-id,1,0
+2,Derring Greaves S,Derring Greaves S,mh4g-dex-build7+mh4edit-mit-save-id,4,0
+3,Derring Leggings S,Derring Leggings S,mh4g-dex-build7+mh4edit-mit-save-id,4,0
+4,Leather Trousers,Leather Trousers,mh4g-dex-build7+mh4edit-mit-save-id,1,0
+5,Leather Greaves S,Leather Greaves S,mh4g-dex-build7+mh4edit-mit-save-id,4,0
+6,Leather Leggings S,Leather Leggings S,mh4g-dex-build7+mh4edit-mit-save-id,4,0
+7,Chainmail Trousers,Chainmail Trousers,mh4g-dex-build7+mh4edit-mit-save-id,1,0
+8,Chainmail Greaves S,Chainmail Greaves S,mh4g-dex-build7+mh4edit-mit-save-id,4,0
+9,Chainmail Leggings S,Chainmail Leggings S,mh4g-dex-build7+mh4edit-mit-save-id,4,0
+10,Hunter's Greaves,Hunter's Greaves,mh4g-dex-build7+mh4edit-mit-save-id,1,0
+11,Hunter's Leggings,Hunter's Leggings,mh4g-dex-build7+mh4edit-mit-save-id,1,0
+12,Hunter's Greaves S,Hunter's Greaves S,mh4g-dex-build7+mh4edit-mit-save-id,4,0
+13,Hunter's Leggings S,Hunter's Leggings S,mh4g-dex-build7+mh4edit-mit-save-id,4,0
+14,Hunter's Greaves,Hunter's Greaves,mh4g-dex-build7+mh4edit-mit-save-id,1,0
+15,Hunter's Leggings,Hunter's Leggings,mh4g-dex-build7+mh4edit-mit-save-id,1,0
+16,Bone Greaves,Bone Greaves,mh4g-dex-build7+mh4edit-mit-save-id,1,0
+17,Bone Leggings,Bone Leggings,mh4g-dex-build7+mh4edit-mit-save-id,1,0
+18,Bone Greaves S,Bone Greaves S,mh4g-dex-build7+mh4edit-mit-save-id,4,0
+19,Bone Leggings S,Bone Leggings S,mh4g-dex-build7+mh4edit-mit-save-id,4,0
+20,Alloy Greaves,Alloy Greaves,mh4g-dex-build7+mh4edit-mit-save-id,1,0
+21,Alloy Leggings,Alloy Leggings,mh4g-dex-build7+mh4edit-mit-save-id,1,0
+22,Alloy Greaves S,Alloy Greaves S,mh4g-dex-build7+mh4edit-mit-save-id,4,0
+23,Alloy Leggings S,Alloy Leggings S,mh4g-dex-build7+mh4edit-mit-save-id,4,0
+24,Alloy Greaves,Alloy Greaves,mh4g-dex-build7+mh4edit-mit-save-id,1,0
+25,Alloy Leggings,Alloy Leggings,mh4g-dex-build7+mh4edit-mit-save-id,1,0
+26,Jaggi Greaves,Jaggi Greaves,mh4g-dex-build7+mh4edit-mit-save-id,2,0
+27,Jaggi Leggings,Jaggi Leggings,mh4g-dex-build7+mh4edit-mit-save-id,2,0
+28,Jaggi Greaves S,Jaggi Greaves S,mh4g-dex-build7+mh4edit-mit-save-id,4,0
+29,Jaggi Leggings S,Jaggi Leggings S,mh4g-dex-build7+mh4edit-mit-save-id,4,0
+30,Loc Lac Boots,Loc Lac Boots,mh4g-dex-build7+mh4edit-mit-save-id,1,0
+31,Ludroth Greaves,Ludroth Greaves,mh4g-dex-build7+mh4edit-mit-save-id,2,0
+32,Ludroth Leggings,Ludroth Leggings,mh4g-dex-build7+mh4edit-mit-save-id,2,0
+33,Ludroth Greaves,Ludroth Greaves,mh4g-dex-build7+mh4edit-mit-save-id,2,0
+34,Ludroth Leggings,Ludroth Leggings,mh4g-dex-build7+mh4edit-mit-save-id,2,0
+35,Rhenoplos Greaves,Rhenoplos Greaves,mh4g-dex-build7+mh4edit-mit-save-id,2,0
+36,Rhenoplos Leggings,Rhenoplos Leggings,mh4g-dex-build7+mh4edit-mit-save-id,2,0
+37,Rhenoplos Greaves S,Rhenoplos Greaves S,mh4g-dex-build7+mh4edit-mit-save-id,4,0
+38,Rhenoplos Leggings S,Rhenoplos Leggings S,mh4g-dex-build7+mh4edit-mit-save-id,4,0
+39,Bnahabra Boots,Bnahabra Boots,mh4g-dex-build7+mh4edit-mit-save-id,2,0
+40,Bnahabra Pants,Bnahabra Pants,mh4g-dex-build7+mh4edit-mit-save-id,2,0
+41,Bnahabra Boots S,Bnahabra Boots S,mh4g-dex-build7+mh4edit-mit-save-id,4,0
+42,Bnahabra Pants S,Bnahabra Pants S,mh4g-dex-build7+mh4edit-mit-save-id,4,0
+43,Barroth Greaves,Barroth Greaves,mh4g-dex-build7+mh4edit-mit-save-id,2,0
+44,Barroth Leggings,Barroth Leggings,mh4g-dex-build7+mh4edit-mit-save-id,2,0
+45,Rathian Greaves,Rathian Greaves,mh4g-dex-build7+mh4edit-mit-save-id,2,0
+46,Rathian Leggings,Rathian Leggings,mh4g-dex-build7+mh4edit-mit-save-id,2,0
+47,Rathian Greaves S,Rathian Greaves S,mh4g-dex-build7+mh4edit-mit-save-id,5,0
+48,Rathian Leggings S,Rathian Leggings S,mh4g-dex-build7+mh4edit-mit-save-id,5,0
+49,Rath Heart Greaves,Rath Heart Greaves,mh4g-dex-build7+mh4edit-mit-save-id,6,0
+50,Rath Heart Leggings,Rath Heart Leggings,mh4g-dex-build7+mh4edit-mit-save-id,6,0
+51,Golden Lunegreaves,Golden Lunegreaves,mh4g-dex-build7+mh4edit-mit-save-id,7,0
+52,Golden Luneleggings,Golden Luneleggings,mh4g-dex-build7+mh4edit-mit-save-id,7,0
+53,Rathian Greaves,Rathian Greaves,mh4g-dex-build7+mh4edit-mit-save-id,2,0
+54,Rathian Leggings,Rathian Leggings,mh4g-dex-build7+mh4edit-mit-save-id,2,0
+55,Rath Heart Greaves,Rath Heart Greaves,mh4g-dex-build7+mh4edit-mit-save-id,6,0
+56,Rath Heart Leggings,Rath Heart Leggings,mh4g-dex-build7+mh4edit-mit-save-id,6,0
+57,EX Rathian Greaves,EX Rathian Greaves,mh4g-dex-build7+mh4edit-mit-save-id,7,0
+58,EX Rathian Leggings,EX Rathian Leggings,mh4g-dex-build7+mh4edit-mit-save-id,7,0
+59,Rathalos Greaves,Rathalos Greaves,mh4g-dex-build7+mh4edit-mit-save-id,3,0
+60,Rathalos Leggings,Rathalos Leggings,mh4g-dex-build7+mh4edit-mit-save-id,3,0
+61,Rathalos Greaves S,Rathalos Greaves S,mh4g-dex-build7+mh4edit-mit-save-id,5,0
+62,Rathalos Leggings S,Rathalos Leggings S,mh4g-dex-build7+mh4edit-mit-save-id,5,0
+63,Rath Soul Greaves,Rath Soul Greaves,mh4g-dex-build7+mh4edit-mit-save-id,6,0
+64,Rath Soul Leggings,Rath Soul Leggings,mh4g-dex-build7+mh4edit-mit-save-id,6,0
+65,Silver Solgreaves,Silver Solgreaves,mh4g-dex-build7+mh4edit-mit-save-id,7,0
+66,Silver Solleggings,Silver Solleggings,mh4g-dex-build7+mh4edit-mit-save-id,7,0
+67,Rathalos Greaves,Rathalos Greaves,mh4g-dex-build7+mh4edit-mit-save-id,3,0
+68,Rathalos Leggings,Rathalos Leggings,mh4g-dex-build7+mh4edit-mit-save-id,3,0
+69,Rath Soul Greaves,Rath Soul Greaves,mh4g-dex-build7+mh4edit-mit-save-id,6,0
+70,Rath Soul Leggings,Rath Soul Leggings,mh4g-dex-build7+mh4edit-mit-save-id,6,0
+71,Silver Solgreaves,Silver Solgreaves,mh4g-dex-build7+mh4edit-mit-save-id,7,0
+72,Silver Solleggings,Silver Solleggings,mh4g-dex-build7+mh4edit-mit-save-id,7,0
+73,EX Rathalos Greaves,EX Rathalos Greaves,mh4g-dex-build7+mh4edit-mit-save-id,7,0
+74,EX Rathalos Leggings,EX Rathalos Leggings,mh4g-dex-build7+mh4edit-mit-save-id,7,0
+75,Diablos Greaves,Diablos Greaves,mh4g-dex-build7+mh4edit-mit-save-id,3,0
+76,Diablos Leggings,Diablos Leggings,mh4g-dex-build7+mh4edit-mit-save-id,3,0
+77,Uragaan Greaves,Uragaan Greaves,mh4g-dex-build7+mh4edit-mit-save-id,3,0
+78,Uragaan Leggings,Uragaan Leggings,mh4g-dex-build7+mh4edit-mit-save-id,3,0
+79,Vangis Greaves,Vangis Greaves,mh4g-dex-build7+mh4edit-mit-save-id,6,0
+80,Vangis Leggings,Vangis Leggings,mh4g-dex-build7+mh4edit-mit-save-id,6,0
+81,Esurient Greaves,Esurient Greaves,mh4g-dex-build7+mh4edit-mit-save-id,7,0
+82,Esurient Leggings,Esurient Leggings,mh4g-dex-build7+mh4edit-mit-save-id,7,0
+83,Esurient Greaves,Esurient Greaves,mh4g-dex-build7+mh4edit-mit-save-id,7,0
+84,Esurient Leggings,Esurient Leggings,mh4g-dex-build7+mh4edit-mit-save-id,7,0
+85,Gloaming Greaves,Gloaming Greaves,mh4g-dex-build7+mh4edit-mit-save-id,3,0
+86,Adamance Pleats,Adamance Pleats,mh4g-dex-build7+mh4edit-mit-save-id,3,0
+87,Dayspring Pleats,Dayspring Pleats,mh4g-dex-build7+mh4edit-mit-save-id,3,0
+88,Epoch Pleats,Epoch Pleats,mh4g-dex-build7+mh4edit-mit-save-id,3,0
+89,Gloaming Archgreaves,Gloaming Archgreaves,mh4g-dex-build7+mh4edit-mit-save-id,7,0
+90,Adamance Archpleats,Adamance Archpleats,mh4g-dex-build7+mh4edit-mit-save-id,7,0
+91,Dayspring Archpleats,Dayspring Archpleats,mh4g-dex-build7+mh4edit-mit-save-id,7,0
+92,Epoch Archpleats,Epoch Archpleats,mh4g-dex-build7+mh4edit-mit-save-id,7,0
+93,Gloaming Greaves,Gloaming Greaves,mh4g-dex-build7+mh4edit-mit-save-id,3,0
+94,Adamance Pleats,Adamance Pleats,mh4g-dex-build7+mh4edit-mit-save-id,3,0
+95,Dayspring Pleats,Dayspring Pleats,mh4g-dex-build7+mh4edit-mit-save-id,3,0
+96,Epoch Pleats,Epoch Pleats,mh4g-dex-build7+mh4edit-mit-save-id,3,0
+97,Plesioth Greaves,Plesioth Greaves,mh4g-dex-build7+mh4edit-mit-save-id,4,0
+98,Plesioth Leggings,Plesioth Leggings,mh4g-dex-build7+mh4edit-mit-save-id,4,0
+99,Nibelsnarf Greaves,Nibelsnarf Greaves,mh4g-dex-build7+mh4edit-mit-save-id,2,0
+100,Nibelsnarf Leggings,Nibelsnarf Leggings,mh4g-dex-build7+mh4edit-mit-save-id,2,0
+101,Duramboros Greaves,Duramboros Greaves,mh4g-dex-build7+mh4edit-mit-save-id,3,0
+102,Duramboros Leggings,Duramboros Leggings,mh4g-dex-build7+mh4edit-mit-save-id,3,0
+103,Arzuros Greaves,Arzuros Greaves,mh4g-dex-build7+mh4edit-mit-save-id,2,0
+104,Arzuros Leggings,Arzuros Leggings,mh4g-dex-build7+mh4edit-mit-save-id,2,0
+105,Lagombi Greaves,Lagombi Greaves,mh4g-dex-build7+mh4edit-mit-save-id,2,0
+106,Lagombi Leggings,Lagombi Leggings,mh4g-dex-build7+mh4edit-mit-save-id,2,0
+107,Lagombi Greaves S,Lagombi Greaves S,mh4g-dex-build7+mh4edit-mit-save-id,4,0
+108,Lagombi Leggings S,Lagombi Leggings S,mh4g-dex-build7+mh4edit-mit-save-id,4,0
+109,Nargacuga Greaves,Nargacuga Greaves,mh4g-dex-build7+mh4edit-mit-save-id,3,0
+110,Nargacuga Leggings,Nargacuga Leggings,mh4g-dex-build7+mh4edit-mit-save-id,3,0
+111,Tigrex Greaves,Tigrex Greaves,mh4g-dex-build7+mh4edit-mit-save-id,3,0
+112,Tigrex Leggings,Tigrex Leggings,mh4g-dex-build7+mh4edit-mit-save-id,3,0
+113,Tigrex Greaves S,Tigrex Greaves S,mh4g-dex-build7+mh4edit-mit-save-id,5,0
+114,Tigrex Leggings S,Tigrex Leggings S,mh4g-dex-build7+mh4edit-mit-save-id,5,0
+115,Tigrex Greaves U,Tigrex Greaves U,mh4g-dex-build7+mh4edit-mit-save-id,6,0
+116,Tigrex Leggings U,Tigrex Leggings U,mh4g-dex-build7+mh4edit-mit-save-id,6,0
+117,Excello Greaves,Excello Greaves,mh4g-dex-build7+mh4edit-mit-save-id,7,0
+118,Excello Leggings,Excello Leggings,mh4g-dex-build7+mh4edit-mit-save-id,7,0
+119,EX Tigrex Greaves,EX Tigrex Greaves,mh4g-dex-build7+mh4edit-mit-save-id,7,0
+120,EX Tigrex Leggings,EX Tigrex Leggings,mh4g-dex-build7+mh4edit-mit-save-id,7,0
+121,Tigrex Greaves,Tigrex Greaves,mh4g-dex-build7+mh4edit-mit-save-id,3,0
+122,Tigrex Leggings,Tigrex Leggings,mh4g-dex-build7+mh4edit-mit-save-id,3,0
+123,Tigrex Greaves U,Tigrex Greaves U,mh4g-dex-build7+mh4edit-mit-save-id,6,0
+124,Tigrex Leggings U,Tigrex Leggings U,mh4g-dex-build7+mh4edit-mit-save-id,6,0
+125,Brachydios Greaves,Brachydios Greaves,mh4g-dex-build7+mh4edit-mit-save-id,3,0
+126,Brachydios Leggings,Brachydios Leggings,mh4g-dex-build7+mh4edit-mit-save-id,3,0
+127,Brachydios Greaves S,Brachydios Greaves S,mh4g-dex-build7+mh4edit-mit-save-id,6,0
+128,Brachy Leggings S,Brachy Leggings S,mh4g-dex-build7+mh4edit-mit-save-id,6,0
+129,Akantor Hessian,Akantor Hessian,mh4g-dex-build7+mh4edit-mit-save-id,7,0
+130,Akantor Boots,Akantor Boots,mh4g-dex-build7+mh4edit-mit-save-id,7,0
+131,Akantor Hessian,Akantor Hessian,mh4g-dex-build7+mh4edit-mit-save-id,7,0
+132,Akantor Boots,Akantor Boots,mh4g-dex-build7+mh4edit-mit-save-id,7,0
+133,Zinogre Greaves,Zinogre Greaves,mh4g-dex-build7+mh4edit-mit-save-id,3,0
+134,Zinogre Leggings,Zinogre Leggings,mh4g-dex-build7+mh4edit-mit-save-id,3,0
+135,Zinogre Greaves S,Zinogre Greaves S,mh4g-dex-build7+mh4edit-mit-save-id,5,0
+136,Zinogre Leggings S,Zinogre Leggings S,mh4g-dex-build7+mh4edit-mit-save-id,5,0
+137,Zinogre Greaves U,Zinogre Greaves U,mh4g-dex-build7+mh4edit-mit-save-id,6,0
+138,Zinogre Leggings U,Zinogre Leggings U,mh4g-dex-build7+mh4edit-mit-save-id,6,0
+139,Zinogre Greaves U,Zinogre Greaves U,mh4g-dex-build7+mh4edit-mit-save-id,6,0
+140,Zinogre Leggings U,Zinogre Leggings U,mh4g-dex-build7+mh4edit-mit-save-id,6,0
+141,EX Kaiser Greaves,EX Kaiser Greaves,mh4g-dex-build7+mh4edit-mit-save-id,7,0
+142,EX Kaiser Leggings,EX Kaiser Leggings,mh4g-dex-build7+mh4edit-mit-save-id,7,0
+143,Kecha Greaves,Kecha Greaves,mh4g-dex-build7+mh4edit-mit-save-id,2,0
+144,Kecha Leggings,Kecha Leggings,mh4g-dex-build7+mh4edit-mit-save-id,2,0
+145,Kecha Greaves S,Kecha Greaves S,mh4g-dex-build7+mh4edit-mit-save-id,4,0
+146,Kecha Leggings S,Kecha Leggings S,mh4g-dex-build7+mh4edit-mit-save-id,4,0
+147,Gore Greaves,Gore Greaves,mh4g-dex-build7+mh4edit-mit-save-id,3,0
+148,Gore Leggings,Gore Leggings,mh4g-dex-build7+mh4edit-mit-save-id,3,0
+149,Gore Greaves S,Gore Greaves S,mh4g-dex-build7+mh4edit-mit-save-id,6,0
+150,Gore Leggings S,Gore Leggings S,mh4g-dex-build7+mh4edit-mit-save-id,6,0
+151,Gore Greaves,Gore Greaves,mh4g-dex-build7+mh4edit-mit-save-id,3,0
+152,Gore Leggings,Gore Leggings,mh4g-dex-build7+mh4edit-mit-save-id,3,0
+153,Tetsucabra Greaves,Tetsucabra Greaves,mh4g-dex-build7+mh4edit-mit-save-id,2,0
+154,Tetsucabra Leggings,Tetsucabra Leggings,mh4g-dex-build7+mh4edit-mit-save-id,2,0
+155,Tetsucabra Greaves S,Tetsucabra Greaves S,mh4g-dex-build7+mh4edit-mit-save-id,5,0
+156,Tetsucabra Leggings S,Tetsucabra Leggings S,mh4g-dex-build7+mh4edit-mit-save-id,5,0
+157,Nerscylla Greaves,Nerscylla Greaves,mh4g-dex-build7+mh4edit-mit-save-id,2,0
+158,Nerscylla Leggings,Nerscylla Leggings,mh4g-dex-build7+mh4edit-mit-save-id,2,0
+159,Nerscylla Greaves S,Nerscylla Greaves S,mh4g-dex-build7+mh4edit-mit-save-id,5,0
+160,Nerscylla Leggings S,Nerscylla Leggings S,mh4g-dex-build7+mh4edit-mit-save-id,5,0
+161,Najarala Greaves,Najarala Greaves,mh4g-dex-build7+mh4edit-mit-save-id,2,0
+162,Najarala Leggings,Najarala Leggings,mh4g-dex-build7+mh4edit-mit-save-id,2,0
+163,Najarala Greaves S,Najarala Greaves S,mh4g-dex-build7+mh4edit-mit-save-id,5,0
+164,Najarala Leggings S,Najarala Leggings S,mh4g-dex-build7+mh4edit-mit-save-id,5,0
+165,Garuga Greaves,Garuga Greaves,mh4g-dex-build7+mh4edit-mit-save-id,3,0
+166,Garuga Leggings,Garuga Leggings,mh4g-dex-build7+mh4edit-mit-save-id,3,0
+167,Garuga Greaves S,Garuga Greaves S,mh4g-dex-build7+mh4edit-mit-save-id,5,0
+168,Garuga Leggings S,Garuga Leggings S,mh4g-dex-build7+mh4edit-mit-save-id,5,0
+169,Basarios Greaves,Basarios Greaves,mh4g-dex-build7+mh4edit-mit-save-id,2,0
+170,Basarios Leggings,Basarios Leggings,mh4g-dex-build7+mh4edit-mit-save-id,2,0
+171,Basarios Greaves S,Basarios Greaves S,mh4g-dex-build7+mh4edit-mit-save-id,5,0
+172,Basarios Leggings S,Basarios Leggings S,mh4g-dex-build7+mh4edit-mit-save-id,5,0
+173,Basarios Greaves U,Basarios Greaves U,mh4g-dex-build7+mh4edit-mit-save-id,6,0
+174,Basarios Leggings U,Basarios Leggings U,mh4g-dex-build7+mh4edit-mit-save-id,6,0
+175,Battle Greaves,Battle Greaves,mh4g-dex-build7+mh4edit-mit-save-id,2,0
+176,Battle Leggings,Battle Leggings,mh4g-dex-build7+mh4edit-mit-save-id,2,0
+177,Velociprey Greaves,Velociprey Greaves,mh4g-dex-build7+mh4edit-mit-save-id,2,0
+178,Velociprey Leggings,Velociprey Leggings,mh4g-dex-build7+mh4edit-mit-save-id,2,0
+179,Velociprey Greaves S,Velociprey Greaves S,mh4g-dex-build7+mh4edit-mit-save-id,4,0
+180,Velociprey Leggings S,Velociprey Leggings S,mh4g-dex-build7+mh4edit-mit-save-id,4,0
+181,Genprey Greaves,Genprey Greaves,mh4g-dex-build7+mh4edit-mit-save-id,2,0
+182,Genprey Leggings,Genprey Leggings,mh4g-dex-build7+mh4edit-mit-save-id,2,0
+183,Genprey Greaves S,Genprey Greaves S,mh4g-dex-build7+mh4edit-mit-save-id,4,0
+184,Genprey Leggings S,Genprey Leggings S,mh4g-dex-build7+mh4edit-mit-save-id,4,0
+185,Ioprey Greaves,Ioprey Greaves,mh4g-dex-build7+mh4edit-mit-save-id,2,0
+186,Ioprey Leggings,Ioprey Leggings,mh4g-dex-build7+mh4edit-mit-save-id,2,0
+187,Ioprey Greaves S,Ioprey Greaves S,mh4g-dex-build7+mh4edit-mit-save-id,4,0
+188,Ioprey Leggings S,Ioprey Leggings S,mh4g-dex-build7+mh4edit-mit-save-id,4,0
+189,Kut-Ku Greaves,Kut-Ku Greaves,mh4g-dex-build7+mh4edit-mit-save-id,2,0
+190,Kut-Ku Leggings,Kut-Ku Leggings,mh4g-dex-build7+mh4edit-mit-save-id,2,0
+191,Kut-Ku Greaves S,Kut-Ku Greaves S,mh4g-dex-build7+mh4edit-mit-save-id,4,0
+192,Kut-Ku Leggings S,Kut-Ku Leggings S,mh4g-dex-build7+mh4edit-mit-save-id,4,0
+193,Kut-Ku Greaves U,Kut-Ku Greaves U,mh4g-dex-build7+mh4edit-mit-save-id,5,0
+194,Kut-Ku Leggings U,Kut-Ku Leggings U,mh4g-dex-build7+mh4edit-mit-save-id,5,0
+195,Gypceros Greaves,Gypceros Greaves,mh4g-dex-build7+mh4edit-mit-save-id,2,0
+196,Gypceros Leggings,Gypceros Leggings,mh4g-dex-build7+mh4edit-mit-save-id,2,0
+197,Gypceros Greaves S,Gypceros Greaves S,mh4g-dex-build7+mh4edit-mit-save-id,5,0
+198,Gypceros Leggings S,Gypceros Leggings S,mh4g-dex-build7+mh4edit-mit-save-id,5,0
+199,Gypceros Greaves U,Gypceros Greaves U,mh4g-dex-build7+mh4edit-mit-save-id,6,0
+200,Gypceros Leggings U,Gypceros Leggings U,mh4g-dex-build7+mh4edit-mit-save-id,6,0
+201,Gypceros Greaves,Gypceros Greaves,mh4g-dex-build7+mh4edit-mit-save-id,2,0
+202,Gypceros Leggings,Gypceros Leggings,mh4g-dex-build7+mh4edit-mit-save-id,2,0
+203,Gypceros Greaves U,Gypceros Greaves U,mh4g-dex-build7+mh4edit-mit-save-id,6,0
+204,Gypceros Leggings U,Gypceros Leggings U,mh4g-dex-build7+mh4edit-mit-save-id,6,0
+205,Conga Greaves,Conga Greaves,mh4g-dex-build7+mh4edit-mit-save-id,2,0
+206,Conga Leggings,Conga Leggings,mh4g-dex-build7+mh4edit-mit-save-id,2,0
+207,Conga Greaves S,Conga Greaves S,mh4g-dex-build7+mh4edit-mit-save-id,4,0
+208,Conga Leggings S,Conga Leggings S,mh4g-dex-build7+mh4edit-mit-save-id,4,0
+209,Conga Greaves U,Conga Greaves U,mh4g-dex-build7+mh4edit-mit-save-id,5,0
+210,Conga Leggings U,Conga Leggings U,mh4g-dex-build7+mh4edit-mit-save-id,5,0
+211,Gravios Greaves,Gravios Greaves,mh4g-dex-build7+mh4edit-mit-save-id,3,0
+212,Gravios Leggings,Gravios Leggings,mh4g-dex-build7+mh4edit-mit-save-id,3,0
+213,Gravios Greaves S,Gravios Greaves S,mh4g-dex-build7+mh4edit-mit-save-id,5,0
+214,Gravios Leggings S,Gravios Leggings S,mh4g-dex-build7+mh4edit-mit-save-id,5,0
+215,Gravios Greaves U,Gravios Greaves U,mh4g-dex-build7+mh4edit-mit-save-id,6,0
+216,Gravios Leggings U,Gravios Leggings U,mh4g-dex-build7+mh4edit-mit-save-id,6,0
+217,Khezu Greaves,Khezu Greaves,mh4g-dex-build7+mh4edit-mit-save-id,2,0
+218,Khezu Leggings,Khezu Leggings,mh4g-dex-build7+mh4edit-mit-save-id,2,0
+219,Khezu Greaves S,Khezu Greaves S,mh4g-dex-build7+mh4edit-mit-save-id,5,0
+220,Khezu Leggings S,Khezu Leggings S,mh4g-dex-build7+mh4edit-mit-save-id,5,0
+221,Khezu Greaves U,Khezu Greaves U,mh4g-dex-build7+mh4edit-mit-save-id,6,0
+222,Khezu Leggings U,Khezu Leggings U,mh4g-dex-build7+mh4edit-mit-save-id,6,0
+223,Khezu Greaves,Khezu Greaves,mh4g-dex-build7+mh4edit-mit-save-id,2,0
+224,Khezu Leggings,Khezu Leggings,mh4g-dex-build7+mh4edit-mit-save-id,2,0
+225,Khezu Greaves U,Khezu Greaves U,mh4g-dex-build7+mh4edit-mit-save-id,6,0
+226,Khezu Leggings U,Khezu Leggings U,mh4g-dex-build7+mh4edit-mit-save-id,6,0
+227,Kirin Leg Guards,Kirin Leg Guards,mh4g-dex-build7+mh4edit-mit-save-id,3,0
+228,Kirin Boots,Kirin Boots,mh4g-dex-build7+mh4edit-mit-save-id,3,0
+229,Kirin Leg Guards S,Kirin Leg Guards S,mh4g-dex-build7+mh4edit-mit-save-id,6,0
+230,Kirin Boots S,Kirin Boots S,mh4g-dex-build7+mh4edit-mit-save-id,6,0
+231,Kirin Leg Guards U,Kirin Leg Guards U,mh4g-dex-build7+mh4edit-mit-save-id,7,0
+232,Kirin Boots U,Kirin Boots U,mh4g-dex-build7+mh4edit-mit-save-id,7,0
+233,Kirin Leg Guards,Kirin Leg Guards,mh4g-dex-build7+mh4edit-mit-save-id,3,0
+234,Kirin Boots,Kirin Boots,mh4g-dex-build7+mh4edit-mit-save-id,3,0
+235,Kirin Leg Guards U,Kirin Leg Guards U,mh4g-dex-build7+mh4edit-mit-save-id,7,0
+236,Kirin Boots U,Kirin Boots U,mh4g-dex-build7+mh4edit-mit-save-id,7,0
+237,Kushala Crus,Kushala Crus,mh4g-dex-build7+mh4edit-mit-save-id,7,0
+238,Kushala Shank,Kushala Shank,mh4g-dex-build7+mh4edit-mit-save-id,7,0
+239,EX Kushala Crus,EX Kushala Crus,mh4g-dex-build7+mh4edit-mit-save-id,7,0
+240,EX Kushala Shank,EX Kushala Shank,mh4g-dex-build7+mh4edit-mit-save-id,7,0
+241,Kushala Crus,Kushala Crus,mh4g-dex-build7+mh4edit-mit-save-id,7,0
+242,Kushala Shank,Kushala Shank,mh4g-dex-build7+mh4edit-mit-save-id,7,0
+243,Empress Greaves,Empress Greaves,mh4g-dex-build7+mh4edit-mit-save-id,7,0
+244,Empress Leggings,Empress Leggings,mh4g-dex-build7+mh4edit-mit-save-id,7,0
+245,Ceanataur Greaves,Ceanataur Greaves,mh4g-dex-build7+mh4edit-mit-save-id,2,0
+246,Ceanataur Leggings,Ceanataur Leggings,mh4g-dex-build7+mh4edit-mit-save-id,2,0
+247,Ceanataur Greaves,Ceanataur Greaves,mh4g-dex-build7+mh4edit-mit-save-id,2,0
+248,Ceanataur Leggings,Ceanataur Leggings,mh4g-dex-build7+mh4edit-mit-save-id,2,0
+249,Auroros Pants,Auroros Pants,mh4g-dex-build7+mh4edit-mit-save-id,3,0
+250,Borealis Hakama,Borealis Hakama,mh4g-dex-build7+mh4edit-mit-save-id,3,0
+251,Genesis Pants,Genesis Pants,mh4g-dex-build7+mh4edit-mit-save-id,3,0
+252,Glyph Hakama,Glyph Hakama,mh4g-dex-build7+mh4edit-mit-save-id,3,0
+253,Auroros Pants,Auroros Pants,mh4g-dex-build7+mh4edit-mit-save-id,3,0
+254,Borealis Hakama,Borealis Hakama,mh4g-dex-build7+mh4edit-mit-save-id,3,0
+255,Genesis Pants,Genesis Pants,mh4g-dex-build7+mh4edit-mit-save-id,3,0
+256,Glyph Hakama,Glyph Hakama,mh4g-dex-build7+mh4edit-mit-save-id,3,0
+257,Lava Greaves,Lava Greaves,mh4g-dex-build7+mh4edit-mit-save-id,3,0
+258,Lava Leggings,Lava Leggings,mh4g-dex-build7+mh4edit-mit-save-id,3,0
+259,Remobra Feet,Remobra Feet,mh4g-dex-build7+mh4edit-mit-save-id,2,0
+260,Remobra Tights,Remobra Tights,mh4g-dex-build7+mh4edit-mit-save-id,2,0
+261,Remobra Feet S,Remobra Feet S,mh4g-dex-build7+mh4edit-mit-save-id,4,0
+262,Remobra Tights S,Remobra Tights S,mh4g-dex-build7+mh4edit-mit-save-id,4,0
+263,Zamtrios Greaves,Zamtrios Greaves,mh4g-dex-build7+mh4edit-mit-save-id,2,0
+264,Zamtrios Leggings,Zamtrios Leggings,mh4g-dex-build7+mh4edit-mit-save-id,2,0
+265,Zamtrios Greaves S,Zamtrios Greaves S,mh4g-dex-build7+mh4edit-mit-save-id,5,0
+266,Zamtrios Leggings S,Zamtrios Leggings S,mh4g-dex-build7+mh4edit-mit-save-id,5,0
+267,Seltas Greaves,Seltas Greaves,mh4g-dex-build7+mh4edit-mit-save-id,3,0
+268,Seltas Leggings,Seltas Leggings,mh4g-dex-build7+mh4edit-mit-save-id,3,0
+269,Seltas Greaves S,Seltas Greaves S,mh4g-dex-build7+mh4edit-mit-save-id,5,0
+270,Seltas Leggings S,Seltas Leggings S,mh4g-dex-build7+mh4edit-mit-save-id,5,0
+271,Arc Greaves,Arc Greaves,mh4g-dex-build7+mh4edit-mit-save-id,3,0
+272,Arc Leggings,Arc Leggings,mh4g-dex-build7+mh4edit-mit-save-id,3,0
+273,Arc Greaves S,Arc Greaves S,mh4g-dex-build7+mh4edit-mit-save-id,7,0
+274,Arc Leggings S,Arc Leggings S,mh4g-dex-build7+mh4edit-mit-save-id,7,0
+275,Arc Greaves,Arc Greaves,mh4g-dex-build7+mh4edit-mit-save-id,3,0
+276,Arc Leggings,Arc Leggings,mh4g-dex-build7+mh4edit-mit-save-id,3,0
+277,Kaiser Greaves,Kaiser Greaves,mh4g-dex-build7+mh4edit-mit-save-id,7,0
+278,Kaiser Leggings,Kaiser Leggings,mh4g-dex-build7+mh4edit-mit-save-id,7,0
+279,Golden Hakama,Golden Hakama,mh4g-dex-build7+mh4edit-mit-save-id,7,0
+280,Puppeteer Tabi,Puppeteer Tabi,mh4g-dex-build7+mh4edit-mit-save-id,7,0
+281,Divine Ire Hakama,Divine Ire Hakama,mh4g-dex-build7+mh4edit-mit-save-id,7,0
+282,Mind Crusher Tabi,Mind Crusher Tabi,mh4g-dex-build7+mh4edit-mit-save-id,7,0
+283,Rebellion Greaves,Rebellion Greaves,mh4g-dex-build7+mh4edit-mit-save-id,7,0
+284,Riot Leggings,Riot Leggings,mh4g-dex-build7+mh4edit-mit-save-id,7,0
+285,Rebellion Greaves,Rebellion Greaves,mh4g-dex-build7+mh4edit-mit-save-id,7,0
+286,Riot Leggings,Riot Leggings,mh4g-dex-build7+mh4edit-mit-save-id,7,0
+287,Dragonfeet X,Dragonfeet X,mh4g-dex-build7+mh4edit-mit-save-id,10,0
+288,Dragonlegs X,Dragonlegs X,mh4g-dex-build7+mh4edit-mit-save-id,10,0
+289,Dragonfeet,Dragonfeet,mh4g-dex-build7+mh4edit-mit-save-id,7,0
+290,Dragonlegs,Dragonlegs,mh4g-dex-build7+mh4edit-mit-save-id,7,0
+291,Fatalis Crimsonfeet,Fatalis Crimsonfeet,mh4g-dex-build7+mh4edit-mit-save-id,7,0
+292,Fatalis Crimsonlegs,Fatalis Crimsonlegs,mh4g-dex-build7+mh4edit-mit-save-id,7,0
+293,Ioprey Feet,Ioprey Feet,mh4g-dex-build7+mh4edit-mit-save-id,5,0
+294,Ioprey Tights,Ioprey Tights,mh4g-dex-build7+mh4edit-mit-save-id,5,0
+295,Cephalos Greaves,Cephalos Greaves,mh4g-dex-build7+mh4edit-mit-save-id,4,0
+296,Cephalos Leggings,Cephalos Leggings,mh4g-dex-build7+mh4edit-mit-save-id,4,0
+297,Mizuha Leg Wrap,Mizuha Leg Wrap,mh4g-dex-build7+mh4edit-mit-save-id,7,0
+298,Cham Trousers,Cham Trousers,mh4g-dex-build7+mh4edit-mit-save-id,7,0
+299,Hermitaur Greaves,Hermitaur Greaves,mh4g-dex-build7+mh4edit-mit-save-id,4,0
+300,Hermitaur Leggings,Hermitaur Leggings,mh4g-dex-build7+mh4edit-mit-save-id,4,0
+301,Hermitaur Greaves,Hermitaur Greaves,mh4g-dex-build7+mh4edit-mit-save-id,4,0
+302,Hermitaur Leggings,Hermitaur Leggings,mh4g-dex-build7+mh4edit-mit-save-id,4,0
+303,Vespoid Greaves,Vespoid Greaves,mh4g-dex-build7+mh4edit-mit-save-id,4,0
+304,Vespoid Leggings,Vespoid Leggings,mh4g-dex-build7+mh4edit-mit-save-id,4,0
+305,Qurupeco Greaves,Qurupeco Greaves,mh4g-dex-build7+mh4edit-mit-save-id,4,0
+306,Qurupeco Leggings,Qurupeco Leggings,mh4g-dex-build7+mh4edit-mit-save-id,4,0
+307,Agnaktor Greaves,Agnaktor Greaves,mh4g-dex-build7+mh4edit-mit-save-id,6,0
+308,Agnaktor Leggings,Agnaktor Leggings,mh4g-dex-build7+mh4edit-mit-save-id,6,0
+309,Barioth Greaves,Barioth Greaves,mh4g-dex-build7+mh4edit-mit-save-id,5,0
+310,Barioth Leggings,Barioth Leggings,mh4g-dex-build7+mh4edit-mit-save-id,5,0
+311,Volvidon Greaves,Volvidon Greaves,mh4g-dex-build7+mh4edit-mit-save-id,4,0
+312,Volvidon Leggings,Volvidon Leggings,mh4g-dex-build7+mh4edit-mit-save-id,4,0
+313,Lagiacrus Greaves,Lagiacrus Greaves,mh4g-dex-build7+mh4edit-mit-save-id,6,0
+314,Lagiacrus Leggings,Lagiacrus Leggings,mh4g-dex-build7+mh4edit-mit-save-id,6,0
+315,Lagiacrus Greaves,Lagiacrus Greaves,mh4g-dex-build7+mh4edit-mit-save-id,6,0
+316,Lagiacrus Leggings,Lagiacrus Leggings,mh4g-dex-build7+mh4edit-mit-save-id,6,0
+317,Helios Greaves,Helios Greaves,mh4g-dex-build7+mh4edit-mit-save-id,7,0
+318,Helios Leggings,Helios Leggings,mh4g-dex-build7+mh4edit-mit-save-id,7,0
+319,Selene Greaves,Selene Greaves,mh4g-dex-build7+mh4edit-mit-save-id,7,0
+320,Selene Leggings,Selene Leggings,mh4g-dex-build7+mh4edit-mit-save-id,7,0
+321,Gobul Greaves,Gobul Greaves,mh4g-dex-build7+mh4edit-mit-save-id,5,0
+322,Gobul Leggings,Gobul Leggings,mh4g-dex-build7+mh4edit-mit-save-id,5,0
+323,Yamato Gusoku,Yamato Gusoku,mh4g-dex-build7+mh4edit-mit-save-id,7,0
+324,Hyuga Hakama,Hyuga Hakama,mh4g-dex-build7+mh4edit-mit-save-id,7,0
+325,Mutsu Gusoku,Mutsu Gusoku,mh4g-dex-build7+mh4edit-mit-save-id,7,0
+326,Amagi Hakama,Amagi Hakama,mh4g-dex-build7+mh4edit-mit-save-id,7,0
+327,Escadora Sheath,Escadora Sheath,mh4g-dex-build7+mh4edit-mit-save-id,7,0
+328,Escadora Scala,Escadora Scala,mh4g-dex-build7+mh4edit-mit-save-id,7,0
+329,Escadora Sheath,Escadora Sheath,mh4g-dex-build7+mh4edit-mit-save-id,7,0
+330,Escadora Scala,Escadora Scala,mh4g-dex-build7+mh4edit-mit-save-id,7,0
+331,Blango Greaves,Blango Greaves,mh4g-dex-build7+mh4edit-mit-save-id,5,0
+332,Blango Leggings,Blango Leggings,mh4g-dex-build7+mh4edit-mit-save-id,5,0
+333,Lobster Greaves,Lobster Greaves,mh4g-dex-build7+mh4edit-mit-save-id,4,0
+334,Lobster Leggings,Lobster Leggings,mh4g-dex-build7+mh4edit-mit-save-id,4,0
+335,Ukanlos Hessian,Ukanlos Hessian,mh4g-dex-build7+mh4edit-mit-save-id,7,0
+336,Ukanlos Boots,Ukanlos Boots,mh4g-dex-build7+mh4edit-mit-save-id,7,0
+337,Indra Leggings,Indra Leggings,mh4g-dex-build7+mh4edit-mit-save-id,7,0
+338,Steadfast Boots,Steadfast Boots,mh4g-dex-build7+mh4edit-mit-save-id,7,0
+339,Yaksha Boots,Yaksha Boots,mh4g-dex-build7+mh4edit-mit-save-id,7,0
+340,Carnage Boots,Carnage Boots,mh4g-dex-build7+mh4edit-mit-save-id,7,0
+341,Chrome Metal Boots,Chrome Metal Boots,mh4g-dex-build7+mh4edit-mit-save-id,4,0
+342,Chrome Metal Feet,Chrome Metal Feet,mh4g-dex-build7+mh4edit-mit-save-id,4,0
+343,Artian Greaves,Artian Greaves,mh4g-dex-build7+mh4edit-mit-save-id,3,0
+344,Artian Leggings,Artian Leggings,mh4g-dex-build7+mh4edit-mit-save-id,3,0
+345,Artian Greaves S,Artian Greaves S,mh4g-dex-build7+mh4edit-mit-save-id,5,0
+346,Artian Leggings S,Artian Leggings S,mh4g-dex-build7+mh4edit-mit-save-id,5,0
+347,Artian Greaves S,Artian Greaves S,mh4g-dex-build7+mh4edit-mit-save-id,5,0
+348,Artian Leggings S,Artian Leggings S,mh4g-dex-build7+mh4edit-mit-save-id,5,0
+349,Dober Greaves,Dober Greaves,mh4g-dex-build7+mh4edit-mit-save-id,6,0
+350,Dober Leggings,Dober Leggings,mh4g-dex-build7+mh4edit-mit-save-id,6,0
+351,Ingot Greaves,Ingot Greaves,mh4g-dex-build7+mh4edit-mit-save-id,3,0
+352,Ingot Leggings,Ingot Leggings,mh4g-dex-build7+mh4edit-mit-save-id,3,0
+353,Ingot Greaves,Ingot Greaves,mh4g-dex-build7+mh4edit-mit-save-id,3,0
+354,Ingot Leggings,Ingot Leggings,mh4g-dex-build7+mh4edit-mit-save-id,3,0
+355,Aelucanth Crura,Aelucanth Crura,mh4g-dex-build7+mh4edit-mit-save-id,4,0
+356,Rhopessa Crura,Rhopessa Crura,mh4g-dex-build7+mh4edit-mit-save-id,4,0
+357,Aelucanth Tarsi,Aelucanth Tarsi,mh4g-dex-build7+mh4edit-mit-save-id,4,0
+358,Rhopessa Tarsi,Rhopessa Tarsi,mh4g-dex-build7+mh4edit-mit-save-id,4,0
+359,Obituary Crura,Obituary Crura,mh4g-dex-build7+mh4edit-mit-save-id,5,0
+360,Butterfly Crura,Butterfly Crura,mh4g-dex-build7+mh4edit-mit-save-id,5,0
+361,Obituary Tarsi,Obituary Tarsi,mh4g-dex-build7+mh4edit-mit-save-id,5,0
+362,Butterfly Tarsi,Butterfly Tarsi,mh4g-dex-build7+mh4edit-mit-save-id,5,0
+363,Mosgharl Roots,Mosgharl Roots,mh4g-dex-build7+mh4edit-mit-save-id,4,0
+364,Mosgharl Radicles,Mosgharl Radicles,mh4g-dex-build7+mh4edit-mit-save-id,4,0
+365,Guild Bard Boots,Guild Bard Boots,mh4g-dex-build7+mh4edit-mit-save-id,4,0
+366,Scholar's Socks,Scholar's Socks,mh4g-dex-build7+mh4edit-mit-save-id,4,0
+367,Guild Bard Gaiters,Guild Bard Gaiters,mh4g-dex-build7+mh4edit-mit-save-id,4,0
+368,Scholar's Sandals,Scholar's Sandals,mh4g-dex-build7+mh4edit-mit-save-id,4,0
+369,Black Belt Greaves,Black Belt Greaves,mh4g-dex-build7+mh4edit-mit-save-id,6,0
+370,Black Belt Leggings,Black Belt Leggings,mh4g-dex-build7+mh4edit-mit-save-id,6,0
+371,Guardian Boots,Guardian Boots,mh4g-dex-build7+mh4edit-mit-save-id,4,0
+372,Helper Socks,Helper Socks,mh4g-dex-build7+mh4edit-mit-save-id,4,0
+373,Guardian Pants,Guardian Pants,mh4g-dex-build7+mh4edit-mit-save-id,4,0
+374,Helper Tights,Helper Tights,mh4g-dex-build7+mh4edit-mit-save-id,4,0
+375,Shinobi Sky Boots,Shinobi Sky Boots,mh4g-dex-build7+mh4edit-mit-save-id,7,0
+376,Shinobi Land Boots,Shinobi Land Boots,mh4g-dex-build7+mh4edit-mit-save-id,7,0
+377,Guild Knight Boots,Guild Knight Boots,mh4g-dex-build7+mh4edit-mit-save-id,6,0
+378,Maiden's Socks,Maiden's Socks,mh4g-dex-build7+mh4edit-mit-save-id,6,0
+379,Guild Knight Tights,Guild Knight Tights,mh4g-dex-build7+mh4edit-mit-save-id,6,0
+380,Maiden's Tights,Maiden's Tights,mh4g-dex-build7+mh4edit-mit-save-id,6,0
+381,Yukumo Sky Hakama,Yukumo Sky Hakama,mh4g-dex-build7+mh4edit-mit-save-id,6,0
+382,Yukumo Land Hakama,Yukumo Land Hakama,mh4g-dex-build7+mh4edit-mit-save-id,6,0
+383,High Metal Greaves,High Metal Greaves,mh4g-dex-build7+mh4edit-mit-save-id,2,0
+384,High Metal Leggings,High Metal Leggings,mh4g-dex-build7+mh4edit-mit-save-id,2,0
+385,Ranger's Espadrilles,Ranger's Espadrilles,mh4g-dex-build7+mh4edit-mit-save-id,6,0
+386,Archer's Espadrilles,Archer's Espadrilles,mh4g-dex-build7+mh4edit-mit-save-id,6,0
+387,Black Leather Chaps,Black Leather Chaps,mh4g-dex-build7+mh4edit-mit-save-id,7,0
+388,Black Leather Pants,Black Leather Pants,mh4g-dex-build7+mh4edit-mit-save-id,7,0
+389,Chakra Anklet,Chakra Anklet,mh4g-dex-build7+mh4edit-mit-save-id,5,0
+390,Sailor Socks,Sailor Socks,mh4g-dex-build7+mh4edit-mit-save-id,6,0
+391,Sailor Sandals,Sailor Sandals,mh4g-dex-build7+mh4edit-mit-save-id,6,0
+392,Hawkboots,Hawkboots,mh4g-dex-build7+mh4edit-mit-save-id,6,0
+393,Lecturer's Boots,Lecturer's Boots,mh4g-dex-build7+mh4edit-mit-save-id,6,0
+394,Hawkfeet,Hawkfeet,mh4g-dex-build7+mh4edit-mit-save-id,6,0
+395,Lecturer's Footwear,Lecturer's Footwear,mh4g-dex-build7+mh4edit-mit-save-id,6,0
+396,Blue Star Boots,Blue Star Boots,mh4g-dex-build7+mh4edit-mit-save-id,7,0
+397,Blue Star Footwear,Blue Star Footwear,mh4g-dex-build7+mh4edit-mit-save-id,7,0
+398,Greaves of Anat,Greaves of Anat,mh4g-dex-build7+mh4edit-mit-save-id,10,0
+399,Leggings of Anat,Leggings of Anat,mh4g-dex-build7+mh4edit-mit-save-id,10,0
+400,Uniqlo Slacks,Uniqlo Slacks,mh4g-dex-build7+mh4edit-mit-save-id,7,0
+401,Uniqlo Tights,Uniqlo Tights,mh4g-dex-build7+mh4edit-mit-save-id,7,0
+402,Star Rook Greaves,Star Rook Greaves,mh4g-dex-build7+mh4edit-mit-save-id,7,0
+403,Star Rook Leggings,Star Rook Leggings,mh4g-dex-build7+mh4edit-mit-save-id,7,0
+404,dummy706,dummy706,mh4edit-mit-save-id,0,0
+405,dummy718,dummy718,mh4edit-mit-save-id,0,0
+406,dummy707,dummy707,mh4edit-mit-save-id,0,0
+407,dummy719,dummy719,mh4edit-mit-save-id,0,0
+408,dummy709,dummy709,mh4edit-mit-save-id,0,0
+409,dummy721,dummy721,mh4edit-mit-save-id,0,0
+410,DUMMY,DUMMY,mh4edit-mit-save-id,0,0
+411,DUMMY,DUMMY,mh4edit-mit-save-id,0,0
+412,DUMMY,DUMMY,mh4edit-mit-save-id,0,0
+413,DUMMY,DUMMY,mh4edit-mit-save-id,0,0
+414,Hero's Boots,Hero's Boots,mh4g-dex-build7+mh4edit-mit-save-id,7,0
+415,Hero's Leggings,Hero's Leggings,mh4g-dex-build7+mh4edit-mit-save-id,7,0
+416,dummy729,dummy729,mh4edit-mit-save-id,0,0
+417,dummy730,dummy730,mh4edit-mit-save-id,0,0
+418,dummy731,dummy731,mh4edit-mit-save-id,0,0
+419,dummy732,dummy732,mh4edit-mit-save-id,0,0
+420,EX Rebellion Greaves,EX Rebellion Greaves,mh4g-dex-build7+mh4edit-mit-save-id,7,0
+421,EX Riot Leggings,EX Riot Leggings,mh4g-dex-build7+mh4edit-mit-save-id,7,0
+422,EX Artian Greaves,EX Artian Greaves,mh4g-dex-build7+mh4edit-mit-save-id,7,0
+423,EX Artian Leggings,EX Artian Leggings,mh4g-dex-build7+mh4edit-mit-save-id,7,0
+424,EX Gore Greaves,EX Gore Greaves,mh4g-dex-build7+mh4edit-mit-save-id,7,0
+425,EX Gore Leggings,EX Gore Leggings,mh4g-dex-build7+mh4edit-mit-save-id,7,0
+426,EX Ingot Greaves,EX Ingot Greaves,mh4g-dex-build7+mh4edit-mit-save-id,7,0
+427,EX Ingot Leggings,EX Ingot Leggings,mh4g-dex-build7+mh4edit-mit-save-id,7,0
+428,EX Kirin Leg Guards U,EX Kirin Leg Guards U,mh4g-dex-build7+mh4edit-mit-save-id,7,0
+429,EX Kirin Boots U,EX Kirin Boots U,mh4g-dex-build7+mh4edit-mit-save-id,7,0
+430,Storge Greaves,Storge Greaves,mh4g-dex-build7+mh4edit-mit-save-id,3,0
+431,Storge Leggings,Storge Leggings,mh4g-dex-build7+mh4edit-mit-save-id,3,0
+432,Storge Greaves S,Storge Greaves S,mh4g-dex-build7+mh4edit-mit-save-id,7,0
+433,Storge Leggings S,Storge Leggings S,mh4g-dex-build7+mh4edit-mit-save-id,7,0
+434,Storge Greaves,Storge Greaves,mh4g-dex-build7+mh4edit-mit-save-id,3,0
+435,Storge Leggings,Storge Leggings,mh4g-dex-build7+mh4edit-mit-save-id,3,0
+436,Hunter's Greaves,Hunter's Greaves,mh4g-dex-build7+mh4edit-mit-save-id,1,0
+437,Hunter's Leggings,Hunter's Leggings,mh4g-dex-build7+mh4edit-mit-save-id,1,0
+438,Alloy Greaves,Alloy Greaves,mh4g-dex-build7+mh4edit-mit-save-id,1,0
+439,Alloy Leggings,Alloy Leggings,mh4g-dex-build7+mh4edit-mit-save-id,1,0
+440,Ludroth Greaves,Ludroth Greaves,mh4g-dex-build7+mh4edit-mit-save-id,2,0
+441,Ludroth Leggings,Ludroth Leggings,mh4g-dex-build7+mh4edit-mit-save-id,2,0
+442,Rathian Greaves,Rathian Greaves,mh4g-dex-build7+mh4edit-mit-save-id,2,0
+443,Rathian Leggings,Rathian Leggings,mh4g-dex-build7+mh4edit-mit-save-id,2,0
+444,Rath Heart Greaves,Rath Heart Greaves,mh4g-dex-build7+mh4edit-mit-save-id,6,0
+445,Rath Heart Leggings,Rath Heart Leggings,mh4g-dex-build7+mh4edit-mit-save-id,6,0
+446,Rathalos Greaves,Rathalos Greaves,mh4g-dex-build7+mh4edit-mit-save-id,3,0
+447,Rathalos Leggings,Rathalos Leggings,mh4g-dex-build7+mh4edit-mit-save-id,3,0
+448,Rath Soul Greaves,Rath Soul Greaves,mh4g-dex-build7+mh4edit-mit-save-id,6,0
+449,Rath Soul Leggings,Rath Soul Leggings,mh4g-dex-build7+mh4edit-mit-save-id,6,0
+450,Silver Solgreaves,Silver Solgreaves,mh4g-dex-build7+mh4edit-mit-save-id,7,0
+451,Silver Solleggings,Silver Solleggings,mh4g-dex-build7+mh4edit-mit-save-id,7,0
+452,Esurient Greaves,Esurient Greaves,mh4g-dex-build7+mh4edit-mit-save-id,7,0
+453,Esurient Leggings,Esurient Leggings,mh4g-dex-build7+mh4edit-mit-save-id,7,0
+454,Gloaming Greaves,Gloaming Greaves,mh4g-dex-build7+mh4edit-mit-save-id,3,0
+455,Adamance Pleats,Adamance Pleats,mh4g-dex-build7+mh4edit-mit-save-id,3,0
+456,Dayspring Pleats,Dayspring Pleats,mh4g-dex-build7+mh4edit-mit-save-id,3,0
+457,Epoch Pleats,Epoch Pleats,mh4g-dex-build7+mh4edit-mit-save-id,3,0
+458,Tigrex Greaves,Tigrex Greaves,mh4g-dex-build7+mh4edit-mit-save-id,3,0
+459,Tigrex Leggings,Tigrex Leggings,mh4g-dex-build7+mh4edit-mit-save-id,3,0
+460,Tigrex Greaves U,Tigrex Greaves U,mh4g-dex-build7+mh4edit-mit-save-id,6,0
+461,Tigrex Leggings U,Tigrex Leggings U,mh4g-dex-build7+mh4edit-mit-save-id,6,0
+462,Akantor Hessian,Akantor Hessian,mh4g-dex-build7+mh4edit-mit-save-id,7,0
+463,Akantor Boots,Akantor Boots,mh4g-dex-build7+mh4edit-mit-save-id,7,0
+464,Zinogre Greaves U,Zinogre Greaves U,mh4g-dex-build7+mh4edit-mit-save-id,6,0
+465,Zinogre Leggings U,Zinogre Leggings U,mh4g-dex-build7+mh4edit-mit-save-id,6,0
+466,Gore Greaves,Gore Greaves,mh4g-dex-build7+mh4edit-mit-save-id,3,0
+467,Gore Leggings,Gore Leggings,mh4g-dex-build7+mh4edit-mit-save-id,3,0
+468,Gypceros Greaves,Gypceros Greaves,mh4g-dex-build7+mh4edit-mit-save-id,2,0
+469,Gypceros Leggings,Gypceros Leggings,mh4g-dex-build7+mh4edit-mit-save-id,2,0
+470,Gypceros Greaves U,Gypceros Greaves U,mh4g-dex-build7+mh4edit-mit-save-id,6,0
+471,Gypceros Leggings U,Gypceros Leggings U,mh4g-dex-build7+mh4edit-mit-save-id,6,0
+472,Khezu Greaves,Khezu Greaves,mh4g-dex-build7+mh4edit-mit-save-id,2,0
+473,Khezu Leggings,Khezu Leggings,mh4g-dex-build7+mh4edit-mit-save-id,2,0
+474,Khezu Greaves U,Khezu Greaves U,mh4g-dex-build7+mh4edit-mit-save-id,6,0
+475,Khezu Leggings U,Khezu Leggings U,mh4g-dex-build7+mh4edit-mit-save-id,6,0
+476,Kirin Leg Guards,Kirin Leg Guards,mh4g-dex-build7+mh4edit-mit-save-id,3,0
+477,Kirin Boots,Kirin Boots,mh4g-dex-build7+mh4edit-mit-save-id,3,0
+478,Kirin Leg Guards U,Kirin Leg Guards U,mh4g-dex-build7+mh4edit-mit-save-id,7,0
+479,Kirin Boots U,Kirin Boots U,mh4g-dex-build7+mh4edit-mit-save-id,7,0
+480,Kushala Crus,Kushala Crus,mh4g-dex-build7+mh4edit-mit-save-id,7,0
+481,Kushala Shank,Kushala Shank,mh4g-dex-build7+mh4edit-mit-save-id,7,0
+482,Ceanataur Greaves,Ceanataur Greaves,mh4g-dex-build7+mh4edit-mit-save-id,2,0
+483,Ceanataur Leggings,Ceanataur Leggings,mh4g-dex-build7+mh4edit-mit-save-id,2,0
+484,Auroros Pants,Auroros Pants,mh4g-dex-build7+mh4edit-mit-save-id,3,0
+485,Borealis Hakama,Borealis Hakama,mh4g-dex-build7+mh4edit-mit-save-id,3,0
+486,Genesis Pants,Genesis Pants,mh4g-dex-build7+mh4edit-mit-save-id,3,0
+487,Glyph Hakama,Glyph Hakama,mh4g-dex-build7+mh4edit-mit-save-id,3,0
+488,Arc Greaves,Arc Greaves,mh4g-dex-build7+mh4edit-mit-save-id,3,0
+489,Arc Leggings,Arc Leggings,mh4g-dex-build7+mh4edit-mit-save-id,3,0
+490,Rebellion Greaves,Rebellion Greaves,mh4g-dex-build7+mh4edit-mit-save-id,7,0
+491,Riot Leggings,Riot Leggings,mh4g-dex-build7+mh4edit-mit-save-id,7,0
+492,Dragonfeet X,Dragonfeet X,mh4g-dex-build7+mh4edit-mit-save-id,10,0
+493,Dragonlegs X,Dragonlegs X,mh4g-dex-build7+mh4edit-mit-save-id,10,0
+494,Hermitaur Greaves,Hermitaur Greaves,mh4g-dex-build7+mh4edit-mit-save-id,4,0
+495,Hermitaur Leggings,Hermitaur Leggings,mh4g-dex-build7+mh4edit-mit-save-id,4,0
+496,Lagiacrus Greaves,Lagiacrus Greaves,mh4g-dex-build7+mh4edit-mit-save-id,6,0
+497,Lagiacrus Leggings,Lagiacrus Leggings,mh4g-dex-build7+mh4edit-mit-save-id,6,0
+498,Escadora Sheath,Escadora Sheath,mh4g-dex-build7+mh4edit-mit-save-id,7,0
+499,Escadora Scala,Escadora Scala,mh4g-dex-build7+mh4edit-mit-save-id,7,0
+500,Artian Greaves S,Artian Greaves S,mh4g-dex-build7+mh4edit-mit-save-id,5,0
+501,Artian Leggings S,Artian Leggings S,mh4g-dex-build7+mh4edit-mit-save-id,5,0
+502,Ingot Greaves,Ingot Greaves,mh4g-dex-build7+mh4edit-mit-save-id,3,0
+503,Ingot Leggings,Ingot Leggings,mh4g-dex-build7+mh4edit-mit-save-id,3,0
+504,Storge Greaves,Storge Greaves,mh4g-dex-build7+mh4edit-mit-save-id,3,0
+505,Storge Leggings,Storge Leggings,mh4g-dex-build7+mh4edit-mit-save-id,3,0
+506,Velociprey Greaves X,Velociprey Greaves X,mh4g-dex-build7+mh4edit-mit-save-id,8,0
+507,Velociprey Leggings X,Velociprey Leggings X,mh4g-dex-build7+mh4edit-mit-save-id,8,0
+508,Ioprey Greaves X,Ioprey Greaves X,mh4g-dex-build7+mh4edit-mit-save-id,8,0
+509,Ioprey Leggings X,Ioprey Leggings X,mh4g-dex-build7+mh4edit-mit-save-id,8,0
+510,Kecha Greaves X,Kecha Greaves X,mh4g-dex-build7+mh4edit-mit-save-id,8,0
+511,Kecha Leggings X,Kecha Leggings X,mh4g-dex-build7+mh4edit-mit-save-id,8,0
+512,Kecha Greaves Z,Kecha Greaves Z,mh4g-dex-build7+mh4edit-mit-save-id,8,0
+513,Kecha Leggings Z,Kecha Leggings Z,mh4g-dex-build7+mh4edit-mit-save-id,8,0
+514,Tetsucabra Greaves X,Tetsucabra Greaves X,mh4g-dex-build7+mh4edit-mit-save-id,8,0
+515,Tetsucabra Leggings X,Tetsucabra Leggings X,mh4g-dex-build7+mh4edit-mit-save-id,8,0
+516,Tetsucabra Greaves Z,Tetsucabra Greaves Z,mh4g-dex-build7+mh4edit-mit-save-id,8,0
+517,Tetsucabra Leggings Z,Tetsucabra Leggings Z,mh4g-dex-build7+mh4edit-mit-save-id,8,0
+518,Nerscylla Greaves X,Nerscylla Greaves X,mh4g-dex-build7+mh4edit-mit-save-id,8,0
+519,Nerscylla Leggings X,Nerscylla Leggings X,mh4g-dex-build7+mh4edit-mit-save-id,8,0
+520,Nerscylla Greaves Z,Nerscylla Greaves Z,mh4g-dex-build7+mh4edit-mit-save-id,9,0
+521,Nerscylla Leggings Z,Nerscylla Leggings Z,mh4g-dex-build7+mh4edit-mit-save-id,9,0
+522,Zamtrios Greaves X,Zamtrios Greaves X,mh4g-dex-build7+mh4edit-mit-save-id,8,0
+523,Zamtrios Leggings X,Zamtrios Leggings X,mh4g-dex-build7+mh4edit-mit-save-id,8,0
+524,Zamtrios Greaves Z,Zamtrios Greaves Z,mh4g-dex-build7+mh4edit-mit-save-id,8,0
+525,Zamtrios Leggings Z,Zamtrios Leggings Z,mh4g-dex-build7+mh4edit-mit-save-id,8,0
+526,Najarala Greaves X,Najarala Greaves X,mh4g-dex-build7+mh4edit-mit-save-id,8,0
+527,Najarala Leggings X,Najarala Leggings X,mh4g-dex-build7+mh4edit-mit-save-id,8,0
+528,Najarala Greaves Z,Najarala Greaves Z,mh4g-dex-build7+mh4edit-mit-save-id,8,0
+529,Najarala Leggings Z,Najarala Leggings Z,mh4g-dex-build7+mh4edit-mit-save-id,8,0
+530,Seltas Greaves X,Seltas Greaves X,mh4g-dex-build7+mh4edit-mit-save-id,9,0
+531,Seltas Leggings X,Seltas Leggings X,mh4g-dex-build7+mh4edit-mit-save-id,9,0
+532,Seltas Greaves Z,Seltas Greaves Z,mh4g-dex-build7+mh4edit-mit-save-id,9,0
+533,Seltas Leggings Z,Seltas Leggings Z,mh4g-dex-build7+mh4edit-mit-save-id,9,0
+534,Gore Greaves X,Gore Greaves X,mh4g-dex-build7+mh4edit-mit-save-id,9,0
+535,Gore Leggings X,Gore Leggings X,mh4g-dex-build7+mh4edit-mit-save-id,9,0
+536,Gore Cuisses,Gore Cuisses,mh4edit-mit-save-id,0,0
+537,Gore Jambs,Gore Jambs,mh4edit-mit-save-id,0,0
+538,Arc Greaves X,Arc Greaves X,mh4g-dex-build7+mh4edit-mit-save-id,10,0
+539,Storge Greaves X,Storge Greaves X,mh4g-dex-build7+mh4edit-mit-save-id,10,0
+540,Arc Leggings X,Arc Leggings X,mh4g-dex-build7+mh4edit-mit-save-id,10,0
+541,Storge Leggings X,Storge Leggings X,mh4g-dex-build7+mh4edit-mit-save-id,10,0
+542,Arc Cuisses,Arc Cuisses,mh4edit-mit-save-id,0,0
+543,Storge Cuisses,Storge Cuisses,mh4edit-mit-save-id,0,0
+544,Arc Jambs,Arc Jambs,mh4edit-mit-save-id,0,0
+545,Storge Jambs,Storge Jambs,mh4edit-mit-save-id,0,0
+546,Gogma Greaves,Gogma Greaves,mh4g-dex-build7+mh4edit-mit-save-id,10,0
+547,Gogma Leggings,Gogma Leggings,mh4g-dex-build7+mh4edit-mit-save-id,10,0
+548,Gypceros Greaves X,Gypceros Greaves X,mh4g-dex-build7+mh4edit-mit-save-id,8,0
+549,Gypceros Leggings X,Gypceros Leggings X,mh4g-dex-build7+mh4edit-mit-save-id,8,0
+550,Gypceros Cuisses,Gypceros Cuisses,mh4edit-mit-save-id,0,0
+551,Gypceros Jambs,Gypceros Jambs,mh4edit-mit-save-id,0,0
+552,Gypceros Greaves Z,Gypceros Greaves Z,mh4g-dex-build7+mh4edit-mit-save-id,8,0
+553,Gypceros Leggings Z,Gypceros Leggings Z,mh4g-dex-build7+mh4edit-mit-save-id,8,0
+554,Gypceros Cuisses U,Gypceros Cuisses U,mh4edit-mit-save-id,0,0
+555,Gypceros Jambs U,Gypceros Jambs U,mh4edit-mit-save-id,0,0
+556,Lagombi Greaves X,Lagombi Greaves X,mh4g-dex-build7+mh4edit-mit-save-id,8,0
+557,Lagombi Leggings X,Lagombi Leggings X,mh4g-dex-build7+mh4edit-mit-save-id,8,0
+558,Conga Greaves X,Conga Greaves X,mh4g-dex-build7+mh4edit-mit-save-id,8,0
+559,Conga Leggings X,Conga Leggings X,mh4g-dex-build7+mh4edit-mit-save-id,8,0
+560,Conga Greaves Z,Conga Greaves Z,mh4g-dex-build7+mh4edit-mit-save-id,8,0
+561,Conga Leggings Z,Conga Leggings Z,mh4g-dex-build7+mh4edit-mit-save-id,8,0
+562,Khezu Greaves X,Khezu Greaves X,mh4g-dex-build7+mh4edit-mit-save-id,8,0
+563,Khezu Leggings X,Khezu Leggings X,mh4g-dex-build7+mh4edit-mit-save-id,8,0
+564,Khezu Cuisses,Khezu Cuisses,mh4edit-mit-save-id,0,0
+565,Khezu Jambs,Khezu Jambs,mh4edit-mit-save-id,0,0
+566,Khezu Greaves Z,Khezu Greaves Z,mh4g-dex-build7+mh4edit-mit-save-id,8,0
+567,Khezu Leggings Z,Khezu Leggings Z,mh4g-dex-build7+mh4edit-mit-save-id,8,0
+568,Khezu Cuisses U,Khezu Cuisses U,mh4edit-mit-save-id,0,0
+569,Khezu Jambs U,Khezu Jambs U,mh4edit-mit-save-id,0,0
+570,Rathian Greaves X,Rathian Greaves X,mh4g-dex-build7+mh4edit-mit-save-id,8,0
+571,Rathian Leggings X,Rathian Leggings X,mh4g-dex-build7+mh4edit-mit-save-id,8,0
+572,Rathian Cuisses,Rathian Cuisses,mh4edit-mit-save-id,0,0
+573,Rathian Jambs,Rathian Jambs,mh4edit-mit-save-id,0,0
+574,Rath Heart Greaves Z,Rath Heart Greaves Z,mh4g-dex-build7+mh4edit-mit-save-id,8,0
+575,Rath Heart Leggings Z,Rath Heart Leggings Z,mh4g-dex-build7+mh4edit-mit-save-id,8,0
+576,Rath Heart Cuisses,Rath Heart Cuisses,mh4edit-mit-save-id,0,0
+577,Rath Heart Jambs,Rath Heart Jambs,mh4edit-mit-save-id,0,0
+578,Golden Lunegreaves Z,Golden Lunegreaves Z,mh4g-dex-build7+mh4edit-mit-save-id,10,0
+579,Golden Luneleggings Z,Golden Luneleggings Z,mh4g-dex-build7+mh4edit-mit-save-id,10,0
+580,Rathalos Greaves X,Rathalos Greaves X,mh4g-dex-build7+mh4edit-mit-save-id,9,0
+581,Rathalos Leggings X,Rathalos Leggings X,mh4g-dex-build7+mh4edit-mit-save-id,9,0
+582,Rathalos Cuisses,Rathalos Cuisses,mh4edit-mit-save-id,0,0
+583,Rathalos Jambs,Rathalos Jambs,mh4edit-mit-save-id,0,0
+584,Rath Soul Greaves Z,Rath Soul Greaves Z,mh4g-dex-build7+mh4edit-mit-save-id,9,0
+585,Rath Soul Leggings Z,Rath Soul Leggings Z,mh4g-dex-build7+mh4edit-mit-save-id,9,0
+586,Rath Soul Cuisses,Rath Soul Cuisses,mh4edit-mit-save-id,0,0
+587,Rath Soul Jambs,Rath Soul Jambs,mh4edit-mit-save-id,0,0
+588,Silver Solgreaves Z,Silver Solgreaves Z,mh4g-dex-build7+mh4edit-mit-save-id,10,0
+589,Silver Solleggings Z,Silver Solleggings Z,mh4g-dex-build7+mh4edit-mit-save-id,10,0
+590,Silver Solcuisses,Silver Solcuisses,mh4edit-mit-save-id,0,0
+591,Silver Soljambs,Silver Soljambs,mh4edit-mit-save-id,0,0
+592,Zinogre Greaves X,Zinogre Greaves X,mh4g-dex-build7+mh4edit-mit-save-id,9,0
+593,Zinogre Leggings X,Zinogre Leggings X,mh4g-dex-build7+mh4edit-mit-save-id,9,0
+594,Zinogre Greaves Z,Zinogre Greaves Z,mh4g-dex-build7+mh4edit-mit-save-id,9,0
+595,Zinogre Leggings Z,Zinogre Leggings Z,mh4g-dex-build7+mh4edit-mit-save-id,9,0
+596,Zinogre Cuisses U,Zinogre Cuisses U,mh4edit-mit-save-id,0,0
+597,Zinogre Jambs U,Zinogre Jambs U,mh4edit-mit-save-id,0,0
+598,Tigrex Greaves X,Tigrex Greaves X,mh4g-dex-build7+mh4edit-mit-save-id,9,0
+599,Tigrex Leggings X,Tigrex Leggings X,mh4g-dex-build7+mh4edit-mit-save-id,9,0
+600,Tigrex Cuisses,Tigrex Cuisses,mh4edit-mit-save-id,0,0
+601,Tigrex Jambs,Tigrex Jambs,mh4edit-mit-save-id,0,0
+602,Tigrex Greaves Z,Tigrex Greaves Z,mh4g-dex-build7+mh4edit-mit-save-id,9,0
+603,Tigrex Leggings Z,Tigrex Leggings Z,mh4g-dex-build7+mh4edit-mit-save-id,9,0
+604,Tigrex Cuisses U,Tigrex Cuisses U,mh4edit-mit-save-id,0,0
+605,Tigrex Jambs U,Tigrex Jambs U,mh4edit-mit-save-id,0,0
+606,Excello Greaves Z,Excello Greaves Z,mh4g-dex-build7+mh4edit-mit-save-id,10,0
+607,Excello Leggings Z,Excello Leggings Z,mh4g-dex-build7+mh4edit-mit-save-id,10,0
+608,Gravios Greaves X,Gravios Greaves X,mh4g-dex-build7+mh4edit-mit-save-id,9,0
+609,Gravios Leggings X,Gravios Leggings X,mh4g-dex-build7+mh4edit-mit-save-id,9,0
+610,Gravios Greaves Z,Gravios Greaves Z,mh4g-dex-build7+mh4edit-mit-save-id,9,0
+611,Gravios Leggings Z,Gravios Leggings Z,mh4g-dex-build7+mh4edit-mit-save-id,9,0
+612,Brachydios Greaves X,Brachydios Greaves X,mh4g-dex-build7+mh4edit-mit-save-id,9,0
+613,Brachydios Leggings X,Brachydios Leggings X,mh4g-dex-build7+mh4edit-mit-save-id,9,0
+614,Brachydium Greaves,Brachydium Greaves,mh4g-dex-build7+mh4edit-mit-save-id,10,0
+615,Brachydium Leggings,Brachydium Leggings,mh4g-dex-build7+mh4edit-mit-save-id,10,0
+616,Grand Gloaming Greaves,Grand Gloaming Greaves,mh4g-dex-build7+mh4edit-mit-save-id,10,0
+617,Grand Adamance Pleats,Grand Adamance Pleats,mh4g-dex-build7+mh4edit-mit-save-id,10,0
+618,Grand Dayspring Pleats,Grand Dayspring Pleats,mh4g-dex-build7+mh4edit-mit-save-id,10,0
+619,Grand Epoch Greaves,Grand Epoch Greaves,mh4g-dex-build7+mh4edit-mit-save-id,10,0
+620,Gloaming Whitewalkers,Gloaming Whitewalkers,mh4edit-mit-save-id,0,0
+621,Adamance Whitewalkers,Adamance Whitewalkers,mh4edit-mit-save-id,0,0
+622,Dayspring Whitewalkers,Dayspring Whitewalkers,mh4edit-mit-save-id,0,0
+623,Epoch Whitepleats,Epoch Whitepleats,mh4edit-mit-save-id,0,0
+624,Vangis Greaves X,Vangis Greaves X,mh4g-dex-build7+mh4edit-mit-save-id,9,0
+625,Vangis Leggings X,Vangis Leggings X,mh4g-dex-build7+mh4edit-mit-save-id,9,0
+626,Esurient Greaves Z,Esurient Greaves Z,mh4g-dex-build7+mh4edit-mit-save-id,10,0
+627,Esurient Leggings Z,Esurient Leggings Z,mh4g-dex-build7+mh4edit-mit-save-id,10,0
+628,Esurient Cuisses,Esurient Cuisses,mh4edit-mit-save-id,0,0
+629,Esurient Jambs,Esurient Jambs,mh4edit-mit-save-id,0,0
+630,Kaiser Greaves X,Kaiser Greaves X,mh4g-dex-build7+mh4edit-mit-save-id,10,0
+631,Kaiser Leggings X,Kaiser Leggings X,mh4g-dex-build7+mh4edit-mit-save-id,10,0
+632,Akantor Hessian X,Akantor Hessian X,mh4g-dex-build7+mh4edit-mit-save-id,10,0
+633,Akantor Boots X,Akantor Boots X,mh4g-dex-build7+mh4edit-mit-save-id,10,0
+634,Akantor Cuisses,Akantor Cuisses,mh4edit-mit-save-id,0,0
+635,Akantor Jambs,Akantor Jambs,mh4edit-mit-save-id,0,0
+636,EX Escadora Sheath,EX Escadora Sheath,mh4g-dex-build7+mh4edit-mit-save-id,10,0
+637,EX Escadora Scala,EX Escadora Scala,mh4g-dex-build7+mh4edit-mit-save-id,10,0
+638,Ukanlos Hessian X,Ukanlos Hessian X,mh4g-dex-build7+mh4edit-mit-save-id,10,0
+639,Ukanlos Boots X,Ukanlos Boots X,mh4g-dex-build7+mh4edit-mit-save-id,10,0
+640,Kushala Crus X,Kushala Crus X,mh4g-dex-build7+mh4edit-mit-save-id,10,0
+641,Kushala Shank X,Kushala Shank X,mh4g-dex-build7+mh4edit-mit-save-id,10,0
+642,Kushala Cuisses,Kushala Cuisses,mh4edit-mit-save-id,0,0
+643,Kushala Jambs,Kushala Jambs,mh4edit-mit-save-id,0,0
+644,Kujula Crus,Kujula Crus,mh4g-dex-build7+mh4edit-mit-save-id,10,0
+645,Kujula Shank,Kujula Shank,mh4g-dex-build7+mh4edit-mit-save-id,10,0
+646,Grand God's Peer Feet,Grand God's Peer Feet,mh4g-dex-build7+mh4edit-mit-save-id,10,0
+647,Grand Hermit Feet,Grand Hermit Feet,mh4g-dex-build7+mh4edit-mit-save-id,10,0
+648,Grand Divine Ire Feet,Grand Divine Ire Feet,mh4g-dex-build7+mh4edit-mit-save-id,10,0
+649,Grand Crusher Feet,Grand Crusher Feet,mh4g-dex-build7+mh4edit-mit-save-id,10,0
+650,Rebellion Greaves X,Rebellion Greaves X,mh4g-dex-build7+mh4edit-mit-save-id,10,0
+651,Riot Leggings X,Riot Leggings X,mh4g-dex-build7+mh4edit-mit-save-id,10,0
+652,Rebellion Cuisses,Rebellion Cuisses,mh4edit-mit-save-id,0,0
+653,Riot Jambs,Riot Jambs,mh4edit-mit-save-id,0,0
+654,Rebellion Greaves Z,Rebellion Greaves Z,mh4g-dex-build7+mh4edit-mit-save-id,10,0
+655,Riot Leggings Z,Riot Leggings Z,mh4g-dex-build7+mh4edit-mit-save-id,10,0
+656,Cephalos Greaves X,Cephalos Greaves X,mh4g-dex-build7+mh4edit-mit-save-id,8,0
+657,Cephalos Leggings X,Cephalos Leggings X,mh4g-dex-build7+mh4edit-mit-save-id,8,0
+658,Hermitaur Greaves X,Hermitaur Greaves X,mh4g-dex-build7+mh4edit-mit-save-id,8,0
+659,Hermitaur Leggings X,Hermitaur Leggings X,mh4g-dex-build7+mh4edit-mit-save-id,8,0
+660,Hermitaur Cuisses,Hermitaur Cuisses,mh4edit-mit-save-id,0,0
+661,Hermitaur Jambs,Hermitaur Jambs,mh4edit-mit-save-id,0,0
+662,Hermitaur Greaves Z,Hermitaur Greaves Z,mh4g-dex-build7+mh4edit-mit-save-id,8,0
+663,Hermitaur Leggings Z,Hermitaur Leggings Z,mh4g-dex-build7+mh4edit-mit-save-id,8,0
+664,Mono Greaves S,Mono Greaves S,mh4g-dex-build7+mh4edit-mit-save-id,5,0
+665,Mono Leggings S,Mono Leggings S,mh4g-dex-build7+mh4edit-mit-save-id,5,0
+666,Mono Greaves X,Mono Greaves X,mh4g-dex-build7+mh4edit-mit-save-id,9,0
+667,Mono Leggings X,Mono Leggings X,mh4g-dex-build7+mh4edit-mit-save-id,9,0
+668,Mono Greaves,Mono Greaves,mh4edit-mit-save-id,0,0
+669,Mono Leggings,Mono Leggings,mh4edit-mit-save-id,0,0
+670,Mono Cuisses,Mono Cuisses,mh4edit-mit-save-id,0,0
+671,Mono Jambs,Mono Jambs,mh4edit-mit-save-id,0,0
+672,Monodevil Greaves,Monodevil Greaves,mh4g-dex-build7+mh4edit-mit-save-id,9,0
+673,Monodevil Leggings,Monodevil Leggings,mh4g-dex-build7+mh4edit-mit-save-id,9,0
+674,Monodevil Greaves,Monodevil Greaves,mh4g-dex-build7+mh4edit-mit-save-id,9,0
+675,Monodevil Leggings,Monodevil Leggings,mh4g-dex-build7+mh4edit-mit-save-id,9,0
+676,Monodevil Cuisses,Monodevil Cuisses,mh4edit-mit-save-id,0,0
+677,Monodevil Jambs,Monodevil Jambs,mh4edit-mit-save-id,0,0
+678,Diablos Greaves X,Diablos Greaves X,mh4g-dex-build7+mh4edit-mit-save-id,9,0
+679,Diablos Leggings X,Diablos Leggings X,mh4g-dex-build7+mh4edit-mit-save-id,9,0
+680,Diablos Greaves,Diablos Greaves,mh4g-dex-build7+mh4edit-mit-save-id,3,0
+681,Diablos Leggings,Diablos Leggings,mh4g-dex-build7+mh4edit-mit-save-id,3,0
+682,Diablos Cuisses,Diablos Cuisses,mh4edit-mit-save-id,0,0
+683,Diablos Jambs,Diablos Jambs,mh4edit-mit-save-id,0,0
+684,Diablos Greaves Z,Diablos Greaves Z,mh4g-dex-build7+mh4edit-mit-save-id,9,0
+685,Diablos Leggings Z,Diablos Leggings Z,mh4g-dex-build7+mh4edit-mit-save-id,9,0
+686,Dragonfeet X,Dragonfeet X,mh4g-dex-build7+mh4edit-mit-save-id,10,0
+687,Dragonlegs X,Dragonlegs X,mh4g-dex-build7+mh4edit-mit-save-id,10,0
+688,Dragoncuisses X,Dragoncuisses X,mh4edit-mit-save-id,0,0
+689,Dragonjambs X,Dragonjambs X,mh4edit-mit-save-id,0,0
+690,Fatalis Crimsonfeet Z,Fatalis Crimsonfeet Z,mh4edit-mit-save-id,0,0
+691,Fatalis Crimsonlegs Z,Fatalis Crimsonlegs Z,mh4edit-mit-save-id,0,0
+692,Fatalis Crimsonboots Z,Fatalis Crimsonboots Z,mh4edit-mit-save-id,0,0
+693,Fatalis Crimsonjambs Z,Fatalis Crimsonjambs Z,mh4edit-mit-save-id,0,0
+694,Wrothfeet,Wrothfeet,mh4g-dex-build7+mh4edit-mit-save-id,10,0
+695,Wrothlegs,Wrothlegs,mh4g-dex-build7+mh4edit-mit-save-id,10,0
+696,White Fatalis Feet,White Fatalis Feet,mh4g-dex-build7+mh4edit-mit-save-id,10,0
+697,White Fatalis Legs,White Fatalis Legs,mh4g-dex-build7+mh4edit-mit-save-id,10,0
+698,Grand Mizuha Leg Wrap,Grand Mizuha Leg Wrap,mh4g-dex-build7+mh4edit-mit-save-id,10,0
+699,Grand Cham Trousers,Grand Cham Trousers,mh4g-dex-build7+mh4edit-mit-save-id,10,0
+700,Regios Greaves S,Regios Greaves S,mh4g-dex-build7+mh4edit-mit-save-id,6,0
+701,Regios Leggings S,Regios Leggings S,mh4g-dex-build7+mh4edit-mit-save-id,6,0
+702,Regios Greaves X,Regios Greaves X,mh4g-dex-build7+mh4edit-mit-save-id,9,0
+703,Regios Leggings X,Regios Leggings X,mh4g-dex-build7+mh4edit-mit-save-id,9,0
+704,Chaos Greaves,Chaos Greaves,mh4g-dex-build7+mh4edit-mit-save-id,9,0
+705,Nephilim Greaves,Nephilim Greaves,mh4g-dex-build7+mh4edit-mit-save-id,9,0
+706,Chaos Leggings,Chaos Leggings,mh4g-dex-build7+mh4edit-mit-save-id,9,0
+707,Nephilim Leggings,Nephilim Leggings,mh4g-dex-build7+mh4edit-mit-save-id,9,0
+708,Basarios Greaves X,Basarios Greaves X,mh4g-dex-build7+mh4edit-mit-save-id,8,0
+709,Basarios Leggings X,Basarios Leggings X,mh4g-dex-build7+mh4edit-mit-save-id,8,0
+710,Basarios Greaves Z,Basarios Greaves Z,mh4g-dex-build7+mh4edit-mit-save-id,8,0
+711,Basarios Leggings Z,Basarios Leggings Z,mh4g-dex-build7+mh4edit-mit-save-id,8,0
+712,Kut-Ku Greaves X,Kut-Ku Greaves X,mh4g-dex-build7+mh4edit-mit-save-id,8,0
+713,Kut-Ku Leggings X,Kut-Ku Leggings X,mh4g-dex-build7+mh4edit-mit-save-id,8,0
+714,Kut-Ku Greaves Z,Kut-Ku Greaves Z,mh4g-dex-build7+mh4edit-mit-save-id,8,0
+715,Kut-Ku Leggings Z,Kut-Ku Leggings Z,mh4g-dex-build7+mh4edit-mit-save-id,8,0
+716,Garuga Greaves X,Garuga Greaves X,mh4g-dex-build7+mh4edit-mit-save-id,9,0
+717,Garuga Leggings X,Garuga Leggings X,mh4g-dex-build7+mh4edit-mit-save-id,9,0
+718,Kirin Leg Guards X,Kirin Leg Guards X,mh4g-dex-build7+mh4edit-mit-save-id,10,0
+719,Kirin Boots X,Kirin Boots X,mh4g-dex-build7+mh4edit-mit-save-id,10,0
+720,Kirin Cuisses,Kirin Cuisses,mh4edit-mit-save-id,0,0
+721,Kirin Jambs,Kirin Jambs,mh4edit-mit-save-id,0,0
+722,Kirin Leg Guards Z,Kirin Leg Guards Z,mh4g-dex-build7+mh4edit-mit-save-id,10,0
+723,Kirin Boots Z,Kirin Boots Z,mh4g-dex-build7+mh4edit-mit-save-id,10,0
+724,Kirin Cuisses U,Kirin Cuisses U,mh4edit-mit-save-id,0,0
+725,Kirin Jambs U,Kirin Jambs U,mh4edit-mit-save-id,0,0
+726,Bnahabra Boots X,Bnahabra Boots X,mh4g-dex-build7+mh4edit-mit-save-id,8,0
+727,Bnahabra Pants X,Bnahabra Pants X,mh4g-dex-build7+mh4edit-mit-save-id,8,0
+728,DUMMY,DUMMY,mh4edit-mit-save-id,0,0
+729,DUMMY,DUMMY,mh4edit-mit-save-id,0,0
+730,Rhenoplos Greaves X,Rhenoplos Greaves X,mh4g-dex-build7+mh4edit-mit-save-id,8,0
+731,Rhenoplos Leggings X,Rhenoplos Leggings X,mh4g-dex-build7+mh4edit-mit-save-id,8,0
+732,Hunter's Cuisses,Hunter's Cuisses,mh4edit-mit-save-id,0,0
+733,Hunter's Jambs,Hunter's Jambs,mh4edit-mit-save-id,0,0
+734,Alloy Cuisses,Alloy Cuisses,mh4edit-mit-save-id,0,0
+735,Alloy Jambs,Alloy Jambs,mh4edit-mit-save-id,0,0
+736,Artian Greaves X,Artian Greaves X,mh4g-dex-build7+mh4edit-mit-save-id,9,0
+737,Artian Leggings X,Artian Leggings X,mh4g-dex-build7+mh4edit-mit-save-id,9,0
+738,Arc Cuisses S,Arc Cuisses S,mh4edit-mit-save-id,0,0
+739,Arc Jambs S,Arc Jambs S,mh4edit-mit-save-id,0,0
+740,Ingot Cuisses,Ingot Cuisses,mh4edit-mit-save-id,0,0
+741,Ingot Jambs,Ingot Jambs,mh4edit-mit-save-id,0,0
+742,Guardian Boots X,Guardian Boots X,mh4g-dex-build7+mh4edit-mit-save-id,8,0
+743,Helper Socks X,Helper Socks X,mh4g-dex-build7+mh4edit-mit-save-id,8,0
+744,Guardian Pants X,Guardian Pants X,mh4g-dex-build7+mh4edit-mit-save-id,8,0
+745,Healer Socks X,Healer Socks X,mh4g-dex-build7+mh4edit-mit-save-id,8,0
+746,Guardian Boots Z,Guardian Boots Z,mh4g-dex-build7+mh4edit-mit-save-id,9,0
+747,Helper Socks Z,Helper Socks Z,mh4g-dex-build7+mh4edit-mit-save-id,9,0
+748,Guardian Pants Z,Guardian Pants Z,mh4g-dex-build7+mh4edit-mit-save-id,9,0
+749,Healer Socks Z,Healer Socks Z,mh4g-dex-build7+mh4edit-mit-save-id,9,0
+750,G. Knight Boots X,G. Knight Boots X,mh4g-dex-build7+mh4edit-mit-save-id,9,0
+751,Maiden's Socks X,Maiden's Socks X,mh4g-dex-build7+mh4edit-mit-save-id,9,0
+752,G. Knight Tights X,G. Knight Tights X,mh4g-dex-build7+mh4edit-mit-save-id,9,0
+753,Exclusive Tights X,Exclusive Tights X,mh4g-dex-build7+mh4edit-mit-save-id,9,0
+754,Ace Greaves,Ace Greaves,mh4g-dex-build7+mh4edit-mit-save-id,9,0
+755,Sororal Greaves,Sororal Greaves,mh4g-dex-build7+mh4edit-mit-save-id,9,0
+756,Ace Leggings,Ace Leggings,mh4g-dex-build7+mh4edit-mit-save-id,9,0
+757,Sororal Leggings,Sororal Leggings,mh4g-dex-build7+mh4edit-mit-save-id,9,0
+758,Ceanataur Cuisses,Ceanataur Cuisses,mh4edit-mit-save-id,0,0
+759,Ceanataur Jambs,Ceanataur Jambs,mh4edit-mit-save-id,0,0
+760,Lagiacrus Cuisses,Lagiacrus Cuisses,mh4edit-mit-save-id,0,0
+761,Lagiacrus Jambs,Lagiacrus Jambs,mh4edit-mit-save-id,0,0
+762,Escadora Cuisses,Escadora Cuisses,mh4edit-mit-save-id,0,0
+763,Escadora Jambs,Escadora Jambs,mh4edit-mit-save-id,0,0
+764,Auroros Kermes Shins,Auroros Kermes Shins,mh4edit-mit-save-id,0,0
+765,Borealis Woad Pants,Borealis Woad Pants,mh4edit-mit-save-id,0,0
+766,Genesis Kermes Shins,Genesis Kermes Shins,mh4edit-mit-save-id,0,0
+767,Glyph Woad Pants,Glyph Woad Pants,mh4edit-mit-save-id,0,0
+768,Ludroth Cuisses,Ludroth Cuisses,mh4edit-mit-save-id,0,0
+769,Ludroth Jambs,Ludroth Jambs,mh4edit-mit-save-id,0,0
+770,Hornet Greaves,Hornet Greaves,mh4edit-mit-save-id,0,0
+771,Hornet Leggings,Hornet Leggings,mh4edit-mit-save-id,0,0
+772,Hornet Cuisses,Hornet Cuisses,mh4edit-mit-save-id,0,0
+773,Hornet Jambs,Hornet Jambs,mh4edit-mit-save-id,0,0
+774,Wroggi Greaves,Wroggi Greaves,mh4edit-mit-save-id,0,0
+775,Wroggi Leggings,Wroggi Leggings,mh4edit-mit-save-id,0,0
+776,Wroggi Cuisses,Wroggi Cuisses,mh4edit-mit-save-id,0,0
+777,Wroggi Jambs,Wroggi Jambs,mh4edit-mit-save-id,0,0
+778,Gigginox Greaves,Gigginox Greaves,mh4edit-mit-save-id,0,0
+779,Gigginox Leggings,Gigginox Leggings,mh4edit-mit-save-id,0,0
+780,Gigginox Cuisses,Gigginox Cuisses,mh4edit-mit-save-id,0,0
+781,Gigginox Jambs,Gigginox Jambs,mh4edit-mit-save-id,0,0
+782,Tempest Hakama,Tempest Hakama,mh4g-dex-build7+mh4edit-mit-save-id,10,0
+783,Welkin Hakama,Welkin Hakama,mh4g-dex-build7+mh4edit-mit-save-id,10,0
+784,Tempest Wingpleats,Tempest Wingpleats,mh4edit-mit-save-id,0,0
+785,Welkin Wingpleats,Welkin Wingpleats,mh4edit-mit-save-id,0,0
+786,Death Stench Heel,Death Stench Heel,mh4edit-mit-save-id,0,0
+787,Death Stench March,Death Stench March,mh4edit-mit-save-id,0,0
+788,Death Stench Cuisses,Death Stench Cuisses,mh4edit-mit-save-id,0,0
+789,Death Stench Jambs,Death Stench Jambs,mh4edit-mit-save-id,0,0
+790,Damascus Greaves,Damascus Greaves,mh4edit-mit-save-id,0,0
+791,Damascus Leggings,Damascus Leggings,mh4edit-mit-save-id,0,0
+792,Damascus Cuisses,Damascus Cuisses,mh4edit-mit-save-id,0,0
+793,Damascus Jambs,Damascus Jambs,mh4edit-mit-save-id,0,0
+794,Lagiacrus Greaves X,Lagiacrus Greaves X,mh4g-dex-build7+mh4edit-mit-save-id,9,0
+795,Lagiacrus Leggings X,Lagiacrus Leggings X,mh4g-dex-build7+mh4edit-mit-save-id,9,0
+796,Nargacuga Greaves X,Nargacuga Greaves X,mh4g-dex-build7+mh4edit-mit-save-id,9,0
+797,Nargacuga Leggings X,Nargacuga Leggings X,mh4g-dex-build7+mh4edit-mit-save-id,9,0
+798,Empress Greaves X,Empress Greaves X,mh4g-dex-build7+mh4edit-mit-save-id,10,0
+799,Empress Leggings X,Empress Leggings X,mh4g-dex-build7+mh4edit-mit-save-id,10,0
+800,Helios Greaves X,Helios Greaves X,mh4g-dex-build7+mh4edit-mit-save-id,10,0
+801,Selene Greaves X,Selene Greaves X,mh4g-dex-build7+mh4edit-mit-save-id,10,0
+802,Helios Leggings X,Helios Leggings X,mh4g-dex-build7+mh4edit-mit-save-id,10,0
+803,Selene Leggings X,Selene Leggings X,mh4g-dex-build7+mh4edit-mit-save-id,10,0
+804,Agnaktor Greaves X,Agnaktor Greaves X,mh4g-dex-build7+mh4edit-mit-save-id,8,0
+805,Agnaktor Leggings X,Agnaktor Leggings X,mh4g-dex-build7+mh4edit-mit-save-id,8,0
+806,Qurupeco Greaves X,Qurupeco Greaves X,mh4g-dex-build7+mh4edit-mit-save-id,8,0
+807,Qurupeco Leggings X,Qurupeco Leggings X,mh4g-dex-build7+mh4edit-mit-save-id,8,0
+808,Gobul Greaves X,Gobul Greaves X,mh4g-dex-build7+mh4edit-mit-save-id,8,0
+809,Gobul Leggings X,Gobul Leggings X,mh4g-dex-build7+mh4edit-mit-save-id,8,0
+810,Barioth Greaves X,Barioth Greaves X,mh4g-dex-build7+mh4edit-mit-save-id,8,0
+811,Barioth Leggings X,Barioth Leggings X,mh4g-dex-build7+mh4edit-mit-save-id,8,0
+812,Barroth Greaves X,Barroth Greaves X,mh4g-dex-build7+mh4edit-mit-save-id,8,0
+813,Barroth Leggings X,Barroth Leggings X,mh4g-dex-build7+mh4edit-mit-save-id,8,0
+814,Nibelsnarf Greaves X,Nibelsnarf Greaves X,mh4g-dex-build7+mh4edit-mit-save-id,8,0
+815,Nibelsnarf Leggings X,Nibelsnarf Leggings X,mh4g-dex-build7+mh4edit-mit-save-id,8,0
+816,Duramboros Greaves X,Duramboros Greaves X,mh4g-dex-build7+mh4edit-mit-save-id,9,0
+817,Duramboros Leggings X,Duramboros Leggings X,mh4g-dex-build7+mh4edit-mit-save-id,9,0
+818,Lava Greaves X,Lava Greaves X,mh4g-dex-build7+mh4edit-mit-save-id,9,0
+819,Lava Leggings X,Lava Leggings X,mh4g-dex-build7+mh4edit-mit-save-id,9,0
+820,Grand Yamato Gusoku,Grand Yamato Gusoku,mh4g-dex-build7+mh4edit-mit-save-id,10,0
+821,Grand Hyuga Hakama,Grand Hyuga Hakama,mh4g-dex-build7+mh4edit-mit-save-id,10,0
+822,Grand Mutsu Gusoku,Grand Mutsu Gusoku,mh4g-dex-build7+mh4edit-mit-save-id,10,0
+823,Grand Amagi Hakama,Grand Amagi Hakama,mh4g-dex-build7+mh4edit-mit-save-id,10,0
+824,Grand Yaksha Boots,Grand Yaksha Boots,mh4g-dex-build7+mh4edit-mit-save-id,10,0
+825,Grand Carnage Boots,Grand Carnage Boots,mh4g-dex-build7+mh4edit-mit-save-id,10,0
+826,Miralis Drogues,Miralis Drogues,mh4g-dex-build7+mh4edit-mit-save-id,10,0
+827,Miralis Kedges,Miralis Kedges,mh4g-dex-build7+mh4edit-mit-save-id,10,0
+828,Plesioth Greaves Z,Plesioth Greaves Z,mh4g-dex-build7+mh4edit-mit-save-id,8,0
+829,Plesioth Leggings Z,Plesioth Leggings Z,mh4g-dex-build7+mh4edit-mit-save-id,8,0
+830,Kita Star Hakama,Kita Star Hakama,mh4g-dex-build7+mh4edit-mit-save-id,8,0
+831,Umi Ocean Hakama,Umi Ocean Hakama,mh4g-dex-build7+mh4edit-mit-save-id,8,0
+832,Patissier's Boots,Patissier's Boots,mh4g-dex-build7+mh4edit-mit-save-id,7,0
+833,Patissier's Footwear,Patissier's Footwear,mh4g-dex-build7+mh4edit-mit-save-id,7,0
+834,High Metal Greaves S,High Metal Greaves S,mh4g-dex-build7+mh4edit-mit-save-id,5,0
+835,High Metal Leggings S,High Metal Leggings S,mh4g-dex-build7+mh4edit-mit-save-id,5,0
+836,Aelucanth Crura X,Aelucanth Crura X,mh4g-dex-build7+mh4edit-mit-save-id,8,0
+837,Rhopessa Crura X,Rhopessa Crura X,mh4g-dex-build7+mh4edit-mit-save-id,8,0
+838,Aelucanth Tarsi X,Aelucanth Tarsi X,mh4g-dex-build7+mh4edit-mit-save-id,8,0
+839,Rhopessa Tarsi X,Rhopessa Tarsi X,mh4g-dex-build7+mh4edit-mit-save-id,8,0
+840,Obituary Crura X,Obituary Crura X,mh4g-dex-build7+mh4edit-mit-save-id,8,0
+841,Butterfly Crura X,Butterfly Crura X,mh4g-dex-build7+mh4edit-mit-save-id,8,0
+842,Obituary Tarsi X,Obituary Tarsi X,mh4g-dex-build7+mh4edit-mit-save-id,8,0
+843,Butterfly Tarsi X,Butterfly Tarsi X,mh4g-dex-build7+mh4edit-mit-save-id,8,0
+844,EX Auroros Pants,EX Auroros Pants,mh4g-dex-build7+mh4edit-mit-save-id,10,0
+845,EX Borealis Hakama,EX Borealis Hakama,mh4g-dex-build7+mh4edit-mit-save-id,10,0
+846,EX Genesis Pants,EX Genesis Pants,mh4g-dex-build7+mh4edit-mit-save-id,10,0
+847,EX Glyph Hakama,EX Glyph Hakama,mh4g-dex-build7+mh4edit-mit-save-id,10,0
+848,Tempest Hakama,Tempest Hakama,mh4g-dex-build7+mh4edit-mit-save-id,10,0
+849,Welkin Hakama,Welkin Hakama,mh4g-dex-build7+mh4edit-mit-save-id,10,0
+850,GX Escadora Cuisses,GX Escadora Cuisses,mh4edit-mit-save-id,0,0
+851,GX Escadora Jambs,GX Escadora Jambs,mh4edit-mit-save-id,0,0
+852,GX Dragoncuisses X,GX Dragoncuisses X,mh4edit-mit-save-id,0,0
+853,GX Dragonjambs X,GX Dragonjambs X,mh4edit-mit-save-id,0,0
+854,Star Knight Greaves,Star Knight Greaves,mh4g-dex-build7+mh4edit-mit-save-id,10,0
+855,Star Knight Leggings,Star Knight Leggings,mh4g-dex-build7+mh4edit-mit-save-id,10,0
+856,Greaves of Rage,Greaves of Rage,mh4g-dex-build7+mh4edit-mit-save-id,10,0
+857,Leggings of Rage,Leggings of Rage,mh4g-dex-build7+mh4edit-mit-save-id,10,0
+858,Varia Suit Leg Guards,Varia Suit Leg Guards,mh4g-dex-build7+mh4edit-mit-save-id,10,0
+859,Zero Suit Boots,Zero Suit Boots,mh4g-dex-build7+mh4edit-mit-save-id,10,0
+860,Varia Suit Legs,Varia Suit Legs,mh4g-dex-build7+mh4edit-mit-save-id,10,0
+861,Zero Suit Tights,Zero Suit Tights,mh4g-dex-build7+mh4edit-mit-save-id,10,0
+862,Varia Suit Leg Guards,Varia Suit Leg Guards,mh4g-dex-build7+mh4edit-mit-save-id,10,0
+863,Zero Suit Boots,Zero Suit Boots,mh4g-dex-build7+mh4edit-mit-save-id,10,0
+864,Varia Suit Legs,Varia Suit Legs,mh4g-dex-build7+mh4edit-mit-save-id,10,0
+865,Zero Suit Tights,Zero Suit Tights,mh4g-dex-build7+mh4edit-mit-save-id,10,0
+866,DUMMY,DUMMY,mh4edit-mit-save-id,0,0
+867,DUMMY,DUMMY,mh4edit-mit-save-id,0,0
+868,Hawkboots X,Hawkboots X,mh4g-dex-build7+mh4edit-mit-save-id,9,0
+869,Lecturer's Boots X,Lecturer's Boots X,mh4g-dex-build7+mh4edit-mit-save-id,9,0
+870,Hawkfeet X,Hawkfeet X,mh4g-dex-build7+mh4edit-mit-save-id,9,0
+871,Lecturer's Footwear X,Lecturer's Footwear X,mh4g-dex-build7+mh4edit-mit-save-id,9,0
+872,GX Hunter's Cuisses,GX Hunter's Cuisses,mh4g-dex-build7+mh4edit-mit-save-id,10,0
+873,GX Hunter's Jambs,GX Hunter's Jambs,mh4g-dex-build7+mh4edit-mit-save-id,10,0
+874,GX Esurient Cuisses,GX Esurient Cuisses,mh4g-dex-build7+mh4edit-mit-save-id,10,0
+875,GX Esurient Jambs,GX Esurient Jambs,mh4g-dex-build7+mh4edit-mit-save-id,10,0
+876,GX Tempest Wingpleats,GX Tempest Wingpleats,mh4g-dex-build7+mh4edit-mit-save-id,10,0
+877,GX Welkin Wingpleats,GX Welkin Wingpleats,mh4g-dex-build7+mh4edit-mit-save-id,10,0
+878,GX Fatalis Crimsonboots,GX Fatalis Crimsonboots,mh4g-dex-build7+mh4edit-mit-save-id,10,0
+879,GX Fatalis Crimsonjambs,GX Fatalis Crimsonjambs,mh4g-dex-build7+mh4edit-mit-save-id,10,0
+880,Hunter's Greaves,Hunter's Greaves,mh4g-dex-build7+mh4edit-mit-save-id,1,0
+881,Hunter's Leggings,Hunter's Leggings,mh4g-dex-build7+mh4edit-mit-save-id,1,0
+882,Hunter's Greaves,Hunter's Greaves,mh4g-dex-build7+mh4edit-mit-save-id,1,0
+883,Hunter's Leggings,Hunter's Leggings,mh4g-dex-build7+mh4edit-mit-save-id,1,0
+884,Ludroth Greaves,Ludroth Greaves,mh4g-dex-build7+mh4edit-mit-save-id,2,0
+885,Ludroth Leggings,Ludroth Leggings,mh4g-dex-build7+mh4edit-mit-save-id,2,0
+886,Ludroth Greaves,Ludroth Greaves,mh4g-dex-build7+mh4edit-mit-save-id,2,0
+887,Ludroth Leggings,Ludroth Leggings,mh4g-dex-build7+mh4edit-mit-save-id,2,0
+888,Alloy Greaves,Alloy Greaves,mh4g-dex-build7+mh4edit-mit-save-id,1,0
+889,Alloy Leggings,Alloy Leggings,mh4g-dex-build7+mh4edit-mit-save-id,1,0
+890,Alloy Greaves,Alloy Greaves,mh4g-dex-build7+mh4edit-mit-save-id,1,0
+891,Alloy Leggings,Alloy Leggings,mh4g-dex-build7+mh4edit-mit-save-id,1,0
+892,Gypceros Greaves,Gypceros Greaves,mh4g-dex-build7+mh4edit-mit-save-id,2,0
+893,Gypceros Leggings,Gypceros Leggings,mh4g-dex-build7+mh4edit-mit-save-id,2,0
+894,Gypceros Greaves,Gypceros Greaves,mh4g-dex-build7+mh4edit-mit-save-id,2,0
+895,Gypceros Leggings,Gypceros Leggings,mh4g-dex-build7+mh4edit-mit-save-id,2,0
+896,Khezu Greaves,Khezu Greaves,mh4g-dex-build7+mh4edit-mit-save-id,2,0
+897,Khezu Leggings,Khezu Leggings,mh4g-dex-build7+mh4edit-mit-save-id,2,0
+898,Khezu Greaves,Khezu Greaves,mh4g-dex-build7+mh4edit-mit-save-id,2,0
+899,Khezu Leggings,Khezu Leggings,mh4g-dex-build7+mh4edit-mit-save-id,2,0
+900,Ingot Greaves,Ingot Greaves,mh4g-dex-build7+mh4edit-mit-save-id,3,0
+901,Ingot Leggings,Ingot Leggings,mh4g-dex-build7+mh4edit-mit-save-id,3,0
+902,Ingot Greaves,Ingot Greaves,mh4g-dex-build7+mh4edit-mit-save-id,3,0
+903,Ingot Leggings,Ingot Leggings,mh4g-dex-build7+mh4edit-mit-save-id,3,0
+904,Rathian Greaves,Rathian Greaves,mh4g-dex-build7+mh4edit-mit-save-id,2,0
+905,Rathian Leggings,Rathian Leggings,mh4g-dex-build7+mh4edit-mit-save-id,2,0
+906,Lagiacrus Greaves,Lagiacrus Greaves,mh4g-dex-build7+mh4edit-mit-save-id,6,0
+907,Lagiacrus Leggings,Lagiacrus Leggings,mh4g-dex-build7+mh4edit-mit-save-id,6,0
+908,Rathalos Greaves,Rathalos Greaves,mh4g-dex-build7+mh4edit-mit-save-id,3,0
+909,Rathalos Leggings,Rathalos Leggings,mh4g-dex-build7+mh4edit-mit-save-id,3,0
+910,Gypceros Greaves U,Gypceros Greaves U,mh4g-dex-build7+mh4edit-mit-save-id,6,0
+911,Gypceros Leggings U,Gypceros Leggings U,mh4g-dex-build7+mh4edit-mit-save-id,6,0
+912,Khezu Greaves U,Khezu Greaves U,mh4g-dex-build7+mh4edit-mit-save-id,6,0
+913,Khezu Leggings U,Khezu Leggings U,mh4g-dex-build7+mh4edit-mit-save-id,6,0
+914,Tigrex Greaves,Tigrex Greaves,mh4g-dex-build7+mh4edit-mit-save-id,3,0
+915,Tigrex Leggings,Tigrex Leggings,mh4g-dex-build7+mh4edit-mit-save-id,3,0
+916,Kirin Leg Guards,Kirin Leg Guards,mh4g-dex-build7+mh4edit-mit-save-id,3,0
+917,Kirin Boots,Kirin Boots,mh4g-dex-build7+mh4edit-mit-save-id,3,0
+918,Kirin Leg Guards,Kirin Leg Guards,mh4g-dex-build7+mh4edit-mit-save-id,3,0
+919,Kirin Boots,Kirin Boots,mh4g-dex-build7+mh4edit-mit-save-id,3,0
+920,Artian Greaves S,Artian Greaves S,mh4g-dex-build7+mh4edit-mit-save-id,5,0
+921,Artian Leggings S,Artian Leggings S,mh4g-dex-build7+mh4edit-mit-save-id,5,0
+922,Ceanataur Greaves,Ceanataur Greaves,mh4g-dex-build7+mh4edit-mit-save-id,2,0
+923,Ceanataur Leggings,Ceanataur Leggings,mh4g-dex-build7+mh4edit-mit-save-id,2,0
+924,Ceanataur Greaves,Ceanataur Greaves,mh4g-dex-build7+mh4edit-mit-save-id,2,0
+925,Ceanataur Leggings,Ceanataur Leggings,mh4g-dex-build7+mh4edit-mit-save-id,2,0
+926,Gloaming Greaves,Gloaming Greaves,mh4g-dex-build7+mh4edit-mit-save-id,3,0
+927,Dayspring Pleats,Dayspring Pleats,mh4g-dex-build7+mh4edit-mit-save-id,3,0
+928,Adamance Pleats,Adamance Pleats,mh4g-dex-build7+mh4edit-mit-save-id,3,0
+929,Epoch Pleats,Epoch Pleats,mh4g-dex-build7+mh4edit-mit-save-id,3,0
+930,Zinogre Greaves U,Zinogre Greaves U,mh4g-dex-build7+mh4edit-mit-save-id,6,0
+931,Zinogre Leggings U,Zinogre Leggings U,mh4g-dex-build7+mh4edit-mit-save-id,6,0
+932,Tigrex Greaves U,Tigrex Greaves U,mh4g-dex-build7+mh4edit-mit-save-id,6,0
+933,Tigrex Leggings U,Tigrex Leggings U,mh4g-dex-build7+mh4edit-mit-save-id,6,0
+934,Gore Greaves,Gore Greaves,mh4g-dex-build7+mh4edit-mit-save-id,3,0
+935,Gore Leggings,Gore Leggings,mh4g-dex-build7+mh4edit-mit-save-id,3,0
+936,Auroros Pants,Auroros Pants,mh4g-dex-build7+mh4edit-mit-save-id,3,0
+937,Genesis Pants,Genesis Pants,mh4g-dex-build7+mh4edit-mit-save-id,3,0
+938,Borealis Hakama,Borealis Hakama,mh4g-dex-build7+mh4edit-mit-save-id,3,0
+939,Glyph Hakama,Glyph Hakama,mh4g-dex-build7+mh4edit-mit-save-id,3,0
+940,Kirin Leg Guards U,Kirin Leg Guards U,mh4g-dex-build7+mh4edit-mit-save-id,7,0
+941,Kirin Boots U,Kirin Boots U,mh4g-dex-build7+mh4edit-mit-save-id,7,0
+942,Kirin Leg Guards U,Kirin Leg Guards U,mh4g-dex-build7+mh4edit-mit-save-id,7,0
+943,Kirin Boots U,Kirin Boots U,mh4g-dex-build7+mh4edit-mit-save-id,7,0
+944,Esurient Greaves,Esurient Greaves,mh4g-dex-build7+mh4edit-mit-save-id,7,0
+945,Esurient Leggings,Esurient Leggings,mh4g-dex-build7+mh4edit-mit-save-id,7,0
+946,Monoblos Greaves,Monoblos Greaves,mh4edit-mit-save-id,0,0
+947,Monoblos Leggings,Monoblos Leggings,mh4edit-mit-save-id,0,0
+948,Hornet Greaves,Hornet Greaves,mh4edit-mit-save-id,0,0
+949,Hornet Leggings,Hornet Leggings,mh4edit-mit-save-id,0,0
+950,Wroggi Greaves,Wroggi Greaves,mh4edit-mit-save-id,0,0
+951,Wroggi Leggings,Wroggi Leggings,mh4edit-mit-save-id,0,0
+952,Monodevil Greaves,Monodevil Greaves,mh4g-dex-build7+mh4edit-mit-save-id,9,0
+953,Monodevil Leggings,Monodevil Leggings,mh4g-dex-build7+mh4edit-mit-save-id,9,0
+954,Diablos Greaves,Diablos Greaves,mh4g-dex-build7+mh4edit-mit-save-id,3,0
+955,Diablos Leggings,Diablos Leggings,mh4g-dex-build7+mh4edit-mit-save-id,3,0
+956,Gigginox Greaves,Gigginox Greaves,mh4edit-mit-save-id,0,0
+957,Gigginox Leggings,Gigginox Leggings,mh4edit-mit-save-id,0,0
+958,Death Stench Heel,Death Stench Heel,mh4edit-mit-save-id,0,0
+959,Death Stench March,Death Stench March,mh4edit-mit-save-id,0,0
+960,Damascus Greaves,Damascus Greaves,mh4edit-mit-save-id,0,0
+961,Damascus Leggings,Damascus Leggings,mh4edit-mit-save-id,0,0
+962,DUMMY,DUMMY,mh4edit-mit-save-id,0,0
+963,DUMMY,DUMMY,mh4edit-mit-save-id,0,0

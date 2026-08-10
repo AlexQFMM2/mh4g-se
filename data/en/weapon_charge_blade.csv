@@ -1,0 +1,126 @@
+id,name,english,source,rarity,is_relic
+0,None,None,mh4g-save-format,0,0
+1,Elite Blade,Elite Blade,mh4g-dex-build7+mh4edit-mit-save-id,1,0
+2,Elite Blade+,Elite Blade+,mh4g-dex-build7+mh4edit-mit-save-id,1,0
+3,Defender's Blade,Defender's Blade,mh4g-dex-build7+mh4edit-mit-save-id,2,0
+4,Kaiser Blade,Kaiser Blade,mh4g-dex-build7+mh4edit-mit-save-id,2,0
+5,Blackguard,Blackguard,mh4g-dex-build7+mh4edit-mit-save-id,4,0
+6,Full Blackguard,Full Blackguard,mh4g-dex-build7+mh4edit-mit-save-id,5,0
+7,Sentinel Blade,Sentinel Blade,mh4g-dex-build7+mh4edit-mit-save-id,5,0
+8,Sentinel Blade+,Sentinel Blade+,mh4g-dex-build7+mh4edit-mit-save-id,6,0
+9,Noblest of Lieges,Noblest of Lieges,mh4g-dex-build7+mh4edit-mit-save-id,7,0
+10,Dear Lutemis,Dear Lutemis,mh4g-dex-build7+mh4edit-mit-save-id,2,0
+11,Dear Lutemia,Dear Lutemia,mh4g-dex-build7+mh4edit-mit-save-id,3,0
+12,Dear Hecatel,Dear Hecatel,mh4g-dex-build7+mh4edit-mit-save-id,5,0
+13,Dear Hecatelia,Dear Hecatelia,mh4g-dex-build7+mh4edit-mit-save-id,6,0
+14,Axelion Blade,Axelion Blade,mh4g-dex-build7+mh4edit-mit-save-id,3,0
+15,Halberion Blade,Halberion Blade,mh4g-dex-build7+mh4edit-mit-save-id,5,0
+16,Bardichion Blade,Bardichion Blade,mh4g-dex-build7+mh4edit-mit-save-id,6,0
+17,Hellsire Blade,Hellsire Blade,mh4g-dex-build7+mh4edit-mit-save-id,6,0
+18,Hellspawn Blade,Hellspawn Blade,mh4g-dex-build7+mh4edit-mit-save-id,7,0
+19,Guardsqual,Guardsqual,mh4g-dex-build7+mh4edit-mit-save-id,2,0
+20,Guardsqual+,Guardsqual+,mh4g-dex-build7+mh4edit-mit-save-id,3,0
+21,Squaliarma,Squaliarma,mh4g-dex-build7+mh4edit-mit-save-id,5,0
+22,Squaliarmada,Squaliarmada,mh4g-dex-build7+mh4edit-mit-save-id,6,0
+23,Elendskraft,Elendskraft,mh4g-dex-build7+mh4edit-mit-save-id,3,0
+24,Leidenskraft,Leidenskraft,mh4g-dex-build7+mh4edit-mit-save-id,4,0
+25,Unheilskraft,Unheilskraft,mh4g-dex-build7+mh4edit-mit-save-id,5,0
+26,L'Oppresseur,L'Oppresseur,mh4g-dex-build7+mh4edit-mit-save-id,7,0
+27,Deceadeus,Deceadeus,mh4g-dex-build7+mh4edit-mit-save-id,6,0
+28,Heroic Deceadeus,Heroic Deceadeus,mh4g-dex-build7+mh4edit-mit-save-id,7,0
+29,Permanence,Permanence,mh4g-dex-build7+mh4edit-mit-save-id,4,0
+30,Izanami,Izanami,mh4g-dex-build7+mh4edit-mit-save-id,7,0
+31,Fatalis Charger,Fatalis Charger,mh4g-dex-build7+mh4edit-mit-save-id,7,0
+32,Ruiner Reaver,Ruiner Reaver,mh4g-dex-build7+mh4edit-mit-save-id,7,0
+33,Starlight Axe,Starlight Axe,mh4g-dex-build7+mh4edit-mit-save-id,5,0
+34,Grandstar Axe,Grandstar Axe,mh4g-dex-build7+mh4edit-mit-save-id,7,0
+35,dummy35,dummy35,mh4edit-mit-save-id,0,0
+36,dummy36,dummy36,mh4edit-mit-save-id,0,0
+37,Full Blackguard+,Full Blackguard+,mh4g-dex-build7+mh4edit-mit-save-id,8,0
+38,Schwarzschild,Schwarzschild,mh4g-dex-build7+mh4edit-mit-save-id,9,0
+39,K. Captain's Blade,K. Captain's Blade,mh4g-dex-build7+mh4edit-mit-save-id,8,0
+40,Die Walküre,Die Walküre,mh4g-dex-build7+mh4edit-mit-save-id,9,0
+41,Arachnoscale,Arachnoscale,mh4g-dex-build7+mh4edit-mit-save-id,4,0
+42,Arachnoscale+,Arachnoscale+,mh4g-dex-build7+mh4edit-mit-save-id,6,0
+43,Arachnoscythe,Arachnoscythe,mh4g-dex-build7+mh4edit-mit-save-id,8,0
+44,Belobog's Scythe,Belobog's Scythe,mh4g-dex-build7+mh4edit-mit-save-id,9,0
+45,Schwarzschlum,Schwarzschlum,mh4g-dex-build7+mh4edit-mit-save-id,9,0
+46,Schwarzschlum+,Schwarzschlum+,mh4g-dex-build7+mh4edit-mit-save-id,9,0
+47,Chernobog's Scythe,Chernobog's Scythe,mh4g-dex-build7+mh4edit-mit-save-id,9,0
+48,Schildsect,Schildsect,mh4g-dex-build7+mh4edit-mit-save-id,4,0
+49,Schildsect+,Schildsect+,mh4g-dex-build7+mh4edit-mit-save-id,6,0
+50,Galvanisect,Galvanisect,mh4g-dex-build7+mh4edit-mit-save-id,8,0
+51,Dominisect,Dominisect,mh4g-dex-build7+mh4edit-mit-save-id,9,0
+52,Maximinsect,Maximinsect,mh4g-dex-build7+mh4edit-mit-save-id,9,0
+53,Dear Rose,Dear Rose,mh4g-dex-build7+mh4edit-mit-save-id,8,0
+54,Dear Rosetta,Dear Rosetta,mh4g-dex-build7+mh4edit-mit-save-id,9,0
+55,Luna Eostre,Luna Eostre,mh4g-dex-build7+mh4edit-mit-save-id,10,0
+56,Azure Swallow,Azure Swallow,mh4g-dex-build7+mh4edit-mit-save-id,9,0
+57,Azure Skylark,Azure Skylark,mh4g-dex-build7+mh4edit-mit-save-id,9,0
+58,Rathflame Ubernova,Rathflame Ubernova,mh4g-dex-build7+mh4edit-mit-save-id,9,0
+59,Blossomauler,Blossomauler,mh4g-dex-build7+mh4edit-mit-save-id,10,0
+60,Propensity,Propensity,mh4g-dex-build7+mh4edit-mit-save-id,10,0
+61,Serrated Glace,Serrated Glace,mh4g-dex-build7+mh4edit-mit-save-id,8,0
+62,Trios Tristesse,Trios Tristesse,mh4g-dex-build7+mh4edit-mit-save-id,9,0
+63,The Haboob,The Haboob,mh4g-dex-build7+mh4edit-mit-save-id,8,0
+64,Desert Rose,Desert Rose,mh4g-dex-build7+mh4edit-mit-save-id,9,0
+65,L'Essor,L'Essor,mh4g-dex-build7+mh4edit-mit-save-id,9,0
+66,Le Salut,Le Salut,mh4g-dex-build7+mh4edit-mit-save-id,10,0
+67,Elends/Essor,Elends/Essor,mh4g-dex-build7+mh4edit-mit-save-id,9,0
+68,Diablos Strongarm,Diablos Strongarm,mh4g-dex-build7+mh4edit-mit-save-id,9,0
+69,Cera Cediment,Cera Cediment,mh4g-dex-build7+mh4edit-mit-save-id,9,0
+70,Ceadeus Regalia,Ceadeus Regalia,mh4g-dex-build7+mh4edit-mit-save-id,10,0
+71,Kyusen,Kyusen,mh4g-dex-build7+mh4edit-mit-save-id,9,0
+72,Watatsumi,Watatsumi,mh4g-dex-build7+mh4edit-mit-save-id,10,0
+73,Daora's Casca,Daora's Casca,mh4g-dex-build7+mh4edit-mit-save-id,7,0
+74,Daora's Thwartoise,Daora's Thwartoise,mh4g-dex-build7+mh4edit-mit-save-id,10,0
+75,Eldaora Casca,Eldaora Casca,mh4g-dex-build7+mh4edit-mit-save-id,10,0
+76,Teostra's Striker,Teostra's Striker,mh4g-dex-build7+mh4edit-mit-save-id,7,0
+77,Teostra's Nova,Teostra's Nova,mh4g-dex-build7+mh4edit-mit-save-id,10,0
+78,Dios Strongarm,Dios Strongarm,mh4g-dex-build7+mh4edit-mit-save-id,4,0
+79,Demolition C. Blade,Demolition C. Blade,mh4g-dex-build7+mh4edit-mit-save-id,6,0
+80,Fulgent Demolisher,Fulgent Demolisher,mh4g-dex-build7+mh4edit-mit-save-id,9,0
+81,Lightbreak C. Blade,Lightbreak C. Blade,mh4g-dex-build7+mh4edit-mit-save-id,10,0
+82,Demonlord C. Blade,Demonlord C. Blade,mh4g-dex-build7+mh4edit-mit-save-id,9,0
+83,Demonlord Supersurge,Demonlord Supersurge,mh4g-dex-build7+mh4edit-mit-save-id,10,0
+84,Akantor C. Blade,Akantor C. Blade,mh4g-dex-build7+mh4edit-mit-save-id,7,0
+85,Akantor Severance,Akantor Severance,mh4g-dex-build7+mh4edit-mit-save-id,10,0
+86,Bebladed Implement,Bebladed Implement,mh4g-dex-build7+mh4edit-mit-save-id,7,0
+87,Machina Razer,Machina Razer,mh4g-dex-build7+mh4edit-mit-save-id,7,0
+88,Adélie the Savior,Adélie the Savior,mh4g-dex-build7+mh4edit-mit-save-id,9,0
+89,Dalamadur C. Blade,Dalamadur C. Blade,mh4g-dex-build7+mh4edit-mit-save-id,10,0
+90,Patient Dalamadur,Patient Dalamadur,mh4g-dex-build7+mh4edit-mit-save-id,10,0
+91,True Fatalis Charger,True Fatalis Charger,mh4g-dex-build7+mh4edit-mit-save-id,10,0
+92,True Ruiner Reaver,True Ruiner Reaver,mh4g-dex-build7+mh4edit-mit-save-id,10,0
+93,Fatalis Mien,Fatalis Mien,mh4g-dex-build7+mh4edit-mit-save-id,10,0
+94,Aslat Charger,Aslat Charger,mh4g-dex-build7+mh4edit-mit-save-id,6,0
+95,Aslat Charger+,Aslat Charger+,mh4g-dex-build7+mh4edit-mit-save-id,7,0
+96,Seditious C. Blade,Seditious C. Blade,mh4g-dex-build7+mh4edit-mit-save-id,9,0
+97,Garuda Sedition,Garuda Sedition,mh4g-dex-build7+mh4edit-mit-save-id,10,0
+98,Forbidden Coffin,Forbidden Coffin,mh4g-dex-build7+mh4edit-mit-save-id,10,0
+99,Promised Nadir,Promised Nadir,mh4g-dex-build7+mh4edit-mit-save-id,10,0
+100,dummy100,dummy100,mh4edit-mit-save-id,0,0
+101,DUMMY,DUMMY,mh4edit-mit-save-id,0,0
+102,DUMMY,DUMMY,mh4edit-mit-save-id,0,0
+103,Awaritia,Awaritia,mh4edit-mit-save-id,0,0
+104,Fallen Morgenröte,Fallen Morgenröte,mh4edit-mit-save-id,0,0
+105,Elite Blade (red),Elite Blade (red),mh4g-dex-build7+mh4edit-mit-save-id,0,1
+106,Elite Blade (yellow),Elite Blade (yellow),mh4g-dex-build7+mh4edit-mit-save-id,0,1
+107,Elite Blade (green),Elite Blade (green),mh4g-dex-build7+mh4edit-mit-save-id,0,1
+108,Elite Blade (blue),Elite Blade (blue),mh4g-dex-build7+mh4edit-mit-save-id,0,1
+109,Elite Blade (purple),Elite Blade (purple),mh4g-dex-build7+mh4edit-mit-save-id,0,1
+110,Dear Lutemis (red),Dear Lutemis (red),mh4g-dex-build7+mh4edit-mit-save-id,0,1
+111,Dear Lutemis (yellow),Dear Lutemis (yellow),mh4g-dex-build7+mh4edit-mit-save-id,0,1
+112,Dear Lutemis (green),Dear Lutemis (green),mh4g-dex-build7+mh4edit-mit-save-id,0,1
+113,Dear Lutemis (blue),Dear Lutemis (blue),mh4g-dex-build7+mh4edit-mit-save-id,0,1
+114,Dear Lutemis (purple),Dear Lutemis (purple),mh4g-dex-build7+mh4edit-mit-save-id,0,1
+115,Elendskraft (red),Elendskraft (red),mh4g-dex-build7+mh4edit-mit-save-id,0,1
+116,Elendskraft (yellow),Elendskraft (yellow),mh4g-dex-build7+mh4edit-mit-save-id,0,1
+117,Elendskraft (green),Elendskraft (green),mh4g-dex-build7+mh4edit-mit-save-id,0,1
+118,Elendskraft (blue),Elendskraft (blue),mh4g-dex-build7+mh4edit-mit-save-id,0,1
+119,Elendskraft (purple),Elendskraft (purple),mh4g-dex-build7+mh4edit-mit-save-id,0,1
+120,Deceadeus (red),Deceadeus (red),mh4g-dex-build7+mh4edit-mit-save-id,0,1
+121,Deceadeus (yellow),Deceadeus (yellow),mh4g-dex-build7+mh4edit-mit-save-id,0,1
+122,Deceadeus (green),Deceadeus (green),mh4g-dex-build7+mh4edit-mit-save-id,0,1
+123,Deceadeus (blue),Deceadeus (blue),mh4g-dex-build7+mh4edit-mit-save-id,0,1
+124,Deceadeus (purple),Deceadeus (purple),mh4g-dex-build7+mh4edit-mit-save-id,0,1

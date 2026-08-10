@@ -1,0 +1,1914 @@
+id,name,english,source
+1,Book of Combos 1,Book of Combos 1,mh4g-dex-build7
+2,Book of Combos 2,Book of Combos 2,mh4g-dex-build7
+3,Book of Combos 3,Book of Combos 3,mh4g-dex-build7
+4,Book of Combos 4,Book of Combos 4,mh4g-dex-build7
+5,Book of Combos 5,Book of Combos 5,mh4g-dex-build7
+6,Organizer Guide,Organizer Guide,mh4g-dex-build7
+7,Pack Rat Guide,Pack Rat Guide,mh4g-dex-build7
+8,Potion,Potion,mh4g-dex-build7
+9,Mega Potion,Mega Potion,mh4g-dex-build7
+10,Nutrients,Nutrients,mh4g-dex-build7
+11,Mega Nutrients,Mega Nutrients,mh4g-dex-build7
+12,Antidote,Antidote,mh4g-dex-build7
+13,Immunizer,Immunizer,mh4g-dex-build7
+14,Dash Juice,Dash Juice,mh4g-dex-build7
+15,Mega Dash Juice,Mega Dash Juice,mh4g-dex-build7
+16,Demondrug,Demondrug,mh4g-dex-build7
+17,Mega Demondrug,Mega Demondrug,mh4g-dex-build7
+18,Might Pill,Might Pill,mh4g-dex-build7
+19,Armorskin,Armorskin,mh4g-dex-build7
+20,Mega Armorskin,Mega Armorskin,mh4g-dex-build7
+21,Adamant Pill,Adamant Pill,mh4g-dex-build7
+22,Cool Drink,Cool Drink,mh4g-dex-build7
+23,Hot Drink,Hot Drink,mh4g-dex-build7
+24,Cleanser,Cleanser,mh4g-dex-build7
+25,Deodorant,Deodorant,mh4g-dex-build7
+26,Psychoserum,Psychoserum,mh4g-dex-build7
+27,Herbal Medicine,Herbal Medicine,mh4g-dex-build7
+28,Max Potion,Max Potion,mh4g-dex-build7
+29,Ancient Potion,Ancient Potion,mh4g-dex-build7
+30,Catalyst,Catalyst,mh4g-dex-build7
+31,Energy Drink,Energy Drink,mh4g-dex-build7
+32,Gunpowder,Gunpowder,mh4g-dex-build7
+33,Lifecrystals,Lifecrystals,mh4g-dex-build7
+34,Lifepowder,Lifepowder,mh4g-dex-build7
+35,Tranquilizer,Tranquilizer,mh4g-dex-build7
+36,Mystery Charm,Mystery Charm,mh4g-dex-build7
+37,Shining Charm,Shining Charm,mh4g-dex-build7
+38,Timeworn Charm,Timeworn Charm,mh4g-dex-build7
+39,Distorted Charm,Distorted Charm,mh4g-dex-build7
+40,Powercharm,Powercharm,mh4g-dex-build7
+41,Powertalon,Powertalon,mh4g-dex-build7
+42,Armorcharm,Armorcharm,mh4g-dex-build7
+43,Armortalon,Armortalon,mh4g-dex-build7
+44,Raw Meat,Raw Meat,mh4g-dex-build7
+45,Poisoned Meat,Poisoned Meat,mh4g-dex-build7
+46,Tinged Meat,Tinged Meat,mh4g-dex-build7
+47,Drugged Meat,Drugged Meat,mh4g-dex-build7
+48,Rare Steak,Rare Steak,mh4g-dex-build7
+49,Well-done Steak,Well-done Steak,mh4g-dex-build7
+50,Burnt Meat,Burnt Meat,mh4g-dex-build7
+51,Chilled Meat,Chilled Meat,mh4g-dex-build7
+52,Hot Meat,Hot Meat,mh4g-dex-build7
+53,Mosswine Jerky,Mosswine Jerky,mh4g-dex-build7
+54,Boomerang,Boomerang,mh4g-dex-build7
+55,Throwing Knife,Throwing Knife,mh4g-dex-build7
+56,Poison Knife,Poison Knife,mh4g-dex-build7
+57,Sleep Knife,Sleep Knife,mh4g-dex-build7
+58,Paralysis Knife,Paralysis Knife,mh4g-dex-build7
+59,Tranq Knife,Tranq Knife,mh4g-dex-build7
+60,Bomb Casing,Bomb Casing,mh4g-dex-build7
+61,Paintball,Paintball,mh4g-dex-build7
+62,Flash Bomb,Flash Bomb,mh4g-dex-build7
+63,Sonic Bomb,Sonic Bomb,mh4g-dex-build7
+64,Dung,Dung,mh4g-dex-build7
+65,Dung Bomb,Dung Bomb,mh4g-dex-build7
+66,Smoke Bomb,Smoke Bomb,mh4g-dex-build7
+67,Poison Smoke Bomb,Poison Smoke Bomb,mh4g-dex-build7
+68,Farcaster,Farcaster,mh4g-dex-build7
+69,Tranq Bomb,Tranq Bomb,mh4g-dex-build7
+70,Spider Web,Spider Web,mh4g-dex-build7
+71,Net,Net,mh4g-dex-build7
+72,Trap Tool,Trap Tool,mh4g-dex-build7
+73,Pitfall Trap,Pitfall Trap,mh4g-dex-build7
+74,Shock Trap,Shock Trap,mh4g-dex-build7
+75,Small Barrel,Small Barrel,mh4g-dex-build7
+76,Large Barrel,Large Barrel,mh4g-dex-build7
+77,Barrel Bomb S,Barrel Bomb S,mh4g-dex-build7
+78,Barrel Bomb S+,Barrel Bomb S+,mh4g-dex-build7
+79,Barrel Bomb L,Barrel Bomb L,mh4g-dex-build7
+80,Barrel Bomb L+,Barrel Bomb L+,mh4g-dex-build7
+81,Bounce Bomb,Bounce Bomb,mh4g-dex-build7
+82,Bounce Bomb+,Bounce Bomb+,mh4g-dex-build7
+83,Felvine Bomb,Felvine Bomb,mh4g-dex-build7
+84,[JP] JUMP Bomb,[JP] JUMP Bomb,mh4g-dex-build7
+85,Huskberry,Huskberry,mh4g-dex-build7
+86,Bone Husk,Bone Husk,mh4g-dex-build7
+87,Normal S Lv1,Normal S Lv1,mh4g-dex-build7
+88,Normal S Lv2,Normal S Lv2,mh4g-dex-build7
+89,Normal S Lv3,Normal S Lv3,mh4g-dex-build7
+90,Pierce S Lv1,Pierce S Lv1,mh4g-dex-build7
+91,Pierce S Lv2,Pierce S Lv2,mh4g-dex-build7
+92,Pierce S Lv3,Pierce S Lv3,mh4g-dex-build7
+93,Pellet S Lv1,Pellet S Lv1,mh4g-dex-build7
+94,Pellet S Lv2,Pellet S Lv2,mh4g-dex-build7
+95,Pellet S Lv3,Pellet S Lv3,mh4g-dex-build7
+96,Crag S Lv1,Crag S Lv1,mh4g-dex-build7
+97,Crag S Lv2,Crag S Lv2,mh4g-dex-build7
+98,Crag S Lv3,Crag S Lv3,mh4g-dex-build7
+99,Clust S Lv1,Clust S Lv1,mh4g-dex-build7
+100,Clust S Lv2,Clust S Lv2,mh4g-dex-build7
+101,Clust S Lv3,Clust S Lv3,mh4g-dex-build7
+102,Flaming S,Flaming S,mh4g-dex-build7
+103,Water S,Water S,mh4g-dex-build7
+104,Thunder S,Thunder S,mh4g-dex-build7
+105,Freeze S,Freeze S,mh4g-dex-build7
+106,Dragon S,Dragon S,mh4g-dex-build7
+107,Poison S Lv1,Poison S Lv1,mh4g-dex-build7
+108,Poison S Lv2,Poison S Lv2,mh4g-dex-build7
+109,Para S Lv1,Para S Lv1,mh4g-dex-build7
+110,Para S Lv2,Para S Lv2,mh4g-dex-build7
+111,Sleep S Lv1,Sleep S Lv1,mh4g-dex-build7
+112,Sleep S Lv2,Sleep S Lv2,mh4g-dex-build7
+113,Exhaust S Lv1,Exhaust S Lv1,mh4g-dex-build7
+114,Exhaust S Lv2,Exhaust S Lv2,mh4g-dex-build7
+115,Slicing S,Slicing S,mh4g-dex-build7
+116,WyvernFire,WyvernFire,mh4g-dex-build7
+117,Blast S,Blast S,mh4g-dex-build7
+118,Recover S Lv1,Recover S Lv1,mh4g-dex-build7
+119,Recover S Lv2,Recover S Lv2,mh4g-dex-build7
+120,Demon S,Demon S,mh4g-dex-build7
+121,Armor S,Armor S,mh4g-dex-build7
+122,Paint S,Paint S,mh4g-dex-build7
+123,Tranq S,Tranq S,mh4g-dex-build7
+125,Empty Phial,Empty Phial,mh4g-dex-build7
+126,Power Coating,Power Coating,mh4g-dex-build7
+127,C.Range Coating,C.Range Coating,mh4g-dex-build7
+128,Poison Coating,Poison Coating,mh4g-dex-build7
+129,Para Coating,Para Coating,mh4g-dex-build7
+130,Sleep Coating,Sleep Coating,mh4g-dex-build7
+131,Exhaust Coating,Exhaust Coating,mh4g-dex-build7
+132,Blast Coating,Blast Coating,mh4g-dex-build7
+133,Paint Coating,Paint Coating,mh4g-dex-build7
+134,Power Nectar: Fire,Power Nectar: Fire,mh4g-dex-build7
+135,Stam Nectar: Water,Stam Nectar: Water,mh4g-dex-build7
+136,Spd Nectar: Thunder,Spd Nectar: Thunder,mh4g-dex-build7
+137,Speed Nectar: Ice,Speed Nectar: Ice,mh4g-dex-build7
+138,Stam Nectar: Dragon,Stam Nectar: Dragon,mh4g-dex-build7
+139,Power+ Nectar,Power+ Nectar,mh4g-dex-build7
+140,Stamina+ Nectar,Stamina+ Nectar,mh4g-dex-build7
+141,Speed+ Nectar,Speed+ Nectar,mh4g-dex-build7
+142,Nectar: Fire+,Nectar: Fire+,mh4g-dex-build7
+143,Nectar: Water+,Nectar: Water+,mh4g-dex-build7
+144,Nectar: Thunder+,Nectar: Thunder+,mh4g-dex-build7
+145,Nectar: Ice+,Nectar: Ice+,mh4g-dex-build7
+146,Nectar: Dragon+,Nectar: Dragon+,mh4g-dex-build7
+147,Power+ Nectar: Fire,Power+ Nectar: Fire,mh4g-dex-build7
+148,Stam+ Nectar: Water,Stam+ Nectar: Water,mh4g-dex-build7
+149,Spd+ Nectar: Thunder,Spd+ Nectar: Thunder,mh4g-dex-build7
+150,Power Nectar: Fire+,Power Nectar: Fire+,mh4g-dex-build7
+151,Speed Nectar: Water+,Speed Nectar: Water+,mh4g-dex-build7
+152,Spd Nectar: Thunder+,Spd Nectar: Thunder+,mh4g-dex-build7
+153,Speed Nectar: Ice+,Speed Nectar: Ice+,mh4g-dex-build7
+154,Stam Nectar: Dragon+,Stam Nectar: Dragon+,mh4g-dex-build7
+155,Worm,Worm,mh4g-dex-build7
+156,Mega Fishing Fly,Mega Fishing Fly,mh4g-dex-build7
+157,Frog,Frog,mh4g-dex-build7
+158,Sushifish Bait,Sushifish Bait,mh4g-dex-build7
+159,Burst Bait,Burst Bait,mh4g-dex-build7
+160,Goldenfish Bait,Goldenfish Bait,mh4g-dex-build7
+161,Old Pickaxe,Old Pickaxe,mh4g-dex-build7
+162,Iron Pickaxe,Iron Pickaxe,mh4g-dex-build7
+163,Mega Pickaxe,Mega Pickaxe,mh4g-dex-build7
+164,Old Bug Net,Old Bug Net,mh4g-dex-build7
+165,Bug Net,Bug Net,mh4g-dex-build7
+166,Mega Bug Net,Mega Bug Net,mh4g-dex-build7
+167,BBQ Spit,BBQ Spit,mh4g-dex-build7
+168,Whetstone,Whetstone,mh4g-dex-build7
+169,Binoculars,Binoculars,mh4g-dex-build7
+170,Garbage,Garbage,mh4g-dex-build7
+171,Field Horn,Field Horn,mh4g-dex-build7
+172,Health Horn,Health Horn,mh4g-dex-build7
+173,Antidote Horn,Antidote Horn,mh4g-dex-build7
+174,Demon Horn,Demon Horn,mh4g-dex-build7
+175,Armor Horn,Armor Horn,mh4g-dex-build7
+176,Honey,Honey,mh4g-dex-build7
+177,Herb,Herb,mh4g-dex-build7
+178,Antidote Herb,Antidote Herb,mh4g-dex-build7
+179,Fire Herb,Fire Herb,mh4g-dex-build7
+180,Ivy,Ivy,mh4g-dex-build7
+181,Sleep Herb,Sleep Herb,mh4g-dex-build7
+182,Sap Plant,Sap Plant,mh4g-dex-build7
+183,Felvine,Felvine,mh4g-dex-build7
+184,Gloamgrass Root,Gloamgrass Root,mh4g-dex-build7
+185,Hot Pepper,Hot Pepper,mh4g-dex-build7
+186,Cathangea Seed,Cathangea Seed,mh4g-dex-build7
+187,Cathangea,Cathangea,mh4g-dex-build7
+188,Cathangea Elixir,Cathangea Elixir,mh4g-dex-build7
+189,Blue Mushroom,Blue Mushroom,mh4g-dex-build7
+190,Nitroshroom,Nitroshroom,mh4g-dex-build7
+191,Parashroom,Parashroom,mh4g-dex-build7
+192,Toadstool,Toadstool,mh4g-dex-build7
+193,Exciteshroom,Exciteshroom,mh4g-dex-build7
+194,Mopeshroom,Mopeshroom,mh4g-dex-build7
+195,Dragon Toadstool,Dragon Toadstool,mh4g-dex-build7
+196,Paintberry,Paintberry,mh4g-dex-build7
+197,Might Seed,Might Seed,mh4g-dex-build7
+198,Adamant Seed,Adamant Seed,mh4g-dex-build7
+199,Nulberry,Nulberry,mh4g-dex-build7
+200,Dragonfell Berry,Dragonfell Berry,mh4g-dex-build7
+201,Scatternut,Scatternut,mh4g-dex-build7
+202,Needleberry,Needleberry,mh4g-dex-build7
+203,Latchberry,Latchberry,mh4g-dex-build7
+204,Bomberry,Bomberry,mh4g-dex-build7
+205,Bumblepumpkin,Bumblepumpkin,mh4g-dex-build7
+206,Stone,Stone,mh4g-dex-build7
+207,Iron Ore,Iron Ore,mh4g-dex-build7
+208,Earth Crystal,Earth Crystal,mh4g-dex-build7
+209,Machalite Ore,Machalite Ore,mh4g-dex-build7
+210,Dragonite Ore,Dragonite Ore,mh4g-dex-build7
+211,Lightcrystal,Lightcrystal,mh4g-dex-build7
+212,Ice Crystal,Ice Crystal,mh4g-dex-build7
+213,Firestone,Firestone,mh4g-dex-build7
+214,Gossamite Ore,Gossamite Ore,mh4g-dex-build7
+215,Heavenly Crystal,Heavenly Crystal,mh4g-dex-build7
+216,Carbalite Ore,Carbalite Ore,mh4g-dex-build7
+217,Novacrystal,Novacrystal,mh4g-dex-build7
+218,Fucium Ore,Fucium Ore,mh4g-dex-build7
+219,Firecell Stone,Firecell Stone,mh4g-dex-build7
+220,Yoldspar Ore,Yoldspar Ore,mh4g-dex-build7
+221,Abrasive,Abrasive,mh4g-dex-build7
+222,Quality Abrasive,Quality Abrasive,mh4g-dex-build7
+223,Awesome Abrasive,Awesome Abrasive,mh4g-dex-build7
+224,Armor Stone,Armor Stone,mh4g-dex-build7
+225,Armor Sphere,Armor Sphere,mh4g-dex-build7
+226,Armor Sphere+,Armor Sphere+,mh4g-dex-build7
+227,Adv Armor Sphere,Adv Armor Sphere,mh4g-dex-build7
+228,Hard Armor Sphere,Hard Armor Sphere,mh4g-dex-build7
+229,Heavy Armor Sphere,Heavy Armor Sphere,mh4g-dex-build7
+230,True Armor Sphere,True Armor Sphere,mh4g-dex-build7
+231,Whetfish,Whetfish,mh4g-dex-build7
+232,Sushifish,Sushifish,mh4g-dex-build7
+233,Sleepyfish,Sleepyfish,mh4g-dex-build7
+234,Pin Tuna,Pin Tuna,mh4g-dex-build7
+235,Speartuna,Speartuna,mh4g-dex-build7
+236,Popfish,Popfish,mh4g-dex-build7
+237,Scatterfish,Scatterfish,mh4g-dex-build7
+238,Burst Arowana,Burst Arowana,mh4g-dex-build7
+239,Bomb Arowana,Bomb Arowana,mh4g-dex-build7
+240,Glutton Tuna,Glutton Tuna,mh4g-dex-build7
+241,Gastronome Tuna,Gastronome Tuna,mh4g-dex-build7
+242,Small Goldenfish,Small Goldenfish,mh4g-dex-build7
+243,Wanchovy,Wanchovy,mh4g-dex-build7
+244,Ancient Fish,Ancient Fish,mh4g-dex-build7
+245,Blue Cutthroat,Blue Cutthroat,mh4g-dex-build7
+246,Bronze Guild Ticket,Bronze Guild Ticket,mh4g-dex-build7
+247,Silver Guild Ticket,Silver Guild Ticket,mh4g-dex-build7
+248,Insect Husk,Insect Husk,mh4g-dex-build7
+249,Gold Guild Ticket,Gold Guild Ticket,mh4g-dex-build7
+250,Stinkhopper,Stinkhopper,mh4g-dex-build7
+251,Snakebee Larva,Snakebee Larva,mh4g-dex-build7
+252,Godbug,Godbug,mh4g-dex-build7
+253,Bitterbug,Bitterbug,mh4g-dex-build7
+254,Flashbug,Flashbug,mh4g-dex-build7
+255,Thunderbug,Thunderbug,mh4g-dex-build7
+256,Glueglopper,Glueglopper,mh4g-dex-build7
+257,Killer Beetle,Killer Beetle,mh4g-dex-build7
+258,Hercudrome,Hercudrome,mh4g-dex-build7
+259,Fulgurbug,Fulgurbug,mh4g-dex-build7
+260,Rare Scarab,Rare Scarab,mh4g-dex-build7
+261,Great Hornfly,Great Hornfly,mh4g-dex-build7
+262,Butterfly Beetle,Butterfly Beetle,mh4g-dex-build7
+263,Monster Bone S,Monster Bone S,mh4g-dex-build7
+264,Monster Bone M,Monster Bone M,mh4g-dex-build7
+265,Monster Bone L,Monster Bone L,mh4g-dex-build7
+266,Mystery Bone,Mystery Bone,mh4g-dex-build7
+267,Unknown Skull,Unknown Skull,mh4g-dex-build7
+268,Monster Bone+,Monster Bone+,mh4g-dex-build7
+269,Monster Keenbone,Monster Keenbone,mh4g-dex-build7
+270,Monster Hardbone,Monster Hardbone,mh4g-dex-build7
+271,Elder Dragon Bone,Elder Dragon Bone,mh4g-dex-build7
+272,Avian Finebone,Avian Finebone,mh4g-dex-build7
+273,Brute Bone,Brute Bone,mh4g-dex-build7
+274,Jumbo Bone,Jumbo Bone,mh4g-dex-build7
+275,Stoutbone,Stoutbone,mh4g-dex-build7
+276,Dragonbone Relic,Dragonbone Relic,mh4g-dex-build7
+277,Wyvern Fang,Wyvern Fang,mh4g-dex-build7
+278,Wyvern Claw,Wyvern Claw,mh4g-dex-build7
+279,Bird Wyvern Gem,Bird Wyvern Gem,mh4g-dex-build7
+280,Wyvern Gem,Wyvern Gem,mh4g-dex-build7
+281,Elder Dragon Blood,Elder Dragon Blood,mh4g-dex-build7
+282,Steel Egg,Steel Egg,mh4g-dex-build7
+283,Silver Egg,Silver Egg,mh4g-dex-build7
+284,Golden Egg,Golden Egg,mh4g-dex-build7
+285,Slickaxe,Slickaxe,mh4g-dex-build7
+286,Screamer Sac,Screamer Sac,mh4g-dex-build7
+287,Poison Sac,Poison Sac,mh4g-dex-build7
+288,Toxin Sac,Toxin Sac,mh4g-dex-build7
+289,Paralysis Sac,Paralysis Sac,mh4g-dex-build7
+290,Sleep Sac,Sleep Sac,mh4g-dex-build7
+291,Flame Sac,Flame Sac,mh4g-dex-build7
+292,Inferno Sac,Inferno Sac,mh4g-dex-build7
+293,Electro Sac,Electro Sac,mh4g-dex-build7
+294,Thunder Sac,Thunder Sac,mh4g-dex-build7
+295,Frost Sac,Frost Sac,mh4g-dex-build7
+296,Freezer Sac,Freezer Sac,mh4g-dex-build7
+297,Aqua Sac,Aqua Sac,mh4g-dex-build7
+298,Torrent Sac,Torrent Sac,mh4g-dex-build7
+299,Dash Extract,Dash Extract,mh4g-dex-build7
+300,Pale Extract,Pale Extract,mh4g-dex-build7
+301,Gargwa Feather,Gargwa Feather,mh4g-dex-build7
+302,Kelbi Horn,Kelbi Horn,mh4g-dex-build7
+303,Blue Kelbi Horn,Blue Kelbi Horn,mh4g-dex-build7
+304,Warm Pelt,Warm Pelt,mh4g-dex-build7
+305,High-quality Pelt,High-quality Pelt,mh4g-dex-build7
+306,Rhenoplos Shell,Rhenoplos Shell,mh4g-dex-build7
+307,Rhenoplos Carapace,Rhenoplos Carapace,mh4g-dex-build7
+308,Rhenoplos Scalp,Rhenoplos Scalp,mh4g-dex-build7
+309,Slagtoth Hide,Slagtoth Hide,mh4g-dex-build7
+310,Slagtoth Hide+,Slagtoth Hide+,mh4g-dex-build7
+311,Bnahabra Shell,Bnahabra Shell,mh4g-dex-build7
+312,Bnahabra Carapace,Bnahabra Carapace,mh4g-dex-build7
+313,Bnahabra Wing,Bnahabra Wing,mh4g-dex-build7
+314,Altaroth Jaw,Altaroth Jaw,mh4g-dex-build7
+315,Altaroth Stomach,Altaroth Stomach,mh4g-dex-build7
+316,Quality Stomach,Quality Stomach,mh4g-dex-build7
+317,Sharp Fang,Sharp Fang,mh4g-dex-build7
+318,Konchu Shell,Konchu Shell,mh4g-dex-build7
+319,Konchu Carapace,Konchu Carapace,mh4g-dex-build7
+320,Remobra Hide,Remobra Hide,mh4g-dex-build7
+321,Remobra Hide+,Remobra Hide+,mh4g-dex-build7
+322,Striped Skin,Striped Skin,mh4g-dex-build7
+323,Remobra Head,Remobra Head,mh4g-dex-build7
+324,Jaggi Scale,Jaggi Scale,mh4g-dex-build7
+325,Jaggi Scale+,Jaggi Scale+,mh4g-dex-build7
+326,Jaggi Hide,Jaggi Hide,mh4g-dex-build7
+327,Bird Wyvern Fang,Bird Wyvern Fang,mh4g-dex-build7
+328,Tough Bird Wyv Hide,Tough Bird Wyv Hide,mh4g-dex-build7
+329,G.Jaggi Hide,G.Jaggi Hide,mh4g-dex-build7
+330,G.Jaggi Hide+,G.Jaggi Hide+,mh4g-dex-build7
+331,G.Jaggi Claw,G.Jaggi Claw,mh4g-dex-build7
+332,G.Jaggi Claw+,G.Jaggi Claw+,mh4g-dex-build7
+333,King's Frill,King's Frill,mh4g-dex-build7
+334,Great Jaggi Head,Great Jaggi Head,mh4g-dex-build7
+335,Velociprey Scale,Velociprey Scale,mh4g-dex-build7
+336,Velociprey Scale+,Velociprey Scale+,mh4g-dex-build7
+337,Velociprey Hide,Velociprey Hide,mh4g-dex-build7
+338,Velociprey Hide+,Velociprey Hide+,mh4g-dex-build7
+339,Velocidrome Hide,Velocidrome Hide,mh4g-dex-build7
+340,Velocidrome Claw,Velocidrome Claw,mh4g-dex-build7
+341,Velocidrome Claw+,Velocidrome Claw+,mh4g-dex-build7
+342,Velocidrome Head,Velocidrome Head,mh4g-dex-build7
+343,Genprey Fang,Genprey Fang,mh4g-dex-build7
+344,Genprey Scale,Genprey Scale,mh4g-dex-build7
+345,Genprey Scale+,Genprey Scale+,mh4g-dex-build7
+346,Genprey Hide,Genprey Hide,mh4g-dex-build7
+347,Genprey Hide+,Genprey Hide+,mh4g-dex-build7
+348,Gendrome Hide,Gendrome Hide,mh4g-dex-build7
+349,Gendrome Tail,Gendrome Tail,mh4g-dex-build7
+350,Gendrome Head,Gendrome Head,mh4g-dex-build7
+351,Ioprey Fang,Ioprey Fang,mh4g-dex-build7
+352,Ioprey Scale,Ioprey Scale,mh4g-dex-build7
+353,Ioprey Scale+,Ioprey Scale+,mh4g-dex-build7
+354,Ioprey Hide,Ioprey Hide,mh4g-dex-build7
+355,Ioprey Hide+,Ioprey Hide+,mh4g-dex-build7
+356,Iodrome Hide,Iodrome Hide,mh4g-dex-build7
+357,Iodrome Head,Iodrome Head,mh4g-dex-build7
+358,Lagombi Pelt,Lagombi Pelt,mh4g-dex-build7
+359,Lagombi Pelt+,Lagombi Pelt+,mh4g-dex-build7
+360,Lagombi Ear,Lagombi Ear,mh4g-dex-build7
+361,Lagombi Ear+,Lagombi Ear+,mh4g-dex-build7
+362,Lagombi Plastron,Lagombi Plastron,mh4g-dex-build7
+363,Lagombi Plastron+,Lagombi Plastron+,mh4g-dex-build7
+364,Lagombi Iceclaw,Lagombi Iceclaw,mh4g-dex-build7
+365,Lagombi Frozenclaw,Lagombi Frozenclaw,mh4g-dex-build7
+366,Kut-Ku Scale,Kut-Ku Scale,mh4g-dex-build7
+367,Kut-Ku Scale+,Kut-Ku Scale+,mh4g-dex-build7
+368,Kut-Ku Shell,Kut-Ku Shell,mh4g-dex-build7
+369,Kut-Ku Carapace,Kut-Ku Carapace,mh4g-dex-build7
+370,Kut-Ku Ear,Kut-Ku Ear,mh4g-dex-build7
+371,Kut-Ku Auricle,Kut-Ku Auricle,mh4g-dex-build7
+372,Giant Beak,Giant Beak,mh4g-dex-build7
+373,Splendid Beak,Splendid Beak,mh4g-dex-build7
+374,Kut-Ku Webbing,Kut-Ku Webbing,mh4g-dex-build7
+376,Blue Kut-Ku Scale+,Blue Kut-Ku Scale+,mh4g-dex-build7
+377,Blue Kut-Ku Carapace,Blue Kut-Ku Carapace,mh4g-dex-build7
+378,Rubbery Hide,Rubbery Hide,mh4g-dex-build7
+379,Rubbery Hide+,Rubbery Hide+,mh4g-dex-build7
+380,Gypceros Head,Gypceros Head,mh4g-dex-build7
+381,Rubbery Purple Hide,Rubbery Purple Hide,mh4g-dex-build7
+382,P.Gypceros Wing,P.Gypceros Wing,mh4g-dex-build7
+383,Garuga Scale,Garuga Scale,mh4g-dex-build7
+384,Garuga Scale+,Garuga Scale+,mh4g-dex-build7
+385,Garuga Shell,Garuga Shell,mh4g-dex-build7
+386,Garuga Carapace,Garuga Carapace,mh4g-dex-build7
+387,Garuga Ear,Garuga Ear,mh4g-dex-build7
+388,Garuga Auricle,Garuga Auricle,mh4g-dex-build7
+389,Sharpened Beak,Sharpened Beak,mh4g-dex-build7
+390,Rejuvenated Beak,Rejuvenated Beak,mh4g-dex-build7
+391,Garuga Wing,Garuga Wing,mh4g-dex-build7
+392,Garuga Tail,Garuga Tail,mh4g-dex-build7
+393,Garuga Mane,Garuga Mane,mh4g-dex-build7
+394,Kecha Pelt,Kecha Pelt,mh4g-dex-build7
+395,Kecha Pelt+,Kecha Pelt+,mh4g-dex-build7
+396,Kecha Longbone,Kecha Longbone,mh4g-dex-build7
+397,Kecha Grandbone,Kecha Grandbone,mh4g-dex-build7
+398,Kecha Talon,Kecha Talon,mh4g-dex-build7
+399,Kecha Ear,Kecha Ear,mh4g-dex-build7
+400,Kecha Ear+,Kecha Ear+,mh4g-dex-build7
+401,Kecha Tail,Kecha Tail,mh4g-dex-build7
+402,Conga Pelt,Conga Pelt,mh4g-dex-build7
+403,Conga Pelt+,Conga Pelt+,mh4g-dex-build7
+404,Sharp Claw,Sharp Claw,mh4g-dex-build7
+405,Congalala Pelt,Congalala Pelt,mh4g-dex-build7
+406,Congalala Pelt+,Congalala Pelt+,mh4g-dex-build7
+407,Vibrant Pelt,Vibrant Pelt,mh4g-dex-build7
+408,Congalala Claw,Congalala Claw,mh4g-dex-build7
+409,Congalala Claw+,Congalala Claw+,mh4g-dex-build7
+410,Congalala Fang,Congalala Fang,mh4g-dex-build7
+411,E.Congalala Pelt+,E.Congalala Pelt+,mh4g-dex-build7
+412,E.Congalala Fang+,E.Congalala Fang+,mh4g-dex-build7
+413,E.Congalala Claw+,E.Congalala Claw+,mh4g-dex-build7
+414,Rajang Horn+,Rajang Horn+,mh4g-dex-build7
+415,Rajang Fang+,Rajang Fang+,mh4g-dex-build7
+416,Rajang Blackfur,Rajang Blackfur,mh4g-dex-build7
+417,Rajang Claw+,Rajang Claw+,mh4g-dex-build7
+418,Rajang Tail,Rajang Tail,mh4g-dex-build7
+419,Gold Rajang Pelt,Gold Rajang Pelt,mh4g-dex-build7
+420,Rajang Ragehair,Rajang Ragehair,mh4g-dex-build7
+421,Rajang Nerve,Rajang Nerve,mh4g-dex-build7
+422,Ghoulish Gold Horn,Ghoulish Gold Horn,mh4g-dex-build7
+423,Tetsucabra Scale,Tetsucabra Scale,mh4g-dex-build7
+424,Tetsucabra Scale+,Tetsucabra Scale+,mh4g-dex-build7
+425,Tetsucabra Shell,Tetsucabra Shell,mh4g-dex-build7
+426,Tetsucabra Carapace,Tetsucabra Carapace,mh4g-dex-build7
+427,Tetsucabra Claw,Tetsucabra Claw,mh4g-dex-build7
+428,Tetsucabra Claw+,Tetsucabra Claw+,mh4g-dex-build7
+429,Tetsucabra Tusks,Tetsucabra Tusks,mh4g-dex-build7
+430,Tetsucabra Tusks+,Tetsucabra Tusks+,mh4g-dex-build7
+431,Dignified Skull,Dignified Skull,mh4g-dex-build7
+432,Paddock Oil,Paddock Oil,mh4g-dex-build7
+433,Paddock Oil+,Paddock Oil+,mh4g-dex-build7
+434,Sharqskin Scale,Sharqskin Scale,mh4g-dex-build7
+435,Meaty Hide,Meaty Hide,mh4g-dex-build7
+436,Meaty Hide+,Meaty Hide+,mh4g-dex-build7
+437,Zamtrios Hide,Zamtrios Hide,mh4g-dex-build7
+438,Zamtrios Hide+,Zamtrios Hide+,mh4g-dex-build7
+439,Zamtrios Scale,Zamtrios Scale,mh4g-dex-build7
+440,Zamtrios Scale+,Zamtrios Scale+,mh4g-dex-build7
+441,Zamtrios Fin,Zamtrios Fin,mh4g-dex-build7
+442,Zamtrios Fin+,Zamtrios Fin+,mh4g-dex-build7
+443,Zamtrios Sawtooth,Zamtrios Sawtooth,mh4g-dex-build7
+444,Zamtrios Tailblade,Zamtrios Tailblade,mh4g-dex-build7
+445,Najarala Shell,Najarala Shell,mh4g-dex-build7
+446,Najarala Carapace,Najarala Carapace,mh4g-dex-build7
+447,Najarala Hide,Najarala Hide,mh4g-dex-build7
+448,Najarala Hide+,Najarala Hide+,mh4g-dex-build7
+449,Najarala Marrow,Najarala Marrow,mh4g-dex-build7
+450,Najarala Medulla,Najarala Medulla,mh4g-dex-build7
+451,Najarala Sounder,Najarala Sounder,mh4g-dex-build7
+452,Najarala Sounder+,Najarala Sounder+,mh4g-dex-build7
+453,Najarala Fang,Najarala Fang,mh4g-dex-build7
+454,Chilling Beak,Chilling Beak,mh4g-dex-build7
+455,Nerscylla Shell,Nerscylla Shell,mh4g-dex-build7
+456,Nerscylla Carapace,Nerscylla Carapace,mh4g-dex-build7
+457,Nerscylla Chelicera,Nerscylla Chelicera,mh4g-dex-build7
+458,Nerscylla Shear,Nerscylla Shear,mh4g-dex-build7
+459,Nerscylla Claw,Nerscylla Claw,mh4g-dex-build7
+460,Nerscylla Sharpclaw,Nerscylla Sharpclaw,mh4g-dex-build7
+461,Nerscylla Spike,Nerscylla Spike,mh4g-dex-build7
+462,Nerscylla Spike+,Nerscylla Spike+,mh4g-dex-build7
+463,Monster Fluid,Monster Fluid,mh4g-dex-build7
+464,Monster Broth,Monster Broth,mh4g-dex-build7
+465,Seltas Shell,Seltas Shell,mh4g-dex-build7
+466,Seltas Carapace,Seltas Carapace,mh4g-dex-build7
+467,Seltas Wing,Seltas Wing,mh4g-dex-build7
+468,Seltas Innerwing,Seltas Innerwing,mh4g-dex-build7
+469,Seltas Horn,Seltas Horn,mh4g-dex-build7
+470,Seltas Horn+,Seltas Horn+,mh4g-dex-build7
+471,S.Queen Shell,S.Queen Shell,mh4g-dex-build7
+472,S.Queen Carapace,S.Queen Carapace,mh4g-dex-build7
+473,S.Queen Pectus,S.Queen Pectus,mh4g-dex-build7
+474,S.Queen Hardpectus,S.Queen Hardpectus,mh4g-dex-build7
+475,S.Queen Claw,S.Queen Claw,mh4g-dex-build7
+476,S.Queen Sharpclaw,S.Queen Sharpclaw,mh4g-dex-build7
+477,S.Queen Jaw,S.Queen Jaw,mh4g-dex-build7
+478,S.Queen Crescent,S.Queen Crescent,mh4g-dex-build7
+479,S.Queen Extract,S.Queen Extract,mh4g-dex-build7
+480,S.Queen Concentrate,S.Queen Concentrate,mh4g-dex-build7
+481,Flabby Hide,Flabby Hide,mh4g-dex-build7
+482,Pearl Hide,Pearl Hide,mh4g-dex-build7
+483,Pale Bone,Pale Bone,mh4g-dex-build7
+484,Pale Steak,Pale Steak,mh4g-dex-build7
+485,Alluring Hide,Alluring Hide,mh4g-dex-build7
+486,Alluring Webbing,Alluring Webbing,mh4g-dex-build7
+487,Rathian Scale,Rathian Scale,mh4g-dex-build7
+488,Rathian Scale+,Rathian Scale+,mh4g-dex-build7
+489,Rathian Shell,Rathian Shell,mh4g-dex-build7
+490,Rathian Carapace,Rathian Carapace,mh4g-dex-build7
+491,Rathian Webbing,Rathian Webbing,mh4g-dex-build7
+492,Rathian Spike,Rathian Spike,mh4g-dex-build7
+493,Rathian Spike+,Rathian Spike+,mh4g-dex-build7
+494,Rathian Plate,Rathian Plate,mh4g-dex-build7
+495,Rathian Ruby,Rathian Ruby,mh4g-dex-build7
+496,P.Rathian Scale+,P.Rathian Scale+,mh4g-dex-build7
+497,P.Rathian Carapace,P.Rathian Carapace,mh4g-dex-build7
+498,G.Rathian Scale+,G.Rathian Scale+,mh4g-dex-build7
+499,G.Rathian Carapace,G.Rathian Carapace,mh4g-dex-build7
+500,G.Rathian Spike+,G.Rathian Spike+,mh4g-dex-build7
+501,Rathalos Scale,Rathalos Scale,mh4g-dex-build7
+502,Rathalos Scale+,Rathalos Scale+,mh4g-dex-build7
+503,Rathalos Shell,Rathalos Shell,mh4g-dex-build7
+504,Rathalos Carapace,Rathalos Carapace,mh4g-dex-build7
+505,Rathalos Webbing,Rathalos Webbing,mh4g-dex-build7
+506,Rathalos Wing,Rathalos Wing,mh4g-dex-build7
+507,Rathalos Tail,Rathalos Tail,mh4g-dex-build7
+508,Rathalos Plate,Rathalos Plate,mh4g-dex-build7
+509,Rathalos Ruby,Rathalos Ruby,mh4g-dex-build7
+510,A.Rathalos Scale+,A.Rathalos Scale+,mh4g-dex-build7
+511,A.Rathalos Carapace,A.Rathalos Carapace,mh4g-dex-build7
+512,A.Rathalos Tail,A.Rathalos Tail,mh4g-dex-build7
+513,A.Rathalos Wing,A.Rathalos Wing,mh4g-dex-build7
+514,S.Rathalos Scale+,S.Rathalos Scale+,mh4g-dex-build7
+515,S.Rathalos Carapace,S.Rathalos Carapace,mh4g-dex-build7
+516,S.Rathalos Tail,S.Rathalos Tail,mh4g-dex-build7
+517,Rath Wingtalon,Rath Wingtalon,mh4g-dex-build7
+518,Rath Marrow,Rath Marrow,mh4g-dex-build7
+519,Rath Medulla,Rath Medulla,mh4g-dex-build7
+520,Rath Gleam,Rath Gleam,mh4g-dex-build7
+521,Zinogre Shell,Zinogre Shell,mh4g-dex-build7
+522,Zinogre Carapace,Zinogre Carapace,mh4g-dex-build7
+523,Zinogre Shockfur,Zinogre Shockfur,mh4g-dex-build7
+524,Zinogre Electrofur,Zinogre Electrofur,mh4g-dex-build7
+525,Zinogre Horn,Zinogre Horn,mh4g-dex-build7
+526,Zinogre Horn+,Zinogre Horn+,mh4g-dex-build7
+527,Zinogre Claw,Zinogre Claw,mh4g-dex-build7
+528,Zinogre Claw+,Zinogre Claw+,mh4g-dex-build7
+529,Zinogre Tail,Zinogre Tail,mh4g-dex-build7
+530,Zinogre Shocker,Zinogre Shocker,mh4g-dex-build7
+531,Zinogre Shocker+,Zinogre Shocker+,mh4g-dex-build7
+532,Zinogre Plate,Zinogre Plate,mh4g-dex-build7
+533,Zinogre Jasper,Zinogre Jasper,mh4g-dex-build7
+534,S.Zinogre Carapace,S.Zinogre Carapace,mh4g-dex-build7
+535,S.Zinogre Horn+,S.Zinogre Horn+,mh4g-dex-build7
+536,S.Zinogre Claw+,S.Zinogre Claw+,mh4g-dex-build7
+537,S.Zinogre Tail,S.Zinogre Tail,mh4g-dex-build7
+538,S.Zin Drakeshell,S.Zin Drakeshell,mh4g-dex-build7
+539,Dracophage Bug,Dracophage Bug,mh4g-dex-build7
+540,S.Zinogre Dragonhair,S.Zinogre Dragonhair,mh4g-dex-build7
+541,S.Zinogre Umbrage,S.Zinogre Umbrage,mh4g-dex-build7
+542,Brach Shell,Brach Shell,mh4g-dex-build7
+543,Brach Carapace,Brach Carapace,mh4g-dex-build7
+544,Brach Ebonshell,Brach Ebonshell,mh4g-dex-build7
+545,Brach Ebonshell+,Brach Ebonshell+,mh4g-dex-build7
+546,Brach Scalp,Brach Scalp,mh4g-dex-build7
+547,Brach Scalp+,Brach Scalp+,mh4g-dex-build7
+548,Mystery Slime,Mystery Slime,mh4g-dex-build7
+549,Brach Hammer,Brach Hammer,mh4g-dex-build7
+550,Brach Pounder,Brach Pounder,mh4g-dex-build7
+551,Brach Tail,Brach Tail,mh4g-dex-build7
+552,Brach Marrow,Brach Marrow,mh4g-dex-build7
+553,Brach Gem,Brach Gem,mh4g-dex-build7
+554,Basarios Shell,Basarios Shell,mh4g-dex-build7
+555,Basarios Carapace,Basarios Carapace,mh4g-dex-build7
+556,Basarios Wing,Basarios Wing,mh4g-dex-build7
+557,Basarios Tears,Basarios Tears,mh4g-dex-build7
+558,R.Basarios Wing,R.Basarios Wing,mh4g-dex-build7
+559,R.Basarios Carapace,R.Basarios Carapace,mh4g-dex-build7
+560,Gravios Shell,Gravios Shell,mh4g-dex-build7
+561,Gravios Carapace,Gravios Carapace,mh4g-dex-build7
+562,Gravios Scalp,Gravios Scalp,mh4g-dex-build7
+563,Gravios Medulla,Gravios Medulla,mh4g-dex-build7
+564,Gravios Wing,Gravios Wing,mh4g-dex-build7
+565,B.Gravios Carapace,B.Gravios Carapace,mh4g-dex-build7
+566,B.Gravios Scalp,B.Gravios Scalp,mh4g-dex-build7
+567,Tigrex Scale,Tigrex Scale,mh4g-dex-build7
+568,Tigrex Scale+,Tigrex Scale+,mh4g-dex-build7
+569,Tigrex Shell,Tigrex Shell,mh4g-dex-build7
+570,Tigrex Carapace,Tigrex Carapace,mh4g-dex-build7
+571,Tigrex Tail,Tigrex Tail,mh4g-dex-build7
+572,Tigrex Claw,Tigrex Claw,mh4g-dex-build7
+573,Tigrex Claw+,Tigrex Claw+,mh4g-dex-build7
+574,Tigrex Fang,Tigrex Fang,mh4g-dex-build7
+575,Tigrex Fang+,Tigrex Fang+,mh4g-dex-build7
+576,Tigrex Scalp,Tigrex Scalp,mh4g-dex-build7
+577,Tigrex Maw,Tigrex Maw,mh4g-dex-build7
+578,B.Tigrex Scale+,B.Tigrex Scale+,mh4g-dex-build7
+579,B.Tigrex Carapace,B.Tigrex Carapace,mh4g-dex-build7
+580,B.Tigrex Claw+,B.Tigrex Claw+,mh4g-dex-build7
+581,B.Tigrex Fang+,B.Tigrex Fang+,mh4g-dex-build7
+582,M.Tigrex Scale+,M.Tigrex Scale+,mh4g-dex-build7
+583,M.Tigrex Carapace,M.Tigrex Carapace,mh4g-dex-build7
+584,M.Tigrex Blastclaw,M.Tigrex Blastclaw,mh4g-dex-build7
+585,M.Tigrex Fang+,M.Tigrex Fang+,mh4g-dex-build7
+586,M.Tigrex Tail,M.Tigrex Tail,mh4g-dex-build7
+587,Pulsating Blastheart,Pulsating Blastheart,mh4g-dex-build7
+588,Gore Magala Scale,Gore Magala Scale,mh4g-dex-build7
+589,Gore Magala Scale+,Gore Magala Scale+,mh4g-dex-build7
+590,Gore Magala Shell,Gore Magala Shell,mh4g-dex-build7
+591,Gore Magala Carapace,Gore Magala Carapace,mh4g-dex-build7
+592,Gore Magala Wing,Gore Magala Wing,mh4g-dex-build7
+593,Gore Magala Wing+,Gore Magala Wing+,mh4g-dex-build7
+594,Gore Magala Ripclaw,Gore Magala Ripclaw,mh4g-dex-build7
+595,Gore Magala Ripclaw+,Gore Magala Ripclaw+,mh4g-dex-build7
+596,Gore Magala Tail,Gore Magala Tail,mh4g-dex-build7
+597,Gore Magala Plate,Gore Magala Plate,mh4g-dex-build7
+598,Gore Magala Nyctgem,Gore Magala Nyctgem,mh4g-dex-build7
+599,Gore Magala Feeler,Gore Magala Feeler,mh4g-dex-build7
+600,Gore Magala Feeler+,Gore Magala Feeler+,mh4g-dex-build7
+601,Defiled Scale,Defiled Scale,mh4g-dex-build7
+602,S.Magala Scale,S.Magala Scale,mh4g-dex-build7
+603,S.Magala Scale+,S.Magala Scale+,mh4g-dex-build7
+604,S.Magala Shell,S.Magala Shell,mh4g-dex-build7
+605,S.Magala Carapace,S.Magala Carapace,mh4g-dex-build7
+606,S.Magala Prismwing,S.Magala Prismwing,mh4g-dex-build7
+607,S.Magala Prismwing+,S.Magala Prismwing+,mh4g-dex-build7
+608,S.Magala Caress,S.Magala Caress,mh4g-dex-build7
+609,S.Magala Caress+,S.Magala Caress+,mh4g-dex-build7
+610,S.Magala Tail,S.Magala Tail,mh4g-dex-build7
+611,S.Magala Plate,S.Magala Plate,mh4g-dex-build7
+612,S.Magala Phosgem,S.Magala Phosgem,mh4g-dex-build7
+613,S.Magala Horn,S.Magala Horn,mh4g-dex-build7
+614,S.Magala Horn+,S.Magala Horn+,mh4g-dex-build7
+615,Pure Scale,Pure Scale,mh4g-dex-build7
+616,Deviljho Scale,Deviljho Scale,mh4g-dex-build7
+617,Deviljho Hide,Deviljho Hide,mh4g-dex-build7
+618,Deviljho Tallfang,Deviljho Tallfang,mh4g-dex-build7
+619,Deviljho Talon,Deviljho Talon,mh4g-dex-build7
+620,Deviljho Scalp,Deviljho Scalp,mh4g-dex-build7
+621,Deviljho Tail,Deviljho Tail,mh4g-dex-build7
+622,Deviljho Saliva,Deviljho Saliva,mh4g-dex-build7
+623,Black Blood,Black Blood,mh4g-dex-build7
+624,Spattered Hide,Spattered Hide,mh4g-dex-build7
+625,Deviljho Gem,Deviljho Gem,mh4g-dex-build7
+626,Kirin Thunderhorn,Kirin Thunderhorn,mh4g-dex-build7
+627,Kirin Hide,Kirin Hide,mh4g-dex-build7
+628,Kirin Hide+,Kirin Hide+,mh4g-dex-build7
+629,Kirin Mane,Kirin Mane,mh4g-dex-build7
+630,Kirin Thundertail,Kirin Thundertail,mh4g-dex-build7
+631,Kirin Azure Horn,Kirin Azure Horn,mh4g-dex-build7
+632,Kirin Icehorn,Kirin Icehorn,mh4g-dex-build7
+633,Kirin Frost Tail,Kirin Frost Tail,mh4g-dex-build7
+634,Daora Scale,Daora Scale,mh4g-dex-build7
+635,Daora Carapace,Daora Carapace,mh4g-dex-build7
+636,Daora Claw+,Daora Claw+,mh4g-dex-build7
+637,Daora Tail,Daora Tail,mh4g-dex-build7
+638,Daora Webbing,Daora Webbing,mh4g-dex-build7
+639,Daora Horn+,Daora Horn+,mh4g-dex-build7
+640,Daora Gem,Daora Gem,mh4g-dex-build7
+641,Teostra Carapace,Teostra Carapace,mh4g-dex-build7
+642,Teostra Mane,Teostra Mane,mh4g-dex-build7
+643,Teostra Tail,Teostra Tail,mh4g-dex-build7
+644,Teostra Horn+,Teostra Horn+,mh4g-dex-build7
+645,Fire Dragon Scale+,Fire Dragon Scale+,mh4g-dex-build7
+646,Teostra Claw+,Teostra Claw+,mh4g-dex-build7
+647,Teostra Webbing,Teostra Webbing,mh4g-dex-build7
+648,Teostra Powder,Teostra Powder,mh4g-dex-build7
+649,Teostra Gem,Teostra Gem,mh4g-dex-build7
+650,D.Mohran Shell,D.Mohran Shell,mh4g-dex-build7
+651,D.Mohran Carapace,D.Mohran Carapace,mh4g-dex-build7
+652,D.Mohran Bloodscale,D.Mohran Bloodscale,mh4g-dex-build7
+653,D.Mohran Bloodscale+,D.Mohran Bloodscale+,mh4g-dex-build7
+654,D.Mohran Brace,D.Mohran Brace,mh4g-dex-build7
+655,D.Mohran Brace+,D.Mohran Brace+,mh4g-dex-build7
+656,Brutal Horn,Brutal Horn,mh4g-dex-build7
+657,Brutal Horn+,Brutal Horn+,mh4g-dex-build7
+658,Dah'renstone,Dah'renstone,mh4g-dex-build7
+659,Earth Dragongem,Earth Dragongem,mh4g-dex-build7
+660,Akantor Scale+,Akantor Scale+,mh4g-dex-build7
+661,Akantor Carapace,Akantor Carapace,mh4g-dex-build7
+662,Akantor Tail,Akantor Tail,mh4g-dex-build7
+663,Akantor Hardclaw,Akantor Hardclaw,mh4g-dex-build7
+664,Akantor Tallfang,Akantor Tallfang,mh4g-dex-build7
+665,Akantor Spike,Akantor Spike,mh4g-dex-build7
+666,Akantor Gem,Akantor Gem,mh4g-dex-build7
+667,Fatalis Horn,Fatalis Horn,mh4g-dex-build7
+668,Fatalis Scale,Fatalis Scale,mh4g-dex-build7
+669,Fatalis Shell,Fatalis Shell,mh4g-dex-build7
+670,Fatalis Eye,Fatalis Eye,mh4g-dex-build7
+671,Fatalis Webbing,Fatalis Webbing,mh4g-dex-build7
+672,Fatalis Bloodhorn,Fatalis Bloodhorn,mh4g-dex-build7
+673,Fatalis Bloodscale,Fatalis Bloodscale,mh4g-dex-build7
+674,Fatalis Bloodshell,Fatalis Bloodshell,mh4g-dex-build7
+675,Fatalis Devileye,Fatalis Devileye,mh4g-dex-build7
+676,Fatalis Bloodwing,Fatalis Bloodwing,mh4g-dex-build7
+677,Dalamadur Steel,Dalamadur Steel,mh4g-dex-build7
+678,Dalam Tail Scale,Dalam Tail Scale,mh4g-dex-build7
+679,Dalamadur Gazer,Dalamadur Gazer,mh4g-dex-build7
+680,Dalamadur Pectus,Dalamadur Pectus,mh4g-dex-build7
+681,Dalamadur Glaive,Dalamadur Glaive,mh4g-dex-build7
+682,Dalamadur Talon,Dalamadur Talon,mh4g-dex-build7
+683,Dalam Tail Shell,Dalam Tail Shell,mh4g-dex-build7
+684,Dalamadur Fanblade,Dalamadur Fanblade,mh4g-dex-build7
+685,Vortex Bone,Vortex Bone,mh4g-dex-build7
+686,Skyblade Gem,Skyblade Gem,mh4g-dex-build7
+687,Shattered Omen,Shattered Omen,mh4g-dex-build7
+688,Frenzy Shard,Frenzy Shard,mh4g-dex-build7
+689,Frenzy Crystal,Frenzy Crystal,mh4g-dex-build7
+690,Vile Frenzy Crystal,Vile Frenzy Crystal,mh4g-dex-build7
+691,Small Lobstershell,Small Lobstershell,mh4g-dex-build7
+692,Lobster Tail Fan,Lobster Tail Fan,mh4g-dex-build7
+693,Plesioth Scale,Plesioth Scale,mh4g-dex-build7
+694,Plesioth Fin,Plesioth Fin,mh4g-dex-build7
+695,Arzuros Shell,Arzuros Shell,mh4g-dex-build7
+696,Arzuros Pelt,Arzuros Pelt,mh4g-dex-build7
+697,Royal Ludroth Claw,Royal Ludroth Claw,mh4g-dex-build7
+698,Spongy Hide,Spongy Hide,mh4g-dex-build7
+699,Vivid Feather,Vivid Feather,mh4g-dex-build7
+700,Strange Beak,Strange Beak,mh4g-dex-build7
+701,Barroth Shell,Barroth Shell,mh4g-dex-build7
+702,Barroth Scalp,Barroth Scalp,mh4g-dex-build7
+703,Nibelsnarf Hide,Nibelsnarf Hide,mh4g-dex-build7
+704,Vivid Fluid,Vivid Fluid,mh4g-dex-build7
+705,Ceanataur Shell,Ceanataur Shell,mh4g-dex-build7
+706,Ceanataur Pincer,Ceanataur Pincer,mh4g-dex-build7
+707,Uragaan Marrow,Uragaan Marrow,mh4g-dex-build7
+708,Uragaan Scute,Uragaan Scute,mh4g-dex-build7
+709,Nargacuga Blackfur,Nargacuga Blackfur,mh4g-dex-build7
+710,Nargacuga Marrow,Nargacuga Marrow,mh4g-dex-build7
+711,Nargacuga Cutwing,Nargacuga Cutwing,mh4g-dex-build7
+712,Duramboros Mossplate,Duramboros Mossplate,mh4g-dex-build7
+713,Duramboros Horn,Duramboros Horn,mh4g-dex-build7
+714,Lavasioth Scale,Lavasioth Scale,mh4g-dex-build7
+715,Lavasioth Fin,Lavasioth Fin,mh4g-dex-build7
+716,Diablos Shell,Diablos Shell,mh4g-dex-build7
+717,Majestic Horn,Majestic Horn,mh4g-dex-build7
+718,Lao-Shan Shell,Lao-Shan Shell,mh4g-dex-build7
+719,Lao-Shan Claw,Lao-Shan Claw,mh4g-dex-build7
+720,Lao-Shan Horn,Lao-Shan Horn,mh4g-dex-build7
+721,Vespoid Innerwing,Vespoid Innerwing,mh4g-dex-build7
+722,Cephalos Fin+,Cephalos Fin+,mh4g-dex-build7
+723,Cephalos Scale+,Cephalos Scale+,mh4g-dex-build7
+724,Hermitaur Carapace,Hermitaur Carapace,mh4g-dex-build7
+725,Hermitaur Claw+,Hermitaur Claw+,mh4g-dex-build7
+726,Gobul Hide+,Gobul Hide+,mh4g-dex-build7
+727,Gobul Spike+,Gobul Spike+,mh4g-dex-build7
+728,Volvidon Carapace,Volvidon Carapace,mh4g-dex-build7
+729,Amber Tusks+,Amber Tusks+,mh4g-dex-build7
+730,Barioth Pelt+,Barioth Pelt+,mh4g-dex-build7
+731,Blangonga Pelt+,Blangonga Pelt+,mh4g-dex-build7
+732,Blangonga Whisker,Blangonga Whisker,mh4g-dex-build7
+733,Blangonga Fang+,Blangonga Fang+,mh4g-dex-build7
+734,Shell Shocker+,Shell Shocker+,mh4g-dex-build7
+735,Lagiacrus Sapphire,Lagiacrus Sapphire,mh4g-dex-build7
+736,Agnaktor Carapace,Agnaktor Carapace,mh4g-dex-build7
+737,Agnaktor Fin+,Agnaktor Fin+,mh4g-dex-build7
+738,Lunastra Carapace,Lunastra Carapace,mh4g-dex-build7
+739,Lunastra Mane,Lunastra Mane,mh4g-dex-build7
+740,Chameleos Hide+,Chameleos Hide+,mh4g-dex-build7
+741,Chameleos Gem,Chameleos Gem,mh4g-dex-build7
+742,Chameleos Tail,Chameleos Tail,mh4g-dex-build7
+743,Tsukami Fluid,Tsukami Fluid,mh4g-dex-build7
+744,Dragonwood+,Dragonwood+,mh4g-dex-build7
+745,Dragonmoss+,Dragonmoss+,mh4g-dex-build7
+746,Ukanlos Shoveljaw,Ukanlos Shoveljaw,mh4g-dex-build7
+747,Ukanlos Carapace,Ukanlos Carapace,mh4g-dex-build7
+748,Ukanlos Gem,Ukanlos Gem,mh4g-dex-build7
+749,Gaoren Pincer,Gaoren Pincer,mh4g-dex-build7
+750,Gaoren Thoracic,Gaoren Thoracic,mh4g-dex-build7
+751,Gaoren Claw+,Gaoren Claw+,mh4g-dex-build7
+752,Ceadeus Hide,Ceadeus Hide,mh4g-dex-build7
+753,Crooked Horn,Crooked Horn,mh4g-dex-build7
+754,Luminous Organ,Luminous Organ,mh4g-dex-build7
+755,Alatreon Plate,Alatreon Plate,mh4g-dex-build7
+756,Alatreon Webbing,Alatreon Webbing,mh4g-dex-build7
+757,Skypiercer,Skypiercer,mh4g-dex-build7
+758,Rustshard,Rustshard,mh4g-dex-build7
+759,Ancient Shard,Ancient Shard,mh4g-dex-build7
+760,Rusted Fragment,Rusted Fragment,mh4g-dex-build7
+761,Ancient Fragment,Ancient Fragment,mh4g-dex-build7
+762,Battered Weapon,Battered Weapon,mh4g-dex-build7
+763,Battered Armor,Battered Armor,mh4g-dex-build7
+764,Seasoned Weapon,Seasoned Weapon,mh4g-dex-build7
+765,Seasoned Armor,Seasoned Armor,mh4g-dex-build7
+766,Venerable Weapon,Venerable Weapon,mh4g-dex-build7
+767,Venerable Armor,Venerable Armor,mh4g-dex-build7
+768,Map,Map,mh4g-dex-build7
+769,First-aid Med,First-aid Med,mh4g-dex-build7
+770,First-aid Med+,First-aid Med+,mh4g-dex-build7
+771,Ration,Ration,mh4g-dex-build7
+772,Portable Spit,Portable Spit,mh4g-dex-build7
+773,Mini Whetstone,Mini Whetstone,mh4g-dex-build7
+774,EZ Shock Trap,EZ Shock Trap,mh4g-dex-build7
+775,EZ Flash Bomb,EZ Flash Bomb,mh4g-dex-build7
+776,EZ Sonic Bomb,EZ Sonic Bomb,mh4g-dex-build7
+777,EZ Max Potion,EZ Max Potion,mh4g-dex-build7
+778,EZ Pitfall Trap,EZ Pitfall Trap,mh4g-dex-build7
+779,EZ Barrel Bomb L,EZ Barrel Bomb L,mh4g-dex-build7
+780,Ballista Ammo,Ballista Ammo,mh4g-dex-build7
+781,Ballista Binder,Ballista Binder,mh4g-dex-build7
+782,One-shot Binder,One-shot Binder,mh4g-dex-build7
+783,Cannon Ammo,Cannon Ammo,mh4g-dex-build7
+784,Anti-dragon Bomb,Anti-dragon Bomb,mh4g-dex-build7
+785,Torch,Torch,mh4g-dex-build7
+786,Paw Pass Ticket,Paw Pass Ticket,mh4g-dex-build7
+787,Unique Mushroom,Unique Mushroom,mh4g-dex-build7
+788,Choice Mushroom,Choice Mushroom,mh4g-dex-build7
+789,Ripened Mushroom,Ripened Mushroom,mh4g-dex-build7
+790,Goldenfish,Goldenfish,mh4g-dex-build7
+791,Silverfish,Silverfish,mh4g-dex-build7
+792,Royal Rhino,Royal Rhino,mh4g-dex-build7
+793,Sulfur Crystal,Sulfur Crystal,mh4g-dex-build7
+794,Auristone Chunk,Auristone Chunk,mh4g-dex-build7
+795,Crystal Bone,Crystal Bone,mh4g-dex-build7
+796,Bloodstone,Bloodstone,mh4g-dex-build7
+797,Coal,Coal,mh4g-dex-build7
+798,Fossilized Bone,Fossilized Bone,mh4g-dex-build7
+799,Mistentoe,Mistentoe,mh4g-dex-build7
+800,Decayed Scale,Decayed Scale,mh4g-dex-build7
+801,Tiny Spall,Tiny Spall,mh4g-dex-build7
+802,Lucky Spall,Lucky Spall,mh4g-dex-build7
+803,Miracle Spall,Miracle Spall,mh4g-dex-build7
+804,White Liver,White Liver,mh4g-dex-build7
+805,Slagtoth Oil,Slagtoth Oil,mh4g-dex-build7
+806,Secret Stash,Secret Stash,mh4g-dex-build7
+807,Round Acorn,Round Acorn,mh4g-dex-build7
+808,Fine Stomach,Fine Stomach,mh4g-dex-build7
+809,Luminous Stomach,Luminous Stomach,mh4g-dex-build7
+810,Monster Guts,Monster Guts,mh4g-dex-build7
+811,Popo Tongue,Popo Tongue,mh4g-dex-build7
+812,Gargwa Egg,Gargwa Egg,mh4g-dex-build7
+813,Gold Gargwa Egg,Gold Gargwa Egg,mh4g-dex-build7
+814,Wyvern Egg,Wyvern Egg,mh4g-dex-build7
+815,Herbivore Egg,Herbivore Egg,mh4g-dex-build7
+816,Sootstone Ore,Sootstone Ore,mh4g-dex-build7
+817,Powderstone,Powderstone,mh4g-dex-build7
+818,Gargwa Guano,Gargwa Guano,mh4g-dex-build7
+819,Territorial Dung,Territorial Dung,mh4g-dex-build7
+820,Territorial Dung+,Territorial Dung+,mh4g-dex-build7
+821,Drone Substance,Drone Substance,mh4g-dex-build7
+822,Queen Substance,Queen Substance,mh4g-dex-build7
+823,Toad Tear,Toad Tear,mh4g-dex-build7
+824,Large Toad Tear,Large Toad Tear,mh4g-dex-build7
+825,Wyvern Tear,Wyvern Tear,mh4g-dex-build7
+826,Large Wyvern Tear,Large Wyvern Tear,mh4g-dex-build7
+827,Beast Tear,Beast Tear,mh4g-dex-build7
+828,Large Beast Tear,Large Beast Tear,mh4g-dex-build7
+829,Dragon Treasure,Dragon Treasure,mh4g-dex-build7
+830,Old Dragon Treasure,Old Dragon Treasure,mh4g-dex-build7
+831,Pinnacle Coin,Pinnacle Coin,mh4g-dex-build7
+832,Hunter King Coin,Hunter King Coin,mh4g-dex-build7
+833,Ace Hunter Coin,Ace Hunter Coin,mh4g-dex-build7
+834,Beast Coin,Beast Coin,mh4g-dex-build7
+835,Flying Coin,Flying Coin,mh4g-dex-build7
+836,Bird Coin,Bird Coin,mh4g-dex-build7
+837,Fang Coin,Fang Coin,mh4g-dex-build7
+838,Brute Coin,Brute Coin,mh4g-dex-build7
+839,Vermin Coin,Vermin Coin,mh4g-dex-build7
+840,Toad Coin,Toad Coin,mh4g-dex-build7
+842,Voucher,Voucher,mh4g-dex-build7
+843,Gourmet Voucher,Gourmet Voucher,mh4g-dex-build7
+844,Studio Pass,Studio Pass,mh4g-dex-build7
+845,[JP] Treasury J Ticket,[JP] Treasury J Ticket,mh4g-dex-build7
+846,[JP] 50 Belly Wanted Poster,[JP] 50 Belly Wanted Poster,mh4g-dex-build7
+847,[JP] Kerron Star,[JP] Kerron Star,mh4g-dex-build7
+848,[JP] Magazine Ticket,[JP] Magazine Ticket,mh4g-dex-build7
+849,[JP] Armament Invitation,[JP] Armament Invitation,mh4g-dex-build7
+850,[JP] Famitsu Ticket,[JP] Famitsu Ticket,mh4g-dex-build7
+851,[JP] Ancient Demon Fang,[JP] Ancient Demon Fang,mh4g-dex-build7
+852,Fan Club Invite,Fan Club Invite,mh4g-dex-build7
+853,Monqlo Ticket,Monqlo Ticket,mh4g-dex-build7
+854,Gold Studio Pass,Gold Studio Pass,mh4g-dex-build7
+855,Platinum Pass,Platinum Pass,mh4g-dex-build7
+856,[JP] Pirate J Ticket,[JP] Pirate J Ticket,mh4g-dex-build7
+857,Amulet Keepsake,Amulet Keepsake,mh4g-dex-build7
+858,[JP] Legend J Pirate Hat,[JP] Legend J Pirate Hat,mh4g-dex-build7
+859,[JP] 100m+ Wanted Poster,[JP] 100m+ Wanted Poster,mh4g-dex-build7
+860,Interpol Badge,Interpol Badge,mh4g-dex-build7
+861,Val Habar Ticket,Val Habar Ticket,mh4g-dex-build7
+862,[JP] Hades Stardust,[JP] Hades Stardust,mh4g-dex-build7
+863,Goddess's Melody,Goddess's Melody,mh4g-dex-build7
+864,Goddess's Embrace,Goddess's Embrace,mh4g-dex-build7
+865,[JP] Chivalrous Artwork,[JP] Chivalrous Artwork,mh4g-dex-build7
+866,Uniqlo Ticket,Uniqlo Ticket,mh4g-dex-build7
+867,[JP] Enbure Ticket,[JP] Enbure Ticket,mh4g-dex-build7
+868,[JP] Sunday Ticket,[JP] Sunday Ticket,mh4g-dex-build7
+869,[JP] Ezono Ticket,[JP] Ezono Ticket,mh4g-dex-build7
+870,Anklet Memento,Anklet Memento,mh4g-dex-build7
+871,[JP] Dengeki Ticket,[JP] Dengeki Ticket,mh4g-dex-build7
+872,[JP] Dengeki G Ticket,[JP] Dengeki G Ticket,mh4g-dex-build7
+873,[JP] Capcom MH Sp. Issue,[JP] Capcom MH Sp. Issue,mh4g-dex-build7
+874,Fan Club Certificate,Fan Club Certificate,mh4g-dex-build7
+875,Triforce,Triforce,mh4g-dex-build7
+876,Goddess's Fire,Goddess's Fire,mh4g-dex-build7
+877,Super Mushroom,Super Mushroom,mh4g-dex-build7
+879,D.Mohran Ticket,D.Mohran Ticket,mh4g-dex-build7
+881,Dalamadur Ticket,Dalamadur Ticket,mh4g-dex-build7
+882,Rajang Ticket,Rajang Ticket,mh4g-dex-build7
+883,Gore Magala Ticket,Gore Magala Ticket,mh4g-dex-build7
+884,Viper & Toad Ticket,Viper & Toad Ticket,mh4g-dex-build7
+885,Oroshi Kirin Ticket,Oroshi Kirin Ticket,mh4g-dex-build7
+886,Commendation,Commendation,mh4g-dex-build7
+887,Commendation G,Commendation G,mh4g-dex-build7
+888,Accolade,Accolade,mh4g-dex-build7
+889,Accolade G,Accolade G,mh4g-dex-build7
+890,Caravan Ticket,Caravan Ticket,mh4g-dex-build7
+891,Palico Ticket,Palico Ticket,mh4g-dex-build7
+892,Meownster Ticket,Meownster Ticket,mh4g-dex-build7
+893,Quester's Ticket,Quester's Ticket,mh4g-dex-build7
+894,Kushala Daora Ticket,Kushala Daora Ticket,mh4g-dex-build7
+895,Teostra Ticket,Teostra Ticket,mh4g-dex-build7
+896,Pawprint Stamp,Pawprint Stamp,mh4g-dex-build7
+897,VE Ticket,VE Ticket,mh4g-dex-build7
+898,VE Deluxe Ticket,VE Deluxe Ticket,mh4g-dex-build7
+899,VE Bronze Ticket,VE Bronze Ticket,mh4g-dex-build7
+900,VE Silver Ticket,VE Silver Ticket,mh4g-dex-build7
+901,VE Golden Ticket,VE Golden Ticket,mh4g-dex-build7
+902,Humble Scrap,Humble Scrap,mh4g-dex-build7
+903,Handsome Scrap,Handsome Scrap,mh4g-dex-build7
+904,Gargwa Scrap,Gargwa Scrap,mh4g-dex-build7
+905,Arzuros Scrap,Arzuros Scrap,mh4g-dex-build7
+906,Kecha Wacha Scrap,Kecha Wacha Scrap,mh4g-dex-build7
+907,Yian Kut-Ku Scrap,Yian Kut-Ku Scrap,mh4g-dex-build7
+908,Bnahabra Scrap,Bnahabra Scrap,mh4g-dex-build7
+909,Bulldrome Scrap,Bulldrome Scrap,mh4g-dex-build7
+910,Rhenoplos Scrap,Rhenoplos Scrap,mh4g-dex-build7
+911,Great Jaggi Scrap,Great Jaggi Scrap,mh4g-dex-build7
+912,Nerscylla Scrap,Nerscylla Scrap,mh4g-dex-build7
+913,Qurupeco Scrap,Qurupeco Scrap,mh4g-dex-build7
+914,Zamtrios Scrap,Zamtrios Scrap,mh4g-dex-build7
+915,Lagombi Scrap,Lagombi Scrap,mh4g-dex-build7
+916,Tetsucabra Scrap,Tetsucabra Scrap,mh4g-dex-build7
+917,Barroth Scrap,Barroth Scrap,mh4g-dex-build7
+918,Slagtoth Scrap,Slagtoth Scrap,mh4g-dex-build7
+919,Volvidon Scrap,Volvidon Scrap,mh4g-dex-build7
+920,Tigrex Scrap,Tigrex Scrap,mh4g-dex-build7
+921,Great Baggi Scrap,Great Baggi Scrap,mh4g-dex-build7
+922,Nibelsnarf Scrap,Nibelsnarf Scrap,mh4g-dex-build7
+923,Seltas Queen Scrap,Seltas Queen Scrap,mh4g-dex-build7
+924,Uragaan Scrap,Uragaan Scrap,mh4g-dex-build7
+925,Great Wroggi Scrap,Great Wroggi Scrap,mh4g-dex-build7
+926,Diablos Scrap,Diablos Scrap,mh4g-dex-build7
+927,Rathian Scrap,Rathian Scrap,mh4g-dex-build7
+928,Khezu Scrap,Khezu Scrap,mh4g-dex-build7
+929,Duramboros Scrap,Duramboros Scrap,mh4g-dex-build7
+930,Zinogre Scrap,Zinogre Scrap,mh4g-dex-build7
+931,Nargacuga Scrap,Nargacuga Scrap,mh4g-dex-build7
+932,Rathalos Scrap,Rathalos Scrap,mh4g-dex-build7
+933,Agnaktor Scrap,Agnaktor Scrap,mh4g-dex-build7
+934,Najarala Scrap,Najarala Scrap,mh4g-dex-build7
+935,Gore Magala Scrap,Gore Magala Scrap,mh4g-dex-build7
+936,Shagaru Magala Scrap,Shagaru Magala Scrap,mh4g-dex-build7
+937,Teostra Scrap,Teostra Scrap,mh4g-dex-build7
+938,Deviljho Scrap,Deviljho Scrap,mh4g-dex-build7
+939,Akantor Scrap,Akantor Scrap,mh4g-dex-build7
+940,Alatreon Scrap,Alatreon Scrap,mh4g-dex-build7
+941,Kushala Daora Scrap,Kushala Daora Scrap,mh4g-dex-build7
+942,Ukanlos Scrap,Ukanlos Scrap,mh4g-dex-build7
+943,Kirin Scrap,Kirin Scrap,mh4g-dex-build7
+944,Gigginox Scrap,Gigginox Scrap,mh4g-dex-build7
+945,Rajang Scrap,Rajang Scrap,mh4g-dex-build7
+946,Brach Scrap,Brach Scrap,mh4g-dex-build7
+947,Barioth Scrap,Barioth Scrap,mh4g-dex-build7
+948,Amatsu Scrap,Amatsu Scrap,mh4g-dex-build7
+949,Dah'ren Mohran Scrap,Dah'ren Mohran Scrap,mh4g-dex-build7
+950,Jhen Mohran Scrap,Jhen Mohran Scrap,mh4g-dex-build7
+951,Dalamadur Scrap,Dalamadur Scrap,mh4g-dex-build7
+952,Royal Ludroth Scrap,Royal Ludroth Scrap,mh4g-dex-build7
+953,Plesioth Scrap,Plesioth Scrap,mh4g-dex-build7
+954,Lagiacrus Scrap,Lagiacrus Scrap,mh4g-dex-build7
+955,Aquaglow Jewel,Aquaglow Jewel,mh4g-dex-build7
+956,Sunspire Jewel,Sunspire Jewel,mh4g-dex-build7
+957,Bloodrun Jewel,Bloodrun Jewel,mh4g-dex-build7
+958,Lazurite Jewel,Lazurite Jewel,mh4g-dex-build7
+959,Adamant Orb,Adamant Orb,mh4g-dex-build7
+960,Antidote Jewel 1,Antidote Jewel 1,mh4g-dex-build7
+961,Antidote Jewel 2,Antidote Jewel 2,mh4g-dex-build7
+962,Paralysis Jwl 1,Paralysis Jwl 1,mh4g-dex-build7
+963,Paralysis Jwl 2,Paralysis Jwl 2,mh4g-dex-build7
+964,Pep Jewel 1,Pep Jewel 1,mh4g-dex-build7
+965,Pep Jewel 2,Pep Jewel 2,mh4g-dex-build7
+966,Steadfast Jwl 1,Steadfast Jwl 1,mh4g-dex-build7
+967,Standfast Jwl 1,Standfast Jwl 1,mh4g-dex-build7
+968,Tracker Jewel 1,Tracker Jewel 1,mh4g-dex-build7
+969,Trekker Jewel 1,Trekker Jewel 1,mh4g-dex-build7
+970,Ninja Jewel 1,Ninja Jewel 1,mh4g-dex-build7
+971,Vitality Jewel 1,Vitality Jewel 1,mh4g-dex-build7
+972,Recovery Jewel 1,Recovery Jewel 1,mh4g-dex-build7
+973,Recovery Jewel 2,Recovery Jewel 2,mh4g-dex-build7
+974,Razor Jewel 1,Razor Jewel 1,mh4g-dex-build7
+975,Razor Jewel 3,Razor Jewel 3,mh4g-dex-build7
+976,Handicraft Jwl 2,Handicraft Jwl 2,mh4g-dex-build7
+977,Handicraft Jwl 3,Handicraft Jwl 3,mh4g-dex-build7
+978,Fencer Jewel 1,Fencer Jewel 1,mh4g-dex-build7
+979,Fencer Jewel 3,Fencer Jewel 3,mh4g-dex-build7
+980,Expert Jewel 1,Expert Jewel 1,mh4g-dex-build7
+981,Expert Jewel 2,Expert Jewel 2,mh4g-dex-build7
+982,Expert Jewel 3,Expert Jewel 3,mh4g-dex-build7
+983,Grinder Jewel 1,Grinder Jewel 1,mh4g-dex-build7
+984,Ironwall Jewel 1,Ironwall Jewel 1,mh4g-dex-build7
+985,Ironwall Jewel 2,Ironwall Jewel 2,mh4g-dex-build7
+986,Shield Jewel 1,Shield Jewel 1,mh4g-dex-build7
+987,Shield Jewel 2,Shield Jewel 2,mh4g-dex-build7
+988,Quickload Jwl 1,Quickload Jwl 1,mh4g-dex-build7
+989,Quickload Jwl 2,Quickload Jwl 2,mh4g-dex-build7
+990,Absorber Jewel 1,Absorber Jewel 1,mh4g-dex-build7
+991,Absorber Jewel 3,Absorber Jewel 3,mh4g-dex-build7
+992,Forceshot Jwl 1,Forceshot Jwl 1,mh4g-dex-build7
+993,Forceshot Jwl 3,Forceshot Jwl 3,mh4g-dex-build7
+994,Pierce Jewel 1,Pierce Jewel 1,mh4g-dex-build7
+995,Pierce Jewel 3,Pierce Jewel 3,mh4g-dex-build7
+996,Pellet Jewel 1,Pellet Jewel 1,mh4g-dex-build7
+997,Pellet Jewel 3,Pellet Jewel 3,mh4g-dex-build7
+998,ShotPlus Jewel 1,ShotPlus Jewel 1,mh4g-dex-build7
+999,ShotPlus Jewel 2,ShotPlus Jewel 2,mh4g-dex-build7
+1000,PiercePlus Jwl 1,PiercePlus Jwl 1,mh4g-dex-build7
+1001,PelletPlus Jwl 1,PelletPlus Jwl 1,mh4g-dex-build7
+1002,CragPlus Jewel 1,CragPlus Jewel 1,mh4g-dex-build7
+1003,ClustPlus Jwl 1,ClustPlus Jwl 1,mh4g-dex-build7
+1004,Disabler Jewel 1,Disabler Jewel 1,mh4g-dex-build7
+1005,Disabler Jewel 2,Disabler Jewel 2,mh4g-dex-build7
+1006,Element Jewel 1,Element Jewel 1,mh4g-dex-build7
+1007,Element Jewel 3,Element Jewel 3,mh4g-dex-build7
+1008,Bombardier Jwl 1,Bombardier Jwl 1,mh4g-dex-build7
+1009,Hungerless Jwl 1,Hungerless Jwl 1,mh4g-dex-build7
+1010,Metabolism Jwl 1,Metabolism Jwl 1,mh4g-dex-build7
+1011,Attack Jewel 1,Attack Jewel 1,mh4g-dex-build7
+1012,Attack Jewel 2,Attack Jewel 2,mh4g-dex-build7
+1013,Attack Jewel 3,Attack Jewel 3,mh4g-dex-build7
+1014,Defense Jewel 1,Defense Jewel 1,mh4g-dex-build7
+1015,Defense Jewel 2,Defense Jewel 2,mh4g-dex-build7
+1016,Protection Jwl 1,Protection Jwl 1,mh4g-dex-build7
+1017,Asylum Jewel 1,Asylum Jewel 1,mh4g-dex-build7
+1018,Earplug Jewel 1,Earplug Jewel 1,mh4g-dex-build7
+1019,Earplug Jewel 3,Earplug Jewel 3,mh4g-dex-build7
+1020,Alarm Jewel 1,Alarm Jewel 1,mh4g-dex-build7
+1021,Friendship Jwl 1,Friendship Jwl 1,mh4g-dex-build7
+1022,Friendship Jwl 2,Friendship Jwl 2,mh4g-dex-build7
+1023,Transportr Jwl 1,Transportr Jwl 1,mh4g-dex-build7
+1024,Fire Res Jewel 1,Fire Res Jewel 1,mh4g-dex-build7
+1025,Water Res Jwl 1,Water Res Jwl 1,mh4g-dex-build7
+1026,Ice Res Jewel 1,Ice Res Jewel 1,mh4g-dex-build7
+1027,ThunderRes Jwl 1,ThunderRes Jwl 1,mh4g-dex-build7
+1028,Dragon Res Jwl 1,Dragon Res Jwl 1,mh4g-dex-build7
+1029,Heat Res Jewel 1,Heat Res Jewel 1,mh4g-dex-build7
+1030,Cold Res Jewel 1,Cold Res Jewel 1,mh4g-dex-build7
+1031,Wind Res Jewel 1,Wind Res Jewel 1,mh4g-dex-build7
+1032,Wind Res Jewel 2,Wind Res Jewel 2,mh4g-dex-build7
+1033,Gathering Jwl 1,Gathering Jwl 1,mh4g-dex-build7
+1034,Spree Jewel 1,Spree Jewel 1,mh4g-dex-build7
+1035,Blessing Jewel 1,Blessing Jewel 1,mh4g-dex-build7
+1036,Fate Jewel 1,Fate Jewel 1,mh4g-dex-build7
+1037,Fate Jewel 3,Fate Jewel 3,mh4g-dex-build7
+1038,Psychic Jewel 1,Psychic Jewel 1,mh4g-dex-build7
+1039,Medicine Jewel 1,Medicine Jewel 1,mh4g-dex-build7
+1040,Medicine Jewel 2,Medicine Jewel 2,mh4g-dex-build7
+1041,Professor Jwl 1,Professor Jwl 1,mh4g-dex-build7
+1042,Factory Jewel 1,Factory Jewel 1,mh4g-dex-build7
+1043,Evasion Jewel 1,Evasion Jewel 1,mh4g-dex-build7
+1044,Evasion Jewel 2,Evasion Jewel 2,mh4g-dex-build7
+1045,Potential Jwl 1,Potential Jwl 1,mh4g-dex-build7
+1046,Potential Jwl 2,Potential Jwl 2,mh4g-dex-build7
+1047,Enduring Jewel 1,Enduring Jewel 1,mh4g-dex-build7
+1048,Sprinter Jewel 1,Sprinter Jewel 1,mh4g-dex-build7
+1049,Sprinter Jewel 3,Sprinter Jewel 3,mh4g-dex-build7
+1050,Capacity Jewel 2,Capacity Jewel 2,mh4g-dex-build7
+1051,Capacity Jewel 3,Capacity Jewel 3,mh4g-dex-build7
+1052,Sniper Jewel 1,Sniper Jewel 1,mh4g-dex-build7
+1053,Gobbler Jewel 1,Gobbler Jewel 1,mh4g-dex-build7
+1054,Gobbler Jewel 3,Gobbler Jewel 3,mh4g-dex-build7
+1055,Carver Jewel 1,Carver Jewel 1,mh4g-dex-build7
+1056,Carver Jewel 3,Carver Jewel 3,mh4g-dex-build7
+1057,Footing Jewel 1,Footing Jewel 1,mh4g-dex-build7
+1058,Tectonic Jewel 1,Tectonic Jewel 1,mh4g-dex-build7
+1059,Jumping Jewel 1,Jumping Jewel 1,mh4g-dex-build7
+1060,Draw Jewel 1,Draw Jewel 1,mh4g-dex-build7
+1061,Draw Jewel 2,Draw Jewel 2,mh4g-dex-build7
+1062,Trapmaster Jwl 1,Trapmaster Jwl 1,mh4g-dex-build7
+1063,Physique Jewel 1,Physique Jewel 1,mh4g-dex-build7
+1064,Physique Jewel 2,Physique Jewel 2,mh4g-dex-build7
+1065,Capture Jewel 1,Capture Jewel 1,mh4g-dex-build7
+1066,Capture Jewel 3,Capture Jewel 3,mh4g-dex-build7
+1067,Perception Jwl 1,Perception Jwl 1,mh4g-dex-build7
+1068,Charger Jewel 1,Charger Jewel 1,mh4g-dex-build7
+1069,Charger Jewel 3,Charger Jewel 3,mh4g-dex-build7
+1070,Gambit Jewel 1,Gambit Jewel 1,mh4g-dex-build7
+1071,Gambit Jewel 3,Gambit Jewel 3,mh4g-dex-build7
+1072,Resistor Jewel 1,Resistor Jewel 1,mh4g-dex-build7
+1073,Release Jewel 2,Release Jewel 2,mh4g-dex-build7
+1074,Catalyst Jewel 3,Catalyst Jewel 3,mh4g-dex-build7
+1075,Fortitude Jwl 1,Fortitude Jwl 1,mh4g-dex-build7
+1076,Fortitude Jwl 2,Fortitude Jwl 2,mh4g-dex-build7
+1077,Salvo Jewel 1,Salvo Jewel 1,mh4g-dex-build7
+1078,Salvo Jewel 3,Salvo Jewel 3,mh4g-dex-build7
+1079,Torchlight Jwl 1,Torchlight Jwl 1,mh4g-dex-build7
+1080,Def Lock Jewel 1,Def Lock Jewel 1,mh4g-dex-build7
+1081,Blaze Jewel 1,Blaze Jewel 1,mh4g-dex-build7
+1082,Blaze Jewel 2,Blaze Jewel 2,mh4g-dex-build7
+1083,Stream Jewel 1,Stream Jewel 1,mh4g-dex-build7
+1084,Stream Jewel 2,Stream Jewel 2,mh4g-dex-build7
+1085,Bolt Jewel 1,Bolt Jewel 1,mh4g-dex-build7
+1086,Bolt Jewel 2,Bolt Jewel 2,mh4g-dex-build7
+1087,Frost Jewel 1,Frost Jewel 1,mh4g-dex-build7
+1088,Frost Jewel 2,Frost Jewel 2,mh4g-dex-build7
+1089,Dragon Jewel 1,Dragon Jewel 1,mh4g-dex-build7
+1090,Dragon Jewel 2,Dragon Jewel 2,mh4g-dex-build7
+1091,Tenderizer Jwl 1,Tenderizer Jwl 1,mh4g-dex-build7
+1092,Tenderizer Jwl 3,Tenderizer Jwl 3,mh4g-dex-build7
+1093,Destroyer Jwl 1,Destroyer Jwl 1,mh4g-dex-build7
+1094,Destroyer Jwl 3,Destroyer Jwl 3,mh4g-dex-build7
+1095,Throttle Jewel 1,Throttle Jewel 1,mh4g-dex-build7
+1096,Throttle Jewel 2,Throttle Jewel 2,mh4g-dex-build7
+1097,KO Jewel 1,KO Jewel 1,mh4g-dex-build7
+1098,Drain Jewel 1,Drain Jewel 1,mh4g-dex-build7
+1099,Drain Jewel 2,Drain Jewel 2,mh4g-dex-build7
+1100,Sonorous Jewel 1,Sonorous Jewel 1,mh4g-dex-build7
+1101,Artillery Jwl 1,Artillery Jwl 1,mh4g-dex-build7
+1102,Resistor Jewel 3,Resistor Jewel 3,mh4g-dex-build7
+1103,Nul-Fire Jewel 1,Nul-Fire Jewel 1,mh4g-dex-build7
+1104,Nul-Water Jwl 1,Nul-Water Jwl 1,mh4g-dex-build7
+1105,Nul-Thundr Jwl 1,Nul-Thundr Jwl 1,mh4g-dex-build7
+1106,Nul-Ice Jewel 1,Nul-Ice Jewel 1,mh4g-dex-build7
+1107,Nul-Dragon Jwl 1,Nul-Dragon Jwl 1,mh4g-dex-build7
+1108,Sheath Jewel 1,Sheath Jewel 1,mh4g-dex-build7
+1109,Sheath Jewel 2,Sheath Jewel 2,mh4g-dex-build7
+1110,Refresh Jewel 1,Refresh Jewel 1,mh4g-dex-build7
+1111,Refresh Jewel 2,Refresh Jewel 2,mh4g-dex-build7
+1112,Ranger Jewel 1,Ranger Jewel 1,mh4g-dex-build7
+1113,SlicePlus Jwl 1,SlicePlus Jwl 1,mh4g-dex-build7
+1114,Paracoat Jewel 1,Paracoat Jewel 1,mh4g-dex-build7
+1115,Paracoat Jewel 2,Paracoat Jewel 2,mh4g-dex-build7
+1116,Sleepcoat Jwl 1,Sleepcoat Jwl 1,mh4g-dex-build7
+1117,Poisoncoat Jwl 1,Poisoncoat Jwl 1,mh4g-dex-build7
+1118,Powercoat Jwl 1,Powercoat Jwl 1,mh4g-dex-build7
+1119,Powercoat Jwl 2,Powercoat Jwl 2,mh4g-dex-build7
+1120,Rangecoat Jwl 1,Rangecoat Jwl 1,mh4g-dex-build7
+1121,Draincoat Jwl 1,Draincoat Jwl 1,mh4g-dex-build7
+1122,Guts Jewel 1,Guts Jewel 1,mh4g-dex-build7
+1123,Guts Jewel 2,Guts Jewel 2,mh4g-dex-build7
+1124,Meateater Jwl 1,Meateater Jwl 1,mh4g-dex-build7
+1125,Meatlover Jwl 1,Meatlover Jwl 1,mh4g-dex-build7
+1126,Honeybee Jewel 1,Honeybee Jewel 1,mh4g-dex-build7
+1127,Queenbee Jewel 1,Queenbee Jewel 1,mh4g-dex-build7
+1128,Biology Jewel 1,Biology Jewel 1,mh4g-dex-build7
+1129,Microbio Jewel 1,Microbio Jewel 1,mh4g-dex-build7
+1130,Spirit Jewel 1,Spirit Jewel 1,mh4g-dex-build7
+1131,Spirit Jewel 2,Spirit Jewel 2,mh4g-dex-build7
+1132,Flawless Jewel 1,Flawless Jewel 1,mh4g-dex-build7
+1133,Flawless Jewel 2,Flawless Jewel 2,mh4g-dex-build7
+1134,Steady Jewel 1,Steady Jewel 1,mh4g-dex-build7
+1135,Steady Jewel 3,Steady Jewel 3,mh4g-dex-build7
+1136,Player Jewel 1,Player Jewel 1,mh4g-dex-build7
+1137,Morale Jewel 1,Morale Jewel 1,mh4g-dex-build7
+1138,Leader Jewel 1,Leader Jewel 1,mh4g-dex-build7
+1139,Leader Jewel 2,Leader Jewel 2,mh4g-dex-build7
+1140,KO Jewel 2,KO Jewel 2,mh4g-dex-build7
+1141,Charmer Jewel 1,Charmer Jewel 1,mh4g-dex-build7
+1142,BlastPlus Jwl 1,BlastPlus Jwl 1,mh4g-dex-build7
+1143,Blastcoat Jwl 1,Blastcoat Jwl 1,mh4g-dex-build7
+1144,Lynians,Lynians,mh4g-dex-build7
+1145,Neopterons Vol 1,Neopterons Vol 1,mh4g-dex-build7
+1146,Nerscylla,Nerscylla,mh4g-dex-build7
+1147,Seltas Queen,Seltas Queen,mh4g-dex-build7
+1148,Piscine Wyverns Vol1,Piscine Wyverns Vol1,mh4g-dex-build7
+1149,Herbivores Vol 1,Herbivores Vol 1,mh4g-dex-build7
+1150,Herbivores Vol 2,Herbivores Vol 2,mh4g-dex-build7
+1151,Bird Wyverns Vol 1,Bird Wyverns Vol 1,mh4g-dex-build7
+1152,Bird Wyverns Vol 2,Bird Wyverns Vol 2,mh4g-dex-build7
+1153,Bird Wyverns Vol 3,Bird Wyverns Vol 3,mh4g-dex-build7
+1154,Fanged Beasts Vol 1,Fanged Beasts Vol 1,mh4g-dex-build7
+1155,Fanged Beasts Vol 2,Fanged Beasts Vol 2,mh4g-dex-build7
+1156,Fanged Beasts Vol 3,Fanged Beasts Vol 3,mh4g-dex-build7
+1157,Rajang,Rajang,mh4g-dex-build7
+1158,Tetsucabra,Tetsucabra,mh4g-dex-build7
+1159,Zamtrios,Zamtrios,mh4g-dex-build7
+1160,Snake Wyverns Vol 1,Snake Wyverns Vol 1,mh4g-dex-build7
+1161,Brachydios,Brachydios,mh4g-dex-build7
+1162,Deviljho,Deviljho,mh4g-dex-build7
+1163,Flying Wyverns Vol 1,Flying Wyverns Vol 1,mh4g-dex-build7
+1164,Flying Wyverns Vol 2,Flying Wyverns Vol 2,mh4g-dex-build7
+1165,Flying Wyverns Vol 3,Flying Wyverns Vol 3,mh4g-dex-build7
+1166,Flying Wyverns Vol 4,Flying Wyverns Vol 4,mh4g-dex-build7
+1167,Flying Wyverns Vol 5,Flying Wyverns Vol 5,mh4g-dex-build7
+1168,Flying Wyverns Vol 6,Flying Wyverns Vol 6,mh4g-dex-build7
+1169,Gore Magala,Gore Magala,mh4g-dex-build7
+1170,Akantor,Akantor,mh4g-dex-build7
+1171,Fanged Wyverns Vol 1,Fanged Wyverns Vol 1,mh4g-dex-build7
+1172,Fanged Wyverns Vol 2,Fanged Wyverns Vol 2,mh4g-dex-build7
+1173,Kirin,Kirin,mh4g-dex-build7
+1174,Oroshi Kirin,Oroshi Kirin,mh4g-dex-build7
+1175,Shagaru Magala,Shagaru Magala,mh4g-dex-build7
+1176,Dah'ren Mohran,Dah'ren Mohran,mh4g-dex-build7
+1177,Kushala Daora,Kushala Daora,mh4g-dex-build7
+1178,Teostra,Teostra,mh4g-dex-build7
+1179,Dalamadur,Dalamadur,mh4g-dex-build7
+1180,Fatalis,Fatalis,mh4g-dex-build7
+1181,Honed Jwl 1,Honed Jwl 1,mh4g-dex-build7
+1182,Honed Jwl 2,Honed Jwl 2,mh4g-dex-build7
+1183,Honed Jwl 3,Honed Jwl 3,mh4g-dex-build7
+1184,True Honed Jwl 3,True Honed Jwl 3,mh4g-dex-build7
+1185,Calm Jwl 1,Calm Jwl 1,mh4g-dex-build7
+1186,Calm Jwl 2,Calm Jwl 2,mh4g-dex-build7
+1187,Calm Jwl 3,Calm Jwl 3,mh4g-dex-build7
+1188,True Calm Jwl 3,True Calm Jwl 3,mh4g-dex-build7
+1189,Hale Jwl 1,Hale Jwl 1,mh4g-dex-build7
+1190,Hale Jwl 2,Hale Jwl 2,mh4g-dex-build7
+1191,Hale Jwl 3,Hale Jwl 3,mh4g-dex-build7
+1192,True Hale Jwl 3,True Hale Jwl 3,mh4g-dex-build7
+1193,Ire Jwl 1,Ire Jwl 1,mh4g-dex-build7
+1194,Ire Jwl 2,Ire Jwl 2,mh4g-dex-build7
+1195,Ire Jwl 3,Ire Jwl 3,mh4g-dex-build7
+1196,True Ire Jwl 3,True Ire Jwl 3,mh4g-dex-build7
+1197,Nimble Jwl 1,Nimble Jwl 1,mh4g-dex-build7
+1198,True Nimble Jwl 1,True Nimble Jwl 1,mh4g-dex-build7
+1199,Nimble Jwl 2,Nimble Jwl 2,mh4g-dex-build7
+1200,Nimble Jwl 3,Nimble Jwl 3,mh4g-dex-build7
+1201,True Nimble Jwl 3,True Nimble Jwl 3,mh4g-dex-build7
+1202,Hardy Jwl 1,Hardy Jwl 1,mh4g-dex-build7
+1203,True Hardy Jwl 1,True Hardy Jwl 1,mh4g-dex-build7
+1204,Hardy Jwl 2,Hardy Jwl 2,mh4g-dex-build7
+1205,Hardy Jwl 3,Hardy Jwl 3,mh4g-dex-build7
+1206,True Hardy Jwl 3,True Hardy Jwl 3,mh4g-dex-build7
+1207,Withdrawn Jwl 1,Withdrawn Jwl 1,mh4g-dex-build7
+1208,Withdrawn Jwl 3,Withdrawn Jwl 3,mh4g-dex-build7
+1209,Impactful Jwl 1,Impactful Jwl 1,mh4g-dex-build7
+1210,Impactful Jwl 3,Impactful Jwl 3,mh4g-dex-build7
+1211,Intense Jwl 2,Intense Jwl 2,mh4g-dex-build7
+1212,Intense Jwl 3,Intense Jwl 3,mh4g-dex-build7
+1213,Aegis Jwl 2,Aegis Jwl 2,mh4g-dex-build7
+1214,Aegis Jwl 3,Aegis Jwl 3,mh4g-dex-build7
+1215,Tactful Jwl 2,Tactful Jwl 2,mh4g-dex-build7
+1216,Tactful Jwl 3,Tactful Jwl 3,mh4g-dex-build7
+1217,Broad Jwl 2,Broad Jwl 2,mh4g-dex-build7
+1218,Broad Jwl 3,Broad Jwl 3,mh4g-dex-build7
+1219,Trove Jwl 1,Trove Jwl 1,mh4g-dex-build7
+1220,True Trove Jwl 1,True Trove Jwl 1,mh4g-dex-build7
+1221,Trove Jwl 2,Trove Jwl 2,mh4g-dex-build7
+1222,True Trove Jwl 2,True Trove Jwl 2,mh4g-dex-build7
+1223,Trove Jwl 3,Trove Jwl 3,mh4g-dex-build7
+1224,Avid Jwl 1,Avid Jwl 1,mh4g-dex-build7
+1225,True Avid Jwl 1,True Avid Jwl 1,mh4g-dex-build7
+1226,Avid Jwl 2,Avid Jwl 2,mh4g-dex-build7
+1227,True Avid Jwl 2,True Avid Jwl 2,mh4g-dex-build7
+1228,Avid Jwl 3,Avid Jwl 3,mh4g-dex-build7
+1229,Power++ Nectar,Power++ Nectar,mh4g-dex-build7
+1230,Stamina++ Nectar,Stamina++ Nectar,mh4g-dex-build7
+1231,Speed++ Nectar,Speed++ Nectar,mh4g-dex-build7
+1232,Nectar: Fire++,Nectar: Fire++,mh4g-dex-build7
+1233,Nectar: Water++,Nectar: Water++,mh4g-dex-build7
+1234,Nectar: Thunder++,Nectar: Thunder++,mh4g-dex-build7
+1235,Nectar: Ice++,Nectar: Ice++,mh4g-dex-build7
+1236,Nectar: Dragon++,Nectar: Dragon++,mh4g-dex-build7
+1237,Wystone Lv1: Brace,Wystone Lv1: Brace,mh4g-dex-build7
+1238,Wystone Lv1: Element,Wystone Lv1: Element,mh4g-dex-build7
+1239,Wystone Lv1: Force,Wystone Lv1: Force,mh4g-dex-build7
+1240,Wystone Lv1: Drive,Wystone Lv1: Drive,mh4g-dex-build7
+1241,Piscine Wyverns Vol2,Piscine Wyverns Vol2,mh4g-dex-build7
+1242,Herbivores Vol 3,Herbivores Vol 3,mh4g-dex-build7
+1243,Carapaceons Vol 1,Carapaceons Vol 1,mh4g-dex-build7
+1244,Carapaceons Vol 2,Carapaceons Vol 2,mh4g-dex-build7
+1245,Neopterons Vol 2,Neopterons Vol 2,mh4g-dex-build7
+1246,Neopterons Vol 3,Neopterons Vol 3,mh4g-dex-build7
+1247,Flying Wyverns Vol 7,Flying Wyverns Vol 7,mh4g-dex-build7
+1248,Flying Wyverns Vol 8,Flying Wyverns Vol 8,mh4g-dex-build7
+1249,Seregios,Seregios,mh4g-dex-build7
+1250,Fanged Beasts Vol 4,Fanged Beasts Vol 4,mh4g-dex-build7
+1251,Amphibians,Amphibians,mh4g-dex-build7
+1252,Snake Wyverns Vol 2,Snake Wyverns Vol 2,mh4g-dex-build7
+1254,Ukanlos,Ukanlos,mh4g-dex-build7
+1255,Elder Dragons,Elder Dragons,mh4g-dex-build7
+1256,Gogmazios,Gogmazios,mh4g-dex-build7
+1257,Coinperch S,Coinperch S,mh4g-dex-build7
+1258,Coinperch M,Coinperch M,mh4g-dex-build7
+1259,Coinperch L,Coinperch L,mh4g-dex-build7
+1260,Cathangeafish Fry,Cathangeafish Fry,mh4g-dex-build7
+1261,Cathangeafish,Cathangeafish,mh4g-dex-build7
+1262,Dundorma Tuna,Dundorma Tuna,mh4g-dex-build7
+1263,Temnocerans,Temnocerans,mh4g-dex-build7
+1264,Rathian Shard,Rathian Shard,mh4g-dex-build7
+1265,Rathian Cortex,Rathian Cortex,mh4g-dex-build7
+1266,Rathian Surspike,Rathian Surspike,mh4g-dex-build7
+1267,Rathian Mantle,Rathian Mantle,mh4g-dex-build7
+1268,Rath Wingtalon+,Rath Wingtalon+,mh4g-dex-build7
+1269,P.Rathian Shard,P.Rathian Shard,mh4g-dex-build7
+1270,P.Rathian Cortex,P.Rathian Cortex,mh4g-dex-build7
+1271,G.Rathian Shard,G.Rathian Shard,mh4g-dex-build7
+1272,G.Rathian Cortex,G.Rathian Cortex,mh4g-dex-build7
+1273,G.Rath Surspike,G.Rath Surspike,mh4g-dex-build7
+1274,Firegleam Dollop,Firegleam Dollop,mh4g-dex-build7
+1275,Rathalos Shard,Rathalos Shard,mh4g-dex-build7
+1276,Rathalos Cortex,Rathalos Cortex,mh4g-dex-build7
+1277,Rathalos Lash,Rathalos Lash,mh4g-dex-build7
+1278,Rathalos Fellwing,Rathalos Fellwing,mh4g-dex-build7
+1279,Rathalos Mantle,Rathalos Mantle,mh4g-dex-build7
+1280,A.Rathalos Shard,A.Rathalos Shard,mh4g-dex-build7
+1281,A.Rathalos Cortex,A.Rathalos Cortex,mh4g-dex-build7
+1282,A.Rathalos Lash,A.Rathalos Lash,mh4g-dex-build7
+1283,S.Rathalos Shard,S.Rathalos Shard,mh4g-dex-build7
+1284,S.Rath Cortex,S.Rath Cortex,mh4g-dex-build7
+1285,S.Rath Lash,S.Rath Lash,mh4g-dex-build7
+1286,Kut-Ku Shard,Kut-Ku Shard,mh4g-dex-build7
+1287,Kut-Ku Cortex,Kut-Ku Cortex,mh4g-dex-build7
+1288,Kut-Ku Fellwing,Kut-Ku Fellwing,mh4g-dex-build7
+1289,Kut-Ku Luckear,Kut-Ku Luckear,mh4g-dex-build7
+1290,Blue Kut-Ku Shard,Blue Kut-Ku Shard,mh4g-dex-build7
+1291,Blue Kut-Ku Cortex,Blue Kut-Ku Cortex,mh4g-dex-build7
+1292,Garuga Shard,Garuga Shard,mh4g-dex-build7
+1293,Garuga Cortex,Garuga Cortex,mh4g-dex-build7
+1294,Garuga Silverpelt,Garuga Silverpelt,mh4g-dex-build7
+1295,Garuga Fellwing,Garuga Fellwing,mh4g-dex-build7
+1296,Garuga Lash,Garuga Lash,mh4g-dex-build7
+1297,Rubbery Finehide,Rubbery Finehide,mh4g-dex-build7
+1298,Gypceros Hardhead,Gypceros Hardhead,mh4g-dex-build7
+1299,Rubbery Purple Hide+,Rubbery Purple Hide+,mh4g-dex-build7
+1300,P.Gypceros Fellwing,P.Gypceros Fellwing,mh4g-dex-build7
+1301,Tigrex Shard,Tigrex Shard,mh4g-dex-build7
+1302,Tigrex Cortex,Tigrex Cortex,mh4g-dex-build7
+1303,Tigrex Hardfang,Tigrex Hardfang,mh4g-dex-build7
+1304,Tigrex Hardclaw,Tigrex Hardclaw,mh4g-dex-build7
+1305,Tigrex Lash,Tigrex Lash,mh4g-dex-build7
+1306,Tigrex Mantle,Tigrex Mantle,mh4g-dex-build7
+1307,B.Tigrex Shard,B.Tigrex Shard,mh4g-dex-build7
+1308,B.Tigrex Cortex,B.Tigrex Cortex,mh4g-dex-build7
+1309,B.Tigrex Hardfang,B.Tigrex Hardfang,mh4g-dex-build7
+1310,B.Tigrex Hardclaw,B.Tigrex Hardclaw,mh4g-dex-build7
+1311,M.Tigrex Shard,M.Tigrex Shard,mh4g-dex-build7
+1312,M.Tigrex Cortex,M.Tigrex Cortex,mh4g-dex-build7
+1313,M.Tigrex Hardfang,M.Tigrex Hardfang,mh4g-dex-build7
+1314,M.Tigrex Trigger,M.Tigrex Trigger,mh4g-dex-build7
+1315,M.Tigrex Lash,M.Tigrex Lash,mh4g-dex-build7
+1316,Dire Blastheart,Dire Blastheart,mh4g-dex-build7
+1317,Ioprey Piel,Ioprey Piel,mh4g-dex-build7
+1318,Velocidrome Hardclaw,Velocidrome Hardclaw,mh4g-dex-build7
+1319,Congalala Fur,Congalala Fur,mh4g-dex-build7
+1320,Congalala Hardclaw,Congalala Hardclaw,mh4g-dex-build7
+1321,Beastly Fang,Beastly Fang,mh4g-dex-build7
+1322,E.Congalala Fur,E.Congalala Fur,mh4g-dex-build7
+1323,E.Congalala Hardclaw,E.Congalala Hardclaw,mh4g-dex-build7
+1324,Vibrant Comb,Vibrant Comb,mh4g-dex-build7
+1325,Rajang Wildpelt,Rajang Wildpelt,mh4g-dex-build7
+1326,Rajang Hardhorn,Rajang Hardhorn,mh4g-dex-build7
+1327,Rajang Hardfang,Rajang Hardfang,mh4g-dex-build7
+1328,Rajang Hardclaw,Rajang Hardclaw,mh4g-dex-build7
+1329,Gold Rajang Pelt+,Gold Rajang Pelt+,mh4g-dex-build7
+1330,Rajang Apoplexy,Rajang Apoplexy,mh4g-dex-build7
+1331,Ghoulish Gold Gorer,Ghoulish Gold Gorer,mh4g-dex-build7
+1332,Rajang Heart,Rajang Heart,mh4g-dex-build7
+1333,Kecha Fur,Kecha Fur,mh4g-dex-build7
+1334,Kecha Leadbone,Kecha Leadbone,mh4g-dex-build7
+1335,Kecha Auricle,Kecha Auricle,mh4g-dex-build7
+1336,Kecha Ripper,Kecha Ripper,mh4g-dex-build7
+1337,Kecha Lash,Kecha Lash,mh4g-dex-build7
+1338,A.Kecha Fur,A.Kecha Fur,mh4g-dex-build7
+1339,A.Kecha Leadbone,A.Kecha Leadbone,mh4g-dex-build7
+1340,A.Kecha Auricle,A.Kecha Auricle,mh4g-dex-build7
+1341,A.Kecha Ripper,A.Kecha Ripper,mh4g-dex-build7
+1342,A.Kecha Lash,A.Kecha Lash,mh4g-dex-build7
+1343,Tetsucabra Shard,Tetsucabra Shard,mh4g-dex-build7
+1344,Tetsucabra Cortex,Tetsucabra Cortex,mh4g-dex-build7
+1345,Tetsucabra Gnawrl,Tetsucabra Gnawrl,mh4g-dex-build7
+1346,Tetsucabra Hardclaw,Tetsucabra Hardclaw,mh4g-dex-build7
+1347,Vicious Visage,Vicious Visage,mh4g-dex-build7
+1348,B.Tetsucabra Shard,B.Tetsucabra Shard,mh4g-dex-build7
+1349,B.Tetsucabra Cortex,B.Tetsucabra Cortex,mh4g-dex-build7
+1350,B.Tetsucabra Gnawrl,B.Tetsucabra Gnawrl,mh4g-dex-build7
+1351,B.TetsucabraHardclaw,B.TetsucabraHardclaw,mh4g-dex-build7
+1352,Zamtrios Shard,Zamtrios Shard,mh4g-dex-build7
+1353,Zamtrios Piel,Zamtrios Piel,mh4g-dex-build7
+1354,Zamtrios Grandfin,Zamtrios Grandfin,mh4g-dex-build7
+1355,Zamtrios Sawtooth+,Zamtrios Sawtooth+,mh4g-dex-build7
+1356,Zamtrios Tailbrand,Zamtrios Tailbrand,mh4g-dex-build7
+1357,T.Zamtrios Shard,T.Zamtrios Shard,mh4g-dex-build7
+1358,T.Zamtrios Piel,T.Zamtrios Piel,mh4g-dex-build7
+1359,T.Zamtrios Grandfin,T.Zamtrios Grandfin,mh4g-dex-build7
+1360,T.Zamtrios Sawtooth+,T.Zamtrios Sawtooth+,mh4g-dex-build7
+1361,T.Zamtrios Tailbrand,T.Zamtrios Tailbrand,mh4g-dex-build7
+1362,Najarala Piel,Najarala Piel,mh4g-dex-build7
+1363,Najarala Cortex,Najarala Cortex,mh4g-dex-build7
+1364,Heart-stopping Beak,Heart-stopping Beak,mh4g-dex-build7
+1365,Najarala Ampsounder,Najarala Ampsounder,mh4g-dex-build7
+1366,T.Najarala Piel,T.Najarala Piel,mh4g-dex-build7
+1367,T.Najarala Cortex,T.Najarala Cortex,mh4g-dex-build7
+1368,T.Najarala Splasher,T.Najarala Splasher,mh4g-dex-build7
+1369,Dalamadur Steel+,Dalamadur Steel+,mh4g-dex-build7
+1370,Dalamadur Glaive+,Dalamadur Glaive+,mh4g-dex-build7
+1371,Dalamadur Pectus+,Dalamadur Pectus+,mh4g-dex-build7
+1372,Dalamadur Ripper,Dalamadur Ripper,mh4g-dex-build7
+1373,Dalamadur Fanblade+,Dalamadur Fanblade+,mh4g-dex-build7
+1374,Dalam Tail Scale+,Dalam Tail Scale+,mh4g-dex-build7
+1375,Dalam Tail Shell+,Dalam Tail Shell+,mh4g-dex-build7
+1376,Skyblade Drgnsphire,Skyblade Drgnsphire,mh4g-dex-build7
+1377,S.Dalamadur Steel+,S.Dalamadur Steel+,mh4g-dex-build7
+1378,S.Dalamadur Glaive+,S.Dalamadur Glaive+,mh4g-dex-build7
+1379,S.Dalamadur Gazer,S.Dalamadur Gazer,mh4g-dex-build7
+1380,S.Dalamadur Pectus+,S.Dalamadur Pectus+,mh4g-dex-build7
+1381,S.Dalamadur Ripper,S.Dalamadur Ripper,mh4g-dex-build7
+1382,S.Dalam Fanblade+,S.Dalam Fanblade+,mh4g-dex-build7
+1383,S.Dalam Tail Scale+,S.Dalam Tail Scale+,mh4g-dex-build7
+1384,S.Dalam Tail Shell+,S.Dalam Tail Shell+,mh4g-dex-build7
+1385,Seltas Cortex,Seltas Cortex,mh4g-dex-build7
+1386,Seltas Razorwing,Seltas Razorwing,mh4g-dex-build7
+1387,Seltas Hardhorn,Seltas Hardhorn,mh4g-dex-build7
+1388,D.Seltas Cortex,D.Seltas Cortex,mh4g-dex-build7
+1389,D.Seltas Razorwing,D.Seltas Razorwing,mh4g-dex-build7
+1390,D.Seltas Hardhorn,D.Seltas Hardhorn,mh4g-dex-build7
+1391,S.Queen Cortex,S.Queen Cortex,mh4g-dex-build7
+1392,S.Queen Pectus+,S.Queen Pectus+,mh4g-dex-build7
+1393,S.Queen Maw,S.Queen Maw,mh4g-dex-build7
+1394,S.Queen Hardclaw,S.Queen Hardclaw,mh4g-dex-build7
+1395,S.Queen Moonlash,S.Queen Moonlash,mh4g-dex-build7
+1396,D.S.QueenConcentrate,D.S.QueenConcentrate,mh4g-dex-build7
+1397,D.S.Queen Cortex,D.S.Queen Cortex,mh4g-dex-build7
+1398,D.S.Queen Pectus+,D.S.Queen Pectus+,mh4g-dex-build7
+1399,D.S.Queen Maw,D.S.Queen Maw,mh4g-dex-build7
+1400,D.S.Queen Hardclaw,D.S.Queen Hardclaw,mh4g-dex-build7
+1401,D.S.Queen Moonlash,D.S.Queen Moonlash,mh4g-dex-build7
+1402,Nerscylla Cortex,Nerscylla Cortex,mh4g-dex-build7
+1403,Nerscylla Scishorn,Nerscylla Scishorn,mh4g-dex-build7
+1404,Nerscylla Hardclaw,Nerscylla Hardclaw,mh4g-dex-build7
+1405,Nerscylla Surspike,Nerscylla Surspike,mh4g-dex-build7
+1406,S.Nerscylla Cortex,S.Nerscylla Cortex,mh4g-dex-build7
+1407,S.Nerscylla Scishorn,S.Nerscylla Scishorn,mh4g-dex-build7
+1408,S.Nerscylla Hardclaw,S.Nerscylla Hardclaw,mh4g-dex-build7
+1409,S.Nerscylla Surspike,S.Nerscylla Surspike,mh4g-dex-build7
+1410,Gore Magala Shard,Gore Magala Shard,mh4g-dex-build7
+1411,Gore Magala Cortex,Gore Magala Cortex,mh4g-dex-build7
+1412,Gore Magala Sensor,Gore Magala Sensor,mh4g-dex-build7
+1413,Gore Magala Shredder,Gore Magala Shredder,mh4g-dex-build7
+1414,Gore Magala Eclipse,Gore Magala Eclipse,mh4g-dex-build7
+1415,Gore Magala Lash,Gore Magala Lash,mh4g-dex-build7
+1416,Gore Magala Mantle,Gore Magala Mantle,mh4g-dex-build7
+1417,Chaos Scale,Chaos Scale,mh4g-dex-build7
+1418,Diametrical Horn,Diametrical Horn,mh4g-dex-build7
+1419,Antinomic Wing,Antinomic Wing,mh4g-dex-build7
+1420,Contrary Scale,Contrary Scale,mh4g-dex-build7
+1421,S.Magala Shard,S.Magala Shard,mh4g-dex-build7
+1422,S.Magala Cortex,S.Magala Cortex,mh4g-dex-build7
+1423,S.Magala Hardhorn,S.Magala Hardhorn,mh4g-dex-build7
+1424,S.Magala Purifier,S.Magala Purifier,mh4g-dex-build7
+1425,S.Magala Lightwing,S.Magala Lightwing,mh4g-dex-build7
+1426,S.Magala Lash,S.Magala Lash,mh4g-dex-build7
+1427,S.Magala Mantle,S.Magala Mantle,mh4g-dex-build7
+1428,Daora Cortex,Daora Cortex,mh4g-dex-build7
+1429,Daora Hardhorn,Daora Hardhorn,mh4g-dex-build7
+1430,Daora Fellwing,Daora Fellwing,mh4g-dex-build7
+1431,Daora Lash,Daora Lash,mh4g-dex-build7
+1432,Daora Shard,Daora Shard,mh4g-dex-build7
+1433,Daora Hardclaw,Daora Hardclaw,mh4g-dex-build7
+1434,Steelrust Drakeshell,Steelrust Drakeshell,mh4g-dex-build7
+1435,Silverpeak Corona,Silverpeak Corona,mh4g-dex-build7
+1436,Steelrust Claw,Steelrust Claw,mh4g-dex-build7
+1437,Maelstriker Wing,Maelstriker Wing,mh4g-dex-build7
+1438,Steelrust Scale,Steelrust Scale,mh4g-dex-build7
+1439,Flame Shard,Flame Shard,mh4g-dex-build7
+1440,Teostra Cortex,Teostra Cortex,mh4g-dex-build7
+1441,Teostra Hardhorn,Teostra Hardhorn,mh4g-dex-build7
+1442,Fire Dragon Hardclaw,Fire Dragon Hardclaw,mh4g-dex-build7
+1443,Teostra Lash,Teostra Lash,mh4g-dex-build7
+1444,Akantor Shard,Akantor Shard,mh4g-dex-build7
+1445,Akantor Cortex,Akantor Cortex,mh4g-dex-build7
+1446,Akantor Greatfang,Akantor Greatfang,mh4g-dex-build7
+1447,Akantor Shredtalon,Akantor Shredtalon,mh4g-dex-build7
+1448,Akantor Thickspike,Akantor Thickspike,mh4g-dex-build7
+1449,Akantor Flail,Akantor Flail,mh4g-dex-build7
+1450,Conquest Sphere,Conquest Sphere,mh4g-dex-build7
+1451,Kirin Finehide,Kirin Finehide,mh4g-dex-build7
+1452,Kirin Azure Peak,Kirin Azure Peak,mh4g-dex-build7
+1453,Platinum Mane,Platinum Mane,mh4g-dex-build7
+1454,Kirin Thunderlash,Kirin Thunderlash,mh4g-dex-build7
+1455,Kirin Ice Peak,Kirin Ice Peak,mh4g-dex-build7
+1456,Kirin Frostlash,Kirin Frostlash,mh4g-dex-build7
+1457,Pearl Glosshide,Pearl Glosshide,mh4g-dex-build7
+1458,Khezu Special Cut,Khezu Special Cut,mh4g-dex-build7
+1459,Alluring Glosshide,Alluring Glosshide,mh4g-dex-build7
+1460,Alluring Fellwing,Alluring Fellwing,mh4g-dex-build7
+1461,Basarios Cortex,Basarios Cortex,mh4g-dex-build7
+1462,Basarios Fellwing,Basarios Fellwing,mh4g-dex-build7
+1463,R.Basarios Cortex,R.Basarios Cortex,mh4g-dex-build7
+1464,R.Basarios Fellwing,R.Basarios Fellwing,mh4g-dex-build7
+1465,Gravios Cortex,Gravios Cortex,mh4g-dex-build7
+1466,Gravios Crown,Gravios Crown,mh4g-dex-build7
+1467,Gravios Fellwing,Gravios Fellwing,mh4g-dex-build7
+1468,Gravios Pallium,Gravios Pallium,mh4g-dex-build7
+1469,B.Gravios Cortex,B.Gravios Cortex,mh4g-dex-build7
+1470,B.Gravios Crown,B.Gravios Crown,mh4g-dex-build7
+1471,B.Gravios Pallium,B.Gravios Pallium,mh4g-dex-build7
+1472,Deviljho Shard,Deviljho Shard,mh4g-dex-build7
+1473,Deviljho Blackpiel,Deviljho Blackpiel,mh4g-dex-build7
+1474,Deviljho Hardfang,Deviljho Hardfang,mh4g-dex-build7
+1475,Deviljho Ripper,Deviljho Ripper,mh4g-dex-build7
+1476,Deviljho Flail,Deviljho Flail,mh4g-dex-build7
+1477,Deviljho Crook,Deviljho Crook,mh4g-dex-build7
+1478,Bloodied Ebonhide,Bloodied Ebonhide,mh4g-dex-build7
+1479,Vile Fang,Vile Fang,mh4g-dex-build7
+1480,Brach Cortex,Brach Cortex,mh4g-dex-build7
+1481,Fine Brach Ebonshell,Fine Brach Ebonshell,mh4g-dex-build7
+1482,Brach Crown,Brach Crown,mh4g-dex-build7
+1483,Brach Pounder+,Brach Pounder+,mh4g-dex-build7
+1484,Brach Lash,Brach Lash,mh4g-dex-build7
+1485,Brach Pallium,Brach Pallium,mh4g-dex-build7
+1486,Glowing Slime,Glowing Slime,mh4g-dex-build7
+1493,D.Mohran Rockskin,D.Mohran Rockskin,mh4g-dex-build7
+1494,D.Mohran Heavyscale,D.Mohran Heavyscale,mh4g-dex-build7
+1495,Brutal Biter,Brutal Biter,mh4g-dex-build7
+1496,D.Mohran Allbrace,D.Mohran Allbrace,mh4g-dex-build7
+1497,Earth Dragonsphire,Earth Dragonsphire,mh4g-dex-build7
+1498,Lagombi Fur,Lagombi Fur,mh4g-dex-build7
+1499,Lagombi Auricle,Lagombi Auricle,mh4g-dex-build7
+1500,Zinogre Electrofur+,Zinogre Electrofur+,mh4g-dex-build7
+1501,Zinogre Cortex,Zinogre Cortex,mh4g-dex-build7
+1502,Zinogre Hardhorn,Zinogre Hardhorn,mh4g-dex-build7
+1503,Zinogre Hardclaw,Zinogre Hardclaw,mh4g-dex-build7
+1504,Zinogre D-Shocker,Zinogre D-Shocker,mh4g-dex-build7
+1505,Zinogre Lash,Zinogre Lash,mh4g-dex-build7
+1506,Zinogre Skymerald,Zinogre Skymerald,mh4g-dex-build7
+1507,S.Zin Dragonlocks,S.Zin Dragonlocks,mh4g-dex-build7
+1508,S.Zinogre Cortex,S.Zinogre Cortex,mh4g-dex-build7
+1509,S.Zinogre Hardhorn,S.Zinogre Hardhorn,mh4g-dex-build7
+1510,S.Zinogre Hardclaw,S.Zinogre Hardclaw,mh4g-dex-build7
+1511,S.Zinogre Drakehold,S.Zinogre Drakehold,mh4g-dex-build7
+1512,S.Zinogre Lash,S.Zinogre Lash,mh4g-dex-build7
+1513,S.Zinogre Skymerald,S.Zinogre Skymerald,mh4g-dex-build7
+1514,Seregios Slavescale,Seregios Slavescale,mh4g-dex-build7
+1515,Seregios Slavescale+,Seregios Slavescale+,mh4g-dex-build7
+1516,Seregios Airblade,Seregios Airblade,mh4g-dex-build7
+1517,Seregios Airblade+,Seregios Airblade+,mh4g-dex-build7
+1518,Seregios Carver,Seregios Carver,mh4g-dex-build7
+1519,Seregios Carver+,Seregios Carver+,mh4g-dex-build7
+1520,Seregios Impaler,Seregios Impaler,mh4g-dex-build7
+1521,Seregios Impaler+,Seregios Impaler+,mh4g-dex-build7
+1522,Seregios Breacher,Seregios Breacher,mh4g-dex-build7
+1523,Seregios Breacher+,Seregios Breacher+,mh4g-dex-build7
+1524,Seregios Scraper,Seregios Scraper,mh4g-dex-build7
+1525,Seregios Scraper+,Seregios Scraper+,mh4g-dex-build7
+1526,Seregios Dissenter,Seregios Dissenter,mh4g-dex-build7
+1527,Seregios Lens,Seregios Lens,mh4g-dex-build7
+1528,Gogmazios Battlement,Gogmazios Battlement,mh4g-dex-build7
+1529,Gogmazios Fortress,Gogmazios Fortress,mh4g-dex-build7
+1530,Gogmazios Gasher,Gogmazios Gasher,mh4g-dex-build7
+1531,Gogmazios Offenders,Gogmazios Offenders,mh4g-dex-build7
+1532,Gogmazios Fiberwing,Gogmazios Fiberwing,mh4g-dex-build7
+1533,Gogmazios Briartail,Gogmazios Briartail,mh4g-dex-build7
+1534,Wartorn Dragonsphire,Wartorn Dragonsphire,mh4g-dex-build7
+1535,Heavy Drakesbone Oil,Heavy Drakesbone Oil,mh4g-dex-build7
+1536,Diablos Cortex,Diablos Cortex,mh4g-dex-build7
+1537,Diablos Chine,Diablos Chine,mh4g-dex-build7
+1538,Twisted Stouthorn,Twisted Stouthorn,mh4g-dex-build7
+1539,Diablos Hardhorn,Diablos Hardhorn,mh4g-dex-build7
+1540,Diablos Tailcase+,Diablos Tailcase+,mh4g-dex-build7
+1541,Blos Medulla,Blos Medulla,mh4g-dex-build7
+1542,B.Diablos Cortex,B.Diablos Cortex,mh4g-dex-build7
+1543,B.Diablos Chine,B.Diablos Chine,mh4g-dex-build7
+1544,Blackcurl Stouthorn,Blackcurl Stouthorn,mh4g-dex-build7
+1545,Monoblos Carapace,Monoblos Carapace,mh4g-dex-build7
+1546,Monoblos Cortex,Monoblos Cortex,mh4g-dex-build7
+1547,Monoblos Thoracic,Monoblos Thoracic,mh4g-dex-build7
+1548,Monoblos Chine,Monoblos Chine,mh4g-dex-build7
+1549,Scarlet Finehorn,Scarlet Finehorn,mh4g-dex-build7
+1550,Scarlet Stouthorn,Scarlet Stouthorn,mh4g-dex-build7
+1551,Monoblos Heart,Monoblos Heart,mh4g-dex-build7
+1552,W.Monoblos Cortex,W.Monoblos Cortex,mh4g-dex-build7
+1553,W.Monoblos Chine,W.Monoblos Chine,mh4g-dex-build7
+1554,Argent Stouthorn,Argent Stouthorn,mh4g-dex-build7
+1555,Hermitaur Cortex,Hermitaur Cortex,mh4g-dex-build7
+1556,Hermitaur Hardclaw,Hermitaur Hardclaw,mh4g-dex-build7
+1557,Black Pearl,Black Pearl,mh4g-dex-build7
+1558,Fine Black Pearl,Fine Black Pearl,mh4g-dex-build7
+1559,Wyvern Scalp,Wyvern Scalp,mh4g-dex-build7
+1560,Hermitaur Purpshell,Hermitaur Purpshell,mh4g-dex-build7
+1561,Hermitaur Purpclaw,Hermitaur Purpclaw,mh4g-dex-build7
+1562,Cephalos Shard,Cephalos Shard,mh4g-dex-build7
+1563,Cephalos Purpscale,Cephalos Purpscale,mh4g-dex-build7
+1564,Cephalos Grandfin,Cephalos Grandfin,mh4g-dex-build7
+1565,Cephalos Pinkfin,Cephalos Pinkfin,mh4g-dex-build7
+1566,Cephalos Fang+,Cephalos Fang+,mh4g-dex-build7
+1567,Cephalos Hardfang,Cephalos Hardfang,mh4g-dex-build7
+1568,Piscine Liver,Piscine Liver,mh4g-dex-build7
+1569,Ukanlos Cortex,Ukanlos Cortex,mh4g-dex-build7
+1570,Ukanlos Underscale,Ukanlos Underscale,mh4g-dex-build7
+1571,Ukanlos Underscale+,Ukanlos Underscale+,mh4g-dex-build7
+1572,Ukanlos Tail,Ukanlos Tail,mh4g-dex-build7
+1573,Ukanlos Flail,Ukanlos Flail,mh4g-dex-build7
+1574,Ukanlos Digger,Ukanlos Digger,mh4g-dex-build7
+1575,Ukanlos Digger+,Ukanlos Digger+,mh4g-dex-build7
+1576,Ukanlos Shoveljaw+,Ukanlos Shoveljaw+,mh4g-dex-build7
+1577,Ukanlos Fin+,Ukanlos Fin+,mh4g-dex-build7
+1578,Ukanlos Strongfin,Ukanlos Strongfin,mh4g-dex-build7
+1579,Ukanlos Stone,Ukanlos Stone,mh4g-dex-build7
+1580,Chameleos Finehide,Chameleos Finehide,mh4g-dex-build7
+1581,Chameleos Hardhorn,Chameleos Hardhorn,mh4g-dex-build7
+1582,Chameleos Fellwing,Chameleos Fellwing,mh4g-dex-build7
+1583,Chameleos Lash,Chameleos Lash,mh4g-dex-build7
+1584,Fatalis Shard,Fatalis Shard,mh4g-dex-build7
+1585,Fatalis Cortex,Fatalis Cortex,mh4g-dex-build7
+1586,Fatalis Hardhorn,Fatalis Hardhorn,mh4g-dex-build7
+1587,Fatalis Evil Eye,Fatalis Evil Eye,mh4g-dex-build7
+1588,Fatalis Fellwing,Fatalis Fellwing,mh4g-dex-build7
+1589,Fatalis Flamescale,Fatalis Flamescale,mh4g-dex-build7
+1590,Fatalis Flameshell,Fatalis Flameshell,mh4g-dex-build7
+1591,Fatalis Flamehorn,Fatalis Flamehorn,mh4g-dex-build7
+1592,Fatalis Flamewing,Fatalis Flamewing,mh4g-dex-build7
+1593,Fatalis Devileye+,Fatalis Devileye+,mh4g-dex-build7
+1594,Old Fatalis Shard,Old Fatalis Shard,mh4g-dex-build7
+1595,Old Fatalis Cortex,Old Fatalis Cortex,mh4g-dex-build7
+1596,Old Fatalis Fellwing,Old Fatalis Fellwing,mh4g-dex-build7
+1597,Old Fatalis Hardhorn,Old Fatalis Hardhorn,mh4g-dex-build7
+1598,Old Fatalis Souleye,Old Fatalis Souleye,mh4g-dex-build7
+1599,Deadly Poison Sac,Deadly Poison Sac,mh4g-dex-build7
+1600,Conflagrant Sac,Conflagrant Sac,mh4g-dex-build7
+1601,Flood Sac,Flood Sac,mh4g-dex-build7
+1602,Cryo Sac,Cryo Sac,mh4g-dex-build7
+1603,Lightning Sac,Lightning Sac,mh4g-dex-build7
+1604,Omniplegia Sac,Omniplegia Sac,mh4g-dex-build7
+1605,Coma Sac,Coma Sac,mh4g-dex-build7
+1606,Fey Wyvern Gem,Fey Wyvern Gem,mh4g-dex-build7
+1607,Paddock Cream,Paddock Cream,mh4g-dex-build7
+1608,Lrg ElderDragon Bone,Lrg ElderDragon Bone,mh4g-dex-build7
+1609,Lrg Elder Dragon Gem,Lrg Elder Dragon Gem,mh4g-dex-build7
+1610,Lrg Wyvern Gem,Lrg Wyvern Gem,mh4g-dex-build7
+1611,Monster Slogbone,Monster Slogbone,mh4g-dex-build7
+1612,Dragonbone Artifact,Dragonbone Artifact,mh4g-dex-build7
+1613,Massive Bone,Massive Bone,mh4g-dex-build7
+1614,Prized Pelt,Prized Pelt,mh4g-dex-build7
+1615,Rhenoplos Bone,Rhenoplos Bone,mh4g-dex-build7
+1616,Avian Stoutbone,Avian Stoutbone,mh4g-dex-build7
+1617,Remobra Finehide,Remobra Finehide,mh4g-dex-build7
+1618,Meaty Piel,Meaty Piel,mh4g-dex-build7
+1619,Crushing Fang,Crushing Fang,mh4g-dex-build7
+1620,Sml Hermitaur Shell,Sml Hermitaur Shell,mh4g-dex-build7
+1621,Piercing Claw,Piercing Claw,mh4g-dex-build7
+1622,Bnahabra Razorwing,Bnahabra Razorwing,mh4g-dex-build7
+1623,Konchu Cortex,Konchu Cortex,mh4g-dex-build7
+1624,Monster Essence,Monster Essence,mh4g-dex-build7
+1625,Carapaceon Brains,Carapaceon Brains,mh4g-dex-build7
+1626,Carapaceon Brains+,Carapaceon Brains+,mh4g-dex-build7
+1627,Crab Pearl,Crab Pearl,mh4g-dex-build7
+1628,Crab Pearl+,Crab Pearl+,mh4g-dex-build7
+1629,Emperor Hopper,Emperor Hopper,mh4g-dex-build7
+1630,Flutterfly,Flutterfly,mh4g-dex-build7
+1631,Elder Bfly Beetle,Elder Bfly Beetle,mh4g-dex-build7
+1632,Great Elder Hornfly,Great Elder Hornfly,mh4g-dex-build7
+1633,Divine Rhino,Divine Rhino,mh4g-dex-build7
+1634,Meteor Crystal,Meteor Crystal,mh4g-dex-build7
+1635,Eltalite Ore,Eltalite Ore,mh4g-dex-build7
+1636,Meldspar Ore,Meldspar Ore,mh4g-dex-build7
+1637,Allfire Stone,Allfire Stone,mh4g-dex-build7
+1638,Purecrystal,Purecrystal,mh4g-dex-build7
+1639,Cosmicite Ore,Cosmicite Ore,mh4g-dex-build7
+1640,Distorted Fragment,Distorted Fragment,mh4g-dex-build7
+1641,Ultimate Abrasive,Ultimate Abrasive,mh4g-dex-build7
+1642,Sovereign Orb,Sovereign Orb,mh4g-dex-build7
+1643,Strong Armor Sphere,Strong Armor Sphere,mh4g-dex-build7
+1644,Divine Armor Sphere,Divine Armor Sphere,mh4g-dex-build7
+1645,Pure Frenzy Crystal,Pure Frenzy Crystal,mh4g-dex-build7
+1646,Zenith Wyvern Gem,Zenith Wyvern Gem,mh4g-dex-build7
+1647,Zenith Wyvern Gem L,Zenith Wyvern Gem L,mh4g-dex-build7
+1648,Enduring Charm,Enduring Charm,mh4g-dex-build7
+1649,Graven Charm,Graven Charm,mh4g-dex-build7
+1650,Champion's Weapon,Champion's Weapon,mh4g-dex-build7
+1651,Beshackled Weapon,Beshackled Weapon,mh4g-dex-build7
+1652,Champion's Armor,Champion's Armor,mh4g-dex-build7
+1653,Beshackled Armor,Beshackled Armor,mh4g-dex-build7
+1654,Gloamgrass Bud,Gloamgrass Bud,mh4g-dex-build7
+1655,Humble Scrap+,Humble Scrap+,mh4g-dex-build7
+1656,Handsome Scrap+,Handsome Scrap+,mh4g-dex-build7
+1657,Gargwa Scrap+,Gargwa Scrap+,mh4g-dex-build7
+1658,Arzuros Scrap+,Arzuros Scrap+,mh4g-dex-build7
+1659,Rhenoplos Scrap+,Rhenoplos Scrap+,mh4g-dex-build7
+1660,Great Jaggi Scrap+,Great Jaggi Scrap+,mh4g-dex-build7
+1661,Bnahabra Scrap+,Bnahabra Scrap+,mh4g-dex-build7
+1662,Bulldrome Scrap+,Bulldrome Scrap+,mh4g-dex-build7
+1663,Slagtoth Scrap+,Slagtoth Scrap+,mh4g-dex-build7
+1664,Volvidon Scrap+,Volvidon Scrap+,mh4g-dex-build7
+1665,Cephalos Scrap+,Cephalos Scrap+,mh4g-dex-build7
+1666,Konchu Scrap+,Konchu Scrap+,mh4g-dex-build7
+1667,Kecha Wacha Scrap+,Kecha Wacha Scrap+,mh4g-dex-build7
+1668,Yian Kut-Ku Scrap+,Yian Kut-Ku Scrap+,mh4g-dex-build7
+1669,Tetsucabra Scrap+,Tetsucabra Scrap+,mh4g-dex-build7
+1670,Barroth Scrap+,Barroth Scrap+,mh4g-dex-build7
+1671,Zamtrios Scrap+,Zamtrios Scrap+,mh4g-dex-build7
+1672,Lagombi Scrap+,Lagombi Scrap+,mh4g-dex-build7
+1673,Uragaan Scrap+,Uragaan Scrap+,mh4g-dex-build7
+1674,Rathian Scrap+,Rathian Scrap+,mh4g-dex-build7
+1675,Khezu Scrap+,Khezu Scrap+,mh4g-dex-build7
+1676,Great Wroggi Scrap+,Great Wroggi Scrap+,mh4g-dex-build7
+1677,Congalala Scrap+,Congalala Scrap+,mh4g-dex-build7
+1678,Basarios Scrap+,Basarios Scrap+,mh4g-dex-build7
+1679,Nerscylla Scrap+,Nerscylla Scrap+,mh4g-dex-build7
+1680,Qurupeco Scrap+,Qurupeco Scrap+,mh4g-dex-build7
+1681,Nibelsnarf Scrap+,Nibelsnarf Scrap+,mh4g-dex-build7
+1682,Tigrex Scrap+,Tigrex Scrap+,mh4g-dex-build7
+1683,Great Baggi Scrap+,Great Baggi Scrap+,mh4g-dex-build7
+1684,Rathalos Scrap+,Rathalos Scrap+,mh4g-dex-build7
+1685,Agnaktor Scrap+,Agnaktor Scrap+,mh4g-dex-build7
+1686,Seltas Queen Scrap+,Seltas Queen Scrap+,mh4g-dex-build7
+1687,Duramboros Scrap+,Duramboros Scrap+,mh4g-dex-build7
+1688,Diablos Scrap+,Diablos Scrap+,mh4g-dex-build7
+1689,Rajang Scrap+,Rajang Scrap+,mh4g-dex-build7
+1690,Barioth Scrap+,Barioth Scrap+,mh4g-dex-build7
+1691,Brach Scrap+,Brach Scrap+,mh4g-dex-build7
+1692,Zinogre Scrap+,Zinogre Scrap+,mh4g-dex-build7
+1693,Nargacuga Scrap+,Nargacuga Scrap+,mh4g-dex-build7
+1694,Najarala Scrap+,Najarala Scrap+,mh4g-dex-build7
+1695,Seregios Scrap+,Seregios Scrap+,mh4g-dex-build7
+1696,Monoblos Scrap+,Monoblos Scrap+,mh4g-dex-build7
+1697,Gravios Scrap+,Gravios Scrap+,mh4g-dex-build7
+1698,Yian Garuga Scrap+,Yian Garuga Scrap+,mh4g-dex-build7
+1699,Gypceros Scrap+,Gypceros Scrap+,mh4g-dex-build7
+1700,Dalamadur Scrap+,Dalamadur Scrap+,mh4g-dex-build7
+1701,Amatsu Scrap+,Amatsu Scrap+,mh4g-dex-build7
+1702,S.Magala Scrap+,S.Magala Scrap+,mh4g-dex-build7
+1703,Gore Magala Scrap+,Gore Magala Scrap+,mh4g-dex-build7
+1704,Kushala Daora Scrap+,Kushala Daora Scrap+,mh4g-dex-build7
+1705,Ukanlos Scrap+,Ukanlos Scrap+,mh4g-dex-build7
+1706,Teostra Scrap+,Teostra Scrap+,mh4g-dex-build7
+1707,Deviljho Scrap+,Deviljho Scrap+,mh4g-dex-build7
+1708,Kirin Scrap+,Kirin Scrap+,mh4g-dex-build7
+1709,Akantor Scrap+,Akantor Scrap+,mh4g-dex-build7
+1710,Alatreon Scrap+,Alatreon Scrap+,mh4g-dex-build7
+1711,Dah'renMohran Scrap+,Dah'renMohran Scrap+,mh4g-dex-build7
+1712,Jhen Mohran Scrap+,Jhen Mohran Scrap+,mh4g-dex-build7
+1713,Gogmazios Scrap+,Gogmazios Scrap+,mh4g-dex-build7
+1714,Chameleos Scrap+,Chameleos Scrap+,mh4g-dex-build7
+1715,Dust of Life,Dust of Life,mh4g-dex-build7
+1716,Black Belt Coin G,Black Belt Coin G,mh4g-dex-build7
+1717,Expert Coin G,Expert Coin G,mh4g-dex-build7
+1718,Legend Coin G,Legend Coin G,mh4g-dex-build7
+1719,VE Cosmic Ticket,VE Cosmic Ticket,mh4g-dex-build7
+1720,Conqueror's Seal,Conqueror's Seal,mh4g-dex-build7
+1721,Conqueror's Seal G,Conqueror's Seal G,mh4g-dex-build7
+1722,Caravan Ticket G,Caravan Ticket G,mh4g-dex-build7
+1723,Immenseness Ticket,Immenseness Ticket,mh4g-dex-build7
+1724,Immenseness Ticket S,Immenseness Ticket S,mh4g-dex-build7
+1725,Proto Wystone: Drive,Proto Wystone: Drive,mh4g-dex-build7
+1726,Tropical Berry,Tropical Berry,mh4g-dex-build7
+1727,Portable Steam Bomb,Portable Steam Bomb,mh4g-dex-build7
+1728,Disposable Earplugs,Disposable Earplugs,mh4g-dex-build7
+1729,Garrison Bllsta Ammo,Garrison Bllsta Ammo,mh4g-dex-build7
+1730,Dense Marcoal,Dense Marcoal,mh4g-dex-build7
+1731,EZ Farcaster,EZ Farcaster,mh4g-dex-build7
+1732,EZ Lifepowder,EZ Lifepowder,mh4g-dex-build7
+1733,EZ Dust of Life,EZ Dust of Life,mh4g-dex-build7
+1734,Meteor Chunk,Meteor Chunk,mh4g-dex-build7
+1735,Frozen Berry,Frozen Berry,mh4g-dex-build7
+1736,Poogie Pearl,Poogie Pearl,mh4g-dex-build7
+1737,Brach Warhead,Brach Warhead,mh4g-dex-build7
+1738,Brach Obliterator,Brach Obliterator,mh4g-dex-build7
+1739,Immortal Reactor,Immortal Reactor,mh4g-dex-build7
+1740,Flashpoint Slime,Flashpoint Slime,mh4g-dex-build7
+1741,G.Plesioth Shard,G.Plesioth Shard,mh4g-dex-build7
+1742,Fine G.Plesioth Fin,Fine G.Plesioth Fin,mh4g-dex-build7
+1743,Gigginox Scrap+,Gigginox Scrap+,mh4g-dex-build7
+1744,Royal Ludroth Scrap+,Royal Ludroth Scrap+,mh4g-dex-build7
+1745,Plesioth Scrap+,Plesioth Scrap+,mh4g-dex-build7
+1746,Lagiacrus Scrap+,Lagiacrus Scrap+,mh4g-dex-build7
+1747,Hermitaur Scrap+,Hermitaur Scrap+,mh4g-dex-build7
+1748,S.Barioth Sharpclaw,S.Barioth Sharpclaw,mh4g-dex-build7
+1749,J.Barroth Thoracic,J.Barroth Thoracic,mh4g-dex-build7
+1750,Qurupeco Shard,Qurupeco Shard,mh4g-dex-build7
+1751,Lustrous Feather,Lustrous Feather,mh4g-dex-build7
+1752,C.Qurupeco Fellwing,C.Qurupeco Fellwing,mh4g-dex-build7
+1753,Gobul Piel,Gobul Piel,mh4g-dex-build7
+1754,Gobul Surspike,Gobul Surspike,mh4g-dex-build7
+1755,Vespoid Razorwing,Vespoid Razorwing,mh4g-dex-build7
+1756,Arzuros Cortex,Arzuros Cortex,mh4g-dex-build7
+1757,Nibelsnarf Cortex,Nibelsnarf Cortex,mh4g-dex-build7
+1758,Dazzling Fluid,Dazzling Fluid,mh4g-dex-build7
+1759,Ceanataur Terraclaw,Ceanataur Terraclaw,mh4g-dex-build7
+1760,Barioth Thickfur,Barioth Thickfur,mh4g-dex-build7
+1761,Heavy Amber Tusk,Heavy Amber Tusk,mh4g-dex-build7
+1762,Barroth Cortex,Barroth Cortex,mh4g-dex-build7
+1763,Barroth Crown,Barroth Crown,mh4g-dex-build7
+1764,S.Barioth Hardclaw,S.Barioth Hardclaw,mh4g-dex-build7
+1765,Volvidon Cortex,Volvidon Cortex,mh4g-dex-build7
+1766,Agnaktor Cortex,Agnaktor Cortex,mh4g-dex-build7
+1767,Fine Agnaktor Fin,Fine Agnaktor Fin,mh4g-dex-build7
+1768,J.Barroth Cortex,J.Barroth Cortex,mh4g-dex-build7
+1769,Duramboros Cortex,Duramboros Cortex,mh4g-dex-build7
+1770,Duramboros Hardhorn,Duramboros Hardhorn,mh4g-dex-build7
+1771,Durambolite,Durambolite,mh4g-dex-build7
+1772,Uragaan Cortex,Uragaan Cortex,mh4g-dex-build7
+1773,Uragaan Pallium,Uragaan Pallium,mh4g-dex-build7
+1774,Nargacuga Blackfur+,Nargacuga Blackfur+,mh4g-dex-build7
+1775,Nargacuga Cutwing+,Nargacuga Cutwing+,mh4g-dex-build7
+1776,Nargacuga Mantle,Nargacuga Mantle,mh4g-dex-build7
+1777,Lagiacrus Shard,Lagiacrus Shard,mh4g-dex-build7
+1778,Deathly Shocker,Deathly Shocker,mh4g-dex-build7
+1779,Lagiacrus Mantle,Lagiacrus Mantle,mh4g-dex-build7
+1780,I.Lagi D-Shocker,I.Lagi D-Shocker,mh4g-dex-build7
+1781,I.Lagi Hardhorn,I.Lagi Hardhorn,mh4g-dex-build7
+1782,Lavasioth Shard,Lavasioth Shard,mh4g-dex-build7
+1783,Fine Lavasioth Fin,Fine Lavasioth Fin,mh4g-dex-build7
+1784,S.Uragaan Scute+,S.Uragaan Scute+,mh4g-dex-build7
+1785,Ceadeus Scale,Ceadeus Scale,mh4g-dex-build7
+1786,Ceadeus Strongfur,Ceadeus Strongfur,mh4g-dex-build7
+1787,Deep Dragongem,Deep Dragongem,mh4g-dex-build7
+1788,Tsukami Fillet,Tsukami Fillet,mh4g-dex-build7
+1789,Ancient Dragonmoss,Ancient Dragonmoss,mh4g-dex-build7
+1790,Ancient Dragonwood,Ancient Dragonwood,mh4g-dex-build7
+1791,Mohran Rockskin,Mohran Rockskin,mh4g-dex-build7
+1792,Mohran Allbrace,Mohran Allbrace,mh4g-dex-build7
+1793,Deific Fang,Deific Fang,mh4g-dex-build7
+1794,Lunastra Cortex,Lunastra Cortex,mh4g-dex-build7
+1795,Lunastra Tail,Lunastra Tail,mh4g-dex-build7
+1796,Lao-Shan Azure Claw,Lao-Shan Azure Claw,mh4g-dex-build7
+1797,Miralis Scale,Miralis Scale,mh4g-dex-build7
+1798,Miralis Smelter,Miralis Smelter,mh4g-dex-build7
+1799,Dire Dragongem,Dire Dragongem,mh4g-dex-build7
+1800,A.Lagi D-Shocker,A.Lagi D-Shocker,mh4g-dex-build7
+1801,A.Lagi Dynamo,A.Lagi Dynamo,mh4g-dex-build7
+1802,L.Nargacuga Razor,L.Nargacuga Razor,mh4g-dex-build7
+1803,Cloudy Moonshard,Cloudy Moonshard,mh4g-dex-build7
+1804,Lao-Shan Cortex,Lao-Shan Cortex,mh4g-dex-build7
+1805,Lao-Shan Shard,Lao-Shan Shard,mh4g-dex-build7
+1806,Lao-Shan Mantle,Lao-Shan Mantle,mh4g-dex-build7
+1807,Amatsu Carapace,Amatsu Carapace,mh4g-dex-build7
+1808,Amatsu Webbing,Amatsu Webbing,mh4g-dex-build7
+1809,Heavenly Dragongem,Heavenly Dragongem,mh4g-dex-build7
+1810,Alatreon Mantle,Alatreon Mantle,mh4g-dex-build7
+1811,Alatreon Riptalon,Alatreon Riptalon,mh4g-dex-build7
+1812,Azure Dragonsphire,Azure Dragonsphire,mh4g-dex-build7
+1813,Wystone Lv2: Brace,Wystone Lv2: Brace,mh4g-dex-build7
+1814,Wystone Lv2: Element,Wystone Lv2: Element,mh4g-dex-build7
+1815,Wystone Lv2: Force,Wystone Lv2: Force,mh4g-dex-build7
+1816,Wystone Lv2: Drive,Wystone Lv2: Drive,mh4g-dex-build7
+1817,Fardrake's Eye,Fardrake's Eye,mh4g-dex-build7
+1818,CritElementJwl 1,CritElementJwl 1,mh4g-dex-build7
+1819,CritElementJwl 2,CritElementJwl 2,mh4g-dex-build7
+1820,Crit Status Jwl 1,Crit Status Jwl 1,mh4g-dex-build7
+1821,Crit Status Jwl 2,Crit Status Jwl 2,mh4g-dex-build7
+1822,Precise Jewel 1,Precise Jewel 1,mh4g-dex-build7
+1823,Precise Jewel 2,Precise Jewel 2,mh4g-dex-build7
+1824,Fungiform Jewel 1,Fungiform Jewel 1,mh4g-dex-build7
+1825,Satiated Jewel 1,Satiated Jewel 1,mh4g-dex-build7
+1826,Staunch Jewel 1,Staunch Jewel 1,mh4g-dex-build7
+1827,Clean Jewel 1,Clean Jewel 1,mh4g-dex-build7
+1828,Rodeo Jewel 1,Rodeo Jewel 1,mh4g-dex-build7
+1829,Sane Jewel 1,Sane Jewel 1,mh4g-dex-build7
+1830,Sane Jewel 3,Sane Jewel 3,mh4g-dex-build7
+1831,Artisan Jewel 3,Artisan Jewel 3,mh4g-dex-build7
+1832,Defense Jewel 3,Defense Jewel 3,mh4g-dex-build7
+1833,TrueCatalystJwl 3,TrueCatalystJwl 3,mh4g-dex-build7
+1834,Cutting Jwl 1,Cutting Jwl 1,mh4g-dex-build7
+1835,Cutting Jwl 2,Cutting Jwl 2,mh4g-dex-build7
+1836,Cutting Jwl 3,Cutting Jwl 3,mh4g-dex-build7
+1837,TrueCuttingJwl 3,TrueCuttingJwl 3,mh4g-dex-build7
+1838,Arcane Jwl 1,Arcane Jwl 1,mh4g-dex-build7
+1839,Arcane Jwl 2,Arcane Jwl 2,mh4g-dex-build7
+1840,Arcane Jwl 3,Arcane Jwl 3,mh4g-dex-build7
+1841,True Arcane Jwl 3,True Arcane Jwl 3,mh4g-dex-build7
+1842,Brawn Jwl 1,Brawn Jwl 1,mh4g-dex-build7
+1843,Brawn Jwl 2,Brawn Jwl 2,mh4g-dex-build7
+1844,Brawn Jwl 3,Brawn Jwl 3,mh4g-dex-build7
+1845,True Brawn Jwl 3,True Brawn Jwl 3,mh4g-dex-build7
+1846,Supplicant Jwl 1,Supplicant Jwl 1,mh4g-dex-build7
+1847,Supplicant Jwl 2,Supplicant Jwl 2,mh4g-dex-build7
+1848,Supplicant Jwl 3,Supplicant Jwl 3,mh4g-dex-build7
+1849,Furtive Jwl 1,Furtive Jwl 1,mh4g-dex-build7
+1850,Furtive Jwl 2,Furtive Jwl 2,mh4g-dex-build7
+1851,Furtive Jwl 3,Furtive Jwl 3,mh4g-dex-build7
+1852,TrueFurtiveJwl 3,TrueFurtiveJwl 3,mh4g-dex-build7
+1853,True Honed Jwl 2,True Honed Jwl 2,mh4g-dex-build7
+1854,UltimateHonedJwl3,UltimateHonedJwl3,mh4g-dex-build7
+1855,True Calm Jwl 2,True Calm Jwl 2,mh4g-dex-build7
+1856,UltimateCalmJwl 3,UltimateCalmJwl 3,mh4g-dex-build7
+1857,True Hale Jwl 2,True Hale Jwl 2,mh4g-dex-build7
+1858,UltimateHaleJwl 3,UltimateHaleJwl 3,mh4g-dex-build7
+1859,True Ire Jwl 2,True Ire Jwl 2,mh4g-dex-build7
+1860,UltimateIreJwl 3,UltimateIreJwl 3,mh4g-dex-build7
+1861,Withdrawn Jwl 2,Withdrawn Jwl 2,mh4g-dex-build7
+1862,TrueWithdrawnJwl3,TrueWithdrawnJwl3,mh4g-dex-build7
+1863,Impactful Jwl 2,Impactful Jwl 2,mh4g-dex-build7
+1864,TrueImpactfulJwl3,TrueImpactfulJwl3,mh4g-dex-build7
+1865,TrueIntenseJwl 2,TrueIntenseJwl 2,mh4g-dex-build7
+1866,TrueIntenseJwl 3,TrueIntenseJwl 3,mh4g-dex-build7
+1867,True Aegis Jwl 2,True Aegis Jwl 2,mh4g-dex-build7
+1868,True Aegis Jwl 3,True Aegis Jwl 3,mh4g-dex-build7
+1869,TrueTactfulJwl 2,TrueTactfulJwl 2,mh4g-dex-build7
+1870,TrueTactfulJwl 3,TrueTactfulJwl 3,mh4g-dex-build7
+1871,True Broad Jwl 2,True Broad Jwl 2,mh4g-dex-build7
+1872,True Broad Jwl 3,True Broad Jwl 3,mh4g-dex-build7
+1874,Laden Jewel 3,Laden Jewel 3,mh4g-dex-build7
+1875,Daimyo Coin,Daimyo Coin,mh4g-dex-build7
+1876,Argosy Ticket,Argosy Ticket,mh4g-dex-build7
+1877,Yukumo Ticket,Yukumo Ticket,mh4g-dex-build7
+1878,Felcote Ticket,Felcote Ticket,mh4g-dex-build7
+1879,Shakalaka Ticket,Shakalaka Ticket,mh4g-dex-build7
+1880,Instructor's Ticket,Instructor's Ticket,mh4g-dex-build7
+1881,Guild Clerk Ticket,Guild Clerk Ticket,mh4g-dex-build7
+1882,Jumbo Ticket,Jumbo Ticket,mh4g-dex-build7
+1883,Hunter's Ticket,Hunter's Ticket,mh4g-dex-build7
+1884,Deviljho Ticket,Deviljho Ticket,mh4g-dex-build7
+1885,Amatsu Ticket,Amatsu Ticket,mh4g-dex-build7
+1886,Crimson Fatalis Ticket,Crimson Fatalis Ticket,mh4g-dex-build7
+1887,Wonderful Pass,Wonderful Pass,mh4g-dex-build7
+1888,Special Pass,Special Pass,mh4g-dex-build7
+1889,[JP] Conviction J Ticket,[JP] Conviction J Ticket,mh4g-dex-build7
+1890,[JP] Rebellion J Ticket,[JP] Rebellion J Ticket,mh4g-dex-build7
+1891,[JP] Famitsu Coupon,[JP] Famitsu Coupon,mh4g-dex-build7
+1892,[JP] Alibaba's Sword,[JP] Alibaba's Sword,mh4g-dex-build7
+1893,Clockwork Blueprint,Clockwork Blueprint,mh4g-dex-build7
+1894,[JP] Dengeki Coupon,[JP] Dengeki Coupon,mh4g-dex-build7
+1895,Fan Club Newsletter,Fan Club Newsletter,mh4g-dex-build7
+1896,Fan Club Cheer,Fan Club Cheer,mh4g-dex-build7
+1897,E-Tank,E-Tank,mh4g-dex-build7
+1898,Vintage Meat Ticket,Vintage Meat Ticket,mh4g-dex-build7
+1899,Fake Catalog,Fake Catalog,mh4g-dex-build7
+1900,Recruitment Poster,Recruitment Poster,mh4g-dex-build7
+1901,Hero's Seal,Hero's Seal,mh4g-dex-build7
+1902,Design Pattern,Design Pattern,mh4g-dex-build7
+1903,Weapon Data,Weapon Data,mh4g-dex-build7
+1904,Defense Module,Defense Module,mh4g-dex-build7
+1905,The Tale of Poogie,The Tale of Poogie,mh4g-dex-build7
+1906,Goddess's Grace,Goddess's Grace,mh4g-dex-build7
+1907,Gold Ring,Gold Ring,mh4g-dex-build7
+1908,Festival Drum Music,Festival Drum Music,mh4g-dex-build7
+1909,[JP] Portrait of Sins,[JP] Portrait of Sins,mh4g-dex-build7
+1917,Proto Dense Marcoal,Proto Dense Marcoal,mh4g-dex-build7
+1918,Flying Coin G,Flying Coin G,mh4g-dex-build7
+1919,Brute Coin G,Brute Coin G,mh4g-dex-build7
+1920,Vermin Coin G,Vermin Coin G,mh4g-dex-build7
+1921,Toad Coin G,Toad Coin G,mh4g-dex-build7
+1922,Snake Coin G,Snake Coin G,mh4g-dex-build7
+1923,Ace Ticket,Ace Ticket,mh4g-dex-build7
+1926,Jumping Jewel 2,Jumping Jewel 2,mh4g-dex-build7
+1927,Live Bombfish,Live Bombfish,mh4g-dex-build7
+1928,Blue Marlin,Blue Marlin,mh4g-dex-build7
+1929,Horse Mackerel,Horse Mackerel,mh4g-dex-build7
+1930,Pop-eyed Goldfish,Pop-eyed Goldfish,mh4g-dex-build7
+1931,Giant Stag,Giant Stag,mh4g-dex-build7
+1932,Darner Dragonfly,Darner Dragonfly,mh4g-dex-build7
+1933,Common Butterfly,Common Butterfly,mh4g-dex-build7
+1934,Flea,Flea,mh4g-dex-build7
+1935,EZ Marcoal,EZ Marcoal,mh4g-dex-build7

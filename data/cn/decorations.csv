@@ -1,0 +1,291 @@
+id,name,english,source
+0,无,None,mh4g-save-format
+1,耐毒珠【1】,Antidote Jewel 1,mh4g-dex-build7+mh4edit-mit-save-id
+2,耐毒珠【2】,Antidote Jewel 2,mh4g-dex-build7+mh4edit-mit-save-id
+3,耐痹珠【1】,Paralysis Jwl 1,mh4g-dex-build7+mh4edit-mit-save-id
+4,耐痹珠【2】,Paralysis Jwl 2,mh4g-dex-build7+mh4edit-mit-save-id
+5,耐眠珠【1】,Pep Jewel 1,mh4g-dex-build7+mh4edit-mit-save-id
+6,耐眠珠【2】,Pep Jewel 2,mh4g-dex-build7+mh4edit-mit-save-id
+7,耐绝珠【1】,Steadfast Jwl 1,mh4g-dex-build7+mh4edit-mit-save-id
+8,制绝珠【1】,Standfast Jwl 1,mh4g-dex-build7+mh4edit-mit-save-id
+9,耐粘珠【1】,Tracker Jewel 1,mh4g-dex-build7+mh4edit-mit-save-id
+10,抗粘珠【1】,Trekker Jewel 1,mh4g-dex-build7+mh4edit-mit-save-id
+11,忍脚珠【1】,Ninja Jewel 1,mh4g-dex-build7+mh4edit-mit-save-id
+12,体力珠【1】,Vitality Jewel 1,mh4g-dex-build7+mh4edit-mit-save-id
+13,早复珠【1】,Recovery Jewel 1,mh4g-dex-build7+mh4edit-mit-save-id
+14,早复珠【2】,Recovery Jewel 2,mh4g-dex-build7+mh4edit-mit-save-id
+15,斩铁珠【1】,Razor Jewel 1,mh4g-dex-build7+mh4edit-mit-save-id
+16,斩铁珠【3】,Razor Jewel 3,mh4g-dex-build7+mh4edit-mit-save-id
+17,匠珠【2】,Handicraft Jwl 2,mh4g-dex-build7+mh4edit-mit-save-id
+18,匠珠【3】,Handicraft Jwl 3,mh4g-dex-build7+mh4edit-mit-save-id
+19,名匠珠【3】,Artisan Jewel 3,mh4g-dex-build7+mh4edit-mit-save-id
+20,剑豪珠【1】,Fencer Jewel 1,mh4g-dex-build7+mh4edit-mit-save-id
+21,剑豪珠【3】,Fencer Jewel 3,mh4g-dex-build7+mh4edit-mit-save-id
+22,达人珠【1】,Expert Jewel 1,mh4g-dex-build7+mh4edit-mit-save-id
+23,达人珠【2】,Expert Jewel 2,mh4g-dex-build7+mh4edit-mit-save-id
+24,达人珠【3】,Expert Jewel 3,mh4g-dex-build7+mh4edit-mit-save-id
+25,研磨珠【1】,Grinder Jewel 1,mh4g-dex-build7+mh4edit-mit-save-id
+26,铁壁珠【1】,Ironwall Jewel 1,mh4g-dex-build7+mh4edit-mit-save-id
+27,铁壁珠【2】,Ironwall Jewel 2,mh4g-dex-build7+mh4edit-mit-save-id
+28,强壁珠【1】,Shield Jewel 1,mh4g-dex-build7+mh4edit-mit-save-id
+29,强壁珠【2】,Shield Jewel 2,mh4g-dex-build7+mh4edit-mit-save-id
+30,早填珠【1】,Quickload Jwl 1,mh4g-dex-build7+mh4edit-mit-save-id
+31,早填珠【2】,Quickload Jwl 2,mh4g-dex-build7+mh4edit-mit-save-id
+32,抑反珠【1】,Absorber Jewel 1,mh4g-dex-build7+mh4edit-mit-save-id
+33,抑反珠【3】,Absorber Jewel 3,mh4g-dex-build7+mh4edit-mit-save-id
+34,强弹珠【1】,Forceshot Jwl 1,mh4g-dex-build7+mh4edit-mit-save-id
+35,强弹珠【3】,Forceshot Jwl 3,mh4g-dex-build7+mh4edit-mit-save-id
+36,贯通珠【1】,Pierce Jewel 1,mh4g-dex-build7+mh4edit-mit-save-id
+37,贯通珠【3】,Pierce Jewel 3,mh4g-dex-build7+mh4edit-mit-save-id
+38,散弹珠【1】,Pellet Jewel 1,mh4g-dex-build7+mh4edit-mit-save-id
+39,散弹珠【3】,Pellet Jewel 3,mh4g-dex-build7+mh4edit-mit-save-id
+40,加弹珠【1】,ShotPlus Jewel 1,mh4g-dex-build7+mh4edit-mit-save-id
+41,加弹珠【2】,ShotPlus Jewel 2,mh4g-dex-build7+mh4edit-mit-save-id
+42,加贯珠【1】,PiercePlus Jwl 1,mh4g-dex-build7+mh4edit-mit-save-id
+43,加散珠【1】,PelletPlus Jwl 1,mh4g-dex-build7+mh4edit-mit-save-id
+44,加榴珠【1】,CragPlus Jewel 1,mh4g-dex-build7+mh4edit-mit-save-id
+45,加扩珠【1】,ClustPlus Jwl 1,mh4g-dex-build7+mh4edit-mit-save-id
+46,加斩珠【1】,SlicePlus Jwl 1,mh4g-dex-build7+mh4edit-mit-save-id
+47,加爆珠【1】,BlastPlus Jwl 1,mh4g-dex-build7+mh4edit-mit-save-id
+48,特攻珠【1】,Disabler Jewel 1,mh4g-dex-build7+mh4edit-mit-save-id
+49,特攻珠【2】,Disabler Jewel 2,mh4g-dex-build7+mh4edit-mit-save-id
+50,属攻珠【1】,Element Jewel 1,mh4g-dex-build7+mh4edit-mit-save-id
+51,属攻珠【3】,Element Jewel 3,mh4g-dex-build7+mh4edit-mit-save-id
+52,爆师珠【1】,Bombardier Jwl 1,mh4g-dex-build7+mh4edit-mit-save-id
+53,无食珠【1】,Hungerless Jwl 1,mh4g-dex-build7+mh4edit-mit-save-id
+54,食汉珠【1】,Metabolism Jwl 1,mh4g-dex-build7+mh4edit-mit-save-id
+55,攻击珠【1】,Attack Jewel 1,mh4g-dex-build7+mh4edit-mit-save-id
+56,攻击珠【2】,Attack Jewel 2,mh4g-dex-build7+mh4edit-mit-save-id
+57,攻击珠【3】,Attack Jewel 3,mh4g-dex-build7+mh4edit-mit-save-id
+58,防御珠【1】,Defense Jewel 1,mh4g-dex-build7+mh4edit-mit-save-id
+59,防御珠【2】,Defense Jewel 2,mh4g-dex-build7+mh4edit-mit-save-id
+60,防御珠【3】,Defense Jewel 3,mh4g-dex-build7+mh4edit-mit-save-id
+61,加护珠【1】,Protection Jwl 1,mh4g-dex-build7+mh4edit-mit-save-id
+62,神护珠【1】,Asylum Jewel 1,mh4g-dex-build7+mh4edit-mit-save-id
+63,防音珠【1】,Earplug Jewel 1,mh4g-dex-build7+mh4edit-mit-save-id
+64,防音珠【3】,Earplug Jewel 3,mh4g-dex-build7+mh4edit-mit-save-id
+65,防盗珠【1】,Alarm Jewel 1,mh4g-dex-build7+mh4edit-mit-save-id
+66,友爱珠【1】,Friendship Jwl 1,mh4g-dex-build7+mh4edit-mit-save-id
+67,友爱珠【2】,Friendship Jwl 2,mh4g-dex-build7+mh4edit-mit-save-id
+68,运搬珠【1】,Transportr Jwl 1,mh4g-dex-build7+mh4edit-mit-save-id
+69,耐火珠【1】,Fire Res Jewel 1,mh4g-dex-build7+mh4edit-mit-save-id
+70,制火珠【1】,Nul-Fire Jewel 1,mh4g-dex-build7+mh4edit-mit-save-id
+71,耐水珠【1】,Water Res Jwl 1,mh4g-dex-build7+mh4edit-mit-save-id
+72,制水珠【1】,Nul-Water Jwl 1,mh4g-dex-build7+mh4edit-mit-save-id
+73,耐冰珠【1】,Ice Res Jewel 1,mh4g-dex-build7+mh4edit-mit-save-id
+74,制冰珠【1】,Nul-Ice Jewel 1,mh4g-dex-build7+mh4edit-mit-save-id
+75,耐雷珠【1】,ThunderRes Jwl 1,mh4g-dex-build7+mh4edit-mit-save-id
+76,制雷珠【1】,Nul-Thundr Jwl 1,mh4g-dex-build7+mh4edit-mit-save-id
+77,耐龙珠【1】,Dragon Res Jwl 1,mh4g-dex-build7+mh4edit-mit-save-id
+78,制龙珠【1】,Nul-Dragon Jwl 1,mh4g-dex-build7+mh4edit-mit-save-id
+79,耐暑珠【1】,Heat Res Jewel 1,mh4g-dex-build7+mh4edit-mit-save-id
+80,耐寒珠【1】,Cold Res Jewel 1,mh4g-dex-build7+mh4edit-mit-save-id
+81,防风珠【1】,Wind Res Jewel 1,mh4g-dex-build7+mh4edit-mit-save-id
+82,防风珠【2】,Wind Res Jewel 2,mh4g-dex-build7+mh4edit-mit-save-id
+83,采取珠【1】,Gathering Jwl 1,mh4g-dex-build7+mh4edit-mit-save-id
+84,速集珠【1】,Spree Jewel 1,mh4g-dex-build7+mh4edit-mit-save-id
+85,祝福珠【1】,Blessing Jewel 1,mh4g-dex-build7+mh4edit-mit-save-id
+86,运气珠【1】,Fate Jewel 1,mh4g-dex-build7+mh4edit-mit-save-id
+87,运气珠【3】,Fate Jewel 3,mh4g-dex-build7+mh4edit-mit-save-id
+88,千里珠【1】,Psychic Jewel 1,mh4g-dex-build7+mh4edit-mit-save-id
+89,治愈珠【1】,Medicine Jewel 1,mh4g-dex-build7+mh4edit-mit-save-id
+90,治愈珠【2】,Medicine Jewel 2,mh4g-dex-build7+mh4edit-mit-save-id
+91,博士珠【1】,Professor Jwl 1,mh4g-dex-build7+mh4edit-mit-save-id
+92,弹制珠【1】,Factory Jewel 1,mh4g-dex-build7+mh4edit-mit-save-id
+93,回避珠【1】,Evasion Jewel 1,mh4g-dex-build7+mh4edit-mit-save-id
+94,回避珠【2】,Evasion Jewel 2,mh4g-dex-build7+mh4edit-mit-save-id
+95,底力珠【1】,Potential Jwl 1,mh4g-dex-build7+mh4edit-mit-save-id
+96,底力珠【2】,Potential Jwl 2,mh4g-dex-build7+mh4edit-mit-save-id
+97,持续珠【1】,Enduring Jewel 1,mh4g-dex-build7+mh4edit-mit-save-id
+98,强走珠【1】,Sprinter Jewel 1,mh4g-dex-build7+mh4edit-mit-save-id
+99,强走珠【3】,Sprinter Jewel 3,mh4g-dex-build7+mh4edit-mit-save-id
+100,装填珠【2】,Capacity Jewel 2,mh4g-dex-build7+mh4edit-mit-save-id
+101,装填珠【3】,Capacity Jewel 3,mh4g-dex-build7+mh4edit-mit-save-id
+102,增填珠【3】,Laden Jewel 3,mh4g-dex-build7+mh4edit-mit-save-id
+103,点射珠【1】,Sniper Jewel 1,mh4g-dex-build7+mh4edit-mit-save-id
+104,早食珠【1】,Gobbler Jewel 1,mh4g-dex-build7+mh4edit-mit-save-id
+105,早食珠【3】,Gobbler Jewel 3,mh4g-dex-build7+mh4edit-mit-save-id
+106,皮剥珠【1】,Carver Jewel 1,mh4g-dex-build7+mh4edit-mit-save-id
+107,皮剥珠【3】,Carver Jewel 3,mh4g-dex-build7+mh4edit-mit-save-id
+108,耐震珠【1】,Footing Jewel 1,mh4g-dex-build7+mh4edit-mit-save-id
+109,抗震珠【1】,Tectonic Jewel 1,mh4g-dex-build7+mh4edit-mit-save-id
+110,跳跃珠【1】,Jumping Jewel 1,mh4g-dex-build7+mh4edit-mit-save-id
+111,跳跃珠【2】,Jumping Jewel 2,mh4g-dex-build7+mh4edit-mit-save-id
+112,拔刀珠【1】,Draw Jewel 1,mh4g-dex-build7+mh4edit-mit-save-id
+113,拔刀珠【2】,Draw Jewel 2,mh4g-dex-build7+mh4edit-mit-save-id
+114,罠师珠【1】,Trapmaster Jwl 1,mh4g-dex-build7+mh4edit-mit-save-id
+115,体术珠【1】,Physique Jewel 1,mh4g-dex-build7+mh4edit-mit-save-id
+116,体术珠【2】,Physique Jewel 2,mh4g-dex-build7+mh4edit-mit-save-id
+117,捕获珠【1】,Capture Jewel 1,mh4g-dex-build7+mh4edit-mit-save-id
+118,捕获珠【3】,Capture Jewel 3,mh4g-dex-build7+mh4edit-mit-save-id
+119,观察珠【1】,Perception Jwl 1,mh4g-dex-build7+mh4edit-mit-save-id
+120,短缩珠【1】,Charger Jewel 1,mh4g-dex-build7+mh4edit-mit-save-id
+121,短缩珠【3】,Charger Jewel 3,mh4g-dex-build7+mh4edit-mit-save-id
+122,拔打珠【1】,Gambit Jewel 1,mh4g-dex-build7+mh4edit-mit-save-id
+123,拔打珠【3】,Gambit Jewel 3,mh4g-dex-build7+mh4edit-mit-save-id
+124,属耐珠【1】,Resistor Jewel 1,mh4g-dex-build7+mh4edit-mit-save-id
+125,属耐珠【3】,Resistor Jewel 3,mh4g-dex-build7+mh4edit-mit-save-id
+126,解放珠【2】,Release Jewel 2,mh4g-dex-build7+mh4edit-mit-save-id
+127,觉醒珠【3】,Catalyst Jewel 3,mh4g-dex-build7+mh4edit-mit-save-id
+128,真觉醒珠【3】,TrueCatalystJwl 3,mh4g-dex-build7+mh4edit-mit-save-id
+129,逆境珠【1】,Fortitude Jwl 1,mh4g-dex-build7+mh4edit-mit-save-id
+130,逆境珠【2】,Fortitude Jwl 2,mh4g-dex-build7+mh4edit-mit-save-id
+131,速射珠【1】,Salvo Jewel 1,mh4g-dex-build7+mh4edit-mit-save-id
+132,速射珠【3】,Salvo Jewel 3,mh4g-dex-build7+mh4edit-mit-save-id
+133,燃烧珠【1】,Torchlight Jwl 1,mh4g-dex-build7+mh4edit-mit-save-id
+134,耐防珠【1】,Def Lock Jewel 1,mh4g-dex-build7+mh4edit-mit-save-id
+135,火炎珠【1】,Blaze Jewel 1,mh4g-dex-build7+mh4edit-mit-save-id
+136,火炎珠【2】,Blaze Jewel 2,mh4g-dex-build7+mh4edit-mit-save-id
+137,流水珠【1】,Stream Jewel 1,mh4g-dex-build7+mh4edit-mit-save-id
+138,流水珠【2】,Stream Jewel 2,mh4g-dex-build7+mh4edit-mit-save-id
+139,雷光珠【1】,Bolt Jewel 1,mh4g-dex-build7+mh4edit-mit-save-id
+140,雷光珠【2】,Bolt Jewel 2,mh4g-dex-build7+mh4edit-mit-save-id
+141,冰结珠【1】,Frost Jewel 1,mh4g-dex-build7+mh4edit-mit-save-id
+142,冰结珠【2】,Frost Jewel 2,mh4g-dex-build7+mh4edit-mit-save-id
+143,破龙珠【1】,Dragon Jewel 1,mh4g-dex-build7+mh4edit-mit-save-id
+144,破龙珠【2】,Dragon Jewel 2,mh4g-dex-build7+mh4edit-mit-save-id
+145,痛击珠【1】,Tenderizer Jwl 1,mh4g-dex-build7+mh4edit-mit-save-id
+146,痛击珠【3】,Tenderizer Jwl 3,mh4g-dex-build7+mh4edit-mit-save-id
+147,重击珠【1】,Destroyer Jwl 1,mh4g-dex-build7+mh4edit-mit-save-id
+148,重击珠【3】,Destroyer Jwl 3,mh4g-dex-build7+mh4edit-mit-save-id
+149,全开珠【1】,Throttle Jewel 1,mh4g-dex-build7+mh4edit-mit-save-id
+150,全开珠【2】,Throttle Jewel 2,mh4g-dex-build7+mh4edit-mit-save-id
+151,ＫＯ珠【1】,KO Jewel 1,mh4g-dex-build7+mh4edit-mit-save-id
+152,ＫＯ珠【2】,KO Jewel 2,mh4g-dex-build7+mh4edit-mit-save-id
+153,夺气珠【1】,Drain Jewel 1,mh4g-dex-build7+mh4edit-mit-save-id
+154,夺气珠【2】,Drain Jewel 2,mh4g-dex-build7+mh4edit-mit-save-id
+155,鼓笛珠【1】,Sonorous Jewel 1,mh4g-dex-build7+mh4edit-mit-save-id
+156,炮术珠【1】,Artillery Jwl 1,mh4g-dex-build7+mh4edit-mit-save-id
+157,速纳珠【1】,Sheath Jewel 1,mh4g-dex-build7+mh4edit-mit-save-id
+158,速纳珠【2】,Sheath Jewel 2,mh4g-dex-build7+mh4edit-mit-save-id
+159,早气珠【1】,Refresh Jewel 1,mh4g-dex-build7+mh4edit-mit-save-id
+160,早气珠【2】,Refresh Jewel 2,mh4g-dex-build7+mh4edit-mit-save-id
+161,狩人珠【1】,Ranger Jewel 1,mh4g-dex-build7+mh4edit-mit-save-id
+162,痹瓶珠【1】,Paracoat Jewel 1,mh4g-dex-build7+mh4edit-mit-save-id
+163,痹瓶珠【2】,Paracoat Jewel 2,mh4g-dex-build7+mh4edit-mit-save-id
+164,眠瓶珠【1】,Sleepcoat Jwl 1,mh4g-dex-build7+mh4edit-mit-save-id
+165,毒瓶珠【1】,Poisoncoat Jwl 1,mh4g-dex-build7+mh4edit-mit-save-id
+166,强瓶珠【1】,Powercoat Jwl 1,mh4g-dex-build7+mh4edit-mit-save-id
+167,强瓶珠【2】,Powercoat Jwl 2,mh4g-dex-build7+mh4edit-mit-save-id
+168,接瓶珠【1】,Rangecoat Jwl 1,mh4g-dex-build7+mh4edit-mit-save-id
+169,爆瓶珠【1】,Blastcoat Jwl 1,mh4g-dex-build7+mh4edit-mit-save-id
+170,减瓶珠【1】,Draincoat Jwl 1,mh4g-dex-build7+mh4edit-mit-save-id
+171,根性珠【1】,Guts Jewel 1,mh4g-dex-build7+mh4edit-mit-save-id
+172,根性珠【2】,Guts Jewel 2,mh4g-dex-build7+mh4edit-mit-save-id
+173,肉食珠【1】,Meateater Jwl 1,mh4g-dex-build7+mh4edit-mit-save-id
+174,肉好珠【1】,Meatlover Jwl 1,mh4g-dex-build7+mh4edit-mit-save-id
+175,蜜集珠【1】,Honeybee Jewel 1,mh4g-dex-build7+mh4edit-mit-save-id
+176,蜜占珠【1】,Queenbee Jewel 1,mh4g-dex-build7+mh4edit-mit-save-id
+177,菌学珠【1】,Biology Jewel 1,mh4g-dex-build7+mh4edit-mit-save-id
+178,菌究珠【1】,Microbio Jewel 1,mh4g-dex-build7+mh4edit-mit-save-id
+179,斗魂珠【1】,Spirit Jewel 1,mh4g-dex-build7+mh4edit-mit-save-id
+180,斗魂珠【2】,Spirit Jewel 2,mh4g-dex-build7+mh4edit-mit-save-id
+181,无伤珠【1】,Flawless Jewel 1,mh4g-dex-build7+mh4edit-mit-save-id
+182,无伤珠【2】,Flawless Jewel 2,mh4g-dex-build7+mh4edit-mit-save-id
+183,刚体珠【1】,Steady Jewel 1,mh4g-dex-build7+mh4edit-mit-save-id
+184,刚体珠【3】,Steady Jewel 3,mh4g-dex-build7+mh4edit-mit-save-id
+185,采配珠【1】,Player Jewel 1,mh4g-dex-build7+mh4edit-mit-save-id
+186,名采配珠【1】,Morale Jewel 1,mh4g-dex-build7+mh4edit-mit-save-id
+187,号令珠【1】,Leader Jewel 1,mh4g-dex-build7+mh4edit-mit-save-id
+188,号令珠【2】,Leader Jewel 2,mh4g-dex-build7+mh4edit-mit-save-id
+189,护石珠【1】,Charmer Jewel 1,mh4g-dex-build7+mh4edit-mit-save-id
+190,刀匠珠【1】,Honed Jwl 1,mh4g-dex-build7+mh4edit-mit-save-id
+191,刀匠珠【2】,Honed Jwl 2,mh4g-dex-build7+mh4edit-mit-save-id
+192,刀匠珠【3】,Honed Jwl 3,mh4g-dex-build7+mh4edit-mit-save-id
+193,刀匠真珠【3】,True Honed Jwl 3,mh4g-dex-build7+mh4edit-mit-save-id
+194,射手珠【1】,Calm Jwl 1,mh4g-dex-build7+mh4edit-mit-save-id
+195,射手珠【2】,Calm Jwl 2,mh4g-dex-build7+mh4edit-mit-save-id
+196,射手珠【3】,Calm Jwl 3,mh4g-dex-build7+mh4edit-mit-save-id
+197,射手真珠【3】,True Calm Jwl 3,mh4g-dex-build7+mh4edit-mit-save-id
+198,状耐珠【1】,Hale Jwl 1,mh4g-dex-build7+mh4edit-mit-save-id
+199,状耐珠【2】,Hale Jwl 2,mh4g-dex-build7+mh4edit-mit-save-id
+200,状耐珠【3】,Hale Jwl 3,mh4g-dex-build7+mh4edit-mit-save-id
+201,状耐真珠【3】,True Hale Jwl 3,mh4g-dex-build7+mh4edit-mit-save-id
+202,怒珠【1】,Ire Jwl 1,mh4g-dex-build7+mh4edit-mit-save-id
+203,怒珠【2】,Ire Jwl 2,mh4g-dex-build7+mh4edit-mit-save-id
+204,怒珠【3】,Ire Jwl 3,mh4g-dex-build7+mh4edit-mit-save-id
+205,怒真珠【3】,True Ire Jwl 3,mh4g-dex-build7+mh4edit-mit-save-id
+206,回术珠【1】,Nimble Jwl 1,mh4g-dex-build7+mh4edit-mit-save-id
+207,回术真珠【1】,True Nimble Jwl 1,mh4g-dex-build7+mh4edit-mit-save-id
+208,回术珠【2】,Nimble Jwl 2,mh4g-dex-build7+mh4edit-mit-save-id
+209,回术珠【3】,Nimble Jwl 3,mh4g-dex-build7+mh4edit-mit-save-id
+210,回术真珠【3】,True Nimble Jwl 3,mh4g-dex-build7+mh4edit-mit-save-id
+211,顽强珠【1】,Hardy Jwl 1,mh4g-dex-build7+mh4edit-mit-save-id
+212,顽强真珠【1】,True Hardy Jwl 1,mh4g-dex-build7+mh4edit-mit-save-id
+213,顽强珠【2】,Hardy Jwl 2,mh4g-dex-build7+mh4edit-mit-save-id
+214,顽强珠【3】,Hardy Jwl 3,mh4g-dex-build7+mh4edit-mit-save-id
+215,顽强真珠【3】,True Hardy Jwl 3,mh4g-dex-build7+mh4edit-mit-save-id
+216,居合珠【1】,Withdrawn Jwl 1,mh4g-dex-build7+mh4edit-mit-save-id
+217,居合珠【3】,Withdrawn Jwl 3,mh4g-dex-build7+mh4edit-mit-save-id
+218,刚击珠【1】,Impactful Jwl 1,mh4g-dex-build7+mh4edit-mit-save-id
+219,刚击珠【3】,Impactful Jwl 3,mh4g-dex-build7+mh4edit-mit-save-id
+220,一心珠【2】,Intense Jwl 2,mh4g-dex-build7+mh4edit-mit-save-id
+221,一心珠【3】,Intense Jwl 3,mh4g-dex-build7+mh4edit-mit-save-id
+222,盾持珠【2】,Aegis Jwl 2,mh4g-dex-build7+mh4edit-mit-save-id
+223,盾持珠【3】,Aegis Jwl 3,mh4g-dex-build7+mh4edit-mit-save-id
+224,洁癖珠【2】,Tactful Jwl 2,mh4g-dex-build7+mh4edit-mit-save-id
+225,洁癖珠【3】,Tactful Jwl 3,mh4g-dex-build7+mh4edit-mit-save-id
+226,增幅珠【2】,Broad Jwl 2,mh4g-dex-build7+mh4edit-mit-save-id
+227,增幅珠【3】,Broad Jwl 3,mh4g-dex-build7+mh4edit-mit-save-id
+228,护收珠【1】,Trove Jwl 1,mh4g-dex-build7+mh4edit-mit-save-id
+229,护收真珠【1】,True Trove Jwl 1,mh4g-dex-build7+mh4edit-mit-save-id
+230,护收珠【2】,Trove Jwl 2,mh4g-dex-build7+mh4edit-mit-save-id
+231,护收真珠【2】,True Trove Jwl 2,mh4g-dex-build7+mh4edit-mit-save-id
+232,护收珠【3】,Trove Jwl 3,mh4g-dex-build7+mh4edit-mit-save-id
+233,强欲珠【1】,Avid Jwl 1,mh4g-dex-build7+mh4edit-mit-save-id
+234,强欲真珠【1】,True Avid Jwl 1,mh4g-dex-build7+mh4edit-mit-save-id
+235,强欲珠【2】,Avid Jwl 2,mh4g-dex-build7+mh4edit-mit-save-id
+236,强欲真珠【2】,True Avid Jwl 2,mh4g-dex-build7+mh4edit-mit-save-id
+237,强欲珠【3】,Avid Jwl 3,mh4g-dex-build7+mh4edit-mit-save-id
+238,属会珠【1】,CritElementJwl 1,mh4g-dex-build7+mh4edit-mit-save-id
+239,属会珠【2】,CritElementJwl 2,mh4g-dex-build7+mh4edit-mit-save-id
+240,特会珠【1】,Crit Status Jwl 1,mh4g-dex-build7+mh4edit-mit-save-id
+241,特会珠【2】,Crit Status Jwl 2,mh4g-dex-build7+mh4edit-mit-save-id
+242,射法珠【1】,Precise Jewel 1,mh4g-dex-build7+mh4edit-mit-save-id
+243,射法珠【2】,Precise Jewel 2,mh4g-dex-build7+mh4edit-mit-save-id
+244,茸好珠【1】,Fungiform Jewel 1,mh4g-dex-build7+mh4edit-mit-save-id
+245,节食珠【1】,Satiated Jewel 1,mh4g-dex-build7+mh4edit-mit-save-id
+246,抗伤珠【1】,Staunch Jewel 1,mh4g-dex-build7+mh4edit-mit-save-id
+247,抗着珠【1】,Clean Jewel 1,mh4g-dex-build7+mh4edit-mit-save-id
+248,乘惯珠【1】,Rodeo Jewel 1,mh4g-dex-build7+mh4edit-mit-save-id
+249,抗狂珠【1】,Sane Jewel 1,mh4g-dex-build7+mh4edit-mit-save-id
+250,抗狂珠【3】,Sane Jewel 3,mh4g-dex-build7+mh4edit-mit-save-id
+251,斩术珠【1】,Cutting Jwl 1,mh4g-dex-build7+mh4edit-mit-save-id
+252,斩术珠【2】,Cutting Jwl 2,mh4g-dex-build7+mh4edit-mit-save-id
+253,斩术珠【3】,Cutting Jwl 3,mh4g-dex-build7+mh4edit-mit-save-id
+254,斩术真珠【3】,TrueCuttingJwl 3,mh4g-dex-build7+mh4edit-mit-save-id
+255,秘传珠【1】,Arcane Jwl 1,mh4g-dex-build7+mh4edit-mit-save-id
+256,秘传珠【2】,Arcane Jwl 2,mh4g-dex-build7+mh4edit-mit-save-id
+257,秘传珠【3】,Arcane Jwl 3,mh4g-dex-build7+mh4edit-mit-save-id
+258,秘传真珠【3】,True Arcane Jwl 3,mh4g-dex-build7+mh4edit-mit-save-id
+259,刚腕珠【1】,Brawn Jwl 1,mh4g-dex-build7+mh4edit-mit-save-id
+260,刚腕珠【2】,Brawn Jwl 2,mh4g-dex-build7+mh4edit-mit-save-id
+261,刚腕珠【3】,Brawn Jwl 3,mh4g-dex-build7+mh4edit-mit-save-id
+262,刚腕真珠【3】,True Brawn Jwl 3,mh4g-dex-build7+mh4edit-mit-save-id
+263,祈愿珠【1】,Supplicant Jwl 1,mh4g-dex-build7+mh4edit-mit-save-id
+264,祈愿珠【2】,Supplicant Jwl 2,mh4g-dex-build7+mh4edit-mit-save-id
+265,祈愿珠【3】,Supplicant Jwl 3,mh4g-dex-build7+mh4edit-mit-save-id
+266,里业珠【1】,Furtive Jwl 1,mh4g-dex-build7+mh4edit-mit-save-id
+267,里业珠【2】,Furtive Jwl 2,mh4g-dex-build7+mh4edit-mit-save-id
+268,里业珠【3】,Furtive Jwl 3,mh4g-dex-build7+mh4edit-mit-save-id
+269,里业真珠【3】,TrueFurtiveJwl 3,mh4g-dex-build7+mh4edit-mit-save-id
+270,刀匠真珠【2】,True Honed Jwl 2,mh4g-dex-build7+mh4edit-mit-save-id
+271,刀匠极珠【3】,UltimateHonedJwl3,mh4g-dex-build7+mh4edit-mit-save-id
+272,射手真珠【2】,True Calm Jwl 2,mh4g-dex-build7+mh4edit-mit-save-id
+273,射手极珠【3】,UltimateCalmJwl 3,mh4g-dex-build7+mh4edit-mit-save-id
+274,状耐真珠【2】,True Hale Jwl 2,mh4g-dex-build7+mh4edit-mit-save-id
+275,状耐极珠【3】,UltimateHaleJwl 3,mh4g-dex-build7+mh4edit-mit-save-id
+276,怒真珠【2】,True Ire Jwl 2,mh4g-dex-build7+mh4edit-mit-save-id
+277,怒极珠【3】,UltimateIreJwl 3,mh4g-dex-build7+mh4edit-mit-save-id
+278,居合珠【2】,Withdrawn Jwl 2,mh4g-dex-build7+mh4edit-mit-save-id
+279,居合真珠【3】,TrueWithdrawnJwl3,mh4g-dex-build7+mh4edit-mit-save-id
+280,刚击珠【2】,Impactful Jwl 2,mh4g-dex-build7+mh4edit-mit-save-id
+281,刚击真珠【3】,TrueImpactfulJwl3,mh4g-dex-build7+mh4edit-mit-save-id
+282,一心真珠【2】,TrueIntenseJwl 2,mh4g-dex-build7+mh4edit-mit-save-id
+283,一心真珠【3】,TrueIntenseJwl 3,mh4g-dex-build7+mh4edit-mit-save-id
+284,盾持真珠【2】,True Aegis Jwl 2,mh4g-dex-build7+mh4edit-mit-save-id
+285,盾持真珠【3】,True Aegis Jwl 3,mh4g-dex-build7+mh4edit-mit-save-id
+286,洁癖真珠【2】,TrueTactfulJwl 2,mh4g-dex-build7+mh4edit-mit-save-id
+287,洁癖真珠【3】,TrueTactfulJwl 3,mh4g-dex-build7+mh4edit-mit-save-id
+288,增幅真珠【2】,True Broad Jwl 2,mh4g-dex-build7+mh4edit-mit-save-id
+289,增幅真珠【3】,True Broad Jwl 3,mh4g-dex-build7+mh4edit-mit-save-id

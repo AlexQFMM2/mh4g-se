@@ -1,0 +1,230 @@
+id,name,english,source,rarity,is_relic
+0,无,None,mh4g-save-format,0,0
+1,双刀,Matched Slicers,mh4g-dex-build7+mh4edit-mit-save-id,1,0
+2,双刀改,Matched Slicers+,mh4g-dex-build7+mh4edit-mit-save-id,1,0
+3,决斗双刀,Dual Slicers,mh4g-dex-build7+mh4edit-mit-save-id,1,0
+4,双战斧,Dual Hatchets,mh4g-dex-build7+mh4edit-mit-save-id,2,0
+5,双战斧改,Dual Hatchets+,mh4g-dex-build7+mh4edit-mit-save-id,2,0
+6,双风战斧风,Dual Cleavers+,mh4g-dex-build7+mh4edit-mit-save-id,3,0
+7,飓风,Hurricane,mh4g-dex-build7+mh4edit-mit-save-id,4,0
+8,龙卷风,Cyclone,mh4g-dex-build7+mh4edit-mit-save-id,5,0
+9,轰龙剔刀,Rex Slicers,mh4g-dex-build7+mh4edit-mit-save-id,3,0
+10,轰爪【虎血】,Tigrex Claws,mh4g-dex-build7+mh4edit-mit-save-id,5,0
+11,暴君切刃,Accursed Slicers,mh4g-dex-build7+mh4edit-mit-save-id,6,0
+12,冲爪【虎豹】,Pouncing Graveclaws,mh4g-dex-build7+mh4edit-mit-save-id,7,0
+13,冰冷短刀,Freezing Daggers,mh4g-dex-build7+mh4edit-mit-save-id,2,0
+14,冰冷短刀改,Freezing Daggers+,mh4g-dex-build7+mh4edit-mit-save-id,3,0
+15,寒冰短刀,Icicle Daggers,mh4g-dex-build7+mh4edit-mit-save-id,4,0
+16,死亡冰封,Frozen Death,mh4g-dex-build7+mh4edit-mit-save-id,4,0
+17,昆虫指令,Insecticutters,mh4g-dex-build7+mh4edit-mit-save-id,2,0
+18,昆虫指令改,Insecticutters+,mh4g-dex-build7+mh4edit-mit-save-id,3,0
+19,昆虫切刃,Insectiscythes,mh4g-dex-build7+mh4edit-mit-save-id,4,0
+20,昆虫警报,Alated Insect,mh4g-dex-build7+mh4edit-mit-save-id,6,0
+21,教团细剑,Sworn Rapiers,mh4g-dex-build7+mh4edit-mit-save-id,2,0
+22,神圣军刀,Holy Sabers,mh4g-dex-build7+mh4edit-mit-save-id,3,0
+23,公会骑士军刀,Guild Knight Sabers,mh4g-dex-build7+mh4edit-mit-save-id,4,0
+24,大师军刀,Master Sabers,mh4g-dex-build7+mh4edit-mit-save-id,5,0
+25,狗龙双刀,Jaggid Shotels,mh4g-dex-build7+mh4edit-mit-save-id,1,0
+26,首领双刃,Leader's Shotels,mh4g-dex-build7+mh4edit-mit-save-id,2,0
+27,利爪of撕裂者,Fledderklauen,mh4g-dex-build7+mh4edit-mit-save-id,3,0
+28,利爪of嗜血者,Hungerklauen,mh4g-dex-build7+mh4edit-mit-save-id,4,0
+29,利爪of携带者,Aasklauen,mh4g-dex-build7+mh4edit-mit-save-id,5,0
+30,THE使徒,Les Apôtres,mh4g-dex-build7+mh4edit-mit-save-id,7,0
+31,鲨鱼清道夫,Cleaving Jaws,mh4g-dex-build7+mh4edit-mit-save-id,2,0
+32,鲨鱼清道夫改,Cleaving Jaws+,mh4g-dex-build7+mh4edit-mit-save-id,3,0
+33,残酷清道夫,Cool Cleavers,mh4g-dex-build7+mh4edit-mit-save-id,5,0
+34,冰封清道夫,Frozen Cleavers,mh4g-dex-build7+mh4edit-mit-save-id,6,0
+35,骨铐,Bone Scythes,mh4g-dex-build7+mh4edit-mit-save-id,1,0
+36,骨铐改,Bone Scythes+,mh4g-dex-build7+mh4edit-mit-save-id,1,0
+37,双弯刀,Chief's Scythes,mh4g-dex-build7+mh4edit-mit-save-id,1,0
+38,决斗双斧,Dual Battleaxe,mh4g-dex-build7+mh4edit-mit-save-id,2,0
+39,决斗双斧改,Dual Battleaxe+,mh4g-dex-build7+mh4edit-mit-save-id,2,0
+40,双重战斧,Double Tabarzin,mh4g-dex-build7+mh4edit-mit-save-id,3,0
+41,猛烈毒素,Terminal Toxin,mh4g-dex-build7+mh4edit-mit-save-id,4,0
+42,致命毒素,Mortal Miasma,mh4g-dex-build7+mh4edit-mit-save-id,6,0
+43,双剑霞龙,Dual Chameleos,mh4g-dex-build7+mh4edit-mit-save-id,7,0
+44,双炎,Twin Flames,mh4g-dex-build7+mh4edit-mit-save-id,3,0
+45,高级双炎,High Twin Flames,mh4g-dex-build7+mh4edit-mit-save-id,4,0
+46,双剑龙炎,Wyvern Lovers,mh4g-dex-build7+mh4edit-mit-save-id,5,0
+47,激龙双剑,Wyvern Strife,mh4g-dex-build7+mh4edit-mit-save-id,7,0
+48,粉红双球,Pink Maracas,mh4g-dex-build7+mh4edit-mit-save-id,2,0
+49,时髦双球,Funky Maracas,mh4g-dex-build7+mh4edit-mit-save-id,3,0
+50,丛林双球,Jungle Maracas,mh4g-dex-build7+mh4edit-mit-save-id,4,0
+51,永恒之绿,Evergreen,mh4g-dex-build7+mh4edit-mit-save-id,5,0
+52,昆虫双刺,Whirlitwists,mh4g-dex-build7+mh4edit-mit-save-id,1,0
+53,螺旋双刺,Whirlitricks,mh4g-dex-build7+mh4edit-mit-save-id,2,0
+54,利刃双刺,Whirlitorture,mh4g-dex-build7+mh4edit-mit-save-id,3,0
+55,螺旋之刃,Spiral Edges,mh4g-dex-build7+mh4edit-mit-save-id,5,0
+56,旋坏螺旋刃,Gyro Wedges,mh4g-dex-build7+mh4edit-mit-save-id,6,0
+57,暴雪双刃,Snow Slicers,mh4g-dex-build7+mh4edit-mit-save-id,2,0
+58,暴雪霜冻刃,Snow Sisters,mh4g-dex-build7+mh4edit-mit-save-id,3,0
+59,白兔冰刃,Maulagombs,mh4g-dex-build7+mh4edit-mit-save-id,5,0
+60,白兔寒冰刃,Brawlagombs,mh4g-dex-build7+mh4edit-mit-save-id,6,0
+61,双电锯刀,Twin Chainsaws,mh4g-dex-build7+mh4edit-mit-save-id,2,0
+62,王双刃旗雷,Usurper's Fulgur,mh4g-dex-build7+mh4edit-mit-save-id,3,0
+63,王牙双刃【土雷】,Despot's Blitz,mh4g-dex-build7+mh4edit-mit-save-id,5,0
+64,雷双剑双重十字架,Levin Acrus,mh4g-dex-build7+mh4edit-mit-save-id,6,0
+65,狱双刃龙葬,Brimstren Drakeclaws,mh4g-dex-build7+mh4edit-mit-save-id,6,0
+66,蓝速龙双爪,Vprey Claws,mh4g-dex-build7+mh4edit-mit-save-id,1,0
+67,高级蓝速龙双爪,High Vprey Claws,mh4g-dex-build7+mh4edit-mit-save-id,2,0
+68,铁扇【乌】,Raven Tessen,mh4g-dex-build7+mh4edit-mit-save-id,3,0
+69,铁扇【狼】,Wolf Tessen,mh4g-dex-build7+mh4edit-mit-save-id,4,0
+70,铁扇【凶】,Crow Tessen,mh4g-dex-build7+mh4edit-mit-save-id,6,0
+71,怪鸟双刀,Kut-Ku Pair,mh4g-dex-build7+mh4edit-mit-save-id,2,0
+72,怪鸟双刀改,Kut-Ku Pair+,mh4g-dex-build7+mh4edit-mit-save-id,3,0
+73,熔岩勇士,Melting Wail,mh4g-dex-build7+mh4edit-mit-save-id,5,0
+74,熔岩勇者,Melting Blazer,mh4g-dex-build7+mh4edit-mit-save-id,6,0
+75,迪欧斯之刃,Dios Slicers,mh4g-dex-build7+mh4edit-mit-save-id,4,0
+76,迪欧斯之刃改,Dios Slicers+,mh4g-dex-build7+mh4edit-mit-save-id,5,0
+77,爆碎之双刃,Demolition Blades,mh4g-dex-build7+mh4edit-mit-save-id,6,0
+78,双龙剑,Dual Dragon,mh4g-dex-build7+mh4edit-mit-save-id,4,0
+79,双龙剑【极】,Dual Dragon Ultimus,mh4g-dex-build7+mh4edit-mit-save-id,6,0
+80,双龙剑【极冲】,Dual Dragon Ultimus+,mh4g-dex-build7+mh4edit-mit-save-id,7,0
+81,白猫君黑猫君,Felyne and Melynx,mh4g-dex-build7+mh4edit-mit-save-id,4,0
+82,白猫大人黑猫大人,Felyne and Melynx+,mh4g-dex-build7+mh4edit-mit-save-id,5,0
+83,水龙双刀,Plesioth Cutlasses,mh4g-dex-build7+mh4edit-mit-save-id,2,0
+84,水龙双刃,Plesioth Machetes,mh4g-dex-build7+mh4edit-mit-save-id,4,0
+85,翠水睡剑,Verdant Slashers,mh4g-dex-build7+mh4edit-mit-save-id,5,0
+86,水城嗜睡者,Alluvion Slashers,mh4g-dex-build7+mh4edit-mit-save-id,6,0
+87,贪吃鬼套装,Glutton's Tools,mh4g-dex-build7+mh4edit-mit-save-id,3,0
+88,刀叉组合,Gorger's Tools,mh4g-dex-build7+mh4edit-mit-save-id,5,0
+89,风化严重的双剑,Worn Blades,mh4g-dex-build7+mh4edit-mit-save-id,5,0
+90,风化的双剑,Weathered Blades,mh4g-dex-build7+mh4edit-mit-save-id,5,0
+91,封龙剑【超绝一门】,Enduring Schism,mh4g-dex-build7+mh4edit-mit-save-id,6,0
+92,双爪,Twin Nails,mh4g-dex-build7+mh4edit-mit-save-id,6,0
+93,冰炎剑冰火重生,Fire and Ice,mh4g-dex-build7+mh4edit-mit-save-id,7,0
+94,迅雷,Monarch,mh4g-dex-build7+mh4edit-mit-save-id,4,0
+95,双雷剑麒麟,Kirin Bolts,mh4g-dex-build7+mh4edit-mit-save-id,7,0
+96,祭囃子・叫雹之调,Ritual Hailscreamers,mh4g-dex-build7+mh4edit-mit-save-id,7,0
+97,愤怒双刃,Wrath & Rancor,mh4g-dex-build7+mh4edit-mit-save-id,4,0
+98,恐暴双巨刃,Wrathful Predation,mh4g-dex-build7+mh4edit-mit-save-id,6,0
+99,业双刃贝加莫拉尔塔,Consummate Pair,mh4g-dex-build7+mh4edit-mit-save-id,7,0
+100,霸爪黑神牙,Akantor Blades,mh4g-dex-build7+mh4edit-mit-save-id,7,0
+101,束缚黑棘之刃,Blackspine Bundles,mh4g-dex-build7+mh4edit-mit-save-id,6,0
+102,撕裂森罗万象之刃,The Wrackful Gemini,mh4g-dex-build7+mh4edit-mit-save-id,7,0
+103,双龙刃【红空暗夜】,Ebonblood Twindrakes,mh4g-dex-build7+mh4edit-mit-save-id,7,0
+104,dummy104,dummy104,mh4edit-mit-save-id-en-fallback,0,0
+105,dummy105,dummy105,mh4edit-mit-save-id-en-fallback,0,0
+106,dummy106,dummy106,mh4edit-mit-save-id-en-fallback,0,0
+107,双刃大怪鸟,Dual Kut-Ku,mh4g-dex-build7+mh4edit-mit-save-id,4,0
+108,dummy108,dummy108,mh4edit-mit-save-id-en-fallback,0,0
+109,dummy109,dummy109,mh4edit-mit-save-id-en-fallback,0,0
+110,Twins Regnant (red),Twins Regnant (red),mh4edit-mit-save-id-en-fallback,0,1
+111,Twins Regnant (yellow),Twins Regnant (yellow),mh4edit-mit-save-id-en-fallback,0,1
+112,Twins Regnant (green),Twins Regnant (green),mh4edit-mit-save-id-en-fallback,0,1
+113,Twins Regnant (blue),Twins Regnant (blue),mh4edit-mit-save-id-en-fallback,0,1
+114,Twins Regnant (purple),Twins Regnant (purple),mh4edit-mit-save-id-en-fallback,0,1
+115,蓝速龙双爪（红）,Vprey Claws (red),mh4g-dex-build7+mh4edit-mit-save-id,0,1
+116,蓝速龙双爪（黄）,Vprey Claws (yellow),mh4g-dex-build7+mh4edit-mit-save-id,0,1
+117,蓝速龙双爪（绿）,Vprey Claws (green),mh4g-dex-build7+mh4edit-mit-save-id,0,1
+118,蓝速龙双爪（蓝）,Vprey Claws (blue),mh4g-dex-build7+mh4edit-mit-save-id,0,1
+119,蓝速龙双爪（紫）,Vprey Claws (purple),mh4g-dex-build7+mh4edit-mit-save-id,0,1
+120,Tessen (red),Tessen (red),mh4edit-mit-save-id-en-fallback,0,1
+121,Tessen (yellow),Tessen (yellow),mh4edit-mit-save-id-en-fallback,0,1
+122,Tessen (green),Tessen (green),mh4edit-mit-save-id-en-fallback,0,1
+123,Tessen (blue),Tessen (blue),mh4edit-mit-save-id-en-fallback,0,1
+124,Tessen (purple),Tessen (purple),mh4edit-mit-save-id-en-fallback,0,1
+125,Ritual Ephemera (red),Ritual Ephemera (red),mh4edit-mit-save-id-en-fallback,0,1
+126,Ritual Ephemera (yellow),Ritual Ephemera (yellow),mh4edit-mit-save-id-en-fallback,0,1
+127,Ritual Ephemera (green),Ritual Ephemera (green),mh4edit-mit-save-id-en-fallback,0,1
+128,Ritual Ephemera (blue),Ritual Ephemera (blue),mh4edit-mit-save-id-en-fallback,0,1
+129,Ritual Ephemera (purple),Ritual Ephemera (purple),mh4edit-mit-save-id-en-fallback,0,1
+130,公会骑士军刀（红）,Guild Knight Sabers (red),mh4g-dex-build7+mh4edit-mit-save-id,0,1
+131,公会骑士军刀（黄）,Guild Knight Sabers (yellow),mh4g-dex-build7+mh4edit-mit-save-id,0,1
+132,公会骑士军刀（绿）,Guild Knight Sabers (green),mh4g-dex-build7+mh4edit-mit-save-id,0,1
+133,公会骑士军刀（蓝）,Guild Knight Sabers (blue),mh4g-dex-build7+mh4edit-mit-save-id,0,1
+134,公会骑士军刀（紫）,Guild Knight Sabers (purple),mh4g-dex-build7+mh4edit-mit-save-id,0,1
+135,DUMMY,DUMMY,mh4edit-mit-save-id-en-fallback,0,0
+136,旋风双战斧,Tornado Hatchets,mh4g-dex-build7+mh4edit-mit-save-id,8,0
+137,台风,Typhoon,mh4g-dex-build7+mh4edit-mit-save-id,9,0
+138,冲爪【虎豹】改,Pouncing Graveclaws+,mh4g-dex-build7+mh4edit-mit-save-id,9,0
+139,绝冲爪【虎刃】,Razor Grisclaws,mh4g-dex-build7+mh4edit-mit-save-id,10,0
+140,极冻之灵,Gelid Mind,mh4g-dex-build7+mh4edit-mit-save-id,8,0
+141,极冻之魂,Gelid Soul,mh4g-dex-build7+mh4edit-mit-save-id,8,0
+142,昆虫警报改,Alated Insect+,mh4g-dex-build7+mh4edit-mit-save-id,8,0
+143,甲刃昆虫领主,Entomotheos,mh4g-dex-build7+mh4edit-mit-save-id,9,0
+144,大师军刀改,Master Sabers+,mh4g-dex-build7+mh4edit-mit-save-id,8,0
+145,双圣剑公会骑士,Holy Guild Knight,mh4g-dex-build7+mh4edit-mit-save-id,9,0
+146,THE天堂,Le Paradis,mh4g-dex-build7+mh4edit-mit-save-id,9,0
+147,THE香格里拉,Le Shangri-La,mh4g-dex-build7+mh4edit-mit-save-id,10,0
+148,天堂or地狱,Inferno/Paradis,mh4g-dex-build7+mh4edit-mit-save-id,9,0
+149,冰河之牙,Névé Bite,mh4g-dex-build7+mh4edit-mit-save-id,8,0
+150,鲛牙暴风雪,Blizztrios Fangs,mh4g-dex-build7+mh4edit-mit-save-id,9,0
+151,砂食之切齿,Sandgnashers,mh4g-dex-build7+mh4edit-mit-save-id,8,0
+152,漠食烈风牙,Psammophages,mh4g-dex-build7+mh4edit-mit-save-id,9,0
+153,火焰风暴,Flamestorm,mh4g-dex-build7+mh4edit-mit-save-id,6,0
+154,沙罗曼蛇,Salamanders,mh4g-dex-build7+mh4edit-mit-save-id,8,0
+155,漆黑火神,Ignis Noire,mh4g-dex-build7+mh4edit-mit-save-id,8,0
+156,炎焰刀伊格纳特尔,Agnaktor Inferno,mh4g-dex-build7+mh4edit-mit-save-id,9,0
+157,霞双剑奥纳兹奇,Chameleos Blades,mh4g-dex-build7+mh4edit-mit-save-id,10,0
+158,激龙双剑改,Wyvern Strife+,mh4g-dex-build7+mh4edit-mit-save-id,9,0
+159,光龙双剑,Wyvern Conciliation,mh4g-dex-build7+mh4edit-mit-save-id,10,0
+160,永恒之绿改,Evergreen+,mh4g-dex-build7+mh4edit-mit-save-id,8,0
+161,天堂之绿,Paradise Green,mh4g-dex-build7+mh4edit-mit-save-id,9,0
+162,旋破十字钻头,Crossdrills,mh4g-dex-build7+mh4edit-mit-save-id,8,0
+163,大旋破十字世界,Crossveldts,mh4g-dex-build7+mh4edit-mit-save-id,9,0
+164,超旋破十字终焉,Crossenders,mh4g-dex-build7+mh4edit-mit-save-id,9,0
+165,白兔寒冰刃改,Brawlagombs+,mh4g-dex-build7+mh4edit-mit-save-id,8,0
+166,白兔冰雹刃,Appallagombs,mh4g-dex-build7+mh4edit-mit-save-id,9,0
+167,新双重十字架,Neo Twin Acrus,mh4g-dex-build7+mh4edit-mit-save-id,9,0
+168,白雷双剑新十字架,Neo Acrus Whitebolt,mh4g-dex-build7+mh4edit-mit-save-id,9,0
+169,狱双刃龙葬改,Brimstren Drakeclaws+,mh4g-dex-build7+mh4edit-mit-save-id,9,0
+170,狼牙双刃【雷狱】,Stygian Superbia,mh4g-dex-build7+mh4edit-mit-save-id,9,0
+171,铁扇【厄】,Pox Tessen,mh4g-dex-build7+mh4edit-mit-save-id,8,0
+172,黒狼姫之军配,Garuga Gunsen,mh4g-dex-build7+mh4edit-mit-save-id,9,0
+173,黒狼姫之鸳鸯扇,Garuga Lovebirds,mh4g-dex-build7+mh4edit-mit-save-id,9,0
+174,爆炎破坏者,Megiddo Rippers,mh4g-dex-build7+mh4edit-mit-save-id,9,0
+175,爆炎毁灭者,Megiddo Breakers,mh4g-dex-build7+mh4edit-mit-save-id,9,0
+176,破岩双刃阿尔克巴雷诺,Spectral Demolisher,mh4g-dex-build7+mh4edit-mit-save-id,9,0
+177,碎光之双闪,Lightbreak Twins,mh4g-dex-build7+mh4edit-mit-save-id,10,0
+178,双龙剑【至极】,"Dual Dragons ""Angst""",mh4g-dex-build7+mh4edit-mit-save-id,10,0
+179,角双剑,Diablos Bashers,mh4g-dex-build7+mh4edit-mit-save-id,9,0
+180,十字角双剑,Diablos Sinidex,mh4g-dex-build7+mh4edit-mit-save-id,9,0
+181,混沌角双剑,Sinistrus Dextraos,mh4g-dex-build7+mh4edit-mit-save-id,9,0
+182,白猫卿黑猫卿,Felyne and Melynx++,mh4g-dex-build7+mh4edit-mit-save-id,8,0
+183,战扇刃杰德托斯,Jade Plesioth Fans,mh4g-dex-build7+mh4edit-mit-save-id,8,0
+184,战扇舞刃雷姆杰德,Jade Battlefanzers,mh4g-dex-build7+mh4edit-mit-save-id,9,0
+185,旨双剑姆斯阿布尔,Savortooths,mh4g-dex-build7+mh4edit-mit-save-id,8,0
+186,封龙剑【真绝一门】,Enduring Sacrifice,mh4g-dex-build7+mh4edit-mit-save-id,8,0
+187,封龙剑【极绝一门】,Enduring Surrender,mh4g-dex-build7+mh4edit-mit-save-id,9,0
+188,冰炎魔剑威尔玛克斯,Blizzard and Blaze,mh4g-dex-build7+mh4edit-mit-save-id,10,0
+189,远古双剑,Twin Elders,mh4g-dex-build7+mh4edit-mit-save-id,10,0
+190,双雷宝剑【麒麟儿】,Wunderkirins,mh4g-dex-build7+mh4edit-mit-save-id,10,0
+191,祭囃子・幻兽之调,Ritual Eidolons,mh4g-dex-build7+mh4edit-mit-save-id,10,0
+192,斗鬼【高丸】,Suzuka Takamaru,mh4g-dex-build7+mh4edit-mit-save-id,9,0
+193,斗神鬼【大岳丸】,Suzuka Otakemaru,mh4g-dex-build7+mh4edit-mit-save-id,10,0
+194,灭双刃黑暗闪耀,"Doomfang ""Envoys""",mh4g-dex-build7+mh4edit-mit-save-id,10,0
+195,霸锐爪库奈阿姆卡姆,Akantor Shadow Claws,mh4g-dex-build7+mh4edit-mit-save-id,10,0
+196,崩刃亚卡姆鲁巴斯,Ukanlos Ruinblades,mh4g-dex-build7+mh4edit-mit-save-id,7,0
+197,崩天刃亚卡翁卡姆,Ukanlos Skyrippers,mh4g-dex-build7+mh4edit-mit-save-id,9,0
+198,斩裂王格鲁刚巴尔,Mbale the Acute,mh4g-dex-build7+mh4edit-mit-save-id,9,0
+199,帝棘达拉安巴尔,Dalamadur Spikes,mh4g-dex-build7+mh4edit-mit-save-id,10,0
+200,蛇帝棘贝尔姆玛迪拉,Amber Dalamadur,mh4g-dex-build7+mh4edit-mit-save-id,10,0
+201,真・双灭龙刃,Twinbane Blades,mh4g-dex-build7+mh4edit-mit-save-id,10,0
+202,真・双灭龙刃【黄昏】,Twinbane Twilight,mh4g-dex-build7+mh4edit-mit-save-id,10,0
+203,双龙神【黑天白夜】,Ultimus Apocalypse,mh4g-dex-build7+mh4edit-mit-save-id,10,0
+204,千刃双剑,Zakun Twins,mh4g-dex-build7+mh4edit-mit-save-id,6,0
+205,千刃双剑改,Zakun Twins+,mh4g-dex-build7+mh4edit-mit-save-id,7,0
+206,叛逆之裂爪,Seditious Talons,mh4g-dex-build7+mh4edit-mit-save-id,9,0
+207,叛逆爪塞尔雷吉昂,Serre Sedition,mh4g-dex-build7+mh4edit-mit-save-id,10,0
+208,惩罚之钉,Recriminators,mh4g-dex-build7+mh4edit-mit-save-id,10,0
+209,永诀之钥,Eternal Leavetakers,mh4g-dex-build7+mh4edit-mit-save-id,10,0
+210,奇面案山子,Shaka Scarecrows,mh4g-dex-build7+mh4edit-mit-save-id,8,0
+211,奇面案山子【朋友】,Chum Scarecrows,mh4g-dex-build7+mh4edit-mit-save-id,9,0
+212,奇面案山子【搭档】,Chum-Chum Scarecrows,mh4g-dex-build7+mh4edit-mit-save-id,9,0
+213,dummy213,dummy213,mh4edit-mit-save-id-en-fallback,0,0
+214,MH部员特制扇子,Fan Club Fans,mh4g-dex-build7+mh4edit-mit-save-id,10,0
+215,DUMMY,DUMMY,mh4edit-mit-save-id-en-fallback,0,0
+216,DUMMY,DUMMY,mh4edit-mit-save-id-en-fallback,0,0
+217,Sea-king's Twins (red),Sea-king's Twins (red),mh4edit-mit-save-id-en-fallback,0,1
+218,Sea-king's Twins (yellow),Sea-king's Twins (yellow),mh4edit-mit-save-id-en-fallback,0,1
+219,Sea-king's Twins (green),Sea-king's Twins (green),mh4edit-mit-save-id-en-fallback,0,1
+220,Sea-king's Twins (blue),Sea-king's Twins (blue),mh4edit-mit-save-id-en-fallback,0,1
+221,Sea-king's Twins (purple),Sea-king's Twins (purple),mh4edit-mit-save-id-en-fallback,0,1
+222,Blizzarioths (red),Blizzarioths (red),mh4edit-mit-save-id-en-fallback,0,1
+223,Blizzarioths (yellow),Blizzarioths (yellow),mh4edit-mit-save-id-en-fallback,0,1
+224,Blizzarioths (green),Blizzarioths (green),mh4edit-mit-save-id-en-fallback,0,1
+225,Blizzarioths (blue),Blizzarioths (blue),mh4edit-mit-save-id-en-fallback,0,1
+226,Blizzarioths (purple),Blizzarioths (purple),mh4edit-mit-save-id-en-fallback,0,1
+227,Crooked Blades,Crooked Blades,mh4edit-mit-save-id-en-fallback,0,0
+228,Cross Inferno,Cross Inferno,mh4edit-mit-save-id-en-fallback,0,0

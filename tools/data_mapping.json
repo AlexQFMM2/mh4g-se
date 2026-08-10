@@ -1,0 +1,78 @@
+{
+  "format": "mh4g-data-mapping-v1",
+  "languages": {
+    "cn": 1,
+    "en": 0
+  },
+  "tables": {
+    "items": {
+      "data": "DB_Itm.csv",
+      "id": "Itm_ID",
+      "save_id": "Hex",
+      "names": "ID_Itm_Name.csv",
+      "name_prefix": "Itm_Name_",
+      "rarity": "Rare"
+    },
+    "skills": {
+      "id": "SklTree_ID",
+      "names": "ID_SklTree_Name.csv",
+      "name_prefix": "SklTree_Name_"
+    },
+    "decorations": {
+      "data": "DB_Jew.csv",
+      "id": "Jew_ID",
+      "item_id": "Itm_ID",
+      "reference_array": "allJewels"
+    },
+    "weapons": {
+      "data": "DB_Wpn.csv",
+      "id": "Wpn_ID",
+      "names": "ID_Wpn_Name.csv",
+      "name_prefix": "Wpn_Name_",
+      "rarity": "Rare",
+      "type": "Wpn_Type_ID"
+    },
+    "armor": {
+      "data": "DB_Amr.csv",
+      "id": "Amr_ID",
+      "names": "ID_Amr_Name.csv",
+      "name_prefix": "Amr_Name_",
+      "part": "Part",
+      "rarity": "Rare"
+    }
+  },
+  "equipment": [
+    {"file": "armor_chest.csv", "save_type": 1, "kind": "armor", "dex_value": 2, "reference_array": "allEqpChest"},
+    {"file": "armor_arms.csv", "save_type": 2, "kind": "armor", "dex_value": 3, "reference_array": "allEqpArms"},
+    {"file": "armor_waist.csv", "save_type": 3, "kind": "armor", "dex_value": 4, "reference_array": "allEqpWaist"},
+    {"file": "armor_legs.csv", "save_type": 4, "kind": "armor", "dex_value": 5, "reference_array": "allEqpLegs"},
+    {"file": "armor_head.csv", "save_type": 5, "kind": "armor", "dex_value": 1, "reference_array": "allEqpHeads"},
+    {"file": "weapon_great_sword.csv", "save_type": 7, "kind": "weapon", "dex_value": 1, "reference_array": "allEqpGreatsword"},
+    {"file": "weapon_sword_and_shield.csv", "save_type": 8, "kind": "weapon", "dex_value": 3, "reference_array": "allEqpSns"},
+    {"file": "weapon_hammer.csv", "save_type": 9, "kind": "weapon", "dex_value": 5, "reference_array": "allEqpHammer"},
+    {"file": "weapon_lance.csv", "save_type": 10, "kind": "weapon", "dex_value": 7, "reference_array": "allEqpLance"},
+    {"file": "weapon_light_bowgun.csv", "save_type": 11, "kind": "weapon", "dex_value": 12, "reference_array": "allEqpLbg"},
+    {"file": "weapon_heavy_bowgun.csv", "save_type": 12, "kind": "weapon", "dex_value": 13, "reference_array": "allEqpHbg"},
+    {"file": "weapon_long_sword.csv", "save_type": 13, "kind": "weapon", "dex_value": 2, "reference_array": "allEqpLongswods"},
+    {"file": "weapon_switch_axe.csv", "save_type": 14, "kind": "weapon", "dex_value": 9, "reference_array": "allEqpSwitchAxe"},
+    {"file": "weapon_gunlance.csv", "save_type": 15, "kind": "weapon", "dex_value": 8, "reference_array": "allEqpGunlance"},
+    {"file": "weapon_bow.csv", "save_type": 16, "kind": "weapon", "dex_value": 14, "reference_array": "allEqpBow"},
+    {"file": "weapon_dual_blades.csv", "save_type": 17, "kind": "weapon", "dex_value": 4, "reference_array": "allEqpDualblade"},
+    {"file": "weapon_hunting_horn.csv", "save_type": 18, "kind": "weapon", "dex_value": 6, "reference_array": "allEqpHuntinghorn"},
+    {"file": "weapon_insect_glaive.csv", "save_type": 19, "kind": "weapon", "dex_value": 11, "reference_array": "allEqpInsectglaive"},
+    {"file": "weapon_charge_blade.csv", "save_type": 20, "kind": "weapon", "dex_value": 10, "reference_array": "allEqpChargeblade"}
+  ],
+  "dex_lookups": [
+    {"table": "ID_Wpn_AxePhial.csv", "id": "Wpn_AxePhial_ID", "name_prefix": "Wpn_AxePhial_", "domain": "weapon_special", "equipment_type": "14,20", "variant": "dex_phial"},
+    {"table": "ID_Wpn_BowShot.csv", "id": "Wpn_BowShot_ID", "name_prefix": "Wpn_BowShot_", "domain": "weapon_special", "equipment_type": "16", "variant": "arc_type"},
+    {"table": "ID_Wpn_GunRecoil.csv", "id": "Wpn_GunRecoil_ID", "name_prefix": "Wpn_GunRecoil_", "domain": "weapon_special", "equipment_type": "11,12", "variant": "recoil"},
+    {"table": "ID_Wpn_GunReloadSpd.csv", "id": "Wpn_GunReloadSpd_ID", "name_prefix": "Wpn_GunReloadSpd_", "domain": "weapon_special", "equipment_type": "11,12", "variant": "reload_speed"},
+    {"table": "ID_Wpn_GunSteadiness.csv", "id": "Wpn_GunSteadiness_ID", "name_prefix": "Wpn_GunSteadiness_", "domain": "weapon_special", "equipment_type": "11,12", "variant": "deviation"},
+    {"table": "ID_Wpn_HHSongCategory.csv", "id": "Wpn_HHSongCategory_ID", "name_prefix": "Wpn_HHSongCategory_", "domain": "weapon_special", "equipment_type": "18", "variant": "song_category"},
+    {"table": "ID_Wpn_ISKinsectType.csv", "id": "Wpn_ISKinsectType_ID", "name_prefix": "Wpn_ISKinsectType_", "domain": "kinsect", "equipment_type": "19", "variant": "damage_type"},
+    {"table": "ID_Wpn_RapidFireGap.csv", "id": "Wpn_RapidFireGap_ID", "name_prefix": "Wpn_RapidFireGap_", "domain": "weapon_special", "equipment_type": "11", "variant": "rapid_fire_gap"},
+    {"table": "ID_Wpn_RecitalEffect.csv", "id": "Wpn_RecitalEffect_ID", "name_prefix": "Wpn_RecitalEffect_", "domain": "weapon_special", "equipment_type": "18", "variant": "recital_effect"},
+    {"table": "ID_Wpn_ShotType.csv", "id": "Wpn_ShotType_ID", "name_prefix": "Wpn_ShotType_", "domain": "weapon_special", "equipment_type": "15,16", "variant": "shot_type"},
+    {"table": "ID_Wpn_SpAtk.csv", "id": "Wpn_SpAtk_ID", "name_prefix": "Wpn_SpAtk_", "domain": "attribute_type", "equipment_type": "7-20", "variant": "dex"}
+  ]
+}

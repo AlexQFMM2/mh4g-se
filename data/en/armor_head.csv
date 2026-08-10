@@ -1,0 +1,988 @@
+id,name,english,source,rarity,is_relic
+0,None,None,mh4g-save-format,0,0
+1,Derring Headgear,Derring Headgear,mh4g-dex-build7+mh4edit-mit-save-id,1,0
+2,Derring Helm S,Derring Helm S,mh4g-dex-build7+mh4edit-mit-save-id,4,0
+3,Derring Cap S,Derring Cap S,mh4g-dex-build7+mh4edit-mit-save-id,4,0
+4,Leather Headgear,Leather Headgear,mh4g-dex-build7+mh4edit-mit-save-id,1,0
+5,Leather Helm S,Leather Helm S,mh4g-dex-build7+mh4edit-mit-save-id,4,0
+6,Leather Cap S,Leather Cap S,mh4g-dex-build7+mh4edit-mit-save-id,4,0
+7,Chainmail Headgear,Chainmail Headgear,mh4g-dex-build7+mh4edit-mit-save-id,1,0
+8,Chainmail Helm S,Chainmail Helm S,mh4g-dex-build7+mh4edit-mit-save-id,4,0
+9,Chainmail Cap S,Chainmail Cap S,mh4g-dex-build7+mh4edit-mit-save-id,4,0
+10,Hunter's Helm,Hunter's Helm,mh4g-dex-build7+mh4edit-mit-save-id,1,0
+11,Hunter's Cap,Hunter's Cap,mh4g-dex-build7+mh4edit-mit-save-id,1,0
+12,Hunter's Helm S,Hunter's Helm S,mh4g-dex-build7+mh4edit-mit-save-id,4,0
+13,Hunter's Cap S,Hunter's Cap S,mh4g-dex-build7+mh4edit-mit-save-id,4,0
+14,Hunter's Helm,Hunter's Helm,mh4g-dex-build7+mh4edit-mit-save-id,1,0
+15,Hunter's Cap,Hunter's Cap,mh4g-dex-build7+mh4edit-mit-save-id,1,0
+16,Bone Helm,Bone Helm,mh4g-dex-build7+mh4edit-mit-save-id,1,0
+17,Bone Cap,Bone Cap,mh4g-dex-build7+mh4edit-mit-save-id,1,0
+18,Bone Helm S,Bone Helm S,mh4g-dex-build7+mh4edit-mit-save-id,4,0
+19,Bone Cap S,Bone Cap S,mh4g-dex-build7+mh4edit-mit-save-id,4,0
+20,Alloy Helm,Alloy Helm,mh4g-dex-build7+mh4edit-mit-save-id,1,0
+21,Alloy Cap,Alloy Cap,mh4g-dex-build7+mh4edit-mit-save-id,1,0
+22,Alloy Helm S,Alloy Helm S,mh4g-dex-build7+mh4edit-mit-save-id,4,0
+23,Alloy Cap S,Alloy Cap S,mh4g-dex-build7+mh4edit-mit-save-id,4,0
+24,Alloy Helm,Alloy Helm,mh4g-dex-build7+mh4edit-mit-save-id,1,0
+25,Alloy Cap,Alloy Cap,mh4g-dex-build7+mh4edit-mit-save-id,1,0
+26,Jaggi Helm,Jaggi Helm,mh4g-dex-build7+mh4edit-mit-save-id,2,0
+27,Jaggi Cap,Jaggi Cap,mh4g-dex-build7+mh4edit-mit-save-id,2,0
+28,Jaggi Helm S,Jaggi Helm S,mh4g-dex-build7+mh4edit-mit-save-id,4,0
+29,Jaggi Cap S,Jaggi Cap S,mh4g-dex-build7+mh4edit-mit-save-id,4,0
+30,Ludroth Helm,Ludroth Helm,mh4g-dex-build7+mh4edit-mit-save-id,2,0
+31,Ludroth Cap,Ludroth Cap,mh4g-dex-build7+mh4edit-mit-save-id,2,0
+32,Ludroth Helm,Ludroth Helm,mh4g-dex-build7+mh4edit-mit-save-id,2,0
+33,Ludroth Cap,Ludroth Cap,mh4g-dex-build7+mh4edit-mit-save-id,2,0
+34,Rhenoplos Helm,Rhenoplos Helm,mh4g-dex-build7+mh4edit-mit-save-id,2,0
+35,Rhenoplos Cap,Rhenoplos Cap,mh4g-dex-build7+mh4edit-mit-save-id,2,0
+36,Rhenoplos Helm S,Rhenoplos Helm S,mh4g-dex-build7+mh4edit-mit-save-id,4,0
+37,Rhenoplos Cap S,Rhenoplos Cap S,mh4g-dex-build7+mh4edit-mit-save-id,4,0
+38,Bnahabra Hat,Bnahabra Hat,mh4g-dex-build7+mh4edit-mit-save-id,2,0
+39,Bnahabra Headpiece,Bnahabra Headpiece,mh4g-dex-build7+mh4edit-mit-save-id,2,0
+40,Bnahabra Hat S,Bnahabra Hat S,mh4g-dex-build7+mh4edit-mit-save-id,4,0
+41,Bnahabra Headpiece S,Bnahabra Headpiece S,mh4g-dex-build7+mh4edit-mit-save-id,4,0
+42,Barroth Helm,Barroth Helm,mh4g-dex-build7+mh4edit-mit-save-id,2,0
+43,Barroth Cap,Barroth Cap,mh4g-dex-build7+mh4edit-mit-save-id,2,0
+44,Rathian Helm,Rathian Helm,mh4g-dex-build7+mh4edit-mit-save-id,2,0
+45,Rathian Cap,Rathian Cap,mh4g-dex-build7+mh4edit-mit-save-id,2,0
+46,Rathian Helm S,Rathian Helm S,mh4g-dex-build7+mh4edit-mit-save-id,5,0
+47,Rathian Cap S,Rathian Cap S,mh4g-dex-build7+mh4edit-mit-save-id,5,0
+48,Rath Heart Helm,Rath Heart Helm,mh4g-dex-build7+mh4edit-mit-save-id,6,0
+49,Rath Heart Cap,Rath Heart Cap,mh4g-dex-build7+mh4edit-mit-save-id,6,0
+50,Golden Lunehelm,Golden Lunehelm,mh4g-dex-build7+mh4edit-mit-save-id,7,0
+51,Golden Lunecap,Golden Lunecap,mh4g-dex-build7+mh4edit-mit-save-id,7,0
+52,Rathian Helm,Rathian Helm,mh4g-dex-build7+mh4edit-mit-save-id,2,0
+53,Rathian Cap,Rathian Cap,mh4g-dex-build7+mh4edit-mit-save-id,2,0
+54,Rath Heart Helm,Rath Heart Helm,mh4g-dex-build7+mh4edit-mit-save-id,6,0
+55,Rath Heart Cap,Rath Heart Cap,mh4g-dex-build7+mh4edit-mit-save-id,6,0
+56,EX Rathian Helm,EX Rathian Helm,mh4g-dex-build7+mh4edit-mit-save-id,7,0
+57,EX Rathian Cap,EX Rathian Cap,mh4g-dex-build7+mh4edit-mit-save-id,7,0
+58,Rathalos Helm,Rathalos Helm,mh4g-dex-build7+mh4edit-mit-save-id,3,0
+59,Rathalos Cap,Rathalos Cap,mh4g-dex-build7+mh4edit-mit-save-id,3,0
+60,Rathalos Helm S,Rathalos Helm S,mh4g-dex-build7+mh4edit-mit-save-id,5,0
+61,Rathalos Cap S,Rathalos Cap S,mh4g-dex-build7+mh4edit-mit-save-id,5,0
+62,Rath Soul Helm,Rath Soul Helm,mh4g-dex-build7+mh4edit-mit-save-id,6,0
+63,Rath Soul Cap,Rath Soul Cap,mh4g-dex-build7+mh4edit-mit-save-id,6,0
+64,Silver Solhelm,Silver Solhelm,mh4g-dex-build7+mh4edit-mit-save-id,7,0
+65,Silver Solcap,Silver Solcap,mh4g-dex-build7+mh4edit-mit-save-id,7,0
+66,Rathalos Helm,Rathalos Helm,mh4g-dex-build7+mh4edit-mit-save-id,3,0
+67,Rathalos Cap,Rathalos Cap,mh4g-dex-build7+mh4edit-mit-save-id,3,0
+68,Rath Soul Helm,Rath Soul Helm,mh4g-dex-build7+mh4edit-mit-save-id,6,0
+69,Rath Soul Cap,Rath Soul Cap,mh4g-dex-build7+mh4edit-mit-save-id,6,0
+70,Silver Solhelm,Silver Solhelm,mh4g-dex-build7+mh4edit-mit-save-id,7,0
+71,Silver Solcap,Silver Solcap,mh4g-dex-build7+mh4edit-mit-save-id,7,0
+72,EX Rathalos Helm,EX Rathalos Helm,mh4g-dex-build7+mh4edit-mit-save-id,7,0
+73,EX Rathalos Cap,EX Rathalos Cap,mh4g-dex-build7+mh4edit-mit-save-id,7,0
+74,Diablos Helm,Diablos Helm,mh4g-dex-build7+mh4edit-mit-save-id,3,0
+75,Diablos Cap,Diablos Cap,mh4g-dex-build7+mh4edit-mit-save-id,3,0
+76,Uragaan Helm,Uragaan Helm,mh4g-dex-build7+mh4edit-mit-save-id,3,0
+77,Uragaan Cap,Uragaan Cap,mh4g-dex-build7+mh4edit-mit-save-id,3,0
+78,Vangis Helm,Vangis Helm,mh4g-dex-build7+mh4edit-mit-save-id,6,0
+79,Vangis Cap,Vangis Cap,mh4g-dex-build7+mh4edit-mit-save-id,6,0
+80,Esurient Helm,Esurient Helm,mh4g-dex-build7+mh4edit-mit-save-id,7,0
+81,Esurient Cap,Esurient Cap,mh4g-dex-build7+mh4edit-mit-save-id,7,0
+82,Esurient Helm,Esurient Helm,mh4g-dex-build7+mh4edit-mit-save-id,7,0
+83,Esurient Cap,Esurient Cap,mh4g-dex-build7+mh4edit-mit-save-id,7,0
+84,Gloaming Helm,Gloaming Helm,mh4g-dex-build7+mh4edit-mit-save-id,3,0
+85,Adamance Helm,Adamance Helm,mh4g-dex-build7+mh4edit-mit-save-id,3,0
+86,Dayspring Kasa,Dayspring Kasa,mh4g-dex-build7+mh4edit-mit-save-id,3,0
+87,Epoch Helm,Epoch Helm,mh4g-dex-build7+mh4edit-mit-save-id,3,0
+88,Gloaming Archhelm,Gloaming Archhelm,mh4g-dex-build7+mh4edit-mit-save-id,7,0
+89,Adamance Archhelm,Adamance Archhelm,mh4g-dex-build7+mh4edit-mit-save-id,7,0
+90,Dayspring Archkasa,Dayspring Archkasa,mh4g-dex-build7+mh4edit-mit-save-id,7,0
+91,Epoch Archhelm,Epoch Archhelm,mh4g-dex-build7+mh4edit-mit-save-id,7,0
+92,Gloaming Helm,Gloaming Helm,mh4g-dex-build7+mh4edit-mit-save-id,3,0
+93,Adamance Helm,Adamance Helm,mh4g-dex-build7+mh4edit-mit-save-id,3,0
+94,Dayspring Kasa,Dayspring Kasa,mh4g-dex-build7+mh4edit-mit-save-id,3,0
+95,Epoch Helm,Epoch Helm,mh4g-dex-build7+mh4edit-mit-save-id,3,0
+96,Plesioth Helm,Plesioth Helm,mh4g-dex-build7+mh4edit-mit-save-id,4,0
+97,Plesioth Cap,Plesioth Cap,mh4g-dex-build7+mh4edit-mit-save-id,4,0
+98,Nibelsnarf Helm,Nibelsnarf Helm,mh4g-dex-build7+mh4edit-mit-save-id,2,0
+99,Nibelsnarf Cap,Nibelsnarf Cap,mh4g-dex-build7+mh4edit-mit-save-id,2,0
+100,Duramboros Helm,Duramboros Helm,mh4g-dex-build7+mh4edit-mit-save-id,3,0
+101,Duramboros Cap,Duramboros Cap,mh4g-dex-build7+mh4edit-mit-save-id,3,0
+102,Arzuros Helm,Arzuros Helm,mh4g-dex-build7+mh4edit-mit-save-id,2,0
+103,Arzuros Cap,Arzuros Cap,mh4g-dex-build7+mh4edit-mit-save-id,2,0
+104,Lagombi Helm,Lagombi Helm,mh4g-dex-build7+mh4edit-mit-save-id,2,0
+105,Lagombi Cap,Lagombi Cap,mh4g-dex-build7+mh4edit-mit-save-id,2,0
+106,Lagombi Helm S,Lagombi Helm S,mh4g-dex-build7+mh4edit-mit-save-id,4,0
+107,Lagombi Cap S,Lagombi Cap S,mh4g-dex-build7+mh4edit-mit-save-id,4,0
+108,Slagtoth Hood,Slagtoth Hood,mh4g-dex-build7+mh4edit-mit-save-id,2,0
+109,Slagtoth Cowl,Slagtoth Cowl,mh4g-dex-build7+mh4edit-mit-save-id,2,0
+110,Slagtoth Hood S,Slagtoth Hood S,mh4g-dex-build7+mh4edit-mit-save-id,4,0
+111,Slagtoth Cowl S,Slagtoth Cowl S,mh4g-dex-build7+mh4edit-mit-save-id,4,0
+112,Nargacuga Helm,Nargacuga Helm,mh4g-dex-build7+mh4edit-mit-save-id,3,0
+113,Nargacuga Cap,Nargacuga Cap,mh4g-dex-build7+mh4edit-mit-save-id,3,0
+114,Tigrex Helm,Tigrex Helm,mh4g-dex-build7+mh4edit-mit-save-id,3,0
+115,Tigrex Cap,Tigrex Cap,mh4g-dex-build7+mh4edit-mit-save-id,3,0
+116,Tigrex Helm S,Tigrex Helm S,mh4g-dex-build7+mh4edit-mit-save-id,5,0
+117,Tigrex Cap S,Tigrex Cap S,mh4g-dex-build7+mh4edit-mit-save-id,5,0
+118,Tigrex Helm U,Tigrex Helm U,mh4g-dex-build7+mh4edit-mit-save-id,6,0
+119,Tigrex Cap U,Tigrex Cap U,mh4g-dex-build7+mh4edit-mit-save-id,6,0
+120,Excello Helm,Excello Helm,mh4g-dex-build7+mh4edit-mit-save-id,7,0
+121,Excello Cap,Excello Cap,mh4g-dex-build7+mh4edit-mit-save-id,7,0
+122,EX Tigrex Helm,EX Tigrex Helm,mh4g-dex-build7+mh4edit-mit-save-id,7,0
+123,EX Tigrex Cap,EX Tigrex Cap,mh4g-dex-build7+mh4edit-mit-save-id,7,0
+124,Tigrex Helm,Tigrex Helm,mh4g-dex-build7+mh4edit-mit-save-id,3,0
+125,Tigrex Cap,Tigrex Cap,mh4g-dex-build7+mh4edit-mit-save-id,3,0
+126,Tigrex Helm U,Tigrex Helm U,mh4g-dex-build7+mh4edit-mit-save-id,6,0
+127,Tigrex Cap U,Tigrex Cap U,mh4g-dex-build7+mh4edit-mit-save-id,6,0
+128,Brachydios Helm,Brachydios Helm,mh4g-dex-build7+mh4edit-mit-save-id,3,0
+129,Brachydios Cap,Brachydios Cap,mh4g-dex-build7+mh4edit-mit-save-id,3,0
+130,Brachydios Helm S,Brachydios Helm S,mh4g-dex-build7+mh4edit-mit-save-id,6,0
+131,Brachydios Cap S,Brachydios Cap S,mh4g-dex-build7+mh4edit-mit-save-id,6,0
+132,Akantor Mask,Akantor Mask,mh4g-dex-build7+mh4edit-mit-save-id,7,0
+133,Akantor Fangs,Akantor Fangs,mh4g-dex-build7+mh4edit-mit-save-id,7,0
+134,Akantor Mask,Akantor Mask,mh4g-dex-build7+mh4edit-mit-save-id,7,0
+135,Akantor Fangs,Akantor Fangs,mh4g-dex-build7+mh4edit-mit-save-id,7,0
+136,Zinogre Helm,Zinogre Helm,mh4g-dex-build7+mh4edit-mit-save-id,3,0
+137,Zinogre Cap,Zinogre Cap,mh4g-dex-build7+mh4edit-mit-save-id,3,0
+138,Zinogre Helm S,Zinogre Helm S,mh4g-dex-build7+mh4edit-mit-save-id,5,0
+139,Zinogre Cap S,Zinogre Cap S,mh4g-dex-build7+mh4edit-mit-save-id,5,0
+140,Zinogre Helm U,Zinogre Helm U,mh4g-dex-build7+mh4edit-mit-save-id,6,0
+141,Zinogre Cap U,Zinogre Cap U,mh4g-dex-build7+mh4edit-mit-save-id,6,0
+142,Zinogre Helm U,Zinogre Helm U,mh4g-dex-build7+mh4edit-mit-save-id,6,0
+143,Zinogre Cap U,Zinogre Cap U,mh4g-dex-build7+mh4edit-mit-save-id,6,0
+144,EX Kaiser Crown,EX Kaiser Crown,mh4g-dex-build7+mh4edit-mit-save-id,7,0
+145,EX Kaiser Mask,EX Kaiser Mask,mh4g-dex-build7+mh4edit-mit-save-id,7,0
+146,Kecha Helm,Kecha Helm,mh4g-dex-build7+mh4edit-mit-save-id,2,0
+147,Kecha Cap,Kecha Cap,mh4g-dex-build7+mh4edit-mit-save-id,2,0
+148,Kecha Helm S,Kecha Helm S,mh4g-dex-build7+mh4edit-mit-save-id,4,0
+149,Kecha Cap S,Kecha Cap S,mh4g-dex-build7+mh4edit-mit-save-id,4,0
+150,Gore Helm,Gore Helm,mh4g-dex-build7+mh4edit-mit-save-id,3,0
+151,Gore Cap,Gore Cap,mh4g-dex-build7+mh4edit-mit-save-id,3,0
+152,Gore Helm S,Gore Helm S,mh4g-dex-build7+mh4edit-mit-save-id,6,0
+153,Gore Cap S,Gore Cap S,mh4g-dex-build7+mh4edit-mit-save-id,6,0
+154,Gore Helm,Gore Helm,mh4g-dex-build7+mh4edit-mit-save-id,3,0
+155,Gore Cap,Gore Cap,mh4g-dex-build7+mh4edit-mit-save-id,3,0
+156,Tetsucabra Helm,Tetsucabra Helm,mh4g-dex-build7+mh4edit-mit-save-id,2,0
+157,Tetsucabra Cap,Tetsucabra Cap,mh4g-dex-build7+mh4edit-mit-save-id,2,0
+158,Tetsucabra Helm S,Tetsucabra Helm S,mh4g-dex-build7+mh4edit-mit-save-id,5,0
+159,Tetsucabra Cap S,Tetsucabra Cap S,mh4g-dex-build7+mh4edit-mit-save-id,5,0
+160,Nerscylla Helm,Nerscylla Helm,mh4g-dex-build7+mh4edit-mit-save-id,2,0
+161,Nerscylla Cap,Nerscylla Cap,mh4g-dex-build7+mh4edit-mit-save-id,2,0
+162,Nerscylla Helm S,Nerscylla Helm S,mh4g-dex-build7+mh4edit-mit-save-id,5,0
+163,Nerscylla Cap S,Nerscylla Cap S,mh4g-dex-build7+mh4edit-mit-save-id,5,0
+164,Najarala Helm,Najarala Helm,mh4g-dex-build7+mh4edit-mit-save-id,2,0
+165,Najarala Cap,Najarala Cap,mh4g-dex-build7+mh4edit-mit-save-id,2,0
+166,Najarala Helm S,Najarala Helm S,mh4g-dex-build7+mh4edit-mit-save-id,5,0
+167,Najarala Cap S,Najarala Cap S,mh4g-dex-build7+mh4edit-mit-save-id,5,0
+168,Garuga Helm,Garuga Helm,mh4g-dex-build7+mh4edit-mit-save-id,3,0
+169,Garuga Cap,Garuga Cap,mh4g-dex-build7+mh4edit-mit-save-id,3,0
+170,Garuga Helm S,Garuga Helm S,mh4g-dex-build7+mh4edit-mit-save-id,5,0
+171,Garuga Cap S,Garuga Cap S,mh4g-dex-build7+mh4edit-mit-save-id,5,0
+172,Basarios Helm,Basarios Helm,mh4g-dex-build7+mh4edit-mit-save-id,2,0
+173,Basarios Cap,Basarios Cap,mh4g-dex-build7+mh4edit-mit-save-id,2,0
+174,Basarios Helm S,Basarios Helm S,mh4g-dex-build7+mh4edit-mit-save-id,5,0
+175,Basarios Cap S,Basarios Cap S,mh4g-dex-build7+mh4edit-mit-save-id,5,0
+176,Basarios Helm U,Basarios Helm U,mh4g-dex-build7+mh4edit-mit-save-id,6,0
+177,Basarios Cap U,Basarios Cap U,mh4g-dex-build7+mh4edit-mit-save-id,6,0
+178,Battle Helm,Battle Helm,mh4g-dex-build7+mh4edit-mit-save-id,2,0
+179,Battle Cap,Battle Cap,mh4g-dex-build7+mh4edit-mit-save-id,2,0
+180,Velociprey Helm,Velociprey Helm,mh4g-dex-build7+mh4edit-mit-save-id,2,0
+181,Velociprey Cap,Velociprey Cap,mh4g-dex-build7+mh4edit-mit-save-id,2,0
+182,Velociprey Helm S,Velociprey Helm S,mh4g-dex-build7+mh4edit-mit-save-id,4,0
+183,Velociprey Cap S,Velociprey Cap S,mh4g-dex-build7+mh4edit-mit-save-id,4,0
+184,Genprey Helm,Genprey Helm,mh4g-dex-build7+mh4edit-mit-save-id,2,0
+185,Genprey Cap,Genprey Cap,mh4g-dex-build7+mh4edit-mit-save-id,2,0
+186,Genprey Helm S,Genprey Helm S,mh4g-dex-build7+mh4edit-mit-save-id,4,0
+187,Genprey Cap S,Genprey Cap S,mh4g-dex-build7+mh4edit-mit-save-id,4,0
+188,Ioprey Helm,Ioprey Helm,mh4g-dex-build7+mh4edit-mit-save-id,2,0
+189,Ioprey Cap,Ioprey Cap,mh4g-dex-build7+mh4edit-mit-save-id,2,0
+190,Ioprey Helm S,Ioprey Helm S,mh4g-dex-build7+mh4edit-mit-save-id,4,0
+191,Ioprey Cap S,Ioprey Cap S,mh4g-dex-build7+mh4edit-mit-save-id,4,0
+192,Kut-Ku Helm,Kut-Ku Helm,mh4g-dex-build7+mh4edit-mit-save-id,2,0
+193,Kut-Ku Cap,Kut-Ku Cap,mh4g-dex-build7+mh4edit-mit-save-id,2,0
+194,Kut-Ku Helm S,Kut-Ku Helm S,mh4g-dex-build7+mh4edit-mit-save-id,4,0
+195,Kut-Ku Cap S,Kut-Ku Cap S,mh4g-dex-build7+mh4edit-mit-save-id,4,0
+196,Kut-Ku Helm U,Kut-Ku Helm U,mh4g-dex-build7+mh4edit-mit-save-id,5,0
+197,Kut-Ku Cap U,Kut-Ku Cap U,mh4g-dex-build7+mh4edit-mit-save-id,5,0
+198,Gypceros Helm,Gypceros Helm,mh4g-dex-build7+mh4edit-mit-save-id,2,0
+199,Gypceros Cap,Gypceros Cap,mh4g-dex-build7+mh4edit-mit-save-id,2,0
+200,Gypceros Helm S,Gypceros Helm S,mh4g-dex-build7+mh4edit-mit-save-id,5,0
+201,Gypceros Cap S,Gypceros Cap S,mh4g-dex-build7+mh4edit-mit-save-id,5,0
+202,Gypceros Helm U,Gypceros Helm U,mh4g-dex-build7+mh4edit-mit-save-id,6,0
+203,Gypceros Cap U,Gypceros Cap U,mh4g-dex-build7+mh4edit-mit-save-id,6,0
+204,Gypceros Helm,Gypceros Helm,mh4g-dex-build7+mh4edit-mit-save-id,2,0
+205,Gypceros Cap,Gypceros Cap,mh4g-dex-build7+mh4edit-mit-save-id,2,0
+206,Gypceros Helm U,Gypceros Helm U,mh4g-dex-build7+mh4edit-mit-save-id,6,0
+207,Gypceros Cap U,Gypceros Cap U,mh4g-dex-build7+mh4edit-mit-save-id,6,0
+208,Conga Helm,Conga Helm,mh4g-dex-build7+mh4edit-mit-save-id,2,0
+209,Conga Cap,Conga Cap,mh4g-dex-build7+mh4edit-mit-save-id,2,0
+210,Conga Helm S,Conga Helm S,mh4g-dex-build7+mh4edit-mit-save-id,4,0
+211,Conga Cap S,Conga Cap S,mh4g-dex-build7+mh4edit-mit-save-id,4,0
+212,Conga Helm U,Conga Helm U,mh4g-dex-build7+mh4edit-mit-save-id,5,0
+213,Conga Cap U,Conga Cap U,mh4g-dex-build7+mh4edit-mit-save-id,5,0
+214,Gravios Helm,Gravios Helm,mh4g-dex-build7+mh4edit-mit-save-id,3,0
+215,Gravios Cap,Gravios Cap,mh4g-dex-build7+mh4edit-mit-save-id,3,0
+216,Gravios Helm S,Gravios Helm S,mh4g-dex-build7+mh4edit-mit-save-id,5,0
+217,Gravios Cap S,Gravios Cap S,mh4g-dex-build7+mh4edit-mit-save-id,5,0
+218,Gravios Helm U,Gravios Helm U,mh4g-dex-build7+mh4edit-mit-save-id,6,0
+219,Gravios Cap U,Gravios Cap U,mh4g-dex-build7+mh4edit-mit-save-id,6,0
+220,Khezu Helm,Khezu Helm,mh4g-dex-build7+mh4edit-mit-save-id,2,0
+221,Khezu Cap,Khezu Cap,mh4g-dex-build7+mh4edit-mit-save-id,2,0
+222,Khezu Helm S,Khezu Helm S,mh4g-dex-build7+mh4edit-mit-save-id,5,0
+223,Khezu Cap S,Khezu Cap S,mh4g-dex-build7+mh4edit-mit-save-id,5,0
+224,Khezu Helm U,Khezu Helm U,mh4g-dex-build7+mh4edit-mit-save-id,6,0
+225,Khezu Cap U,Khezu Cap U,mh4g-dex-build7+mh4edit-mit-save-id,6,0
+226,Khezu Helm,Khezu Helm,mh4g-dex-build7+mh4edit-mit-save-id,2,0
+227,Khezu Cap,Khezu Cap,mh4g-dex-build7+mh4edit-mit-save-id,2,0
+228,Khezu Helm U,Khezu Helm U,mh4g-dex-build7+mh4edit-mit-save-id,6,0
+229,Khezu Cap U,Khezu Cap U,mh4g-dex-build7+mh4edit-mit-save-id,6,0
+230,Kirin Horn,Kirin Horn,mh4g-dex-build7+mh4edit-mit-save-id,3,0
+231,Kirin Crest,Kirin Crest,mh4g-dex-build7+mh4edit-mit-save-id,3,0
+232,Kirin Horn S,Kirin Horn S,mh4g-dex-build7+mh4edit-mit-save-id,6,0
+233,Kirin Crest S,Kirin Crest S,mh4g-dex-build7+mh4edit-mit-save-id,6,0
+234,Kirin Horn U,Kirin Horn U,mh4g-dex-build7+mh4edit-mit-save-id,7,0
+235,Kirin Crest U,Kirin Crest U,mh4g-dex-build7+mh4edit-mit-save-id,7,0
+236,Kirin Horn,Kirin Horn,mh4g-dex-build7+mh4edit-mit-save-id,3,0
+237,Kirin Crest,Kirin Crest,mh4g-dex-build7+mh4edit-mit-save-id,3,0
+238,Kirin Horn U,Kirin Horn U,mh4g-dex-build7+mh4edit-mit-save-id,7,0
+239,Kirin Crest U,Kirin Crest U,mh4g-dex-build7+mh4edit-mit-save-id,7,0
+240,Kushala Glare,Kushala Glare,mh4g-dex-build7+mh4edit-mit-save-id,7,0
+241,Kushala Snarl,Kushala Snarl,mh4g-dex-build7+mh4edit-mit-save-id,7,0
+242,EX Kushala Glare,EX Kushala Glare,mh4g-dex-build7+mh4edit-mit-save-id,7,0
+243,EX Kushala Snarl,EX Kushala Snarl,mh4g-dex-build7+mh4edit-mit-save-id,7,0
+244,Kushala Glare,Kushala Glare,mh4g-dex-build7+mh4edit-mit-save-id,7,0
+245,Kushala Snarl,Kushala Snarl,mh4g-dex-build7+mh4edit-mit-save-id,7,0
+246,Empress Crown,Empress Crown,mh4g-dex-build7+mh4edit-mit-save-id,7,0
+247,Empress Mask,Empress Mask,mh4g-dex-build7+mh4edit-mit-save-id,7,0
+248,Ceanataur Helm,Ceanataur Helm,mh4g-dex-build7+mh4edit-mit-save-id,2,0
+249,Ceanataur Cap,Ceanataur Cap,mh4g-dex-build7+mh4edit-mit-save-id,2,0
+250,Ceanataur Helm,Ceanataur Helm,mh4g-dex-build7+mh4edit-mit-save-id,2,0
+251,Ceanataur Cap,Ceanataur Cap,mh4g-dex-build7+mh4edit-mit-save-id,2,0
+252,Auroros Helm,Auroros Helm,mh4g-dex-build7+mh4edit-mit-save-id,3,0
+253,Borealis Crown,Borealis Crown,mh4g-dex-build7+mh4edit-mit-save-id,3,0
+254,Genesis Headpiece,Genesis Headpiece,mh4g-dex-build7+mh4edit-mit-save-id,3,0
+255,Glyph Crown,Glyph Crown,mh4g-dex-build7+mh4edit-mit-save-id,3,0
+256,Auroros Helm,Auroros Helm,mh4g-dex-build7+mh4edit-mit-save-id,3,0
+257,Borealis Crown,Borealis Crown,mh4g-dex-build7+mh4edit-mit-save-id,3,0
+258,Genesis Headpiece,Genesis Headpiece,mh4g-dex-build7+mh4edit-mit-save-id,3,0
+259,Glyph Crown,Glyph Crown,mh4g-dex-build7+mh4edit-mit-save-id,3,0
+260,Lava Helm,Lava Helm,mh4g-dex-build7+mh4edit-mit-save-id,3,0
+261,Lava Cap,Lava Cap,mh4g-dex-build7+mh4edit-mit-save-id,3,0
+262,Remobra Headgear,Remobra Headgear,mh4g-dex-build7+mh4edit-mit-save-id,2,0
+263,Remobra Mask,Remobra Mask,mh4g-dex-build7+mh4edit-mit-save-id,2,0
+264,Remobra Headgear S,Remobra Headgear S,mh4g-dex-build7+mh4edit-mit-save-id,4,0
+265,Remobra Mask S,Remobra Mask S,mh4g-dex-build7+mh4edit-mit-save-id,4,0
+266,Zamtrios Helm,Zamtrios Helm,mh4g-dex-build7+mh4edit-mit-save-id,2,0
+267,Zamtrios Cap,Zamtrios Cap,mh4g-dex-build7+mh4edit-mit-save-id,2,0
+268,Zamtrios Helm S,Zamtrios Helm S,mh4g-dex-build7+mh4edit-mit-save-id,5,0
+269,Zamtrios Cap S,Zamtrios Cap S,mh4g-dex-build7+mh4edit-mit-save-id,5,0
+270,Seltas Helm,Seltas Helm,mh4g-dex-build7+mh4edit-mit-save-id,3,0
+271,Seltas Cap,Seltas Cap,mh4g-dex-build7+mh4edit-mit-save-id,3,0
+272,Seltas Helm S,Seltas Helm S,mh4g-dex-build7+mh4edit-mit-save-id,5,0
+273,Seltas Cap S,Seltas Cap S,mh4g-dex-build7+mh4edit-mit-save-id,5,0
+274,Arc Helm,Arc Helm,mh4g-dex-build7+mh4edit-mit-save-id,3,0
+275,Arc Cap,Arc Cap,mh4g-dex-build7+mh4edit-mit-save-id,3,0
+276,Arc Helm S,Arc Helm S,mh4g-dex-build7+mh4edit-mit-save-id,7,0
+277,Arc Cap S,Arc Cap S,mh4g-dex-build7+mh4edit-mit-save-id,7,0
+278,Arc Helm,Arc Helm,mh4g-dex-build7+mh4edit-mit-save-id,3,0
+279,Arc Cap,Arc Cap,mh4g-dex-build7+mh4edit-mit-save-id,3,0
+280,Kaiser Crown,Kaiser Crown,mh4g-dex-build7+mh4edit-mit-save-id,7,0
+281,Kaiser Mask,Kaiser Mask,mh4g-dex-build7+mh4edit-mit-save-id,7,0
+282,Golden Headdress,Golden Headdress,mh4g-dex-build7+mh4edit-mit-save-id,7,0
+283,Puppeteer Mask,Puppeteer Mask,mh4g-dex-build7+mh4edit-mit-save-id,7,0
+284,Divine Ire Headdress,Divine Ire Headdress,mh4g-dex-build7+mh4edit-mit-save-id,7,0
+285,Crusher Mask,Crusher Mask,mh4g-dex-build7+mh4edit-mit-save-id,7,0
+286,Rebellion Helm,Rebellion Helm,mh4g-dex-build7+mh4edit-mit-save-id,7,0
+287,Riot Cap,Riot Cap,mh4g-dex-build7+mh4edit-mit-save-id,7,0
+288,Rebellion Helm,Rebellion Helm,mh4g-dex-build7+mh4edit-mit-save-id,7,0
+289,Riot Cap,Riot Cap,mh4g-dex-build7+mh4edit-mit-save-id,7,0
+290,Dragonhead X,Dragonhead X,mh4g-dex-build7+mh4edit-mit-save-id,10,0
+291,Dragonface X,Dragonface X,mh4g-dex-build7+mh4edit-mit-save-id,10,0
+292,Dragonhead,Dragonhead,mh4g-dex-build7+mh4edit-mit-save-id,7,0
+293,Dragonface,Dragonface,mh4g-dex-build7+mh4edit-mit-save-id,7,0
+294,Fatalis Crimsonhead,Fatalis Crimsonhead,mh4g-dex-build7+mh4edit-mit-save-id,7,0
+295,Fatalis Crimsonface,Fatalis Crimsonface,mh4g-dex-build7+mh4edit-mit-save-id,7,0
+296,Ioprey Head,Ioprey Head,mh4g-dex-build7+mh4edit-mit-save-id,5,0
+297,Ioprey Face,Ioprey Face,mh4g-dex-build7+mh4edit-mit-save-id,5,0
+298,Cephalos Helm,Cephalos Helm,mh4g-dex-build7+mh4edit-mit-save-id,4,0
+299,Cephalos Cap,Cephalos Cap,mh4g-dex-build7+mh4edit-mit-save-id,4,0
+300,Mizuha Cap,Mizuha Cap,mh4g-dex-build7+mh4edit-mit-save-id,7,0
+301,Cham Hat,Cham Hat,mh4g-dex-build7+mh4edit-mit-save-id,7,0
+302,Hermitaur Helm,Hermitaur Helm,mh4g-dex-build7+mh4edit-mit-save-id,4,0
+303,Hermitaur Cap,Hermitaur Cap,mh4g-dex-build7+mh4edit-mit-save-id,4,0
+304,Hermitaur Helm,Hermitaur Helm,mh4g-dex-build7+mh4edit-mit-save-id,4,0
+305,Hermitaur Cap,Hermitaur Cap,mh4g-dex-build7+mh4edit-mit-save-id,4,0
+306,Vespoid Helm,Vespoid Helm,mh4g-dex-build7+mh4edit-mit-save-id,4,0
+307,Vespoid Cap,Vespoid Cap,mh4g-dex-build7+mh4edit-mit-save-id,4,0
+308,Qurupeco Helm,Qurupeco Helm,mh4g-dex-build7+mh4edit-mit-save-id,4,0
+309,Qurupeco Cap,Qurupeco Cap,mh4g-dex-build7+mh4edit-mit-save-id,4,0
+310,Agnaktor Helm,Agnaktor Helm,mh4g-dex-build7+mh4edit-mit-save-id,6,0
+311,Agnaktor Cap,Agnaktor Cap,mh4g-dex-build7+mh4edit-mit-save-id,6,0
+312,Barioth Helm,Barioth Helm,mh4g-dex-build7+mh4edit-mit-save-id,5,0
+313,Barioth Cap,Barioth Cap,mh4g-dex-build7+mh4edit-mit-save-id,5,0
+314,Volvidon Helm,Volvidon Helm,mh4g-dex-build7+mh4edit-mit-save-id,4,0
+315,Volvidon Cap,Volvidon Cap,mh4g-dex-build7+mh4edit-mit-save-id,4,0
+316,Lagiacrus Helm,Lagiacrus Helm,mh4g-dex-build7+mh4edit-mit-save-id,6,0
+317,Lagiacrus Cap,Lagiacrus Cap,mh4g-dex-build7+mh4edit-mit-save-id,6,0
+318,Lagiacrus Helm,Lagiacrus Helm,mh4g-dex-build7+mh4edit-mit-save-id,6,0
+319,Lagiacrus Cap,Lagiacrus Cap,mh4g-dex-build7+mh4edit-mit-save-id,6,0
+320,Helios Helm,Helios Helm,mh4g-dex-build7+mh4edit-mit-save-id,7,0
+321,Helios Cap,Helios Cap,mh4g-dex-build7+mh4edit-mit-save-id,7,0
+322,Selene Helm,Selene Helm,mh4g-dex-build7+mh4edit-mit-save-id,7,0
+323,Selene Cap,Selene Cap,mh4g-dex-build7+mh4edit-mit-save-id,7,0
+324,Gobul Helm,Gobul Helm,mh4g-dex-build7+mh4edit-mit-save-id,5,0
+325,Gobul Cap,Gobul Cap,mh4g-dex-build7+mh4edit-mit-save-id,5,0
+326,Yamato Kabuto,Yamato Kabuto,mh4g-dex-build7+mh4edit-mit-save-id,7,0
+327,Hyuga Hachigane,Hyuga Hachigane,mh4g-dex-build7+mh4edit-mit-save-id,7,0
+328,Mutsu Eboshi,Mutsu Eboshi,mh4g-dex-build7+mh4edit-mit-save-id,7,0
+329,Amagi Hachigane,Amagi Hachigane,mh4g-dex-build7+mh4edit-mit-save-id,7,0
+330,Escadora Wisdom,Escadora Wisdom,mh4g-dex-build7+mh4edit-mit-save-id,7,0
+331,Escadora Sagesse,Escadora Sagesse,mh4g-dex-build7+mh4edit-mit-save-id,7,0
+332,Escadora Wisdom,Escadora Wisdom,mh4g-dex-build7+mh4edit-mit-save-id,7,0
+333,Escadora Sagesse,Escadora Sagesse,mh4g-dex-build7+mh4edit-mit-save-id,7,0
+334,Blango Helm,Blango Helm,mh4g-dex-build7+mh4edit-mit-save-id,5,0
+335,Blango Cap,Blango Cap,mh4g-dex-build7+mh4edit-mit-save-id,5,0
+336,Lobster Helm,Lobster Helm,mh4g-dex-build7+mh4edit-mit-save-id,4,0
+337,Lobster Cap,Lobster Cap,mh4g-dex-build7+mh4edit-mit-save-id,4,0
+338,Ukanlos Mask,Ukanlos Mask,mh4g-dex-build7+mh4edit-mit-save-id,7,0
+339,Ukanlos Fangs,Ukanlos Fangs,mh4g-dex-build7+mh4edit-mit-save-id,7,0
+340,Indra Helm,Indra Helm,mh4g-dex-build7+mh4edit-mit-save-id,7,0
+341,Steadfast Helm,Steadfast Helm,mh4g-dex-build7+mh4edit-mit-save-id,7,0
+342,Yaksha Mask,Yaksha Mask,mh4g-dex-build7+mh4edit-mit-save-id,7,0
+343,Carnage Helm,Carnage Helm,mh4g-dex-build7+mh4edit-mit-save-id,7,0
+344,Artian Helm S,Artian Helm S,mh4g-dex-build7+mh4edit-mit-save-id,5,0
+345,Artian Cap S,Artian Cap S,mh4g-dex-build7+mh4edit-mit-save-id,5,0
+346,Dober Helm,Dober Helm,mh4g-dex-build7+mh4edit-mit-save-id,6,0
+347,Dober Cap,Dober Cap,mh4g-dex-build7+mh4edit-mit-save-id,6,0
+348,Ingot Helm,Ingot Helm,mh4g-dex-build7+mh4edit-mit-save-id,3,0
+349,Ingot Cap,Ingot Cap,mh4g-dex-build7+mh4edit-mit-save-id,3,0
+350,Ingot Helm,Ingot Helm,mh4g-dex-build7+mh4edit-mit-save-id,3,0
+351,Ingot Cap,Ingot Cap,mh4g-dex-build7+mh4edit-mit-save-id,3,0
+352,Aelucanth Vertex,Aelucanth Vertex,mh4g-dex-build7+mh4edit-mit-save-id,4,0
+353,Rhopessa Vertex,Rhopessa Vertex,mh4g-dex-build7+mh4edit-mit-save-id,4,0
+354,Aelucanth Clypeus,Aelucanth Clypeus,mh4g-dex-build7+mh4edit-mit-save-id,4,0
+355,Rhopessa Clypeus,Rhopessa Clypeus,mh4g-dex-build7+mh4edit-mit-save-id,4,0
+356,Obituary Vertex,Obituary Vertex,mh4g-dex-build7+mh4edit-mit-save-id,5,0
+357,Butterfly Vertex,Butterfly Vertex,mh4g-dex-build7+mh4edit-mit-save-id,5,0
+358,Obituary Clypeus,Obituary Clypeus,mh4g-dex-build7+mh4edit-mit-save-id,5,0
+359,Butterfly Clypeus,Butterfly Clypeus,mh4g-dex-build7+mh4edit-mit-save-id,5,0
+360,Mosgharl Vizor,Mosgharl Vizor,mh4g-dex-build7+mh4edit-mit-save-id,4,0
+361,Mosgharl Brim,Mosgharl Brim,mh4g-dex-build7+mh4edit-mit-save-id,4,0
+362,Guild Bard Lobos,Guild Bard Lobos,mh4g-dex-build7+mh4edit-mit-save-id,4,0
+363,Scholar's Beret,Scholar's Beret,mh4g-dex-build7+mh4edit-mit-save-id,4,0
+364,Guild Bard Hat,Guild Bard Hat,mh4g-dex-build7+mh4edit-mit-save-id,4,0
+365,Scholar's Cap,Scholar's Cap,mh4g-dex-build7+mh4edit-mit-save-id,4,0
+366,Skull Visage,Skull Visage,mh4g-dex-build7+mh4edit-mit-save-id,5,0
+367,Skull Mask,Skull Mask,mh4g-dex-build7+mh4edit-mit-save-id,5,0
+368,Shadow Shades,Shadow Shades,mh4g-dex-build7+mh4edit-mit-save-id,7,0
+369,Jaggi Mask,Jaggi Mask,mh4g-dex-build7+mh4edit-mit-save-id,3,0
+370,Gargwa Mask,Gargwa Mask,mh4g-dex-build7+mh4edit-mit-save-id,3,0
+371,Black Belt Helm,Black Belt Helm,mh4g-dex-build7+mh4edit-mit-save-id,6,0
+372,Black Belt Cap,Black Belt Cap,mh4g-dex-build7+mh4edit-mit-save-id,6,0
+373,Guardian Helm,Guardian Helm,mh4g-dex-build7+mh4edit-mit-save-id,4,0
+374,Helper Hood,Helper Hood,mh4g-dex-build7+mh4edit-mit-save-id,4,0
+375,Guardian Mask,Guardian Mask,mh4g-dex-build7+mh4edit-mit-save-id,4,0
+376,Helper Cap,Helper Cap,mh4g-dex-build7+mh4edit-mit-save-id,4,0
+377,Shinobi Sky Mask,Shinobi Sky Mask,mh4g-dex-build7+mh4edit-mit-save-id,7,0
+378,Shinobi Land Mask,Shinobi Land Mask,mh4g-dex-build7+mh4edit-mit-save-id,7,0
+379,Guild Knight Feather,Guild Knight Feather,mh4g-dex-build7+mh4edit-mit-save-id,6,0
+380,Maiden's Hat,Maiden's Hat,mh4g-dex-build7+mh4edit-mit-save-id,6,0
+381,Guild Knight Mask,Guild Knight Mask,mh4g-dex-build7+mh4edit-mit-save-id,6,0
+382,Maiden's Cap,Maiden's Cap,mh4g-dex-build7+mh4edit-mit-save-id,6,0
+383,Yukumo Sky Kasa,Yukumo Sky Kasa,mh4g-dex-build7+mh4edit-mit-save-id,6,0
+384,Yukumo Land Kasa,Yukumo Land Kasa,mh4g-dex-build7+mh4edit-mit-save-id,6,0
+385,High Metal Helm,High Metal Helm,mh4g-dex-build7+mh4edit-mit-save-id,2,0
+386,High Metal Cap,High Metal Cap,mh4g-dex-build7+mh4edit-mit-save-id,2,0
+387,Ranger's Headgear,Ranger's Headgear,mh4g-dex-build7+mh4edit-mit-save-id,6,0
+388,Archer's Turban,Archer's Turban,mh4g-dex-build7+mh4edit-mit-save-id,6,0
+389,Dragonlord's Gaze,Dragonlord's Gaze,mh4g-dex-build7+mh4edit-mit-save-id,3,0
+390,Chakra Earring,Chakra Earring,mh4g-dex-build7+mh4edit-mit-save-id,5,0
+391,Sailor Hat,Sailor Hat,mh4g-dex-build7+mh4edit-mit-save-id,6,0
+392,Sailor Cap,Sailor Cap,mh4g-dex-build7+mh4edit-mit-save-id,6,0
+393,Hawkhat,Hawkhat,mh4g-dex-build7+mh4edit-mit-save-id,6,0
+394,Lecturer's Hood,Lecturer's Hood,mh4g-dex-build7+mh4edit-mit-save-id,6,0
+395,Hawkcap,Hawkcap,mh4g-dex-build7+mh4edit-mit-save-id,6,0
+396,Lecturer's Cap,Lecturer's Cap,mh4g-dex-build7+mh4edit-mit-save-id,6,0
+397,Friendship Feather,Friendship Feather,mh4g-dex-build7+mh4edit-mit-save-id,3,0
+398,Victory Feather,Victory Feather,mh4g-dex-build7+mh4edit-mit-save-id,6,0
+399,Champion Feather,Champion Feather,mh4g-dex-build7+mh4edit-mit-save-id,6,0
+400,Felyne Hairband,Felyne Hairband,mh4g-dex-build7+mh4edit-mit-save-id,7,0
+401,Cunning Specs,Cunning Specs,mh4g-dex-build7+mh4edit-mit-save-id,7,0
+402,Blue Star Lobos,Blue Star Lobos,mh4g-dex-build7+mh4edit-mit-save-id,7,0
+403,Blue Star Hat,Blue Star Hat,mh4g-dex-build7+mh4edit-mit-save-id,7,0
+404,dummy701,dummy701,mh4edit-mit-save-id,0,0
+405,Helm of Anat,Helm of Anat,mh4g-dex-build7+mh4edit-mit-save-id,10,0
+406,Cap of Anat,Cap of Anat,mh4g-dex-build7+mh4edit-mit-save-id,10,0
+407,Uniqlo Hood,Uniqlo Hood,mh4g-dex-build7+mh4edit-mit-save-id,7,0
+408,Uniqlo Cap,Uniqlo Cap,mh4g-dex-build7+mh4edit-mit-save-id,7,0
+409,Star Rook Helm,Star Rook Helm,mh4g-dex-build7+mh4edit-mit-save-id,7,0
+410,Star Rook Cap,Star Rook Cap,mh4g-dex-build7+mh4edit-mit-save-id,7,0
+411,dummy706,dummy706,mh4edit-mit-save-id,0,0
+412,dummy718,dummy718,mh4edit-mit-save-id,0,0
+413,dummy707,dummy707,mh4edit-mit-save-id,0,0
+414,dummy719,dummy719,mh4edit-mit-save-id,0,0
+415,Artian Helm S,Artian Helm S,mh4g-dex-build7+mh4edit-mit-save-id,5,0
+416,Artian Cap S,Artian Cap S,mh4g-dex-build7+mh4edit-mit-save-id,5,0
+417,Overlord Feather,Overlord Feather,mh4g-dex-build7+mh4edit-mit-save-id,7,0
+418,DUMMY,DUMMY,mh4edit-mit-save-id,0,0
+419,Hero's Hat,Hero's Hat,mh4g-dex-build7+mh4edit-mit-save-id,7,0
+420,DUMMY,DUMMY,mh4edit-mit-save-id,0,0
+421,Hero's Cap,Hero's Cap,mh4g-dex-build7+mh4edit-mit-save-id,7,0
+422,dummy729,dummy729,mh4edit-mit-save-id,0,0
+423,dummy730,dummy730,mh4edit-mit-save-id,0,0
+424,EX Rebellion Helm,EX Rebellion Helm,mh4g-dex-build7+mh4edit-mit-save-id,7,0
+425,EX Riot Cap,EX Riot Cap,mh4g-dex-build7+mh4edit-mit-save-id,7,0
+426,EX Gore Helm,EX Gore Helm,mh4g-dex-build7+mh4edit-mit-save-id,7,0
+427,EX Gore Cap,EX Gore Cap,mh4g-dex-build7+mh4edit-mit-save-id,7,0
+428,EX Ingot Helm,EX Ingot Helm,mh4g-dex-build7+mh4edit-mit-save-id,7,0
+429,EX Ingot Cap,EX Ingot Cap,mh4g-dex-build7+mh4edit-mit-save-id,7,0
+430,EX Kirin Horn U,EX Kirin Horn U,mh4g-dex-build7+mh4edit-mit-save-id,7,0
+431,EX Kirin Crest U,EX Kirin Crest U,mh4g-dex-build7+mh4edit-mit-save-id,7,0
+432,EX Artian Helm,EX Artian Helm,mh4g-dex-build7+mh4edit-mit-save-id,7,0
+433,EX Artian Cap,EX Artian Cap,mh4g-dex-build7+mh4edit-mit-save-id,7,0
+434,Storge Helm,Storge Helm,mh4g-dex-build7+mh4edit-mit-save-id,3,0
+435,Storge Cap,Storge Cap,mh4g-dex-build7+mh4edit-mit-save-id,3,0
+436,Storge Helm S,Storge Helm S,mh4g-dex-build7+mh4edit-mit-save-id,7,0
+437,Storge Cap S,Storge Cap S,mh4g-dex-build7+mh4edit-mit-save-id,7,0
+438,Storge Helm,Storge Helm,mh4g-dex-build7+mh4edit-mit-save-id,3,0
+439,Storge Cap,Storge Cap,mh4g-dex-build7+mh4edit-mit-save-id,3,0
+440,Hunter's Helm,Hunter's Helm,mh4g-dex-build7+mh4edit-mit-save-id,1,0
+441,Hunter's Cap,Hunter's Cap,mh4g-dex-build7+mh4edit-mit-save-id,1,0
+442,Alloy Helm,Alloy Helm,mh4g-dex-build7+mh4edit-mit-save-id,1,0
+443,Alloy Cap,Alloy Cap,mh4g-dex-build7+mh4edit-mit-save-id,1,0
+444,Ludroth Helm,Ludroth Helm,mh4g-dex-build7+mh4edit-mit-save-id,2,0
+445,Ludroth Cap,Ludroth Cap,mh4g-dex-build7+mh4edit-mit-save-id,2,0
+446,Rathian Helm,Rathian Helm,mh4g-dex-build7+mh4edit-mit-save-id,2,0
+447,Rathian Cap,Rathian Cap,mh4g-dex-build7+mh4edit-mit-save-id,2,0
+448,Rath Heart Helm,Rath Heart Helm,mh4g-dex-build7+mh4edit-mit-save-id,6,0
+449,Rath Heart Cap,Rath Heart Cap,mh4g-dex-build7+mh4edit-mit-save-id,6,0
+450,Rathalos Helm,Rathalos Helm,mh4g-dex-build7+mh4edit-mit-save-id,3,0
+451,Rathalos Cap,Rathalos Cap,mh4g-dex-build7+mh4edit-mit-save-id,3,0
+452,Rath Soul Helm,Rath Soul Helm,mh4g-dex-build7+mh4edit-mit-save-id,6,0
+453,Rath Soul Cap,Rath Soul Cap,mh4g-dex-build7+mh4edit-mit-save-id,6,0
+454,Silver Solhelm,Silver Solhelm,mh4g-dex-build7+mh4edit-mit-save-id,7,0
+455,Silver Solcap,Silver Solcap,mh4g-dex-build7+mh4edit-mit-save-id,7,0
+456,Esurient Helm,Esurient Helm,mh4g-dex-build7+mh4edit-mit-save-id,7,0
+457,Esurient Cap,Esurient Cap,mh4g-dex-build7+mh4edit-mit-save-id,7,0
+458,Gloaming Helm,Gloaming Helm,mh4g-dex-build7+mh4edit-mit-save-id,3,0
+459,Adamance Helm,Adamance Helm,mh4g-dex-build7+mh4edit-mit-save-id,3,0
+460,Dayspring Kasa,Dayspring Kasa,mh4g-dex-build7+mh4edit-mit-save-id,3,0
+461,Epoch Helm,Epoch Helm,mh4g-dex-build7+mh4edit-mit-save-id,3,0
+462,Tigrex Helm,Tigrex Helm,mh4g-dex-build7+mh4edit-mit-save-id,3,0
+463,Tigrex Cap,Tigrex Cap,mh4g-dex-build7+mh4edit-mit-save-id,3,0
+464,Tigrex Helm U,Tigrex Helm U,mh4g-dex-build7+mh4edit-mit-save-id,6,0
+465,Tigrex Cap U,Tigrex Cap U,mh4g-dex-build7+mh4edit-mit-save-id,6,0
+466,Akantor Mask,Akantor Mask,mh4g-dex-build7+mh4edit-mit-save-id,7,0
+467,Akantor Fangs,Akantor Fangs,mh4g-dex-build7+mh4edit-mit-save-id,7,0
+468,Zinogre Helm U,Zinogre Helm U,mh4g-dex-build7+mh4edit-mit-save-id,6,0
+469,Zinogre Cap U,Zinogre Cap U,mh4g-dex-build7+mh4edit-mit-save-id,6,0
+470,Gore Helm,Gore Helm,mh4g-dex-build7+mh4edit-mit-save-id,3,0
+471,Gore Cap,Gore Cap,mh4g-dex-build7+mh4edit-mit-save-id,3,0
+472,Gypceros Helm,Gypceros Helm,mh4g-dex-build7+mh4edit-mit-save-id,2,0
+473,Gypceros Cap,Gypceros Cap,mh4g-dex-build7+mh4edit-mit-save-id,2,0
+474,Gypceros Helm U,Gypceros Helm U,mh4g-dex-build7+mh4edit-mit-save-id,6,0
+475,Gypceros Cap U,Gypceros Cap U,mh4g-dex-build7+mh4edit-mit-save-id,6,0
+476,Khezu Helm,Khezu Helm,mh4g-dex-build7+mh4edit-mit-save-id,2,0
+477,Khezu Cap,Khezu Cap,mh4g-dex-build7+mh4edit-mit-save-id,2,0
+478,Khezu Helm U,Khezu Helm U,mh4g-dex-build7+mh4edit-mit-save-id,6,0
+479,Khezu Cap U,Khezu Cap U,mh4g-dex-build7+mh4edit-mit-save-id,6,0
+480,Kirin Horn,Kirin Horn,mh4g-dex-build7+mh4edit-mit-save-id,3,0
+481,Kirin Crest,Kirin Crest,mh4g-dex-build7+mh4edit-mit-save-id,3,0
+482,Kirin Horn U,Kirin Horn U,mh4g-dex-build7+mh4edit-mit-save-id,7,0
+483,Kirin Crest U,Kirin Crest U,mh4g-dex-build7+mh4edit-mit-save-id,7,0
+484,Kushala Glare,Kushala Glare,mh4g-dex-build7+mh4edit-mit-save-id,7,0
+485,Kushala Snarl,Kushala Snarl,mh4g-dex-build7+mh4edit-mit-save-id,7,0
+486,Ceanataur Helm,Ceanataur Helm,mh4g-dex-build7+mh4edit-mit-save-id,2,0
+487,Ceanataur Cap,Ceanataur Cap,mh4g-dex-build7+mh4edit-mit-save-id,2,0
+488,Auroros Helm,Auroros Helm,mh4g-dex-build7+mh4edit-mit-save-id,3,0
+489,Borealis Crown,Borealis Crown,mh4g-dex-build7+mh4edit-mit-save-id,3,0
+490,Genesis Headpiece,Genesis Headpiece,mh4g-dex-build7+mh4edit-mit-save-id,3,0
+491,Glyph Crown,Glyph Crown,mh4g-dex-build7+mh4edit-mit-save-id,3,0
+492,Arc Helm,Arc Helm,mh4g-dex-build7+mh4edit-mit-save-id,3,0
+493,Arc Cap,Arc Cap,mh4g-dex-build7+mh4edit-mit-save-id,3,0
+494,Rebellion Helm,Rebellion Helm,mh4g-dex-build7+mh4edit-mit-save-id,7,0
+495,Riot Cap,Riot Cap,mh4g-dex-build7+mh4edit-mit-save-id,7,0
+496,Dragonhead X,Dragonhead X,mh4g-dex-build7+mh4edit-mit-save-id,10,0
+497,Dragonface X,Dragonface X,mh4g-dex-build7+mh4edit-mit-save-id,10,0
+498,Hermitaur Helm,Hermitaur Helm,mh4g-dex-build7+mh4edit-mit-save-id,4,0
+499,Hermitaur Cap,Hermitaur Cap,mh4g-dex-build7+mh4edit-mit-save-id,4,0
+500,Lagiacrus Helm,Lagiacrus Helm,mh4g-dex-build7+mh4edit-mit-save-id,6,0
+501,Lagiacrus Cap,Lagiacrus Cap,mh4g-dex-build7+mh4edit-mit-save-id,6,0
+502,Escadora Wisdom,Escadora Wisdom,mh4g-dex-build7+mh4edit-mit-save-id,7,0
+503,Escadora Sagesse,Escadora Sagesse,mh4g-dex-build7+mh4edit-mit-save-id,7,0
+504,Ingot Helm,Ingot Helm,mh4g-dex-build7+mh4edit-mit-save-id,3,0
+505,Ingot Cap,Ingot Cap,mh4g-dex-build7+mh4edit-mit-save-id,3,0
+506,Artian Helm S,Artian Helm S,mh4g-dex-build7+mh4edit-mit-save-id,5,0
+507,Artian Cap S,Artian Cap S,mh4g-dex-build7+mh4edit-mit-save-id,5,0
+508,Storge Helm,Storge Helm,mh4g-dex-build7+mh4edit-mit-save-id,3,0
+509,Storge Cap,Storge Cap,mh4g-dex-build7+mh4edit-mit-save-id,3,0
+510,Velociprey Helm X,Velociprey Helm X,mh4g-dex-build7+mh4edit-mit-save-id,8,0
+511,Velociprey Cap X,Velociprey Cap X,mh4g-dex-build7+mh4edit-mit-save-id,8,0
+512,Ioprey Helm X,Ioprey Helm X,mh4g-dex-build7+mh4edit-mit-save-id,8,0
+513,Ioprey Cap X,Ioprey Cap X,mh4g-dex-build7+mh4edit-mit-save-id,8,0
+514,Kecha Helm X,Kecha Helm X,mh4g-dex-build7+mh4edit-mit-save-id,8,0
+515,Kecha Cap X,Kecha Cap X,mh4g-dex-build7+mh4edit-mit-save-id,8,0
+516,Kecha Helm Z,Kecha Helm Z,mh4g-dex-build7+mh4edit-mit-save-id,8,0
+517,Kecha Cap Z,Kecha Cap Z,mh4g-dex-build7+mh4edit-mit-save-id,8,0
+518,Tetsucabra Helm X,Tetsucabra Helm X,mh4g-dex-build7+mh4edit-mit-save-id,8,0
+519,Tetsucabra Cap X,Tetsucabra Cap X,mh4g-dex-build7+mh4edit-mit-save-id,8,0
+520,Tetsucabra Helm Z,Tetsucabra Helm Z,mh4g-dex-build7+mh4edit-mit-save-id,8,0
+521,Tetsucabra Cap Z,Tetsucabra Cap Z,mh4g-dex-build7+mh4edit-mit-save-id,8,0
+522,Nerscylla Helm X,Nerscylla Helm X,mh4g-dex-build7+mh4edit-mit-save-id,8,0
+523,Nerscylla Cap X,Nerscylla Cap X,mh4g-dex-build7+mh4edit-mit-save-id,8,0
+524,Nerscylla Helm Z,Nerscylla Helm Z,mh4g-dex-build7+mh4edit-mit-save-id,9,0
+525,Nerscylla Cap Z,Nerscylla Cap Z,mh4g-dex-build7+mh4edit-mit-save-id,9,0
+526,Zamtrios Helm X,Zamtrios Helm X,mh4g-dex-build7+mh4edit-mit-save-id,8,0
+527,Zamtrios Cap X,Zamtrios Cap X,mh4g-dex-build7+mh4edit-mit-save-id,8,0
+528,Zamtrios Helm Z,Zamtrios Helm Z,mh4g-dex-build7+mh4edit-mit-save-id,8,0
+529,Zamtrios Cap Z,Zamtrios Cap Z,mh4g-dex-build7+mh4edit-mit-save-id,8,0
+530,Najarala Helm X,Najarala Helm X,mh4g-dex-build7+mh4edit-mit-save-id,8,0
+531,Najarala Cap X,Najarala Cap X,mh4g-dex-build7+mh4edit-mit-save-id,8,0
+532,Najarala Helm Z,Najarala Helm Z,mh4g-dex-build7+mh4edit-mit-save-id,8,0
+533,Najarala Cap Z,Najarala Cap Z,mh4g-dex-build7+mh4edit-mit-save-id,8,0
+534,Seltas Helm X,Seltas Helm X,mh4g-dex-build7+mh4edit-mit-save-id,9,0
+535,Seltas Cap X,Seltas Cap X,mh4g-dex-build7+mh4edit-mit-save-id,9,0
+536,Seltas Helm Z,Seltas Helm Z,mh4g-dex-build7+mh4edit-mit-save-id,9,0
+537,Seltas Cap Z,Seltas Cap Z,mh4g-dex-build7+mh4edit-mit-save-id,9,0
+538,Gore Helm X,Gore Helm X,mh4g-dex-build7+mh4edit-mit-save-id,9,0
+539,Gore Cap X,Gore Cap X,mh4g-dex-build7+mh4edit-mit-save-id,9,0
+540,Gore Casque,Gore Casque,mh4edit-mit-save-id,0,0
+541,Gore Coif,Gore Coif,mh4edit-mit-save-id,0,0
+542,Arc Helm X,Arc Helm X,mh4g-dex-build7+mh4edit-mit-save-id,10,0
+543,Storge Helm X,Storge Helm X,mh4g-dex-build7+mh4edit-mit-save-id,10,0
+544,Arc Cap X,Arc Cap X,mh4g-dex-build7+mh4edit-mit-save-id,10,0
+545,Storge Cap X,Storge Cap X,mh4g-dex-build7+mh4edit-mit-save-id,10,0
+546,Arc Casque,Arc Casque,mh4edit-mit-save-id,0,0
+547,Storge Casque,Storge Casque,mh4edit-mit-save-id,0,0
+548,Arc Coif,Arc Coif,mh4edit-mit-save-id,0,0
+549,Storge Coif,Storge Coif,mh4edit-mit-save-id,0,0
+550,Gogma Helm,Gogma Helm,mh4g-dex-build7+mh4edit-mit-save-id,10,0
+551,Gogma Cap,Gogma Cap,mh4g-dex-build7+mh4edit-mit-save-id,10,0
+552,Gypceros Helm X,Gypceros Helm X,mh4g-dex-build7+mh4edit-mit-save-id,8,0
+553,Gypceros Cap X,Gypceros Cap X,mh4g-dex-build7+mh4edit-mit-save-id,8,0
+554,Gypceros Casque,Gypceros Casque,mh4edit-mit-save-id,0,0
+555,Gypceros Coif,Gypceros Coif,mh4edit-mit-save-id,0,0
+556,Gypceros Helm Z,Gypceros Helm Z,mh4g-dex-build7+mh4edit-mit-save-id,8,0
+557,Gypceros Cap Z,Gypceros Cap Z,mh4g-dex-build7+mh4edit-mit-save-id,8,0
+558,Gypceros Casque U,Gypceros Casque U,mh4edit-mit-save-id,0,0
+559,Gypceros Coif U,Gypceros Coif U,mh4edit-mit-save-id,0,0
+560,Lagombi Helm X,Lagombi Helm X,mh4g-dex-build7+mh4edit-mit-save-id,8,0
+561,Lagombi Cap X,Lagombi Cap X,mh4g-dex-build7+mh4edit-mit-save-id,8,0
+562,Conga Helm X,Conga Helm X,mh4g-dex-build7+mh4edit-mit-save-id,8,0
+563,Conga Cap X,Conga Cap X,mh4g-dex-build7+mh4edit-mit-save-id,8,0
+564,Conga Helm Z,Conga Helm Z,mh4g-dex-build7+mh4edit-mit-save-id,8,0
+565,Conga Cap Z,Conga Cap Z,mh4g-dex-build7+mh4edit-mit-save-id,8,0
+566,Khezu Helm X,Khezu Helm X,mh4g-dex-build7+mh4edit-mit-save-id,8,0
+567,Khezu Cap X,Khezu Cap X,mh4g-dex-build7+mh4edit-mit-save-id,8,0
+568,Khezu Casque,Khezu Casque,mh4edit-mit-save-id,0,0
+569,Khezu Coif,Khezu Coif,mh4edit-mit-save-id,0,0
+570,Khezu Helm Z,Khezu Helm Z,mh4g-dex-build7+mh4edit-mit-save-id,8,0
+571,Khezu Cap Z,Khezu Cap Z,mh4g-dex-build7+mh4edit-mit-save-id,8,0
+572,Khezu Casque U,Khezu Casque U,mh4edit-mit-save-id,0,0
+573,Khezu Coif U,Khezu Coif U,mh4edit-mit-save-id,0,0
+574,Rathian Helm X,Rathian Helm X,mh4g-dex-build7+mh4edit-mit-save-id,8,0
+575,Rathian Cap X,Rathian Cap X,mh4g-dex-build7+mh4edit-mit-save-id,8,0
+576,Rathian Casque,Rathian Casque,mh4edit-mit-save-id,0,0
+577,Rathian Coif,Rathian Coif,mh4edit-mit-save-id,0,0
+578,Rath Heart Helm Z,Rath Heart Helm Z,mh4g-dex-build7+mh4edit-mit-save-id,8,0
+579,Rath Heart Cap Z,Rath Heart Cap Z,mh4g-dex-build7+mh4edit-mit-save-id,8,0
+580,Rath Heart Casque,Rath Heart Casque,mh4edit-mit-save-id,0,0
+581,Rath Heart Coif,Rath Heart Coif,mh4edit-mit-save-id,0,0
+582,Golden Lunehelm Z,Golden Lunehelm Z,mh4g-dex-build7+mh4edit-mit-save-id,10,0
+583,Golden Lunecap Z,Golden Lunecap Z,mh4g-dex-build7+mh4edit-mit-save-id,10,0
+584,Rathalos Helm X,Rathalos Helm X,mh4g-dex-build7+mh4edit-mit-save-id,9,0
+585,Rathalos Cap X,Rathalos Cap X,mh4g-dex-build7+mh4edit-mit-save-id,9,0
+586,Rathalos Casque,Rathalos Casque,mh4edit-mit-save-id,0,0
+587,Rathalos Coif,Rathalos Coif,mh4edit-mit-save-id,0,0
+588,Rath Soul Helm Z,Rath Soul Helm Z,mh4g-dex-build7+mh4edit-mit-save-id,9,0
+589,Rath Soul Cap Z,Rath Soul Cap Z,mh4g-dex-build7+mh4edit-mit-save-id,9,0
+590,Rath Soul Casque,Rath Soul Casque,mh4edit-mit-save-id,0,0
+591,Rath Soul Coif,Rath Soul Coif,mh4edit-mit-save-id,0,0
+592,Silver Solhelm Z,Silver Solhelm Z,mh4g-dex-build7+mh4edit-mit-save-id,10,0
+593,Silver Solcap Z,Silver Solcap Z,mh4g-dex-build7+mh4edit-mit-save-id,10,0
+594,Silver Solcasque,Silver Solcasque,mh4edit-mit-save-id,0,0
+595,Silver Solcoif,Silver Solcoif,mh4edit-mit-save-id,0,0
+596,Zinogre Helm X,Zinogre Helm X,mh4g-dex-build7+mh4edit-mit-save-id,9,0
+597,Zinogre Cap X,Zinogre Cap X,mh4g-dex-build7+mh4edit-mit-save-id,9,0
+598,Zinogre Helm Z,Zinogre Helm Z,mh4g-dex-build7+mh4edit-mit-save-id,9,0
+599,Zinogre Cap Z,Zinogre Cap Z,mh4g-dex-build7+mh4edit-mit-save-id,9,0
+600,Zinogre Casque U,Zinogre Casque U,mh4edit-mit-save-id,0,0
+601,Zinogre Coif U,Zinogre Coif U,mh4edit-mit-save-id,0,0
+602,Tigrex Helm X,Tigrex Helm X,mh4g-dex-build7+mh4edit-mit-save-id,9,0
+603,Tigrex Cap X,Tigrex Cap X,mh4g-dex-build7+mh4edit-mit-save-id,9,0
+604,Tigrex Casque,Tigrex Casque,mh4edit-mit-save-id,0,0
+605,Tigrex Coif,Tigrex Coif,mh4edit-mit-save-id,0,0
+606,Tigrex Helm Z,Tigrex Helm Z,mh4g-dex-build7+mh4edit-mit-save-id,9,0
+607,Tigrex Cap Z,Tigrex Cap Z,mh4g-dex-build7+mh4edit-mit-save-id,9,0
+608,Tigrex Casque U,Tigrex Casque U,mh4edit-mit-save-id,0,0
+609,Tigrex Coif U,Tigrex Coif U,mh4edit-mit-save-id,0,0
+610,Excello Helm Z,Excello Helm Z,mh4g-dex-build7+mh4edit-mit-save-id,10,0
+611,Excello Cap Z,Excello Cap Z,mh4g-dex-build7+mh4edit-mit-save-id,10,0
+612,Gravios Helm X,Gravios Helm X,mh4g-dex-build7+mh4edit-mit-save-id,9,0
+613,Gravios Cap X,Gravios Cap X,mh4g-dex-build7+mh4edit-mit-save-id,9,0
+614,Gravios Helm Z,Gravios Helm Z,mh4g-dex-build7+mh4edit-mit-save-id,9,0
+615,Gravios Cap Z,Gravios Cap Z,mh4g-dex-build7+mh4edit-mit-save-id,9,0
+616,Brachydios Helm X,Brachydios Helm X,mh4g-dex-build7+mh4edit-mit-save-id,9,0
+617,Brachydios Cap X,Brachydios Cap X,mh4g-dex-build7+mh4edit-mit-save-id,9,0
+618,Brachydium Helm,Brachydium Helm,mh4g-dex-build7+mh4edit-mit-save-id,10,0
+619,Brachydium Cap,Brachydium Cap,mh4g-dex-build7+mh4edit-mit-save-id,10,0
+620,Grand Gloaming Helm,Grand Gloaming Helm,mh4g-dex-build7+mh4edit-mit-save-id,10,0
+621,Grand Adamance Helm,Grand Adamance Helm,mh4g-dex-build7+mh4edit-mit-save-id,10,0
+622,Grand Dayspring Helm,Grand Dayspring Helm,mh4g-dex-build7+mh4edit-mit-save-id,10,0
+623,Grand Epoch Helm,Grand Epoch Helm,mh4g-dex-build7+mh4edit-mit-save-id,10,0
+624,Gloaming Redhelm,Gloaming Redhelm,mh4edit-mit-save-id,0,0
+625,Adamance Redhelm,Adamance Redhelm,mh4edit-mit-save-id,0,0
+626,Dayspring Redhelm,Dayspring Redhelm,mh4edit-mit-save-id,0,0
+627,Epoch Redhelm,Epoch Redhelm,mh4edit-mit-save-id,0,0
+628,Vangis Helm X,Vangis Helm X,mh4g-dex-build7+mh4edit-mit-save-id,9,0
+629,Vangis Cap X,Vangis Cap X,mh4g-dex-build7+mh4edit-mit-save-id,9,0
+630,Esurient Helm Z,Esurient Helm Z,mh4g-dex-build7+mh4edit-mit-save-id,10,0
+631,Esurient Cap Z,Esurient Cap Z,mh4g-dex-build7+mh4edit-mit-save-id,10,0
+632,Esurient Casque,Esurient Casque,mh4edit-mit-save-id,0,0
+633,Esurient Coif,Esurient Coif,mh4edit-mit-save-id,0,0
+634,Kaiser Crown X,Kaiser Crown X,mh4g-dex-build7+mh4edit-mit-save-id,10,0
+635,Kaiser Mask X,Kaiser Mask X,mh4g-dex-build7+mh4edit-mit-save-id,10,0
+636,Akantor Mask X,Akantor Mask X,mh4g-dex-build7+mh4edit-mit-save-id,10,0
+637,Akantor Fangs X,Akantor Fangs X,mh4g-dex-build7+mh4edit-mit-save-id,10,0
+638,Akantor Casque,Akantor Casque,mh4edit-mit-save-id,0,0
+639,Akantor Coif,Akantor Coif,mh4edit-mit-save-id,0,0
+640,EX Escadora Wisdom,EX Escadora Wisdom,mh4g-dex-build7+mh4edit-mit-save-id,10,0
+641,EX Escadora Sagesse,EX Escadora Sagesse,mh4g-dex-build7+mh4edit-mit-save-id,10,0
+642,Ukanlos Mask X,Ukanlos Mask X,mh4g-dex-build7+mh4edit-mit-save-id,10,0
+643,Ukanlos Fangs X,Ukanlos Fangs X,mh4g-dex-build7+mh4edit-mit-save-id,10,0
+644,Kushala Glare X,Kushala Glare X,mh4g-dex-build7+mh4edit-mit-save-id,10,0
+645,Kushala Snarl X,Kushala Snarl X,mh4g-dex-build7+mh4edit-mit-save-id,10,0
+646,Kushala Casque,Kushala Casque,mh4edit-mit-save-id,0,0
+647,Kushala Coif,Kushala Coif,mh4edit-mit-save-id,0,0
+648,Kujula Glare,Kujula Glare,mh4g-dex-build7+mh4edit-mit-save-id,10,0
+649,Kujula Snarl,Kujula Snarl,mh4g-dex-build7+mh4edit-mit-save-id,10,0
+650,Grand God's Peer Mask,Grand God's Peer Mask,mh4g-dex-build7+mh4edit-mit-save-id,10,0
+651,Grand Hermit Mask,Grand Hermit Mask,mh4g-dex-build7+mh4edit-mit-save-id,10,0
+652,Grand Divine Ire Mask,Grand Divine Ire Mask,mh4g-dex-build7+mh4edit-mit-save-id,10,0
+653,Grand Crusher Mask,Grand Crusher Mask,mh4g-dex-build7+mh4edit-mit-save-id,10,0
+654,Rebellion Helm X,Rebellion Helm X,mh4g-dex-build7+mh4edit-mit-save-id,10,0
+655,Riot Cap X,Riot Cap X,mh4g-dex-build7+mh4edit-mit-save-id,10,0
+656,Rebellion Casque,Rebellion Casque,mh4edit-mit-save-id,0,0
+657,Riot Coif,Riot Coif,mh4edit-mit-save-id,0,0
+658,Rebellion Helm Z,Rebellion Helm Z,mh4g-dex-build7+mh4edit-mit-save-id,10,0
+659,Riot Cap Z,Riot Cap Z,mh4g-dex-build7+mh4edit-mit-save-id,10,0
+660,Cephalos Helm X,Cephalos Helm X,mh4g-dex-build7+mh4edit-mit-save-id,8,0
+661,Cephalos Cap X,Cephalos Cap X,mh4g-dex-build7+mh4edit-mit-save-id,8,0
+662,Hermitaur Helm X,Hermitaur Helm X,mh4g-dex-build7+mh4edit-mit-save-id,8,0
+663,Hermitaur Cap X,Hermitaur Cap X,mh4g-dex-build7+mh4edit-mit-save-id,8,0
+664,Hermitaur Casque,Hermitaur Casque,mh4edit-mit-save-id,0,0
+665,Hermitaur Coif,Hermitaur Coif,mh4edit-mit-save-id,0,0
+666,Hermitaur Helm Z,Hermitaur Helm Z,mh4g-dex-build7+mh4edit-mit-save-id,8,0
+667,Hermitaur Cap Z,Hermitaur Cap Z,mh4g-dex-build7+mh4edit-mit-save-id,8,0
+668,Mono Helm S,Mono Helm S,mh4g-dex-build7+mh4edit-mit-save-id,5,0
+669,Mono Cap S,Mono Cap S,mh4g-dex-build7+mh4edit-mit-save-id,5,0
+670,Mono Helm X,Mono Helm X,mh4g-dex-build7+mh4edit-mit-save-id,9,0
+671,Mono Cap X,Mono Cap X,mh4g-dex-build7+mh4edit-mit-save-id,9,0
+672,Mono Helm,Mono Helm,mh4edit-mit-save-id,0,0
+673,Mono Cap,Mono Cap,mh4edit-mit-save-id,0,0
+674,Mono Casque,Mono Casque,mh4edit-mit-save-id,0,0
+675,Mono Coif,Mono Coif,mh4edit-mit-save-id,0,0
+676,Monodevil Helm,Monodevil Helm,mh4g-dex-build7+mh4edit-mit-save-id,9,0
+677,Monodevil Cap,Monodevil Cap,mh4g-dex-build7+mh4edit-mit-save-id,9,0
+678,Monodevil Helm,Monodevil Helm,mh4g-dex-build7+mh4edit-mit-save-id,9,0
+679,Monodevil Cap,Monodevil Cap,mh4g-dex-build7+mh4edit-mit-save-id,9,0
+680,Monodevil Casque,Monodevil Casque,mh4edit-mit-save-id,0,0
+681,Monodevil Coif,Monodevil Coif,mh4edit-mit-save-id,0,0
+682,Diablos Helm X,Diablos Helm X,mh4g-dex-build7+mh4edit-mit-save-id,9,0
+683,Diablos Cap X,Diablos Cap X,mh4g-dex-build7+mh4edit-mit-save-id,9,0
+684,Diablos Helm,Diablos Helm,mh4g-dex-build7+mh4edit-mit-save-id,3,0
+685,Diablos Cap,Diablos Cap,mh4g-dex-build7+mh4edit-mit-save-id,3,0
+686,Diablos Casque,Diablos Casque,mh4edit-mit-save-id,0,0
+687,Diablos Coif,Diablos Coif,mh4edit-mit-save-id,0,0
+688,Diablos Helm Z,Diablos Helm Z,mh4g-dex-build7+mh4edit-mit-save-id,9,0
+689,Diablos Cap Z,Diablos Cap Z,mh4g-dex-build7+mh4edit-mit-save-id,9,0
+690,Dragonhead X,Dragonhead X,mh4g-dex-build7+mh4edit-mit-save-id,10,0
+691,Dragonface X,Dragonface X,mh4g-dex-build7+mh4edit-mit-save-id,10,0
+692,Dragoncasque X,Dragoncasque X,mh4edit-mit-save-id,0,0
+693,Dragoncoif X,Dragoncoif X,mh4edit-mit-save-id,0,0
+694,Fatalis Crimsonhead Z,Fatalis Crimsonhead Z,mh4edit-mit-save-id,0,0
+695,Fatalis Crimsonface Z,Fatalis Crimsonface Z,mh4edit-mit-save-id,0,0
+696,Fatalis Crimsonhelm Z,Fatalis Crimsonhelm Z,mh4edit-mit-save-id,0,0
+697,Fatalis Crimsoncoif Z,Fatalis Crimsoncoif Z,mh4edit-mit-save-id,0,0
+698,Wrothhead,Wrothhead,mh4g-dex-build7+mh4edit-mit-save-id,10,0
+699,Wrothface,Wrothface,mh4g-dex-build7+mh4edit-mit-save-id,10,0
+700,White Fatalis Head,White Fatalis Head,mh4g-dex-build7+mh4edit-mit-save-id,10,0
+701,White Fatalis Face,White Fatalis Face,mh4g-dex-build7+mh4edit-mit-save-id,10,0
+702,Grand Mizuha Mask,Grand Mizuha Mask,mh4g-dex-build7+mh4edit-mit-save-id,10,0
+703,Grand Cham Hat,Grand Cham Hat,mh4g-dex-build7+mh4edit-mit-save-id,10,0
+704,Regios Helm S,Regios Helm S,mh4g-dex-build7+mh4edit-mit-save-id,6,0
+705,Regios Cap S,Regios Cap S,mh4g-dex-build7+mh4edit-mit-save-id,6,0
+706,Regios Helm X,Regios Helm X,mh4g-dex-build7+mh4edit-mit-save-id,9,0
+707,Regios Cap X,Regios Cap X,mh4g-dex-build7+mh4edit-mit-save-id,9,0
+708,Chaos Helm,Chaos Helm,mh4g-dex-build7+mh4edit-mit-save-id,9,0
+709,Nephilim Helm,Nephilim Helm,mh4g-dex-build7+mh4edit-mit-save-id,9,0
+710,Chaos Cap,Chaos Cap,mh4g-dex-build7+mh4edit-mit-save-id,9,0
+711,Nephilim Cap,Nephilim Cap,mh4g-dex-build7+mh4edit-mit-save-id,9,0
+712,Basarios Helm X,Basarios Helm X,mh4g-dex-build7+mh4edit-mit-save-id,8,0
+713,Basarios Cap X,Basarios Cap X,mh4g-dex-build7+mh4edit-mit-save-id,8,0
+714,Basarios Helm Z,Basarios Helm Z,mh4g-dex-build7+mh4edit-mit-save-id,8,0
+715,Basarios Cap Z,Basarios Cap Z,mh4g-dex-build7+mh4edit-mit-save-id,8,0
+716,Kut-Ku Helm X,Kut-Ku Helm X,mh4g-dex-build7+mh4edit-mit-save-id,8,0
+717,Kut-Ku Cap X,Kut-Ku Cap X,mh4g-dex-build7+mh4edit-mit-save-id,8,0
+718,Kut-Ku Helm Z,Kut-Ku Helm Z,mh4g-dex-build7+mh4edit-mit-save-id,8,0
+719,Kut-Ku Cap Z,Kut-Ku Cap Z,mh4g-dex-build7+mh4edit-mit-save-id,8,0
+720,Garuga Helm X,Garuga Helm X,mh4g-dex-build7+mh4edit-mit-save-id,9,0
+721,Garuga Cap X,Garuga Cap X,mh4g-dex-build7+mh4edit-mit-save-id,9,0
+722,Kirin Horn X,Kirin Horn X,mh4g-dex-build7+mh4edit-mit-save-id,10,0
+723,Kirin Crest X,Kirin Crest X,mh4g-dex-build7+mh4edit-mit-save-id,10,0
+724,Kirin Casque,Kirin Casque,mh4edit-mit-save-id,0,0
+725,Kirin Coif,Kirin Coif,mh4edit-mit-save-id,0,0
+726,Kirin Horn Z,Kirin Horn Z,mh4g-dex-build7+mh4edit-mit-save-id,10,0
+727,Kirin Crest Z,Kirin Crest Z,mh4g-dex-build7+mh4edit-mit-save-id,10,0
+728,Kirin Casque U,Kirin Casque U,mh4edit-mit-save-id,0,0
+729,Kirin Coif U,Kirin Coif U,mh4edit-mit-save-id,0,0
+730,Bnahabra Hat X,Bnahabra Hat X,mh4g-dex-build7+mh4edit-mit-save-id,8,0
+731,Bnahabra Headpiece X,Bnahabra Headpiece X,mh4g-dex-build7+mh4edit-mit-save-id,8,0
+732,Slagtoth Hood X,Slagtoth Hood X,mh4g-dex-build7+mh4edit-mit-save-id,8,0
+733,Slagtoth Cowl X,Slagtoth Cowl X,mh4g-dex-build7+mh4edit-mit-save-id,8,0
+734,Rhenoplos Helm X,Rhenoplos Helm X,mh4g-dex-build7+mh4edit-mit-save-id,8,0
+735,Rhenoplos Cap X,Rhenoplos Cap X,mh4g-dex-build7+mh4edit-mit-save-id,8,0
+736,Hunter's Casque,Hunter's Casque,mh4edit-mit-save-id,0,0
+737,Hunter's Coif,Hunter's Coif,mh4edit-mit-save-id,0,0
+738,Alloy Casque,Alloy Casque,mh4edit-mit-save-id,0,0
+739,Alloy Coif,Alloy Coif,mh4edit-mit-save-id,0,0
+740,Artian Helm X,Artian Helm X,mh4g-dex-build7+mh4edit-mit-save-id,9,0
+741,Artian Cap X,Artian Cap X,mh4g-dex-build7+mh4edit-mit-save-id,9,0
+742,Arc Casque S,Arc Casque S,mh4edit-mit-save-id,0,0
+743,Arc Coif S,Arc Coif S,mh4edit-mit-save-id,0,0
+744,Ingot Casque,Ingot Casque,mh4edit-mit-save-id,0,0
+745,Ingot Coif,Ingot Coif,mh4edit-mit-save-id,0,0
+746,Guardian Helm X,Guardian Helm X,mh4g-dex-build7+mh4edit-mit-save-id,8,0
+747,Helper Hood X,Helper Hood X,mh4g-dex-build7+mh4edit-mit-save-id,8,0
+748,Guardian Mask X,Guardian Mask X,mh4g-dex-build7+mh4edit-mit-save-id,8,0
+749,Healer Glasses X,Healer Glasses X,mh4g-dex-build7+mh4edit-mit-save-id,8,0
+750,Guardian Helm Z,Guardian Helm Z,mh4g-dex-build7+mh4edit-mit-save-id,9,0
+751,Helper Hood Z,Helper Hood Z,mh4g-dex-build7+mh4edit-mit-save-id,9,0
+752,Guardian Mask Z,Guardian Mask Z,mh4g-dex-build7+mh4edit-mit-save-id,9,0
+753,Healer Beret Z,Healer Beret Z,mh4g-dex-build7+mh4edit-mit-save-id,9,0
+754,G. Knight Feather X,G. Knight Feather X,mh4g-dex-build7+mh4edit-mit-save-id,9,0
+755,Maiden's Hat X,Maiden's Hat X,mh4g-dex-build7+mh4edit-mit-save-id,9,0
+756,G. Knight Mask X,G. Knight Mask X,mh4g-dex-build7+mh4edit-mit-save-id,9,0
+757,Exclusive Glasses X,Exclusive Glasses X,mh4g-dex-build7+mh4edit-mit-save-id,9,0
+758,Ace Headgear,Ace Headgear,mh4g-dex-build7+mh4edit-mit-save-id,9,0
+759,Sororal Headgear,Sororal Headgear,mh4g-dex-build7+mh4edit-mit-save-id,9,0
+760,Ace Mask,Ace Mask,mh4g-dex-build7+mh4edit-mit-save-id,9,0
+761,Sororal Mask,Sororal Mask,mh4g-dex-build7+mh4edit-mit-save-id,9,0
+762,Ceanataur Casque,Ceanataur Casque,mh4edit-mit-save-id,0,0
+763,Ceanataur Coif,Ceanataur Coif,mh4edit-mit-save-id,0,0
+764,Lagiacrus Casque,Lagiacrus Casque,mh4edit-mit-save-id,0,0
+765,Lagiacrus Coif,Lagiacrus Coif,mh4edit-mit-save-id,0,0
+766,Escadora Casque,Escadora Casque,mh4edit-mit-save-id,0,0
+767,Escadora Coif,Escadora Coif,mh4edit-mit-save-id,0,0
+768,Auroros Kermes Helm,Auroros Kermes Helm,mh4edit-mit-save-id,0,0
+769,Borealis Bellflower,Borealis Bellflower,mh4edit-mit-save-id,0,0
+770,Genesis Kermes Helm,Genesis Kermes Helm,mh4edit-mit-save-id,0,0
+771,Glyph Bellflower,Glyph Bellflower,mh4edit-mit-save-id,0,0
+772,Ludroth Casque,Ludroth Casque,mh4edit-mit-save-id,0,0
+773,Ludroth Coif,Ludroth Coif,mh4edit-mit-save-id,0,0
+774,Hornet Helm,Hornet Helm,mh4edit-mit-save-id,0,0
+775,Hornet Cap,Hornet Cap,mh4edit-mit-save-id,0,0
+776,Hornet Casque,Hornet Casque,mh4edit-mit-save-id,0,0
+777,Hornet Coif,Hornet Coif,mh4edit-mit-save-id,0,0
+778,Wroggi Hat,Wroggi Hat,mh4edit-mit-save-id,0,0
+779,Wroggi Cap,Wroggi Cap,mh4edit-mit-save-id,0,0
+780,Wroggi Casque,Wroggi Casque,mh4edit-mit-save-id,0,0
+781,Wroggi Coif,Wroggi Coif,mh4edit-mit-save-id,0,0
+782,Gigginox Helm,Gigginox Helm,mh4edit-mit-save-id,0,0
+783,Gigginox Cap,Gigginox Cap,mh4edit-mit-save-id,0,0
+784,Gigginox Casque,Gigginox Casque,mh4edit-mit-save-id,0,0
+785,Gigginox Coif,Gigginox Coif,mh4edit-mit-save-id,0,0
+786,Tempest Crown,Tempest Crown,mh4g-dex-build7+mh4edit-mit-save-id,10,0
+787,Welkin Crown,Welkin Crown,mh4g-dex-build7+mh4edit-mit-save-id,10,0
+788,Tempest Diadem,Tempest Diadem,mh4edit-mit-save-id,0,0
+789,Welkin Diadem,Welkin Diadem,mh4edit-mit-save-id,0,0
+790,Death Stench Brain,Death Stench Brain,mh4edit-mit-save-id,0,0
+791,Death Stench Soul,Death Stench Soul,mh4edit-mit-save-id,0,0
+792,Death Stench Casque,Death Stench Casque,mh4edit-mit-save-id,0,0
+793,Death Stench Coif,Death Stench Coif,mh4edit-mit-save-id,0,0
+794,Damascus Helm,Damascus Helm,mh4edit-mit-save-id,0,0
+795,Damascus Cap,Damascus Cap,mh4edit-mit-save-id,0,0
+796,Damascus Casque,Damascus Casque,mh4edit-mit-save-id,0,0
+797,Damascus Coif,Damascus Coif,mh4edit-mit-save-id,0,0
+798,Lagiacrus Helm X,Lagiacrus Helm X,mh4g-dex-build7+mh4edit-mit-save-id,9,0
+799,Lagiacrus Cap X,Lagiacrus Cap X,mh4g-dex-build7+mh4edit-mit-save-id,9,0
+800,Nargacuga Helm X,Nargacuga Helm X,mh4g-dex-build7+mh4edit-mit-save-id,9,0
+801,Nargacuga Cap X,Nargacuga Cap X,mh4g-dex-build7+mh4edit-mit-save-id,9,0
+802,Empress Crown X,Empress Crown X,mh4g-dex-build7+mh4edit-mit-save-id,10,0
+803,Empress Mask X,Empress Mask X,mh4g-dex-build7+mh4edit-mit-save-id,10,0
+804,Helios Helm X,Helios Helm X,mh4g-dex-build7+mh4edit-mit-save-id,10,0
+805,Selene Helm X,Selene Helm X,mh4g-dex-build7+mh4edit-mit-save-id,10,0
+806,Helios Cap X,Helios Cap X,mh4g-dex-build7+mh4edit-mit-save-id,10,0
+807,Selene Cap X,Selene Cap X,mh4g-dex-build7+mh4edit-mit-save-id,10,0
+808,Agnaktor Helm X,Agnaktor Helm X,mh4g-dex-build7+mh4edit-mit-save-id,8,0
+809,Agnaktor Cap X,Agnaktor Cap X,mh4g-dex-build7+mh4edit-mit-save-id,8,0
+810,Qurupeco Helm X,Qurupeco Helm X,mh4g-dex-build7+mh4edit-mit-save-id,8,0
+811,Qurupeco Cap X,Qurupeco Cap X,mh4g-dex-build7+mh4edit-mit-save-id,8,0
+812,Gobul Helm X,Gobul Helm X,mh4g-dex-build7+mh4edit-mit-save-id,8,0
+813,Gobul Cap X,Gobul Cap X,mh4g-dex-build7+mh4edit-mit-save-id,8,0
+814,Barioth Helm X,Barioth Helm X,mh4g-dex-build7+mh4edit-mit-save-id,8,0
+815,Barioth Cap X,Barioth Cap X,mh4g-dex-build7+mh4edit-mit-save-id,8,0
+816,Barroth Helm X,Barroth Helm X,mh4g-dex-build7+mh4edit-mit-save-id,8,0
+817,Barroth Cap X,Barroth Cap X,mh4g-dex-build7+mh4edit-mit-save-id,8,0
+818,Nibelsnarf Helm X,Nibelsnarf Helm X,mh4g-dex-build7+mh4edit-mit-save-id,8,0
+819,Nibelsnarf Cap X,Nibelsnarf Cap X,mh4g-dex-build7+mh4edit-mit-save-id,8,0
+820,Duramboros Helm X,Duramboros Helm X,mh4g-dex-build7+mh4edit-mit-save-id,9,0
+821,Duramboros Cap X,Duramboros Cap X,mh4g-dex-build7+mh4edit-mit-save-id,9,0
+822,Lava Helm X,Lava Helm X,mh4g-dex-build7+mh4edit-mit-save-id,9,0
+823,Lava Cap X,Lava Cap X,mh4g-dex-build7+mh4edit-mit-save-id,9,0
+824,Grand Yamato Kabuto,Grand Yamato Kabuto,mh4g-dex-build7+mh4edit-mit-save-id,10,0
+825,Grand H. Hachigane,Grand H. Hachigane,mh4g-dex-build7+mh4edit-mit-save-id,10,0
+826,Grand Mutsu Jingasa,Grand Mutsu Jingasa,mh4g-dex-build7+mh4edit-mit-save-id,10,0
+827,Grand Amagi Jingasa,Grand Amagi Jingasa,mh4g-dex-build7+mh4edit-mit-save-id,10,0
+828,Grand Yaksha Mask,Grand Yaksha Mask,mh4g-dex-build7+mh4edit-mit-save-id,10,0
+829,Grand Carnage Helm,Grand Carnage Helm,mh4g-dex-build7+mh4edit-mit-save-id,10,0
+830,Miralis Diadem,Miralis Diadem,mh4g-dex-build7+mh4edit-mit-save-id,10,0
+831,Miralis Crown,Miralis Crown,mh4g-dex-build7+mh4edit-mit-save-id,10,0
+832,Plesioth Helm Z,Plesioth Helm Z,mh4g-dex-build7+mh4edit-mit-save-id,8,0
+833,Plesioth Cap Z,Plesioth Cap Z,mh4g-dex-build7+mh4edit-mit-save-id,8,0
+834,Kita Star Headdress,Kita Star Headdress,mh4g-dex-build7+mh4edit-mit-save-id,8,0
+835,Umi Ocean Headdress,Umi Ocean Headdress,mh4g-dex-build7+mh4edit-mit-save-id,8,0
+836,Patissier's Toque,Patissier's Toque,mh4g-dex-build7+mh4edit-mit-save-id,7,0
+837,Patissier's Cap,Patissier's Cap,mh4g-dex-build7+mh4edit-mit-save-id,7,0
+838,High Metal Helm S,High Metal Helm S,mh4g-dex-build7+mh4edit-mit-save-id,5,0
+839,High Metal Cap S,High Metal Cap S,mh4g-dex-build7+mh4edit-mit-save-id,5,0
+840,Aelucanth Vertex X,Aelucanth Vertex X,mh4g-dex-build7+mh4edit-mit-save-id,8,0
+841,Rhopessa Vertex X,Rhopessa Vertex X,mh4g-dex-build7+mh4edit-mit-save-id,8,0
+842,Aelucanth Clypeus X,Aelucanth Clypeus X,mh4g-dex-build7+mh4edit-mit-save-id,8,0
+843,Rhopessa Clypeus X,Rhopessa Clypeus X,mh4g-dex-build7+mh4edit-mit-save-id,8,0
+844,Obituary Vertex X,Obituary Vertex X,mh4g-dex-build7+mh4edit-mit-save-id,8,0
+845,Butterfly Vertex X,Butterfly Vertex X,mh4g-dex-build7+mh4edit-mit-save-id,8,0
+846,Obituary Clypeus X,Obituary Clypeus X,mh4g-dex-build7+mh4edit-mit-save-id,8,0
+847,Butterfly Clypeus X,Butterfly Clypeus X,mh4g-dex-build7+mh4edit-mit-save-id,8,0
+848,EX Auroros Helm,EX Auroros Helm,mh4g-dex-build7+mh4edit-mit-save-id,10,0
+849,EX Borealis Crown,EX Borealis Crown,mh4g-dex-build7+mh4edit-mit-save-id,10,0
+850,EX Genesis Headpiece,EX Genesis Headpiece,mh4g-dex-build7+mh4edit-mit-save-id,10,0
+851,EX Glyph Crown,EX Glyph Crown,mh4g-dex-build7+mh4edit-mit-save-id,10,0
+852,Tempest Crown,Tempest Crown,mh4g-dex-build7+mh4edit-mit-save-id,10,0
+853,Welkin Crown,Welkin Crown,mh4g-dex-build7+mh4edit-mit-save-id,10,0
+854,GX Escadora Casque,GX Escadora Casque,mh4edit-mit-save-id,0,0
+855,GX Escadora Coif,GX Escadora Coif,mh4edit-mit-save-id,0,0
+856,GX Dragoncasque X,GX Dragoncasque X,mh4edit-mit-save-id,0,0
+857,GX Dragoncoif X,GX Dragoncoif X,mh4edit-mit-save-id,0,0
+858,Star Knight Helm,Star Knight Helm,mh4g-dex-build7+mh4edit-mit-save-id,10,0
+859,Star Knight Cap,Star Knight Cap,mh4g-dex-build7+mh4edit-mit-save-id,10,0
+860,Helm of Rage,Helm of Rage,mh4g-dex-build7+mh4edit-mit-save-id,10,0
+861,Cap of Rage,Cap of Rage,mh4g-dex-build7+mh4edit-mit-save-id,10,0
+862,Varia Suit Visor,Varia Suit Visor,mh4g-dex-build7+mh4edit-mit-save-id,10,0
+863,Zero Suit Wig,Zero Suit Wig,mh4g-dex-build7+mh4edit-mit-save-id,10,0
+864,Varia Suit Scope,Varia Suit Scope,mh4g-dex-build7+mh4edit-mit-save-id,10,0
+865,Zero Suit Hairpiece,Zero Suit Hairpiece,mh4g-dex-build7+mh4edit-mit-save-id,10,0
+866,Varia Suit Visor,Varia Suit Visor,mh4g-dex-build7+mh4edit-mit-save-id,10,0
+867,Zero Suit Ponytail,Zero Suit Ponytail,mh4g-dex-build7+mh4edit-mit-save-id,10,0
+868,Varia Suit Scope,Varia Suit Scope,mh4g-dex-build7+mh4edit-mit-save-id,10,0
+869,Zero Suit Hairpiece,Zero Suit Hairpiece,mh4g-dex-build7+mh4edit-mit-save-id,10,0
+870,DUMMY,DUMMY,mh4edit-mit-save-id,0,0
+871,DUMMY,DUMMY,mh4edit-mit-save-id,0,0
+872,Hawkhat X,Hawkhat X,mh4g-dex-build7+mh4edit-mit-save-id,9,0
+873,Lecturer's Hood X,Lecturer's Hood X,mh4g-dex-build7+mh4edit-mit-save-id,9,0
+874,Hawkcap X,Hawkcap X,mh4g-dex-build7+mh4edit-mit-save-id,9,0
+875,Lecturer's Cap X,Lecturer's Cap X,mh4g-dex-build7+mh4edit-mit-save-id,9,0
+876,DUMMY,DUMMY,mh4edit-mit-save-id,0,0
+877,DUMMY,DUMMY,mh4edit-mit-save-id,0,0
+878,DUMMY,DUMMY,mh4edit-mit-save-id,0,0
+879,Hawkeye Earring,Hawkeye Earring,mh4g-dex-build7+mh4edit-mit-save-id,7,0
+880,Amplifeathers,Amplifeathers,mh4g-dex-build7+mh4edit-mit-save-id,9,0
+881,Craftsman's Specs,Craftsman's Specs,mh4g-dex-build7+mh4edit-mit-save-id,9,0
+882,Felyne Hairband X,Felyne Hairband X,mh4g-dex-build7+mh4edit-mit-save-id,9,0
+883,Sword Saint Earring,Sword Saint Earring,mh4g-dex-build7+mh4edit-mit-save-id,9,0
+884,Barrage Earring,Barrage Earring,mh4g-dex-build7+mh4edit-mit-save-id,9,0
+885,Chaoshroom,Chaoshroom,mh4g-dex-build7+mh4edit-mit-save-id,10,0
+886,Velociprey Mask,Velociprey Mask,mh4g-dex-build7+mh4edit-mit-save-id,10,0
+887,Giaprey Mask,Giaprey Mask,mh4g-dex-build7+mh4edit-mit-save-id,10,0
+888,Genprey Mask,Genprey Mask,mh4g-dex-build7+mh4edit-mit-save-id,10,0
+889,Mosswine Mask,Mosswine Mask,mh4g-dex-build7+mh4edit-mit-save-id,10,0
+890,Bulldrome Mask,Bulldrome Mask,mh4g-dex-build7+mh4edit-mit-save-id,10,0
+891,Garuga Mask,Garuga Mask,mh4g-dex-build7+mh4edit-mit-save-id,10,0
+892,False Felyne,False Felyne,mh4g-dex-build7+mh4edit-mit-save-id,10,0
+893,Acorn Helm,Acorn Helm,mh4g-dex-build7+mh4edit-mit-save-id,10,0
+894,Palico Bro,Palico Bro,mh4g-dex-build7+mh4edit-mit-save-id,10,0
+895,GX Hunter's Casque,GX Hunter's Casque,mh4g-dex-build7+mh4edit-mit-save-id,10,0
+896,GX Hunter's Coif,GX Hunter's Coif,mh4g-dex-build7+mh4edit-mit-save-id,10,0
+897,GX Esurient Casque,GX Esurient Casque,mh4g-dex-build7+mh4edit-mit-save-id,10,0
+898,GX Esurient Coif,GX Esurient Coif,mh4g-dex-build7+mh4edit-mit-save-id,10,0
+899,GX Tempest Diadem,GX Tempest Diadem,mh4g-dex-build7+mh4edit-mit-save-id,10,0
+900,GX Welkin Diadem,GX Welkin Diadem,mh4g-dex-build7+mh4edit-mit-save-id,10,0
+901,GX Fatalis Crimsonhelm,GX Fatalis Crimsonhelm,mh4g-dex-build7+mh4edit-mit-save-id,10,0
+902,GX Fatalis Crimsoncoif,GX Fatalis Crimsoncoif,mh4g-dex-build7+mh4edit-mit-save-id,10,0
+903,Hunter's Helm,Hunter's Helm,mh4g-dex-build7+mh4edit-mit-save-id,1,0
+904,Hunter's Cap,Hunter's Cap,mh4g-dex-build7+mh4edit-mit-save-id,1,0
+905,Hunter's Helm,Hunter's Helm,mh4g-dex-build7+mh4edit-mit-save-id,1,0
+906,Hunter's Cap,Hunter's Cap,mh4g-dex-build7+mh4edit-mit-save-id,1,0
+907,Ludroth Helm,Ludroth Helm,mh4g-dex-build7+mh4edit-mit-save-id,2,0
+908,Ludroth Cap,Ludroth Cap,mh4g-dex-build7+mh4edit-mit-save-id,2,0
+909,Ludroth Helm,Ludroth Helm,mh4g-dex-build7+mh4edit-mit-save-id,2,0
+910,Ludroth Cap,Ludroth Cap,mh4g-dex-build7+mh4edit-mit-save-id,2,0
+911,Alloy Helm,Alloy Helm,mh4g-dex-build7+mh4edit-mit-save-id,1,0
+912,Alloy Cap,Alloy Cap,mh4g-dex-build7+mh4edit-mit-save-id,1,0
+913,Alloy Helm,Alloy Helm,mh4g-dex-build7+mh4edit-mit-save-id,1,0
+914,Alloy Cap,Alloy Cap,mh4g-dex-build7+mh4edit-mit-save-id,1,0
+915,Gypceros Helm,Gypceros Helm,mh4g-dex-build7+mh4edit-mit-save-id,2,0
+916,Gypceros Cap,Gypceros Cap,mh4g-dex-build7+mh4edit-mit-save-id,2,0
+917,Gypceros Helm,Gypceros Helm,mh4g-dex-build7+mh4edit-mit-save-id,2,0
+918,Gypceros Cap,Gypceros Cap,mh4g-dex-build7+mh4edit-mit-save-id,2,0
+919,Khezu Helm,Khezu Helm,mh4g-dex-build7+mh4edit-mit-save-id,2,0
+920,Khezu Cap,Khezu Cap,mh4g-dex-build7+mh4edit-mit-save-id,2,0
+921,Khezu Helm,Khezu Helm,mh4g-dex-build7+mh4edit-mit-save-id,2,0
+922,Khezu Cap,Khezu Cap,mh4g-dex-build7+mh4edit-mit-save-id,2,0
+923,Ingot Helm,Ingot Helm,mh4g-dex-build7+mh4edit-mit-save-id,3,0
+924,Ingot Cap,Ingot Cap,mh4g-dex-build7+mh4edit-mit-save-id,3,0
+925,Ingot Helm,Ingot Helm,mh4g-dex-build7+mh4edit-mit-save-id,3,0
+926,Ingot Cap,Ingot Cap,mh4g-dex-build7+mh4edit-mit-save-id,3,0
+927,Rathian Helm,Rathian Helm,mh4g-dex-build7+mh4edit-mit-save-id,2,0
+928,Rathian Cap,Rathian Cap,mh4g-dex-build7+mh4edit-mit-save-id,2,0
+929,Lagiacrus Helm,Lagiacrus Helm,mh4g-dex-build7+mh4edit-mit-save-id,6,0
+930,Lagiacrus Cap,Lagiacrus Cap,mh4g-dex-build7+mh4edit-mit-save-id,6,0
+931,Rathalos Helm,Rathalos Helm,mh4g-dex-build7+mh4edit-mit-save-id,3,0
+932,Rathalos Cap,Rathalos Cap,mh4g-dex-build7+mh4edit-mit-save-id,3,0
+933,Gypceros Helm U,Gypceros Helm U,mh4g-dex-build7+mh4edit-mit-save-id,6,0
+934,Gypceros Cap U,Gypceros Cap U,mh4g-dex-build7+mh4edit-mit-save-id,6,0
+935,Khezu Helm U,Khezu Helm U,mh4g-dex-build7+mh4edit-mit-save-id,6,0
+936,Khezu Cap U,Khezu Cap U,mh4g-dex-build7+mh4edit-mit-save-id,6,0
+937,Tigrex Helm,Tigrex Helm,mh4g-dex-build7+mh4edit-mit-save-id,3,0
+938,Tigrex Cap,Tigrex Cap,mh4g-dex-build7+mh4edit-mit-save-id,3,0
+939,Kirin Horn,Kirin Horn,mh4g-dex-build7+mh4edit-mit-save-id,3,0
+940,Kirin Crest,Kirin Crest,mh4g-dex-build7+mh4edit-mit-save-id,3,0
+941,Kirin Horn,Kirin Horn,mh4g-dex-build7+mh4edit-mit-save-id,3,0
+942,Kirin Crest,Kirin Crest,mh4g-dex-build7+mh4edit-mit-save-id,3,0
+943,Artian Helm S,Artian Helm S,mh4g-dex-build7+mh4edit-mit-save-id,5,0
+944,Artian Cap S,Artian Cap S,mh4g-dex-build7+mh4edit-mit-save-id,5,0
+945,Ceanataur Helm,Ceanataur Helm,mh4g-dex-build7+mh4edit-mit-save-id,2,0
+946,Ceanataur Cap,Ceanataur Cap,mh4g-dex-build7+mh4edit-mit-save-id,2,0
+947,Ceanataur Helm,Ceanataur Helm,mh4g-dex-build7+mh4edit-mit-save-id,2,0
+948,Ceanataur Cap,Ceanataur Cap,mh4g-dex-build7+mh4edit-mit-save-id,2,0
+949,Gloaming Helm,Gloaming Helm,mh4g-dex-build7+mh4edit-mit-save-id,3,0
+950,Dayspring Kasa,Dayspring Kasa,mh4g-dex-build7+mh4edit-mit-save-id,3,0
+951,Adamance Helm,Adamance Helm,mh4g-dex-build7+mh4edit-mit-save-id,3,0
+952,Epoch Helm,Epoch Helm,mh4g-dex-build7+mh4edit-mit-save-id,3,0
+953,Zinogre Helm U,Zinogre Helm U,mh4g-dex-build7+mh4edit-mit-save-id,6,0
+954,Zinogre Cap U,Zinogre Cap U,mh4g-dex-build7+mh4edit-mit-save-id,6,0
+955,Tigrex Helm U,Tigrex Helm U,mh4g-dex-build7+mh4edit-mit-save-id,6,0
+956,Tigrex Cap U,Tigrex Cap U,mh4g-dex-build7+mh4edit-mit-save-id,6,0
+957,Gore Helm,Gore Helm,mh4g-dex-build7+mh4edit-mit-save-id,3,0
+958,Gore Cap,Gore Cap,mh4g-dex-build7+mh4edit-mit-save-id,3,0
+959,Auroros Helm,Auroros Helm,mh4g-dex-build7+mh4edit-mit-save-id,3,0
+960,Genesis Headpiece,Genesis Headpiece,mh4g-dex-build7+mh4edit-mit-save-id,3,0
+961,Borealis Crown,Borealis Crown,mh4g-dex-build7+mh4edit-mit-save-id,3,0
+962,Glyph Crown,Glyph Crown,mh4g-dex-build7+mh4edit-mit-save-id,3,0
+963,Kirin Horn U,Kirin Horn U,mh4g-dex-build7+mh4edit-mit-save-id,7,0
+964,Kirin Crest U,Kirin Crest U,mh4g-dex-build7+mh4edit-mit-save-id,7,0
+965,Kirin Horn U,Kirin Horn U,mh4g-dex-build7+mh4edit-mit-save-id,7,0
+966,Kirin Crest U,Kirin Crest U,mh4g-dex-build7+mh4edit-mit-save-id,7,0
+967,Esurient Helm,Esurient Helm,mh4g-dex-build7+mh4edit-mit-save-id,7,0
+968,Esurient Cap,Esurient Cap,mh4g-dex-build7+mh4edit-mit-save-id,7,0
+969,Monoblos Helm,Monoblos Helm,mh4edit-mit-save-id,0,0
+970,Monoblos Cap,Monoblos Cap,mh4edit-mit-save-id,0,0
+971,Hornet Helm,Hornet Helm,mh4edit-mit-save-id,0,0
+972,Hornet Cap,Hornet Cap,mh4edit-mit-save-id,0,0
+973,Wroggi Hat,Wroggi Hat,mh4edit-mit-save-id,0,0
+974,Wroggi Cap,Wroggi Cap,mh4edit-mit-save-id,0,0
+975,Monodevil Helm,Monodevil Helm,mh4g-dex-build7+mh4edit-mit-save-id,9,0
+976,Monodevil Cap,Monodevil Cap,mh4g-dex-build7+mh4edit-mit-save-id,9,0
+977,Diablos Helm,Diablos Helm,mh4g-dex-build7+mh4edit-mit-save-id,3,0
+978,Diablos Cap,Diablos Cap,mh4g-dex-build7+mh4edit-mit-save-id,3,0
+979,Gigginox Helm,Gigginox Helm,mh4edit-mit-save-id,0,0
+980,Gigginox Cap,Gigginox Cap,mh4edit-mit-save-id,0,0
+981,Death Stench Brain,Death Stench Brain,mh4edit-mit-save-id,0,0
+982,Death Stench Soul,Death Stench Soul,mh4edit-mit-save-id,0,0
+983,Damascus Helm,Damascus Helm,mh4edit-mit-save-id,0,0
+984,Damascus Cap,Damascus Cap,mh4edit-mit-save-id,0,0
+985,DUMMY,DUMMY,mh4edit-mit-save-id,0,0
+986,DUMMY,DUMMY,mh4edit-mit-save-id,0,0

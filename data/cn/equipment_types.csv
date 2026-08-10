@@ -1,0 +1,22 @@
+id,name,english,source
+0,无,None,mh4g-save-format
+1,胴甲,Chest,mh4g-save-format
+2,腕甲,Arms,mh4g-save-format
+3,腰甲,Waist,mh4g-save-format
+4,腿甲,Legs,mh4g-save-format
+5,头甲,Head,mh4g-save-format
+6,护石,Talisman,mh4g-save-format
+7,大剑,Great Sword,mh4g-save-format
+8,片手剑,Sword and Shield,mh4g-save-format
+9,锤,Hammer,mh4g-save-format
+10,长枪,Lance,mh4g-save-format
+11,轻弩,Light Bowgun,mh4g-save-format
+12,重弩,Heavy Bowgun,mh4g-save-format
+13,太刀,Long Sword,mh4g-save-format
+14,斩击斧,Switch Axe,mh4g-save-format
+15,铳枪,Gunlance,mh4g-save-format
+16,弓,Bow,mh4g-save-format
+17,双剑,Dual Blades,mh4g-save-format
+18,狩猎笛,Hunting Horn,mh4g-save-format
+19,操虫棍,Insect Glaive,mh4g-save-format
+20,盾斧,Charge Blade,mh4g-save-format
