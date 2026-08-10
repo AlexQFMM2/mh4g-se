@@ -275,8 +275,10 @@ def validate(data_dir: Path, mapping_path: Path, samples: Path | None, report_pa
     errors = ValidationErrors()
     mapping = json.loads(mapping_path.read_text(encoding="utf-8"))
     crosswalk_path = mapping_path.parent / "reference" / "mh4g_weapon_name_crosswalk.json"
+    armor_crosswalk_path = mapping_path.parent / "reference" / "mh4g_armor_name_crosswalk.json"
     errors.require(crosswalk_path.is_file(), f"{crosswalk_path}: missing")
     crosswalk = json.loads(crosswalk_path.read_text(encoding="utf-8")) if crosswalk_path.is_file() else {}
+    errors.require(armor_crosswalk_path.is_file(), f"{armor_crosswalk_path}: missing")
     manifest_path = data_dir / "manifest.json"
     errors.require(manifest_path.is_file(), f"{manifest_path}: missing")
     if not manifest_path.is_file():
@@ -284,7 +286,7 @@ def validate(data_dir: Path, mapping_path: Path, samples: Path | None, report_pa
     manifest = json.loads(manifest_path.read_text(encoding="utf-8"))
     errors.require(manifest.get("format_version") == "1.0.0", "manifest: unsupported format_version")
     errors.require(manifest.get("languages") == ["cn", "en"], "manifest: languages must be ['cn', 'en']")
-    errors.require(manifest.get("generator", {}).get("version") == "1.1.0", "manifest: unsupported generator version")
+    errors.require(manifest.get("generator", {}).get("version") == "1.2.0", "manifest: unsupported generator version")
     errors.require(
         manifest.get("weapon_name_crosswalk", {}).get("format") == "mh4g-weapon-name-crosswalk-v1",
         "manifest: unsupported or missing weapon name crosswalk",
@@ -293,6 +295,16 @@ def validate(data_dir: Path, mapping_path: Path, samples: Path | None, report_pa
         errors.require(
             manifest.get("weapon_name_crosswalk", {}).get("sha256") == sha256(crosswalk_path),
             "manifest: weapon name crosswalk SHA-256 differs from the current reference",
+        )
+    if armor_crosswalk_path.is_file():
+        armor_crosswalk = json.loads(armor_crosswalk_path.read_text(encoding="utf-8"))
+        errors.require(
+            armor_crosswalk.get("format") == "mh4g-armor-name-crosswalk-v1",
+            "armor name crosswalk: unsupported format",
+        )
+        errors.require(
+            manifest.get("armor_name_crosswalk", {}).get("sha256") == sha256(armor_crosswalk_path),
+            "manifest: armor name crosswalk SHA-256 differs from the current reference",
         )
     errors.require("timestamp" not in json.dumps(manifest).lower(), "manifest: timestamps are forbidden")
     for source_file in manifest.get("dex", {}).get("source_files", []):
@@ -323,6 +335,18 @@ def validate(data_dir: Path, mapping_path: Path, samples: Path | None, report_pa
                             "（发掘·" in row.get("name", ""),
                             f"{relative}:{line}: Chinese relic name must include the relic/color marker",
                         )
+            elif filename.startswith("armor_") and language == "cn":
+                for line, row in enumerate(rows, 2):
+                    if row.get("is_relic") == "1":
+                        errors.require(
+                            "（发掘）" in row.get("name", ""),
+                            f"{relative}:{line}: Chinese relic armor name must include the relic marker",
+                        )
+                    placeholder = row.get("name", "").strip().lower().startswith("dummy")
+                    errors.require(
+                        placeholder or "en-fallback" not in row.get("source", ""),
+                        f"{relative}:{line}: non-placeholder armor still uses an English fallback",
+                    )
             language_data[language][filename] = (columns, rows, keys)
             entry = manifest.get("files", {}).get(relative)
             errors.require(isinstance(entry, dict), f"manifest: missing {relative}")

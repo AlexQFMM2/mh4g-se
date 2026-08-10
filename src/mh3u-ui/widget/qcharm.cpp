@@ -25,10 +25,7 @@ QCharm::QCharm(charm_t *charm, QWidget *parent) : QEquipment(NULL, parent)
 
     m_identifier = new QComboBox(this);
     m_identifier->addItem(uiText("(None)"), 0);
-    for (uint32_t i = 0; i < MH3U_DS::charms()->size(); i++)
-    {
-        m_identifier->addItem(QString(MH3U_DS::charms()->at(i).identifier.c_str()), MH3U_DS::charms()->at(i).count);
-    }
+    populateEquipmentIdentifierComboBox(m_identifier, MH3U_DS::charms(), charm->identifier);
     configureSearchableComboBox(m_identifier);
 
     m_firstSkillIdentifier = new QComboBox(this);

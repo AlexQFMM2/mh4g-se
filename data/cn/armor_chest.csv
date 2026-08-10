@@ -543,26 +543,26 @@ id,name,english,source,rarity,is_relic
 541,炮甲虫炼甲Ｚ,Seltas Vest Z,mh4g-dex-build7+mh4edit-mit-save-id,9,0
 542,黑蚀龙铠甲Ｘ,Gore Mail X,mh4g-dex-build7+mh4edit-mit-save-id,9,0
 543,黑蚀龙炼甲Ｘ,Gore Vest X,mh4g-dex-build7+mh4edit-mit-save-id,9,0
-544,Gore Armor,Gore Armor,mh4edit-mit-save-id-en-fallback,0,0
-545,Gore Pizane,Gore Pizane,mh4edit-mit-save-id-en-fallback,0,0
+544,黑蚀龙铠甲（发掘）,Gore Armor,mh4g-armor-name-crosswalk+mh4edit-mit-save-id,0,1
+545,黑蚀龙板甲（发掘）,Gore Pizane,mh4g-armor-name-crosswalk+mh4edit-mit-save-id,0,1
 546,弧光铠甲Ｘ,Arc Mail X,mh4g-dex-build7+mh4edit-mit-save-id,10,0
 547,友爱铠甲Ｘ,Storge Mail X,mh4g-dex-build7+mh4edit-mit-save-id,10,0
 548,弧光炼甲Ｘ,Arc Vest X,mh4g-dex-build7+mh4edit-mit-save-id,10,0
 549,友爱炼甲Ｘ,Storge Vest X,mh4g-dex-build7+mh4edit-mit-save-id,10,0
-550,Arc Armor,Arc Armor,mh4edit-mit-save-id-en-fallback,0,0
-551,Storge Armor,Storge Armor,mh4edit-mit-save-id-en-fallback,0,0
-552,Arc Pizane,Arc Pizane,mh4edit-mit-save-id-en-fallback,0,0
-553,Storge Pizane,Storge Pizane,mh4edit-mit-save-id-en-fallback,0,0
+550,弧光铠甲（发掘）,Arc Armor,mh4g-armor-name-crosswalk+mh4edit-mit-save-id,0,1
+551,友爱铠甲（发掘）,Storge Armor,mh4g-armor-name-crosswalk+mh4edit-mit-save-id,0,1
+552,弧光板甲（发掘）,Arc Pizane,mh4g-armor-name-crosswalk+mh4edit-mit-save-id,0,1
+553,友爱板甲（发掘）,Storge Pizane,mh4g-armor-name-crosswalk+mh4edit-mit-save-id,0,1
 554,巨戟龙铠甲,Gogma Mail,mh4g-dex-build7+mh4edit-mit-save-id,10,0
 555,巨戟龙炼甲,Gogma Vest,mh4g-dex-build7+mh4edit-mit-save-id,10,0
 556,毒怪鸟铠甲Ｘ,Gypceros Mail X,mh4g-dex-build7+mh4edit-mit-save-id,8,0
 557,毒怪鸟炼甲Ｘ,Gypceros Vest X,mh4g-dex-build7+mh4edit-mit-save-id,8,0
-558,Gypceros Armor,Gypceros Armor,mh4edit-mit-save-id-en-fallback,0,0
-559,Gypceros Pizane,Gypceros Pizane,mh4edit-mit-save-id-en-fallback,0,0
+558,毒怪鸟铠甲（发掘）,Gypceros Armor,mh4g-armor-name-crosswalk+mh4edit-mit-save-id,0,1
+559,毒怪鸟板甲（发掘）,Gypceros Pizane,mh4g-armor-name-crosswalk+mh4edit-mit-save-id,0,1
 560,紫毒怪鸟铠甲Ｚ,Gypceros Mail Z,mh4g-dex-build7+mh4edit-mit-save-id,8,0
 561,紫毒怪鸟炼甲Ｚ,Gypceros Vest Z,mh4g-dex-build7+mh4edit-mit-save-id,8,0
-562,Gypceros Armor U,Gypceros Armor U,mh4edit-mit-save-id-en-fallback,0,0
-563,Gypceros Pizane U,Gypceros Pizane U,mh4edit-mit-save-id-en-fallback,0,0
+562,紫毒怪鸟Ｕ铠甲（发掘）,Gypceros Armor U,mh4g-armor-name-crosswalk+mh4edit-mit-save-id,0,1
+563,紫毒怪鸟Ｕ板甲（发掘）,Gypceros Pizane U,mh4g-armor-name-crosswalk+mh4edit-mit-save-id,0,1
 564,白兔兽铠甲Ｘ,Lagombi Mail X,mh4g-dex-build7+mh4edit-mit-save-id,8,0
 565,白兔兽炼甲Ｘ,Lagombi Vest X,mh4g-dex-build7+mh4edit-mit-save-id,8,0
 566,桃毛兽铠甲Ｘ,Conga Mail X,mh4g-dex-build7+mh4edit-mit-save-id,8,0
@@ -571,48 +571,48 @@ id,name,english,source,rarity,is_relic
 569,绿毛兽炼甲Ｚ,Conga Vest Z,mh4g-dex-build7+mh4edit-mit-save-id,8,0
 570,电龙铠甲Ｘ,Khezu Mail X,mh4g-dex-build7+mh4edit-mit-save-id,8,0
 571,电龙炼甲Ｘ,Khezu Vest X,mh4g-dex-build7+mh4edit-mit-save-id,8,0
-572,Khezu Armor,Khezu Armor,mh4edit-mit-save-id-en-fallback,0,0
-573,Khezu Pizane,Khezu Pizane,mh4edit-mit-save-id-en-fallback,0,0
+572,电龙铠甲（发掘）,Khezu Armor,mh4g-armor-name-crosswalk+mh4edit-mit-save-id,0,1
+573,电龙板甲（发掘）,Khezu Pizane,mh4g-armor-name-crosswalk+mh4edit-mit-save-id,0,1
 574,赤电龙铠甲Ｚ,Khezu Mail Z,mh4g-dex-build7+mh4edit-mit-save-id,8,0
 575,赤电龙炼甲Ｚ,Khezu Vest Z,mh4g-dex-build7+mh4edit-mit-save-id,8,0
-576,Khezu Armor U,Khezu Armor U,mh4edit-mit-save-id-en-fallback,0,0
-577,Khezu Pizane U,Khezu Pizane U,mh4edit-mit-save-id-en-fallback,0,0
+576,赤电龙Ｕ铠甲（发掘）,Khezu Armor U,mh4g-armor-name-crosswalk+mh4edit-mit-save-id,0,1
+577,赤电龙Ｕ板甲（发掘）,Khezu Pizane U,mh4g-armor-name-crosswalk+mh4edit-mit-save-id,0,1
 578,雌火龙铠甲Ｘ,Rathian Mail X,mh4g-dex-build7+mh4edit-mit-save-id,8,0
 579,雌火龙炼甲Ｘ,Rathian Vest X,mh4g-dex-build7+mh4edit-mit-save-id,8,0
-580,Rathian Armor,Rathian Armor,mh4edit-mit-save-id-en-fallback,0,0
-581,Rathian Pizane,Rathian Pizane,mh4edit-mit-save-id-en-fallback,0,0
+580,雌火龙铠甲（发掘）,Rathian Armor,mh4g-armor-name-crosswalk+mh4edit-mit-save-id,0,1
+581,雌火龙板甲（发掘）,Rathian Pizane,mh4g-armor-name-crosswalk+mh4edit-mit-save-id,0,1
 582,樱火龙铠甲Ｚ,Rath Heart Mail Z,mh4g-dex-build7+mh4edit-mit-save-id,8,0
 583,樱火龙炼甲Ｚ,Rath Heart Vest Z,mh4g-dex-build7+mh4edit-mit-save-id,8,0
-584,Rath Heart Armor,Rath Heart Armor,mh4edit-mit-save-id-en-fallback,0,0
-585,Rath Heart Pizane,Rath Heart Pizane,mh4edit-mit-save-id-en-fallback,0,0
+584,樱火龙铠甲（发掘）,Rath Heart Armor,mh4g-armor-name-crosswalk+mh4edit-mit-save-id,0,1
+585,樱火龙板甲（发掘）,Rath Heart Pizane,mh4g-armor-name-crosswalk+mh4edit-mit-save-id,0,1
 586,Ｇ・金火龙铠甲Ｚ,Golden Lunemail Z,mh4g-dex-build7+mh4edit-mit-save-id,10,0
 587,Ｇ・金火龙炼甲Ｚ,Golden Lunevest Z,mh4g-dex-build7+mh4edit-mit-save-id,10,0
 588,雄火龙铠甲Ｘ,Rathalos Mail X,mh4g-dex-build7+mh4edit-mit-save-id,9,0
 589,雄火龙炼甲Ｘ,Rathalos Vest X,mh4g-dex-build7+mh4edit-mit-save-id,9,0
-590,Rathalos Armor,Rathalos Armor,mh4edit-mit-save-id-en-fallback,0,0
-591,Rathalos Pizane,Rathalos Pizane,mh4edit-mit-save-id-en-fallback,0,0
+590,雄火龙铠甲（发掘）,Rathalos Armor,mh4g-armor-name-crosswalk+mh4edit-mit-save-id,0,1
+591,雄火龙板甲（发掘）,Rathalos Pizane,mh4g-armor-name-crosswalk+mh4edit-mit-save-id,0,1
 592,苍火龙铠甲Ｚ,Rath Soul Mail Z,mh4g-dex-build7+mh4edit-mit-save-id,9,0
 593,苍火龙炼甲Ｚ,Rath Soul Vest Z,mh4g-dex-build7+mh4edit-mit-save-id,9,0
-594,Rath Soul Armor,Rath Soul Armor,mh4edit-mit-save-id-en-fallback,0,0
-595,Rath Soul Pizane,Rath Soul Pizane,mh4edit-mit-save-id-en-fallback,0,0
+594,苍火龙铠甲（发掘）,Rath Soul Armor,mh4g-armor-name-crosswalk+mh4edit-mit-save-id,0,1
+595,苍火龙板甲（发掘）,Rath Soul Pizane,mh4g-armor-name-crosswalk+mh4edit-mit-save-id,0,1
 596,Ｓ・银火龙铠甲Ｚ,Silver Solmail Z,mh4g-dex-build7+mh4edit-mit-save-id,10,0
 597,Ｓ・银火龙炼甲Ｚ,Silver Solvest Z,mh4g-dex-build7+mh4edit-mit-save-id,10,0
-598,Silver Solarmor,Silver Solarmor,mh4edit-mit-save-id-en-fallback,0,0
-599,Silver Solpizane,Silver Solpizane,mh4edit-mit-save-id-en-fallback,0,0
+598,银火龙铠甲（发掘）,Silver Solarmor,mh4g-armor-name-crosswalk+mh4edit-mit-save-id,0,1
+599,银火龙板甲（发掘）,Silver Solpizane,mh4g-armor-name-crosswalk+mh4edit-mit-save-id,0,1
 600,雷狼龙铠甲Ｘ,Zinogre Mail X,mh4g-dex-build7+mh4edit-mit-save-id,9,0
 601,雷狼龙炼甲Ｘ,Zinogre Vest X,mh4g-dex-build7+mh4edit-mit-save-id,9,0
 602,狱狼龙铠甲Ｚ,Zinogre Mail Z,mh4g-dex-build7+mh4edit-mit-save-id,9,0
 603,狱狼龙炼甲Ｚ,Zinogre Vest Z,mh4g-dex-build7+mh4edit-mit-save-id,9,0
-604,Zinogre Armor U,Zinogre Armor U,mh4edit-mit-save-id-en-fallback,0,0
-605,Zinogre Pizane U,Zinogre Pizane U,mh4edit-mit-save-id-en-fallback,0,0
+604,狱狼龙Ｕ铠甲（发掘）,Zinogre Armor U,mh4g-armor-name-crosswalk+mh4edit-mit-save-id,0,1
+605,狱狼龙Ｕ板甲（发掘）,Zinogre Pizane U,mh4g-armor-name-crosswalk+mh4edit-mit-save-id,0,1
 606,轰龙铠甲Ｘ,Tigrex Mail X,mh4g-dex-build7+mh4edit-mit-save-id,9,0
 607,轰龙炼甲Ｘ,Tigrex Vest X,mh4g-dex-build7+mh4edit-mit-save-id,9,0
-608,Tigrex Armor,Tigrex Armor,mh4edit-mit-save-id-en-fallback,0,0
-609,Tigrex Pizane,Tigrex Pizane,mh4edit-mit-save-id-en-fallback,0,0
+608,轰龙铠甲（发掘）,Tigrex Armor,mh4g-armor-name-crosswalk+mh4edit-mit-save-id,0,1
+609,轰龙板甲（发掘）,Tigrex Pizane,mh4g-armor-name-crosswalk+mh4edit-mit-save-id,0,1
 610,黑轰龙铠甲Ｚ,Tigrex Mail Z,mh4g-dex-build7+mh4edit-mit-save-id,9,0
 611,黑轰龙炼甲Ｚ,Tigrex Vest Z,mh4g-dex-build7+mh4edit-mit-save-id,9,0
-612,Tigrex Armor U,Tigrex Armor U,mh4edit-mit-save-id-en-fallback,0,0
-613,Tigrex Pizane U,Tigrex Pizane U,mh4edit-mit-save-id-en-fallback,0,0
+612,黑轰龙Ｕ铠甲（发掘）,Tigrex Armor U,mh4g-armor-name-crosswalk+mh4edit-mit-save-id,0,1
+613,黑轰龙Ｕ板甲（发掘）,Tigrex Pizane U,mh4g-armor-name-crosswalk+mh4edit-mit-save-id,0,1
 614,大轰龙铠甲Ｚ,Excello Mail Z,mh4g-dex-build7+mh4edit-mit-save-id,10,0
 615,大轰龙炼甲Ｚ,Excello Vest Z,mh4g-dex-build7+mh4edit-mit-save-id,10,0
 616,铠龙铠甲Ｘ,Gravios Mail X,mh4g-dex-build7+mh4edit-mit-save-id,9,0
@@ -627,30 +627,30 @@ id,name,english,source,rarity,is_relic
 625,常磐・真【胴体】,Grand Adamance Plate,mh4g-dex-build7+mh4edit-mit-save-id,10,0
 626,东云・真【胴体】,Grand Dayspring Plate,mh4g-dex-build7+mh4edit-mit-save-id,10,0
 627,八千代・真【胴体】,Grand Epoch Plate,mh4g-dex-build7+mh4edit-mit-save-id,10,0
-628,Gloaming Redplate,Gloaming Redplate,mh4edit-mit-save-id-en-fallback,0,0
-629,Adamance Redplate,Adamance Redplate,mh4edit-mit-save-id-en-fallback,0,0
-630,Dayspring Redplate,Dayspring Redplate,mh4edit-mit-save-id-en-fallback,0,0
-631,Epoch Redplate,Epoch Redplate,mh4edit-mit-save-id-en-fallback,0,0
+628,残阳红胴甲（发掘）,Gloaming Redplate,mh4g-armor-name-crosswalk+mh4edit-mit-save-id,0,1
+629,常磐红胴甲（发掘）,Adamance Redplate,mh4g-armor-name-crosswalk+mh4edit-mit-save-id,0,1
+630,东云红胴甲（发掘）,Dayspring Redplate,mh4g-armor-name-crosswalk+mh4edit-mit-save-id,0,1
+631,八千代红胴甲（发掘）,Epoch Redplate,mh4g-armor-name-crosswalk+mh4edit-mit-save-id,0,1
 632,恐暴龙铠甲Ｘ,Vangis Mail X,mh4g-dex-build7+mh4edit-mit-save-id,9,0
 633,恐暴龙炼甲Ｘ,Vangis Vest X,mh4g-dex-build7+mh4edit-mit-save-id,9,0
 634,贪婪铠甲Ｚ,Esurient Mail Z,mh4g-dex-build7+mh4edit-mit-save-id,10,0
 635,贪婪炼甲Ｚ,Esurient Vest Z,mh4g-dex-build7+mh4edit-mit-save-id,10,0
-636,Esurient Armor,Esurient Armor,mh4edit-mit-save-id-en-fallback,0,0
-637,Esurient Pizane,Esurient Pizane,mh4edit-mit-save-id-en-fallback,0,0
+636,贪婪铠甲（发掘）,Esurient Armor,mh4g-armor-name-crosswalk+mh4edit-mit-save-id,0,1
+637,贪婪板甲（发掘）,Esurient Pizane,mh4g-armor-name-crosswalk+mh4edit-mit-save-id,0,1
 638,炎王龙铠甲Ｘ,Kaiser Mail X,mh4g-dex-build7+mh4edit-mit-save-id,10,0
 639,炎王龙炼甲Ｘ,Kaiser Vest X,mh4g-dex-build7+mh4edit-mit-save-id,10,0
 640,霸龙铠甲Ｘ,Akantor Aegis X,mh4g-dex-build7+mh4edit-mit-save-id,10,0
 641,霸龙链甲Ｘ,Akantor Plate X,mh4g-dex-build7+mh4edit-mit-save-id,10,0
-642,Akantor Armor,Akantor Armor,mh4edit-mit-save-id-en-fallback,0,0
-643,Akantor Pizane,Akantor Pizane,mh4edit-mit-save-id-en-fallback,0,0
+642,霸龙铠甲（发掘）,Akantor Armor,mh4g-armor-name-crosswalk+mh4edit-mit-save-id,0,1
+643,霸龙板甲（发掘）,Akantor Pizane,mh4g-armor-name-crosswalk+mh4edit-mit-save-id,0,1
 644,EX煌黑龙之魂,EX Escadora Soul,mh4g-dex-build7+mh4edit-mit-save-id,10,0
 645,EX煌黑龙精神,EX Escadora Seele,mh4g-dex-build7+mh4edit-mit-save-id,10,0
 646,崩龙铠甲Ｘ,Ukanlos Aegis X,mh4g-dex-build7+mh4edit-mit-save-id,10,0
 647,崩龙链甲Ｘ,Ukanlos Plate X,mh4g-dex-build7+mh4edit-mit-save-id,10,0
 648,钢龙铠甲Ｘ,Kushala Cista X,mh4g-dex-build7+mh4edit-mit-save-id,10,0
 649,钢龙胸铠Ｘ,Kushala Vise X,mh4g-dex-build7+mh4edit-mit-save-id,10,0
-650,Kushala Armor,Kushala Armor,mh4edit-mit-save-id-en-fallback,0,0
-651,Kushala Pizane,Kushala Pizane,mh4edit-mit-save-id-en-fallback,0,0
+650,钢龙铠甲（发掘）,Kushala Armor,mh4g-armor-name-crosswalk+mh4edit-mit-save-id,0,1
+651,钢龙板甲（发掘）,Kushala Pizane,mh4g-armor-name-crosswalk+mh4edit-mit-save-id,0,1
 652,锈钢龙铠甲,Kujula Cista,mh4g-dex-build7+mh4edit-mit-save-id,10,0
 653,锈钢龙胸铠,Kujula Vise,mh4g-dex-build7+mh4edit-mit-save-id,10,0
 654,齐天的上衣・真,Grand God's Peer Robe,mh4g-dex-build7+mh4edit-mit-save-id,10,0
@@ -659,48 +659,48 @@ id,name,english,source,rarity,is_relic
 657,心灭的上衣・真,Grand Crusher Robe,mh4g-dex-build7+mh4edit-mit-save-id,10,0
 658,逆乱铠甲Ｘ,Rebellion Mail X,mh4g-dex-build7+mh4edit-mit-save-id,10,0
 659,暴乱炼甲Ｘ,Riot Vest X,mh4g-dex-build7+mh4edit-mit-save-id,10,0
-660,Rebellion Armor,Rebellion Armor,mh4edit-mit-save-id-en-fallback,0,0
-661,Riot Pizane,Riot Pizane,mh4edit-mit-save-id-en-fallback,0,0
+660,逆乱铠甲（发掘）,Rebellion Armor,mh4g-armor-name-crosswalk+mh4edit-mit-save-id,0,1
+661,暴乱板甲（发掘）,Riot Pizane,mh4g-armor-name-crosswalk+mh4edit-mit-save-id,0,1
 662,逆乱铠甲Ｚ,Rebellion Mail Z,mh4g-dex-build7+mh4edit-mit-save-id,10,0
 663,暴乱炼甲Ｚ,Riot Vest Z,mh4g-dex-build7+mh4edit-mit-save-id,10,0
 664,砂龙铠甲Ｘ,Cephalos Mail X,mh4g-dex-build7+mh4edit-mit-save-id,8,0
 665,砂龙炼甲Ｘ,Cephalos Vest X,mh4g-dex-build7+mh4edit-mit-save-id,8,0
 666,盾蟹铠甲Ｘ,Hermitaur Mail X,mh4g-dex-build7+mh4edit-mit-save-id,8,0
 667,盾蟹炼甲Ｘ,Hermitaur Vest X,mh4g-dex-build7+mh4edit-mit-save-id,8,0
-668,Hermitaur Armor,Hermitaur Armor,mh4edit-mit-save-id-en-fallback,0,0
-669,Hermitaur Pizane,Hermitaur Pizane,mh4edit-mit-save-id-en-fallback,0,0
+668,盾蟹铠甲（发掘）,Hermitaur Armor,mh4g-armor-name-crosswalk+mh4edit-mit-save-id,0,1
+669,盾蟹板甲（发掘）,Hermitaur Pizane,mh4g-armor-name-crosswalk+mh4edit-mit-save-id,0,1
 670,紫盾蟹铠甲Ｚ,Hermitaur Mail Z,mh4g-dex-build7+mh4edit-mit-save-id,8,0
 671,紫盾蟹炼甲Ｚ,Hermitaur Vest Z,mh4g-dex-build7+mh4edit-mit-save-id,8,0
 672,一角龙铠甲Ｓ,Mono Mail S,mh4g-dex-build7+mh4edit-mit-save-id,5,0
 673,一角龙炼甲Ｓ,Mono Vest S,mh4g-dex-build7+mh4edit-mit-save-id,5,0
 674,一角龙铠甲Ｘ,Mono Mail X,mh4g-dex-build7+mh4edit-mit-save-id,9,0
 675,一角龙炼甲Ｘ,Mono Vest X,mh4g-dex-build7+mh4edit-mit-save-id,9,0
-676,Mono Mail,Mono Mail,mh4edit-mit-save-id-en-fallback,0,0
-677,Mono Vest,Mono Vest,mh4edit-mit-save-id-en-fallback,0,0
-678,Mono Armor,Mono Armor,mh4edit-mit-save-id-en-fallback,0,0
-679,Mono Pizane,Mono Pizane,mh4edit-mit-save-id-en-fallback,0,0
+676,一角龙铠甲（发掘）,Mono Mail,mh4g-armor-name-crosswalk+mh4edit-mit-save-id,0,1
+677,一角龙炼甲（发掘）,Mono Vest,mh4g-armor-name-crosswalk+mh4edit-mit-save-id,0,1
+678,一角龙铠甲（发掘）,Mono Armor,mh4g-armor-name-crosswalk+mh4edit-mit-save-id,0,1
+679,一角龙板甲（发掘）,Mono Pizane,mh4g-armor-name-crosswalk+mh4edit-mit-save-id,0,1
 680,白一角龙铠甲,Monodevil Mail,mh4g-dex-build7+mh4edit-mit-save-id,9,0
 681,白一角龙炼甲,Monodevil Vest,mh4g-dex-build7+mh4edit-mit-save-id,9,0
 682,白一角龙铠甲,Monodevil Mail,mh4g-dex-build7+mh4edit-mit-save-id,9,0
 683,白一角龙炼甲,Monodevil Vest,mh4g-dex-build7+mh4edit-mit-save-id,9,0
-684,Monodevil Armor,Monodevil Armor,mh4edit-mit-save-id-en-fallback,0,0
-685,Monodevil Pizane,Monodevil Pizane,mh4edit-mit-save-id-en-fallback,0,0
+684,白一角龙铠甲（发掘）,Monodevil Armor,mh4g-armor-name-crosswalk+mh4edit-mit-save-id,0,1
+685,白一角龙板甲（发掘）,Monodevil Pizane,mh4g-armor-name-crosswalk+mh4edit-mit-save-id,0,1
 686,角龙铠甲Ｘ,Diablos Mail X,mh4g-dex-build7+mh4edit-mit-save-id,9,0
 687,角龙炼甲Ｘ,Diablos Vest X,mh4g-dex-build7+mh4edit-mit-save-id,9,0
 688,角龙铠甲,Diablos Mail,mh4g-dex-build7+mh4edit-mit-save-id,3,0
 689,角龙炼甲,Diablos Vest,mh4g-dex-build7+mh4edit-mit-save-id,3,0
-690,Diablos Armor,Diablos Armor,mh4edit-mit-save-id-en-fallback,0,0
-691,Diablos Pizane,Diablos Pizane,mh4edit-mit-save-id-en-fallback,0,0
+690,角龙铠甲（发掘）,Diablos Armor,mh4g-armor-name-crosswalk+mh4edit-mit-save-id,0,1
+691,角龙板甲（发掘）,Diablos Pizane,mh4g-armor-name-crosswalk+mh4edit-mit-save-id,0,1
 692,黑角龙铠甲Ｚ,Diablos Mail Z,mh4g-dex-build7+mh4edit-mit-save-id,9,0
 693,黑角龙炼甲Ｚ,Diablos Vest Z,mh4g-dex-build7+mh4edit-mit-save-id,9,0
 694,恶龙皮衣Ｘ,Dragonhide X,mh4g-dex-build7+mh4edit-mit-save-id,10,0
 695,恶龙胸甲Ｘ,Dragonskin X,mh4g-dex-build7+mh4edit-mit-save-id,10,0
-696,Dragonarmor X,Dragonarmor X,mh4edit-mit-save-id-en-fallback,0,0
-697,Dragonpizane X,Dragonpizane X,mh4edit-mit-save-id-en-fallback,0,0
-698,Fatalis Crimsonhide Z,Fatalis Crimsonhide Z,mh4edit-mit-save-id-en-fallback,0,0
-699,Fatalis Crimsonskin Z,Fatalis Crimsonskin Z,mh4edit-mit-save-id-en-fallback,0,0
-700,Fatalis Crimsonarmor Z,Fatalis Crimsonarmor Z,mh4edit-mit-save-id-en-fallback,0,0
-701,Fatalis Crimsonpizane Z,Fatalis Crimsonpizane Z,mh4edit-mit-save-id-en-fallback,0,0
+696,恶龙Ｘ铠甲（发掘）,Dragonarmor X,mh4g-armor-name-crosswalk+mh4edit-mit-save-id,0,1
+697,恶龙Ｘ板甲（发掘）,Dragonpizane X,mh4g-armor-name-crosswalk+mh4edit-mit-save-id,0,1
+698,红黑龙Ｚ皮衣（发掘）,Fatalis Crimsonhide Z,mh4g-armor-name-crosswalk+mh4edit-mit-save-id,0,1
+699,红黑龙Ｚ胸甲（发掘）,Fatalis Crimsonskin Z,mh4g-armor-name-crosswalk+mh4edit-mit-save-id,0,1
+700,红黑龙Ｚ铠甲（发掘）,Fatalis Crimsonarmor Z,mh4g-armor-name-crosswalk+mh4edit-mit-save-id,0,1
+701,红黑龙Ｚ板甲（发掘）,Fatalis Crimsonpizane Z,mh4g-armor-name-crosswalk+mh4edit-mit-save-id,0,1
 702,黑龙皮衣,Wrothhide,mh4g-dex-build7+mh4edit-mit-save-id,10,0
 703,黑龙胸甲,Wrothskin,mh4g-dex-build7+mh4edit-mit-save-id,10,0
 704,祖龙皮衣,White Fatalis Hide,mh4g-dex-build7+mh4edit-mit-save-id,10,0
@@ -727,28 +727,28 @@ id,name,english,source,rarity,is_relic
 725,黑狼鸟炼甲Ｘ,Garuga Vest X,mh4g-dex-build7+mh4edit-mit-save-id,9,0
 726,麒麟内衣Ｘ,Kirin Jacket X,mh4g-dex-build7+mh4edit-mit-save-id,10,0
 727,麒麟大衣Ｘ,Kirin Cape X,mh4g-dex-build7+mh4edit-mit-save-id,10,0
-728,Kirin Armor,Kirin Armor,mh4edit-mit-save-id-en-fallback,0,0
-729,Kirin Pizane,Kirin Pizane,mh4edit-mit-save-id-en-fallback,0,0
+728,麒麟铠甲（发掘）,Kirin Armor,mh4g-armor-name-crosswalk+mh4edit-mit-save-id,0,1
+729,麒麟板甲（发掘）,Kirin Pizane,mh4g-armor-name-crosswalk+mh4edit-mit-save-id,0,1
 730,冰麒麟内衣Ｚ,Kirin Jacket Z,mh4g-dex-build7+mh4edit-mit-save-id,10,0
 731,冰麒麟大衣Ｚ,Kirin Cape Z,mh4g-dex-build7+mh4edit-mit-save-id,10,0
-732,Kirin Armor U,Kirin Armor U,mh4edit-mit-save-id-en-fallback,0,0
-733,Kirin Pizane U,Kirin Pizane U,mh4edit-mit-save-id-en-fallback,0,0
+732,冰麒麟Ｕ铠甲（发掘）,Kirin Armor U,mh4g-armor-name-crosswalk+mh4edit-mit-save-id,0,1
+733,冰麒麟Ｕ板甲（发掘）,Kirin Pizane U,mh4g-armor-name-crosswalk+mh4edit-mit-save-id,0,1
 734,飞甲虫上衣Ｘ,Bnahabra Suit X,mh4g-dex-build7+mh4edit-mit-save-id,8,0
 735,飞甲虫内衣Ｘ,Bnahabra Vest X,mh4g-dex-build7+mh4edit-mit-save-id,8,0
 736,垂皮龙披风Ｘ,Slagtoth Cloak X,mh4g-dex-build7+mh4edit-mit-save-id,8,0
 737,垂皮龙大衣Ｘ,Slagtoth Wrap X,mh4g-dex-build7+mh4edit-mit-save-id,8,0
 738,草食龙铠甲Ｘ,Rhenoplos Mail X,mh4g-dex-build7+mh4edit-mit-save-id,8,0
 739,草食龙炼甲Ｘ,Rhenoplos Vest X,mh4g-dex-build7+mh4edit-mit-save-id,8,0
-740,Hunter's Armor,Hunter's Armor,mh4edit-mit-save-id-en-fallback,0,0
-741,Hunter's Pizane,Hunter's Pizane,mh4edit-mit-save-id-en-fallback,0,0
-742,Alloy Armor,Alloy Armor,mh4edit-mit-save-id-en-fallback,0,0
-743,Alloy Pizane,Alloy Pizane,mh4edit-mit-save-id-en-fallback,0,0
+740,猎人铠甲（发掘）,Hunter's Armor,mh4g-armor-name-crosswalk+mh4edit-mit-save-id,0,1
+741,猎人板甲（发掘）,Hunter's Pizane,mh4g-armor-name-crosswalk+mh4edit-mit-save-id,0,1
+742,合金铠甲（发掘）,Alloy Armor,mh4g-armor-name-crosswalk+mh4edit-mit-save-id,0,1
+743,合金板甲（发掘）,Alloy Pizane,mh4g-armor-name-crosswalk+mh4edit-mit-save-id,0,1
 744,神秘铠甲Ｘ,Artian Mail X,mh4g-dex-build7+mh4edit-mit-save-id,9,0
 745,神秘炼甲Ｘ,Artian Vest X,mh4g-dex-build7+mh4edit-mit-save-id,9,0
-746,Arc Armor S,Arc Armor S,mh4edit-mit-save-id-en-fallback,0,0
-747,Arc Pizane S,Arc Pizane S,mh4edit-mit-save-id-en-fallback,0,0
-748,Ingot Armor,Ingot Armor,mh4edit-mit-save-id-en-fallback,0,0
-749,Ingot Pizane,Ingot Pizane,mh4edit-mit-save-id-en-fallback,0,0
+746,弧光Ｓ铠甲（发掘）,Arc Armor S,mh4g-armor-name-crosswalk+mh4edit-mit-save-id,0,1
+747,弧光Ｓ板甲（发掘）,Arc Pizane S,mh4g-armor-name-crosswalk+mh4edit-mit-save-id,0,1
+748,铸锭铠甲（发掘）,Ingot Armor,mh4g-armor-name-crosswalk+mh4edit-mit-save-id,0,1
+749,铸锭板甲（发掘）,Ingot Pizane,mh4g-armor-name-crosswalk+mh4edit-mit-save-id,0,1
 750,守护者上衣Ｘ,Guardian Suit X,mh4g-dex-build7+mh4edit-mit-save-id,8,0
 751,女佣内衣Ｘ,Helper Vest X,mh4g-dex-build7+mh4edit-mit-save-id,8,0
 752,守护者内衣Ｘ,Guardian Vest X,mh4g-dex-build7+mh4edit-mit-save-id,8,0
@@ -765,42 +765,42 @@ id,name,english,source,rarity,is_relic
 763,女王铠甲,Sororal Mail,mh4g-dex-build7+mh4edit-mit-save-id,9,0
 764,首领炼甲,Ace Vest,mh4g-dex-build7+mh4edit-mit-save-id,9,0
 765,女王炼甲,Sororal Vest,mh4g-dex-build7+mh4edit-mit-save-id,9,0
-766,Ceanataur Armor,Ceanataur Armor,mh4edit-mit-save-id-en-fallback,0,0
-767,Ceanataur Pizane,Ceanataur Pizane,mh4edit-mit-save-id-en-fallback,0,0
-768,Lagiacrus Armor,Lagiacrus Armor,mh4edit-mit-save-id-en-fallback,0,0
-769,Lagiacrus Pizane,Lagiacrus Pizane,mh4edit-mit-save-id-en-fallback,0,0
-770,Escadora Armor,Escadora Armor,mh4edit-mit-save-id-en-fallback,0,0
-771,Escadora Pizane,Escadora Pizane,mh4edit-mit-save-id-en-fallback,0,0
-772,Auroros Kermes Plate,Auroros Kermes Plate,mh4edit-mit-save-id-en-fallback,0,0
-773,Borealis Woad Plate,Borealis Woad Plate,mh4edit-mit-save-id-en-fallback,0,0
-774,Genesis Kermes Plate,Genesis Kermes Plate,mh4edit-mit-save-id-en-fallback,0,0
-775,Glyph Woad Plate,Glyph Woad Plate,mh4edit-mit-save-id-en-fallback,0,0
-776,Ludroth Armor,Ludroth Armor,mh4edit-mit-save-id-en-fallback,0,0
-777,Ludroth Pizane,Ludroth Pizane,mh4edit-mit-save-id-en-fallback,0,0
-778,Hornet Mail,Hornet Mail,mh4edit-mit-save-id-en-fallback,0,0
-779,Hornet Vest,Hornet Vest,mh4edit-mit-save-id-en-fallback,0,0
-780,Hornet Armor,Hornet Armor,mh4edit-mit-save-id-en-fallback,0,0
-781,Hornet Pizane,Hornet Pizane,mh4edit-mit-save-id-en-fallback,0,0
-782,Wroggi Mail,Wroggi Mail,mh4edit-mit-save-id-en-fallback,0,0
-783,Wroggi Vest,Wroggi Vest,mh4edit-mit-save-id-en-fallback,0,0
-784,Wroggi Armor,Wroggi Armor,mh4edit-mit-save-id-en-fallback,0,0
-785,Wroggi Pizane,Wroggi Pizane,mh4edit-mit-save-id-en-fallback,0,0
-786,Gigginox Mail,Gigginox Mail,mh4edit-mit-save-id-en-fallback,0,0
-787,Gigginox Vest,Gigginox Vest,mh4edit-mit-save-id-en-fallback,0,0
-788,Gigginox Armor,Gigginox Armor,mh4edit-mit-save-id-en-fallback,0,0
-789,Gigginox Pizane,Gigginox Pizane,mh4edit-mit-save-id-en-fallback,0,0
+766,镰蟹铠甲（发掘）,Ceanataur Armor,mh4g-armor-name-crosswalk+mh4edit-mit-save-id,0,1
+767,镰蟹板甲（发掘）,Ceanataur Pizane,mh4g-armor-name-crosswalk+mh4edit-mit-save-id,0,1
+768,海龙铠甲（发掘）,Lagiacrus Armor,mh4g-armor-name-crosswalk+mh4edit-mit-save-id,0,1
+769,海龙板甲（发掘）,Lagiacrus Pizane,mh4g-armor-name-crosswalk+mh4edit-mit-save-id,0,1
+770,煌黑龙铠甲（发掘）,Escadora Armor,mh4g-armor-name-crosswalk+mh4edit-mit-save-id,0,1
+771,煌黑龙板甲（发掘）,Escadora Pizane,mh4g-armor-name-crosswalk+mh4edit-mit-save-id,0,1
+772,晓丸胴甲（发掘）,Auroros Kermes Plate,mh4g-armor-name-crosswalk+mh4edit-mit-save-id,0,1
+773,凛胴甲（发掘）,Borealis Woad Plate,mh4g-armor-name-crosswalk+mh4edit-mit-save-id,0,1
+774,曙丸胴甲（发掘）,Genesis Kermes Plate,mh4g-armor-name-crosswalk+mh4edit-mit-save-id,0,1
+775,妖艳胴甲（发掘）,Glyph Woad Plate,mh4g-armor-name-crosswalk+mh4edit-mit-save-id,0,1
+776,水兽铠甲（发掘）,Ludroth Armor,mh4g-armor-name-crosswalk+mh4edit-mit-save-id,0,1
+777,水兽板甲（发掘）,Ludroth Pizane,mh4g-armor-name-crosswalk+mh4edit-mit-save-id,0,1
+778,甲虫铠甲（发掘）,Hornet Mail,mh4g-armor-name-crosswalk+mh4edit-mit-save-id,0,1
+779,甲虫炼甲（发掘）,Hornet Vest,mh4g-armor-name-crosswalk+mh4edit-mit-save-id,0,1
+780,甲虫铠甲（发掘）,Hornet Armor,mh4g-armor-name-crosswalk+mh4edit-mit-save-id,0,1
+781,甲虫板甲（发掘）,Hornet Pizane,mh4g-armor-name-crosswalk+mh4edit-mit-save-id,0,1
+782,毒狗龙铠甲（发掘）,Wroggi Mail,mh4g-armor-name-crosswalk+mh4edit-mit-save-id,0,1
+783,毒狗龙炼甲（发掘）,Wroggi Vest,mh4g-armor-name-crosswalk+mh4edit-mit-save-id,0,1
+784,毒狗龙铠甲（发掘）,Wroggi Armor,mh4g-armor-name-crosswalk+mh4edit-mit-save-id,0,1
+785,毒狗龙板甲（发掘）,Wroggi Pizane,mh4g-armor-name-crosswalk+mh4edit-mit-save-id,0,1
+786,毒怪龙铠甲（发掘）,Gigginox Mail,mh4g-armor-name-crosswalk+mh4edit-mit-save-id,0,1
+787,毒怪龙炼甲（发掘）,Gigginox Vest,mh4g-armor-name-crosswalk+mh4edit-mit-save-id,0,1
+788,毒怪龙铠甲（发掘）,Gigginox Armor,mh4g-armor-name-crosswalk+mh4edit-mit-save-id,0,1
+789,毒怪龙板甲（发掘）,Gigginox Pizane,mh4g-armor-name-crosswalk+mh4edit-mit-save-id,0,1
 790,荒天【衣】,Tempest Robe,mh4g-dex-build7+mh4edit-mit-save-id,10,0
 791,苍天【衣】,Welkin Robe,mh4g-dex-build7+mh4edit-mit-save-id,10,0
-792,Tempest Vesture,Tempest Vesture,mh4edit-mit-save-id-en-fallback,0,0
-793,Welkin Vesture,Welkin Vesture,mh4edit-mit-save-id-en-fallback,0,0
-794,Death Stench Muscle,Death Stench Muscle,mh4edit-mit-save-id-en-fallback,0,0
-795,Death Stench Heart,Death Stench Heart,mh4edit-mit-save-id-en-fallback,0,0
-796,Death Stench Armor,Death Stench Armor,mh4edit-mit-save-id-en-fallback,0,0
-797,Death Stench Pizane,Death Stench Pizane,mh4edit-mit-save-id-en-fallback,0,0
-798,Damascus Mail,Damascus Mail,mh4edit-mit-save-id-en-fallback,0,0
-799,Damascus Vest,Damascus Vest,mh4edit-mit-save-id-en-fallback,0,0
-800,Damascus Armor,Damascus Armor,mh4edit-mit-save-id-en-fallback,0,0
-801,Damascus Pizane,Damascus Pizane,mh4edit-mit-save-id-en-fallback,0,0
+792,荒天羽衣（发掘）,Tempest Vesture,mh4g-armor-name-crosswalk+mh4edit-mit-save-id,0,1
+793,苍天羽衣（发掘）,Welkin Vesture,mh4g-armor-name-crosswalk+mh4edit-mit-save-id,0,1
+794,死神铠甲（发掘）,Death Stench Muscle,mh4g-armor-name-crosswalk+mh4edit-mit-save-id,0,1
+795,死神炼甲（发掘）,Death Stench Heart,mh4g-armor-name-crosswalk+mh4edit-mit-save-id,0,1
+796,死神铠甲（发掘）,Death Stench Armor,mh4g-armor-name-crosswalk+mh4edit-mit-save-id,0,1
+797,死神板甲（发掘）,Death Stench Pizane,mh4g-armor-name-crosswalk+mh4edit-mit-save-id,0,1
+798,大马士革铠甲（发掘）,Damascus Mail,mh4g-armor-name-crosswalk+mh4edit-mit-save-id,0,1
+799,大马士革炼甲（发掘）,Damascus Vest,mh4g-armor-name-crosswalk+mh4edit-mit-save-id,0,1
+800,大马士革铠甲（发掘）,Damascus Armor,mh4g-armor-name-crosswalk+mh4edit-mit-save-id,0,1
+801,大马士革板甲（发掘）,Damascus Pizane,mh4g-armor-name-crosswalk+mh4edit-mit-save-id,0,1
 802,海龙铠甲Ｘ,Lagiacrus Mail X,mh4g-dex-build7+mh4edit-mit-save-id,9,0
 803,海龙炼甲Ｘ,Lagiacrus Vest X,mh4g-dex-build7+mh4edit-mit-save-id,9,0
 804,迅龙铠甲Ｘ,Nargacuga Mail X,mh4g-dex-build7+mh4edit-mit-save-id,9,0
@@ -857,10 +857,10 @@ id,name,english,source,rarity,is_relic
 855,EX妖艳【胴体】,EX Glyph Chest,mh4g-dex-build7+mh4edit-mit-save-id,10,0
 856,荒天【衣】,Tempest Robe,mh4g-dex-build7+mh4edit-mit-save-id,10,0
 857,苍天【衣】,Welkin Robe,mh4g-dex-build7+mh4edit-mit-save-id,10,0
-858,GX Escadora Armor,GX Escadora Armor,mh4edit-mit-save-id-en-fallback,0,0
-859,GX Escadora Pizane,GX Escadora Pizane,mh4edit-mit-save-id-en-fallback,0,0
-860,GX Dragonarmor X,GX Dragonarmor X,mh4edit-mit-save-id-en-fallback,0,0
-861,GX Dragonpizane X,GX Dragonpizane X,mh4edit-mit-save-id-en-fallback,0,0
+858,GX煌黑龙铠甲（发掘）,GX Escadora Armor,mh4g-armor-name-crosswalk+mh4edit-mit-save-id,0,1
+859,GX煌黑龙板甲（发掘）,GX Escadora Pizane,mh4g-armor-name-crosswalk+mh4edit-mit-save-id,0,1
+860,GX恶龙Ｘ铠甲（发掘）,GX Dragonarmor X,mh4g-armor-name-crosswalk+mh4edit-mit-save-id,0,1
+861,GX恶龙Ｘ板甲（发掘）,GX Dragonpizane X,mh4g-armor-name-crosswalk+mh4edit-mit-save-id,0,1
 862,星骑士铠甲,Star Knight Mail,mh4g-dex-build7+mh4edit-mit-save-id,10,0
 863,星骑士炼甲,Star Knight Vest,mh4g-dex-build7+mh4edit-mit-save-id,10,0
 864,【美】愤怒铠甲,Mail of Rage,mh4g-dex-build7+mh4edit-mit-save-id,10,0
@@ -953,21 +953,21 @@ id,name,english,source,rarity,is_relic
 951,冰麒麟大衣Ｕ,Kirin Cape U,mh4g-dex-build7+mh4edit-mit-save-id,7,0
 952,贪婪铠甲,Esurient Mail,mh4g-dex-build7+mh4edit-mit-save-id,7,0
 953,贪婪炼甲,Esurient Vest,mh4g-dex-build7+mh4edit-mit-save-id,7,0
-954,Monoblos Mail,Monoblos Mail,mh4edit-mit-save-id-en-fallback,0,0
-955,Monoblos Vest,Monoblos Vest,mh4edit-mit-save-id-en-fallback,0,0
-956,Hornet Mail,Hornet Mail,mh4edit-mit-save-id-en-fallback,0,0
-957,Hornet Vest,Hornet Vest,mh4edit-mit-save-id-en-fallback,0,0
-958,Wroggi Mail,Wroggi Mail,mh4edit-mit-save-id-en-fallback,0,0
-959,Wroggi Vest,Wroggi Vest,mh4edit-mit-save-id-en-fallback,0,0
+954,一角龙铠甲（发掘）,Monoblos Mail,mh4g-armor-name-crosswalk+mh4edit-mit-save-id,0,1
+955,一角龙炼甲（发掘）,Monoblos Vest,mh4g-armor-name-crosswalk+mh4edit-mit-save-id,0,1
+956,甲虫铠甲（发掘）,Hornet Mail,mh4g-armor-name-crosswalk+mh4edit-mit-save-id,0,1
+957,甲虫炼甲（发掘）,Hornet Vest,mh4g-armor-name-crosswalk+mh4edit-mit-save-id,0,1
+958,毒狗龙铠甲（发掘）,Wroggi Mail,mh4g-armor-name-crosswalk+mh4edit-mit-save-id,0,1
+959,毒狗龙炼甲（发掘）,Wroggi Vest,mh4g-armor-name-crosswalk+mh4edit-mit-save-id,0,1
 960,白一角龙铠甲,Monodevil Mail,mh4g-dex-build7+mh4edit-mit-save-id,9,0
 961,白一角龙炼甲,Monodevil Vest,mh4g-dex-build7+mh4edit-mit-save-id,9,0
 962,角龙铠甲,Diablos Mail,mh4g-dex-build7+mh4edit-mit-save-id,3,0
 963,角龙炼甲,Diablos Vest,mh4g-dex-build7+mh4edit-mit-save-id,3,0
-964,Gigginox Mail,Gigginox Mail,mh4edit-mit-save-id-en-fallback,0,0
-965,Gigginox Vest,Gigginox Vest,mh4edit-mit-save-id-en-fallback,0,0
-966,Death Stench Muscle,Death Stench Muscle,mh4edit-mit-save-id-en-fallback,0,0
-967,Death Stench Heart,Death Stench Heart,mh4edit-mit-save-id-en-fallback,0,0
-968,Damascus Mail,Damascus Mail,mh4edit-mit-save-id-en-fallback,0,0
-969,Damascus Vest,Damascus Vest,mh4edit-mit-save-id-en-fallback,0,0
+964,毒怪龙铠甲（发掘）,Gigginox Mail,mh4g-armor-name-crosswalk+mh4edit-mit-save-id,0,1
+965,毒怪龙炼甲（发掘）,Gigginox Vest,mh4g-armor-name-crosswalk+mh4edit-mit-save-id,0,1
+966,死神铠甲（发掘）,Death Stench Muscle,mh4g-armor-name-crosswalk+mh4edit-mit-save-id,0,1
+967,死神炼甲（发掘）,Death Stench Heart,mh4g-armor-name-crosswalk+mh4edit-mit-save-id,0,1
+968,大马士革铠甲（发掘）,Damascus Mail,mh4g-armor-name-crosswalk+mh4edit-mit-save-id,0,1
+969,大马士革炼甲（发掘）,Damascus Vest,mh4g-armor-name-crosswalk+mh4edit-mit-save-id,0,1
 970,DUMMY,DUMMY,mh4edit-mit-save-id-en-fallback,0,0
 971,DUMMY,DUMMY,mh4edit-mit-save-id-en-fallback,0,0

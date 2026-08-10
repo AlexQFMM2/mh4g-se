@@ -1,4 +1,8 @@
 {
+  "armor_name_crosswalk": {
+    "format": "mh4g-armor-name-crosswalk-v1",
+    "sha256": "d7398b79d285a1c06cee814aec50203322a57fd547ccd02edd7eab5563d9b34d"
+  },
   "dex": {
     "product": "MH4G Dex v1.0 Build 7",
     "runtime_dump_format": "mh4g-dex-runtime-dump-v1",
@@ -33,23 +37,23 @@
   "files": {
     "cn/armor_arms.csv": {
       "records": 956,
-      "sha256": "9d98e54dddff8b94335fa345dca7ebe6de60da63b393a38a66a0491fbe3997e0"
+      "sha256": "c826f46746607b939b3f76454054c36585379a02387e77d351298197d10e1e04"
     },
     "cn/armor_chest.csv": {
       "records": 972,
-      "sha256": "b377b8a140111b05a946e4dbca62821b1725eb2ce0be37d5ea8350fd19d439fa"
+      "sha256": "57608ba3dc5f4a0e0db0a83d7a093a6db52ce0f1b50bd18969a93d3df4a494b2"
     },
     "cn/armor_head.csv": {
       "records": 987,
-      "sha256": "d07addd5e4639e5d4a67e1174d8cbd06da8f1d77f61138c0ef0f1f604bf4cba8"
+      "sha256": "f59ffeb36dc79a3d77475ba5354be8931cad9e1bc5abc27370e76e141a110c8f"
     },
     "cn/armor_legs.csv": {
       "records": 964,
-      "sha256": "14a901431342cb6c841b119d3915b722312a2c973123b7f6df8214c5d41308df"
+      "sha256": "b09f94d23b74034b1cfa120f995442e3e8b37fa27e663df3dda7655bc497b40e"
     },
     "cn/armor_waist.csv": {
       "records": 953,
-      "sha256": "d229cd789c12dfaa2c191f78e272a2da49f03db1e8f905306e6fbc870b2dc60d"
+      "sha256": "d94db01154cb8fe794d43d9087d6f504b4d2186967c8e21a56dccd1b49d36036"
     },
     "cn/decorations.csv": {
       "records": 290,
@@ -73,7 +77,7 @@
     },
     "cn/talismans.csv": {
       "records": 15,
-      "sha256": "189afd4a863b665ca95e249afabb7282fbf2ea62f4c6114d887d4ad6fa50032a"
+      "sha256": "d825ce8a567059bda0d0ba82e70e1cf0b76ad937093b8b1ee1c5e6c0eb3beb04"
     },
     "cn/weapon_bow.csv": {
       "records": 206,
@@ -133,23 +137,23 @@
     },
     "en/armor_arms.csv": {
       "records": 956,
-      "sha256": "101e2c5d2ef8f6638f7439be7221f16025eb449347800173d55685d368bfc5c6"
+      "sha256": "205059ae89e096c63a9e1ae5a833b993d8a758e6c0ddc0684a2d13be93116df6"
     },
     "en/armor_chest.csv": {
       "records": 972,
-      "sha256": "28b145eedb78059bdc09c0e2d7a842b01cfaa4caf798b4cb6c108f38c1167083"
+      "sha256": "d341e74f771e702f1b26a664b8a6eda483f022b161a5c9b2db87d89c717b9889"
     },
     "en/armor_head.csv": {
       "records": 987,
-      "sha256": "4213171f4f3a16871a8124079c13f3303193f5af82ae671adb9697c3d4498f33"
+      "sha256": "7945c50cf8fc470956817b897ac2108d0890d4b9f34348ef9adec6576cabaad8"
     },
     "en/armor_legs.csv": {
       "records": 964,
-      "sha256": "8d7f2004a63a7293a48e7e1662a114f176c7bc481684ca30c078d04cb797d37f"
+      "sha256": "73fc0e15ef90d1bd02ff263436c03dbd580d99ca80092e1ea30c74508d4c7364"
     },
     "en/armor_waist.csv": {
       "records": 953,
-      "sha256": "ec13812108065d70c23a09cc051a18b4f69a8d1fdec1df62b651a1adf5313090"
+      "sha256": "8bd7b0c7a5c2e134dfb4b937007d26829ee0a1080c432a7c7ea51a267ff3ee55"
     },
     "en/decorations.csv": {
       "records": 290,
@@ -235,7 +239,7 @@
   "filters": {
     "decoration_reference_names_without_exact_dex_match": 0,
     "decorations": "save-local allJewels order; save value 0 is None",
-    "equipment": "save-local reference order including value 0; normalized English join plus explicit weapon crosswalks",
+    "equipment": "save-local reference order including value 0; normalized English join plus explicit weapon/armor crosswalks",
     "items": "save ID is parsed from DB_Itm.Hex; DB_Itm.Itm_ID is used only to join names",
     "items_excluded_rows": 0,
     "skills": "SklTree_ID > 0 plus save value 0 (None)"
@@ -243,7 +247,7 @@
   "format_version": "1.0.0",
   "generator": {
     "name": "tools/build_data.py",
-    "version": "1.1.0"
+    "version": "1.2.0"
   },
   "languages": [
     "cn",
@@ -256,43 +260,43 @@
   "match_statistics": {
     "armor_arms.csv": {
       "dex_name_matches": 825,
-      "relic_cn_matches": 0,
-      "relic_rows": 0,
+      "relic_cn_matches": 120,
+      "relic_rows": 120,
       "rows": 956,
       "save_id_dex_matches": 0,
-      "unmatched": 130
+      "unmatched": 10
     },
     "armor_chest.csv": {
       "dex_name_matches": 833,
-      "relic_cn_matches": 0,
-      "relic_rows": 0,
+      "relic_cn_matches": 120,
+      "relic_rows": 120,
       "rows": 972,
       "save_id_dex_matches": 0,
-      "unmatched": 138
+      "unmatched": 18
     },
     "armor_head.csv": {
       "dex_name_matches": 850,
-      "relic_cn_matches": 0,
-      "relic_rows": 0,
+      "relic_cn_matches": 120,
+      "relic_rows": 120,
       "rows": 987,
       "save_id_dex_matches": 0,
-      "unmatched": 136
+      "unmatched": 16
     },
     "armor_legs.csv": {
       "dex_name_matches": 823,
-      "relic_cn_matches": 0,
-      "relic_rows": 0,
+      "relic_cn_matches": 120,
+      "relic_rows": 120,
       "rows": 964,
       "save_id_dex_matches": 0,
-      "unmatched": 140
+      "unmatched": 20
     },
     "armor_waist.csv": {
       "dex_name_matches": 791,
-      "relic_cn_matches": 0,
-      "relic_rows": 0,
+      "relic_cn_matches": 127,
+      "relic_rows": 127,
       "rows": 953,
       "save_id_dex_matches": 0,
-      "unmatched": 161
+      "unmatched": 34
     },
     "weapon_bow.csv": {
       "dex_name_matches": 179,
@@ -441,7 +445,7 @@
     "decorations": "DB_Jew has 325 recipe rows and 289 unique item IDs; output adds save value 0 (None) to those save-local decoration values",
     "items": "DB_Itm rows map one-to-one to output rows through Hex",
     "skills": "exclude the ID_SklTree_Name -1 placeholder and add save value 0",
-    "weapons_and_armor": "output follows save-local reference arrays; Dex exact-name matches and reviewed weapon crosswalks provide metadata"
+    "weapons_and_armor": "output follows save-local reference arrays; Dex exact-name matches and reviewed weapon/armor crosswalks provide metadata"
   },
   "weapon_name_crosswalk": {
     "format": "mh4g-weapon-name-crosswalk-v1",

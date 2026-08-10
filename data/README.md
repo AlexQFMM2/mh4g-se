@@ -13,8 +13,11 @@ files by hand.
 - Relic appearance names are resolved through the explicit weapon-name
   crosswalk because those base appearances are not standalone Dex weapon rows.
   Chinese relic names include a `发掘` marker and their appearance color.
+- Relic armor names are resolved through an explicit series/part crosswalk and
+  include a `发掘` marker. Placeholder IDs remain in CSV for lossless coverage;
+  the editor hides them from ordinary selection lists.
 - `rarity` is `0` when rarity is dynamic (relic/talisman) or the reference row
-  has no exact Dex match. `is_relic` is `1` for colored relic weapon IDs.
+  has no exact Dex match. `is_relic` is `1` for known relic weapon and armor IDs.
 - `equipment_type` in `equipment_lookups.csv` is the on-disk save type (`0` is
   reserved for global values; generated rows currently use concrete types).
 

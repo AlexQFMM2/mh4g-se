@@ -527,26 +527,26 @@ id,name,english,source,rarity,is_relic
 525,Seltas Guards Z,Seltas Guards Z,mh4g-dex-build7+mh4edit-mit-save-id,9,0
 526,Gore Braces X,Gore Braces X,mh4g-dex-build7+mh4edit-mit-save-id,9,0
 527,Gore Guards X,Gore Guards X,mh4g-dex-build7+mh4edit-mit-save-id,9,0
-528,Gore Arms,Gore Arms,mh4edit-mit-save-id,0,0
-529,Gore Bands,Gore Bands,mh4edit-mit-save-id,0,0
+528,Gore Arms,Gore Arms,mh4g-armor-name-crosswalk+mh4edit-mit-save-id,0,1
+529,Gore Bands,Gore Bands,mh4g-armor-name-crosswalk+mh4edit-mit-save-id,0,1
 530,Arc Vambraces X,Arc Vambraces X,mh4g-dex-build7+mh4edit-mit-save-id,10,0
 531,Storge Vambraces X,Storge Vambraces X,mh4g-dex-build7+mh4edit-mit-save-id,10,0
 532,Arc Guards X,Arc Guards X,mh4g-dex-build7+mh4edit-mit-save-id,10,0
 533,Storge Guards X,Storge Guards X,mh4g-dex-build7+mh4edit-mit-save-id,10,0
-534,Arc Arms,Arc Arms,mh4edit-mit-save-id,0,0
-535,Storge Arms,Storge Arms,mh4edit-mit-save-id,0,0
-536,Arc Bands,Arc Bands,mh4edit-mit-save-id,0,0
-537,Storge Bands,Storge Bands,mh4edit-mit-save-id,0,0
+534,Arc Arms,Arc Arms,mh4g-armor-name-crosswalk+mh4edit-mit-save-id,0,1
+535,Storge Arms,Storge Arms,mh4g-armor-name-crosswalk+mh4edit-mit-save-id,0,1
+536,Arc Bands,Arc Bands,mh4g-armor-name-crosswalk+mh4edit-mit-save-id,0,1
+537,Storge Bands,Storge Bands,mh4g-armor-name-crosswalk+mh4edit-mit-save-id,0,1
 538,Gogma Braces,Gogma Braces,mh4g-dex-build7+mh4edit-mit-save-id,10,0
 539,Gogma Guards,Gogma Guards,mh4g-dex-build7+mh4edit-mit-save-id,10,0
 540,Gypceros Vambraces X,Gypceros Vambraces X,mh4g-dex-build7+mh4edit-mit-save-id,8,0
 541,Gypceros Guards X,Gypceros Guards X,mh4g-dex-build7+mh4edit-mit-save-id,8,0
-542,Gypceros Arms,Gypceros Arms,mh4edit-mit-save-id,0,0
-543,Gypceros Bands,Gypceros Bands,mh4edit-mit-save-id,0,0
+542,Gypceros Arms,Gypceros Arms,mh4g-armor-name-crosswalk+mh4edit-mit-save-id,0,1
+543,Gypceros Bands,Gypceros Bands,mh4g-armor-name-crosswalk+mh4edit-mit-save-id,0,1
 544,Gypceros Vambraces Z,Gypceros Vambraces Z,mh4g-dex-build7+mh4edit-mit-save-id,8,0
 545,Gypceros Guards Z,Gypceros Guards Z,mh4g-dex-build7+mh4edit-mit-save-id,8,0
-546,Gypceros Arms U,Gypceros Arms U,mh4edit-mit-save-id,0,0
-547,Gypceros Bands U,Gypceros Bands U,mh4edit-mit-save-id,0,0
+546,Gypceros Arms U,Gypceros Arms U,mh4g-armor-name-crosswalk+mh4edit-mit-save-id,0,1
+547,Gypceros Bands U,Gypceros Bands U,mh4g-armor-name-crosswalk+mh4edit-mit-save-id,0,1
 548,Lagombi Vambraces X,Lagombi Vambraces X,mh4g-dex-build7+mh4edit-mit-save-id,8,0
 549,Lagombi Guards X,Lagombi Guards X,mh4g-dex-build7+mh4edit-mit-save-id,8,0
 550,Conga Vambraces X,Conga Vambraces X,mh4g-dex-build7+mh4edit-mit-save-id,8,0
@@ -555,48 +555,48 @@ id,name,english,source,rarity,is_relic
 553,Conga Guards Z,Conga Guards Z,mh4g-dex-build7+mh4edit-mit-save-id,8,0
 554,Khezu Vambraces X,Khezu Vambraces X,mh4g-dex-build7+mh4edit-mit-save-id,8,0
 555,Khezu Guards X,Khezu Guards X,mh4g-dex-build7+mh4edit-mit-save-id,8,0
-556,Khezu Arms,Khezu Arms,mh4edit-mit-save-id,0,0
-557,Khezu Bands,Khezu Bands,mh4edit-mit-save-id,0,0
+556,Khezu Arms,Khezu Arms,mh4g-armor-name-crosswalk+mh4edit-mit-save-id,0,1
+557,Khezu Bands,Khezu Bands,mh4g-armor-name-crosswalk+mh4edit-mit-save-id,0,1
 558,Khezu Vambraces Z,Khezu Vambraces Z,mh4g-dex-build7+mh4edit-mit-save-id,8,0
 559,Khezu Guards Z,Khezu Guards Z,mh4g-dex-build7+mh4edit-mit-save-id,8,0
-560,Khezu Arms U,Khezu Arms U,mh4edit-mit-save-id,0,0
-561,Khezu Bands U,Khezu Bands U,mh4edit-mit-save-id,0,0
+560,Khezu Arms U,Khezu Arms U,mh4g-armor-name-crosswalk+mh4edit-mit-save-id,0,1
+561,Khezu Bands U,Khezu Bands U,mh4g-armor-name-crosswalk+mh4edit-mit-save-id,0,1
 562,Rathian Vambraces X,Rathian Vambraces X,mh4g-dex-build7+mh4edit-mit-save-id,8,0
 563,Rathian Guards X,Rathian Guards X,mh4g-dex-build7+mh4edit-mit-save-id,8,0
-564,Rathian Arms,Rathian Arms,mh4edit-mit-save-id,0,0
-565,Rathian Bands,Rathian Bands,mh4edit-mit-save-id,0,0
+564,Rathian Arms,Rathian Arms,mh4g-armor-name-crosswalk+mh4edit-mit-save-id,0,1
+565,Rathian Bands,Rathian Bands,mh4g-armor-name-crosswalk+mh4edit-mit-save-id,0,1
 566,Rath Heart Braces Z,Rath Heart Braces Z,mh4g-dex-build7+mh4edit-mit-save-id,8,0
 567,Rath Heart Guards Z,Rath Heart Guards Z,mh4g-dex-build7+mh4edit-mit-save-id,8,0
-568,Rath Heart Arms,Rath Heart Arms,mh4edit-mit-save-id,0,0
-569,Rath Heart Bands,Rath Heart Bands,mh4edit-mit-save-id,0,0
+568,Rath Heart Arms,Rath Heart Arms,mh4g-armor-name-crosswalk+mh4edit-mit-save-id,0,1
+569,Rath Heart Bands,Rath Heart Bands,mh4g-armor-name-crosswalk+mh4edit-mit-save-id,0,1
 570,Golden Lunebraces Z,Golden Lunebraces Z,mh4g-dex-build7+mh4edit-mit-save-id,10,0
 571,Golden Luneguards Z,Golden Luneguards Z,mh4g-dex-build7+mh4edit-mit-save-id,10,0
 572,Rathalos Vambraces X,Rathalos Vambraces X,mh4g-dex-build7+mh4edit-mit-save-id,9,0
 573,Rathalos Guards X,Rathalos Guards X,mh4g-dex-build7+mh4edit-mit-save-id,9,0
-574,Rathalos Arms,Rathalos Arms,mh4edit-mit-save-id,0,0
-575,Rathalos Bands,Rathalos Bands,mh4edit-mit-save-id,0,0
+574,Rathalos Arms,Rathalos Arms,mh4g-armor-name-crosswalk+mh4edit-mit-save-id,0,1
+575,Rathalos Bands,Rathalos Bands,mh4g-armor-name-crosswalk+mh4edit-mit-save-id,0,1
 576,Rath Soul Braces Z,Rath Soul Braces Z,mh4g-dex-build7+mh4edit-mit-save-id,9,0
 577,Rath Soul Guards Z,Rath Soul Guards Z,mh4g-dex-build7+mh4edit-mit-save-id,9,0
-578,Rath Soul Arms,Rath Soul Arms,mh4edit-mit-save-id,0,0
-579,Rath Soul Bands,Rath Soul Bands,mh4edit-mit-save-id,0,0
+578,Rath Soul Arms,Rath Soul Arms,mh4g-armor-name-crosswalk+mh4edit-mit-save-id,0,1
+579,Rath Soul Bands,Rath Soul Bands,mh4g-armor-name-crosswalk+mh4edit-mit-save-id,0,1
 580,Silver Solbraces Z,Silver Solbraces Z,mh4g-dex-build7+mh4edit-mit-save-id,10,0
 581,Silver Solguards Z,Silver Solguards Z,mh4g-dex-build7+mh4edit-mit-save-id,10,0
-582,Silver Solarms,Silver Solarms,mh4edit-mit-save-id,0,0
-583,Silver Solbands,Silver Solbands,mh4edit-mit-save-id,0,0
+582,Silver Solarms,Silver Solarms,mh4g-armor-name-crosswalk+mh4edit-mit-save-id,0,1
+583,Silver Solbands,Silver Solbands,mh4g-armor-name-crosswalk+mh4edit-mit-save-id,0,1
 584,Zinogre Vambraces X,Zinogre Vambraces X,mh4g-dex-build7+mh4edit-mit-save-id,9,0
 585,Zinogre Guards X,Zinogre Guards X,mh4g-dex-build7+mh4edit-mit-save-id,9,0
 586,Zinogre Vambraces Z,Zinogre Vambraces Z,mh4g-dex-build7+mh4edit-mit-save-id,9,0
 587,Zinogre Guards Z,Zinogre Guards Z,mh4g-dex-build7+mh4edit-mit-save-id,9,0
-588,Zinogre Arms U,Zinogre Arms U,mh4edit-mit-save-id,0,0
-589,Zinogre Bands U,Zinogre Bands U,mh4edit-mit-save-id,0,0
+588,Zinogre Arms U,Zinogre Arms U,mh4g-armor-name-crosswalk+mh4edit-mit-save-id,0,1
+589,Zinogre Bands U,Zinogre Bands U,mh4g-armor-name-crosswalk+mh4edit-mit-save-id,0,1
 590,Tigrex Vambraces X,Tigrex Vambraces X,mh4g-dex-build7+mh4edit-mit-save-id,9,0
 591,Tigrex Guards X,Tigrex Guards X,mh4g-dex-build7+mh4edit-mit-save-id,9,0
-592,Tigrex Arms,Tigrex Arms,mh4edit-mit-save-id,0,0
-593,Tigrex Bands,Tigrex Bands,mh4edit-mit-save-id,0,0
+592,Tigrex Arms,Tigrex Arms,mh4g-armor-name-crosswalk+mh4edit-mit-save-id,0,1
+593,Tigrex Bands,Tigrex Bands,mh4g-armor-name-crosswalk+mh4edit-mit-save-id,0,1
 594,Tigrex Vambraces Z,Tigrex Vambraces Z,mh4g-dex-build7+mh4edit-mit-save-id,9,0
 595,Tigrex Guards Z,Tigrex Guards Z,mh4g-dex-build7+mh4edit-mit-save-id,9,0
-596,Tigrex Arms U,Tigrex Arms U,mh4edit-mit-save-id,0,0
-597,Tigrex Bands U,Tigrex Bands U,mh4edit-mit-save-id,0,0
+596,Tigrex Arms U,Tigrex Arms U,mh4g-armor-name-crosswalk+mh4edit-mit-save-id,0,1
+597,Tigrex Bands U,Tigrex Bands U,mh4g-armor-name-crosswalk+mh4edit-mit-save-id,0,1
 598,Excello Vambraces Z,Excello Vambraces Z,mh4g-dex-build7+mh4edit-mit-save-id,10,0
 599,Excello Guards Z,Excello Guards Z,mh4g-dex-build7+mh4edit-mit-save-id,10,0
 600,Gravios Vambraces X,Gravios Vambraces X,mh4g-dex-build7+mh4edit-mit-save-id,9,0
@@ -611,30 +611,30 @@ id,name,english,source,rarity,is_relic
 609,Grand Adamance Braces,Grand Adamance Braces,mh4g-dex-build7+mh4edit-mit-save-id,10,0
 610,Grand Dayspring Braces,Grand Dayspring Braces,mh4g-dex-build7+mh4edit-mit-save-id,10,0
 611,Grand Epoch Sleeves,Grand Epoch Sleeves,mh4g-dex-build7+mh4edit-mit-save-id,10,0
-612,Gloaming Redbraces,Gloaming Redbraces,mh4edit-mit-save-id,0,0
-613,Adamance Redbraces,Adamance Redbraces,mh4edit-mit-save-id,0,0
-614,Dayspring Redbraces,Dayspring Redbraces,mh4edit-mit-save-id,0,0
-615,Epoch Redbraces,Epoch Redbraces,mh4edit-mit-save-id,0,0
+612,Gloaming Redbraces,Gloaming Redbraces,mh4g-armor-name-crosswalk+mh4edit-mit-save-id,0,1
+613,Adamance Redbraces,Adamance Redbraces,mh4g-armor-name-crosswalk+mh4edit-mit-save-id,0,1
+614,Dayspring Redbraces,Dayspring Redbraces,mh4g-armor-name-crosswalk+mh4edit-mit-save-id,0,1
+615,Epoch Redbraces,Epoch Redbraces,mh4g-armor-name-crosswalk+mh4edit-mit-save-id,0,1
 616,Vangis Vambraces X,Vangis Vambraces X,mh4g-dex-build7+mh4edit-mit-save-id,9,0
 617,Vangis Guards X,Vangis Guards X,mh4g-dex-build7+mh4edit-mit-save-id,9,0
 618,Esurient Vambraces Z,Esurient Vambraces Z,mh4g-dex-build7+mh4edit-mit-save-id,10,0
 619,Esurient Guards Z,Esurient Guards Z,mh4g-dex-build7+mh4edit-mit-save-id,10,0
-620,Esurient Arms,Esurient Arms,mh4edit-mit-save-id,0,0
-621,Esurient Bands,Esurient Bands,mh4edit-mit-save-id,0,0
+620,Esurient Arms,Esurient Arms,mh4g-armor-name-crosswalk+mh4edit-mit-save-id,0,1
+621,Esurient Bands,Esurient Bands,mh4g-armor-name-crosswalk+mh4edit-mit-save-id,0,1
 622,Kaiser Vambraces X,Kaiser Vambraces X,mh4g-dex-build7+mh4edit-mit-save-id,10,0
 623,Kaiser Guards X,Kaiser Guards X,mh4g-dex-build7+mh4edit-mit-save-id,10,0
 624,Akantor Claws X,Akantor Claws X,mh4g-dex-build7+mh4edit-mit-save-id,10,0
 625,Akantor Gauntlets X,Akantor Gauntlets X,mh4g-dex-build7+mh4edit-mit-save-id,10,0
-626,Akantor Arms,Akantor Arms,mh4edit-mit-save-id,0,0
-627,Akantor Bands,Akantor Bands,mh4edit-mit-save-id,0,0
+626,Akantor Arms,Akantor Arms,mh4g-armor-name-crosswalk+mh4edit-mit-save-id,0,1
+627,Akantor Bands,Akantor Bands,mh4g-armor-name-crosswalk+mh4edit-mit-save-id,0,1
 628,EX Escadora Armguards,EX Escadora Armguards,mh4g-dex-build7+mh4edit-mit-save-id,10,0
 629,EX Escadora Arma,EX Escadora Arma,mh4g-dex-build7+mh4edit-mit-save-id,10,0
 630,Ukanlos Claws X,Ukanlos Claws X,mh4g-dex-build7+mh4edit-mit-save-id,10,0
 631,Ukanlos Gauntlets X,Ukanlos Gauntlets X,mh4g-dex-build7+mh4edit-mit-save-id,10,0
 632,Kushala Grip X,Kushala Grip X,mh4g-dex-build7+mh4edit-mit-save-id,10,0
 633,Kushala Embrace X,Kushala Embrace X,mh4g-dex-build7+mh4edit-mit-save-id,10,0
-634,Kushala Arms,Kushala Arms,mh4edit-mit-save-id,0,0
-635,Kushala Bands,Kushala Bands,mh4edit-mit-save-id,0,0
+634,Kushala Arms,Kushala Arms,mh4g-armor-name-crosswalk+mh4edit-mit-save-id,0,1
+635,Kushala Bands,Kushala Bands,mh4g-armor-name-crosswalk+mh4edit-mit-save-id,0,1
 636,Kujula Grip,Kujula Grip,mh4g-dex-build7+mh4edit-mit-save-id,10,0
 637,Kujula Embrace,Kujula Embrace,mh4g-dex-build7+mh4edit-mit-save-id,10,0
 638,Grand God's Peer Arms,Grand God's Peer Arms,mh4g-dex-build7+mh4edit-mit-save-id,10,0
@@ -643,48 +643,48 @@ id,name,english,source,rarity,is_relic
 641,Grand Crusher Braces,Grand Crusher Braces,mh4g-dex-build7+mh4edit-mit-save-id,10,0
 642,Rebellion Vambraces X,Rebellion Vambraces X,mh4g-dex-build7+mh4edit-mit-save-id,10,0
 643,Riot Guards X,Riot Guards X,mh4g-dex-build7+mh4edit-mit-save-id,10,0
-644,Rebellion Arms,Rebellion Arms,mh4edit-mit-save-id,0,0
-645,Riot Bands,Riot Bands,mh4edit-mit-save-id,0,0
+644,Rebellion Arms,Rebellion Arms,mh4g-armor-name-crosswalk+mh4edit-mit-save-id,0,1
+645,Riot Bands,Riot Bands,mh4g-armor-name-crosswalk+mh4edit-mit-save-id,0,1
 646,Rebellion Vambraces Z,Rebellion Vambraces Z,mh4g-dex-build7+mh4edit-mit-save-id,10,0
 647,Riot Guards Z,Riot Guards Z,mh4g-dex-build7+mh4edit-mit-save-id,10,0
 648,Cephalos Vambraces X,Cephalos Vambraces X,mh4g-dex-build7+mh4edit-mit-save-id,8,0
 649,Cephalos Guards X,Cephalos Guards X,mh4g-dex-build7+mh4edit-mit-save-id,8,0
 650,Hermitaur Braces X,Hermitaur Braces X,mh4g-dex-build7+mh4edit-mit-save-id,8,0
 651,Hermitaur Guards X,Hermitaur Guards X,mh4g-dex-build7+mh4edit-mit-save-id,8,0
-652,Hermitaur Arms,Hermitaur Arms,mh4edit-mit-save-id,0,0
-653,Hermitaur Bands,Hermitaur Bands,mh4edit-mit-save-id,0,0
+652,Hermitaur Arms,Hermitaur Arms,mh4g-armor-name-crosswalk+mh4edit-mit-save-id,0,1
+653,Hermitaur Bands,Hermitaur Bands,mh4g-armor-name-crosswalk+mh4edit-mit-save-id,0,1
 654,Hermitaur Braces Z,Hermitaur Braces Z,mh4g-dex-build7+mh4edit-mit-save-id,8,0
 655,Hermitaur Guards Z,Hermitaur Guards Z,mh4g-dex-build7+mh4edit-mit-save-id,8,0
 656,Mono Vambraces S,Mono Vambraces S,mh4g-dex-build7+mh4edit-mit-save-id,5,0
 657,Mono Guards S,Mono Guards S,mh4g-dex-build7+mh4edit-mit-save-id,5,0
 658,Mono Vambraces X,Mono Vambraces X,mh4g-dex-build7+mh4edit-mit-save-id,9,0
 659,Mono Guards X,Mono Guards X,mh4g-dex-build7+mh4edit-mit-save-id,9,0
-660,Mono Vambraces,Mono Vambraces,mh4edit-mit-save-id,0,0
-661,Mono Guards,Mono Guards,mh4edit-mit-save-id,0,0
-662,Mono Arms,Mono Arms,mh4edit-mit-save-id,0,0
-663,Mono Bands,Mono Bands,mh4edit-mit-save-id,0,0
+660,Mono Vambraces,Mono Vambraces,mh4g-armor-name-crosswalk+mh4edit-mit-save-id,0,1
+661,Mono Guards,Mono Guards,mh4g-armor-name-crosswalk+mh4edit-mit-save-id,0,1
+662,Mono Arms,Mono Arms,mh4g-armor-name-crosswalk+mh4edit-mit-save-id,0,1
+663,Mono Bands,Mono Bands,mh4g-armor-name-crosswalk+mh4edit-mit-save-id,0,1
 664,Monodevil Vambraces,Monodevil Vambraces,mh4g-dex-build7+mh4edit-mit-save-id,9,0
 665,Monodevil Guards,Monodevil Guards,mh4g-dex-build7+mh4edit-mit-save-id,9,0
 666,Monodevil Vambraces,Monodevil Vambraces,mh4g-dex-build7+mh4edit-mit-save-id,9,0
 667,Monodevil Guards,Monodevil Guards,mh4g-dex-build7+mh4edit-mit-save-id,9,0
-668,Monodevil Arms,Monodevil Arms,mh4edit-mit-save-id,0,0
-669,Monodevil Bands,Monodevil Bands,mh4edit-mit-save-id,0,0
+668,Monodevil Arms,Monodevil Arms,mh4g-armor-name-crosswalk+mh4edit-mit-save-id,0,1
+669,Monodevil Bands,Monodevil Bands,mh4g-armor-name-crosswalk+mh4edit-mit-save-id,0,1
 670,Diablos Vambraces X,Diablos Vambraces X,mh4g-dex-build7+mh4edit-mit-save-id,9,0
 671,Diablos Guards X,Diablos Guards X,mh4g-dex-build7+mh4edit-mit-save-id,9,0
 672,Diablos Vambraces,Diablos Vambraces,mh4g-dex-build7+mh4edit-mit-save-id,3,0
 673,Diablos Guards,Diablos Guards,mh4g-dex-build7+mh4edit-mit-save-id,3,0
-674,Diablos Arms,Diablos Arms,mh4edit-mit-save-id,0,0
-675,Diablos Bands,Diablos Bands,mh4edit-mit-save-id,0,0
+674,Diablos Arms,Diablos Arms,mh4g-armor-name-crosswalk+mh4edit-mit-save-id,0,1
+675,Diablos Bands,Diablos Bands,mh4g-armor-name-crosswalk+mh4edit-mit-save-id,0,1
 676,Diablos Vambraces Z,Diablos Vambraces Z,mh4g-dex-build7+mh4edit-mit-save-id,9,0
 677,Diablos Guards Z,Diablos Guards Z,mh4g-dex-build7+mh4edit-mit-save-id,9,0
 678,Dragonclaws X,Dragonclaws X,mh4g-dex-build7+mh4edit-mit-save-id,10,0
 679,Dragonfists X,Dragonfists X,mh4g-dex-build7+mh4edit-mit-save-id,10,0
-680,Dragonarms X,Dragonarms X,mh4edit-mit-save-id,0,0
-681,Dragonbands X,Dragonbands X,mh4edit-mit-save-id,0,0
-682,Fatalis Crimsonclaws Z,Fatalis Crimsonclaws Z,mh4edit-mit-save-id,0,0
-683,Fatalis Crimsonfists Z,Fatalis Crimsonfists Z,mh4edit-mit-save-id,0,0
-684,Fatalis Crimsonarms Z,Fatalis Crimsonarms Z,mh4edit-mit-save-id,0,0
-685,Fatalis Crimsonbands Z,Fatalis Crimsonbands Z,mh4edit-mit-save-id,0,0
+680,Dragonarms X,Dragonarms X,mh4g-armor-name-crosswalk+mh4edit-mit-save-id,0,1
+681,Dragonbands X,Dragonbands X,mh4g-armor-name-crosswalk+mh4edit-mit-save-id,0,1
+682,Fatalis Crimsonclaws Z,Fatalis Crimsonclaws Z,mh4g-armor-name-crosswalk+mh4edit-mit-save-id,0,1
+683,Fatalis Crimsonfists Z,Fatalis Crimsonfists Z,mh4g-armor-name-crosswalk+mh4edit-mit-save-id,0,1
+684,Fatalis Crimsonarms Z,Fatalis Crimsonarms Z,mh4g-armor-name-crosswalk+mh4edit-mit-save-id,0,1
+685,Fatalis Crimsonbands Z,Fatalis Crimsonbands Z,mh4g-armor-name-crosswalk+mh4edit-mit-save-id,0,1
 686,Wrothclaws,Wrothclaws,mh4g-dex-build7+mh4edit-mit-save-id,10,0
 687,Wrothfists,Wrothfists,mh4g-dex-build7+mh4edit-mit-save-id,10,0
 688,White Fatalis Claw,White Fatalis Claw,mh4g-dex-build7+mh4edit-mit-save-id,10,0
@@ -711,28 +711,28 @@ id,name,english,source,rarity,is_relic
 709,Garuga Guards X,Garuga Guards X,mh4g-dex-build7+mh4edit-mit-save-id,9,0
 710,Kirin Longarms X,Kirin Longarms X,mh4g-dex-build7+mh4edit-mit-save-id,10,0
 711,Kirin Gloves X,Kirin Gloves X,mh4g-dex-build7+mh4edit-mit-save-id,10,0
-712,Kirin Arms,Kirin Arms,mh4edit-mit-save-id,0,0
-713,Kirin Bands,Kirin Bands,mh4edit-mit-save-id,0,0
+712,Kirin Arms,Kirin Arms,mh4g-armor-name-crosswalk+mh4edit-mit-save-id,0,1
+713,Kirin Bands,Kirin Bands,mh4g-armor-name-crosswalk+mh4edit-mit-save-id,0,1
 714,Kirin Longarms Z,Kirin Longarms Z,mh4g-dex-build7+mh4edit-mit-save-id,10,0
 715,Kirin Gloves Z,Kirin Gloves Z,mh4g-dex-build7+mh4edit-mit-save-id,10,0
-716,Kirin Arms U,Kirin Arms U,mh4edit-mit-save-id,0,0
-717,Kirin Bands U,Kirin Bands U,mh4edit-mit-save-id,0,0
+716,Kirin Arms U,Kirin Arms U,mh4g-armor-name-crosswalk+mh4edit-mit-save-id,0,1
+717,Kirin Bands U,Kirin Bands U,mh4g-armor-name-crosswalk+mh4edit-mit-save-id,0,1
 718,Bnahabra Gloves X,Bnahabra Gloves X,mh4g-dex-build7+mh4edit-mit-save-id,8,0
 719,Bnahabra Sleeves X,Bnahabra Sleeves X,mh4g-dex-build7+mh4edit-mit-save-id,8,0
 720,Konchu Vambraces X,Konchu Vambraces X,mh4g-dex-build7+mh4edit-mit-save-id,8,0
 721,Konchu Guards X,Konchu Guards X,mh4g-dex-build7+mh4edit-mit-save-id,8,0
 722,Rhenoplos Braces X,Rhenoplos Braces X,mh4g-dex-build7+mh4edit-mit-save-id,8,0
 723,Rhenoplos Guards X,Rhenoplos Guards X,mh4g-dex-build7+mh4edit-mit-save-id,8,0
-724,Hunter's Arms,Hunter's Arms,mh4edit-mit-save-id,0,0
-725,Hunter's Bands,Hunter's Bands,mh4edit-mit-save-id,0,0
-726,Alloy Arms,Alloy Arms,mh4edit-mit-save-id,0,0
-727,Alloy Bands,Alloy Bands,mh4edit-mit-save-id,0,0
+724,Hunter's Arms,Hunter's Arms,mh4g-armor-name-crosswalk+mh4edit-mit-save-id,0,1
+725,Hunter's Bands,Hunter's Bands,mh4g-armor-name-crosswalk+mh4edit-mit-save-id,0,1
+726,Alloy Arms,Alloy Arms,mh4g-armor-name-crosswalk+mh4edit-mit-save-id,0,1
+727,Alloy Bands,Alloy Bands,mh4g-armor-name-crosswalk+mh4edit-mit-save-id,0,1
 728,Artian Vambraces X,Artian Vambraces X,mh4g-dex-build7+mh4edit-mit-save-id,9,0
 729,Artian Guards X,Artian Guards X,mh4g-dex-build7+mh4edit-mit-save-id,9,0
-730,Arc Arms S,Arc Arms S,mh4edit-mit-save-id,0,0
-731,Arc Bands S,Arc Bands S,mh4edit-mit-save-id,0,0
-732,Ingot Arms,Ingot Arms,mh4edit-mit-save-id,0,0
-733,Ingot Bands,Ingot Bands,mh4edit-mit-save-id,0,0
+730,Arc Arms S,Arc Arms S,mh4g-armor-name-crosswalk+mh4edit-mit-save-id,0,1
+731,Arc Bands S,Arc Bands S,mh4g-armor-name-crosswalk+mh4edit-mit-save-id,0,1
+732,Ingot Arms,Ingot Arms,mh4g-armor-name-crosswalk+mh4edit-mit-save-id,0,1
+733,Ingot Bands,Ingot Bands,mh4g-armor-name-crosswalk+mh4edit-mit-save-id,0,1
 734,Guardian Vambraces X,Guardian Vambraces X,mh4g-dex-build7+mh4edit-mit-save-id,8,0
 735,Helper Sleeves X,Helper Sleeves X,mh4g-dex-build7+mh4edit-mit-save-id,8,0
 736,Guardian Guards X,Guardian Guards X,mh4g-dex-build7+mh4edit-mit-save-id,8,0
@@ -749,42 +749,42 @@ id,name,english,source,rarity,is_relic
 747,Sororal Vambraces,Sororal Vambraces,mh4g-dex-build7+mh4edit-mit-save-id,9,0
 748,Ace Guards,Ace Guards,mh4g-dex-build7+mh4edit-mit-save-id,9,0
 749,Sororal Guards,Sororal Guards,mh4g-dex-build7+mh4edit-mit-save-id,9,0
-750,Ceanataur Arms,Ceanataur Arms,mh4edit-mit-save-id,0,0
-751,Ceanataur Bands,Ceanataur Bands,mh4edit-mit-save-id,0,0
-752,Lagiacrus Arms,Lagiacrus Arms,mh4edit-mit-save-id,0,0
-753,Lagiacrus Bands,Lagiacrus Bands,mh4edit-mit-save-id,0,0
-754,Escadora Arms,Escadora Arms,mh4edit-mit-save-id,0,0
-755,Escadora Bands,Escadora Bands,mh4edit-mit-save-id,0,0
-756,Auroros Kermes Cuffs,Auroros Kermes Cuffs,mh4edit-mit-save-id,0,0
-757,Borealis Woad Cuffs,Borealis Woad Cuffs,mh4edit-mit-save-id,0,0
-758,Genesis Kermes Cuffs,Genesis Kermes Cuffs,mh4edit-mit-save-id,0,0
-759,Glyph Woad Cuffs,Glyph Woad Cuffs,mh4edit-mit-save-id,0,0
-760,Ludroth Arms,Ludroth Arms,mh4edit-mit-save-id,0,0
-761,Ludroth Bands,Ludroth Bands,mh4edit-mit-save-id,0,0
-762,Hornet Vambraces,Hornet Vambraces,mh4edit-mit-save-id,0,0
-763,Hornet Guards,Hornet Guards,mh4edit-mit-save-id,0,0
-764,Hornet Arms,Hornet Arms,mh4edit-mit-save-id,0,0
-765,Hornet Bands,Hornet Bands,mh4edit-mit-save-id,0,0
-766,Wroggi Vambraces,Wroggi Vambraces,mh4edit-mit-save-id,0,0
-767,Wroggi Guards,Wroggi Guards,mh4edit-mit-save-id,0,0
-768,Wroggi Arms,Wroggi Arms,mh4edit-mit-save-id,0,0
-769,Wroggi Bands,Wroggi Bands,mh4edit-mit-save-id,0,0
-770,Gigginox Vambraces,Gigginox Vambraces,mh4edit-mit-save-id,0,0
-771,Gigginox Guards,Gigginox Guards,mh4edit-mit-save-id,0,0
-772,Gigginox Arms,Gigginox Arms,mh4edit-mit-save-id,0,0
-773,Gigginox Bands,Gigginox Bands,mh4edit-mit-save-id,0,0
+750,Ceanataur Arms,Ceanataur Arms,mh4g-armor-name-crosswalk+mh4edit-mit-save-id,0,1
+751,Ceanataur Bands,Ceanataur Bands,mh4g-armor-name-crosswalk+mh4edit-mit-save-id,0,1
+752,Lagiacrus Arms,Lagiacrus Arms,mh4g-armor-name-crosswalk+mh4edit-mit-save-id,0,1
+753,Lagiacrus Bands,Lagiacrus Bands,mh4g-armor-name-crosswalk+mh4edit-mit-save-id,0,1
+754,Escadora Arms,Escadora Arms,mh4g-armor-name-crosswalk+mh4edit-mit-save-id,0,1
+755,Escadora Bands,Escadora Bands,mh4g-armor-name-crosswalk+mh4edit-mit-save-id,0,1
+756,Auroros Kermes Cuffs,Auroros Kermes Cuffs,mh4g-armor-name-crosswalk+mh4edit-mit-save-id,0,1
+757,Borealis Woad Cuffs,Borealis Woad Cuffs,mh4g-armor-name-crosswalk+mh4edit-mit-save-id,0,1
+758,Genesis Kermes Cuffs,Genesis Kermes Cuffs,mh4g-armor-name-crosswalk+mh4edit-mit-save-id,0,1
+759,Glyph Woad Cuffs,Glyph Woad Cuffs,mh4g-armor-name-crosswalk+mh4edit-mit-save-id,0,1
+760,Ludroth Arms,Ludroth Arms,mh4g-armor-name-crosswalk+mh4edit-mit-save-id,0,1
+761,Ludroth Bands,Ludroth Bands,mh4g-armor-name-crosswalk+mh4edit-mit-save-id,0,1
+762,Hornet Vambraces,Hornet Vambraces,mh4g-armor-name-crosswalk+mh4edit-mit-save-id,0,1
+763,Hornet Guards,Hornet Guards,mh4g-armor-name-crosswalk+mh4edit-mit-save-id,0,1
+764,Hornet Arms,Hornet Arms,mh4g-armor-name-crosswalk+mh4edit-mit-save-id,0,1
+765,Hornet Bands,Hornet Bands,mh4g-armor-name-crosswalk+mh4edit-mit-save-id,0,1
+766,Wroggi Vambraces,Wroggi Vambraces,mh4g-armor-name-crosswalk+mh4edit-mit-save-id,0,1
+767,Wroggi Guards,Wroggi Guards,mh4g-armor-name-crosswalk+mh4edit-mit-save-id,0,1
+768,Wroggi Arms,Wroggi Arms,mh4g-armor-name-crosswalk+mh4edit-mit-save-id,0,1
+769,Wroggi Bands,Wroggi Bands,mh4g-armor-name-crosswalk+mh4edit-mit-save-id,0,1
+770,Gigginox Vambraces,Gigginox Vambraces,mh4g-armor-name-crosswalk+mh4edit-mit-save-id,0,1
+771,Gigginox Guards,Gigginox Guards,mh4g-armor-name-crosswalk+mh4edit-mit-save-id,0,1
+772,Gigginox Arms,Gigginox Arms,mh4g-armor-name-crosswalk+mh4edit-mit-save-id,0,1
+773,Gigginox Bands,Gigginox Bands,mh4g-armor-name-crosswalk+mh4edit-mit-save-id,0,1
 774,Tempest Sleeves,Tempest Sleeves,mh4g-dex-build7+mh4edit-mit-save-id,10,0
 775,Welkin Sleeves,Welkin Sleeves,mh4g-dex-build7+mh4edit-mit-save-id,10,0
-776,Tempest Trails,Tempest Trails,mh4edit-mit-save-id,0,0
-777,Welkin Trails,Welkin Trails,mh4edit-mit-save-id,0,0
-778,Death Stench Grip,Death Stench Grip,mh4edit-mit-save-id,0,0
-779,Death Stench Grasp,Death Stench Grasp,mh4edit-mit-save-id,0,0
-780,Death Stench Arms,Death Stench Arms,mh4edit-mit-save-id,0,0
-781,Death Stench Bands,Death Stench Bands,mh4edit-mit-save-id,0,0
-782,Damascus Vambraces,Damascus Vambraces,mh4edit-mit-save-id,0,0
-783,Damascus Guards,Damascus Guards,mh4edit-mit-save-id,0,0
-784,Damascus Arms,Damascus Arms,mh4edit-mit-save-id,0,0
-785,Damascus Bands,Damascus Bands,mh4edit-mit-save-id,0,0
+776,Tempest Trails,Tempest Trails,mh4g-armor-name-crosswalk+mh4edit-mit-save-id,0,1
+777,Welkin Trails,Welkin Trails,mh4g-armor-name-crosswalk+mh4edit-mit-save-id,0,1
+778,Death Stench Grip,Death Stench Grip,mh4g-armor-name-crosswalk+mh4edit-mit-save-id,0,1
+779,Death Stench Grasp,Death Stench Grasp,mh4g-armor-name-crosswalk+mh4edit-mit-save-id,0,1
+780,Death Stench Arms,Death Stench Arms,mh4g-armor-name-crosswalk+mh4edit-mit-save-id,0,1
+781,Death Stench Bands,Death Stench Bands,mh4g-armor-name-crosswalk+mh4edit-mit-save-id,0,1
+782,Damascus Vambraces,Damascus Vambraces,mh4g-armor-name-crosswalk+mh4edit-mit-save-id,0,1
+783,Damascus Guards,Damascus Guards,mh4g-armor-name-crosswalk+mh4edit-mit-save-id,0,1
+784,Damascus Arms,Damascus Arms,mh4g-armor-name-crosswalk+mh4edit-mit-save-id,0,1
+785,Damascus Bands,Damascus Bands,mh4g-armor-name-crosswalk+mh4edit-mit-save-id,0,1
 786,Lagiacrus Braces X,Lagiacrus Braces X,mh4g-dex-build7+mh4edit-mit-save-id,9,0
 787,Lagiacrus Guards X,Lagiacrus Guards X,mh4g-dex-build7+mh4edit-mit-save-id,9,0
 788,Nargacuga Braces X,Nargacuga Braces X,mh4g-dex-build7+mh4edit-mit-save-id,9,0
@@ -841,10 +841,10 @@ id,name,english,source,rarity,is_relic
 839,EX Glyph Gauntlets,EX Glyph Gauntlets,mh4g-dex-build7+mh4edit-mit-save-id,10,0
 840,Tempest Sleeves,Tempest Sleeves,mh4g-dex-build7+mh4edit-mit-save-id,10,0
 841,Welkin Sleeves,Welkin Sleeves,mh4g-dex-build7+mh4edit-mit-save-id,10,0
-842,GX Escadora Arms,GX Escadora Arms,mh4edit-mit-save-id,0,0
-843,GX Escadora Bands,GX Escadora Bands,mh4edit-mit-save-id,0,0
-844,GX Dragonarms X,GX Dragonarms X,mh4edit-mit-save-id,0,0
-845,GX Dragonbands X,GX Dragonbands X,mh4edit-mit-save-id,0,0
+842,GX Escadora Arms,GX Escadora Arms,mh4g-armor-name-crosswalk+mh4edit-mit-save-id,0,1
+843,GX Escadora Bands,GX Escadora Bands,mh4g-armor-name-crosswalk+mh4edit-mit-save-id,0,1
+844,GX Dragonarms X,GX Dragonarms X,mh4g-armor-name-crosswalk+mh4edit-mit-save-id,0,1
+845,GX Dragonbands X,GX Dragonbands X,mh4g-armor-name-crosswalk+mh4edit-mit-save-id,0,1
 846,Star Knight Vambraces,Star Knight Vambraces,mh4g-dex-build7+mh4edit-mit-save-id,10,0
 847,Star Knight Guards,Star Knight Guards,mh4g-dex-build7+mh4edit-mit-save-id,10,0
 848,Braces of Rage,Braces of Rage,mh4g-dex-build7+mh4edit-mit-save-id,10,0
@@ -937,21 +937,21 @@ id,name,english,source,rarity,is_relic
 935,Kirin Gloves U,Kirin Gloves U,mh4g-dex-build7+mh4edit-mit-save-id,7,0
 936,Esurient Vambraces,Esurient Vambraces,mh4g-dex-build7+mh4edit-mit-save-id,7,0
 937,Esurient Guards,Esurient Guards,mh4g-dex-build7+mh4edit-mit-save-id,7,0
-938,Monoblos Vambraces,Monoblos Vambraces,mh4edit-mit-save-id,0,0
-939,Monoblos Guards,Monoblos Guards,mh4edit-mit-save-id,0,0
-940,Hornet Vambraces,Hornet Vambraces,mh4edit-mit-save-id,0,0
-941,Hornet Guards,Hornet Guards,mh4edit-mit-save-id,0,0
-942,Wroggi Vambraces,Wroggi Vambraces,mh4edit-mit-save-id,0,0
-943,Wroggi Guards,Wroggi Guards,mh4edit-mit-save-id,0,0
+938,Monoblos Vambraces,Monoblos Vambraces,mh4g-armor-name-crosswalk+mh4edit-mit-save-id,0,1
+939,Monoblos Guards,Monoblos Guards,mh4g-armor-name-crosswalk+mh4edit-mit-save-id,0,1
+940,Hornet Vambraces,Hornet Vambraces,mh4g-armor-name-crosswalk+mh4edit-mit-save-id,0,1
+941,Hornet Guards,Hornet Guards,mh4g-armor-name-crosswalk+mh4edit-mit-save-id,0,1
+942,Wroggi Vambraces,Wroggi Vambraces,mh4g-armor-name-crosswalk+mh4edit-mit-save-id,0,1
+943,Wroggi Guards,Wroggi Guards,mh4g-armor-name-crosswalk+mh4edit-mit-save-id,0,1
 944,Monodevil Vambraces,Monodevil Vambraces,mh4g-dex-build7+mh4edit-mit-save-id,9,0
 945,Monodevil Guards,Monodevil Guards,mh4g-dex-build7+mh4edit-mit-save-id,9,0
 946,Diablos Vambraces,Diablos Vambraces,mh4g-dex-build7+mh4edit-mit-save-id,3,0
 947,Diablos Guards,Diablos Guards,mh4g-dex-build7+mh4edit-mit-save-id,3,0
-948,Gigginox Vambraces,Gigginox Vambraces,mh4edit-mit-save-id,0,0
-949,Gigginox Guards,Gigginox Guards,mh4edit-mit-save-id,0,0
-950,Death Stench Grip,Death Stench Grip,mh4edit-mit-save-id,0,0
-951,Death Stench Grasp,Death Stench Grasp,mh4edit-mit-save-id,0,0
-952,Damascus Vambraces,Damascus Vambraces,mh4edit-mit-save-id,0,0
-953,Damascus Guards,Damascus Guards,mh4edit-mit-save-id,0,0
+948,Gigginox Vambraces,Gigginox Vambraces,mh4g-armor-name-crosswalk+mh4edit-mit-save-id,0,1
+949,Gigginox Guards,Gigginox Guards,mh4g-armor-name-crosswalk+mh4edit-mit-save-id,0,1
+950,Death Stench Grip,Death Stench Grip,mh4g-armor-name-crosswalk+mh4edit-mit-save-id,0,1
+951,Death Stench Grasp,Death Stench Grasp,mh4g-armor-name-crosswalk+mh4edit-mit-save-id,0,1
+952,Damascus Vambraces,Damascus Vambraces,mh4g-armor-name-crosswalk+mh4edit-mit-save-id,0,1
+953,Damascus Guards,Damascus Guards,mh4g-armor-name-crosswalk+mh4edit-mit-save-id,0,1
 954,DUMMY,DUMMY,mh4edit-mit-save-id,0,0
 955,DUMMY,DUMMY,mh4edit-mit-save-id,0,0

@@ -1,16 +1,16 @@
 id,name,english,source,rarity,is_relic
 0,无,None,mh4g-save-format,0,0
-1,Pawn Talisman,Pawn Talisman,mh4edit-mit-save-id-en-fallback,0,0
-2,Bishop Talisman,Bishop Talisman,mh4edit-mit-save-id-en-fallback,0,0
-3,Knight Talisman,Knight Talisman,mh4edit-mit-save-id-en-fallback,0,0
-4,Rook Talisman,Rook Talisman,mh4edit-mit-save-id-en-fallback,0,0
-5,Queen Talisman,Queen Talisman,mh4edit-mit-save-id-en-fallback,0,0
-6,King Talisman,King Talisman,mh4edit-mit-save-id-en-fallback,0,0
-7,Dragon Talisman,Dragon Talisman,mh4edit-mit-save-id-en-fallback,0,0
-8,Unknown Talisman,Unknown Talisman,mh4edit-mit-save-id-en-fallback,0,0
-9,Mystic Talisman,Mystic Talisman,mh4edit-mit-save-id-en-fallback,0,0
-10,Hero Talisman,Hero Talisman,mh4edit-mit-save-id-en-fallback,0,0
-11,Legend Talisman,Legend Talisman,mh4edit-mit-save-id-en-fallback,0,0
-12,Creator Talisman,Creator Talisman,mh4edit-mit-save-id-en-fallback,0,0
-13,Sage Talisman,Sage Talisman,mh4edit-mit-save-id-en-fallback,0,0
-14,Miracle Talisman,Miracle Talisman,mh4edit-mit-save-id-en-fallback,0,0
+1,士兵护石,Pawn Talisman,mh4g-talisman-name-crosswalk,0,0
+2,斗士护石,Bishop Talisman,mh4g-talisman-name-crosswalk,0,0
+3,骑士护石,Knight Talisman,mh4g-talisman-name-crosswalk,0,0
+4,城塞护石,Rook Talisman,mh4g-talisman-name-crosswalk,0,0
+5,女王护石,Queen Talisman,mh4g-talisman-name-crosswalk,0,0
+6,国王护石,King Talisman,mh4g-talisman-name-crosswalk,0,0
+7,龙之护石,Dragon Talisman,mh4g-talisman-name-crosswalk,0,0
+8,未知护石,Unknown Talisman,mh4g-talisman-name-crosswalk,0,0
+9,神秘护石,Mystic Talisman,mh4g-talisman-name-crosswalk,0,0
+10,英雄护石,Hero Talisman,mh4g-talisman-name-crosswalk,0,0
+11,传说护石,Legend Talisman,mh4g-talisman-name-crosswalk,0,0
+12,天之护石,Creator Talisman,mh4g-talisman-name-crosswalk,0,0
+13,贤者护石,Sage Talisman,mh4g-talisman-name-crosswalk,0,0
+14,奇迹护石,Miracle Talisman,mh4g-talisman-name-crosswalk,0,0

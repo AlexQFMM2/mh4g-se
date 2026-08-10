@@ -35,3 +35,13 @@ English-name join alone:
 
 The upstream `MHsavEditor` equipment list was used only to verify factual
 save-ID/Japanese-name correspondence. Its code and data are not redistributed.
+
+## MH4G relic-armor name crosswalk
+
+`mh4g_armor_name_crosswalk.json` supplies reviewed Simplified Chinese series
+and part-name mappings for relic-armor appearance IDs. These save-local names
+do not exist as standalone rows in the Dex armor table. The mapping is exact
+and deterministic: it recognizes only the listed series and suffixes and does
+not use fuzzy matching. Generated names include `（发掘）` so they cannot be
+confused with normal craftable armor. Placeholder `DUMMY` rows remain in the
+dataset for lossless save coverage and are hidden by the UI.

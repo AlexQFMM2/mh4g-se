@@ -96,6 +96,62 @@ static inline QString displayNameWithoutSearchSuffix(const QString &name)
     return name.trimmed();
 }
 
+static inline bool isPlaceholderEquipmentName(const QString &name)
+{
+    QString normalized = name.trimmed();
+    return normalized.isEmpty()
+        || normalized == "---"
+        || normalized.startsWith("DUMMY", Qt::CaseInsensitive);
+}
+
+static inline QString preservedPlaceholderEquipmentName(uint32_t identifier)
+{
+    return QString::fromUtf8("占位装备 #%1（保留原值）").arg(identifier);
+}
+
+static inline void populateEquipmentIdentifierComboBox(
+    QComboBox *comboBox,
+    const dataset_t *dataset,
+    uint32_t currentIdentifier)
+{
+    if (comboBox == NULL || dataset == NULL)
+    {
+        return;
+    }
+
+    bool currentFound = currentIdentifier == 0;
+    for (uint32_t i = 0; i < dataset->size(); i++)
+    {
+        uint32_t identifier = dataset->at(i).count;
+        if (identifier == 0)
+        {
+            continue;
+        }
+
+        QString name(dataset->at(i).identifier.c_str());
+        if (isPlaceholderEquipmentName(name))
+        {
+            if (identifier == currentIdentifier)
+            {
+                comboBox->addItem(preservedPlaceholderEquipmentName(identifier), identifier);
+                currentFound = true;
+            }
+            continue;
+        }
+
+        comboBox->addItem(name, identifier);
+        currentFound = currentFound || identifier == currentIdentifier;
+    }
+
+    if (currentIdentifier != 0 && !currentFound)
+    {
+        comboBox->addItem(
+            QString::fromUtf8("未知装备 #%1（保留原值）").arg(currentIdentifier),
+            currentIdentifier
+        );
+    }
+}
+
 static inline QString compactDisplayName(const QString &name)
 {
     QString displayName = displayNameWithoutSearchSuffix(name);

@@ -539,26 +539,26 @@ id,name,english,source,rarity,is_relic
 537,Seltas Cap Z,Seltas Cap Z,mh4g-dex-build7+mh4edit-mit-save-id,9,0
 538,Gore Helm X,Gore Helm X,mh4g-dex-build7+mh4edit-mit-save-id,9,0
 539,Gore Cap X,Gore Cap X,mh4g-dex-build7+mh4edit-mit-save-id,9,0
-540,Gore Casque,Gore Casque,mh4edit-mit-save-id,0,0
-541,Gore Coif,Gore Coif,mh4edit-mit-save-id,0,0
+540,Gore Casque,Gore Casque,mh4g-armor-name-crosswalk+mh4edit-mit-save-id,0,1
+541,Gore Coif,Gore Coif,mh4g-armor-name-crosswalk+mh4edit-mit-save-id,0,1
 542,Arc Helm X,Arc Helm X,mh4g-dex-build7+mh4edit-mit-save-id,10,0
 543,Storge Helm X,Storge Helm X,mh4g-dex-build7+mh4edit-mit-save-id,10,0
 544,Arc Cap X,Arc Cap X,mh4g-dex-build7+mh4edit-mit-save-id,10,0
 545,Storge Cap X,Storge Cap X,mh4g-dex-build7+mh4edit-mit-save-id,10,0
-546,Arc Casque,Arc Casque,mh4edit-mit-save-id,0,0
-547,Storge Casque,Storge Casque,mh4edit-mit-save-id,0,0
-548,Arc Coif,Arc Coif,mh4edit-mit-save-id,0,0
-549,Storge Coif,Storge Coif,mh4edit-mit-save-id,0,0
+546,Arc Casque,Arc Casque,mh4g-armor-name-crosswalk+mh4edit-mit-save-id,0,1
+547,Storge Casque,Storge Casque,mh4g-armor-name-crosswalk+mh4edit-mit-save-id,0,1
+548,Arc Coif,Arc Coif,mh4g-armor-name-crosswalk+mh4edit-mit-save-id,0,1
+549,Storge Coif,Storge Coif,mh4g-armor-name-crosswalk+mh4edit-mit-save-id,0,1
 550,Gogma Helm,Gogma Helm,mh4g-dex-build7+mh4edit-mit-save-id,10,0
 551,Gogma Cap,Gogma Cap,mh4g-dex-build7+mh4edit-mit-save-id,10,0
 552,Gypceros Helm X,Gypceros Helm X,mh4g-dex-build7+mh4edit-mit-save-id,8,0
 553,Gypceros Cap X,Gypceros Cap X,mh4g-dex-build7+mh4edit-mit-save-id,8,0
-554,Gypceros Casque,Gypceros Casque,mh4edit-mit-save-id,0,0
-555,Gypceros Coif,Gypceros Coif,mh4edit-mit-save-id,0,0
+554,Gypceros Casque,Gypceros Casque,mh4g-armor-name-crosswalk+mh4edit-mit-save-id,0,1
+555,Gypceros Coif,Gypceros Coif,mh4g-armor-name-crosswalk+mh4edit-mit-save-id,0,1
 556,Gypceros Helm Z,Gypceros Helm Z,mh4g-dex-build7+mh4edit-mit-save-id,8,0
 557,Gypceros Cap Z,Gypceros Cap Z,mh4g-dex-build7+mh4edit-mit-save-id,8,0
-558,Gypceros Casque U,Gypceros Casque U,mh4edit-mit-save-id,0,0
-559,Gypceros Coif U,Gypceros Coif U,mh4edit-mit-save-id,0,0
+558,Gypceros Casque U,Gypceros Casque U,mh4g-armor-name-crosswalk+mh4edit-mit-save-id,0,1
+559,Gypceros Coif U,Gypceros Coif U,mh4g-armor-name-crosswalk+mh4edit-mit-save-id,0,1
 560,Lagombi Helm X,Lagombi Helm X,mh4g-dex-build7+mh4edit-mit-save-id,8,0
 561,Lagombi Cap X,Lagombi Cap X,mh4g-dex-build7+mh4edit-mit-save-id,8,0
 562,Conga Helm X,Conga Helm X,mh4g-dex-build7+mh4edit-mit-save-id,8,0
@@ -567,48 +567,48 @@ id,name,english,source,rarity,is_relic
 565,Conga Cap Z,Conga Cap Z,mh4g-dex-build7+mh4edit-mit-save-id,8,0
 566,Khezu Helm X,Khezu Helm X,mh4g-dex-build7+mh4edit-mit-save-id,8,0
 567,Khezu Cap X,Khezu Cap X,mh4g-dex-build7+mh4edit-mit-save-id,8,0
-568,Khezu Casque,Khezu Casque,mh4edit-mit-save-id,0,0
-569,Khezu Coif,Khezu Coif,mh4edit-mit-save-id,0,0
+568,Khezu Casque,Khezu Casque,mh4g-armor-name-crosswalk+mh4edit-mit-save-id,0,1
+569,Khezu Coif,Khezu Coif,mh4g-armor-name-crosswalk+mh4edit-mit-save-id,0,1
 570,Khezu Helm Z,Khezu Helm Z,mh4g-dex-build7+mh4edit-mit-save-id,8,0
 571,Khezu Cap Z,Khezu Cap Z,mh4g-dex-build7+mh4edit-mit-save-id,8,0
-572,Khezu Casque U,Khezu Casque U,mh4edit-mit-save-id,0,0
-573,Khezu Coif U,Khezu Coif U,mh4edit-mit-save-id,0,0
+572,Khezu Casque U,Khezu Casque U,mh4g-armor-name-crosswalk+mh4edit-mit-save-id,0,1
+573,Khezu Coif U,Khezu Coif U,mh4g-armor-name-crosswalk+mh4edit-mit-save-id,0,1
 574,Rathian Helm X,Rathian Helm X,mh4g-dex-build7+mh4edit-mit-save-id,8,0
 575,Rathian Cap X,Rathian Cap X,mh4g-dex-build7+mh4edit-mit-save-id,8,0
-576,Rathian Casque,Rathian Casque,mh4edit-mit-save-id,0,0
-577,Rathian Coif,Rathian Coif,mh4edit-mit-save-id,0,0
+576,Rathian Casque,Rathian Casque,mh4g-armor-name-crosswalk+mh4edit-mit-save-id,0,1
+577,Rathian Coif,Rathian Coif,mh4g-armor-name-crosswalk+mh4edit-mit-save-id,0,1
 578,Rath Heart Helm Z,Rath Heart Helm Z,mh4g-dex-build7+mh4edit-mit-save-id,8,0
 579,Rath Heart Cap Z,Rath Heart Cap Z,mh4g-dex-build7+mh4edit-mit-save-id,8,0
-580,Rath Heart Casque,Rath Heart Casque,mh4edit-mit-save-id,0,0
-581,Rath Heart Coif,Rath Heart Coif,mh4edit-mit-save-id,0,0
+580,Rath Heart Casque,Rath Heart Casque,mh4g-armor-name-crosswalk+mh4edit-mit-save-id,0,1
+581,Rath Heart Coif,Rath Heart Coif,mh4g-armor-name-crosswalk+mh4edit-mit-save-id,0,1
 582,Golden Lunehelm Z,Golden Lunehelm Z,mh4g-dex-build7+mh4edit-mit-save-id,10,0
 583,Golden Lunecap Z,Golden Lunecap Z,mh4g-dex-build7+mh4edit-mit-save-id,10,0
 584,Rathalos Helm X,Rathalos Helm X,mh4g-dex-build7+mh4edit-mit-save-id,9,0
 585,Rathalos Cap X,Rathalos Cap X,mh4g-dex-build7+mh4edit-mit-save-id,9,0
-586,Rathalos Casque,Rathalos Casque,mh4edit-mit-save-id,0,0
-587,Rathalos Coif,Rathalos Coif,mh4edit-mit-save-id,0,0
+586,Rathalos Casque,Rathalos Casque,mh4g-armor-name-crosswalk+mh4edit-mit-save-id,0,1
+587,Rathalos Coif,Rathalos Coif,mh4g-armor-name-crosswalk+mh4edit-mit-save-id,0,1
 588,Rath Soul Helm Z,Rath Soul Helm Z,mh4g-dex-build7+mh4edit-mit-save-id,9,0
 589,Rath Soul Cap Z,Rath Soul Cap Z,mh4g-dex-build7+mh4edit-mit-save-id,9,0
-590,Rath Soul Casque,Rath Soul Casque,mh4edit-mit-save-id,0,0
-591,Rath Soul Coif,Rath Soul Coif,mh4edit-mit-save-id,0,0
+590,Rath Soul Casque,Rath Soul Casque,mh4g-armor-name-crosswalk+mh4edit-mit-save-id,0,1
+591,Rath Soul Coif,Rath Soul Coif,mh4g-armor-name-crosswalk+mh4edit-mit-save-id,0,1
 592,Silver Solhelm Z,Silver Solhelm Z,mh4g-dex-build7+mh4edit-mit-save-id,10,0
 593,Silver Solcap Z,Silver Solcap Z,mh4g-dex-build7+mh4edit-mit-save-id,10,0
-594,Silver Solcasque,Silver Solcasque,mh4edit-mit-save-id,0,0
-595,Silver Solcoif,Silver Solcoif,mh4edit-mit-save-id,0,0
+594,Silver Solcasque,Silver Solcasque,mh4g-armor-name-crosswalk+mh4edit-mit-save-id,0,1
+595,Silver Solcoif,Silver Solcoif,mh4g-armor-name-crosswalk+mh4edit-mit-save-id,0,1
 596,Zinogre Helm X,Zinogre Helm X,mh4g-dex-build7+mh4edit-mit-save-id,9,0
 597,Zinogre Cap X,Zinogre Cap X,mh4g-dex-build7+mh4edit-mit-save-id,9,0
 598,Zinogre Helm Z,Zinogre Helm Z,mh4g-dex-build7+mh4edit-mit-save-id,9,0
 599,Zinogre Cap Z,Zinogre Cap Z,mh4g-dex-build7+mh4edit-mit-save-id,9,0
-600,Zinogre Casque U,Zinogre Casque U,mh4edit-mit-save-id,0,0
-601,Zinogre Coif U,Zinogre Coif U,mh4edit-mit-save-id,0,0
+600,Zinogre Casque U,Zinogre Casque U,mh4g-armor-name-crosswalk+mh4edit-mit-save-id,0,1
+601,Zinogre Coif U,Zinogre Coif U,mh4g-armor-name-crosswalk+mh4edit-mit-save-id,0,1
 602,Tigrex Helm X,Tigrex Helm X,mh4g-dex-build7+mh4edit-mit-save-id,9,0
 603,Tigrex Cap X,Tigrex Cap X,mh4g-dex-build7+mh4edit-mit-save-id,9,0
-604,Tigrex Casque,Tigrex Casque,mh4edit-mit-save-id,0,0
-605,Tigrex Coif,Tigrex Coif,mh4edit-mit-save-id,0,0
+604,Tigrex Casque,Tigrex Casque,mh4g-armor-name-crosswalk+mh4edit-mit-save-id,0,1
+605,Tigrex Coif,Tigrex Coif,mh4g-armor-name-crosswalk+mh4edit-mit-save-id,0,1
 606,Tigrex Helm Z,Tigrex Helm Z,mh4g-dex-build7+mh4edit-mit-save-id,9,0
 607,Tigrex Cap Z,Tigrex Cap Z,mh4g-dex-build7+mh4edit-mit-save-id,9,0
-608,Tigrex Casque U,Tigrex Casque U,mh4edit-mit-save-id,0,0
-609,Tigrex Coif U,Tigrex Coif U,mh4edit-mit-save-id,0,0
+608,Tigrex Casque U,Tigrex Casque U,mh4g-armor-name-crosswalk+mh4edit-mit-save-id,0,1
+609,Tigrex Coif U,Tigrex Coif U,mh4g-armor-name-crosswalk+mh4edit-mit-save-id,0,1
 610,Excello Helm Z,Excello Helm Z,mh4g-dex-build7+mh4edit-mit-save-id,10,0
 611,Excello Cap Z,Excello Cap Z,mh4g-dex-build7+mh4edit-mit-save-id,10,0
 612,Gravios Helm X,Gravios Helm X,mh4g-dex-build7+mh4edit-mit-save-id,9,0
@@ -623,30 +623,30 @@ id,name,english,source,rarity,is_relic
 621,Grand Adamance Helm,Grand Adamance Helm,mh4g-dex-build7+mh4edit-mit-save-id,10,0
 622,Grand Dayspring Helm,Grand Dayspring Helm,mh4g-dex-build7+mh4edit-mit-save-id,10,0
 623,Grand Epoch Helm,Grand Epoch Helm,mh4g-dex-build7+mh4edit-mit-save-id,10,0
-624,Gloaming Redhelm,Gloaming Redhelm,mh4edit-mit-save-id,0,0
-625,Adamance Redhelm,Adamance Redhelm,mh4edit-mit-save-id,0,0
-626,Dayspring Redhelm,Dayspring Redhelm,mh4edit-mit-save-id,0,0
-627,Epoch Redhelm,Epoch Redhelm,mh4edit-mit-save-id,0,0
+624,Gloaming Redhelm,Gloaming Redhelm,mh4g-armor-name-crosswalk+mh4edit-mit-save-id,0,1
+625,Adamance Redhelm,Adamance Redhelm,mh4g-armor-name-crosswalk+mh4edit-mit-save-id,0,1
+626,Dayspring Redhelm,Dayspring Redhelm,mh4g-armor-name-crosswalk+mh4edit-mit-save-id,0,1
+627,Epoch Redhelm,Epoch Redhelm,mh4g-armor-name-crosswalk+mh4edit-mit-save-id,0,1
 628,Vangis Helm X,Vangis Helm X,mh4g-dex-build7+mh4edit-mit-save-id,9,0
 629,Vangis Cap X,Vangis Cap X,mh4g-dex-build7+mh4edit-mit-save-id,9,0
 630,Esurient Helm Z,Esurient Helm Z,mh4g-dex-build7+mh4edit-mit-save-id,10,0
 631,Esurient Cap Z,Esurient Cap Z,mh4g-dex-build7+mh4edit-mit-save-id,10,0
-632,Esurient Casque,Esurient Casque,mh4edit-mit-save-id,0,0
-633,Esurient Coif,Esurient Coif,mh4edit-mit-save-id,0,0
+632,Esurient Casque,Esurient Casque,mh4g-armor-name-crosswalk+mh4edit-mit-save-id,0,1
+633,Esurient Coif,Esurient Coif,mh4g-armor-name-crosswalk+mh4edit-mit-save-id,0,1
 634,Kaiser Crown X,Kaiser Crown X,mh4g-dex-build7+mh4edit-mit-save-id,10,0
 635,Kaiser Mask X,Kaiser Mask X,mh4g-dex-build7+mh4edit-mit-save-id,10,0
 636,Akantor Mask X,Akantor Mask X,mh4g-dex-build7+mh4edit-mit-save-id,10,0
 637,Akantor Fangs X,Akantor Fangs X,mh4g-dex-build7+mh4edit-mit-save-id,10,0
-638,Akantor Casque,Akantor Casque,mh4edit-mit-save-id,0,0
-639,Akantor Coif,Akantor Coif,mh4edit-mit-save-id,0,0
+638,Akantor Casque,Akantor Casque,mh4g-armor-name-crosswalk+mh4edit-mit-save-id,0,1
+639,Akantor Coif,Akantor Coif,mh4g-armor-name-crosswalk+mh4edit-mit-save-id,0,1
 640,EX Escadora Wisdom,EX Escadora Wisdom,mh4g-dex-build7+mh4edit-mit-save-id,10,0
 641,EX Escadora Sagesse,EX Escadora Sagesse,mh4g-dex-build7+mh4edit-mit-save-id,10,0
 642,Ukanlos Mask X,Ukanlos Mask X,mh4g-dex-build7+mh4edit-mit-save-id,10,0
 643,Ukanlos Fangs X,Ukanlos Fangs X,mh4g-dex-build7+mh4edit-mit-save-id,10,0
 644,Kushala Glare X,Kushala Glare X,mh4g-dex-build7+mh4edit-mit-save-id,10,0
 645,Kushala Snarl X,Kushala Snarl X,mh4g-dex-build7+mh4edit-mit-save-id,10,0
-646,Kushala Casque,Kushala Casque,mh4edit-mit-save-id,0,0
-647,Kushala Coif,Kushala Coif,mh4edit-mit-save-id,0,0
+646,Kushala Casque,Kushala Casque,mh4g-armor-name-crosswalk+mh4edit-mit-save-id,0,1
+647,Kushala Coif,Kushala Coif,mh4g-armor-name-crosswalk+mh4edit-mit-save-id,0,1
 648,Kujula Glare,Kujula Glare,mh4g-dex-build7+mh4edit-mit-save-id,10,0
 649,Kujula Snarl,Kujula Snarl,mh4g-dex-build7+mh4edit-mit-save-id,10,0
 650,Grand God's Peer Mask,Grand God's Peer Mask,mh4g-dex-build7+mh4edit-mit-save-id,10,0
@@ -655,48 +655,48 @@ id,name,english,source,rarity,is_relic
 653,Grand Crusher Mask,Grand Crusher Mask,mh4g-dex-build7+mh4edit-mit-save-id,10,0
 654,Rebellion Helm X,Rebellion Helm X,mh4g-dex-build7+mh4edit-mit-save-id,10,0
 655,Riot Cap X,Riot Cap X,mh4g-dex-build7+mh4edit-mit-save-id,10,0
-656,Rebellion Casque,Rebellion Casque,mh4edit-mit-save-id,0,0
-657,Riot Coif,Riot Coif,mh4edit-mit-save-id,0,0
+656,Rebellion Casque,Rebellion Casque,mh4g-armor-name-crosswalk+mh4edit-mit-save-id,0,1
+657,Riot Coif,Riot Coif,mh4g-armor-name-crosswalk+mh4edit-mit-save-id,0,1
 658,Rebellion Helm Z,Rebellion Helm Z,mh4g-dex-build7+mh4edit-mit-save-id,10,0
 659,Riot Cap Z,Riot Cap Z,mh4g-dex-build7+mh4edit-mit-save-id,10,0
 660,Cephalos Helm X,Cephalos Helm X,mh4g-dex-build7+mh4edit-mit-save-id,8,0
 661,Cephalos Cap X,Cephalos Cap X,mh4g-dex-build7+mh4edit-mit-save-id,8,0
 662,Hermitaur Helm X,Hermitaur Helm X,mh4g-dex-build7+mh4edit-mit-save-id,8,0
 663,Hermitaur Cap X,Hermitaur Cap X,mh4g-dex-build7+mh4edit-mit-save-id,8,0
-664,Hermitaur Casque,Hermitaur Casque,mh4edit-mit-save-id,0,0
-665,Hermitaur Coif,Hermitaur Coif,mh4edit-mit-save-id,0,0
+664,Hermitaur Casque,Hermitaur Casque,mh4g-armor-name-crosswalk+mh4edit-mit-save-id,0,1
+665,Hermitaur Coif,Hermitaur Coif,mh4g-armor-name-crosswalk+mh4edit-mit-save-id,0,1
 666,Hermitaur Helm Z,Hermitaur Helm Z,mh4g-dex-build7+mh4edit-mit-save-id,8,0
 667,Hermitaur Cap Z,Hermitaur Cap Z,mh4g-dex-build7+mh4edit-mit-save-id,8,0
 668,Mono Helm S,Mono Helm S,mh4g-dex-build7+mh4edit-mit-save-id,5,0
 669,Mono Cap S,Mono Cap S,mh4g-dex-build7+mh4edit-mit-save-id,5,0
 670,Mono Helm X,Mono Helm X,mh4g-dex-build7+mh4edit-mit-save-id,9,0
 671,Mono Cap X,Mono Cap X,mh4g-dex-build7+mh4edit-mit-save-id,9,0
-672,Mono Helm,Mono Helm,mh4edit-mit-save-id,0,0
-673,Mono Cap,Mono Cap,mh4edit-mit-save-id,0,0
-674,Mono Casque,Mono Casque,mh4edit-mit-save-id,0,0
-675,Mono Coif,Mono Coif,mh4edit-mit-save-id,0,0
+672,Mono Helm,Mono Helm,mh4g-armor-name-crosswalk+mh4edit-mit-save-id,0,1
+673,Mono Cap,Mono Cap,mh4g-armor-name-crosswalk+mh4edit-mit-save-id,0,1
+674,Mono Casque,Mono Casque,mh4g-armor-name-crosswalk+mh4edit-mit-save-id,0,1
+675,Mono Coif,Mono Coif,mh4g-armor-name-crosswalk+mh4edit-mit-save-id,0,1
 676,Monodevil Helm,Monodevil Helm,mh4g-dex-build7+mh4edit-mit-save-id,9,0
 677,Monodevil Cap,Monodevil Cap,mh4g-dex-build7+mh4edit-mit-save-id,9,0
 678,Monodevil Helm,Monodevil Helm,mh4g-dex-build7+mh4edit-mit-save-id,9,0
 679,Monodevil Cap,Monodevil Cap,mh4g-dex-build7+mh4edit-mit-save-id,9,0
-680,Monodevil Casque,Monodevil Casque,mh4edit-mit-save-id,0,0
-681,Monodevil Coif,Monodevil Coif,mh4edit-mit-save-id,0,0
+680,Monodevil Casque,Monodevil Casque,mh4g-armor-name-crosswalk+mh4edit-mit-save-id,0,1
+681,Monodevil Coif,Monodevil Coif,mh4g-armor-name-crosswalk+mh4edit-mit-save-id,0,1
 682,Diablos Helm X,Diablos Helm X,mh4g-dex-build7+mh4edit-mit-save-id,9,0
 683,Diablos Cap X,Diablos Cap X,mh4g-dex-build7+mh4edit-mit-save-id,9,0
 684,Diablos Helm,Diablos Helm,mh4g-dex-build7+mh4edit-mit-save-id,3,0
 685,Diablos Cap,Diablos Cap,mh4g-dex-build7+mh4edit-mit-save-id,3,0
-686,Diablos Casque,Diablos Casque,mh4edit-mit-save-id,0,0
-687,Diablos Coif,Diablos Coif,mh4edit-mit-save-id,0,0
+686,Diablos Casque,Diablos Casque,mh4g-armor-name-crosswalk+mh4edit-mit-save-id,0,1
+687,Diablos Coif,Diablos Coif,mh4g-armor-name-crosswalk+mh4edit-mit-save-id,0,1
 688,Diablos Helm Z,Diablos Helm Z,mh4g-dex-build7+mh4edit-mit-save-id,9,0
 689,Diablos Cap Z,Diablos Cap Z,mh4g-dex-build7+mh4edit-mit-save-id,9,0
 690,Dragonhead X,Dragonhead X,mh4g-dex-build7+mh4edit-mit-save-id,10,0
 691,Dragonface X,Dragonface X,mh4g-dex-build7+mh4edit-mit-save-id,10,0
-692,Dragoncasque X,Dragoncasque X,mh4edit-mit-save-id,0,0
-693,Dragoncoif X,Dragoncoif X,mh4edit-mit-save-id,0,0
-694,Fatalis Crimsonhead Z,Fatalis Crimsonhead Z,mh4edit-mit-save-id,0,0
-695,Fatalis Crimsonface Z,Fatalis Crimsonface Z,mh4edit-mit-save-id,0,0
-696,Fatalis Crimsonhelm Z,Fatalis Crimsonhelm Z,mh4edit-mit-save-id,0,0
-697,Fatalis Crimsoncoif Z,Fatalis Crimsoncoif Z,mh4edit-mit-save-id,0,0
+692,Dragoncasque X,Dragoncasque X,mh4g-armor-name-crosswalk+mh4edit-mit-save-id,0,1
+693,Dragoncoif X,Dragoncoif X,mh4g-armor-name-crosswalk+mh4edit-mit-save-id,0,1
+694,Fatalis Crimsonhead Z,Fatalis Crimsonhead Z,mh4g-armor-name-crosswalk+mh4edit-mit-save-id,0,1
+695,Fatalis Crimsonface Z,Fatalis Crimsonface Z,mh4g-armor-name-crosswalk+mh4edit-mit-save-id,0,1
+696,Fatalis Crimsonhelm Z,Fatalis Crimsonhelm Z,mh4g-armor-name-crosswalk+mh4edit-mit-save-id,0,1
+697,Fatalis Crimsoncoif Z,Fatalis Crimsoncoif Z,mh4g-armor-name-crosswalk+mh4edit-mit-save-id,0,1
 698,Wrothhead,Wrothhead,mh4g-dex-build7+mh4edit-mit-save-id,10,0
 699,Wrothface,Wrothface,mh4g-dex-build7+mh4edit-mit-save-id,10,0
 700,White Fatalis Head,White Fatalis Head,mh4g-dex-build7+mh4edit-mit-save-id,10,0
@@ -723,28 +723,28 @@ id,name,english,source,rarity,is_relic
 721,Garuga Cap X,Garuga Cap X,mh4g-dex-build7+mh4edit-mit-save-id,9,0
 722,Kirin Horn X,Kirin Horn X,mh4g-dex-build7+mh4edit-mit-save-id,10,0
 723,Kirin Crest X,Kirin Crest X,mh4g-dex-build7+mh4edit-mit-save-id,10,0
-724,Kirin Casque,Kirin Casque,mh4edit-mit-save-id,0,0
-725,Kirin Coif,Kirin Coif,mh4edit-mit-save-id,0,0
+724,Kirin Casque,Kirin Casque,mh4g-armor-name-crosswalk+mh4edit-mit-save-id,0,1
+725,Kirin Coif,Kirin Coif,mh4g-armor-name-crosswalk+mh4edit-mit-save-id,0,1
 726,Kirin Horn Z,Kirin Horn Z,mh4g-dex-build7+mh4edit-mit-save-id,10,0
 727,Kirin Crest Z,Kirin Crest Z,mh4g-dex-build7+mh4edit-mit-save-id,10,0
-728,Kirin Casque U,Kirin Casque U,mh4edit-mit-save-id,0,0
-729,Kirin Coif U,Kirin Coif U,mh4edit-mit-save-id,0,0
+728,Kirin Casque U,Kirin Casque U,mh4g-armor-name-crosswalk+mh4edit-mit-save-id,0,1
+729,Kirin Coif U,Kirin Coif U,mh4g-armor-name-crosswalk+mh4edit-mit-save-id,0,1
 730,Bnahabra Hat X,Bnahabra Hat X,mh4g-dex-build7+mh4edit-mit-save-id,8,0
 731,Bnahabra Headpiece X,Bnahabra Headpiece X,mh4g-dex-build7+mh4edit-mit-save-id,8,0
 732,Slagtoth Hood X,Slagtoth Hood X,mh4g-dex-build7+mh4edit-mit-save-id,8,0
 733,Slagtoth Cowl X,Slagtoth Cowl X,mh4g-dex-build7+mh4edit-mit-save-id,8,0
 734,Rhenoplos Helm X,Rhenoplos Helm X,mh4g-dex-build7+mh4edit-mit-save-id,8,0
 735,Rhenoplos Cap X,Rhenoplos Cap X,mh4g-dex-build7+mh4edit-mit-save-id,8,0
-736,Hunter's Casque,Hunter's Casque,mh4edit-mit-save-id,0,0
-737,Hunter's Coif,Hunter's Coif,mh4edit-mit-save-id,0,0
-738,Alloy Casque,Alloy Casque,mh4edit-mit-save-id,0,0
-739,Alloy Coif,Alloy Coif,mh4edit-mit-save-id,0,0
+736,Hunter's Casque,Hunter's Casque,mh4g-armor-name-crosswalk+mh4edit-mit-save-id,0,1
+737,Hunter's Coif,Hunter's Coif,mh4g-armor-name-crosswalk+mh4edit-mit-save-id,0,1
+738,Alloy Casque,Alloy Casque,mh4g-armor-name-crosswalk+mh4edit-mit-save-id,0,1
+739,Alloy Coif,Alloy Coif,mh4g-armor-name-crosswalk+mh4edit-mit-save-id,0,1
 740,Artian Helm X,Artian Helm X,mh4g-dex-build7+mh4edit-mit-save-id,9,0
 741,Artian Cap X,Artian Cap X,mh4g-dex-build7+mh4edit-mit-save-id,9,0
-742,Arc Casque S,Arc Casque S,mh4edit-mit-save-id,0,0
-743,Arc Coif S,Arc Coif S,mh4edit-mit-save-id,0,0
-744,Ingot Casque,Ingot Casque,mh4edit-mit-save-id,0,0
-745,Ingot Coif,Ingot Coif,mh4edit-mit-save-id,0,0
+742,Arc Casque S,Arc Casque S,mh4g-armor-name-crosswalk+mh4edit-mit-save-id,0,1
+743,Arc Coif S,Arc Coif S,mh4g-armor-name-crosswalk+mh4edit-mit-save-id,0,1
+744,Ingot Casque,Ingot Casque,mh4g-armor-name-crosswalk+mh4edit-mit-save-id,0,1
+745,Ingot Coif,Ingot Coif,mh4g-armor-name-crosswalk+mh4edit-mit-save-id,0,1
 746,Guardian Helm X,Guardian Helm X,mh4g-dex-build7+mh4edit-mit-save-id,8,0
 747,Helper Hood X,Helper Hood X,mh4g-dex-build7+mh4edit-mit-save-id,8,0
 748,Guardian Mask X,Guardian Mask X,mh4g-dex-build7+mh4edit-mit-save-id,8,0
@@ -761,42 +761,42 @@ id,name,english,source,rarity,is_relic
 759,Sororal Headgear,Sororal Headgear,mh4g-dex-build7+mh4edit-mit-save-id,9,0
 760,Ace Mask,Ace Mask,mh4g-dex-build7+mh4edit-mit-save-id,9,0
 761,Sororal Mask,Sororal Mask,mh4g-dex-build7+mh4edit-mit-save-id,9,0
-762,Ceanataur Casque,Ceanataur Casque,mh4edit-mit-save-id,0,0
-763,Ceanataur Coif,Ceanataur Coif,mh4edit-mit-save-id,0,0
-764,Lagiacrus Casque,Lagiacrus Casque,mh4edit-mit-save-id,0,0
-765,Lagiacrus Coif,Lagiacrus Coif,mh4edit-mit-save-id,0,0
-766,Escadora Casque,Escadora Casque,mh4edit-mit-save-id,0,0
-767,Escadora Coif,Escadora Coif,mh4edit-mit-save-id,0,0
-768,Auroros Kermes Helm,Auroros Kermes Helm,mh4edit-mit-save-id,0,0
-769,Borealis Bellflower,Borealis Bellflower,mh4edit-mit-save-id,0,0
-770,Genesis Kermes Helm,Genesis Kermes Helm,mh4edit-mit-save-id,0,0
-771,Glyph Bellflower,Glyph Bellflower,mh4edit-mit-save-id,0,0
-772,Ludroth Casque,Ludroth Casque,mh4edit-mit-save-id,0,0
-773,Ludroth Coif,Ludroth Coif,mh4edit-mit-save-id,0,0
-774,Hornet Helm,Hornet Helm,mh4edit-mit-save-id,0,0
-775,Hornet Cap,Hornet Cap,mh4edit-mit-save-id,0,0
-776,Hornet Casque,Hornet Casque,mh4edit-mit-save-id,0,0
-777,Hornet Coif,Hornet Coif,mh4edit-mit-save-id,0,0
-778,Wroggi Hat,Wroggi Hat,mh4edit-mit-save-id,0,0
-779,Wroggi Cap,Wroggi Cap,mh4edit-mit-save-id,0,0
-780,Wroggi Casque,Wroggi Casque,mh4edit-mit-save-id,0,0
-781,Wroggi Coif,Wroggi Coif,mh4edit-mit-save-id,0,0
-782,Gigginox Helm,Gigginox Helm,mh4edit-mit-save-id,0,0
-783,Gigginox Cap,Gigginox Cap,mh4edit-mit-save-id,0,0
-784,Gigginox Casque,Gigginox Casque,mh4edit-mit-save-id,0,0
-785,Gigginox Coif,Gigginox Coif,mh4edit-mit-save-id,0,0
+762,Ceanataur Casque,Ceanataur Casque,mh4g-armor-name-crosswalk+mh4edit-mit-save-id,0,1
+763,Ceanataur Coif,Ceanataur Coif,mh4g-armor-name-crosswalk+mh4edit-mit-save-id,0,1
+764,Lagiacrus Casque,Lagiacrus Casque,mh4g-armor-name-crosswalk+mh4edit-mit-save-id,0,1
+765,Lagiacrus Coif,Lagiacrus Coif,mh4g-armor-name-crosswalk+mh4edit-mit-save-id,0,1
+766,Escadora Casque,Escadora Casque,mh4g-armor-name-crosswalk+mh4edit-mit-save-id,0,1
+767,Escadora Coif,Escadora Coif,mh4g-armor-name-crosswalk+mh4edit-mit-save-id,0,1
+768,Auroros Kermes Helm,Auroros Kermes Helm,mh4g-armor-name-crosswalk+mh4edit-mit-save-id,0,1
+769,Borealis Bellflower,Borealis Bellflower,mh4g-armor-name-crosswalk+mh4edit-mit-save-id,0,1
+770,Genesis Kermes Helm,Genesis Kermes Helm,mh4g-armor-name-crosswalk+mh4edit-mit-save-id,0,1
+771,Glyph Bellflower,Glyph Bellflower,mh4g-armor-name-crosswalk+mh4edit-mit-save-id,0,1
+772,Ludroth Casque,Ludroth Casque,mh4g-armor-name-crosswalk+mh4edit-mit-save-id,0,1
+773,Ludroth Coif,Ludroth Coif,mh4g-armor-name-crosswalk+mh4edit-mit-save-id,0,1
+774,Hornet Helm,Hornet Helm,mh4g-armor-name-crosswalk+mh4edit-mit-save-id,0,1
+775,Hornet Cap,Hornet Cap,mh4g-armor-name-crosswalk+mh4edit-mit-save-id,0,1
+776,Hornet Casque,Hornet Casque,mh4g-armor-name-crosswalk+mh4edit-mit-save-id,0,1
+777,Hornet Coif,Hornet Coif,mh4g-armor-name-crosswalk+mh4edit-mit-save-id,0,1
+778,Wroggi Hat,Wroggi Hat,mh4g-armor-name-crosswalk+mh4edit-mit-save-id,0,1
+779,Wroggi Cap,Wroggi Cap,mh4g-armor-name-crosswalk+mh4edit-mit-save-id,0,1
+780,Wroggi Casque,Wroggi Casque,mh4g-armor-name-crosswalk+mh4edit-mit-save-id,0,1
+781,Wroggi Coif,Wroggi Coif,mh4g-armor-name-crosswalk+mh4edit-mit-save-id,0,1
+782,Gigginox Helm,Gigginox Helm,mh4g-armor-name-crosswalk+mh4edit-mit-save-id,0,1
+783,Gigginox Cap,Gigginox Cap,mh4g-armor-name-crosswalk+mh4edit-mit-save-id,0,1
+784,Gigginox Casque,Gigginox Casque,mh4g-armor-name-crosswalk+mh4edit-mit-save-id,0,1
+785,Gigginox Coif,Gigginox Coif,mh4g-armor-name-crosswalk+mh4edit-mit-save-id,0,1
 786,Tempest Crown,Tempest Crown,mh4g-dex-build7+mh4edit-mit-save-id,10,0
 787,Welkin Crown,Welkin Crown,mh4g-dex-build7+mh4edit-mit-save-id,10,0
-788,Tempest Diadem,Tempest Diadem,mh4edit-mit-save-id,0,0
-789,Welkin Diadem,Welkin Diadem,mh4edit-mit-save-id,0,0
-790,Death Stench Brain,Death Stench Brain,mh4edit-mit-save-id,0,0
-791,Death Stench Soul,Death Stench Soul,mh4edit-mit-save-id,0,0
-792,Death Stench Casque,Death Stench Casque,mh4edit-mit-save-id,0,0
-793,Death Stench Coif,Death Stench Coif,mh4edit-mit-save-id,0,0
-794,Damascus Helm,Damascus Helm,mh4edit-mit-save-id,0,0
-795,Damascus Cap,Damascus Cap,mh4edit-mit-save-id,0,0
-796,Damascus Casque,Damascus Casque,mh4edit-mit-save-id,0,0
-797,Damascus Coif,Damascus Coif,mh4edit-mit-save-id,0,0
+788,Tempest Diadem,Tempest Diadem,mh4g-armor-name-crosswalk+mh4edit-mit-save-id,0,1
+789,Welkin Diadem,Welkin Diadem,mh4g-armor-name-crosswalk+mh4edit-mit-save-id,0,1
+790,Death Stench Brain,Death Stench Brain,mh4g-armor-name-crosswalk+mh4edit-mit-save-id,0,1
+791,Death Stench Soul,Death Stench Soul,mh4g-armor-name-crosswalk+mh4edit-mit-save-id,0,1
+792,Death Stench Casque,Death Stench Casque,mh4g-armor-name-crosswalk+mh4edit-mit-save-id,0,1
+793,Death Stench Coif,Death Stench Coif,mh4g-armor-name-crosswalk+mh4edit-mit-save-id,0,1
+794,Damascus Helm,Damascus Helm,mh4g-armor-name-crosswalk+mh4edit-mit-save-id,0,1
+795,Damascus Cap,Damascus Cap,mh4g-armor-name-crosswalk+mh4edit-mit-save-id,0,1
+796,Damascus Casque,Damascus Casque,mh4g-armor-name-crosswalk+mh4edit-mit-save-id,0,1
+797,Damascus Coif,Damascus Coif,mh4g-armor-name-crosswalk+mh4edit-mit-save-id,0,1
 798,Lagiacrus Helm X,Lagiacrus Helm X,mh4g-dex-build7+mh4edit-mit-save-id,9,0
 799,Lagiacrus Cap X,Lagiacrus Cap X,mh4g-dex-build7+mh4edit-mit-save-id,9,0
 800,Nargacuga Helm X,Nargacuga Helm X,mh4g-dex-build7+mh4edit-mit-save-id,9,0
@@ -853,10 +853,10 @@ id,name,english,source,rarity,is_relic
 851,EX Glyph Crown,EX Glyph Crown,mh4g-dex-build7+mh4edit-mit-save-id,10,0
 852,Tempest Crown,Tempest Crown,mh4g-dex-build7+mh4edit-mit-save-id,10,0
 853,Welkin Crown,Welkin Crown,mh4g-dex-build7+mh4edit-mit-save-id,10,0
-854,GX Escadora Casque,GX Escadora Casque,mh4edit-mit-save-id,0,0
-855,GX Escadora Coif,GX Escadora Coif,mh4edit-mit-save-id,0,0
-856,GX Dragoncasque X,GX Dragoncasque X,mh4edit-mit-save-id,0,0
-857,GX Dragoncoif X,GX Dragoncoif X,mh4edit-mit-save-id,0,0
+854,GX Escadora Casque,GX Escadora Casque,mh4g-armor-name-crosswalk+mh4edit-mit-save-id,0,1
+855,GX Escadora Coif,GX Escadora Coif,mh4g-armor-name-crosswalk+mh4edit-mit-save-id,0,1
+856,GX Dragoncasque X,GX Dragoncasque X,mh4g-armor-name-crosswalk+mh4edit-mit-save-id,0,1
+857,GX Dragoncoif X,GX Dragoncoif X,mh4g-armor-name-crosswalk+mh4edit-mit-save-id,0,1
 858,Star Knight Helm,Star Knight Helm,mh4g-dex-build7+mh4edit-mit-save-id,10,0
 859,Star Knight Cap,Star Knight Cap,mh4g-dex-build7+mh4edit-mit-save-id,10,0
 860,Helm of Rage,Helm of Rage,mh4g-dex-build7+mh4edit-mit-save-id,10,0
@@ -968,21 +968,21 @@ id,name,english,source,rarity,is_relic
 966,Kirin Crest U,Kirin Crest U,mh4g-dex-build7+mh4edit-mit-save-id,7,0
 967,Esurient Helm,Esurient Helm,mh4g-dex-build7+mh4edit-mit-save-id,7,0
 968,Esurient Cap,Esurient Cap,mh4g-dex-build7+mh4edit-mit-save-id,7,0
-969,Monoblos Helm,Monoblos Helm,mh4edit-mit-save-id,0,0
-970,Monoblos Cap,Monoblos Cap,mh4edit-mit-save-id,0,0
-971,Hornet Helm,Hornet Helm,mh4edit-mit-save-id,0,0
-972,Hornet Cap,Hornet Cap,mh4edit-mit-save-id,0,0
-973,Wroggi Hat,Wroggi Hat,mh4edit-mit-save-id,0,0
-974,Wroggi Cap,Wroggi Cap,mh4edit-mit-save-id,0,0
+969,Monoblos Helm,Monoblos Helm,mh4g-armor-name-crosswalk+mh4edit-mit-save-id,0,1
+970,Monoblos Cap,Monoblos Cap,mh4g-armor-name-crosswalk+mh4edit-mit-save-id,0,1
+971,Hornet Helm,Hornet Helm,mh4g-armor-name-crosswalk+mh4edit-mit-save-id,0,1
+972,Hornet Cap,Hornet Cap,mh4g-armor-name-crosswalk+mh4edit-mit-save-id,0,1
+973,Wroggi Hat,Wroggi Hat,mh4g-armor-name-crosswalk+mh4edit-mit-save-id,0,1
+974,Wroggi Cap,Wroggi Cap,mh4g-armor-name-crosswalk+mh4edit-mit-save-id,0,1
 975,Monodevil Helm,Monodevil Helm,mh4g-dex-build7+mh4edit-mit-save-id,9,0
 976,Monodevil Cap,Monodevil Cap,mh4g-dex-build7+mh4edit-mit-save-id,9,0
 977,Diablos Helm,Diablos Helm,mh4g-dex-build7+mh4edit-mit-save-id,3,0
 978,Diablos Cap,Diablos Cap,mh4g-dex-build7+mh4edit-mit-save-id,3,0
-979,Gigginox Helm,Gigginox Helm,mh4edit-mit-save-id,0,0
-980,Gigginox Cap,Gigginox Cap,mh4edit-mit-save-id,0,0
-981,Death Stench Brain,Death Stench Brain,mh4edit-mit-save-id,0,0
-982,Death Stench Soul,Death Stench Soul,mh4edit-mit-save-id,0,0
-983,Damascus Helm,Damascus Helm,mh4edit-mit-save-id,0,0
-984,Damascus Cap,Damascus Cap,mh4edit-mit-save-id,0,0
+979,Gigginox Helm,Gigginox Helm,mh4g-armor-name-crosswalk+mh4edit-mit-save-id,0,1
+980,Gigginox Cap,Gigginox Cap,mh4g-armor-name-crosswalk+mh4edit-mit-save-id,0,1
+981,Death Stench Brain,Death Stench Brain,mh4g-armor-name-crosswalk+mh4edit-mit-save-id,0,1
+982,Death Stench Soul,Death Stench Soul,mh4g-armor-name-crosswalk+mh4edit-mit-save-id,0,1
+983,Damascus Helm,Damascus Helm,mh4g-armor-name-crosswalk+mh4edit-mit-save-id,0,1
+984,Damascus Cap,Damascus Cap,mh4g-armor-name-crosswalk+mh4edit-mit-save-id,0,1
 985,DUMMY,DUMMY,mh4edit-mit-save-id,0,0
 986,DUMMY,DUMMY,mh4edit-mit-save-id,0,0

@@ -537,6 +537,10 @@ QString QBox::equipmentDisplayName(equipment_t &equipment) const
     {
         return QString("#%1").arg(identifier);
     }
+    if (isPlaceholderEquipmentName(name))
+    {
+        return preservedPlaceholderEquipmentName(identifier);
+    }
 
     return displayNameWithoutSearchSuffix(name);
 }

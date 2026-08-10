@@ -543,26 +543,26 @@ id,name,english,source,rarity,is_relic
 541,Seltas Vest Z,Seltas Vest Z,mh4g-dex-build7+mh4edit-mit-save-id,9,0
 542,Gore Mail X,Gore Mail X,mh4g-dex-build7+mh4edit-mit-save-id,9,0
 543,Gore Vest X,Gore Vest X,mh4g-dex-build7+mh4edit-mit-save-id,9,0
-544,Gore Armor,Gore Armor,mh4edit-mit-save-id,0,0
-545,Gore Pizane,Gore Pizane,mh4edit-mit-save-id,0,0
+544,Gore Armor,Gore Armor,mh4g-armor-name-crosswalk+mh4edit-mit-save-id,0,1
+545,Gore Pizane,Gore Pizane,mh4g-armor-name-crosswalk+mh4edit-mit-save-id,0,1
 546,Arc Mail X,Arc Mail X,mh4g-dex-build7+mh4edit-mit-save-id,10,0
 547,Storge Mail X,Storge Mail X,mh4g-dex-build7+mh4edit-mit-save-id,10,0
 548,Arc Vest X,Arc Vest X,mh4g-dex-build7+mh4edit-mit-save-id,10,0
 549,Storge Vest X,Storge Vest X,mh4g-dex-build7+mh4edit-mit-save-id,10,0
-550,Arc Armor,Arc Armor,mh4edit-mit-save-id,0,0
-551,Storge Armor,Storge Armor,mh4edit-mit-save-id,0,0
-552,Arc Pizane,Arc Pizane,mh4edit-mit-save-id,0,0
-553,Storge Pizane,Storge Pizane,mh4edit-mit-save-id,0,0
+550,Arc Armor,Arc Armor,mh4g-armor-name-crosswalk+mh4edit-mit-save-id,0,1
+551,Storge Armor,Storge Armor,mh4g-armor-name-crosswalk+mh4edit-mit-save-id,0,1
+552,Arc Pizane,Arc Pizane,mh4g-armor-name-crosswalk+mh4edit-mit-save-id,0,1
+553,Storge Pizane,Storge Pizane,mh4g-armor-name-crosswalk+mh4edit-mit-save-id,0,1
 554,Gogma Mail,Gogma Mail,mh4g-dex-build7+mh4edit-mit-save-id,10,0
 555,Gogma Vest,Gogma Vest,mh4g-dex-build7+mh4edit-mit-save-id,10,0
 556,Gypceros Mail X,Gypceros Mail X,mh4g-dex-build7+mh4edit-mit-save-id,8,0
 557,Gypceros Vest X,Gypceros Vest X,mh4g-dex-build7+mh4edit-mit-save-id,8,0
-558,Gypceros Armor,Gypceros Armor,mh4edit-mit-save-id,0,0
-559,Gypceros Pizane,Gypceros Pizane,mh4edit-mit-save-id,0,0
+558,Gypceros Armor,Gypceros Armor,mh4g-armor-name-crosswalk+mh4edit-mit-save-id,0,1
+559,Gypceros Pizane,Gypceros Pizane,mh4g-armor-name-crosswalk+mh4edit-mit-save-id,0,1
 560,Gypceros Mail Z,Gypceros Mail Z,mh4g-dex-build7+mh4edit-mit-save-id,8,0
 561,Gypceros Vest Z,Gypceros Vest Z,mh4g-dex-build7+mh4edit-mit-save-id,8,0
-562,Gypceros Armor U,Gypceros Armor U,mh4edit-mit-save-id,0,0
-563,Gypceros Pizane U,Gypceros Pizane U,mh4edit-mit-save-id,0,0
+562,Gypceros Armor U,Gypceros Armor U,mh4g-armor-name-crosswalk+mh4edit-mit-save-id,0,1
+563,Gypceros Pizane U,Gypceros Pizane U,mh4g-armor-name-crosswalk+mh4edit-mit-save-id,0,1
 564,Lagombi Mail X,Lagombi Mail X,mh4g-dex-build7+mh4edit-mit-save-id,8,0
 565,Lagombi Vest X,Lagombi Vest X,mh4g-dex-build7+mh4edit-mit-save-id,8,0
 566,Conga Mail X,Conga Mail X,mh4g-dex-build7+mh4edit-mit-save-id,8,0
@@ -571,48 +571,48 @@ id,name,english,source,rarity,is_relic
 569,Conga Vest Z,Conga Vest Z,mh4g-dex-build7+mh4edit-mit-save-id,8,0
 570,Khezu Mail X,Khezu Mail X,mh4g-dex-build7+mh4edit-mit-save-id,8,0
 571,Khezu Vest X,Khezu Vest X,mh4g-dex-build7+mh4edit-mit-save-id,8,0
-572,Khezu Armor,Khezu Armor,mh4edit-mit-save-id,0,0
-573,Khezu Pizane,Khezu Pizane,mh4edit-mit-save-id,0,0
+572,Khezu Armor,Khezu Armor,mh4g-armor-name-crosswalk+mh4edit-mit-save-id,0,1
+573,Khezu Pizane,Khezu Pizane,mh4g-armor-name-crosswalk+mh4edit-mit-save-id,0,1
 574,Khezu Mail Z,Khezu Mail Z,mh4g-dex-build7+mh4edit-mit-save-id,8,0
 575,Khezu Vest Z,Khezu Vest Z,mh4g-dex-build7+mh4edit-mit-save-id,8,0
-576,Khezu Armor U,Khezu Armor U,mh4edit-mit-save-id,0,0
-577,Khezu Pizane U,Khezu Pizane U,mh4edit-mit-save-id,0,0
+576,Khezu Armor U,Khezu Armor U,mh4g-armor-name-crosswalk+mh4edit-mit-save-id,0,1
+577,Khezu Pizane U,Khezu Pizane U,mh4g-armor-name-crosswalk+mh4edit-mit-save-id,0,1
 578,Rathian Mail X,Rathian Mail X,mh4g-dex-build7+mh4edit-mit-save-id,8,0
 579,Rathian Vest X,Rathian Vest X,mh4g-dex-build7+mh4edit-mit-save-id,8,0
-580,Rathian Armor,Rathian Armor,mh4edit-mit-save-id,0,0
-581,Rathian Pizane,Rathian Pizane,mh4edit-mit-save-id,0,0
+580,Rathian Armor,Rathian Armor,mh4g-armor-name-crosswalk+mh4edit-mit-save-id,0,1
+581,Rathian Pizane,Rathian Pizane,mh4g-armor-name-crosswalk+mh4edit-mit-save-id,0,1
 582,Rath Heart Mail Z,Rath Heart Mail Z,mh4g-dex-build7+mh4edit-mit-save-id,8,0
 583,Rath Heart Vest Z,Rath Heart Vest Z,mh4g-dex-build7+mh4edit-mit-save-id,8,0
-584,Rath Heart Armor,Rath Heart Armor,mh4edit-mit-save-id,0,0
-585,Rath Heart Pizane,Rath Heart Pizane,mh4edit-mit-save-id,0,0
+584,Rath Heart Armor,Rath Heart Armor,mh4g-armor-name-crosswalk+mh4edit-mit-save-id,0,1
+585,Rath Heart Pizane,Rath Heart Pizane,mh4g-armor-name-crosswalk+mh4edit-mit-save-id,0,1
 586,Golden Lunemail Z,Golden Lunemail Z,mh4g-dex-build7+mh4edit-mit-save-id,10,0
 587,Golden Lunevest Z,Golden Lunevest Z,mh4g-dex-build7+mh4edit-mit-save-id,10,0
 588,Rathalos Mail X,Rathalos Mail X,mh4g-dex-build7+mh4edit-mit-save-id,9,0
 589,Rathalos Vest X,Rathalos Vest X,mh4g-dex-build7+mh4edit-mit-save-id,9,0
-590,Rathalos Armor,Rathalos Armor,mh4edit-mit-save-id,0,0
-591,Rathalos Pizane,Rathalos Pizane,mh4edit-mit-save-id,0,0
+590,Rathalos Armor,Rathalos Armor,mh4g-armor-name-crosswalk+mh4edit-mit-save-id,0,1
+591,Rathalos Pizane,Rathalos Pizane,mh4g-armor-name-crosswalk+mh4edit-mit-save-id,0,1
 592,Rath Soul Mail Z,Rath Soul Mail Z,mh4g-dex-build7+mh4edit-mit-save-id,9,0
 593,Rath Soul Vest Z,Rath Soul Vest Z,mh4g-dex-build7+mh4edit-mit-save-id,9,0
-594,Rath Soul Armor,Rath Soul Armor,mh4edit-mit-save-id,0,0
-595,Rath Soul Pizane,Rath Soul Pizane,mh4edit-mit-save-id,0,0
+594,Rath Soul Armor,Rath Soul Armor,mh4g-armor-name-crosswalk+mh4edit-mit-save-id,0,1
+595,Rath Soul Pizane,Rath Soul Pizane,mh4g-armor-name-crosswalk+mh4edit-mit-save-id,0,1
 596,Silver Solmail Z,Silver Solmail Z,mh4g-dex-build7+mh4edit-mit-save-id,10,0
 597,Silver Solvest Z,Silver Solvest Z,mh4g-dex-build7+mh4edit-mit-save-id,10,0
-598,Silver Solarmor,Silver Solarmor,mh4edit-mit-save-id,0,0
-599,Silver Solpizane,Silver Solpizane,mh4edit-mit-save-id,0,0
+598,Silver Solarmor,Silver Solarmor,mh4g-armor-name-crosswalk+mh4edit-mit-save-id,0,1
+599,Silver Solpizane,Silver Solpizane,mh4g-armor-name-crosswalk+mh4edit-mit-save-id,0,1
 600,Zinogre Mail X,Zinogre Mail X,mh4g-dex-build7+mh4edit-mit-save-id,9,0
 601,Zinogre Vest X,Zinogre Vest X,mh4g-dex-build7+mh4edit-mit-save-id,9,0
 602,Zinogre Mail Z,Zinogre Mail Z,mh4g-dex-build7+mh4edit-mit-save-id,9,0
 603,Zinogre Vest Z,Zinogre Vest Z,mh4g-dex-build7+mh4edit-mit-save-id,9,0
-604,Zinogre Armor U,Zinogre Armor U,mh4edit-mit-save-id,0,0
-605,Zinogre Pizane U,Zinogre Pizane U,mh4edit-mit-save-id,0,0
+604,Zinogre Armor U,Zinogre Armor U,mh4g-armor-name-crosswalk+mh4edit-mit-save-id,0,1
+605,Zinogre Pizane U,Zinogre Pizane U,mh4g-armor-name-crosswalk+mh4edit-mit-save-id,0,1
 606,Tigrex Mail X,Tigrex Mail X,mh4g-dex-build7+mh4edit-mit-save-id,9,0
 607,Tigrex Vest X,Tigrex Vest X,mh4g-dex-build7+mh4edit-mit-save-id,9,0
-608,Tigrex Armor,Tigrex Armor,mh4edit-mit-save-id,0,0
-609,Tigrex Pizane,Tigrex Pizane,mh4edit-mit-save-id,0,0
+608,Tigrex Armor,Tigrex Armor,mh4g-armor-name-crosswalk+mh4edit-mit-save-id,0,1
+609,Tigrex Pizane,Tigrex Pizane,mh4g-armor-name-crosswalk+mh4edit-mit-save-id,0,1
 610,Tigrex Mail Z,Tigrex Mail Z,mh4g-dex-build7+mh4edit-mit-save-id,9,0
 611,Tigrex Vest Z,Tigrex Vest Z,mh4g-dex-build7+mh4edit-mit-save-id,9,0
-612,Tigrex Armor U,Tigrex Armor U,mh4edit-mit-save-id,0,0
-613,Tigrex Pizane U,Tigrex Pizane U,mh4edit-mit-save-id,0,0
+612,Tigrex Armor U,Tigrex Armor U,mh4g-armor-name-crosswalk+mh4edit-mit-save-id,0,1
+613,Tigrex Pizane U,Tigrex Pizane U,mh4g-armor-name-crosswalk+mh4edit-mit-save-id,0,1
 614,Excello Mail Z,Excello Mail Z,mh4g-dex-build7+mh4edit-mit-save-id,10,0
 615,Excello Vest Z,Excello Vest Z,mh4g-dex-build7+mh4edit-mit-save-id,10,0
 616,Gravios Mail X,Gravios Mail X,mh4g-dex-build7+mh4edit-mit-save-id,9,0
@@ -627,30 +627,30 @@ id,name,english,source,rarity,is_relic
 625,Grand Adamance Plate,Grand Adamance Plate,mh4g-dex-build7+mh4edit-mit-save-id,10,0
 626,Grand Dayspring Plate,Grand Dayspring Plate,mh4g-dex-build7+mh4edit-mit-save-id,10,0
 627,Grand Epoch Plate,Grand Epoch Plate,mh4g-dex-build7+mh4edit-mit-save-id,10,0
-628,Gloaming Redplate,Gloaming Redplate,mh4edit-mit-save-id,0,0
-629,Adamance Redplate,Adamance Redplate,mh4edit-mit-save-id,0,0
-630,Dayspring Redplate,Dayspring Redplate,mh4edit-mit-save-id,0,0
-631,Epoch Redplate,Epoch Redplate,mh4edit-mit-save-id,0,0
+628,Gloaming Redplate,Gloaming Redplate,mh4g-armor-name-crosswalk+mh4edit-mit-save-id,0,1
+629,Adamance Redplate,Adamance Redplate,mh4g-armor-name-crosswalk+mh4edit-mit-save-id,0,1
+630,Dayspring Redplate,Dayspring Redplate,mh4g-armor-name-crosswalk+mh4edit-mit-save-id,0,1
+631,Epoch Redplate,Epoch Redplate,mh4g-armor-name-crosswalk+mh4edit-mit-save-id,0,1
 632,Vangis Mail X,Vangis Mail X,mh4g-dex-build7+mh4edit-mit-save-id,9,0
 633,Vangis Vest X,Vangis Vest X,mh4g-dex-build7+mh4edit-mit-save-id,9,0
 634,Esurient Mail Z,Esurient Mail Z,mh4g-dex-build7+mh4edit-mit-save-id,10,0
 635,Esurient Vest Z,Esurient Vest Z,mh4g-dex-build7+mh4edit-mit-save-id,10,0
-636,Esurient Armor,Esurient Armor,mh4edit-mit-save-id,0,0
-637,Esurient Pizane,Esurient Pizane,mh4edit-mit-save-id,0,0
+636,Esurient Armor,Esurient Armor,mh4g-armor-name-crosswalk+mh4edit-mit-save-id,0,1
+637,Esurient Pizane,Esurient Pizane,mh4g-armor-name-crosswalk+mh4edit-mit-save-id,0,1
 638,Kaiser Mail X,Kaiser Mail X,mh4g-dex-build7+mh4edit-mit-save-id,10,0
 639,Kaiser Vest X,Kaiser Vest X,mh4g-dex-build7+mh4edit-mit-save-id,10,0
 640,Akantor Aegis X,Akantor Aegis X,mh4g-dex-build7+mh4edit-mit-save-id,10,0
 641,Akantor Plate X,Akantor Plate X,mh4g-dex-build7+mh4edit-mit-save-id,10,0
-642,Akantor Armor,Akantor Armor,mh4edit-mit-save-id,0,0
-643,Akantor Pizane,Akantor Pizane,mh4edit-mit-save-id,0,0
+642,Akantor Armor,Akantor Armor,mh4g-armor-name-crosswalk+mh4edit-mit-save-id,0,1
+643,Akantor Pizane,Akantor Pizane,mh4g-armor-name-crosswalk+mh4edit-mit-save-id,0,1
 644,EX Escadora Soul,EX Escadora Soul,mh4g-dex-build7+mh4edit-mit-save-id,10,0
 645,EX Escadora Seele,EX Escadora Seele,mh4g-dex-build7+mh4edit-mit-save-id,10,0
 646,Ukanlos Aegis X,Ukanlos Aegis X,mh4g-dex-build7+mh4edit-mit-save-id,10,0
 647,Ukanlos Plate X,Ukanlos Plate X,mh4g-dex-build7+mh4edit-mit-save-id,10,0
 648,Kushala Cista X,Kushala Cista X,mh4g-dex-build7+mh4edit-mit-save-id,10,0
 649,Kushala Vise X,Kushala Vise X,mh4g-dex-build7+mh4edit-mit-save-id,10,0
-650,Kushala Armor,Kushala Armor,mh4edit-mit-save-id,0,0
-651,Kushala Pizane,Kushala Pizane,mh4edit-mit-save-id,0,0
+650,Kushala Armor,Kushala Armor,mh4g-armor-name-crosswalk+mh4edit-mit-save-id,0,1
+651,Kushala Pizane,Kushala Pizane,mh4g-armor-name-crosswalk+mh4edit-mit-save-id,0,1
 652,Kujula Cista,Kujula Cista,mh4g-dex-build7+mh4edit-mit-save-id,10,0
 653,Kujula Vise,Kujula Vise,mh4g-dex-build7+mh4edit-mit-save-id,10,0
 654,Grand God's Peer Robe,Grand God's Peer Robe,mh4g-dex-build7+mh4edit-mit-save-id,10,0
@@ -659,48 +659,48 @@ id,name,english,source,rarity,is_relic
 657,Grand Crusher Robe,Grand Crusher Robe,mh4g-dex-build7+mh4edit-mit-save-id,10,0
 658,Rebellion Mail X,Rebellion Mail X,mh4g-dex-build7+mh4edit-mit-save-id,10,0
 659,Riot Vest X,Riot Vest X,mh4g-dex-build7+mh4edit-mit-save-id,10,0
-660,Rebellion Armor,Rebellion Armor,mh4edit-mit-save-id,0,0
-661,Riot Pizane,Riot Pizane,mh4edit-mit-save-id,0,0
+660,Rebellion Armor,Rebellion Armor,mh4g-armor-name-crosswalk+mh4edit-mit-save-id,0,1
+661,Riot Pizane,Riot Pizane,mh4g-armor-name-crosswalk+mh4edit-mit-save-id,0,1
 662,Rebellion Mail Z,Rebellion Mail Z,mh4g-dex-build7+mh4edit-mit-save-id,10,0
 663,Riot Vest Z,Riot Vest Z,mh4g-dex-build7+mh4edit-mit-save-id,10,0
 664,Cephalos Mail X,Cephalos Mail X,mh4g-dex-build7+mh4edit-mit-save-id,8,0
 665,Cephalos Vest X,Cephalos Vest X,mh4g-dex-build7+mh4edit-mit-save-id,8,0
 666,Hermitaur Mail X,Hermitaur Mail X,mh4g-dex-build7+mh4edit-mit-save-id,8,0
 667,Hermitaur Vest X,Hermitaur Vest X,mh4g-dex-build7+mh4edit-mit-save-id,8,0
-668,Hermitaur Armor,Hermitaur Armor,mh4edit-mit-save-id,0,0
-669,Hermitaur Pizane,Hermitaur Pizane,mh4edit-mit-save-id,0,0
+668,Hermitaur Armor,Hermitaur Armor,mh4g-armor-name-crosswalk+mh4edit-mit-save-id,0,1
+669,Hermitaur Pizane,Hermitaur Pizane,mh4g-armor-name-crosswalk+mh4edit-mit-save-id,0,1
 670,Hermitaur Mail Z,Hermitaur Mail Z,mh4g-dex-build7+mh4edit-mit-save-id,8,0
 671,Hermitaur Vest Z,Hermitaur Vest Z,mh4g-dex-build7+mh4edit-mit-save-id,8,0
 672,Mono Mail S,Mono Mail S,mh4g-dex-build7+mh4edit-mit-save-id,5,0
 673,Mono Vest S,Mono Vest S,mh4g-dex-build7+mh4edit-mit-save-id,5,0
 674,Mono Mail X,Mono Mail X,mh4g-dex-build7+mh4edit-mit-save-id,9,0
 675,Mono Vest X,Mono Vest X,mh4g-dex-build7+mh4edit-mit-save-id,9,0
-676,Mono Mail,Mono Mail,mh4edit-mit-save-id,0,0
-677,Mono Vest,Mono Vest,mh4edit-mit-save-id,0,0
-678,Mono Armor,Mono Armor,mh4edit-mit-save-id,0,0
-679,Mono Pizane,Mono Pizane,mh4edit-mit-save-id,0,0
+676,Mono Mail,Mono Mail,mh4g-armor-name-crosswalk+mh4edit-mit-save-id,0,1
+677,Mono Vest,Mono Vest,mh4g-armor-name-crosswalk+mh4edit-mit-save-id,0,1
+678,Mono Armor,Mono Armor,mh4g-armor-name-crosswalk+mh4edit-mit-save-id,0,1
+679,Mono Pizane,Mono Pizane,mh4g-armor-name-crosswalk+mh4edit-mit-save-id,0,1
 680,Monodevil Mail,Monodevil Mail,mh4g-dex-build7+mh4edit-mit-save-id,9,0
 681,Monodevil Vest,Monodevil Vest,mh4g-dex-build7+mh4edit-mit-save-id,9,0
 682,Monodevil Mail,Monodevil Mail,mh4g-dex-build7+mh4edit-mit-save-id,9,0
 683,Monodevil Vest,Monodevil Vest,mh4g-dex-build7+mh4edit-mit-save-id,9,0
-684,Monodevil Armor,Monodevil Armor,mh4edit-mit-save-id,0,0
-685,Monodevil Pizane,Monodevil Pizane,mh4edit-mit-save-id,0,0
+684,Monodevil Armor,Monodevil Armor,mh4g-armor-name-crosswalk+mh4edit-mit-save-id,0,1
+685,Monodevil Pizane,Monodevil Pizane,mh4g-armor-name-crosswalk+mh4edit-mit-save-id,0,1
 686,Diablos Mail X,Diablos Mail X,mh4g-dex-build7+mh4edit-mit-save-id,9,0
 687,Diablos Vest X,Diablos Vest X,mh4g-dex-build7+mh4edit-mit-save-id,9,0
 688,Diablos Mail,Diablos Mail,mh4g-dex-build7+mh4edit-mit-save-id,3,0
 689,Diablos Vest,Diablos Vest,mh4g-dex-build7+mh4edit-mit-save-id,3,0
-690,Diablos Armor,Diablos Armor,mh4edit-mit-save-id,0,0
-691,Diablos Pizane,Diablos Pizane,mh4edit-mit-save-id,0,0
+690,Diablos Armor,Diablos Armor,mh4g-armor-name-crosswalk+mh4edit-mit-save-id,0,1
+691,Diablos Pizane,Diablos Pizane,mh4g-armor-name-crosswalk+mh4edit-mit-save-id,0,1
 692,Diablos Mail Z,Diablos Mail Z,mh4g-dex-build7+mh4edit-mit-save-id,9,0
 693,Diablos Vest Z,Diablos Vest Z,mh4g-dex-build7+mh4edit-mit-save-id,9,0
 694,Dragonhide X,Dragonhide X,mh4g-dex-build7+mh4edit-mit-save-id,10,0
 695,Dragonskin X,Dragonskin X,mh4g-dex-build7+mh4edit-mit-save-id,10,0
-696,Dragonarmor X,Dragonarmor X,mh4edit-mit-save-id,0,0
-697,Dragonpizane X,Dragonpizane X,mh4edit-mit-save-id,0,0
-698,Fatalis Crimsonhide Z,Fatalis Crimsonhide Z,mh4edit-mit-save-id,0,0
-699,Fatalis Crimsonskin Z,Fatalis Crimsonskin Z,mh4edit-mit-save-id,0,0
-700,Fatalis Crimsonarmor Z,Fatalis Crimsonarmor Z,mh4edit-mit-save-id,0,0
-701,Fatalis Crimsonpizane Z,Fatalis Crimsonpizane Z,mh4edit-mit-save-id,0,0
+696,Dragonarmor X,Dragonarmor X,mh4g-armor-name-crosswalk+mh4edit-mit-save-id,0,1
+697,Dragonpizane X,Dragonpizane X,mh4g-armor-name-crosswalk+mh4edit-mit-save-id,0,1
+698,Fatalis Crimsonhide Z,Fatalis Crimsonhide Z,mh4g-armor-name-crosswalk+mh4edit-mit-save-id,0,1
+699,Fatalis Crimsonskin Z,Fatalis Crimsonskin Z,mh4g-armor-name-crosswalk+mh4edit-mit-save-id,0,1
+700,Fatalis Crimsonarmor Z,Fatalis Crimsonarmor Z,mh4g-armor-name-crosswalk+mh4edit-mit-save-id,0,1
+701,Fatalis Crimsonpizane Z,Fatalis Crimsonpizane Z,mh4g-armor-name-crosswalk+mh4edit-mit-save-id,0,1
 702,Wrothhide,Wrothhide,mh4g-dex-build7+mh4edit-mit-save-id,10,0
 703,Wrothskin,Wrothskin,mh4g-dex-build7+mh4edit-mit-save-id,10,0
 704,White Fatalis Hide,White Fatalis Hide,mh4g-dex-build7+mh4edit-mit-save-id,10,0
@@ -727,28 +727,28 @@ id,name,english,source,rarity,is_relic
 725,Garuga Vest X,Garuga Vest X,mh4g-dex-build7+mh4edit-mit-save-id,9,0
 726,Kirin Jacket X,Kirin Jacket X,mh4g-dex-build7+mh4edit-mit-save-id,10,0
 727,Kirin Cape X,Kirin Cape X,mh4g-dex-build7+mh4edit-mit-save-id,10,0
-728,Kirin Armor,Kirin Armor,mh4edit-mit-save-id,0,0
-729,Kirin Pizane,Kirin Pizane,mh4edit-mit-save-id,0,0
+728,Kirin Armor,Kirin Armor,mh4g-armor-name-crosswalk+mh4edit-mit-save-id,0,1
+729,Kirin Pizane,Kirin Pizane,mh4g-armor-name-crosswalk+mh4edit-mit-save-id,0,1
 730,Kirin Jacket Z,Kirin Jacket Z,mh4g-dex-build7+mh4edit-mit-save-id,10,0
 731,Kirin Cape Z,Kirin Cape Z,mh4g-dex-build7+mh4edit-mit-save-id,10,0
-732,Kirin Armor U,Kirin Armor U,mh4edit-mit-save-id,0,0
-733,Kirin Pizane U,Kirin Pizane U,mh4edit-mit-save-id,0,0
+732,Kirin Armor U,Kirin Armor U,mh4g-armor-name-crosswalk+mh4edit-mit-save-id,0,1
+733,Kirin Pizane U,Kirin Pizane U,mh4g-armor-name-crosswalk+mh4edit-mit-save-id,0,1
 734,Bnahabra Suit X,Bnahabra Suit X,mh4g-dex-build7+mh4edit-mit-save-id,8,0
 735,Bnahabra Vest X,Bnahabra Vest X,mh4g-dex-build7+mh4edit-mit-save-id,8,0
 736,Slagtoth Cloak X,Slagtoth Cloak X,mh4g-dex-build7+mh4edit-mit-save-id,8,0
 737,Slagtoth Wrap X,Slagtoth Wrap X,mh4g-dex-build7+mh4edit-mit-save-id,8,0
 738,Rhenoplos Mail X,Rhenoplos Mail X,mh4g-dex-build7+mh4edit-mit-save-id,8,0
 739,Rhenoplos Vest X,Rhenoplos Vest X,mh4g-dex-build7+mh4edit-mit-save-id,8,0
-740,Hunter's Armor,Hunter's Armor,mh4edit-mit-save-id,0,0
-741,Hunter's Pizane,Hunter's Pizane,mh4edit-mit-save-id,0,0
-742,Alloy Armor,Alloy Armor,mh4edit-mit-save-id,0,0
-743,Alloy Pizane,Alloy Pizane,mh4edit-mit-save-id,0,0
+740,Hunter's Armor,Hunter's Armor,mh4g-armor-name-crosswalk+mh4edit-mit-save-id,0,1
+741,Hunter's Pizane,Hunter's Pizane,mh4g-armor-name-crosswalk+mh4edit-mit-save-id,0,1
+742,Alloy Armor,Alloy Armor,mh4g-armor-name-crosswalk+mh4edit-mit-save-id,0,1
+743,Alloy Pizane,Alloy Pizane,mh4g-armor-name-crosswalk+mh4edit-mit-save-id,0,1
 744,Artian Mail X,Artian Mail X,mh4g-dex-build7+mh4edit-mit-save-id,9,0
 745,Artian Vest X,Artian Vest X,mh4g-dex-build7+mh4edit-mit-save-id,9,0
-746,Arc Armor S,Arc Armor S,mh4edit-mit-save-id,0,0
-747,Arc Pizane S,Arc Pizane S,mh4edit-mit-save-id,0,0
-748,Ingot Armor,Ingot Armor,mh4edit-mit-save-id,0,0
-749,Ingot Pizane,Ingot Pizane,mh4edit-mit-save-id,0,0
+746,Arc Armor S,Arc Armor S,mh4g-armor-name-crosswalk+mh4edit-mit-save-id,0,1
+747,Arc Pizane S,Arc Pizane S,mh4g-armor-name-crosswalk+mh4edit-mit-save-id,0,1
+748,Ingot Armor,Ingot Armor,mh4g-armor-name-crosswalk+mh4edit-mit-save-id,0,1
+749,Ingot Pizane,Ingot Pizane,mh4g-armor-name-crosswalk+mh4edit-mit-save-id,0,1
 750,Guardian Suit X,Guardian Suit X,mh4g-dex-build7+mh4edit-mit-save-id,8,0
 751,Helper Vest X,Helper Vest X,mh4g-dex-build7+mh4edit-mit-save-id,8,0
 752,Guardian Vest X,Guardian Vest X,mh4g-dex-build7+mh4edit-mit-save-id,8,0
@@ -765,42 +765,42 @@ id,name,english,source,rarity,is_relic
 763,Sororal Mail,Sororal Mail,mh4g-dex-build7+mh4edit-mit-save-id,9,0
 764,Ace Vest,Ace Vest,mh4g-dex-build7+mh4edit-mit-save-id,9,0
 765,Sororal Vest,Sororal Vest,mh4g-dex-build7+mh4edit-mit-save-id,9,0
-766,Ceanataur Armor,Ceanataur Armor,mh4edit-mit-save-id,0,0
-767,Ceanataur Pizane,Ceanataur Pizane,mh4edit-mit-save-id,0,0
-768,Lagiacrus Armor,Lagiacrus Armor,mh4edit-mit-save-id,0,0
-769,Lagiacrus Pizane,Lagiacrus Pizane,mh4edit-mit-save-id,0,0
-770,Escadora Armor,Escadora Armor,mh4edit-mit-save-id,0,0
-771,Escadora Pizane,Escadora Pizane,mh4edit-mit-save-id,0,0
-772,Auroros Kermes Plate,Auroros Kermes Plate,mh4edit-mit-save-id,0,0
-773,Borealis Woad Plate,Borealis Woad Plate,mh4edit-mit-save-id,0,0
-774,Genesis Kermes Plate,Genesis Kermes Plate,mh4edit-mit-save-id,0,0
-775,Glyph Woad Plate,Glyph Woad Plate,mh4edit-mit-save-id,0,0
-776,Ludroth Armor,Ludroth Armor,mh4edit-mit-save-id,0,0
-777,Ludroth Pizane,Ludroth Pizane,mh4edit-mit-save-id,0,0
-778,Hornet Mail,Hornet Mail,mh4edit-mit-save-id,0,0
-779,Hornet Vest,Hornet Vest,mh4edit-mit-save-id,0,0
-780,Hornet Armor,Hornet Armor,mh4edit-mit-save-id,0,0
-781,Hornet Pizane,Hornet Pizane,mh4edit-mit-save-id,0,0
-782,Wroggi Mail,Wroggi Mail,mh4edit-mit-save-id,0,0
-783,Wroggi Vest,Wroggi Vest,mh4edit-mit-save-id,0,0
-784,Wroggi Armor,Wroggi Armor,mh4edit-mit-save-id,0,0
-785,Wroggi Pizane,Wroggi Pizane,mh4edit-mit-save-id,0,0
-786,Gigginox Mail,Gigginox Mail,mh4edit-mit-save-id,0,0
-787,Gigginox Vest,Gigginox Vest,mh4edit-mit-save-id,0,0
-788,Gigginox Armor,Gigginox Armor,mh4edit-mit-save-id,0,0
-789,Gigginox Pizane,Gigginox Pizane,mh4edit-mit-save-id,0,0
+766,Ceanataur Armor,Ceanataur Armor,mh4g-armor-name-crosswalk+mh4edit-mit-save-id,0,1
+767,Ceanataur Pizane,Ceanataur Pizane,mh4g-armor-name-crosswalk+mh4edit-mit-save-id,0,1
+768,Lagiacrus Armor,Lagiacrus Armor,mh4g-armor-name-crosswalk+mh4edit-mit-save-id,0,1
+769,Lagiacrus Pizane,Lagiacrus Pizane,mh4g-armor-name-crosswalk+mh4edit-mit-save-id,0,1
+770,Escadora Armor,Escadora Armor,mh4g-armor-name-crosswalk+mh4edit-mit-save-id,0,1
+771,Escadora Pizane,Escadora Pizane,mh4g-armor-name-crosswalk+mh4edit-mit-save-id,0,1
+772,Auroros Kermes Plate,Auroros Kermes Plate,mh4g-armor-name-crosswalk+mh4edit-mit-save-id,0,1
+773,Borealis Woad Plate,Borealis Woad Plate,mh4g-armor-name-crosswalk+mh4edit-mit-save-id,0,1
+774,Genesis Kermes Plate,Genesis Kermes Plate,mh4g-armor-name-crosswalk+mh4edit-mit-save-id,0,1
+775,Glyph Woad Plate,Glyph Woad Plate,mh4g-armor-name-crosswalk+mh4edit-mit-save-id,0,1
+776,Ludroth Armor,Ludroth Armor,mh4g-armor-name-crosswalk+mh4edit-mit-save-id,0,1
+777,Ludroth Pizane,Ludroth Pizane,mh4g-armor-name-crosswalk+mh4edit-mit-save-id,0,1
+778,Hornet Mail,Hornet Mail,mh4g-armor-name-crosswalk+mh4edit-mit-save-id,0,1
+779,Hornet Vest,Hornet Vest,mh4g-armor-name-crosswalk+mh4edit-mit-save-id,0,1
+780,Hornet Armor,Hornet Armor,mh4g-armor-name-crosswalk+mh4edit-mit-save-id,0,1
+781,Hornet Pizane,Hornet Pizane,mh4g-armor-name-crosswalk+mh4edit-mit-save-id,0,1
+782,Wroggi Mail,Wroggi Mail,mh4g-armor-name-crosswalk+mh4edit-mit-save-id,0,1
+783,Wroggi Vest,Wroggi Vest,mh4g-armor-name-crosswalk+mh4edit-mit-save-id,0,1
+784,Wroggi Armor,Wroggi Armor,mh4g-armor-name-crosswalk+mh4edit-mit-save-id,0,1
+785,Wroggi Pizane,Wroggi Pizane,mh4g-armor-name-crosswalk+mh4edit-mit-save-id,0,1
+786,Gigginox Mail,Gigginox Mail,mh4g-armor-name-crosswalk+mh4edit-mit-save-id,0,1
+787,Gigginox Vest,Gigginox Vest,mh4g-armor-name-crosswalk+mh4edit-mit-save-id,0,1
+788,Gigginox Armor,Gigginox Armor,mh4g-armor-name-crosswalk+mh4edit-mit-save-id,0,1
+789,Gigginox Pizane,Gigginox Pizane,mh4g-armor-name-crosswalk+mh4edit-mit-save-id,0,1
 790,Tempest Robe,Tempest Robe,mh4g-dex-build7+mh4edit-mit-save-id,10,0
 791,Welkin Robe,Welkin Robe,mh4g-dex-build7+mh4edit-mit-save-id,10,0
-792,Tempest Vesture,Tempest Vesture,mh4edit-mit-save-id,0,0
-793,Welkin Vesture,Welkin Vesture,mh4edit-mit-save-id,0,0
-794,Death Stench Muscle,Death Stench Muscle,mh4edit-mit-save-id,0,0
-795,Death Stench Heart,Death Stench Heart,mh4edit-mit-save-id,0,0
-796,Death Stench Armor,Death Stench Armor,mh4edit-mit-save-id,0,0
-797,Death Stench Pizane,Death Stench Pizane,mh4edit-mit-save-id,0,0
-798,Damascus Mail,Damascus Mail,mh4edit-mit-save-id,0,0
-799,Damascus Vest,Damascus Vest,mh4edit-mit-save-id,0,0
-800,Damascus Armor,Damascus Armor,mh4edit-mit-save-id,0,0
-801,Damascus Pizane,Damascus Pizane,mh4edit-mit-save-id,0,0
+792,Tempest Vesture,Tempest Vesture,mh4g-armor-name-crosswalk+mh4edit-mit-save-id,0,1
+793,Welkin Vesture,Welkin Vesture,mh4g-armor-name-crosswalk+mh4edit-mit-save-id,0,1
+794,Death Stench Muscle,Death Stench Muscle,mh4g-armor-name-crosswalk+mh4edit-mit-save-id,0,1
+795,Death Stench Heart,Death Stench Heart,mh4g-armor-name-crosswalk+mh4edit-mit-save-id,0,1
+796,Death Stench Armor,Death Stench Armor,mh4g-armor-name-crosswalk+mh4edit-mit-save-id,0,1
+797,Death Stench Pizane,Death Stench Pizane,mh4g-armor-name-crosswalk+mh4edit-mit-save-id,0,1
+798,Damascus Mail,Damascus Mail,mh4g-armor-name-crosswalk+mh4edit-mit-save-id,0,1
+799,Damascus Vest,Damascus Vest,mh4g-armor-name-crosswalk+mh4edit-mit-save-id,0,1
+800,Damascus Armor,Damascus Armor,mh4g-armor-name-crosswalk+mh4edit-mit-save-id,0,1
+801,Damascus Pizane,Damascus Pizane,mh4g-armor-name-crosswalk+mh4edit-mit-save-id,0,1
 802,Lagiacrus Mail X,Lagiacrus Mail X,mh4g-dex-build7+mh4edit-mit-save-id,9,0
 803,Lagiacrus Vest X,Lagiacrus Vest X,mh4g-dex-build7+mh4edit-mit-save-id,9,0
 804,Nargacuga Mail X,Nargacuga Mail X,mh4g-dex-build7+mh4edit-mit-save-id,9,0
@@ -857,10 +857,10 @@ id,name,english,source,rarity,is_relic
 855,EX Glyph Chest,EX Glyph Chest,mh4g-dex-build7+mh4edit-mit-save-id,10,0
 856,Tempest Robe,Tempest Robe,mh4g-dex-build7+mh4edit-mit-save-id,10,0
 857,Welkin Robe,Welkin Robe,mh4g-dex-build7+mh4edit-mit-save-id,10,0
-858,GX Escadora Armor,GX Escadora Armor,mh4edit-mit-save-id,0,0
-859,GX Escadora Pizane,GX Escadora Pizane,mh4edit-mit-save-id,0,0
-860,GX Dragonarmor X,GX Dragonarmor X,mh4edit-mit-save-id,0,0
-861,GX Dragonpizane X,GX Dragonpizane X,mh4edit-mit-save-id,0,0
+858,GX Escadora Armor,GX Escadora Armor,mh4g-armor-name-crosswalk+mh4edit-mit-save-id,0,1
+859,GX Escadora Pizane,GX Escadora Pizane,mh4g-armor-name-crosswalk+mh4edit-mit-save-id,0,1
+860,GX Dragonarmor X,GX Dragonarmor X,mh4g-armor-name-crosswalk+mh4edit-mit-save-id,0,1
+861,GX Dragonpizane X,GX Dragonpizane X,mh4g-armor-name-crosswalk+mh4edit-mit-save-id,0,1
 862,Star Knight Mail,Star Knight Mail,mh4g-dex-build7+mh4edit-mit-save-id,10,0
 863,Star Knight Vest,Star Knight Vest,mh4g-dex-build7+mh4edit-mit-save-id,10,0
 864,Mail of Rage,Mail of Rage,mh4g-dex-build7+mh4edit-mit-save-id,10,0
@@ -953,21 +953,21 @@ id,name,english,source,rarity,is_relic
 951,Kirin Cape U,Kirin Cape U,mh4g-dex-build7+mh4edit-mit-save-id,7,0
 952,Esurient Mail,Esurient Mail,mh4g-dex-build7+mh4edit-mit-save-id,7,0
 953,Esurient Vest,Esurient Vest,mh4g-dex-build7+mh4edit-mit-save-id,7,0
-954,Monoblos Mail,Monoblos Mail,mh4edit-mit-save-id,0,0
-955,Monoblos Vest,Monoblos Vest,mh4edit-mit-save-id,0,0
-956,Hornet Mail,Hornet Mail,mh4edit-mit-save-id,0,0
-957,Hornet Vest,Hornet Vest,mh4edit-mit-save-id,0,0
-958,Wroggi Mail,Wroggi Mail,mh4edit-mit-save-id,0,0
-959,Wroggi Vest,Wroggi Vest,mh4edit-mit-save-id,0,0
+954,Monoblos Mail,Monoblos Mail,mh4g-armor-name-crosswalk+mh4edit-mit-save-id,0,1
+955,Monoblos Vest,Monoblos Vest,mh4g-armor-name-crosswalk+mh4edit-mit-save-id,0,1
+956,Hornet Mail,Hornet Mail,mh4g-armor-name-crosswalk+mh4edit-mit-save-id,0,1
+957,Hornet Vest,Hornet Vest,mh4g-armor-name-crosswalk+mh4edit-mit-save-id,0,1
+958,Wroggi Mail,Wroggi Mail,mh4g-armor-name-crosswalk+mh4edit-mit-save-id,0,1
+959,Wroggi Vest,Wroggi Vest,mh4g-armor-name-crosswalk+mh4edit-mit-save-id,0,1
 960,Monodevil Mail,Monodevil Mail,mh4g-dex-build7+mh4edit-mit-save-id,9,0
 961,Monodevil Vest,Monodevil Vest,mh4g-dex-build7+mh4edit-mit-save-id,9,0
 962,Diablos Mail,Diablos Mail,mh4g-dex-build7+mh4edit-mit-save-id,3,0
 963,Diablos Vest,Diablos Vest,mh4g-dex-build7+mh4edit-mit-save-id,3,0
-964,Gigginox Mail,Gigginox Mail,mh4edit-mit-save-id,0,0
-965,Gigginox Vest,Gigginox Vest,mh4edit-mit-save-id,0,0
-966,Death Stench Muscle,Death Stench Muscle,mh4edit-mit-save-id,0,0
-967,Death Stench Heart,Death Stench Heart,mh4edit-mit-save-id,0,0
-968,Damascus Mail,Damascus Mail,mh4edit-mit-save-id,0,0
-969,Damascus Vest,Damascus Vest,mh4edit-mit-save-id,0,0
+964,Gigginox Mail,Gigginox Mail,mh4g-armor-name-crosswalk+mh4edit-mit-save-id,0,1
+965,Gigginox Vest,Gigginox Vest,mh4g-armor-name-crosswalk+mh4edit-mit-save-id,0,1
+966,Death Stench Muscle,Death Stench Muscle,mh4g-armor-name-crosswalk+mh4edit-mit-save-id,0,1
+967,Death Stench Heart,Death Stench Heart,mh4g-armor-name-crosswalk+mh4edit-mit-save-id,0,1
+968,Damascus Mail,Damascus Mail,mh4g-armor-name-crosswalk+mh4edit-mit-save-id,0,1
+969,Damascus Vest,Damascus Vest,mh4g-armor-name-crosswalk+mh4edit-mit-save-id,0,1
 970,DUMMY,DUMMY,mh4edit-mit-save-id,0,0
 971,DUMMY,DUMMY,mh4edit-mit-save-id,0,0

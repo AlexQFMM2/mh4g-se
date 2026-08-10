@@ -60,10 +60,7 @@ QArmor::QArmor(armor_t *armor, QWidget *parent) : QEquipment(NULL, parent)
 
     m_identifier = new QComboBox(this);
     m_identifier->addItem(uiText("(None)"), 0);
-    for (uint32_t i = 0; i < identifier->size(); i++)
-    {
-        m_identifier->addItem(QString(identifier->at(i).identifier.c_str()), identifier->at(i).count);
-    }
+    populateEquipmentIdentifierComboBox(m_identifier, identifier, armor->identifier);
     configureSearchableComboBox(m_identifier);
     identifier = NULL;
 

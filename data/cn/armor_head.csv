@@ -539,26 +539,26 @@ id,name,english,source,rarity,is_relic
 537,炮甲虫战帽Ｚ,Seltas Cap Z,mh4g-dex-build7+mh4edit-mit-save-id,9,0
 538,黑蚀龙头盔Ｘ,Gore Helm X,mh4g-dex-build7+mh4edit-mit-save-id,9,0
 539,黑蚀龙战帽Ｘ,Gore Cap X,mh4g-dex-build7+mh4edit-mit-save-id,9,0
-540,Gore Casque,Gore Casque,mh4edit-mit-save-id-en-fallback,0,0
-541,Gore Coif,Gore Coif,mh4edit-mit-save-id-en-fallback,0,0
+540,黑蚀龙头盔（发掘）,Gore Casque,mh4g-armor-name-crosswalk+mh4edit-mit-save-id,0,1
+541,黑蚀龙头巾（发掘）,Gore Coif,mh4g-armor-name-crosswalk+mh4edit-mit-save-id,0,1
 542,弧光头盔Ｘ,Arc Helm X,mh4g-dex-build7+mh4edit-mit-save-id,10,0
 543,友爱头盔Ｘ,Storge Helm X,mh4g-dex-build7+mh4edit-mit-save-id,10,0
 544,弧光战帽Ｘ,Arc Cap X,mh4g-dex-build7+mh4edit-mit-save-id,10,0
 545,友爱战帽Ｘ,Storge Cap X,mh4g-dex-build7+mh4edit-mit-save-id,10,0
-546,Arc Casque,Arc Casque,mh4edit-mit-save-id-en-fallback,0,0
-547,Storge Casque,Storge Casque,mh4edit-mit-save-id-en-fallback,0,0
-548,Arc Coif,Arc Coif,mh4edit-mit-save-id-en-fallback,0,0
-549,Storge Coif,Storge Coif,mh4edit-mit-save-id-en-fallback,0,0
+546,弧光头盔（发掘）,Arc Casque,mh4g-armor-name-crosswalk+mh4edit-mit-save-id,0,1
+547,友爱头盔（发掘）,Storge Casque,mh4g-armor-name-crosswalk+mh4edit-mit-save-id,0,1
+548,弧光头巾（发掘）,Arc Coif,mh4g-armor-name-crosswalk+mh4edit-mit-save-id,0,1
+549,友爱头巾（发掘）,Storge Coif,mh4g-armor-name-crosswalk+mh4edit-mit-save-id,0,1
 550,巨戟龙头盔,Gogma Helm,mh4g-dex-build7+mh4edit-mit-save-id,10,0
 551,巨戟龙战帽,Gogma Cap,mh4g-dex-build7+mh4edit-mit-save-id,10,0
 552,毒怪鸟头盔Ｘ,Gypceros Helm X,mh4g-dex-build7+mh4edit-mit-save-id,8,0
 553,毒怪鸟战帽Ｘ,Gypceros Cap X,mh4g-dex-build7+mh4edit-mit-save-id,8,0
-554,Gypceros Casque,Gypceros Casque,mh4edit-mit-save-id-en-fallback,0,0
-555,Gypceros Coif,Gypceros Coif,mh4edit-mit-save-id-en-fallback,0,0
+554,毒怪鸟头盔（发掘）,Gypceros Casque,mh4g-armor-name-crosswalk+mh4edit-mit-save-id,0,1
+555,毒怪鸟头巾（发掘）,Gypceros Coif,mh4g-armor-name-crosswalk+mh4edit-mit-save-id,0,1
 556,紫毒怪鸟头盔Ｚ,Gypceros Helm Z,mh4g-dex-build7+mh4edit-mit-save-id,8,0
 557,紫毒怪鸟战帽Ｚ,Gypceros Cap Z,mh4g-dex-build7+mh4edit-mit-save-id,8,0
-558,Gypceros Casque U,Gypceros Casque U,mh4edit-mit-save-id-en-fallback,0,0
-559,Gypceros Coif U,Gypceros Coif U,mh4edit-mit-save-id-en-fallback,0,0
+558,紫毒怪鸟Ｕ头盔（发掘）,Gypceros Casque U,mh4g-armor-name-crosswalk+mh4edit-mit-save-id,0,1
+559,紫毒怪鸟Ｕ头巾（发掘）,Gypceros Coif U,mh4g-armor-name-crosswalk+mh4edit-mit-save-id,0,1
 560,白兔兽头盔Ｘ,Lagombi Helm X,mh4g-dex-build7+mh4edit-mit-save-id,8,0
 561,白兔兽战帽Ｘ,Lagombi Cap X,mh4g-dex-build7+mh4edit-mit-save-id,8,0
 562,桃毛兽头盔Ｘ,Conga Helm X,mh4g-dex-build7+mh4edit-mit-save-id,8,0
@@ -567,48 +567,48 @@ id,name,english,source,rarity,is_relic
 565,绿毛兽战帽Ｚ,Conga Cap Z,mh4g-dex-build7+mh4edit-mit-save-id,8,0
 566,电龙头盔Ｘ,Khezu Helm X,mh4g-dex-build7+mh4edit-mit-save-id,8,0
 567,电龙战帽Ｘ,Khezu Cap X,mh4g-dex-build7+mh4edit-mit-save-id,8,0
-568,Khezu Casque,Khezu Casque,mh4edit-mit-save-id-en-fallback,0,0
-569,Khezu Coif,Khezu Coif,mh4edit-mit-save-id-en-fallback,0,0
+568,电龙头盔（发掘）,Khezu Casque,mh4g-armor-name-crosswalk+mh4edit-mit-save-id,0,1
+569,电龙头巾（发掘）,Khezu Coif,mh4g-armor-name-crosswalk+mh4edit-mit-save-id,0,1
 570,赤电龙头盔Ｚ,Khezu Helm Z,mh4g-dex-build7+mh4edit-mit-save-id,8,0
 571,赤电龙战帽Ｚ,Khezu Cap Z,mh4g-dex-build7+mh4edit-mit-save-id,8,0
-572,Khezu Casque U,Khezu Casque U,mh4edit-mit-save-id-en-fallback,0,0
-573,Khezu Coif U,Khezu Coif U,mh4edit-mit-save-id-en-fallback,0,0
+572,赤电龙Ｕ头盔（发掘）,Khezu Casque U,mh4g-armor-name-crosswalk+mh4edit-mit-save-id,0,1
+573,赤电龙Ｕ头巾（发掘）,Khezu Coif U,mh4g-armor-name-crosswalk+mh4edit-mit-save-id,0,1
 574,雌火龙头盔Ｘ,Rathian Helm X,mh4g-dex-build7+mh4edit-mit-save-id,8,0
 575,雌火龙战帽Ｘ,Rathian Cap X,mh4g-dex-build7+mh4edit-mit-save-id,8,0
-576,Rathian Casque,Rathian Casque,mh4edit-mit-save-id-en-fallback,0,0
-577,Rathian Coif,Rathian Coif,mh4edit-mit-save-id-en-fallback,0,0
+576,雌火龙头盔（发掘）,Rathian Casque,mh4g-armor-name-crosswalk+mh4edit-mit-save-id,0,1
+577,雌火龙头巾（发掘）,Rathian Coif,mh4g-armor-name-crosswalk+mh4edit-mit-save-id,0,1
 578,樱火龙头盔Ｚ,Rath Heart Helm Z,mh4g-dex-build7+mh4edit-mit-save-id,8,0
 579,樱火龙战帽Ｚ,Rath Heart Cap Z,mh4g-dex-build7+mh4edit-mit-save-id,8,0
-580,Rath Heart Casque,Rath Heart Casque,mh4edit-mit-save-id-en-fallback,0,0
-581,Rath Heart Coif,Rath Heart Coif,mh4edit-mit-save-id-en-fallback,0,0
+580,樱火龙头盔（发掘）,Rath Heart Casque,mh4g-armor-name-crosswalk+mh4edit-mit-save-id,0,1
+581,樱火龙头巾（发掘）,Rath Heart Coif,mh4g-armor-name-crosswalk+mh4edit-mit-save-id,0,1
 582,Ｇ・金火龙头盔Ｚ,Golden Lunehelm Z,mh4g-dex-build7+mh4edit-mit-save-id,10,0
 583,Ｇ・金火龙战帽Ｚ,Golden Lunecap Z,mh4g-dex-build7+mh4edit-mit-save-id,10,0
 584,雄火龙头盔Ｘ,Rathalos Helm X,mh4g-dex-build7+mh4edit-mit-save-id,9,0
 585,雄火龙战帽Ｘ,Rathalos Cap X,mh4g-dex-build7+mh4edit-mit-save-id,9,0
-586,Rathalos Casque,Rathalos Casque,mh4edit-mit-save-id-en-fallback,0,0
-587,Rathalos Coif,Rathalos Coif,mh4edit-mit-save-id-en-fallback,0,0
+586,雄火龙头盔（发掘）,Rathalos Casque,mh4g-armor-name-crosswalk+mh4edit-mit-save-id,0,1
+587,雄火龙头巾（发掘）,Rathalos Coif,mh4g-armor-name-crosswalk+mh4edit-mit-save-id,0,1
 588,苍火龙头盔Ｚ,Rath Soul Helm Z,mh4g-dex-build7+mh4edit-mit-save-id,9,0
 589,苍火龙战帽Ｚ,Rath Soul Cap Z,mh4g-dex-build7+mh4edit-mit-save-id,9,0
-590,Rath Soul Casque,Rath Soul Casque,mh4edit-mit-save-id-en-fallback,0,0
-591,Rath Soul Coif,Rath Soul Coif,mh4edit-mit-save-id-en-fallback,0,0
+590,苍火龙头盔（发掘）,Rath Soul Casque,mh4g-armor-name-crosswalk+mh4edit-mit-save-id,0,1
+591,苍火龙头巾（发掘）,Rath Soul Coif,mh4g-armor-name-crosswalk+mh4edit-mit-save-id,0,1
 592,Ｓ・银火龙头盔Ｚ,Silver Solhelm Z,mh4g-dex-build7+mh4edit-mit-save-id,10,0
 593,Ｓ・银火龙战帽Ｚ,Silver Solcap Z,mh4g-dex-build7+mh4edit-mit-save-id,10,0
-594,Silver Solcasque,Silver Solcasque,mh4edit-mit-save-id-en-fallback,0,0
-595,Silver Solcoif,Silver Solcoif,mh4edit-mit-save-id-en-fallback,0,0
+594,银火龙头盔（发掘）,Silver Solcasque,mh4g-armor-name-crosswalk+mh4edit-mit-save-id,0,1
+595,银火龙头巾（发掘）,Silver Solcoif,mh4g-armor-name-crosswalk+mh4edit-mit-save-id,0,1
 596,雷狼龙头盔Ｘ,Zinogre Helm X,mh4g-dex-build7+mh4edit-mit-save-id,9,0
 597,雷狼龙战帽Ｘ,Zinogre Cap X,mh4g-dex-build7+mh4edit-mit-save-id,9,0
 598,狱狼龙头盔Ｚ,Zinogre Helm Z,mh4g-dex-build7+mh4edit-mit-save-id,9,0
 599,狱狼龙战帽Ｚ,Zinogre Cap Z,mh4g-dex-build7+mh4edit-mit-save-id,9,0
-600,Zinogre Casque U,Zinogre Casque U,mh4edit-mit-save-id-en-fallback,0,0
-601,Zinogre Coif U,Zinogre Coif U,mh4edit-mit-save-id-en-fallback,0,0
+600,狱狼龙Ｕ头盔（发掘）,Zinogre Casque U,mh4g-armor-name-crosswalk+mh4edit-mit-save-id,0,1
+601,狱狼龙Ｕ头巾（发掘）,Zinogre Coif U,mh4g-armor-name-crosswalk+mh4edit-mit-save-id,0,1
 602,轰龙头盔Ｘ,Tigrex Helm X,mh4g-dex-build7+mh4edit-mit-save-id,9,0
 603,轰龙战帽Ｘ,Tigrex Cap X,mh4g-dex-build7+mh4edit-mit-save-id,9,0
-604,Tigrex Casque,Tigrex Casque,mh4edit-mit-save-id-en-fallback,0,0
-605,Tigrex Coif,Tigrex Coif,mh4edit-mit-save-id-en-fallback,0,0
+604,轰龙头盔（发掘）,Tigrex Casque,mh4g-armor-name-crosswalk+mh4edit-mit-save-id,0,1
+605,轰龙头巾（发掘）,Tigrex Coif,mh4g-armor-name-crosswalk+mh4edit-mit-save-id,0,1
 606,黑轰龙头盔Ｚ,Tigrex Helm Z,mh4g-dex-build7+mh4edit-mit-save-id,9,0
 607,黑轰龙战帽Ｚ,Tigrex Cap Z,mh4g-dex-build7+mh4edit-mit-save-id,9,0
-608,Tigrex Casque U,Tigrex Casque U,mh4edit-mit-save-id-en-fallback,0,0
-609,Tigrex Coif U,Tigrex Coif U,mh4edit-mit-save-id-en-fallback,0,0
+608,黑轰龙Ｕ头盔（发掘）,Tigrex Casque U,mh4g-armor-name-crosswalk+mh4edit-mit-save-id,0,1
+609,黑轰龙Ｕ头巾（发掘）,Tigrex Coif U,mh4g-armor-name-crosswalk+mh4edit-mit-save-id,0,1
 610,大轰龙头盔Ｚ,Excello Helm Z,mh4g-dex-build7+mh4edit-mit-save-id,10,0
 611,大轰龙战帽Ｚ,Excello Cap Z,mh4g-dex-build7+mh4edit-mit-save-id,10,0
 612,铠龙头盔Ｘ,Gravios Helm X,mh4g-dex-build7+mh4edit-mit-save-id,9,0
@@ -623,30 +623,30 @@ id,name,english,source,rarity,is_relic
 621,常磐・真【面兜】,Grand Adamance Helm,mh4g-dex-build7+mh4edit-mit-save-id,10,0
 622,东云・真【面兜】,Grand Dayspring Helm,mh4g-dex-build7+mh4edit-mit-save-id,10,0
 623,八千代・真【面兜】,Grand Epoch Helm,mh4g-dex-build7+mh4edit-mit-save-id,10,0
-624,Gloaming Redhelm,Gloaming Redhelm,mh4edit-mit-save-id-en-fallback,0,0
-625,Adamance Redhelm,Adamance Redhelm,mh4edit-mit-save-id-en-fallback,0,0
-626,Dayspring Redhelm,Dayspring Redhelm,mh4edit-mit-save-id-en-fallback,0,0
-627,Epoch Redhelm,Epoch Redhelm,mh4edit-mit-save-id-en-fallback,0,0
+624,残阳·红头盔（发掘）,Gloaming Redhelm,mh4g-armor-name-crosswalk+mh4edit-mit-save-id,0,1
+625,常磐·红头盔（发掘）,Adamance Redhelm,mh4g-armor-name-crosswalk+mh4edit-mit-save-id,0,1
+626,东云·红头盔（发掘）,Dayspring Redhelm,mh4g-armor-name-crosswalk+mh4edit-mit-save-id,0,1
+627,八千代·红头盔（发掘）,Epoch Redhelm,mh4g-armor-name-crosswalk+mh4edit-mit-save-id,0,1
 628,恐暴龙头盔Ｘ,Vangis Helm X,mh4g-dex-build7+mh4edit-mit-save-id,9,0
 629,恐暴龙战帽Ｘ,Vangis Cap X,mh4g-dex-build7+mh4edit-mit-save-id,9,0
 630,贪婪头盔Ｚ,Esurient Helm Z,mh4g-dex-build7+mh4edit-mit-save-id,10,0
 631,贪婪战帽Ｚ,Esurient Cap Z,mh4g-dex-build7+mh4edit-mit-save-id,10,0
-632,Esurient Casque,Esurient Casque,mh4edit-mit-save-id-en-fallback,0,0
-633,Esurient Coif,Esurient Coif,mh4edit-mit-save-id-en-fallback,0,0
+632,贪婪头盔（发掘）,Esurient Casque,mh4g-armor-name-crosswalk+mh4edit-mit-save-id,0,1
+633,贪婪头巾（发掘）,Esurient Coif,mh4g-armor-name-crosswalk+mh4edit-mit-save-id,0,1
 634,炎王龙皇冠Ｘ,Kaiser Crown X,mh4g-dex-build7+mh4edit-mit-save-id,10,0
 635,炎王龙面具Ｘ,Kaiser Mask X,mh4g-dex-build7+mh4edit-mit-save-id,10,0
 636,霸龙头铠Ｘ,Akantor Mask X,mh4g-dex-build7+mh4edit-mit-save-id,10,0
 637,霸龙面甲Ｘ,Akantor Fangs X,mh4g-dex-build7+mh4edit-mit-save-id,10,0
-638,Akantor Casque,Akantor Casque,mh4edit-mit-save-id-en-fallback,0,0
-639,Akantor Coif,Akantor Coif,mh4edit-mit-save-id-en-fallback,0,0
+638,霸龙头盔（发掘）,Akantor Casque,mh4g-armor-name-crosswalk+mh4edit-mit-save-id,0,1
+639,霸龙头巾（发掘）,Akantor Coif,mh4g-armor-name-crosswalk+mh4edit-mit-save-id,0,1
 640,EX煌黑龙之样,EX Escadora Wisdom,mh4g-dex-build7+mh4edit-mit-save-id,10,0
 641,EX煌黑龙智慧,EX Escadora Sagesse,mh4g-dex-build7+mh4edit-mit-save-id,10,0
 642,崩龙头铠Ｘ,Ukanlos Mask X,mh4g-dex-build7+mh4edit-mit-save-id,10,0
 643,崩龙面甲Ｘ,Ukanlos Fangs X,mh4g-dex-build7+mh4edit-mit-save-id,10,0
 644,钢龙头铠Ｘ,Kushala Glare X,mh4g-dex-build7+mh4edit-mit-save-id,10,0
 645,钢龙头盔Ｘ,Kushala Snarl X,mh4g-dex-build7+mh4edit-mit-save-id,10,0
-646,Kushala Casque,Kushala Casque,mh4edit-mit-save-id-en-fallback,0,0
-647,Kushala Coif,Kushala Coif,mh4edit-mit-save-id-en-fallback,0,0
+646,钢龙头盔（发掘）,Kushala Casque,mh4g-armor-name-crosswalk+mh4edit-mit-save-id,0,1
+647,钢龙头巾（发掘）,Kushala Coif,mh4g-armor-name-crosswalk+mh4edit-mit-save-id,0,1
 648,锈钢龙头铠,Kujula Glare,mh4g-dex-build7+mh4edit-mit-save-id,10,0
 649,锈钢龙头盔,Kujula Snarl,mh4g-dex-build7+mh4edit-mit-save-id,10,0
 650,齐天的添发・真,Grand God's Peer Mask,mh4g-dex-build7+mh4edit-mit-save-id,10,0
@@ -655,48 +655,48 @@ id,name,english,source,rarity,is_relic
 653,心灭的添发・真,Grand Crusher Mask,mh4g-dex-build7+mh4edit-mit-save-id,10,0
 654,逆乱头盔Ｘ,Rebellion Helm X,mh4g-dex-build7+mh4edit-mit-save-id,10,0
 655,暴乱战帽Ｘ,Riot Cap X,mh4g-dex-build7+mh4edit-mit-save-id,10,0
-656,Rebellion Casque,Rebellion Casque,mh4edit-mit-save-id-en-fallback,0,0
-657,Riot Coif,Riot Coif,mh4edit-mit-save-id-en-fallback,0,0
+656,逆乱头盔（发掘）,Rebellion Casque,mh4g-armor-name-crosswalk+mh4edit-mit-save-id,0,1
+657,暴乱头巾（发掘）,Riot Coif,mh4g-armor-name-crosswalk+mh4edit-mit-save-id,0,1
 658,逆乱头盔Ｚ,Rebellion Helm Z,mh4g-dex-build7+mh4edit-mit-save-id,10,0
 659,暴乱战帽Ｚ,Riot Cap Z,mh4g-dex-build7+mh4edit-mit-save-id,10,0
 660,砂龙头盔Ｘ,Cephalos Helm X,mh4g-dex-build7+mh4edit-mit-save-id,8,0
 661,砂龙战帽Ｘ,Cephalos Cap X,mh4g-dex-build7+mh4edit-mit-save-id,8,0
 662,盾蟹头盔Ｘ,Hermitaur Helm X,mh4g-dex-build7+mh4edit-mit-save-id,8,0
 663,盾蟹战帽Ｘ,Hermitaur Cap X,mh4g-dex-build7+mh4edit-mit-save-id,8,0
-664,Hermitaur Casque,Hermitaur Casque,mh4edit-mit-save-id-en-fallback,0,0
-665,Hermitaur Coif,Hermitaur Coif,mh4edit-mit-save-id-en-fallback,0,0
+664,盾蟹头盔（发掘）,Hermitaur Casque,mh4g-armor-name-crosswalk+mh4edit-mit-save-id,0,1
+665,盾蟹头巾（发掘）,Hermitaur Coif,mh4g-armor-name-crosswalk+mh4edit-mit-save-id,0,1
 666,紫盾蟹头盔Ｚ,Hermitaur Helm Z,mh4g-dex-build7+mh4edit-mit-save-id,8,0
 667,紫盾蟹战帽Ｚ,Hermitaur Cap Z,mh4g-dex-build7+mh4edit-mit-save-id,8,0
 668,一角龙头盔Ｓ,Mono Helm S,mh4g-dex-build7+mh4edit-mit-save-id,5,0
 669,一角龙战帽Ｓ,Mono Cap S,mh4g-dex-build7+mh4edit-mit-save-id,5,0
 670,一角龙头盔Ｘ,Mono Helm X,mh4g-dex-build7+mh4edit-mit-save-id,9,0
 671,一角龙战帽Ｘ,Mono Cap X,mh4g-dex-build7+mh4edit-mit-save-id,9,0
-672,Mono Helm,Mono Helm,mh4edit-mit-save-id-en-fallback,0,0
-673,Mono Cap,Mono Cap,mh4edit-mit-save-id-en-fallback,0,0
-674,Mono Casque,Mono Casque,mh4edit-mit-save-id-en-fallback,0,0
-675,Mono Coif,Mono Coif,mh4edit-mit-save-id-en-fallback,0,0
+672,一角龙头盔（发掘）,Mono Helm,mh4g-armor-name-crosswalk+mh4edit-mit-save-id,0,1
+673,一角龙战帽（发掘）,Mono Cap,mh4g-armor-name-crosswalk+mh4edit-mit-save-id,0,1
+674,一角龙头盔（发掘）,Mono Casque,mh4g-armor-name-crosswalk+mh4edit-mit-save-id,0,1
+675,一角龙头巾（发掘）,Mono Coif,mh4g-armor-name-crosswalk+mh4edit-mit-save-id,0,1
 676,白一角龙头盔,Monodevil Helm,mh4g-dex-build7+mh4edit-mit-save-id,9,0
 677,白一角龙战帽,Monodevil Cap,mh4g-dex-build7+mh4edit-mit-save-id,9,0
 678,白一角龙头盔,Monodevil Helm,mh4g-dex-build7+mh4edit-mit-save-id,9,0
 679,白一角龙战帽,Monodevil Cap,mh4g-dex-build7+mh4edit-mit-save-id,9,0
-680,Monodevil Casque,Monodevil Casque,mh4edit-mit-save-id-en-fallback,0,0
-681,Monodevil Coif,Monodevil Coif,mh4edit-mit-save-id-en-fallback,0,0
+680,白一角龙头盔（发掘）,Monodevil Casque,mh4g-armor-name-crosswalk+mh4edit-mit-save-id,0,1
+681,白一角龙头巾（发掘）,Monodevil Coif,mh4g-armor-name-crosswalk+mh4edit-mit-save-id,0,1
 682,角龙头盔Ｘ,Diablos Helm X,mh4g-dex-build7+mh4edit-mit-save-id,9,0
 683,角龙战帽Ｘ,Diablos Cap X,mh4g-dex-build7+mh4edit-mit-save-id,9,0
 684,角龙头盔,Diablos Helm,mh4g-dex-build7+mh4edit-mit-save-id,3,0
 685,角龙战帽,Diablos Cap,mh4g-dex-build7+mh4edit-mit-save-id,3,0
-686,Diablos Casque,Diablos Casque,mh4edit-mit-save-id-en-fallback,0,0
-687,Diablos Coif,Diablos Coif,mh4edit-mit-save-id-en-fallback,0,0
+686,角龙头盔（发掘）,Diablos Casque,mh4g-armor-name-crosswalk+mh4edit-mit-save-id,0,1
+687,角龙头巾（发掘）,Diablos Coif,mh4g-armor-name-crosswalk+mh4edit-mit-save-id,0,1
 688,黑角龙头盔Ｚ,Diablos Helm Z,mh4g-dex-build7+mh4edit-mit-save-id,9,0
 689,黑角龙战帽Ｚ,Diablos Cap Z,mh4g-dex-build7+mh4edit-mit-save-id,9,0
 690,恶龙刃笠Ｘ,Dragonhead X,mh4g-dex-build7+mh4edit-mit-save-id,10,0
 691,恶龙脸Ｘ,Dragonface X,mh4g-dex-build7+mh4edit-mit-save-id,10,0
-692,Dragoncasque X,Dragoncasque X,mh4edit-mit-save-id-en-fallback,0,0
-693,Dragoncoif X,Dragoncoif X,mh4edit-mit-save-id-en-fallback,0,0
-694,Fatalis Crimsonhead Z,Fatalis Crimsonhead Z,mh4edit-mit-save-id-en-fallback,0,0
-695,Fatalis Crimsonface Z,Fatalis Crimsonface Z,mh4edit-mit-save-id-en-fallback,0,0
-696,Fatalis Crimsonhelm Z,Fatalis Crimsonhelm Z,mh4edit-mit-save-id-en-fallback,0,0
-697,Fatalis Crimsoncoif Z,Fatalis Crimsoncoif Z,mh4edit-mit-save-id-en-fallback,0,0
+692,恶龙Ｘ头盔（发掘）,Dragoncasque X,mh4g-armor-name-crosswalk+mh4edit-mit-save-id,0,1
+693,恶龙Ｘ头巾（发掘）,Dragoncoif X,mh4g-armor-name-crosswalk+mh4edit-mit-save-id,0,1
+694,红黑龙Ｚ刃笠（发掘）,Fatalis Crimsonhead Z,mh4g-armor-name-crosswalk+mh4edit-mit-save-id,0,1
+695,红黑龙Ｚ脸（发掘）,Fatalis Crimsonface Z,mh4g-armor-name-crosswalk+mh4edit-mit-save-id,0,1
+696,红黑龙Ｚ头盔（发掘）,Fatalis Crimsonhelm Z,mh4g-armor-name-crosswalk+mh4edit-mit-save-id,0,1
+697,红黑龙Ｚ头巾（发掘）,Fatalis Crimsoncoif Z,mh4g-armor-name-crosswalk+mh4edit-mit-save-id,0,1
 698,黑龙刃笠,Wrothhead,mh4g-dex-build7+mh4edit-mit-save-id,10,0
 699,黑龙脸,Wrothface,mh4g-dex-build7+mh4edit-mit-save-id,10,0
 700,祖龙刃笠,White Fatalis Head,mh4g-dex-build7+mh4edit-mit-save-id,10,0
@@ -723,28 +723,28 @@ id,name,english,source,rarity,is_relic
 721,黑狼鸟战帽Ｘ,Garuga Cap X,mh4g-dex-build7+mh4edit-mit-save-id,9,0
 722,麒麟头笛Ｘ,Kirin Horn X,mh4g-dex-build7+mh4edit-mit-save-id,10,0
 723,麒麟头冠Ｘ,Kirin Crest X,mh4g-dex-build7+mh4edit-mit-save-id,10,0
-724,Kirin Casque,Kirin Casque,mh4edit-mit-save-id-en-fallback,0,0
-725,Kirin Coif,Kirin Coif,mh4edit-mit-save-id-en-fallback,0,0
+724,麒麟头盔（发掘）,Kirin Casque,mh4g-armor-name-crosswalk+mh4edit-mit-save-id,0,1
+725,麒麟头巾（发掘）,Kirin Coif,mh4g-armor-name-crosswalk+mh4edit-mit-save-id,0,1
 726,冰麒麟头笛Ｚ,Kirin Horn Z,mh4g-dex-build7+mh4edit-mit-save-id,10,0
 727,冰麒麟头冠Ｚ,Kirin Crest Z,mh4g-dex-build7+mh4edit-mit-save-id,10,0
-728,Kirin Casque U,Kirin Casque U,mh4edit-mit-save-id-en-fallback,0,0
-729,Kirin Coif U,Kirin Coif U,mh4edit-mit-save-id-en-fallback,0,0
+728,冰麒麟Ｕ头盔（发掘）,Kirin Casque U,mh4g-armor-name-crosswalk+mh4edit-mit-save-id,0,1
+729,冰麒麟Ｕ头巾（发掘）,Kirin Coif U,mh4g-armor-name-crosswalk+mh4edit-mit-save-id,0,1
 730,飞甲虫帽子Ｘ,Bnahabra Hat X,mh4g-dex-build7+mh4edit-mit-save-id,8,0
 731,飞甲虫战帽Ｘ,Bnahabra Headpiece X,mh4g-dex-build7+mh4edit-mit-save-id,8,0
 732,垂皮龙头罩Ｘ,Slagtoth Hood X,mh4g-dex-build7+mh4edit-mit-save-id,8,0
 733,垂皮龙头帽Ｘ,Slagtoth Cowl X,mh4g-dex-build7+mh4edit-mit-save-id,8,0
 734,草食龙头盔Ｘ,Rhenoplos Helm X,mh4g-dex-build7+mh4edit-mit-save-id,8,0
 735,草食龙战帽Ｘ,Rhenoplos Cap X,mh4g-dex-build7+mh4edit-mit-save-id,8,0
-736,Hunter's Casque,Hunter's Casque,mh4edit-mit-save-id-en-fallback,0,0
-737,Hunter's Coif,Hunter's Coif,mh4edit-mit-save-id-en-fallback,0,0
-738,Alloy Casque,Alloy Casque,mh4edit-mit-save-id-en-fallback,0,0
-739,Alloy Coif,Alloy Coif,mh4edit-mit-save-id-en-fallback,0,0
+736,猎人头盔（发掘）,Hunter's Casque,mh4g-armor-name-crosswalk+mh4edit-mit-save-id,0,1
+737,猎人头巾（发掘）,Hunter's Coif,mh4g-armor-name-crosswalk+mh4edit-mit-save-id,0,1
+738,合金头盔（发掘）,Alloy Casque,mh4g-armor-name-crosswalk+mh4edit-mit-save-id,0,1
+739,合金头巾（发掘）,Alloy Coif,mh4g-armor-name-crosswalk+mh4edit-mit-save-id,0,1
 740,神秘头盔Ｘ,Artian Helm X,mh4g-dex-build7+mh4edit-mit-save-id,9,0
 741,神秘战帽Ｘ,Artian Cap X,mh4g-dex-build7+mh4edit-mit-save-id,9,0
-742,Arc Casque S,Arc Casque S,mh4edit-mit-save-id-en-fallback,0,0
-743,Arc Coif S,Arc Coif S,mh4edit-mit-save-id-en-fallback,0,0
-744,Ingot Casque,Ingot Casque,mh4edit-mit-save-id-en-fallback,0,0
-745,Ingot Coif,Ingot Coif,mh4edit-mit-save-id-en-fallback,0,0
+742,弧光Ｓ头盔（发掘）,Arc Casque S,mh4g-armor-name-crosswalk+mh4edit-mit-save-id,0,1
+743,弧光Ｓ头巾（发掘）,Arc Coif S,mh4g-armor-name-crosswalk+mh4edit-mit-save-id,0,1
+744,铸锭头盔（发掘）,Ingot Casque,mh4g-armor-name-crosswalk+mh4edit-mit-save-id,0,1
+745,铸锭头巾（发掘）,Ingot Coif,mh4g-armor-name-crosswalk+mh4edit-mit-save-id,0,1
 746,守护者头盔Ｘ,Guardian Helm X,mh4g-dex-build7+mh4edit-mit-save-id,8,0
 747,女佣头罩Ｘ,Helper Hood X,mh4g-dex-build7+mh4edit-mit-save-id,8,0
 748,守护者面具Ｘ,Guardian Mask X,mh4g-dex-build7+mh4edit-mit-save-id,8,0
@@ -761,42 +761,42 @@ id,name,english,source,rarity,is_relic
 759,女王刃笠,Sororal Headgear,mh4g-dex-build7+mh4edit-mit-save-id,9,0
 760,首领脸,Ace Mask,mh4g-dex-build7+mh4edit-mit-save-id,9,0
 761,女王脸,Sororal Mask,mh4g-dex-build7+mh4edit-mit-save-id,9,0
-762,Ceanataur Casque,Ceanataur Casque,mh4edit-mit-save-id-en-fallback,0,0
-763,Ceanataur Coif,Ceanataur Coif,mh4edit-mit-save-id-en-fallback,0,0
-764,Lagiacrus Casque,Lagiacrus Casque,mh4edit-mit-save-id-en-fallback,0,0
-765,Lagiacrus Coif,Lagiacrus Coif,mh4edit-mit-save-id-en-fallback,0,0
-766,Escadora Casque,Escadora Casque,mh4edit-mit-save-id-en-fallback,0,0
-767,Escadora Coif,Escadora Coif,mh4edit-mit-save-id-en-fallback,0,0
-768,Auroros Kermes Helm,Auroros Kermes Helm,mh4edit-mit-save-id-en-fallback,0,0
-769,Borealis Bellflower,Borealis Bellflower,mh4edit-mit-save-id-en-fallback,0,0
-770,Genesis Kermes Helm,Genesis Kermes Helm,mh4edit-mit-save-id-en-fallback,0,0
-771,Glyph Bellflower,Glyph Bellflower,mh4edit-mit-save-id-en-fallback,0,0
-772,Ludroth Casque,Ludroth Casque,mh4edit-mit-save-id-en-fallback,0,0
-773,Ludroth Coif,Ludroth Coif,mh4edit-mit-save-id-en-fallback,0,0
-774,Hornet Helm,Hornet Helm,mh4edit-mit-save-id-en-fallback,0,0
-775,Hornet Cap,Hornet Cap,mh4edit-mit-save-id-en-fallback,0,0
-776,Hornet Casque,Hornet Casque,mh4edit-mit-save-id-en-fallback,0,0
-777,Hornet Coif,Hornet Coif,mh4edit-mit-save-id-en-fallback,0,0
-778,Wroggi Hat,Wroggi Hat,mh4edit-mit-save-id-en-fallback,0,0
-779,Wroggi Cap,Wroggi Cap,mh4edit-mit-save-id-en-fallback,0,0
-780,Wroggi Casque,Wroggi Casque,mh4edit-mit-save-id-en-fallback,0,0
-781,Wroggi Coif,Wroggi Coif,mh4edit-mit-save-id-en-fallback,0,0
-782,Gigginox Helm,Gigginox Helm,mh4edit-mit-save-id-en-fallback,0,0
-783,Gigginox Cap,Gigginox Cap,mh4edit-mit-save-id-en-fallback,0,0
-784,Gigginox Casque,Gigginox Casque,mh4edit-mit-save-id-en-fallback,0,0
-785,Gigginox Coif,Gigginox Coif,mh4edit-mit-save-id-en-fallback,0,0
+762,镰蟹头盔（发掘）,Ceanataur Casque,mh4g-armor-name-crosswalk+mh4edit-mit-save-id,0,1
+763,镰蟹头巾（发掘）,Ceanataur Coif,mh4g-armor-name-crosswalk+mh4edit-mit-save-id,0,1
+764,海龙头盔（发掘）,Lagiacrus Casque,mh4g-armor-name-crosswalk+mh4edit-mit-save-id,0,1
+765,海龙头巾（发掘）,Lagiacrus Coif,mh4g-armor-name-crosswalk+mh4edit-mit-save-id,0,1
+766,煌黑龙头盔（发掘）,Escadora Casque,mh4g-armor-name-crosswalk+mh4edit-mit-save-id,0,1
+767,煌黑龙头巾（发掘）,Escadora Coif,mh4g-armor-name-crosswalk+mh4edit-mit-save-id,0,1
+768,晓丸头盔（发掘）,Auroros Kermes Helm,mh4g-armor-name-crosswalk+mh4edit-mit-save-id,0,1
+769,凛头饰（发掘）,Borealis Bellflower,mh4g-armor-name-crosswalk+mh4edit-mit-save-id,0,1
+770,曙丸头盔（发掘）,Genesis Kermes Helm,mh4g-armor-name-crosswalk+mh4edit-mit-save-id,0,1
+771,妖艳头饰（发掘）,Glyph Bellflower,mh4g-armor-name-crosswalk+mh4edit-mit-save-id,0,1
+772,水兽头盔（发掘）,Ludroth Casque,mh4g-armor-name-crosswalk+mh4edit-mit-save-id,0,1
+773,水兽头巾（发掘）,Ludroth Coif,mh4g-armor-name-crosswalk+mh4edit-mit-save-id,0,1
+774,甲虫头盔（发掘）,Hornet Helm,mh4g-armor-name-crosswalk+mh4edit-mit-save-id,0,1
+775,甲虫战帽（发掘）,Hornet Cap,mh4g-armor-name-crosswalk+mh4edit-mit-save-id,0,1
+776,甲虫头盔（发掘）,Hornet Casque,mh4g-armor-name-crosswalk+mh4edit-mit-save-id,0,1
+777,甲虫头巾（发掘）,Hornet Coif,mh4g-armor-name-crosswalk+mh4edit-mit-save-id,0,1
+778,毒狗龙头盔（发掘）,Wroggi Hat,mh4g-armor-name-crosswalk+mh4edit-mit-save-id,0,1
+779,毒狗龙战帽（发掘）,Wroggi Cap,mh4g-armor-name-crosswalk+mh4edit-mit-save-id,0,1
+780,毒狗龙头盔（发掘）,Wroggi Casque,mh4g-armor-name-crosswalk+mh4edit-mit-save-id,0,1
+781,毒狗龙头巾（发掘）,Wroggi Coif,mh4g-armor-name-crosswalk+mh4edit-mit-save-id,0,1
+782,毒怪龙头盔（发掘）,Gigginox Helm,mh4g-armor-name-crosswalk+mh4edit-mit-save-id,0,1
+783,毒怪龙战帽（发掘）,Gigginox Cap,mh4g-armor-name-crosswalk+mh4edit-mit-save-id,0,1
+784,毒怪龙头盔（发掘）,Gigginox Casque,mh4g-armor-name-crosswalk+mh4edit-mit-save-id,0,1
+785,毒怪龙头巾（发掘）,Gigginox Coif,mh4g-armor-name-crosswalk+mh4edit-mit-save-id,0,1
 786,荒天【头冠】,Tempest Crown,mh4g-dex-build7+mh4edit-mit-save-id,10,0
 787,苍天【头冠】,Welkin Crown,mh4g-dex-build7+mh4edit-mit-save-id,10,0
-788,Tempest Diadem,Tempest Diadem,mh4edit-mit-save-id-en-fallback,0,0
-789,Welkin Diadem,Welkin Diadem,mh4edit-mit-save-id-en-fallback,0,0
-790,Death Stench Brain,Death Stench Brain,mh4edit-mit-save-id-en-fallback,0,0
-791,Death Stench Soul,Death Stench Soul,mh4edit-mit-save-id-en-fallback,0,0
-792,Death Stench Casque,Death Stench Casque,mh4edit-mit-save-id-en-fallback,0,0
-793,Death Stench Coif,Death Stench Coif,mh4edit-mit-save-id-en-fallback,0,0
-794,Damascus Helm,Damascus Helm,mh4edit-mit-save-id-en-fallback,0,0
-795,Damascus Cap,Damascus Cap,mh4edit-mit-save-id-en-fallback,0,0
-796,Damascus Casque,Damascus Casque,mh4edit-mit-save-id-en-fallback,0,0
-797,Damascus Coif,Damascus Coif,mh4edit-mit-save-id-en-fallback,0,0
+788,荒天光冠（发掘）,Tempest Diadem,mh4g-armor-name-crosswalk+mh4edit-mit-save-id,0,1
+789,苍天光冠（发掘）,Welkin Diadem,mh4g-armor-name-crosswalk+mh4edit-mit-save-id,0,1
+790,死神头盔（发掘）,Death Stench Brain,mh4g-armor-name-crosswalk+mh4edit-mit-save-id,0,1
+791,死神战帽（发掘）,Death Stench Soul,mh4g-armor-name-crosswalk+mh4edit-mit-save-id,0,1
+792,死神头盔（发掘）,Death Stench Casque,mh4g-armor-name-crosswalk+mh4edit-mit-save-id,0,1
+793,死神头巾（发掘）,Death Stench Coif,mh4g-armor-name-crosswalk+mh4edit-mit-save-id,0,1
+794,大马士革头盔（发掘）,Damascus Helm,mh4g-armor-name-crosswalk+mh4edit-mit-save-id,0,1
+795,大马士革战帽（发掘）,Damascus Cap,mh4g-armor-name-crosswalk+mh4edit-mit-save-id,0,1
+796,大马士革头盔（发掘）,Damascus Casque,mh4g-armor-name-crosswalk+mh4edit-mit-save-id,0,1
+797,大马士革头巾（发掘）,Damascus Coif,mh4g-armor-name-crosswalk+mh4edit-mit-save-id,0,1
 798,海龙头盔Ｘ,Lagiacrus Helm X,mh4g-dex-build7+mh4edit-mit-save-id,9,0
 799,海龙战帽Ｘ,Lagiacrus Cap X,mh4g-dex-build7+mh4edit-mit-save-id,9,0
 800,迅龙头盔Ｘ,Nargacuga Helm X,mh4g-dex-build7+mh4edit-mit-save-id,9,0
@@ -853,10 +853,10 @@ id,name,english,source,rarity,is_relic
 851,EX妖艳【钵金】,EX Glyph Crown,mh4g-dex-build7+mh4edit-mit-save-id,10,0
 852,荒天【头冠】,Tempest Crown,mh4g-dex-build7+mh4edit-mit-save-id,10,0
 853,苍天【头冠】,Welkin Crown,mh4g-dex-build7+mh4edit-mit-save-id,10,0
-854,GX Escadora Casque,GX Escadora Casque,mh4edit-mit-save-id-en-fallback,0,0
-855,GX Escadora Coif,GX Escadora Coif,mh4edit-mit-save-id-en-fallback,0,0
-856,GX Dragoncasque X,GX Dragoncasque X,mh4edit-mit-save-id-en-fallback,0,0
-857,GX Dragoncoif X,GX Dragoncoif X,mh4edit-mit-save-id-en-fallback,0,0
+854,GX煌黑龙头盔（发掘）,GX Escadora Casque,mh4g-armor-name-crosswalk+mh4edit-mit-save-id,0,1
+855,GX煌黑龙头巾（发掘）,GX Escadora Coif,mh4g-armor-name-crosswalk+mh4edit-mit-save-id,0,1
+856,GX恶龙Ｘ头盔（发掘）,GX Dragoncasque X,mh4g-armor-name-crosswalk+mh4edit-mit-save-id,0,1
+857,GX恶龙Ｘ头巾（发掘）,GX Dragoncoif X,mh4g-armor-name-crosswalk+mh4edit-mit-save-id,0,1
 858,星骑士头盔,Star Knight Helm,mh4g-dex-build7+mh4edit-mit-save-id,10,0
 859,星骑士战帽,Star Knight Cap,mh4g-dex-build7+mh4edit-mit-save-id,10,0
 860,【美】愤怒头盔,Helm of Rage,mh4g-dex-build7+mh4edit-mit-save-id,10,0
@@ -968,21 +968,21 @@ id,name,english,source,rarity,is_relic
 966,冰麒麟头冠Ｕ,Kirin Crest U,mh4g-dex-build7+mh4edit-mit-save-id,7,0
 967,贪婪头盔,Esurient Helm,mh4g-dex-build7+mh4edit-mit-save-id,7,0
 968,贪婪战帽,Esurient Cap,mh4g-dex-build7+mh4edit-mit-save-id,7,0
-969,Monoblos Helm,Monoblos Helm,mh4edit-mit-save-id-en-fallback,0,0
-970,Monoblos Cap,Monoblos Cap,mh4edit-mit-save-id-en-fallback,0,0
-971,Hornet Helm,Hornet Helm,mh4edit-mit-save-id-en-fallback,0,0
-972,Hornet Cap,Hornet Cap,mh4edit-mit-save-id-en-fallback,0,0
-973,Wroggi Hat,Wroggi Hat,mh4edit-mit-save-id-en-fallback,0,0
-974,Wroggi Cap,Wroggi Cap,mh4edit-mit-save-id-en-fallback,0,0
+969,一角龙头盔（发掘）,Monoblos Helm,mh4g-armor-name-crosswalk+mh4edit-mit-save-id,0,1
+970,一角龙战帽（发掘）,Monoblos Cap,mh4g-armor-name-crosswalk+mh4edit-mit-save-id,0,1
+971,甲虫头盔（发掘）,Hornet Helm,mh4g-armor-name-crosswalk+mh4edit-mit-save-id,0,1
+972,甲虫战帽（发掘）,Hornet Cap,mh4g-armor-name-crosswalk+mh4edit-mit-save-id,0,1
+973,毒狗龙头盔（发掘）,Wroggi Hat,mh4g-armor-name-crosswalk+mh4edit-mit-save-id,0,1
+974,毒狗龙战帽（发掘）,Wroggi Cap,mh4g-armor-name-crosswalk+mh4edit-mit-save-id,0,1
 975,白一角龙头盔,Monodevil Helm,mh4g-dex-build7+mh4edit-mit-save-id,9,0
 976,白一角龙战帽,Monodevil Cap,mh4g-dex-build7+mh4edit-mit-save-id,9,0
 977,角龙头盔,Diablos Helm,mh4g-dex-build7+mh4edit-mit-save-id,3,0
 978,角龙战帽,Diablos Cap,mh4g-dex-build7+mh4edit-mit-save-id,3,0
-979,Gigginox Helm,Gigginox Helm,mh4edit-mit-save-id-en-fallback,0,0
-980,Gigginox Cap,Gigginox Cap,mh4edit-mit-save-id-en-fallback,0,0
-981,Death Stench Brain,Death Stench Brain,mh4edit-mit-save-id-en-fallback,0,0
-982,Death Stench Soul,Death Stench Soul,mh4edit-mit-save-id-en-fallback,0,0
-983,Damascus Helm,Damascus Helm,mh4edit-mit-save-id-en-fallback,0,0
-984,Damascus Cap,Damascus Cap,mh4edit-mit-save-id-en-fallback,0,0
+979,毒怪龙头盔（发掘）,Gigginox Helm,mh4g-armor-name-crosswalk+mh4edit-mit-save-id,0,1
+980,毒怪龙战帽（发掘）,Gigginox Cap,mh4g-armor-name-crosswalk+mh4edit-mit-save-id,0,1
+981,死神头盔（发掘）,Death Stench Brain,mh4g-armor-name-crosswalk+mh4edit-mit-save-id,0,1
+982,死神战帽（发掘）,Death Stench Soul,mh4g-armor-name-crosswalk+mh4edit-mit-save-id,0,1
+983,大马士革头盔（发掘）,Damascus Helm,mh4g-armor-name-crosswalk+mh4edit-mit-save-id,0,1
+984,大马士革战帽（发掘）,Damascus Cap,mh4g-armor-name-crosswalk+mh4edit-mit-save-id,0,1
 985,DUMMY,DUMMY,mh4edit-mit-save-id-en-fallback,0,0
 986,DUMMY,DUMMY,mh4edit-mit-save-id-en-fallback,0,0
