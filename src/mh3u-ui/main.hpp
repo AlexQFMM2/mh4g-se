@@ -88,6 +88,25 @@ static inline QVariant searchableComboBoxCurrentData(QComboBox *comboBox)
     return comboBox->itemData(index);
 }
 
+static inline int searchableComboBoxUnsignedValue(
+    QComboBox *comboBox,
+    uint32_t maximum,
+    bool *ok = NULL)
+{
+    bool localOk = false;
+    int value = searchableComboBoxCurrentData(comboBox).toInt(&localOk);
+    if (!localOk || comboBox == NULL || comboBox->currentIndex() < 0)
+    {
+        QString text = comboBox == NULL ? QString() : comboBox->currentText().trimmed();
+        QRegExp hex("^0x([0-9A-Fa-f]{1,8})$");
+        if (hex.exactMatch(text)) value = hex.cap(1).toInt(&localOk, 16);
+        else value = text.toInt(&localOk, 10);
+    }
+    localOk = localOk && value >= 0 && static_cast<uint32_t>(value) <= maximum;
+    if (ok != NULL) *ok = localOk;
+    return localOk ? value : -1;
+}
+
 static inline QString displayNameWithoutSearchSuffix(const QString &name)
 {
     // MH4G CSV stores localized and English names in separate columns. Parentheses
@@ -150,6 +169,30 @@ static inline void populateEquipmentIdentifierComboBox(
             currentIdentifier
         );
     }
+}
+
+static inline void selectOrPreserveComboBoxValue(
+    QComboBox *comboBox,
+    uint32_t value,
+    const QString &kind)
+{
+    if (comboBox == NULL)
+    {
+        return;
+    }
+
+    int index = comboBox->findData(value);
+    if (index < 0)
+    {
+        comboBox->addItem(
+            QString::fromUtf8("保留原值 0x%1（未收录%2）")
+                .arg(value, 4, 16, QChar('0')).toUpper()
+                .arg(kind),
+            value
+        );
+        index = comboBox->count() - 1;
+    }
+    comboBox->setCurrentIndex(index);
 }
 
 static inline QString compactDisplayName(const QString &name)

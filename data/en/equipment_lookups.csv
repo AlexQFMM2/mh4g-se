@@ -1660,6 +1660,7 @@ sharpness,7,melee,17,0x11,0x11,mh4edit-mit-save-id
 sharpness,7,melee,18,0x12,0x12,mh4edit-mit-save-id
 sharpness,7,melee,19,0x13,0x13,mh4edit-mit-save-id
 sharpness,7,melee,20,0x14,0x14,mh4edit-mit-save-id
+sharpness,7,melee,21,Purple scheme 0x15,Purple scheme 0x15,mikewii-mh4u-editor-sharpness
 sharpness,7,melee,218,0xDA,0xDA,mh4edit-mit-save-id
 sharpness,8,melee,0,0x00,0x00,mh4edit-mit-save-id
 sharpness,8,melee,1,0x01,0x01,mh4edit-mit-save-id
@@ -1682,6 +1683,7 @@ sharpness,8,melee,17,0x11,0x11,mh4edit-mit-save-id
 sharpness,8,melee,18,0x12,0x12,mh4edit-mit-save-id
 sharpness,8,melee,19,0x13,0x13,mh4edit-mit-save-id
 sharpness,8,melee,20,0x14,0x14,mh4edit-mit-save-id
+sharpness,8,melee,21,Purple scheme 0x15,Purple scheme 0x15,mikewii-mh4u-editor-sharpness
 sharpness,8,melee,218,0xDA,0xDA,mh4edit-mit-save-id
 sharpness,9,melee,0,0x00,0x00,mh4edit-mit-save-id
 sharpness,9,melee,1,0x01,0x01,mh4edit-mit-save-id
@@ -1704,6 +1706,7 @@ sharpness,9,melee,17,0x11,0x11,mh4edit-mit-save-id
 sharpness,9,melee,18,0x12,0x12,mh4edit-mit-save-id
 sharpness,9,melee,19,0x13,0x13,mh4edit-mit-save-id
 sharpness,9,melee,20,0x14,0x14,mh4edit-mit-save-id
+sharpness,9,melee,21,Purple scheme 0x15,Purple scheme 0x15,mikewii-mh4u-editor-sharpness
 sharpness,9,melee,218,0xDA,0xDA,mh4edit-mit-save-id
 sharpness,10,melee,0,0x00,0x00,mh4edit-mit-save-id
 sharpness,10,melee,1,0x01,0x01,mh4edit-mit-save-id
@@ -1726,6 +1729,7 @@ sharpness,10,melee,17,0x11,0x11,mh4edit-mit-save-id
 sharpness,10,melee,18,0x12,0x12,mh4edit-mit-save-id
 sharpness,10,melee,19,0x13,0x13,mh4edit-mit-save-id
 sharpness,10,melee,20,0x14,0x14,mh4edit-mit-save-id
+sharpness,10,melee,21,Purple scheme 0x15,Purple scheme 0x15,mikewii-mh4u-editor-sharpness
 sharpness,10,melee,218,0xDA,0xDA,mh4edit-mit-save-id
 sharpness,11,light_bowgun,0,0x00,0x00,mh4edit-mit-save-id
 sharpness,11,light_bowgun,1,0x01,0x01,mh4edit-mit-save-id
@@ -1789,6 +1793,7 @@ sharpness,13,melee,17,0x11,0x11,mh4edit-mit-save-id
 sharpness,13,melee,18,0x12,0x12,mh4edit-mit-save-id
 sharpness,13,melee,19,0x13,0x13,mh4edit-mit-save-id
 sharpness,13,melee,20,0x14,0x14,mh4edit-mit-save-id
+sharpness,13,melee,21,Purple scheme 0x15,Purple scheme 0x15,mikewii-mh4u-editor-sharpness
 sharpness,13,melee,218,0xDA,0xDA,mh4edit-mit-save-id
 sharpness,14,melee,0,0x00,0x00,mh4edit-mit-save-id
 sharpness,14,melee,1,0x01,0x01,mh4edit-mit-save-id
@@ -1811,6 +1816,7 @@ sharpness,14,melee,17,0x11,0x11,mh4edit-mit-save-id
 sharpness,14,melee,18,0x12,0x12,mh4edit-mit-save-id
 sharpness,14,melee,19,0x13,0x13,mh4edit-mit-save-id
 sharpness,14,melee,20,0x14,0x14,mh4edit-mit-save-id
+sharpness,14,melee,21,Purple scheme 0x15,Purple scheme 0x15,mikewii-mh4u-editor-sharpness
 sharpness,14,melee,218,0xDA,0xDA,mh4edit-mit-save-id
 sharpness,15,melee,0,0x00,0x00,mh4edit-mit-save-id
 sharpness,15,melee,1,0x01,0x01,mh4edit-mit-save-id
@@ -1833,6 +1839,7 @@ sharpness,15,melee,17,0x11,0x11,mh4edit-mit-save-id
 sharpness,15,melee,18,0x12,0x12,mh4edit-mit-save-id
 sharpness,15,melee,19,0x13,0x13,mh4edit-mit-save-id
 sharpness,15,melee,20,0x14,0x14,mh4edit-mit-save-id
+sharpness,15,melee,21,Purple scheme 0x15,Purple scheme 0x15,mikewii-mh4u-editor-sharpness
 sharpness,15,melee,218,0xDA,0xDA,mh4edit-mit-save-id
 sharpness,16,bow,0,0x00,0x00,mh4edit-mit-save-id
 sharpness,16,bow,1,0x01,0x01,mh4edit-mit-save-id
@@ -1877,6 +1884,7 @@ sharpness,17,melee,17,0x11,0x11,mh4edit-mit-save-id
 sharpness,17,melee,18,0x12,0x12,mh4edit-mit-save-id
 sharpness,17,melee,19,0x13,0x13,mh4edit-mit-save-id
 sharpness,17,melee,20,0x14,0x14,mh4edit-mit-save-id
+sharpness,17,melee,21,Purple scheme 0x15,Purple scheme 0x15,mikewii-mh4u-editor-sharpness
 sharpness,17,melee,218,0xDA,0xDA,mh4edit-mit-save-id
 sharpness,18,melee,0,0x00,0x00,mh4edit-mit-save-id
 sharpness,18,melee,1,0x01,0x01,mh4edit-mit-save-id
@@ -1899,6 +1907,7 @@ sharpness,18,melee,17,0x11,0x11,mh4edit-mit-save-id
 sharpness,18,melee,18,0x12,0x12,mh4edit-mit-save-id
 sharpness,18,melee,19,0x13,0x13,mh4edit-mit-save-id
 sharpness,18,melee,20,0x14,0x14,mh4edit-mit-save-id
+sharpness,18,melee,21,Purple scheme 0x15,Purple scheme 0x15,mikewii-mh4u-editor-sharpness
 sharpness,18,melee,218,0xDA,0xDA,mh4edit-mit-save-id
 sharpness,19,melee,0,0x00,0x00,mh4edit-mit-save-id
 sharpness,19,melee,1,0x01,0x01,mh4edit-mit-save-id
@@ -1921,6 +1930,7 @@ sharpness,19,melee,17,0x11,0x11,mh4edit-mit-save-id
 sharpness,19,melee,18,0x12,0x12,mh4edit-mit-save-id
 sharpness,19,melee,19,0x13,0x13,mh4edit-mit-save-id
 sharpness,19,melee,20,0x14,0x14,mh4edit-mit-save-id
+sharpness,19,melee,21,Purple scheme 0x15,Purple scheme 0x15,mikewii-mh4u-editor-sharpness
 sharpness,19,melee,218,0xDA,0xDA,mh4edit-mit-save-id
 sharpness,20,melee,0,0x00,0x00,mh4edit-mit-save-id
 sharpness,20,melee,1,0x01,0x01,mh4edit-mit-save-id
@@ -1943,6 +1953,7 @@ sharpness,20,melee,17,0x11,0x11,mh4edit-mit-save-id
 sharpness,20,melee,18,0x12,0x12,mh4edit-mit-save-id
 sharpness,20,melee,19,0x13,0x13,mh4edit-mit-save-id
 sharpness,20,melee,20,0x14,0x14,mh4edit-mit-save-id
+sharpness,20,melee,21,Purple scheme 0x15,Purple scheme 0x15,mikewii-mh4u-editor-sharpness
 sharpness,20,melee,218,0xDA,0xDA,mh4edit-mit-save-id
 skill_points,6,primary,0,0,0,mh4edit-mit-save-id
 skill_points,6,primary,1,1,1,mh4edit-mit-save-id

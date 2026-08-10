@@ -12,6 +12,7 @@ INCLUDEPATH += $$PWD/src $$PWD/src/mh3u-ui $$PWD/src/mh3u-ui/widget
 
 SOURCES += \
     src/mh4g.cpp \
+    src/mh4g_equipment_values.cpp \
     src/mh4g_transfer.cpp \
     src/mh4g_ui_compat.cpp \
     src/mh3u-ui/main.cpp \
@@ -28,6 +29,7 @@ SOURCES += \
 
 HEADERS += \
     src/mh4g.hpp \
+    src/mh4g_equipment_values.hpp \
     src/mh4g_transfer.hpp \
     src/mh4g_ui_compat.hpp \
     src/mh3u-ui/main.hpp \

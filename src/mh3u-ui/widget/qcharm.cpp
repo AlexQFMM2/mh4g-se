@@ -6,6 +6,14 @@
 #include <QMessageBox>
 #include <QPushButton>
 
+namespace
+{
+QString charmHexWord(uint16_t value)
+{
+    return QString("0x%1").arg(value, 4, 16, QChar('0')).toUpper();
+}
+}
+
 QCharm::QCharm(charm_t *charm, QWidget *parent) : QEquipment(NULL, parent)
 {
     this->charm = charm;
@@ -61,6 +69,11 @@ QCharm::QCharm(charm_t *charm, QWidget *parent) : QEquipment(NULL, parent)
     configureSearchableComboBox(m_firstJewelIdentifier);
     configureSearchableComboBox(m_secondJewelIdentifier);
     configureSearchableComboBox(m_thirdJewelIdentifier);
+    m_firstJewelFixed = new QCheckBox("固定/内置", this);
+    m_secondJewelFixed = new QCheckBox("固定/内置", this);
+    m_thirdJewelFixed = new QCheckBox("固定/内置", this);
+    for (QCheckBox *fixed : {m_firstJewelFixed, m_secondJewelFixed, m_thirdJewelFixed})
+        fixed->setToolTip("对应装饰珠 ID 的 bit15；勾选时写入固定/内置标记。");
 
 
     QGridLayout *layout = new QGridLayout(this);
@@ -84,45 +97,64 @@ QCharm::QCharm(charm_t *charm, QWidget *parent) : QEquipment(NULL, parent)
     layout->addWidget(m_firstJewelIdentifier, 1, 7);
     layout->addWidget(m_secondJewelIdentifier, 1, 8);
     layout->addWidget(m_thirdJewelIdentifier, 1, 9);
+    layout->addWidget(m_firstJewelFixed, 2, 7);
+    layout->addWidget(m_secondJewelFixed, 2, 8);
+    layout->addWidget(m_thirdJewelFixed, 2, 9);
     QDialogButtonBox *buttons = new QDialogButtonBox(QDialogButtonBox::Save | QDialogButtonBox::Close, this);
     buttons->button(QDialogButtonBox::Save)->setText("保存");
     buttons->button(QDialogButtonBox::Close)->setText("关闭");
     connect(buttons, SIGNAL(accepted()), this, SLOT(saveAndAccept()));
     connect(buttons, SIGNAL(rejected()), this, SLOT(reject()));
-    layout->addWidget(buttons, 2, 0, 1, 10);
+    layout->addWidget(buttons, 3, 0, 1, 10);
     this->setLayout(layout);
     this->setWindowTitle(uiText("Single charm editor"));
 
     this->load();
 }
 
+void QCharm::selectOrPreserve(QComboBox *combo, uint16_t value, const QString &kind)
+{
+    int index = combo->findData(value);
+    if (index < 0)
+    {
+        combo->addItem(QString("保留原值 %1（未收录%2）").arg(charmHexWord(value), kind), value);
+        index = combo->count() - 1;
+    }
+    combo->setCurrentIndex(index);
+}
 
 void QCharm::load()
 {
     m_equipmentType->setCurrentIndex(m_equipmentType->findData(charm->equipmentType));
     m_slotsCount->setValue(charm->slotsCount);
-    m_identifier->setCurrentIndex(m_identifier->findData(charm->identifier));
-    m_firstSkillIdentifier->setCurrentIndex(m_firstSkillIdentifier->findData(charm->firstSkillIdentifier));
+    selectOrPreserve(m_identifier, charm->identifier, "护石");
+    selectOrPreserve(m_firstSkillIdentifier, charm->firstSkillIdentifier, "技能");
     m_firstSkillValue->setValue(charm->firstSkillValue);
-    m_secondSkillIdentifier->setCurrentIndex(m_secondSkillIdentifier->findData(charm->secondSkillIdentifier));
+    selectOrPreserve(m_secondSkillIdentifier, charm->secondSkillIdentifier, "技能");
     m_secondSkillValue->setValue(charm->secondSkillValue);
-    m_firstJewelIdentifier->setCurrentIndex(m_firstJewelIdentifier->findData(charm->firstJewelIdentifier & 0x7fff));
-    m_secondJewelIdentifier->setCurrentIndex(m_secondJewelIdentifier->findData(charm->secondJewelIdentifier & 0x7fff));
-    m_thirdJewelIdentifier->setCurrentIndex(m_thirdJewelIdentifier->findData(charm->thirdJewelIdentifier & 0x7fff));
+    selectOrPreserve(m_firstJewelIdentifier, charm->firstJewelIdentifier & 0x7fff, "装饰珠");
+    selectOrPreserve(m_secondJewelIdentifier, charm->secondJewelIdentifier & 0x7fff, "装饰珠");
+    selectOrPreserve(m_thirdJewelIdentifier, charm->thirdJewelIdentifier & 0x7fff, "装饰珠");
+    m_firstJewelFixed->setChecked((charm->firstJewelIdentifier & 0x8000) != 0);
+    m_secondJewelFixed->setChecked((charm->secondJewelIdentifier & 0x8000) != 0);
+    m_thirdJewelFixed->setChecked((charm->thirdJewelIdentifier & 0x8000) != 0);
 }
 
 void QCharm::save()
 {
     charm->equipmentType = (uint8_t) searchableComboBoxCurrentData(m_equipmentType).toInt();
     charm->slotsCount = m_slotsCount->value();
-    charm->identifier = (uint16_t) searchableComboBoxCurrentData(m_identifier).toInt();
-    charm->firstSkillIdentifier = (uint16_t) searchableComboBoxCurrentData(m_firstSkillIdentifier).toInt();
+    charm->identifier = (uint16_t) searchableComboBoxUnsignedValue(m_identifier, 0xffff);
+    charm->firstSkillIdentifier = (uint16_t) searchableComboBoxUnsignedValue(m_firstSkillIdentifier, 0xffff);
     charm->firstSkillValue = m_firstSkillValue->value();
-    charm->secondSkillIdentifier = (uint16_t) searchableComboBoxCurrentData(m_secondSkillIdentifier).toInt();
+    charm->secondSkillIdentifier = (uint16_t) searchableComboBoxUnsignedValue(m_secondSkillIdentifier, 0xffff);
     charm->secondSkillValue = m_secondSkillValue->value();
-    charm->firstJewelIdentifier = (charm->firstJewelIdentifier & 0x8000) | (uint16_t) searchableComboBoxCurrentData(m_firstJewelIdentifier).toInt();
-    charm->secondJewelIdentifier = (charm->secondJewelIdentifier & 0x8000) | (uint16_t) searchableComboBoxCurrentData(m_secondJewelIdentifier).toInt();
-    charm->thirdJewelIdentifier = (charm->thirdJewelIdentifier & 0x8000) | (uint16_t) searchableComboBoxCurrentData(m_thirdJewelIdentifier).toInt();
+    charm->firstJewelIdentifier = (m_firstJewelFixed->isChecked() ? 0x8000 : 0) |
+        (uint16_t) searchableComboBoxUnsignedValue(m_firstJewelIdentifier, 0x7fff);
+    charm->secondJewelIdentifier = (m_secondJewelFixed->isChecked() ? 0x8000 : 0) |
+        (uint16_t) searchableComboBoxUnsignedValue(m_secondJewelIdentifier, 0x7fff);
+    charm->thirdJewelIdentifier = (m_thirdJewelFixed->isChecked() ? 0x8000 : 0) |
+        (uint16_t) searchableComboBoxUnsignedValue(m_thirdJewelIdentifier, 0x7fff);
 }
 
 void QCharm::closeEvent(QCloseEvent *)
@@ -133,7 +165,8 @@ void QCharm::closeEvent(QCloseEvent *)
 bool QCharm::validate()
 {
     uint8_t equipmentType = (uint8_t) searchableComboBoxCurrentData(m_equipmentType).toInt();
-    uint16_t identifier = (uint16_t) searchableComboBoxCurrentData(m_identifier).toInt();
+    bool identifierOk = false;
+    uint16_t identifier = (uint16_t) searchableComboBoxUnsignedValue(m_identifier, 0xffff, &identifierOk);
 
     if (equipmentType == MH3U_Type::NoneType)
     {
@@ -147,10 +180,31 @@ bool QCharm::validate()
         return false;
     }
 
-    if (identifier == 0)
+    if (!identifierOk || identifier == 0)
     {
         QMessageBox::warning(this, windowTitle(), "编号不能为“无”。请先选择具体护石。");
         return false;
+    }
+
+    for (QComboBox *combo : {m_firstSkillIdentifier, m_secondSkillIdentifier})
+    {
+        bool ok = false;
+        searchableComboBoxUnsignedValue(combo, 0xffff, &ok);
+        if (!ok)
+        {
+            QMessageBox::warning(this, windowTitle(), "技能 ID 必须是 0–65535 或 0x0000–0xFFFF。");
+            return false;
+        }
+    }
+    for (QComboBox *combo : {m_firstJewelIdentifier, m_secondJewelIdentifier, m_thirdJewelIdentifier})
+    {
+        bool ok = false;
+        searchableComboBoxUnsignedValue(combo, 0x7fff, &ok);
+        if (!ok)
+        {
+            QMessageBox::warning(this, windowTitle(), "装饰珠 ID 必须是 0–32767；固定标记请使用下方勾选框。");
+            return false;
+        }
     }
 
     return true;

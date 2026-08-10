@@ -286,7 +286,7 @@ def validate(data_dir: Path, mapping_path: Path, samples: Path | None, report_pa
     manifest = json.loads(manifest_path.read_text(encoding="utf-8"))
     errors.require(manifest.get("format_version") == "1.0.0", "manifest: unsupported format_version")
     errors.require(manifest.get("languages") == ["cn", "en"], "manifest: languages must be ['cn', 'en']")
-    errors.require(manifest.get("generator", {}).get("version") == "1.2.0", "manifest: unsupported generator version")
+    errors.require(manifest.get("generator", {}).get("version") == "1.3.0", "manifest: unsupported generator version")
     errors.require(
         manifest.get("weapon_name_crosswalk", {}).get("format") == "mh4g-weapon-name-crosswalk-v1",
         "manifest: unsupported or missing weapon name crosswalk",
@@ -369,6 +369,13 @@ def validate(data_dir: Path, mapping_path: Path, samples: Path | None, report_pa
     errors.require(set(types) == set(range(21)), "equipment_types.csv: IDs must cover exactly 0..20")
     for identifier, name in ((11, "Light Bowgun"), (12, "Heavy Bowgun"), (19, "Insect Glaive"), (20, "Charge Blade")):
         errors.require(types.get(identifier) == name, f"equipment_types.csv: save type {identifier} must be {name}")
+
+    lookup_keys = set(language_data.get("en", {}).get("equipment_lookups.csv", ([], [], []))[2])
+    for equipment_type in (7, 8, 9, 10, 13, 14, 15, 17, 18, 19, 20):
+        errors.require(
+            ("sharpness", equipment_type, "melee", 0x15) in lookup_keys,
+            f"equipment_lookups.csv: melee type {equipment_type} is missing sharpness 0x15",
+        )
 
     for spec in mapping["equipment"]:
         if spec["kind"] != "weapon" or spec["file"] not in language_data["cn"]:

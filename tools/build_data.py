@@ -16,7 +16,7 @@ from pathlib import Path
 from typing import Iterable
 
 
-GENERATOR_VERSION = "1.2.0"
+GENERATOR_VERSION = "1.3.0"
 DEX_SOURCE = "mh4g-dex-build7"
 DEX_FALLBACK_SOURCE = "mh4g-dex-build7-en-fallback"
 REFERENCE_SOURCE = "mh4edit-mit-save-id"
@@ -25,6 +25,7 @@ SAVE_ID_CROSSWALK_SOURCE = "mh4g-save-id-dex-crosswalk"
 ARMOR_CROSSWALK_SOURCE = "mh4g-armor-name-crosswalk"
 TALISMAN_CROSSWALK_SOURCE = "mh4g-talisman-name-crosswalk"
 SAVE_FORMAT_SOURCE = "mh4g-save-format"
+MH4U_SHARPNESS_SOURCE = "mikewii-mh4u-editor-sharpness"
 
 BASE_COLUMNS = ("id", "name", "english", "source")
 EQUIPMENT_COLUMNS = BASE_COLUMNS + ("rarity", "is_relic")
@@ -473,6 +474,20 @@ def make_lookups(
                 "source": REFERENCE_FALLBACK_SOURCE if language == "cn" else REFERENCE_SOURCE,
             })
 
+    # Rokumaehn/mh4edit stops its melee list at 0x14, but the independently
+    # implemented mikewii/MH4U-Editor includes the normal 0x15 purple scheme.
+    # Add the missing save value explicitly for all melee weapon types.
+    for equipment_type in (7, 8, 9, 10, 13, 14, 15, 17, 18, 19, 20):
+        rows.append({
+            "domain": "sharpness",
+            "equipment_type": equipment_type,
+            "variant": "melee",
+            "value": 0x15,
+            "name": "紫斩方案 0x15" if language == "cn" else "Purple scheme 0x15",
+            "english": "Purple scheme 0x15",
+            "source": MH4U_SHARPNESS_SOURCE,
+        })
+
     for spec in mapping["dex_lookups"]:
         for row in read_csv(sql_dir / spec["table"]):
             value = decimal(row[spec["id"]])
@@ -520,6 +535,9 @@ files by hand.
   has no exact Dex match. `is_relic` is `1` for known relic weapon and armor IDs.
 - `equipment_type` in `equipment_lookups.csv` is the on-disk save type (`0` is
   reserved for global values; generated rows currently use concrete types).
+- Melee sharpness value `0x15` and its embedded bar are cross-checked against
+  the public `mikewii/MH4U-Editor` implementation. The MH4G-only overflow value
+  `0xDA` remains explicitly marked as provisional in the editor UI.
 
 The raw Dex runtime dump is intentionally not committed. Rebuild with:
 

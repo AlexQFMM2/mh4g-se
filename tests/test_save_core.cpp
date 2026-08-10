@@ -1,4 +1,5 @@
 #include "mh4g.hpp"
+#include "mh4g_equipment_values.hpp"
 #include "mh4g_transfer.hpp"
 #include "mh4g_ui_compat.hpp"
 
@@ -7,6 +8,7 @@
 #include <QTemporaryDir>
 
 #include <array>
+#include <cmath>
 #include <cstring>
 #include <iostream>
 
@@ -81,6 +83,29 @@ bool testSave(const QString &path, const QString &knownDecrypted = QString())
             return false;
     }
 
+    bool synchronizedEquippedCopy = false;
+    const QByteArray beforeEquippedEdit = save.decryptedBytes();
+    for (int equippedSlot = 0; equippedSlot < MH4GSave::EquippedEquipmentCount; ++equippedSlot)
+    {
+        const int indexOffset = MH4GSave::DataOffset + MH4GSave::EquippedEquipmentIndexOffset + equippedSlot * 2;
+        const int boxSlot = static_cast<unsigned char>(beforeEquippedEdit.at(indexOffset)) |
+            (static_cast<int>(static_cast<unsigned char>(beforeEquippedEdit.at(indexOffset + 1))) << 8);
+        if (boxSlot < 0 || boxSlot >= MH4GSave::EquipmentCount) continue;
+        MH4GSave::Equipment equipped = save.equipment(boxSlot);
+        equipped[27] ^= 0x5a;
+        save.setEquipment(boxSlot, equipped);
+        const QByteArray afterEquippedEdit = save.decryptedBytes();
+        const int copyOffset = MH4GSave::DataOffset + MH4GSave::EquippedEquipmentOffset +
+                               equippedSlot * MH4GSave::EquipmentSize;
+        if (!require(std::memcmp(afterEquippedEdit.constData() + copyOffset, equipped.data(),
+                                 MH4GSave::EquipmentSize) == 0,
+                     "editing an equipped box slot did not synchronize its current-equipment copy"))
+            return false;
+        synchronizedEquippedCopy = true;
+        break;
+    }
+    if (!require(synchronizedEquippedCopy, "sample has no valid equipped equipment index")) return false;
+
     const QString editedPath = directory.filePath("edited-user");
     if (!require(save.save(editedPath), "edited save failed: " + save.lastError())) return false;
     MH4GSave reloaded;
@@ -90,7 +115,7 @@ bool testSave(const QString &path, const QString &knownDecrypted = QString())
                  "edited data changed during encrypt/decrypt round trip")) return false;
     if (!require(reloaded.item(itemSlot).id == static_cast<std::uint16_t>(oldItem.id ^ 0x55aa),
                  "edited item ID did not persist")) return false;
-    if (!require(reloaded.equipment(equipmentSlot) == newEquipment,
+    if (!require(reloaded.equipment(equipmentSlot) == save.equipment(equipmentSlot),
                  "edited equipment did not persist")) return false;
     return true;
 }
@@ -123,6 +148,128 @@ bool testTransferForms()
         require(std::memcmp(target.box[14][99], source.box[14][99], EQUIPMENT_SIZE) == 0,
                 "last equipment form slot did not round trip");
 }
+
+bool testEquipmentValues()
+{
+    const std::array<double, 14> multipliers = {
+        4.8, 1.4, 5.2, 2.3, 1.3, 1.5, 3.3,
+        5.4, 2.3, 1.2, 1.4, 5.2, 3.1, 3.6,
+    };
+    for (int index = 0; index < static_cast<int>(multipliers.size()); ++index)
+    {
+        const int type = MH4G_Type::GSType + index;
+        if (!require(MH4GEquipmentValues::isWeaponType(type),
+                     QString("equipment type %1 was not recognized as a weapon").arg(type)) ||
+            !require(std::abs(MH4GEquipmentValues::attackDisplayMultiplier(type) - multipliers[index]) < 0.0001,
+                     QString("wrong attack multiplier for equipment type %1").arg(type)))
+            return false;
+    }
+
+    const MH4GAttackResult specialGreatSword =
+        MH4GEquipmentValues::attack(MH4G_Type::GSType, 0x5b, 0);
+    if (!require(specialGreatSword.known && specialGreatSword.trueRaw == 355 &&
+                 specialGreatSword.panelValue == 1704,
+                 "great sword special tier 0x5B did not calculate as 355 / 1704"))
+        return false;
+
+    const MH4GAttackResult boostedGreatSword =
+        MH4GEquipmentValues::attack(MH4G_Type::GSType, 0x14, 2);
+    if (!require(boostedGreatSword.known && boostedGreatSword.baseTrueRaw == 340 &&
+                 boostedGreatSword.weaponBonus == 20 && boostedGreatSword.trueRaw == 360 &&
+                 boostedGreatSword.panelValue == 1728,
+                 "great sword 340 + RAW+20 did not calculate as 360 / 1728"))
+        return false;
+
+    const MH4GAttackResult upgradedAndHonedGreatSword =
+        MH4GEquipmentValues::attack(MH4G_Type::GSType, 0x14, 0, 3, 0x40);
+    if (!require(upgradedAndHonedGreatSword.known &&
+                 upgradedAndHonedGreatSword.modifiersKnown &&
+                 upgradedAndHonedGreatSword.upgradeBonusEstimated &&
+                 upgradedAndHonedGreatSword.upgradeBonus == 30 &&
+                 upgradedAndHonedGreatSword.honingBonus == 20 &&
+                 upgradedAndHonedGreatSword.trueRaw == 390 &&
+                 upgradedAndHonedGreatSword.panelValue == 1872,
+                 "great sword relic upgrade reference and Attack Honing were not included"))
+        return false;
+
+    const MH4GAttackResult unknownModifiers =
+        MH4GEquipmentValues::attack(MH4G_Type::GSType, 0x14, 0, 0xff, 0xff);
+    if (!require(unknownModifiers.known && !unknownModifiers.modifiersKnown &&
+                 unknownModifiers.trueRaw == 340,
+                 "unknown relic modifiers should retain the known attack subtotal"))
+        return false;
+
+    const MH4GLookupNumber awakened = MH4GEquipmentValues::parseLookupNumber("(1000)");
+    const MH4GLookupNumber normal = MH4GEquipmentValues::parseLookupNumber("750");
+    const MH4GSharpnessResult purple = MH4GEquipmentValues::sharpness(0x15);
+    const MH4GSharpnessResult overflow = MH4GEquipmentValues::sharpness(0xda);
+    const MH4GSharpnessResult unknownSharpness = MH4GEquipmentValues::sharpness(0xff);
+    for (int code = 0; code <= 0x15; ++code)
+    {
+        const MH4GSharpnessResult sharpness = MH4GEquipmentValues::sharpness(static_cast<std::uint8_t>(code));
+        if (!require(sharpness.known && !sharpness.provisional &&
+                     sharpness.total() > 0 && sharpness.total() <= 450,
+                     QString("normal sharpness 0x%1 is missing or invalid").arg(code, 2, 16, QChar('0'))))
+            return false;
+        for (int length : sharpness.lengths)
+        {
+            if (!require(length >= 0 && length % 5 == 0,
+                         QString("sharpness 0x%1 is not expressed in five-point units")
+                             .arg(code, 2, 16, QChar('0'))))
+                return false;
+        }
+    }
+    return require(awakened.known && awakened.awakened && awakened.value == 1000,
+                   "awakened attribute value was not parsed") &&
+        require(normal.known && !normal.awakened && normal.value == 750,
+                   "normal attribute value was not parsed") &&
+        require(purple.known && !purple.provisional && purple.total() == 450 &&
+                purple.lengths[0] == 95 && purple.lengths[6] == 25,
+                "sharpness 0x15 did not decode to the reconstructed purple scheme") &&
+        require(overflow.known && overflow.provisional && overflow.total() == 450 &&
+                overflow.lengths[0] == 235 && overflow.lengths[6] == 215,
+                "sharpness 0xDA did not decode to the provisional red/purple scheme") &&
+        require(!unknownSharpness.known,
+                "unknown sharpness code should remain unknown") &&
+        require(MH4GEquipmentValues::usesMeleeSharpness(MH4G_Type::GSType),
+                "great sword should use melee sharpness") &&
+        require(!MH4GEquipmentValues::usesMeleeSharpness(MH4G_Type::LBGType),
+                "light bowgun should not use melee sharpness");
+}
+
+bool testEquipmentConversionPreservesBytes()
+{
+    equipment_t original{};
+    for (int index = 0; index < EQUIPMENT_SIZE; ++index)
+        original[index] = static_cast<std::uint8_t>(index * 7 + 3);
+    original[0] = MH4G_Type::GSType;
+
+    equipment_t weaponOutput{};
+    weapon_t weapon = MH3U_Armory::convertEquipmentToWeapon(original);
+    weapon.raw[12] = 0xe7;
+    MH3U_Armory::convertWeaponToEquipment(weapon, weaponOutput);
+    for (int index = 0; index < EQUIPMENT_SIZE; ++index)
+    {
+        const std::uint8_t expected = index == 12 ? 0xe7 : original[index];
+        if (!require(weaponOutput[index] == expected,
+                     QString("weapon one-byte patch changed byte 0x%1").arg(index, 2, 16, QChar('0'))))
+            return false;
+    }
+
+    original[0] = MH4G_Type::ChestType;
+    equipment_t armorOutput{};
+    armor_t armor = MH3U_Armory::convertEquipmentToArmor(original);
+    armor.raw[13] = 0xd4;
+    MH3U_Armory::convertArmorToEquipment(armor, armorOutput);
+    for (int index = 0; index < EQUIPMENT_SIZE; ++index)
+    {
+        const std::uint8_t expected = index == 13 ? 0xd4 : original[index];
+        if (!require(armorOutput[index] == expected,
+                     QString("armor one-byte patch changed byte 0x%1").arg(index, 2, 16, QChar('0'))))
+            return false;
+    }
+    return true;
+}
 }
 
 int main(int argc, char **argv)
@@ -134,14 +281,22 @@ int main(int argc, char **argv)
         !require(data.items().size() == 1913, "unexpected Chinese item count") ||
         !require(data.equipmentTypes().size() == 21, "unexpected equipment type count") ||
         !require(data.decorations().size() == 290, "unexpected decoration count") ||
+        !require(!data.lookups().isEmpty(), "equipment lookups were not loaded") ||
         !require(!data.itemName(1).isEmpty(), "Chinese item lookup failed") ||
-        !require(!data.equipmentName(19, 157).isEmpty(), "Chinese equipment lookup failed"))
+        !require(!data.equipmentName(19, 157).isEmpty(), "Chinese equipment lookup failed") ||
+        !require(data.isRelicEquipment(MH4G_Type::GSType, 239),
+                 "great sword 239 should be marked as relic") ||
+        !require(!data.isRelicEquipment(MH4G_Type::GSType, 154),
+                 "great sword 154 should not be marked as relic") ||
+        !require(!data.isRelicEquipment(MH4G_Type::LBGType, 29),
+                 "light bowgun 29 should not be marked as relic"))
         return 1;
     if (!require(data.load("en", &dataError), "English data load failed: " + dataError) ||
         !require(data.items().size() == 1913, "unexpected English item count") ||
         !require(!data.itemName(1).isEmpty(), "English item lookup failed"))
         return 1;
-    if (!testTransferForms()) return 1;
+    if (!testTransferForms() || !testEquipmentValues() ||
+        !testEquipmentConversionPreservesBytes()) return 1;
 
     if (argc < 2)
     {

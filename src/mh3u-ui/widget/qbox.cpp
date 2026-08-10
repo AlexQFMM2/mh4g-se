@@ -42,6 +42,10 @@ QBox::QBox(MH3U_SE *mh3u, QWidget *parent) : QWidget(parent)
     m_nonEmptyOnly = new QCheckBox("只显示非空", this);
     connect(m_nonEmptyOnly, SIGNAL(toggled(bool)), this, SLOT(refreshFilters()));
 
+    m_relicWeaponsOnly = new QCheckBox("只看发掘武器", this);
+    m_relicWeaponsOnly->setToolTip("只显示数据集中明确标记为发掘武器的装备，不根据名称猜测。");
+    connect(m_relicWeaponsOnly, SIGNAL(toggled(bool)), this, SLOT(refreshFilters()));
+
     m_typeFilter = new QComboBox(this);
     m_typeFilter->addItem("全部类型", -1);
     m_typeFilter->addItem(uiText("(None)"), 0);
@@ -78,6 +82,7 @@ QBox::QBox(MH3U_SE *mh3u, QWidget *parent) : QWidget(parent)
     sideLayout->addWidget(m_search);
     sideLayout->addWidget(m_typeFilter);
     sideLayout->addWidget(m_nonEmptyOnly);
+    sideLayout->addWidget(m_relicWeaponsOnly);
     sideLayout->addSpacing(12);
     sideLayout->addWidget(new QLabel("选中", this));
     sideLayout->addWidget(m_selectedInfo);
@@ -594,6 +599,11 @@ bool QBox::equipmentMatchesFilters(equipment_t &equipment, uint32_t panel, uint3
 
     int filterType = m_typeFilter->currentData().toInt();
     if (filterType >= 0 && equipmentType != filterType)
+    {
+        return false;
+    }
+
+    if (m_relicWeaponsOnly->isChecked() && !MH3U_DS::isRelicWeapon(equipmentType, identifier))
     {
         return false;
     }

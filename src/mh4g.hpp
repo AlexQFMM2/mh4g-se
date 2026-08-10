@@ -14,6 +14,20 @@ struct MH4GNamedValue
     int id = 0;
     QString name;
     QString english;
+    QString source;
+    int rarity = 0;
+    bool isRelic = false;
+};
+
+struct MH4GLookupValue
+{
+    QString domain;
+    int equipmentType = 0;
+    QString variant;
+    int value = 0;
+    QString name;
+    QString english;
+    QString source;
 };
 
 class MH4GData
@@ -26,6 +40,10 @@ public:
     const QVector<MH4GNamedValue> &equipmentTypes() const;
     const QVector<MH4GNamedValue> &decorations() const;
     const QVector<MH4GNamedValue> &equipment(int type) const;
+    const QVector<MH4GLookupValue> &lookups() const;
+    QVector<MH4GLookupValue> lookupValues(const QString &domain, int equipmentType,
+                                           const QString &variant = QString()) const;
+    bool isRelicEquipment(int type, int id) const;
     QString itemName(int id) const;
     QString equipmentTypeName(int type) const;
     QString equipmentName(int type, int id) const;
@@ -33,6 +51,7 @@ public:
 
 private:
     bool loadCsv(const QString &fileName, QVector<MH4GNamedValue> &values, QString *error);
+    bool loadLookups(const QString &fileName, QVector<MH4GLookupValue> &values, QString *error);
     QString locateDataRoot() const;
     static QString nameFor(const QVector<MH4GNamedValue> &values, int id);
 
@@ -42,6 +61,7 @@ private:
     QVector<MH4GNamedValue> m_types;
     QVector<MH4GNamedValue> m_decorations;
     QHash<int, QVector<MH4GNamedValue>> m_equipment;
+    QVector<MH4GLookupValue> m_lookups;
 };
 
 class MH4GSave
@@ -52,6 +72,9 @@ public:
     static constexpr int ItemOffset = 0x015E;
     static constexpr int ItemCount = 1400;
     static constexpr int ItemSize = 4;
+    static constexpr int EquippedEquipmentOffset = 0x0040;
+    static constexpr int EquippedEquipmentIndexOffset = 0x0104;
+    static constexpr int EquippedEquipmentCount = 7;
     static constexpr int EquipmentOffset = 0x173E;
     static constexpr int EquipmentCount = 1500;
     static constexpr int EquipmentSize = 28;
@@ -100,6 +123,8 @@ private:
     static std::uint32_t read32(const QByteArray &data, int offset);
     static void write16(QByteArray &data, int offset, std::uint16_t value);
     static void write32(QByteArray &data, int offset, std::uint32_t value);
+    void synchronizeEquippedCopy(int equipmentSlot, const Equipment &oldValue,
+                                  const Equipment &newValue);
     static void swapDwords(QByteArray &data);
     static void xorPayload(QByteArray &data, std::uint16_t seed);
     static bool cryptBlowfish(const QByteArray &input, QByteArray &output, bool encrypting, QString *error);

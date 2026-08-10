@@ -20,6 +20,9 @@ files by hand.
   has no exact Dex match. `is_relic` is `1` for known relic weapon and armor IDs.
 - `equipment_type` in `equipment_lookups.csv` is the on-disk save type (`0` is
   reserved for global values; generated rows currently use concrete types).
+- Melee sharpness value `0x15` and its embedded bar are cross-checked against
+  the public `mikewii/MH4U-Editor` implementation. The MH4G-only overflow value
+  `0xDA` remains explicitly marked as provisional in the editor UI.
 
 The raw Dex runtime dump is intentionally not committed. Rebuild with:
 

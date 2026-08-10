@@ -14,6 +14,7 @@ dataset_t g_skills;
 dataset_t g_jewels;
 dataset_t g_types;
 std::map<int, dataset_t> g_equipment;
+lookup_dataset_t g_lookups;
 
 std::uint16_t read16(const equipment_t &record, int offset)
 {
@@ -126,6 +127,28 @@ dataset_t MH4G_UI_DataAdapter::convert(const QVector<MH4GNamedValue> &source)
         item.english = value.english.toStdString();
         item.identifier = item.name.empty() ? item.english : item.name;
         item.source = "mh4g-data";
+        if (!value.source.isEmpty()) item.source = value.source.toStdString();
+        item.rarity = value.rarity;
+        item.isRelic = value.isRelic;
+        result.push_back(item);
+    }
+    return result;
+}
+
+lookup_dataset_t MH4G_UI_DataAdapter::convertLookups(const QVector<MH4GLookupValue> &source)
+{
+    lookup_dataset_t result;
+    result.reserve(static_cast<std::size_t>(source.size()));
+    for (const MH4GLookupValue &value : source)
+    {
+        lookupitem_t item;
+        item.domain = value.domain.toStdString();
+        item.equipmentType = static_cast<std::uint8_t>(value.equipmentType);
+        item.variant = value.variant.toStdString();
+        item.value = static_cast<std::uint8_t>(value.value);
+        item.identifier = value.name.toStdString();
+        item.english = value.english.toStdString();
+        item.source = value.source.toStdString();
         result.push_back(item);
     }
     return result;
@@ -141,6 +164,7 @@ bool MH4G_UI_DataAdapter::readData(lang_t lang)
     g_skills = convert(g_data.skills());
     g_jewels = convert(g_data.decorations());
     g_types = convert(g_data.equipmentTypes());
+    g_lookups = convertLookups(g_data.lookups());
     g_equipment.clear();
     for (int type = 1; type <= 20; ++type)
         g_equipment.emplace(type, convert(g_data.equipment(type)));
@@ -149,7 +173,7 @@ bool MH4G_UI_DataAdapter::readData(lang_t lang)
 
 bool MH4G_UI_DataAdapter::deleteData()
 {
-    g_items.clear(); g_skills.clear(); g_jewels.clear(); g_types.clear(); g_equipment.clear();
+    g_items.clear(); g_skills.clear(); g_jewels.clear(); g_types.clear(); g_equipment.clear(); g_lookups.clear();
     g_language = LANG_NONE;
     return true;
 }
@@ -184,6 +208,21 @@ const dataset_t *MH4G_UI_DataAdapter::dbWeapons() { return equipment(17); }
 const dataset_t *MH4G_UI_DataAdapter::hhWeapons() { return equipment(18); }
 const dataset_t *MH4G_UI_DataAdapter::igWeapons() { return equipment(19); }
 const dataset_t *MH4G_UI_DataAdapter::cbWeapons() { return equipment(20); }
+const lookup_dataset_t *MH4G_UI_DataAdapter::lookups() { return &g_lookups; }
+bool MH4G_UI_DataAdapter::isRelicEquipment(std::uint8_t type, std::uint16_t identifier)
+{
+    if (identifier == 0) return false;
+    const dataset_t *values = equipment(type);
+    if (values == nullptr) return false;
+    for (const dataitem_t &value : *values)
+        if (value.count == identifier) return value.isRelic;
+    return false;
+}
+bool MH4G_UI_DataAdapter::isRelicWeapon(std::uint8_t type, std::uint16_t identifier)
+{
+    return type >= MH4G_Type::GSType && type <= MH4G_Type::CBType &&
+           isRelicEquipment(type, identifier);
+}
 
 equipment_subtype_e MH3U_Armory::convertSubtype(std::uint8_t type)
 {

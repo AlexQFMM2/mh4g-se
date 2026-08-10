@@ -9,6 +9,7 @@
 #include <QDialog>
 #include <QSpinBox>
 #include <QComboBox>
+#include <QCheckBox>
 
 class QCharm : public QEquipment
 {
@@ -34,10 +35,14 @@ private:
     QComboBox *m_firstJewelIdentifier;
     QComboBox *m_secondJewelIdentifier;
     QComboBox *m_thirdJewelIdentifier;
+    QCheckBox *m_firstJewelFixed;
+    QCheckBox *m_secondJewelFixed;
+    QCheckBox *m_thirdJewelFixed;
 
     void load();
     void save();
     bool validate();
+    void selectOrPreserve(QComboBox *combo, uint16_t value, const QString &kind);
 };
 
 #endif // QCHARM_HPP

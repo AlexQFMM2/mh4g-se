@@ -28,6 +28,7 @@ private:
     QTableWidget *m_table;
     QLineEdit *m_search;
     QCheckBox *m_nonEmptyOnly;
+    QCheckBox *m_relicWeaponsOnly;
     QComboBox *m_typeFilter;
     QLabel *m_selectedInfo;
     QPushButton *m_editButton;

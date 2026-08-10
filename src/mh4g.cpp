@@ -112,12 +112,14 @@ bool MH4GData::load(const QString &language, QString *error)
     QVector<MH4GNamedValue> skills;
     QVector<MH4GNamedValue> types;
     QVector<MH4GNamedValue> decorations;
+    QVector<MH4GLookupValue> lookups;
     QHash<int, QVector<MH4GNamedValue>> equipment;
     const QString languageRoot = QDir(root).filePath(normalized);
     if (!loadCsv(QDir(languageRoot).filePath("items.csv"), items, error) ||
         !loadCsv(QDir(languageRoot).filePath("skills.csv"), skills, error) ||
         !loadCsv(QDir(languageRoot).filePath("equipment_types.csv"), types, error) ||
-        !loadCsv(QDir(languageRoot).filePath("decorations.csv"), decorations, error))
+        !loadCsv(QDir(languageRoot).filePath("decorations.csv"), decorations, error) ||
+        !loadLookups(QDir(languageRoot).filePath("equipment_lookups.csv"), lookups, error))
     {
         return false;
     }
@@ -137,6 +139,7 @@ bool MH4GData::load(const QString &language, QString *error)
     m_types = types;
     m_decorations = decorations;
     m_equipment = equipment;
+    m_lookups = lookups;
     return true;
 }
 
@@ -145,6 +148,7 @@ const QVector<MH4GNamedValue> &MH4GData::items() const { return m_items; }
 const QVector<MH4GNamedValue> &MH4GData::skills() const { return m_skills; }
 const QVector<MH4GNamedValue> &MH4GData::equipmentTypes() const { return m_types; }
 const QVector<MH4GNamedValue> &MH4GData::decorations() const { return m_decorations; }
+const QVector<MH4GLookupValue> &MH4GData::lookups() const { return m_lookups; }
 
 const QVector<MH4GNamedValue> &MH4GData::equipment(int type) const
 {
@@ -157,6 +161,27 @@ QString MH4GData::itemName(int id) const { return nameFor(m_items, id); }
 QString MH4GData::equipmentTypeName(int type) const { return nameFor(m_types, type); }
 QString MH4GData::equipmentName(int type, int id) const { return nameFor(equipment(type), id); }
 QString MH4GData::decorationName(int id) const { return nameFor(m_decorations, id & 0x7fff); }
+
+QVector<MH4GLookupValue> MH4GData::lookupValues(const QString &domain, int equipmentType,
+                                                 const QString &variant) const
+{
+    QVector<MH4GLookupValue> result;
+    for (const MH4GLookupValue &value : m_lookups)
+    {
+        if (value.domain == domain && value.equipmentType == equipmentType &&
+            (variant.isEmpty() || value.variant == variant))
+            result.push_back(value);
+    }
+    return result;
+}
+
+bool MH4GData::isRelicEquipment(int type, int id) const
+{
+    const QVector<MH4GNamedValue> &values = equipment(type);
+    auto it = std::lower_bound(values.constBegin(), values.constEnd(), id,
+        [](const MH4GNamedValue &value, int wanted) { return value.id < wanted; });
+    return it != values.constEnd() && it->id == id && it->isRelic;
+}
 
 bool MH4GData::loadCsv(const QString &fileName, QVector<MH4GNamedValue> &values, QString *error)
 {
@@ -177,6 +202,9 @@ bool MH4GData::loadCsv(const QString &fileName, QVector<MH4GNamedValue> &values,
     const int idColumn = header.indexOf("id");
     const int nameColumn = header.indexOf("name");
     const int englishColumn = header.indexOf("english");
+    const int sourceColumn = header.indexOf("source");
+    const int rarityColumn = header.indexOf("rarity");
+    const int relicColumn = header.indexOf("is_relic");
     if (idColumn < 0 || nameColumn < 0 || englishColumn < 0)
     {
         if (error) *error = QString("数据文件缺少 id/name/english 列：%1").arg(fileName);
@@ -187,12 +215,71 @@ bool MH4GData::loadCsv(const QString &fileName, QVector<MH4GNamedValue> &values,
         const QString line = stream.readLine();
         if (line.isEmpty()) continue;
         const QStringList fields = parseCsvLine(line);
-        const int required = std::max(idColumn, std::max(nameColumn, englishColumn));
+        int required = std::max(idColumn, std::max(nameColumn, englishColumn));
+        required = std::max(required, sourceColumn);
+        required = std::max(required, rarityColumn);
+        required = std::max(required, relicColumn);
         if (fields.size() <= required) continue;
         bool ok = false;
         const int id = fields.at(idColumn).toInt(&ok);
         if (!ok) continue;
-        values.push_back({id, fields.at(nameColumn), fields.at(englishColumn)});
+        MH4GNamedValue value;
+        value.id = id;
+        value.name = fields.at(nameColumn);
+        value.english = fields.at(englishColumn);
+        if (sourceColumn >= 0) value.source = fields.at(sourceColumn);
+        if (rarityColumn >= 0) value.rarity = fields.at(rarityColumn).toInt();
+        if (relicColumn >= 0) value.isRelic = fields.at(relicColumn).toInt() == 1;
+        values.push_back(value);
+    }
+    return true;
+}
+
+bool MH4GData::loadLookups(const QString &fileName, QVector<MH4GLookupValue> &values, QString *error)
+{
+    QFile file(fileName);
+    if (!file.open(QIODevice::ReadOnly | QIODevice::Text))
+    {
+        if (error) *error = QString("无法读取数据文件：%1\n%2").arg(fileName, file.errorString());
+        return false;
+    }
+    QTextStream stream(&file);
+    stream.setCodec("UTF-8");
+    if (stream.atEnd())
+    {
+        if (error) *error = QString("数据文件为空：%1").arg(fileName);
+        return false;
+    }
+    const QStringList header = parseCsvLine(stream.readLine());
+    const int domainColumn = header.indexOf("domain");
+    const int typeColumn = header.indexOf("equipment_type");
+    const int variantColumn = header.indexOf("variant");
+    const int valueColumn = header.indexOf("value");
+    const int nameColumn = header.indexOf("name");
+    const int englishColumn = header.indexOf("english");
+    const int sourceColumn = header.indexOf("source");
+    if (domainColumn < 0 || typeColumn < 0 || variantColumn < 0 || valueColumn < 0 ||
+        nameColumn < 0 || englishColumn < 0 || sourceColumn < 0)
+    {
+        if (error) *error = QString("数据文件缺少 lookup 必需列：%1").arg(fileName);
+        return false;
+    }
+    const int required = std::max({domainColumn, typeColumn, variantColumn, valueColumn,
+                                   nameColumn, englishColumn, sourceColumn});
+    while (!stream.atEnd())
+    {
+        const QString line = stream.readLine();
+        if (line.isEmpty()) continue;
+        const QStringList fields = parseCsvLine(line);
+        if (fields.size() <= required) continue;
+        bool typeOk = false;
+        bool valueOk = false;
+        const int equipmentType = fields.at(typeColumn).toInt(&typeOk);
+        const int value = fields.at(valueColumn).toInt(&valueOk);
+        if (!typeOk || !valueOk) continue;
+        values.push_back({fields.at(domainColumn), equipmentType, fields.at(variantColumn),
+                          value, fields.at(nameColumn), fields.at(englishColumn),
+                          fields.at(sourceColumn)});
     }
     return true;
 }
@@ -331,8 +418,24 @@ MH4GSave::Equipment MH4GSave::equipment(int slot) const
 void MH4GSave::setEquipment(int slot, const Equipment &value)
 {
     if (!loaded() || slot < 0 || slot >= EquipmentCount) return;
+    const Equipment oldValue = equipment(slot);
+    if (oldValue == value) return;
     const int offset = DataOffset + EquipmentOffset + slot * EquipmentSize;
     std::memcpy(m_decrypted.data() + offset, value.data(), EquipmentSize);
+    synchronizeEquippedCopy(slot, oldValue, value);
+}
+
+void MH4GSave::synchronizeEquippedCopy(int equipmentSlot, const Equipment &oldValue,
+                                       const Equipment &newValue)
+{
+    for (int equippedSlot = 0; equippedSlot < EquippedEquipmentCount; ++equippedSlot)
+    {
+        const int indexOffset = DataOffset + EquippedEquipmentIndexOffset + equippedSlot * 2;
+        if (read16(m_decrypted, indexOffset) != equipmentSlot) continue;
+        const int copyOffset = DataOffset + EquippedEquipmentOffset + equippedSlot * EquipmentSize;
+        if (std::memcmp(m_decrypted.constData() + copyOffset, oldValue.data(), EquipmentSize) == 0)
+            std::memcpy(m_decrypted.data() + copyOffset, newValue.data(), EquipmentSize);
+    }
 }
 
 void MH4GSave::patchEquipmentBasic(int slot, std::uint8_t type, std::uint8_t levelOrSlots,

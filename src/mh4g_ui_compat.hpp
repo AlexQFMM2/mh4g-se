@@ -138,9 +138,24 @@ typedef struct dataitem_t
     std::string name;
     std::string english;
     std::string source;
+    std::int32_t rarity;
+    bool isRelic;
 } dataitem_t;
 
 typedef std::vector<dataitem_t> dataset_t;
+
+typedef struct lookupitem_t
+{
+    std::string domain;
+    std::uint8_t equipmentType;
+    std::string variant;
+    std::uint8_t value;
+    std::string identifier;
+    std::string english;
+    std::string source;
+} lookupitem_t;
+
+typedef std::vector<lookupitem_t> lookup_dataset_t;
 
 enum lang_t
 {
@@ -180,9 +195,13 @@ public:
     static const dataset_t *hhWeapons();
     static const dataset_t *igWeapons();
     static const dataset_t *cbWeapons();
+    static const lookup_dataset_t *lookups();
+    static bool isRelicEquipment(std::uint8_t type, std::uint16_t identifier);
+    static bool isRelicWeapon(std::uint8_t type, std::uint16_t identifier);
 
 private:
     static dataset_t convert(const QVector<MH4GNamedValue> &source);
+    static lookup_dataset_t convertLookups(const QVector<MH4GLookupValue> &source);
 };
 
 using MH3U_DS = MH4G_UI_DataAdapter;
