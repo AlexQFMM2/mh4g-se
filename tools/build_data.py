@@ -16,7 +16,7 @@ from pathlib import Path
 from typing import Iterable
 
 
-GENERATOR_VERSION = "1.3.0"
+GENERATOR_VERSION = "1.3.1"
 DEX_SOURCE = "mh4g-dex-build7"
 DEX_FALLBACK_SOURCE = "mh4g-dex-build7-en-fallback"
 REFERENCE_SOURCE = "mh4edit-mit-save-id"
@@ -26,6 +26,7 @@ ARMOR_CROSSWALK_SOURCE = "mh4g-armor-name-crosswalk"
 TALISMAN_CROSSWALK_SOURCE = "mh4g-talisman-name-crosswalk"
 SAVE_FORMAT_SOURCE = "mh4g-save-format"
 MH4U_SHARPNESS_SOURCE = "mikewii-mh4u-editor-sharpness"
+KINSECT_CN_SOURCE = "mh4g-kinsect-effect-cn-crosswalk"
 
 BASE_COLUMNS = ("id", "name", "english", "source")
 EQUIPMENT_COLUMNS = BASE_COLUMNS + ("rarity", "is_relic")
@@ -61,6 +62,44 @@ COLOR_SUFFIXES = {
     "green": "绿",
     "blue": "蓝",
     "purple": "紫",
+}
+
+KINSECT_TYPE_CN = {
+    0x00: "切断 · 无加成",
+    0x01: "切断 · 全能力小",
+    0x02: "切断 · 攻击小",
+    0x03: "切断 · 攻击大",
+    0x04: "切断 · 攻击中 / 回复精华效果小",
+    0x05: "切断 · 耐力小",
+    0x06: "切断 · 耐力大",
+    0x07: "切断 · 耐力中 / 回复精华效果小",
+    0x08: "切断 · 速度小",
+    0x09: "切断 · 速度大",
+    0x0A: "切断 · 速度中 / 回复精华效果小",
+    0x0B: "切断 · 全能力中 / 回复精华效果大",
+    0x0C: "打击 · 无加成",
+    0x0D: "打击 · 全能力小",
+    0x0E: "打击 · 攻击小",
+    0x0F: "打击 · 攻击大",
+    0x10: "打击 · 攻击中 / 回复精华效果小",
+    0x11: "打击 · 耐力小",
+    0x12: "打击 · 耐力大",
+    0x13: "打击 · 耐力中 / 回复精华效果小",
+    0x14: "打击 · 速度小",
+    0x15: "打击 · 速度大",
+    0x16: "打击 · 速度中 / 回复精华效果小",
+    0x17: "打击 · 全能力中 / 回复精华效果大",
+    0x18: "打击 · 无加成（未使用）",
+    0x19: "切断 · 攻击+耐力大 / 精华效果小 / 时间延长",
+    0x1A: "切断 · 耐力+速度大 / 精华效果小 / 蓄力缩短",
+    0x1B: "切断 · 攻击+速度大 / 精华效果小 / 贯通强化",
+    0x1C: "切断 · 全能力大 / 精华+状态强化 / 精华+1",
+    0x1D: "打击 · 攻击+耐力大 / 精华效果小 / 时间延长",
+    0x1E: "打击 · 耐力+速度大 / 精华效果小 / 蓄力缩短",
+    0x1F: "打击 · 攻击+速度大 / 精华效果小 / 贯通强化",
+    0x20: "打击 · 全能力大 / 精华+状态强化 / 精华+1",
+    0x21: "打击 · 速度小 / 精华时间延长",
+    0x22: "切断 · 精华+1（未使用）",
 }
 
 
@@ -452,14 +491,17 @@ def make_lookups(
     for lookup_name, domain, equipment_types, variant in REFERENCE_LOOKUPS:
         for lookup in reference["lookups"][lookup_name]:
             for equipment_type in equipment_types:
+                english = lookup["name"]
+                chinese = KINSECT_TYPE_CN.get(lookup["value"]) if lookup_name == "SpecialValuesInsectglaive" else None
                 rows.append({
                     "domain": domain,
                     "equipment_type": equipment_type,
                     "variant": variant,
                     "value": lookup["value"],
-                    "name": lookup["name"],
-                    "english": lookup["name"],
-                    "source": REFERENCE_FALLBACK_SOURCE if language == "cn" else REFERENCE_SOURCE,
+                    "name": chinese if language == "cn" and chinese is not None else english,
+                    "english": english,
+                    "source": KINSECT_CN_SOURCE if language == "cn" and chinese is not None else
+                              (REFERENCE_FALLBACK_SOURCE if language == "cn" else REFERENCE_SOURCE),
                 })
 
     for value, english in enumerate(reference["arrays"]["allArmorResistances"]):

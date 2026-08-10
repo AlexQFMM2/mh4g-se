@@ -95,14 +95,17 @@ MH4GAttackResult MH4GEquipmentValues::attack(int equipmentType, std::uint8_t att
         result.upgradeBonusEstimated = upgrade != 0;
     }
 
+    // The honing category occupies the upper two bits. Existing modified saves
+    // commonly preserve unrelated/custom lower bits (for example 0xFF is Life
+    // plus 0x3F), so decode the category without discarding the original byte.
+    result.honingMode = honing & 0xC0;
+    result.honingExtraBits = honing & 0x3F;
     // MH4U damage calculators consistently model Attack Honing as +20 true
     // raw. Defense and Life honing do not alter the displayed weapon attack.
-    const bool honingKnown = honing == 0x00 || honing == 0x40 ||
-                             honing == 0x80 || honing == 0xC0;
-    if (honing == 0x40) result.honingBonus = 20;
+    if (result.honingMode == 0x40) result.honingBonus = 20;
 
     result.known = true;
-    result.modifiersKnown = upgradeKnown && honingKnown;
+    result.modifiersKnown = upgradeKnown;
     result.trueRaw = result.baseTrueRaw + result.weaponBonus +
                      result.upgradeBonus + result.honingBonus;
     result.multiplier = attackDisplayMultiplier(equipmentType);

@@ -15,6 +15,8 @@ struct MH4GAttackResult
     int weaponBonus = 0;
     int upgradeBonus = 0;
     int honingBonus = 0;
+    std::uint8_t honingMode = 0;
+    std::uint8_t honingExtraBits = 0;
     int trueRaw = 0;
     double multiplier = 1.0;
     int panelValue = 0;

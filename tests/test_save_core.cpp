@@ -195,8 +195,20 @@ bool testEquipmentValues()
     const MH4GAttackResult unknownModifiers =
         MH4GEquipmentValues::attack(MH4G_Type::GSType, 0x14, 0, 0xff, 0xff);
     if (!require(unknownModifiers.known && !unknownModifiers.modifiersKnown &&
-                 unknownModifiers.trueRaw == 340,
+                 unknownModifiers.honingMode == 0xC0 &&
+                 unknownModifiers.honingExtraBits == 0x3F &&
+                 unknownModifiers.honingBonus == 0 && unknownModifiers.trueRaw == 340,
                  "unknown relic modifiers should retain the known attack subtotal"))
+        return false;
+
+    const MH4GAttackResult customAttackHoning =
+        MH4GEquipmentValues::attack(MH4G_Type::GSType, 0x14, 0, 0, 0x7f);
+    if (!require(customAttackHoning.modifiersKnown &&
+                 customAttackHoning.honingMode == 0x40 &&
+                 customAttackHoning.honingExtraBits == 0x3f &&
+                 customAttackHoning.honingBonus == 20 &&
+                 customAttackHoning.trueRaw == 360,
+                 "custom honing byte did not decode its upper category bits"))
         return false;
 
     const MH4GLookupNumber awakened = MH4GEquipmentValues::parseLookupNumber("(1000)");

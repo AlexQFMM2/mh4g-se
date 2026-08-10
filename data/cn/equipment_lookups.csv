@@ -979,41 +979,41 @@ kinsect,19,level,8,8,8,mh4edit-mit-save-id-en-fallback
 kinsect,19,level,9,9,9,mh4edit-mit-save-id-en-fallback
 kinsect,19,level,10,10,10,mh4edit-mit-save-id-en-fallback
 kinsect,19,level,11,11,11,mh4edit-mit-save-id-en-fallback
-kinsect,19,type,0,Culldrone           Cutting  none,Culldrone           Cutting  none,mh4edit-mit-save-id-en-fallback
-kinsect,19,type,1,Reavedrone          Cutting  All Stats S,Reavedrone          Cutting  All Stats S,mh4edit-mit-save-id-en-fallback
-kinsect,19,type,2,Alucanid            Cutting  Attack S,Alucanid            Cutting  Attack S,mh4edit-mit-save-id-en-fallback
-kinsect,19,type,3,Monarch Alucanid    Cutting  Attack L,Monarch Alucanid    Cutting  Attack L,mh4edit-mit-save-id-en-fallback
-kinsect,19,type,4,Empresswing         Cutting  Attack M          Extract Eff. S,Empresswing         Cutting  Attack M          Extract Eff. S,mh4edit-mit-save-id-en-fallback
-kinsect,19,type,5,Rigiprayne          Cutting  Stamina S,Rigiprayne          Cutting  Stamina S,mh4edit-mit-save-id-en-fallback
-kinsect,19,type,6,Cancadaman          Cutting  Stamina L,Cancadaman          Cutting  Stamina L,mh4edit-mit-save-id-en-fallback
-kinsect,19,type,7,Fiddlebrix          Cutting  Stamina M         Extract Eff. S,Fiddlebrix          Cutting  Stamina M         Extract Eff. S,mh4edit-mit-save-id-en-fallback
-kinsect,19,type,8,Windchopper         Cutting  Speed S,Windchopper         Cutting  Speed S,mh4edit-mit-save-id-en-fallback
-kinsect,19,type,9,Grancathar          Cutting  Speed L,Grancathar          Cutting  Speed L,mh4edit-mit-save-id-en-fallback
-kinsect,19,type,10,Pseudocath          Cutting  Speed M           Extract Eff. S,Pseudocath          Cutting  Speed M           Extract Eff. S,mh4edit-mit-save-id-en-fallback
-kinsect,19,type,11,Elscarad            Cutting  All Stats M       Extract Eff. L,Elscarad            Cutting  All Stats M       Extract Eff. L,mh4edit-mit-save-id-en-fallback
-kinsect,19,type,12,Mauldrone           Blunt    none,Mauldrone           Blunt    none,mh4edit-mit-save-id-en-fallback
-kinsect,19,type,13,Pummeldrone         Blunt    All Stats S,Pummeldrone         Blunt    All Stats S,mh4edit-mit-save-id-en-fallback
-kinsect,19,type,14,Foebeetle           Blunt    Attack S,Foebeetle           Blunt    Attack S,mh4edit-mit-save-id-en-fallback
-kinsect,19,type,15,Carnage Beetle      Blunt    Attack L,Carnage Beetle      Blunt    Attack L,mh4edit-mit-save-id-en-fallback
-kinsect,19,type,16,Bonnetfille         Blunt    Attack M          Extract Eff. S,Bonnetfille         Blunt    Attack M          Extract Eff. S,mh4edit-mit-save-id-en-fallback
-kinsect,19,type,17,Ladytarge           Blunt    Stamina S,Ladytarge           Blunt    Stamina S,mh4edit-mit-save-id-en-fallback
-kinsect,19,type,18,Ladypavise          Blunt    Stamina L,Ladypavise          Blunt    Stamina L,mh4edit-mit-save-id-en-fallback
-kinsect,19,type,19,Arkmaiden           Blunt    Stamina M         Extract Eff. S,Arkmaiden           Blunt    Stamina M         Extract Eff. S,mh4edit-mit-save-id-en-fallback
-kinsect,19,type,20,Gullshad            Blunt    Speed S,Gullshad            Blunt    Speed S,mh4edit-mit-save-id-en-fallback
-kinsect,19,type,21,Bullshroud          Blunt    Speed L,Bullshroud          Blunt    Speed L,mh4edit-mit-save-id-en-fallback
-kinsect,19,type,22,Whispervesp         Blunt    Speed M           Extract Eff. S,Whispervesp         Blunt    Speed M           Extract Eff. S,mh4edit-mit-save-id-en-fallback
-kinsect,19,type,23,Arginesse           Blunt    All Stats M       Extract Eff. L,Arginesse           Blunt    All Stats M       Extract Eff. L,mh4edit-mit-save-id-en-fallback
-kinsect,19,type,24,Thunderball         Blunt    none              [unused],Thunderball         Blunt    none              [unused],mh4edit-mit-save-id-en-fallback
-kinsect,19,type,25,Bilbobrix           Cutting  Attack+Stamina L  Extract Eff. S     Extract Extend,Bilbobrix           Cutting  Attack+Stamina L  Extract Eff. S     Extract Extend,mh4edit-mit-save-id-en-fallback
-kinsect,19,type,26,Foliacath           Cutting  Stamina+Speed L   Extract Eff. S     Charge Time Down,Foliacath           Cutting  Stamina+Speed L   Extract Eff. S     Charge Time Down,mh4edit-mit-save-id-en-fallback
-kinsect,19,type,27,Exalted Alucanid    Cutting  Attack+Speed L    Extract Eff. S     Pierce Up,Exalted Alucanid    Cutting  Attack+Speed L    Extract Eff. S     Pierce Up,mh4edit-mit-save-id-en-fallback
-kinsect,19,type,28,Great Elscarad      Cutting  All Stats L       Extract UP+Status  Extracts +1,Great Elscarad      Cutting  All Stats L       Extract UP+Status  Extracts +1,mh4edit-mit-save-id-en-fallback
-kinsect,19,type,29,Ladytower           Blunt    Attack+Stamina L  Extract Eff. S     Extract Extend,Ladytower           Blunt    Attack+Stamina L  Extract Eff. S     Extract Extend,mh4edit-mit-save-id-en-fallback
-kinsect,19,type,30,Fleetflammer        Blunt    Stamina+Speed L   Extract Eff. S     Charge Time Down,Fleetflammer        Blunt    Stamina+Speed L   Extract Eff. S     Charge Time Down,mh4edit-mit-save-id-en-fallback
-kinsect,19,type,31,Gleambeetle         Blunt    Attack+Speed L    Extract Eff. S     Pierce Up,Gleambeetle         Blunt    Attack+Speed L    Extract Eff. S     Pierce Up,mh4edit-mit-save-id-en-fallback
-kinsect,19,type,32,Great Arginesse     Blunt    All Stats L       Extract UP+Status  Extracts +1,Great Arginesse     Blunt    All Stats L       Extract UP+Status  Extracts +1,mh4edit-mit-save-id-en-fallback
-kinsect,19,type,33,Clockmaster         Blunt    Speed S           Extract Extend,Clockmaster         Blunt    Speed S           Extract Extend,mh4edit-mit-save-id-en-fallback
-kinsect,19,type,34,Barrett Hawk        Cutting  Extracts +1       [unused],Barrett Hawk        Cutting  Extracts +1       [unused],mh4edit-mit-save-id-en-fallback
+kinsect,19,type,0,切断 · 无加成,Culldrone           Cutting  none,mh4g-kinsect-effect-cn-crosswalk
+kinsect,19,type,1,切断 · 全能力小,Reavedrone          Cutting  All Stats S,mh4g-kinsect-effect-cn-crosswalk
+kinsect,19,type,2,切断 · 攻击小,Alucanid            Cutting  Attack S,mh4g-kinsect-effect-cn-crosswalk
+kinsect,19,type,3,切断 · 攻击大,Monarch Alucanid    Cutting  Attack L,mh4g-kinsect-effect-cn-crosswalk
+kinsect,19,type,4,切断 · 攻击中 / 回复精华效果小,Empresswing         Cutting  Attack M          Extract Eff. S,mh4g-kinsect-effect-cn-crosswalk
+kinsect,19,type,5,切断 · 耐力小,Rigiprayne          Cutting  Stamina S,mh4g-kinsect-effect-cn-crosswalk
+kinsect,19,type,6,切断 · 耐力大,Cancadaman          Cutting  Stamina L,mh4g-kinsect-effect-cn-crosswalk
+kinsect,19,type,7,切断 · 耐力中 / 回复精华效果小,Fiddlebrix          Cutting  Stamina M         Extract Eff. S,mh4g-kinsect-effect-cn-crosswalk
+kinsect,19,type,8,切断 · 速度小,Windchopper         Cutting  Speed S,mh4g-kinsect-effect-cn-crosswalk
+kinsect,19,type,9,切断 · 速度大,Grancathar          Cutting  Speed L,mh4g-kinsect-effect-cn-crosswalk
+kinsect,19,type,10,切断 · 速度中 / 回复精华效果小,Pseudocath          Cutting  Speed M           Extract Eff. S,mh4g-kinsect-effect-cn-crosswalk
+kinsect,19,type,11,切断 · 全能力中 / 回复精华效果大,Elscarad            Cutting  All Stats M       Extract Eff. L,mh4g-kinsect-effect-cn-crosswalk
+kinsect,19,type,12,打击 · 无加成,Mauldrone           Blunt    none,mh4g-kinsect-effect-cn-crosswalk
+kinsect,19,type,13,打击 · 全能力小,Pummeldrone         Blunt    All Stats S,mh4g-kinsect-effect-cn-crosswalk
+kinsect,19,type,14,打击 · 攻击小,Foebeetle           Blunt    Attack S,mh4g-kinsect-effect-cn-crosswalk
+kinsect,19,type,15,打击 · 攻击大,Carnage Beetle      Blunt    Attack L,mh4g-kinsect-effect-cn-crosswalk
+kinsect,19,type,16,打击 · 攻击中 / 回复精华效果小,Bonnetfille         Blunt    Attack M          Extract Eff. S,mh4g-kinsect-effect-cn-crosswalk
+kinsect,19,type,17,打击 · 耐力小,Ladytarge           Blunt    Stamina S,mh4g-kinsect-effect-cn-crosswalk
+kinsect,19,type,18,打击 · 耐力大,Ladypavise          Blunt    Stamina L,mh4g-kinsect-effect-cn-crosswalk
+kinsect,19,type,19,打击 · 耐力中 / 回复精华效果小,Arkmaiden           Blunt    Stamina M         Extract Eff. S,mh4g-kinsect-effect-cn-crosswalk
+kinsect,19,type,20,打击 · 速度小,Gullshad            Blunt    Speed S,mh4g-kinsect-effect-cn-crosswalk
+kinsect,19,type,21,打击 · 速度大,Bullshroud          Blunt    Speed L,mh4g-kinsect-effect-cn-crosswalk
+kinsect,19,type,22,打击 · 速度中 / 回复精华效果小,Whispervesp         Blunt    Speed M           Extract Eff. S,mh4g-kinsect-effect-cn-crosswalk
+kinsect,19,type,23,打击 · 全能力中 / 回复精华效果大,Arginesse           Blunt    All Stats M       Extract Eff. L,mh4g-kinsect-effect-cn-crosswalk
+kinsect,19,type,24,打击 · 无加成（未使用）,Thunderball         Blunt    none              [unused],mh4g-kinsect-effect-cn-crosswalk
+kinsect,19,type,25,切断 · 攻击+耐力大 / 精华效果小 / 时间延长,Bilbobrix           Cutting  Attack+Stamina L  Extract Eff. S     Extract Extend,mh4g-kinsect-effect-cn-crosswalk
+kinsect,19,type,26,切断 · 耐力+速度大 / 精华效果小 / 蓄力缩短,Foliacath           Cutting  Stamina+Speed L   Extract Eff. S     Charge Time Down,mh4g-kinsect-effect-cn-crosswalk
+kinsect,19,type,27,切断 · 攻击+速度大 / 精华效果小 / 贯通强化,Exalted Alucanid    Cutting  Attack+Speed L    Extract Eff. S     Pierce Up,mh4g-kinsect-effect-cn-crosswalk
+kinsect,19,type,28,切断 · 全能力大 / 精华+状态强化 / 精华+1,Great Elscarad      Cutting  All Stats L       Extract UP+Status  Extracts +1,mh4g-kinsect-effect-cn-crosswalk
+kinsect,19,type,29,打击 · 攻击+耐力大 / 精华效果小 / 时间延长,Ladytower           Blunt    Attack+Stamina L  Extract Eff. S     Extract Extend,mh4g-kinsect-effect-cn-crosswalk
+kinsect,19,type,30,打击 · 耐力+速度大 / 精华效果小 / 蓄力缩短,Fleetflammer        Blunt    Stamina+Speed L   Extract Eff. S     Charge Time Down,mh4g-kinsect-effect-cn-crosswalk
+kinsect,19,type,31,打击 · 攻击+速度大 / 精华效果小 / 贯通强化,Gleambeetle         Blunt    Attack+Speed L    Extract Eff. S     Pierce Up,mh4g-kinsect-effect-cn-crosswalk
+kinsect,19,type,32,打击 · 全能力大 / 精华+状态强化 / 精华+1,Great Arginesse     Blunt    All Stats L       Extract UP+Status  Extracts +1,mh4g-kinsect-effect-cn-crosswalk
+kinsect,19,type,33,打击 · 速度小 / 精华时间延长,Clockmaster         Blunt    Speed S           Extract Extend,mh4g-kinsect-effect-cn-crosswalk
+kinsect,19,type,34,切断 · 精华+1（未使用）,Barrett Hawk        Cutting  Extracts +1       [unused],mh4g-kinsect-effect-cn-crosswalk
 polish_requirement,1,all,0,0,0,mh4edit-mit-save-id-en-fallback
 polish_requirement,1,all,1,1,1,mh4edit-mit-save-id-en-fallback
 polish_requirement,1,all,2,2,2,mh4edit-mit-save-id-en-fallback

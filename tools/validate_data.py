@@ -286,7 +286,7 @@ def validate(data_dir: Path, mapping_path: Path, samples: Path | None, report_pa
     manifest = json.loads(manifest_path.read_text(encoding="utf-8"))
     errors.require(manifest.get("format_version") == "1.0.0", "manifest: unsupported format_version")
     errors.require(manifest.get("languages") == ["cn", "en"], "manifest: languages must be ['cn', 'en']")
-    errors.require(manifest.get("generator", {}).get("version") == "1.3.0", "manifest: unsupported generator version")
+    errors.require(manifest.get("generator", {}).get("version") == "1.3.1", "manifest: unsupported generator version")
     errors.require(
         manifest.get("weapon_name_crosswalk", {}).get("format") == "mh4g-weapon-name-crosswalk-v1",
         "manifest: unsupported or missing weapon name crosswalk",

@@ -184,7 +184,7 @@ QWeapon::QWeapon(weapon_t *weapon, QWidget *parent) : QEquipment(NULL, parent), 
 
     advanced->addWidget(new QLabel("发掘升级", m_advancedGroup), row, 0);
     advanced->addWidget(m_upgrade, row, 1);
-    advanced->addWidget(new QLabel("武器专属值", m_advancedGroup), row, 2);
+    advanced->addWidget(new QLabel(isInsectGlaive ? "猎虫类型/效果" : "武器专属值", m_advancedGroup), row, 2);
     advanced->addWidget(m_weaponSpecial, row++, 3);
     advanced->addWidget(new QLabel("孔数", m_advancedGroup), row, 0);
     advanced->addWidget(m_slots, row, 1);
@@ -200,7 +200,7 @@ QWeapon::QWeapon(weapon_t *weapon, QWidget *parent) : QEquipment(NULL, parent), 
     advanced->addWidget(m_unpolished, row, 0, 1, 2);
     advanced->addWidget(m_glow, row++, 2, 1, 2);
 
-    m_calculationNote = new QLabel("面板值为武器自身换算，不包含防具技能、护符/爪、猫饭、药物和任务内增益。攻击极限强化按真攻击 +20；发掘升级暂按每级 +10 真攻击的参考换算计入，并用※标记。", m_advancedGroup);
+    m_calculationNote = new QLabel("面板值为武器自身换算，不包含防具技能、护符/爪、猫饭、药物和任务内增益。极限强化按高两位解码：0xFF 为生命吸收+附加位 0x3F；攻击类按真攻击 +20。发掘升级暂按每级 +10 真攻击的参考换算计入，并用※标记。", m_advancedGroup);
     m_calculationNote->setWordWrap(true);
     advanced->addWidget(m_calculationNote, row++, 0, 1, 4);
 
@@ -218,6 +218,9 @@ QWeapon::QWeapon(weapon_t *weapon, QWidget *parent) : QEquipment(NULL, parent), 
                                  (index / 4) * 2, index % 4);
         kinsectLayout->addWidget(m_kinsectValues[index], (index / 4) * 2 + 1, index % 4);
     }
+    QLabel *kinsectNote = new QLabel("八项均为独立猎虫参数；0xFF 表示该项原始字节为 255，不代表极限强化或吸血。", m_kinsectInstanceGroup);
+    kinsectNote->setWordWrap(true);
+    kinsectLayout->addWidget(kinsectNote, 4, 0, 1, 4);
     m_kinsectInstanceGroup->setVisible(isInsectGlaive);
     advanced->addWidget(m_kinsectInstanceGroup, row, 0, 1, 4);
     if (isBowgun)
@@ -368,10 +371,17 @@ QString QWeapon::localizedLookupName(const QString &domain, uint8_t value, const
     }
     if (domain == "honing")
     {
-        if (value == 0x00) return "无";
-        if (value == 0x40) return "攻击";
-        if (value == 0x80) return "防御";
-        if (value == 0xC0) return "生命吸收";
+        QString mode;
+        switch (value & 0xC0)
+        {
+            case 0x00: mode = "无"; break;
+            case 0x40: mode = "攻击"; break;
+            case 0x80: mode = "防御"; break;
+            case 0xC0: mode = "生命吸收"; break;
+        }
+        const int extra = value & 0x3F;
+        return extra == 0 ? mode : QString("%1（附加位 0x%2）")
+            .arg(mode).arg(extra, 2, 16, QChar('0')).toUpper();
     }
     return name;
 }
@@ -391,7 +401,7 @@ void QWeapon::populateByteCombo(QComboBox *combo, const QString &domain, const Q
                 (!variant.isEmpty() && QString::fromStdString(value.variant) != variant))
                 continue;
             QString name = localizedLookupName(domain, value.value, QString::fromStdString(value.identifier));
-            QString prefix = isKnownOverflow(domain, variant, value.value) ? "越界 · " : QString();
+            QString prefix = isKnownOverflow(domain, variant, value.value) ? "扩展 · " : QString();
             combo->addItem(QString("%1%2 · %3").arg(prefix, hexByte(value.value), name), value.value);
             if (!prefix.isEmpty())
                 combo->setItemData(combo->count() - 1, QColor("#b42318"), Qt::ForegroundRole);
@@ -401,7 +411,16 @@ void QWeapon::populateByteCombo(QComboBox *combo, const QString &domain, const Q
     }
     if (!found)
     {
-        combo->addItem(QString("保留原值 %1（未识别）").arg(hexByte(currentValue)), currentValue);
+        QString label;
+        if (domain == "honing")
+            label = QString("自定义原值 %1 · %2")
+                .arg(hexByte(currentValue), localizedLookupName(domain, currentValue, QString()));
+        else if (isKnownOverflow(domain, variant, currentValue))
+            label = QString("固定扩展代码 · %1（原值保留）").arg(hexByte(currentValue));
+        else
+            label = QString("自定义原值 · %1（数据表未收录）").arg(hexByte(currentValue));
+        combo->addItem(label, currentValue);
+        combo->setItemData(combo->count() - 1, QColor("#9a6700"), Qt::ForegroundRole);
         combo->setItemData(combo->count() - 1, QString(), Qt::UserRole + 1);
     }
     combo->setCurrentIndex(combo->findData(currentValue));
@@ -530,8 +549,15 @@ void QWeapon::updateCalculatedValues()
     }
     else
     {
-        m_attributeTrueValue->setText("未知");
-        m_attributePanelValue->setText("未知");
+        bool rawOk = false;
+        const int raw = byteComboValue(m_attributeValue, &rawOk);
+        const bool status = byteComboValue(m_attributeType) >= 6;
+        const QString domain = status ? "status_value" : "attribute_value";
+        const bool overflow = rawOk && isKnownOverflow(domain, lookupVariant(domain), raw);
+        m_attributeTrueValue->setText(rawOk
+            ? QString("%1 %2").arg(overflow ? "扩展代码" : "自定义原值", hexByte(raw))
+            : "原值格式错误");
+        m_attributePanelValue->setText(overflow ? "当前数据表暂无面板映射" : "数据表未收录");
     }
 
     bool sharpOk = false;
@@ -542,7 +568,7 @@ void QWeapon::updateCalculatedValues()
         const MH4GSharpnessResult value = MH4GEquipmentValues::sharpness(static_cast<uint8_t>(sharp));
         m_sharpnessValue->setText(value.known
             ? sharpnessHtml(sharp, value)
-            : QString("方案 %1 · 未知七色长度（原值可保存）").arg(hexByte(sharp)));
+            : QString("方案 %1 · 固定扩展代码，当前数据表暂无七色映射（原值保留）").arg(hexByte(sharp)));
     }
     else
         m_sharpnessValue->setText(QString("配置 %1 · 原值模式").arg(hexByte(sharp)));
