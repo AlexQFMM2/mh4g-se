@@ -31,6 +31,10 @@ jobs:
             mingw-w64-x86_64-openssl
             mingw-w64-x86_64-qt5
 
+      - name: Validate generated data
+        shell: pwsh
+        run: python .\tools\validate_data.py .\data --no-samples
+
       - name: Build portable package
         shell: pwsh
         env:
