@@ -60,7 +60,14 @@ bool MH4G_UI_SaveAdapter::save(const std::string &output)
     return m_save.save(QString::fromStdString(output));
 }
 
+bool MH4G_UI_SaveAdapter::save()
+{
+    if (!loaded()) return false;
+    return save(m_save.fileName().toStdString());
+}
+
 std::string MH4G_UI_SaveAdapter::lastError() const { return m_save.lastError().toStdString(); }
+std::string MH4G_UI_SaveAdapter::currentFilename() const { return m_save.fileName().toStdString(); }
 std::string MH4G_UI_SaveAdapter::formatName() const { return "MH4G 3DS"; }
 std::uint32_t MH4G_UI_SaveAdapter::nameSize() const { return 11; }
 

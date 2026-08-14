@@ -16,6 +16,7 @@
 
 QBox::QBox(MH3U_SE *mh3u, QWidget *parent) : QWidget(parent)
 {
+    setObjectName("pageSurface");
     this->mh3u = mh3u;
 
     m_table = new QTableWidget(this);
@@ -99,9 +100,6 @@ QBox::QBox(MH3U_SE *mh3u, QWidget *parent) : QWidget(parent)
     mainLayout->addWidget(m_table, 1);
     mainLayout->addLayout(sideLayout);
     this->setLayout(mainLayout);
-    this->setWindowTitle(uiText("Box editor"));
-    this->resize(1100, 720);
-
     populateTable();
     updateSelectedInfo();
 }
@@ -109,6 +107,17 @@ QBox::QBox(MH3U_SE *mh3u, QWidget *parent) : QWidget(parent)
 QBox::~QBox()
 {
     this->mh3u = NULL;
+}
+
+void QBox::loadFromModel()
+{
+    populateTable();
+    updateSelectedInfo();
+}
+
+bool QBox::commitToModel(QString *)
+{
+    return mh3u != NULL && mh3u->loaded();
 }
 
 void QBox::buttonClicked(int id)
@@ -260,6 +269,7 @@ void QBox::importEquipmentForm()
     MH3U_Transfer::applyEquipmentBox(entries, *mh3u->savedata);
     populateTable();
     updateSelectedInfo();
+    emit modified();
     QMessageBox::information(this, windowTitle(), "装备箱已批量导入。请回到主窗口保存存档后再退出。");
 }
 
@@ -354,6 +364,7 @@ bool QBox::editSlot(uint32_t panel, uint32_t slot)
 
         populateTable();
         updateSelectedInfo();
+        if (saved) emit modified();
         return saved;
     };
 
@@ -443,6 +454,7 @@ bool QBox::editSlot(uint32_t panel, uint32_t slot)
 
     populateTable();
     updateSelectedInfo();
+    if (saved) emit modified();
     return saved;
 }
 

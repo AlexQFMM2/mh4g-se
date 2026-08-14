@@ -117,8 +117,10 @@ public:
     ~MH4G_UI_SaveAdapter();
     bool loaded() const;
     bool load(const std::string &input);
+    bool save();
     bool save(const std::string &output);
     std::string lastError() const;
+    std::string currentFilename() const;
     std::string formatName() const;
     std::uint32_t nameSize() const;
     save_t *savedata;

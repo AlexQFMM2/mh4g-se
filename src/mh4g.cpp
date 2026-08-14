@@ -335,6 +335,7 @@ bool MH4GSave::save(const QString &fileName)
     QByteArray encrypted;
     if (!encrypt(m_decrypted, encrypted, &m_error)) return false;
     QSaveFile file(fileName);
+    file.setDirectWriteFallback(false);
     if (!file.open(QIODevice::WriteOnly))
     {
         m_error = QString("无法写入存档：%1").arg(file.errorString());

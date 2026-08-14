@@ -45,8 +45,6 @@ HEADERS += \
     src/mh3u-ui/widget/qoption.hpp \
     src/mh3u-ui/widget/qweapon.hpp
 
-RESOURCES += resources/resources.qrc
-
 win32: LIBS += -lcrypto
 unix:!macx: LIBS += -l:libcrypto.so.3
 macx: LIBS += -lcrypto
