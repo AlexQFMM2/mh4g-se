@@ -1,965 +1,965 @@
 id,name,english,source,rarity,is_relic
-0,无,None,mh4g-save-format,0,0
-1,勇气具足,Derring Trousers,mh4g-dex-build7+mh4edit-mit-save-id,1,0
-2,勇气重靴Ｓ,Derring Greaves S,mh4g-dex-build7+mh4edit-mit-save-id,4,0
-3,勇气轻靴Ｓ,Derring Leggings S,mh4g-dex-build7+mh4edit-mit-save-id,4,0
-4,皮制具足,Leather Trousers,mh4g-dex-build7+mh4edit-mit-save-id,1,0
-5,皮质重靴Ｓ,Leather Greaves S,mh4g-dex-build7+mh4edit-mit-save-id,4,0
-6,皮质轻靴Ｓ,Leather Leggings S,mh4g-dex-build7+mh4edit-mit-save-id,4,0
-7,锁链具足,Chainmail Trousers,mh4g-dex-build7+mh4edit-mit-save-id,1,0
-8,锁链重靴Ｓ,Chainmail Greaves S,mh4g-dex-build7+mh4edit-mit-save-id,4,0
-9,锁链轻靴Ｓ,Chainmail Leggings S,mh4g-dex-build7+mh4edit-mit-save-id,4,0
-10,猎人重靴,Hunter's Greaves,mh4g-dex-build7+mh4edit-mit-save-id,1,0
-11,猎人轻靴,Hunter's Leggings,mh4g-dex-build7+mh4edit-mit-save-id,1,0
-12,猎人重靴Ｓ,Hunter's Greaves S,mh4g-dex-build7+mh4edit-mit-save-id,4,0
-13,猎人轻靴Ｓ,Hunter's Leggings S,mh4g-dex-build7+mh4edit-mit-save-id,4,0
-14,猎人重靴,Hunter's Greaves,mh4g-dex-build7+mh4edit-mit-save-id,1,0
-15,猎人轻靴,Hunter's Leggings,mh4g-dex-build7+mh4edit-mit-save-id,1,0
-16,骨制重靴,Bone Greaves,mh4g-dex-build7+mh4edit-mit-save-id,1,0
-17,骨制轻靴,Bone Leggings,mh4g-dex-build7+mh4edit-mit-save-id,1,0
-18,骨制重靴Ｓ,Bone Greaves S,mh4g-dex-build7+mh4edit-mit-save-id,4,0
-19,骨制轻靴Ｓ,Bone Leggings S,mh4g-dex-build7+mh4edit-mit-save-id,4,0
-20,合金重靴,Alloy Greaves,mh4g-dex-build7+mh4edit-mit-save-id,1,0
-21,合金轻靴,Alloy Leggings,mh4g-dex-build7+mh4edit-mit-save-id,1,0
-22,合金重靴Ｓ,Alloy Greaves S,mh4g-dex-build7+mh4edit-mit-save-id,4,0
-23,合金轻靴Ｓ,Alloy Leggings S,mh4g-dex-build7+mh4edit-mit-save-id,4,0
-24,合金重靴,Alloy Greaves,mh4g-dex-build7+mh4edit-mit-save-id,1,0
-25,合金轻靴,Alloy Leggings,mh4g-dex-build7+mh4edit-mit-save-id,1,0
-26,狗龙重靴,Jaggi Greaves,mh4g-dex-build7+mh4edit-mit-save-id,2,0
-27,狗龙轻靴,Jaggi Leggings,mh4g-dex-build7+mh4edit-mit-save-id,2,0
-28,狗龙重靴Ｓ,Jaggi Greaves S,mh4g-dex-build7+mh4edit-mit-save-id,4,0
-29,狗龙轻靴Ｓ,Jaggi Leggings S,mh4g-dex-build7+mh4edit-mit-save-id,4,0
-30,洛克拉克皮靴,Loc Lac Boots,mh4g-dex-build7+mh4edit-mit-save-id,1,0
-31,水兽重靴,Ludroth Greaves,mh4g-dex-build7+mh4edit-mit-save-id,2,0
-32,水兽轻靴,Ludroth Leggings,mh4g-dex-build7+mh4edit-mit-save-id,2,0
-33,水兽重靴,Ludroth Greaves,mh4g-dex-build7+mh4edit-mit-save-id,2,0
-34,水兽轻靴,Ludroth Leggings,mh4g-dex-build7+mh4edit-mit-save-id,2,0
-35,草食龙重靴,Rhenoplos Greaves,mh4g-dex-build7+mh4edit-mit-save-id,2,0
-36,草食龙轻靴,Rhenoplos Leggings,mh4g-dex-build7+mh4edit-mit-save-id,2,0
-37,草食龙重靴Ｓ,Rhenoplos Greaves S,mh4g-dex-build7+mh4edit-mit-save-id,4,0
-38,草食龙轻靴Ｓ,Rhenoplos Leggings S,mh4g-dex-build7+mh4edit-mit-save-id,4,0
-39,飞甲虫皮靴,Bnahabra Boots,mh4g-dex-build7+mh4edit-mit-save-id,2,0
-40,飞甲虫具足,Bnahabra Pants,mh4g-dex-build7+mh4edit-mit-save-id,2,0
-41,飞甲虫皮靴Ｓ,Bnahabra Boots S,mh4g-dex-build7+mh4edit-mit-save-id,4,0
-42,飞甲虫具足Ｓ,Bnahabra Pants S,mh4g-dex-build7+mh4edit-mit-save-id,4,0
-43,土砂龙重靴,Barroth Greaves,mh4g-dex-build7+mh4edit-mit-save-id,2,0
-44,土砂龙轻靴,Barroth Leggings,mh4g-dex-build7+mh4edit-mit-save-id,2,0
-45,雌火龙重靴,Rathian Greaves,mh4g-dex-build7+mh4edit-mit-save-id,2,0
-46,雌火龙轻靴,Rathian Leggings,mh4g-dex-build7+mh4edit-mit-save-id,2,0
-47,雌火龙重靴Ｓ,Rathian Greaves S,mh4g-dex-build7+mh4edit-mit-save-id,5,0
-48,雌火龙轻靴Ｓ,Rathian Leggings S,mh4g-dex-build7+mh4edit-mit-save-id,5,0
-49,樱火龙重靴,Rath Heart Greaves,mh4g-dex-build7+mh4edit-mit-save-id,6,0
-50,樱火龙轻靴,Rath Heart Leggings,mh4g-dex-build7+mh4edit-mit-save-id,6,0
-51,金火龙重靴,Golden Lunegreaves,mh4g-dex-build7+mh4edit-mit-save-id,7,0
-52,金火龙轻靴,Golden Luneleggings,mh4g-dex-build7+mh4edit-mit-save-id,7,0
-53,雌火龙重靴,Rathian Greaves,mh4g-dex-build7+mh4edit-mit-save-id,2,0
-54,雌火龙轻靴,Rathian Leggings,mh4g-dex-build7+mh4edit-mit-save-id,2,0
-55,樱火龙重靴,Rath Heart Greaves,mh4g-dex-build7+mh4edit-mit-save-id,6,0
-56,樱火龙轻靴,Rath Heart Leggings,mh4g-dex-build7+mh4edit-mit-save-id,6,0
-57,EX雌火龙重靴,EX Rathian Greaves,mh4g-dex-build7+mh4edit-mit-save-id,7,0
-58,EX雌火龙轻靴,EX Rathian Leggings,mh4g-dex-build7+mh4edit-mit-save-id,7,0
-59,雄火龙重靴,Rathalos Greaves,mh4g-dex-build7+mh4edit-mit-save-id,3,0
-60,雄火龙轻靴,Rathalos Leggings,mh4g-dex-build7+mh4edit-mit-save-id,3,0
-61,雄火龙重靴Ｓ,Rathalos Greaves S,mh4g-dex-build7+mh4edit-mit-save-id,5,0
-62,雄火龙轻靴Ｓ,Rathalos Leggings S,mh4g-dex-build7+mh4edit-mit-save-id,5,0
-63,苍火龙重靴,Rath Soul Greaves,mh4g-dex-build7+mh4edit-mit-save-id,6,0
-64,苍火龙轻靴,Rath Soul Leggings,mh4g-dex-build7+mh4edit-mit-save-id,6,0
-65,银火龙重靴,Silver Solgreaves,mh4g-dex-build7+mh4edit-mit-save-id,7,0
-66,银火龙轻靴,Silver Solleggings,mh4g-dex-build7+mh4edit-mit-save-id,7,0
-67,雄火龙重靴,Rathalos Greaves,mh4g-dex-build7+mh4edit-mit-save-id,3,0
-68,雄火龙轻靴,Rathalos Leggings,mh4g-dex-build7+mh4edit-mit-save-id,3,0
-69,苍火龙重靴,Rath Soul Greaves,mh4g-dex-build7+mh4edit-mit-save-id,6,0
-70,苍火龙轻靴,Rath Soul Leggings,mh4g-dex-build7+mh4edit-mit-save-id,6,0
-71,银火龙重靴,Silver Solgreaves,mh4g-dex-build7+mh4edit-mit-save-id,7,0
-72,银火龙轻靴,Silver Solleggings,mh4g-dex-build7+mh4edit-mit-save-id,7,0
-73,EX雄火龙重靴,EX Rathalos Greaves,mh4g-dex-build7+mh4edit-mit-save-id,7,0
-74,EX雄火龙轻靴,EX Rathalos Leggings,mh4g-dex-build7+mh4edit-mit-save-id,7,0
-75,角龙重靴,Diablos Greaves,mh4g-dex-build7+mh4edit-mit-save-id,3,0
-76,角龙轻靴,Diablos Leggings,mh4g-dex-build7+mh4edit-mit-save-id,3,0
-77,爆锤龙重靴,Uragaan Greaves,mh4g-dex-build7+mh4edit-mit-save-id,3,0
-78,爆锤龙轻靴,Uragaan Leggings,mh4g-dex-build7+mh4edit-mit-save-id,3,0
-79,恐暴龙重靴,Vangis Greaves,mh4g-dex-build7+mh4edit-mit-save-id,6,0
-80,恐暴龙轻靴,Vangis Leggings,mh4g-dex-build7+mh4edit-mit-save-id,6,0
-81,贪婪重靴,Esurient Greaves,mh4g-dex-build7+mh4edit-mit-save-id,7,0
-82,贪婪轻靴,Esurient Leggings,mh4g-dex-build7+mh4edit-mit-save-id,7,0
-83,贪婪重靴,Esurient Greaves,mh4g-dex-build7+mh4edit-mit-save-id,7,0
-84,贪婪轻靴,Esurient Leggings,mh4g-dex-build7+mh4edit-mit-save-id,7,0
-85,残阳【具足】,Gloaming Greaves,mh4g-dex-build7+mh4edit-mit-save-id,3,0
-86,常磐【具足】,Adamance Pleats,mh4g-dex-build7+mh4edit-mit-save-id,3,0
-87,东云【足袴】,Dayspring Pleats,mh4g-dex-build7+mh4edit-mit-save-id,3,0
-88,八千代【足袴】,Epoch Pleats,mh4g-dex-build7+mh4edit-mit-save-id,3,0
-89,残阳・霸【具足】,Gloaming Archgreaves,mh4g-dex-build7+mh4edit-mit-save-id,7,0
-90,常磐・霸【具足】,Adamance Archpleats,mh4g-dex-build7+mh4edit-mit-save-id,7,0
-91,东云・霸【足袴】,Dayspring Archpleats,mh4g-dex-build7+mh4edit-mit-save-id,7,0
-92,八千代・霸【足袴】,Epoch Archpleats,mh4g-dex-build7+mh4edit-mit-save-id,7,0
-93,残阳【具足】,Gloaming Greaves,mh4g-dex-build7+mh4edit-mit-save-id,3,0
-94,常磐【具足】,Adamance Pleats,mh4g-dex-build7+mh4edit-mit-save-id,3,0
-95,东云【足袴】,Dayspring Pleats,mh4g-dex-build7+mh4edit-mit-save-id,3,0
-96,八千代【足袴】,Epoch Pleats,mh4g-dex-build7+mh4edit-mit-save-id,3,0
-97,水龙重靴,Plesioth Greaves,mh4g-dex-build7+mh4edit-mit-save-id,4,0
-98,水龙轻靴,Plesioth Leggings,mh4g-dex-build7+mh4edit-mit-save-id,4,0
-99,潜口龙重靴,Nibelsnarf Greaves,mh4g-dex-build7+mh4edit-mit-save-id,2,0
-100,潜口龙轻靴,Nibelsnarf Leggings,mh4g-dex-build7+mh4edit-mit-save-id,2,0
-101,尾槌龙重靴,Duramboros Greaves,mh4g-dex-build7+mh4edit-mit-save-id,3,0
-102,尾槌龙轻靴,Duramboros Leggings,mh4g-dex-build7+mh4edit-mit-save-id,3,0
-103,青熊兽重靴,Arzuros Greaves,mh4g-dex-build7+mh4edit-mit-save-id,2,0
-104,青熊兽轻靴,Arzuros Leggings,mh4g-dex-build7+mh4edit-mit-save-id,2,0
-105,白兔兽重靴,Lagombi Greaves,mh4g-dex-build7+mh4edit-mit-save-id,2,0
-106,白兔兽轻靴,Lagombi Leggings,mh4g-dex-build7+mh4edit-mit-save-id,2,0
-107,白兔兽重靴Ｓ,Lagombi Greaves S,mh4g-dex-build7+mh4edit-mit-save-id,4,0
-108,白兔兽轻靴Ｓ,Lagombi Leggings S,mh4g-dex-build7+mh4edit-mit-save-id,4,0
-109,迅龙重靴,Nargacuga Greaves,mh4g-dex-build7+mh4edit-mit-save-id,3,0
-110,迅龙轻靴,Nargacuga Leggings,mh4g-dex-build7+mh4edit-mit-save-id,3,0
-111,轰龙重靴,Tigrex Greaves,mh4g-dex-build7+mh4edit-mit-save-id,3,0
-112,轰龙轻靴,Tigrex Leggings,mh4g-dex-build7+mh4edit-mit-save-id,3,0
-113,轰龙重靴Ｓ,Tigrex Greaves S,mh4g-dex-build7+mh4edit-mit-save-id,5,0
-114,轰龙轻靴Ｓ,Tigrex Leggings S,mh4g-dex-build7+mh4edit-mit-save-id,5,0
-115,黑轰龙重靴Ｕ,Tigrex Greaves U,mh4g-dex-build7+mh4edit-mit-save-id,6,0
-116,黑轰龙轻靴Ｕ,Tigrex Leggings U,mh4g-dex-build7+mh4edit-mit-save-id,6,0
-117,大轰龙重靴,Excello Greaves,mh4g-dex-build7+mh4edit-mit-save-id,7,0
-118,大轰龙轻靴,Excello Leggings,mh4g-dex-build7+mh4edit-mit-save-id,7,0
-119,EX轰龙重靴,EX Tigrex Greaves,mh4g-dex-build7+mh4edit-mit-save-id,7,0
-120,EX轰龙轻靴,EX Tigrex Leggings,mh4g-dex-build7+mh4edit-mit-save-id,7,0
-121,轰龙重靴,Tigrex Greaves,mh4g-dex-build7+mh4edit-mit-save-id,3,0
-122,轰龙轻靴,Tigrex Leggings,mh4g-dex-build7+mh4edit-mit-save-id,3,0
-123,黑轰龙重靴Ｕ,Tigrex Greaves U,mh4g-dex-build7+mh4edit-mit-save-id,6,0
-124,黑轰龙轻靴Ｕ,Tigrex Leggings U,mh4g-dex-build7+mh4edit-mit-save-id,6,0
-125,碎龙重靴,Brachydios Greaves,mh4g-dex-build7+mh4edit-mit-save-id,3,0
-126,碎龙轻靴,Brachydios Leggings,mh4g-dex-build7+mh4edit-mit-save-id,3,0
-127,碎龙重靴Ｓ,Brachydios Greaves S,mh4g-dex-build7+mh4edit-mit-save-id,6,0
-128,碎龙轻靴Ｓ,Brachy Leggings S,mh4g-dex-build7+mh4edit-mit-save-id,6,0
-129,霸龙护胫,Akantor Hessian,mh4g-dex-build7+mh4edit-mit-save-id,7,0
-130,霸龙护膝,Akantor Boots,mh4g-dex-build7+mh4edit-mit-save-id,7,0
-131,霸龙护胫,Akantor Hessian,mh4g-dex-build7+mh4edit-mit-save-id,7,0
-132,霸龙护膝,Akantor Boots,mh4g-dex-build7+mh4edit-mit-save-id,7,0
-133,雷狼龙重靴,Zinogre Greaves,mh4g-dex-build7+mh4edit-mit-save-id,3,0
-134,雷狼龙轻靴,Zinogre Leggings,mh4g-dex-build7+mh4edit-mit-save-id,3,0
-135,雷狼龙重靴Ｓ,Zinogre Greaves S,mh4g-dex-build7+mh4edit-mit-save-id,5,0
-136,雷狼龙轻靴Ｓ,Zinogre Leggings S,mh4g-dex-build7+mh4edit-mit-save-id,5,0
-137,狱狼龙重靴Ｕ,Zinogre Greaves U,mh4g-dex-build7+mh4edit-mit-save-id,6,0
-138,狱狼龙轻靴Ｕ,Zinogre Leggings U,mh4g-dex-build7+mh4edit-mit-save-id,6,0
-139,狱狼龙重靴Ｕ,Zinogre Greaves U,mh4g-dex-build7+mh4edit-mit-save-id,6,0
-140,狱狼龙轻靴Ｕ,Zinogre Leggings U,mh4g-dex-build7+mh4edit-mit-save-id,6,0
-141,EX炎王龙重靴,EX Kaiser Greaves,mh4g-dex-build7+mh4edit-mit-save-id,7,0
-142,EX炎王龙轻靴,EX Kaiser Leggings,mh4g-dex-build7+mh4edit-mit-save-id,7,0
-143,奇猿狐重靴,Kecha Greaves,mh4g-dex-build7+mh4edit-mit-save-id,2,0
-144,奇猿狐轻靴,Kecha Leggings,mh4g-dex-build7+mh4edit-mit-save-id,2,0
-145,奇猿狐重靴Ｓ,Kecha Greaves S,mh4g-dex-build7+mh4edit-mit-save-id,4,0
-146,奇猿狐轻靴Ｓ,Kecha Leggings S,mh4g-dex-build7+mh4edit-mit-save-id,4,0
-147,黑蚀龙重靴,Gore Greaves,mh4g-dex-build7+mh4edit-mit-save-id,3,0
-148,黑蚀龙轻靴,Gore Leggings,mh4g-dex-build7+mh4edit-mit-save-id,3,0
-149,黑蚀龙重靴Ｓ,Gore Greaves S,mh4g-dex-build7+mh4edit-mit-save-id,6,0
-150,黑蚀龙轻靴Ｓ,Gore Leggings S,mh4g-dex-build7+mh4edit-mit-save-id,6,0
-151,黑蚀龙重靴,Gore Greaves,mh4g-dex-build7+mh4edit-mit-save-id,3,0
-152,黑蚀龙轻靴,Gore Leggings,mh4g-dex-build7+mh4edit-mit-save-id,3,0
-153,鬼蛙重靴,Tetsucabra Greaves,mh4g-dex-build7+mh4edit-mit-save-id,2,0
-154,鬼蛙轻靴,Tetsucabra Leggings,mh4g-dex-build7+mh4edit-mit-save-id,2,0
-155,鬼蛙重靴Ｓ,Tetsucabra Greaves S,mh4g-dex-build7+mh4edit-mit-save-id,5,0
-156,鬼蛙轻靴Ｓ,Tetsucabra Leggings S,mh4g-dex-build7+mh4edit-mit-save-id,5,0
-157,影蜘蛛重靴,Nerscylla Greaves,mh4g-dex-build7+mh4edit-mit-save-id,2,0
-158,影蜘蛛轻靴,Nerscylla Leggings,mh4g-dex-build7+mh4edit-mit-save-id,2,0
-159,影蜘蛛重靴Ｓ,Nerscylla Greaves S,mh4g-dex-build7+mh4edit-mit-save-id,5,0
-160,影蜘蛛轻靴Ｓ,Nerscylla Leggings S,mh4g-dex-build7+mh4edit-mit-save-id,5,0
-161,绞蛇龙重靴,Najarala Greaves,mh4g-dex-build7+mh4edit-mit-save-id,2,0
-162,绞蛇龙轻靴,Najarala Leggings,mh4g-dex-build7+mh4edit-mit-save-id,2,0
-163,绞蛇龙重靴Ｓ,Najarala Greaves S,mh4g-dex-build7+mh4edit-mit-save-id,5,0
-164,绞蛇龙轻靴Ｓ,Najarala Leggings S,mh4g-dex-build7+mh4edit-mit-save-id,5,0
-165,黑狼鸟重靴,Garuga Greaves,mh4g-dex-build7+mh4edit-mit-save-id,3,0
-166,黑狼鸟轻靴,Garuga Leggings,mh4g-dex-build7+mh4edit-mit-save-id,3,0
-167,黑狼鸟重靴Ｓ,Garuga Greaves S,mh4g-dex-build7+mh4edit-mit-save-id,5,0
-168,黑狼鸟轻靴Ｓ,Garuga Leggings S,mh4g-dex-build7+mh4edit-mit-save-id,5,0
-169,岩龙重靴,Basarios Greaves,mh4g-dex-build7+mh4edit-mit-save-id,2,0
-170,岩龙轻靴,Basarios Leggings,mh4g-dex-build7+mh4edit-mit-save-id,2,0
-171,岩龙重靴Ｓ,Basarios Greaves S,mh4g-dex-build7+mh4edit-mit-save-id,5,0
-172,岩龙轻靴Ｓ,Basarios Leggings S,mh4g-dex-build7+mh4edit-mit-save-id,5,0
-173,桃岩龙重靴Ｕ,Basarios Greaves U,mh4g-dex-build7+mh4edit-mit-save-id,6,0
-174,桃岩龙轻靴Ｕ,Basarios Leggings U,mh4g-dex-build7+mh4edit-mit-save-id,6,0
-175,战斗重靴,Battle Greaves,mh4g-dex-build7+mh4edit-mit-save-id,2,0
-176,战斗轻靴,Battle Leggings,mh4g-dex-build7+mh4edit-mit-save-id,2,0
-177,蓝速龙重靴,Velociprey Greaves,mh4g-dex-build7+mh4edit-mit-save-id,2,0
-178,蓝速龙轻靴,Velociprey Leggings,mh4g-dex-build7+mh4edit-mit-save-id,2,0
-179,蓝速龙重靴Ｓ,Velociprey Greaves S,mh4g-dex-build7+mh4edit-mit-save-id,4,0
-180,蓝速龙轻靴Ｓ,Velociprey Leggings S,mh4g-dex-build7+mh4edit-mit-save-id,4,0
-181,黄速龙重靴,Genprey Greaves,mh4g-dex-build7+mh4edit-mit-save-id,2,0
-182,黄速龙轻靴,Genprey Leggings,mh4g-dex-build7+mh4edit-mit-save-id,2,0
-183,黄速龙重靴Ｓ,Genprey Greaves S,mh4g-dex-build7+mh4edit-mit-save-id,4,0
-184,黄速龙轻靴Ｓ,Genprey Leggings S,mh4g-dex-build7+mh4edit-mit-save-id,4,0
-185,红速龙重靴,Ioprey Greaves,mh4g-dex-build7+mh4edit-mit-save-id,2,0
-186,红速龙轻靴,Ioprey Leggings,mh4g-dex-build7+mh4edit-mit-save-id,2,0
-187,红速龙重靴Ｓ,Ioprey Greaves S,mh4g-dex-build7+mh4edit-mit-save-id,4,0
-188,红速龙轻靴Ｓ,Ioprey Leggings S,mh4g-dex-build7+mh4edit-mit-save-id,4,0
-189,大怪鸟重靴,Kut-Ku Greaves,mh4g-dex-build7+mh4edit-mit-save-id,2,0
-190,大怪鸟轻靴,Kut-Ku Leggings,mh4g-dex-build7+mh4edit-mit-save-id,2,0
-191,大怪鸟重靴Ｓ,Kut-Ku Greaves S,mh4g-dex-build7+mh4edit-mit-save-id,4,0
-192,大怪鸟轻靴Ｓ,Kut-Ku Leggings S,mh4g-dex-build7+mh4edit-mit-save-id,4,0
-193,青怪鸟重靴Ｕ,Kut-Ku Greaves U,mh4g-dex-build7+mh4edit-mit-save-id,5,0
-194,青怪鸟轻靴Ｕ,Kut-Ku Leggings U,mh4g-dex-build7+mh4edit-mit-save-id,5,0
-195,毒怪鸟重靴,Gypceros Greaves,mh4g-dex-build7+mh4edit-mit-save-id,2,0
-196,毒怪鸟轻靴,Gypceros Leggings,mh4g-dex-build7+mh4edit-mit-save-id,2,0
-197,毒怪鸟重靴Ｓ,Gypceros Greaves S,mh4g-dex-build7+mh4edit-mit-save-id,5,0
-198,毒怪鸟轻靴Ｓ,Gypceros Leggings S,mh4g-dex-build7+mh4edit-mit-save-id,5,0
-199,紫毒怪鸟重靴Ｕ,Gypceros Greaves U,mh4g-dex-build7+mh4edit-mit-save-id,6,0
-200,紫毒怪鸟轻靴Ｕ,Gypceros Leggings U,mh4g-dex-build7+mh4edit-mit-save-id,6,0
-201,毒怪鸟重靴,Gypceros Greaves,mh4g-dex-build7+mh4edit-mit-save-id,2,0
-202,毒怪鸟轻靴,Gypceros Leggings,mh4g-dex-build7+mh4edit-mit-save-id,2,0
-203,紫毒怪鸟重靴Ｕ,Gypceros Greaves U,mh4g-dex-build7+mh4edit-mit-save-id,6,0
-204,紫毒怪鸟轻靴Ｕ,Gypceros Leggings U,mh4g-dex-build7+mh4edit-mit-save-id,6,0
-205,桃毛兽重靴,Conga Greaves,mh4g-dex-build7+mh4edit-mit-save-id,2,0
-206,桃毛兽轻靴,Conga Leggings,mh4g-dex-build7+mh4edit-mit-save-id,2,0
-207,桃毛兽重靴Ｓ,Conga Greaves S,mh4g-dex-build7+mh4edit-mit-save-id,4,0
-208,桃毛兽轻靴Ｓ,Conga Leggings S,mh4g-dex-build7+mh4edit-mit-save-id,4,0
-209,绿毛兽重靴Ｕ,Conga Greaves U,mh4g-dex-build7+mh4edit-mit-save-id,5,0
-210,绿毛兽轻靴Ｕ,Conga Leggings U,mh4g-dex-build7+mh4edit-mit-save-id,5,0
-211,铠龙重靴,Gravios Greaves,mh4g-dex-build7+mh4edit-mit-save-id,3,0
-212,铠龙轻靴,Gravios Leggings,mh4g-dex-build7+mh4edit-mit-save-id,3,0
-213,铠龙重靴Ｓ,Gravios Greaves S,mh4g-dex-build7+mh4edit-mit-save-id,5,0
-214,铠龙轻靴Ｓ,Gravios Leggings S,mh4g-dex-build7+mh4edit-mit-save-id,5,0
-215,黑铠龙重靴Ｕ,Gravios Greaves U,mh4g-dex-build7+mh4edit-mit-save-id,6,0
-216,黑铠龙轻靴Ｕ,Gravios Leggings U,mh4g-dex-build7+mh4edit-mit-save-id,6,0
-217,电龙重靴,Khezu Greaves,mh4g-dex-build7+mh4edit-mit-save-id,2,0
-218,电龙轻靴,Khezu Leggings,mh4g-dex-build7+mh4edit-mit-save-id,2,0
-219,电龙重靴Ｓ,Khezu Greaves S,mh4g-dex-build7+mh4edit-mit-save-id,5,0
-220,电龙轻靴Ｓ,Khezu Leggings S,mh4g-dex-build7+mh4edit-mit-save-id,5,0
-221,赤电龙重靴Ｕ,Khezu Greaves U,mh4g-dex-build7+mh4edit-mit-save-id,6,0
-222,赤电龙轻靴Ｕ,Khezu Leggings U,mh4g-dex-build7+mh4edit-mit-save-id,6,0
-223,电龙重靴,Khezu Greaves,mh4g-dex-build7+mh4edit-mit-save-id,2,0
-224,电龙轻靴,Khezu Leggings,mh4g-dex-build7+mh4edit-mit-save-id,2,0
-225,赤电龙重靴Ｕ,Khezu Greaves U,mh4g-dex-build7+mh4edit-mit-save-id,6,0
-226,赤电龙轻靴Ｕ,Khezu Leggings U,mh4g-dex-build7+mh4edit-mit-save-id,6,0
-227,麒麟绑腿,Kirin Leg Guards,mh4g-dex-build7+mh4edit-mit-save-id,3,0
-228,麒麟皮靴,Kirin Boots,mh4g-dex-build7+mh4edit-mit-save-id,3,0
-229,麒麟绑腿Ｓ,Kirin Leg Guards S,mh4g-dex-build7+mh4edit-mit-save-id,6,0
-230,麒麟皮靴Ｓ,Kirin Boots S,mh4g-dex-build7+mh4edit-mit-save-id,6,0
-231,冰麒麟绑腿Ｕ,Kirin Leg Guards U,mh4g-dex-build7+mh4edit-mit-save-id,7,0
-232,冰麒麟皮靴Ｕ,Kirin Boots U,mh4g-dex-build7+mh4edit-mit-save-id,7,0
-233,麒麟绑腿,Kirin Leg Guards,mh4g-dex-build7+mh4edit-mit-save-id,3,0
-234,麒麟皮靴,Kirin Boots,mh4g-dex-build7+mh4edit-mit-save-id,3,0
-235,冰麒麟绑腿Ｕ,Kirin Leg Guards U,mh4g-dex-build7+mh4edit-mit-save-id,7,0
-236,冰麒麟皮靴Ｕ,Kirin Boots U,mh4g-dex-build7+mh4edit-mit-save-id,7,0
-237,钢龙护胫,Kushala Crus,mh4g-dex-build7+mh4edit-mit-save-id,7,0
-238,钢龙护膝,Kushala Shank,mh4g-dex-build7+mh4edit-mit-save-id,7,0
-239,EX钢龙护胫,EX Kushala Crus,mh4g-dex-build7+mh4edit-mit-save-id,7,0
-240,EX钢龙护膝,EX Kushala Shank,mh4g-dex-build7+mh4edit-mit-save-id,7,0
-241,钢龙护胫,Kushala Crus,mh4g-dex-build7+mh4edit-mit-save-id,7,0
-242,钢龙护膝,Kushala Shank,mh4g-dex-build7+mh4edit-mit-save-id,7,0
-243,炎妃龙重靴,Empress Greaves,mh4g-dex-build7+mh4edit-mit-save-id,7,0
-244,炎妃龙轻靴,Empress Leggings,mh4g-dex-build7+mh4edit-mit-save-id,7,0
-245,镰蟹重靴,Ceanataur Greaves,mh4g-dex-build7+mh4edit-mit-save-id,2,0
-246,镰蟹轻靴,Ceanataur Leggings,mh4g-dex-build7+mh4edit-mit-save-id,2,0
-247,镰蟹重靴,Ceanataur Greaves,mh4g-dex-build7+mh4edit-mit-save-id,2,0
-248,镰蟹轻靴,Ceanataur Leggings,mh4g-dex-build7+mh4edit-mit-save-id,2,0
-249,晓丸【具足】,Auroros Pants,mh4g-dex-build7+mh4edit-mit-save-id,3,0
-250,凛【足袴】,Borealis Hakama,mh4g-dex-build7+mh4edit-mit-save-id,3,0
-251,曙丸【具足】,Genesis Pants,mh4g-dex-build7+mh4edit-mit-save-id,3,0
-252,妖艳【足袴】,Glyph Hakama,mh4g-dex-build7+mh4edit-mit-save-id,3,0
-253,晓丸【具足】,Auroros Pants,mh4g-dex-build7+mh4edit-mit-save-id,3,0
-254,凛【足袴】,Borealis Hakama,mh4g-dex-build7+mh4edit-mit-save-id,3,0
-255,曙丸【具足】,Genesis Pants,mh4g-dex-build7+mh4edit-mit-save-id,3,0
-256,妖艳【足袴】,Glyph Hakama,mh4g-dex-build7+mh4edit-mit-save-id,3,0
-257,溶岩龙重靴,Lava Greaves,mh4g-dex-build7+mh4edit-mit-save-id,3,0
-258,溶岩龙轻靴,Lava Leggings,mh4g-dex-build7+mh4edit-mit-save-id,3,0
-259,翼蛇龙套具足,Remobra Feet,mh4g-dex-build7+mh4edit-mit-save-id,2,0
-260,翼蛇龙套丝袜,Remobra Tights,mh4g-dex-build7+mh4edit-mit-save-id,2,0
-261,翼蛇龙具足Ｓ,Remobra Feet S,mh4g-dex-build7+mh4edit-mit-save-id,4,0
-262,翼蛇龙丝袜Ｓ,Remobra Tights S,mh4g-dex-build7+mh4edit-mit-save-id,4,0
-263,鬼鲛重靴,Zamtrios Greaves,mh4g-dex-build7+mh4edit-mit-save-id,2,0
-264,鬼鲛轻靴,Zamtrios Leggings,mh4g-dex-build7+mh4edit-mit-save-id,2,0
-265,鬼鲛重靴Ｓ,Zamtrios Greaves S,mh4g-dex-build7+mh4edit-mit-save-id,5,0
-266,鬼鲛轻靴Ｓ,Zamtrios Leggings S,mh4g-dex-build7+mh4edit-mit-save-id,5,0
-267,重甲虫重靴,Seltas Greaves,mh4g-dex-build7+mh4edit-mit-save-id,3,0
-268,重甲虫轻靴,Seltas Leggings,mh4g-dex-build7+mh4edit-mit-save-id,3,0
-269,重甲虫重靴Ｓ,Seltas Greaves S,mh4g-dex-build7+mh4edit-mit-save-id,5,0
-270,重甲虫轻靴Ｓ,Seltas Leggings S,mh4g-dex-build7+mh4edit-mit-save-id,5,0
-271,弧光重靴,Arc Greaves,mh4g-dex-build7+mh4edit-mit-save-id,3,0
-272,弧光轻靴,Arc Leggings,mh4g-dex-build7+mh4edit-mit-save-id,3,0
-273,弧光重靴Ｓ,Arc Greaves S,mh4g-dex-build7+mh4edit-mit-save-id,7,0
-274,弧光轻靴Ｓ,Arc Leggings S,mh4g-dex-build7+mh4edit-mit-save-id,7,0
-275,弧光重靴,Arc Greaves,mh4g-dex-build7+mh4edit-mit-save-id,3,0
-276,弧光轻靴,Arc Leggings,mh4g-dex-build7+mh4edit-mit-save-id,3,0
-277,炎王龙重靴,Kaiser Greaves,mh4g-dex-build7+mh4edit-mit-save-id,7,0
-278,炎王龙轻靴,Kaiser Leggings,mh4g-dex-build7+mh4edit-mit-save-id,7,0
-279,金色的足袴,Golden Hakama,mh4g-dex-build7+mh4edit-mit-save-id,7,0
-280,黑子的足袋,Puppeteer Tabi,mh4g-dex-build7+mh4edit-mit-save-id,7,0
-281,怒天的足袴,Divine Ire Hakama,mh4g-dex-build7+mh4edit-mit-save-id,7,0
-282,心灭的足袋,Mind Crusher Tabi,mh4g-dex-build7+mh4edit-mit-save-id,7,0
-283,逆乱重靴,Rebellion Greaves,mh4g-dex-build7+mh4edit-mit-save-id,7,0
-284,暴乱轻靴,Riot Leggings,mh4g-dex-build7+mh4edit-mit-save-id,7,0
-285,逆乱重靴,Rebellion Greaves,mh4g-dex-build7+mh4edit-mit-save-id,7,0
-286,暴乱轻靴,Riot Leggings,mh4g-dex-build7+mh4edit-mit-save-id,7,0
-287,恶龙具足Ｘ,Dragonfeet X,mh4g-dex-build7+mh4edit-mit-save-id,10,0
-288,恶龙足甲Ｘ,Dragonlegs X,mh4g-dex-build7+mh4edit-mit-save-id,10,0
-289,恶龙具足,Dragonfeet,mh4g-dex-build7+mh4edit-mit-save-id,7,0
-290,恶龙足甲,Dragonlegs,mh4g-dex-build7+mh4edit-mit-save-id,7,0
-291,红黑龙具足,Fatalis Crimsonfeet,mh4g-dex-build7+mh4edit-mit-save-id,7,0
-292,红黑龙足甲,Fatalis Crimsonlegs,mh4g-dex-build7+mh4edit-mit-save-id,7,0
-293,红速龙套具足,Ioprey Feet,mh4g-dex-build7+mh4edit-mit-save-id,5,0
-294,红速龙套丝袜,Ioprey Tights,mh4g-dex-build7+mh4edit-mit-save-id,5,0
-295,砂龙重靴,Cephalos Greaves,mh4g-dex-build7+mh4edit-mit-save-id,4,0
-296,砂龙轻靴,Cephalos Leggings,mh4g-dex-build7+mh4edit-mit-save-id,4,0
-297,罔象【具足】,Mizuha Leg Wrap,mh4g-dex-build7+mh4edit-mit-save-id,7,0
-298,丰玉【具足】,Cham Trousers,mh4g-dex-build7+mh4edit-mit-save-id,7,0
-299,盾蟹重靴,Hermitaur Greaves,mh4g-dex-build7+mh4edit-mit-save-id,4,0
-300,盾蟹轻靴,Hermitaur Leggings,mh4g-dex-build7+mh4edit-mit-save-id,4,0
-301,盾蟹重靴,Hermitaur Greaves,mh4g-dex-build7+mh4edit-mit-save-id,4,0
-302,盾蟹轻靴,Hermitaur Leggings,mh4g-dex-build7+mh4edit-mit-save-id,4,0
-303,飞虫重靴,Vespoid Greaves,mh4g-dex-build7+mh4edit-mit-save-id,4,0
-304,飞虫轻靴,Vespoid Leggings,mh4g-dex-build7+mh4edit-mit-save-id,4,0
-305,彩鸟重靴,Qurupeco Greaves,mh4g-dex-build7+mh4edit-mit-save-id,4,0
-306,彩鸟轻靴,Qurupeco Leggings,mh4g-dex-build7+mh4edit-mit-save-id,4,0
-307,炎戈龙重靴,Agnaktor Greaves,mh4g-dex-build7+mh4edit-mit-save-id,6,0
-308,炎戈龙轻靴,Agnaktor Leggings,mh4g-dex-build7+mh4edit-mit-save-id,6,0
-309,冰牙龙重靴,Barioth Greaves,mh4g-dex-build7+mh4edit-mit-save-id,5,0
-310,冰牙龙轻靴,Barioth Leggings,mh4g-dex-build7+mh4edit-mit-save-id,5,0
-311,赤甲兽重靴,Volvidon Greaves,mh4g-dex-build7+mh4edit-mit-save-id,4,0
-312,赤甲兽轻靴,Volvidon Leggings,mh4g-dex-build7+mh4edit-mit-save-id,4,0
-313,海龙重靴,Lagiacrus Greaves,mh4g-dex-build7+mh4edit-mit-save-id,6,0
-314,海龙轻靴,Lagiacrus Leggings,mh4g-dex-build7+mh4edit-mit-save-id,6,0
-315,海龙重靴,Lagiacrus Greaves,mh4g-dex-build7+mh4edit-mit-save-id,6,0
-316,海龙轻靴,Lagiacrus Leggings,mh4g-dex-build7+mh4edit-mit-save-id,6,0
-317,太阳神重靴,Helios Greaves,mh4g-dex-build7+mh4edit-mit-save-id,7,0
-318,太阳神轻靴,Helios Leggings,mh4g-dex-build7+mh4edit-mit-save-id,7,0
-319,月神重靴,Selene Greaves,mh4g-dex-build7+mh4edit-mit-save-id,7,0
-320,月神轻靴,Selene Leggings,mh4g-dex-build7+mh4edit-mit-save-id,7,0
-321,灯鱼龙重靴,Gobul Greaves,mh4g-dex-build7+mh4edit-mit-save-id,5,0
-322,灯鱼龙轻靴,Gobul Leggings,mh4g-dex-build7+mh4edit-mit-save-id,5,0
-323,大和【具足】,Yamato Gusoku,mh4g-dex-build7+mh4edit-mit-save-id,7,0
-324,日向【足袴】,Hyuga Hakama,mh4g-dex-build7+mh4edit-mit-save-id,7,0
-325,陆奥【具足】,Mutsu Gusoku,mh4g-dex-build7+mh4edit-mit-save-id,7,0
-326,天成【足袴】,Amagi Hakama,mh4g-dex-build7+mh4edit-mit-save-id,7,0
-327,煌黑龙之鳞,Escadora Sheath,mh4g-dex-build7+mh4edit-mit-save-id,7,0
-328,煌黑龙甜腻,Escadora Scala,mh4g-dex-build7+mh4edit-mit-save-id,7,0
-329,煌黑龙之鳞,Escadora Sheath,mh4g-dex-build7+mh4edit-mit-save-id,7,0
-330,煌黑龙甜腻,Escadora Scala,mh4g-dex-build7+mh4edit-mit-save-id,7,0
-331,雪狮子重靴,Blango Greaves,mh4g-dex-build7+mh4edit-mit-save-id,5,0
-332,雪狮子轻靴,Blango Leggings,mh4g-dex-build7+mh4edit-mit-save-id,5,0
-333,龙虾王重靴,Lobster Greaves,mh4g-dex-build7+mh4edit-mit-save-id,4,0
-334,龙虾王轻靴,Lobster Leggings,mh4g-dex-build7+mh4edit-mit-save-id,4,0
-335,崩龙护胫,Ukanlos Hessian,mh4g-dex-build7+mh4edit-mit-save-id,7,0
-336,崩龙护膝,Ukanlos Boots,mh4g-dex-build7+mh4edit-mit-save-id,7,0
-337,金刚【具足】,Indra Leggings,mh4g-dex-build7+mh4edit-mit-save-id,7,0
-338,不动【具足】,Steadfast Boots,mh4g-dex-build7+mh4edit-mit-save-id,7,0
-339,夜叉【御足】,Yaksha Boots,mh4g-dex-build7+mh4edit-mit-save-id,7,0
-340,修罗【御足】,Carnage Boots,mh4g-dex-build7+mh4edit-mit-save-id,7,0
-341,铬合金皮靴,Chrome Metal Boots,mh4g-dex-build7+mh4edit-mit-save-id,4,0
-342,铬合金具足,Chrome Metal Feet,mh4g-dex-build7+mh4edit-mit-save-id,4,0
-343,神秘重靴,Artian Greaves,mh4g-dex-build7+mh4edit-mit-save-id,3,0
-344,神秘轻靴,Artian Leggings,mh4g-dex-build7+mh4edit-mit-save-id,3,0
-345,神秘重靴Ｓ,Artian Greaves S,mh4g-dex-build7+mh4edit-mit-save-id,5,0
-346,神秘轻靴Ｓ,Artian Leggings S,mh4g-dex-build7+mh4edit-mit-save-id,5,0
-347,神秘重靴Ｓ,Artian Greaves S,mh4g-dex-build7+mh4edit-mit-save-id,5,0
-348,神秘轻靴Ｓ,Artian Leggings S,mh4g-dex-build7+mh4edit-mit-save-id,5,0
-349,远古龙重靴,Dober Greaves,mh4g-dex-build7+mh4edit-mit-save-id,6,0
-350,远古龙轻靴,Dober Leggings,mh4g-dex-build7+mh4edit-mit-save-id,6,0
-351,铸锭重靴,Ingot Greaves,mh4g-dex-build7+mh4edit-mit-save-id,3,0
-352,铸锭轻靴,Ingot Leggings,mh4g-dex-build7+mh4edit-mit-save-id,3,0
-353,铸锭重靴,Ingot Greaves,mh4g-dex-build7+mh4edit-mit-save-id,3,0
-354,铸锭轻靴,Ingot Leggings,mh4g-dex-build7+mh4edit-mit-save-id,3,0
-355,锹虫重靴,Aelucanth Crura,mh4g-dex-build7+mh4edit-mit-save-id,4,0
-356,蝴蝶重靴,Rhopessa Crura,mh4g-dex-build7+mh4edit-mit-save-id,4,0
-357,锹虫轻靴,Aelucanth Tarsi,mh4g-dex-build7+mh4edit-mit-save-id,4,0
-358,蝴蝶轻靴,Rhopessa Tarsi,mh4g-dex-build7+mh4edit-mit-save-id,4,0
-359,独角仙重靴,Obituary Crura,mh4g-dex-build7+mh4edit-mit-save-id,5,0
-360,彩蝶重靴,Butterfly Crura,mh4g-dex-build7+mh4edit-mit-save-id,5,0
-361,独角仙轻靴,Obituary Tarsi,mh4g-dex-build7+mh4edit-mit-save-id,5,0
-362,彩蝶轻靴,Butterfly Tarsi,mh4g-dex-build7+mh4edit-mit-save-id,5,0
-363,南瓜重足,Mosgharl Roots,mh4g-dex-build7+mh4edit-mit-save-id,4,0
-364,南瓜轻足,Mosgharl Radicles,mh4g-dex-build7+mh4edit-mit-save-id,4,0
-365,工会精英皮靴,Guild Bard Boots,mh4g-dex-build7+mh4edit-mit-save-id,4,0
-366,店员短袜,Scholar's Socks,mh4g-dex-build7+mh4edit-mit-save-id,4,0
-367,工会精英具足,Guild Bard Gaiters,mh4g-dex-build7+mh4edit-mit-save-id,4,0
-368,店员草履,Scholar's Sandals,mh4g-dex-build7+mh4edit-mit-save-id,4,0
-369,教官重靴,Black Belt Greaves,mh4g-dex-build7+mh4edit-mit-save-id,6,0
-370,教官轻靴,Black Belt Leggings,mh4g-dex-build7+mh4edit-mit-save-id,6,0
-371,守护者皮靴,Guardian Boots,mh4g-dex-build7+mh4edit-mit-save-id,4,0
-372,女佣短袜,Helper Socks,mh4g-dex-build7+mh4edit-mit-save-id,4,0
-373,守护者具足,Guardian Pants,mh4g-dex-build7+mh4edit-mit-save-id,4,0
-374,女佣丝袜,Helper Tights,mh4g-dex-build7+mh4edit-mit-save-id,4,0
-375,忍之足袋・天,Shinobi Sky Boots,mh4g-dex-build7+mh4edit-mit-save-id,7,0
-376,忍之足袋・地,Shinobi Land Boots,mh4g-dex-build7+mh4edit-mit-save-id,7,0
-377,工会骑士皮靴,Guild Knight Boots,mh4g-dex-build7+mh4edit-mit-save-id,6,0
-378,女仆装短袜,Maiden's Socks,mh4g-dex-build7+mh4edit-mit-save-id,6,0
-379,工会骑士丝袜,Guild Knight Tights,mh4g-dex-build7+mh4edit-mit-save-id,6,0
-380,女仆装丝袜,Maiden's Tights,mh4g-dex-build7+mh4edit-mit-save-id,6,0
-381,结云袴・天,Yukumo Sky Hakama,mh4g-dex-build7+mh4edit-mit-save-id,6,0
-382,结云袴・地,Yukumo Land Hakama,mh4g-dex-build7+mh4edit-mit-save-id,6,0
-383,矿石重靴,High Metal Greaves,mh4g-dex-build7+mh4edit-mit-save-id,2,0
-384,矿石轻靴,High Metal Leggings,mh4g-dex-build7+mh4edit-mit-save-id,2,0
-385,城塞游击队【足袋】,Ranger's Espadrilles,mh4g-dex-build7+mh4edit-mit-save-id,6,0
-386,城塞弓击队【足袋】,Archer's Espadrilles,mh4g-dex-build7+mh4edit-mit-save-id,6,0
-387,漆黑轻皮足甲,Black Leather Chaps,mh4g-dex-build7+mh4edit-mit-save-id,7,0
-388,漆黑轻皮具足,Black Leather Pants,mh4g-dex-build7+mh4edit-mit-save-id,7,0
-389,三孔足轮,Chakra Anklet,mh4g-dex-build7+mh4edit-mit-save-id,5,0
-390,水手服短袜,Sailor Socks,mh4g-dex-build7+mh4edit-mit-save-id,6,0
-391,水手服草履,Sailor Sandals,mh4g-dex-build7+mh4edit-mit-save-id,6,0
-392,团长皮靴,Hawkboots,mh4g-dex-build7+mh4edit-mit-save-id,6,0
-393,看板娘皮靴,Lecturer's Boots,mh4g-dex-build7+mh4edit-mit-save-id,6,0
-394,团长具足,Hawkfeet,mh4g-dex-build7+mh4edit-mit-save-id,6,0
-395,看板娘具足,Lecturer's Footwear,mh4g-dex-build7+mh4edit-mit-save-id,6,0
-396,蓝星花皮靴,Blue Star Boots,mh4g-dex-build7+mh4edit-mit-save-id,7,0
-397,蓝星花具足,Blue Star Footwear,mh4g-dex-build7+mh4edit-mit-save-id,7,0
-398,【美】阿纳特重靴,Greaves of Anat,mh4g-dex-build7+mh4edit-mit-save-id,10,0
-399,【美】阿纳特轻靴,Leggings of Anat,mh4g-dex-build7+mh4edit-mit-save-id,10,0
-400,优衣库具足,Uniqlo Slacks,mh4g-dex-build7+mh4edit-mit-save-id,7,0
-401,优衣库丝袜,Uniqlo Tights,mh4g-dex-build7+mh4edit-mit-save-id,7,0
-402,路克星重靴,Star Rook Greaves,mh4g-dex-build7+mh4edit-mit-save-id,7,0
-403,路克星轻靴,Star Rook Leggings,mh4g-dex-build7+mh4edit-mit-save-id,7,0
-404,dummy706,dummy706,mh4edit-mit-save-id-en-fallback,0,0
-405,dummy718,dummy718,mh4edit-mit-save-id-en-fallback,0,0
-406,dummy707,dummy707,mh4edit-mit-save-id-en-fallback,0,0
-407,dummy719,dummy719,mh4edit-mit-save-id-en-fallback,0,0
-408,dummy709,dummy709,mh4edit-mit-save-id-en-fallback,0,0
-409,dummy721,dummy721,mh4edit-mit-save-id-en-fallback,0,0
-410,DUMMY,DUMMY,mh4edit-mit-save-id-en-fallback,0,0
-411,DUMMY,DUMMY,mh4edit-mit-save-id-en-fallback,0,0
-412,DUMMY,DUMMY,mh4edit-mit-save-id-en-fallback,0,0
-413,DUMMY,DUMMY,mh4edit-mit-save-id-en-fallback,0,0
-414,勇者的靴子,Hero's Boots,mh4g-dex-build7+mh4edit-mit-save-id,7,0
-415,勇者的具足,Hero's Leggings,mh4g-dex-build7+mh4edit-mit-save-id,7,0
-416,dummy729,dummy729,mh4edit-mit-save-id-en-fallback,0,0
-417,dummy730,dummy730,mh4edit-mit-save-id-en-fallback,0,0
-418,dummy731,dummy731,mh4edit-mit-save-id-en-fallback,0,0
-419,dummy732,dummy732,mh4edit-mit-save-id-en-fallback,0,0
-420,EX逆乱重靴,EX Rebellion Greaves,mh4g-dex-build7+mh4edit-mit-save-id,7,0
-421,EX暴乱轻靴,EX Riot Leggings,mh4g-dex-build7+mh4edit-mit-save-id,7,0
-422,EX神秘重靴,EX Artian Greaves,mh4g-dex-build7+mh4edit-mit-save-id,7,0
-423,EX神秘轻靴,EX Artian Leggings,mh4g-dex-build7+mh4edit-mit-save-id,7,0
-424,EX黑蚀龙重靴,EX Gore Greaves,mh4g-dex-build7+mh4edit-mit-save-id,7,0
-425,EX黑蚀龙轻靴,EX Gore Leggings,mh4g-dex-build7+mh4edit-mit-save-id,7,0
-426,EX高合金重靴,EX Ingot Greaves,mh4g-dex-build7+mh4edit-mit-save-id,7,0
-427,EX高合金轻靴,EX Ingot Leggings,mh4g-dex-build7+mh4edit-mit-save-id,7,0
-428,EX冰麒麟绑腿Ｕ,EX Kirin Leg Guards U,mh4g-dex-build7+mh4edit-mit-save-id,7,0
-429,EX冰麒麟皮靴Ｕ,EX Kirin Boots U,mh4g-dex-build7+mh4edit-mit-save-id,7,0
-430,友爱重靴,Storge Greaves,mh4g-dex-build7+mh4edit-mit-save-id,3,0
-431,友爱轻靴,Storge Leggings,mh4g-dex-build7+mh4edit-mit-save-id,3,0
-432,友爱重靴Ｓ,Storge Greaves S,mh4g-dex-build7+mh4edit-mit-save-id,7,0
-433,友爱轻靴Ｓ,Storge Leggings S,mh4g-dex-build7+mh4edit-mit-save-id,7,0
-434,友爱重靴,Storge Greaves,mh4g-dex-build7+mh4edit-mit-save-id,3,0
-435,友爱轻靴,Storge Leggings,mh4g-dex-build7+mh4edit-mit-save-id,3,0
-436,猎人重靴,Hunter's Greaves,mh4g-dex-build7+mh4edit-mit-save-id,1,0
-437,猎人轻靴,Hunter's Leggings,mh4g-dex-build7+mh4edit-mit-save-id,1,0
-438,合金重靴,Alloy Greaves,mh4g-dex-build7+mh4edit-mit-save-id,1,0
-439,合金轻靴,Alloy Leggings,mh4g-dex-build7+mh4edit-mit-save-id,1,0
-440,水兽重靴,Ludroth Greaves,mh4g-dex-build7+mh4edit-mit-save-id,2,0
-441,水兽轻靴,Ludroth Leggings,mh4g-dex-build7+mh4edit-mit-save-id,2,0
-442,雌火龙重靴,Rathian Greaves,mh4g-dex-build7+mh4edit-mit-save-id,2,0
-443,雌火龙轻靴,Rathian Leggings,mh4g-dex-build7+mh4edit-mit-save-id,2,0
-444,樱火龙重靴,Rath Heart Greaves,mh4g-dex-build7+mh4edit-mit-save-id,6,0
-445,樱火龙轻靴,Rath Heart Leggings,mh4g-dex-build7+mh4edit-mit-save-id,6,0
-446,雄火龙重靴,Rathalos Greaves,mh4g-dex-build7+mh4edit-mit-save-id,3,0
-447,雄火龙轻靴,Rathalos Leggings,mh4g-dex-build7+mh4edit-mit-save-id,3,0
-448,苍火龙重靴,Rath Soul Greaves,mh4g-dex-build7+mh4edit-mit-save-id,6,0
-449,苍火龙轻靴,Rath Soul Leggings,mh4g-dex-build7+mh4edit-mit-save-id,6,0
-450,银火龙重靴,Silver Solgreaves,mh4g-dex-build7+mh4edit-mit-save-id,7,0
-451,银火龙轻靴,Silver Solleggings,mh4g-dex-build7+mh4edit-mit-save-id,7,0
-452,贪婪重靴,Esurient Greaves,mh4g-dex-build7+mh4edit-mit-save-id,7,0
-453,贪婪轻靴,Esurient Leggings,mh4g-dex-build7+mh4edit-mit-save-id,7,0
-454,残阳【具足】,Gloaming Greaves,mh4g-dex-build7+mh4edit-mit-save-id,3,0
-455,常磐【具足】,Adamance Pleats,mh4g-dex-build7+mh4edit-mit-save-id,3,0
-456,东云【足袴】,Dayspring Pleats,mh4g-dex-build7+mh4edit-mit-save-id,3,0
-457,八千代【足袴】,Epoch Pleats,mh4g-dex-build7+mh4edit-mit-save-id,3,0
-458,轰龙重靴,Tigrex Greaves,mh4g-dex-build7+mh4edit-mit-save-id,3,0
-459,轰龙轻靴,Tigrex Leggings,mh4g-dex-build7+mh4edit-mit-save-id,3,0
-460,黑轰龙重靴Ｕ,Tigrex Greaves U,mh4g-dex-build7+mh4edit-mit-save-id,6,0
-461,黑轰龙轻靴Ｕ,Tigrex Leggings U,mh4g-dex-build7+mh4edit-mit-save-id,6,0
-462,霸龙护胫,Akantor Hessian,mh4g-dex-build7+mh4edit-mit-save-id,7,0
-463,霸龙护膝,Akantor Boots,mh4g-dex-build7+mh4edit-mit-save-id,7,0
-464,狱狼龙重靴Ｕ,Zinogre Greaves U,mh4g-dex-build7+mh4edit-mit-save-id,6,0
-465,狱狼龙轻靴Ｕ,Zinogre Leggings U,mh4g-dex-build7+mh4edit-mit-save-id,6,0
-466,黑蚀龙重靴,Gore Greaves,mh4g-dex-build7+mh4edit-mit-save-id,3,0
-467,黑蚀龙轻靴,Gore Leggings,mh4g-dex-build7+mh4edit-mit-save-id,3,0
-468,毒怪鸟重靴,Gypceros Greaves,mh4g-dex-build7+mh4edit-mit-save-id,2,0
-469,毒怪鸟轻靴,Gypceros Leggings,mh4g-dex-build7+mh4edit-mit-save-id,2,0
-470,紫毒怪鸟重靴Ｕ,Gypceros Greaves U,mh4g-dex-build7+mh4edit-mit-save-id,6,0
-471,紫毒怪鸟轻靴Ｕ,Gypceros Leggings U,mh4g-dex-build7+mh4edit-mit-save-id,6,0
-472,电龙重靴,Khezu Greaves,mh4g-dex-build7+mh4edit-mit-save-id,2,0
-473,电龙轻靴,Khezu Leggings,mh4g-dex-build7+mh4edit-mit-save-id,2,0
-474,赤电龙重靴Ｕ,Khezu Greaves U,mh4g-dex-build7+mh4edit-mit-save-id,6,0
-475,赤电龙轻靴Ｕ,Khezu Leggings U,mh4g-dex-build7+mh4edit-mit-save-id,6,0
-476,麒麟绑腿,Kirin Leg Guards,mh4g-dex-build7+mh4edit-mit-save-id,3,0
-477,麒麟皮靴,Kirin Boots,mh4g-dex-build7+mh4edit-mit-save-id,3,0
-478,冰麒麟绑腿Ｕ,Kirin Leg Guards U,mh4g-dex-build7+mh4edit-mit-save-id,7,0
-479,冰麒麟皮靴Ｕ,Kirin Boots U,mh4g-dex-build7+mh4edit-mit-save-id,7,0
-480,钢龙护胫,Kushala Crus,mh4g-dex-build7+mh4edit-mit-save-id,7,0
-481,钢龙护膝,Kushala Shank,mh4g-dex-build7+mh4edit-mit-save-id,7,0
-482,镰蟹重靴,Ceanataur Greaves,mh4g-dex-build7+mh4edit-mit-save-id,2,0
-483,镰蟹轻靴,Ceanataur Leggings,mh4g-dex-build7+mh4edit-mit-save-id,2,0
-484,晓丸【具足】,Auroros Pants,mh4g-dex-build7+mh4edit-mit-save-id,3,0
-485,凛【足袴】,Borealis Hakama,mh4g-dex-build7+mh4edit-mit-save-id,3,0
-486,曙丸【具足】,Genesis Pants,mh4g-dex-build7+mh4edit-mit-save-id,3,0
-487,妖艳【足袴】,Glyph Hakama,mh4g-dex-build7+mh4edit-mit-save-id,3,0
-488,弧光重靴,Arc Greaves,mh4g-dex-build7+mh4edit-mit-save-id,3,0
-489,弧光轻靴,Arc Leggings,mh4g-dex-build7+mh4edit-mit-save-id,3,0
-490,逆乱重靴,Rebellion Greaves,mh4g-dex-build7+mh4edit-mit-save-id,7,0
-491,暴乱轻靴,Riot Leggings,mh4g-dex-build7+mh4edit-mit-save-id,7,0
-492,恶龙具足Ｘ,Dragonfeet X,mh4g-dex-build7+mh4edit-mit-save-id,10,0
-493,恶龙足甲Ｘ,Dragonlegs X,mh4g-dex-build7+mh4edit-mit-save-id,10,0
-494,盾蟹重靴,Hermitaur Greaves,mh4g-dex-build7+mh4edit-mit-save-id,4,0
-495,盾蟹轻靴,Hermitaur Leggings,mh4g-dex-build7+mh4edit-mit-save-id,4,0
-496,海龙重靴,Lagiacrus Greaves,mh4g-dex-build7+mh4edit-mit-save-id,6,0
-497,海龙轻靴,Lagiacrus Leggings,mh4g-dex-build7+mh4edit-mit-save-id,6,0
-498,煌黑龙之鳞,Escadora Sheath,mh4g-dex-build7+mh4edit-mit-save-id,7,0
-499,煌黑龙甜腻,Escadora Scala,mh4g-dex-build7+mh4edit-mit-save-id,7,0
-500,神秘重靴Ｓ,Artian Greaves S,mh4g-dex-build7+mh4edit-mit-save-id,5,0
-501,神秘轻靴Ｓ,Artian Leggings S,mh4g-dex-build7+mh4edit-mit-save-id,5,0
-502,铸锭重靴,Ingot Greaves,mh4g-dex-build7+mh4edit-mit-save-id,3,0
-503,铸锭轻靴,Ingot Leggings,mh4g-dex-build7+mh4edit-mit-save-id,3,0
-504,友爱重靴,Storge Greaves,mh4g-dex-build7+mh4edit-mit-save-id,3,0
-505,友爱轻靴,Storge Leggings,mh4g-dex-build7+mh4edit-mit-save-id,3,0
-506,蓝速龙重靴Ｘ,Velociprey Greaves X,mh4g-dex-build7+mh4edit-mit-save-id,8,0
-507,蓝速龙轻靴Ｘ,Velociprey Leggings X,mh4g-dex-build7+mh4edit-mit-save-id,8,0
-508,红速龙重靴Ｘ,Ioprey Greaves X,mh4g-dex-build7+mh4edit-mit-save-id,8,0
-509,红速龙轻靴Ｘ,Ioprey Leggings X,mh4g-dex-build7+mh4edit-mit-save-id,8,0
-510,奇猿狐重靴Ｘ,Kecha Greaves X,mh4g-dex-build7+mh4edit-mit-save-id,8,0
-511,奇猿狐轻靴Ｘ,Kecha Leggings X,mh4g-dex-build7+mh4edit-mit-save-id,8,0
-512,白猿狐重靴Ｚ,Kecha Greaves Z,mh4g-dex-build7+mh4edit-mit-save-id,8,0
-513,白猿狐轻靴Ｚ,Kecha Leggings Z,mh4g-dex-build7+mh4edit-mit-save-id,8,0
-514,鬼蛙重靴Ｘ,Tetsucabra Greaves X,mh4g-dex-build7+mh4edit-mit-save-id,8,0
-515,鬼蛙轻靴Ｘ,Tetsucabra Leggings X,mh4g-dex-build7+mh4edit-mit-save-id,8,0
-516,荒鬼蛙重靴Ｚ,Tetsucabra Greaves Z,mh4g-dex-build7+mh4edit-mit-save-id,8,0
-517,荒鬼蛙轻靴Ｚ,Tetsucabra Leggings Z,mh4g-dex-build7+mh4edit-mit-save-id,8,0
-518,影蜘蛛重靴Ｘ,Nerscylla Greaves X,mh4g-dex-build7+mh4edit-mit-save-id,8,0
-519,影蜘蛛轻靴Ｘ,Nerscylla Leggings X,mh4g-dex-build7+mh4edit-mit-save-id,8,0
-520,骸蜘蛛重靴Ｚ,Nerscylla Greaves Z,mh4g-dex-build7+mh4edit-mit-save-id,9,0
-521,骸蜘蛛轻靴Ｚ,Nerscylla Leggings Z,mh4g-dex-build7+mh4edit-mit-save-id,9,0
-522,鬼鲛重靴Ｘ,Zamtrios Greaves X,mh4g-dex-build7+mh4edit-mit-save-id,8,0
-523,鬼鲛轻靴Ｘ,Zamtrios Leggings X,mh4g-dex-build7+mh4edit-mit-save-id,8,0
-524,虎鲛重靴Ｚ,Zamtrios Greaves Z,mh4g-dex-build7+mh4edit-mit-save-id,8,0
-525,虎鲛轻靴Ｚ,Zamtrios Leggings Z,mh4g-dex-build7+mh4edit-mit-save-id,8,0
-526,绞蛇龙重靴Ｘ,Najarala Greaves X,mh4g-dex-build7+mh4edit-mit-save-id,8,0
-527,绞蛇龙轻靴Ｘ,Najarala Leggings X,mh4g-dex-build7+mh4edit-mit-save-id,8,0
-528,水蛇龙重靴Ｚ,Najarala Greaves Z,mh4g-dex-build7+mh4edit-mit-save-id,8,0
-529,水蛇龙轻靴Ｚ,Najarala Leggings Z,mh4g-dex-build7+mh4edit-mit-save-id,8,0
-530,重甲虫重靴Ｘ,Seltas Greaves X,mh4g-dex-build7+mh4edit-mit-save-id,9,0
-531,重甲虫轻靴Ｘ,Seltas Leggings X,mh4g-dex-build7+mh4edit-mit-save-id,9,0
-532,炮甲虫重靴Ｚ,Seltas Greaves Z,mh4g-dex-build7+mh4edit-mit-save-id,9,0
-533,炮甲虫轻靴Ｚ,Seltas Leggings Z,mh4g-dex-build7+mh4edit-mit-save-id,9,0
-534,黑蚀龙重靴Ｘ,Gore Greaves X,mh4g-dex-build7+mh4edit-mit-save-id,9,0
-535,黑蚀龙轻靴Ｘ,Gore Leggings X,mh4g-dex-build7+mh4edit-mit-save-id,9,0
-536,黑蚀龙腿铠（发掘）,Gore Cuisses,mh4g-armor-name-crosswalk+mh4edit-mit-save-id,0,1
-537,黑蚀龙护腿（发掘）,Gore Jambs,mh4g-armor-name-crosswalk+mh4edit-mit-save-id,0,1
-538,弧光重靴Ｘ,Arc Greaves X,mh4g-dex-build7+mh4edit-mit-save-id,10,0
-539,友爱重靴Ｘ,Storge Greaves X,mh4g-dex-build7+mh4edit-mit-save-id,10,0
-540,弧光轻靴Ｘ,Arc Leggings X,mh4g-dex-build7+mh4edit-mit-save-id,10,0
-541,友爱轻靴Ｘ,Storge Leggings X,mh4g-dex-build7+mh4edit-mit-save-id,10,0
-542,弧光腿铠（发掘）,Arc Cuisses,mh4g-armor-name-crosswalk+mh4edit-mit-save-id,0,1
-543,友爱腿铠（发掘）,Storge Cuisses,mh4g-armor-name-crosswalk+mh4edit-mit-save-id,0,1
-544,弧光护腿（发掘）,Arc Jambs,mh4g-armor-name-crosswalk+mh4edit-mit-save-id,0,1
-545,友爱护腿（发掘）,Storge Jambs,mh4g-armor-name-crosswalk+mh4edit-mit-save-id,0,1
-546,巨戟龙重靴,Gogma Greaves,mh4g-dex-build7+mh4edit-mit-save-id,10,0
-547,巨戟龙轻靴,Gogma Leggings,mh4g-dex-build7+mh4edit-mit-save-id,10,0
-548,毒怪鸟重靴Ｘ,Gypceros Greaves X,mh4g-dex-build7+mh4edit-mit-save-id,8,0
-549,毒怪鸟轻靴Ｘ,Gypceros Leggings X,mh4g-dex-build7+mh4edit-mit-save-id,8,0
-550,毒怪鸟腿铠（发掘）,Gypceros Cuisses,mh4g-armor-name-crosswalk+mh4edit-mit-save-id,0,1
-551,毒怪鸟护腿（发掘）,Gypceros Jambs,mh4g-armor-name-crosswalk+mh4edit-mit-save-id,0,1
-552,紫毒怪鸟重靴Ｚ,Gypceros Greaves Z,mh4g-dex-build7+mh4edit-mit-save-id,8,0
-553,紫毒怪鸟轻靴Ｚ,Gypceros Leggings Z,mh4g-dex-build7+mh4edit-mit-save-id,8,0
-554,紫毒怪鸟Ｕ腿铠（发掘）,Gypceros Cuisses U,mh4g-armor-name-crosswalk+mh4edit-mit-save-id,0,1
-555,紫毒怪鸟Ｕ护腿（发掘）,Gypceros Jambs U,mh4g-armor-name-crosswalk+mh4edit-mit-save-id,0,1
-556,白兔兽重靴Ｘ,Lagombi Greaves X,mh4g-dex-build7+mh4edit-mit-save-id,8,0
-557,白兔兽轻靴Ｘ,Lagombi Leggings X,mh4g-dex-build7+mh4edit-mit-save-id,8,0
-558,桃毛兽重靴Ｘ,Conga Greaves X,mh4g-dex-build7+mh4edit-mit-save-id,8,0
-559,桃毛兽轻靴Ｘ,Conga Leggings X,mh4g-dex-build7+mh4edit-mit-save-id,8,0
-560,绿毛兽重靴Ｚ,Conga Greaves Z,mh4g-dex-build7+mh4edit-mit-save-id,8,0
-561,绿毛兽轻靴Ｚ,Conga Leggings Z,mh4g-dex-build7+mh4edit-mit-save-id,8,0
-562,电龙重靴Ｘ,Khezu Greaves X,mh4g-dex-build7+mh4edit-mit-save-id,8,0
-563,电龙轻靴Ｘ,Khezu Leggings X,mh4g-dex-build7+mh4edit-mit-save-id,8,0
-564,电龙腿铠（发掘）,Khezu Cuisses,mh4g-armor-name-crosswalk+mh4edit-mit-save-id,0,1
-565,电龙护腿（发掘）,Khezu Jambs,mh4g-armor-name-crosswalk+mh4edit-mit-save-id,0,1
-566,赤电龙重靴Ｚ,Khezu Greaves Z,mh4g-dex-build7+mh4edit-mit-save-id,8,0
-567,赤电龙轻靴Ｚ,Khezu Leggings Z,mh4g-dex-build7+mh4edit-mit-save-id,8,0
-568,赤电龙Ｕ腿铠（发掘）,Khezu Cuisses U,mh4g-armor-name-crosswalk+mh4edit-mit-save-id,0,1
-569,赤电龙Ｕ护腿（发掘）,Khezu Jambs U,mh4g-armor-name-crosswalk+mh4edit-mit-save-id,0,1
-570,雌火龙重靴Ｘ,Rathian Greaves X,mh4g-dex-build7+mh4edit-mit-save-id,8,0
-571,雌火龙轻靴Ｘ,Rathian Leggings X,mh4g-dex-build7+mh4edit-mit-save-id,8,0
-572,雌火龙腿铠（发掘）,Rathian Cuisses,mh4g-armor-name-crosswalk+mh4edit-mit-save-id,0,1
-573,雌火龙护腿（发掘）,Rathian Jambs,mh4g-armor-name-crosswalk+mh4edit-mit-save-id,0,1
-574,樱火龙重靴Ｚ,Rath Heart Greaves Z,mh4g-dex-build7+mh4edit-mit-save-id,8,0
-575,樱火龙轻靴Ｚ,Rath Heart Leggings Z,mh4g-dex-build7+mh4edit-mit-save-id,8,0
-576,樱火龙腿铠（发掘）,Rath Heart Cuisses,mh4g-armor-name-crosswalk+mh4edit-mit-save-id,0,1
-577,樱火龙护腿（发掘）,Rath Heart Jambs,mh4g-armor-name-crosswalk+mh4edit-mit-save-id,0,1
-578,Ｇ・金火龙重靴Ｚ,Golden Lunegreaves Z,mh4g-dex-build7+mh4edit-mit-save-id,10,0
-579,Ｇ・金火龙轻靴Ｚ,Golden Luneleggings Z,mh4g-dex-build7+mh4edit-mit-save-id,10,0
-580,雄火龙重靴Ｘ,Rathalos Greaves X,mh4g-dex-build7+mh4edit-mit-save-id,9,0
-581,雄火龙轻靴Ｘ,Rathalos Leggings X,mh4g-dex-build7+mh4edit-mit-save-id,9,0
-582,雄火龙腿铠（发掘）,Rathalos Cuisses,mh4g-armor-name-crosswalk+mh4edit-mit-save-id,0,1
-583,雄火龙护腿（发掘）,Rathalos Jambs,mh4g-armor-name-crosswalk+mh4edit-mit-save-id,0,1
-584,苍火龙重靴Ｚ,Rath Soul Greaves Z,mh4g-dex-build7+mh4edit-mit-save-id,9,0
-585,苍火龙轻靴Ｚ,Rath Soul Leggings Z,mh4g-dex-build7+mh4edit-mit-save-id,9,0
-586,苍火龙腿铠（发掘）,Rath Soul Cuisses,mh4g-armor-name-crosswalk+mh4edit-mit-save-id,0,1
-587,苍火龙护腿（发掘）,Rath Soul Jambs,mh4g-armor-name-crosswalk+mh4edit-mit-save-id,0,1
-588,Ｓ・银火龙重靴Ｚ,Silver Solgreaves Z,mh4g-dex-build7+mh4edit-mit-save-id,10,0
-589,Ｓ・银火龙轻靴Ｚ,Silver Solleggings Z,mh4g-dex-build7+mh4edit-mit-save-id,10,0
-590,银火龙腿铠（发掘）,Silver Solcuisses,mh4g-armor-name-crosswalk+mh4edit-mit-save-id,0,1
-591,银火龙护腿（发掘）,Silver Soljambs,mh4g-armor-name-crosswalk+mh4edit-mit-save-id,0,1
-592,雷狼龙重靴Ｘ,Zinogre Greaves X,mh4g-dex-build7+mh4edit-mit-save-id,9,0
-593,雷狼龙轻靴Ｘ,Zinogre Leggings X,mh4g-dex-build7+mh4edit-mit-save-id,9,0
-594,狱狼龙重靴Ｚ,Zinogre Greaves Z,mh4g-dex-build7+mh4edit-mit-save-id,9,0
-595,狱狼龙轻靴Ｚ,Zinogre Leggings Z,mh4g-dex-build7+mh4edit-mit-save-id,9,0
-596,狱狼龙Ｕ腿铠（发掘）,Zinogre Cuisses U,mh4g-armor-name-crosswalk+mh4edit-mit-save-id,0,1
-597,狱狼龙Ｕ护腿（发掘）,Zinogre Jambs U,mh4g-armor-name-crosswalk+mh4edit-mit-save-id,0,1
-598,轰龙重靴Ｘ,Tigrex Greaves X,mh4g-dex-build7+mh4edit-mit-save-id,9,0
-599,轰龙轻靴Ｘ,Tigrex Leggings X,mh4g-dex-build7+mh4edit-mit-save-id,9,0
-600,轰龙腿铠（发掘）,Tigrex Cuisses,mh4g-armor-name-crosswalk+mh4edit-mit-save-id,0,1
-601,轰龙护腿（发掘）,Tigrex Jambs,mh4g-armor-name-crosswalk+mh4edit-mit-save-id,0,1
-602,黑轰龙重靴Ｚ,Tigrex Greaves Z,mh4g-dex-build7+mh4edit-mit-save-id,9,0
-603,黑轰龙轻靴Ｚ,Tigrex Leggings Z,mh4g-dex-build7+mh4edit-mit-save-id,9,0
-604,黑轰龙Ｕ腿铠（发掘）,Tigrex Cuisses U,mh4g-armor-name-crosswalk+mh4edit-mit-save-id,0,1
-605,黑轰龙Ｕ护腿（发掘）,Tigrex Jambs U,mh4g-armor-name-crosswalk+mh4edit-mit-save-id,0,1
-606,大轰龙重靴Ｚ,Excello Greaves Z,mh4g-dex-build7+mh4edit-mit-save-id,10,0
-607,大轰龙轻靴Ｚ,Excello Leggings Z,mh4g-dex-build7+mh4edit-mit-save-id,10,0
-608,铠龙重靴Ｘ,Gravios Greaves X,mh4g-dex-build7+mh4edit-mit-save-id,9,0
-609,铠龙轻靴Ｘ,Gravios Leggings X,mh4g-dex-build7+mh4edit-mit-save-id,9,0
-610,黑铠龙重靴Ｚ,Gravios Greaves Z,mh4g-dex-build7+mh4edit-mit-save-id,9,0
-611,黑铠龙轻靴Ｚ,Gravios Leggings Z,mh4g-dex-build7+mh4edit-mit-save-id,9,0
-612,碎龙重靴Ｘ,Brachydios Greaves X,mh4g-dex-build7+mh4edit-mit-save-id,9,0
-613,碎龙轻靴Ｘ,Brachydios Leggings X,mh4g-dex-build7+mh4edit-mit-save-id,9,0
-614,极限碎龙重靴,Brachydium Greaves,mh4g-dex-build7+mh4edit-mit-save-id,10,0
-615,极限碎龙轻靴,Brachydium Leggings,mh4g-dex-build7+mh4edit-mit-save-id,10,0
-616,残阳・真【具足】,Grand Gloaming Greaves,mh4g-dex-build7+mh4edit-mit-save-id,10,0
-617,常磐・真【具足】,Grand Adamance Pleats,mh4g-dex-build7+mh4edit-mit-save-id,10,0
-618,东云・真【具足】,Grand Dayspring Pleats,mh4g-dex-build7+mh4edit-mit-save-id,10,0
-619,八千代・真【具足】,Grand Epoch Greaves,mh4g-dex-build7+mh4edit-mit-save-id,10,0
-620,残阳白足具（发掘）,Gloaming Whitewalkers,mh4g-armor-name-crosswalk+mh4edit-mit-save-id,0,1
-621,常磐白足具（发掘）,Adamance Whitewalkers,mh4g-armor-name-crosswalk+mh4edit-mit-save-id,0,1
-622,东云白足具（发掘）,Dayspring Whitewalkers,mh4g-armor-name-crosswalk+mh4edit-mit-save-id,0,1
-623,八千代·白裙裤（发掘）,Epoch Whitepleats,mh4g-armor-name-crosswalk+mh4edit-mit-save-id,0,1
-624,恐暴龙重靴Ｘ,Vangis Greaves X,mh4g-dex-build7+mh4edit-mit-save-id,9,0
-625,恐暴龙轻靴Ｘ,Vangis Leggings X,mh4g-dex-build7+mh4edit-mit-save-id,9,0
-626,贪婪重靴Ｚ,Esurient Greaves Z,mh4g-dex-build7+mh4edit-mit-save-id,10,0
-627,贪婪轻靴Ｚ,Esurient Leggings Z,mh4g-dex-build7+mh4edit-mit-save-id,10,0
-628,贪婪腿铠（发掘）,Esurient Cuisses,mh4g-armor-name-crosswalk+mh4edit-mit-save-id,0,1
-629,贪婪护腿（发掘）,Esurient Jambs,mh4g-armor-name-crosswalk+mh4edit-mit-save-id,0,1
-630,炎王龙重靴Ｘ,Kaiser Greaves X,mh4g-dex-build7+mh4edit-mit-save-id,10,0
-631,炎王龙轻靴Ｘ,Kaiser Leggings X,mh4g-dex-build7+mh4edit-mit-save-id,10,0
-632,霸龙护胫Ｘ,Akantor Hessian X,mh4g-dex-build7+mh4edit-mit-save-id,10,0
-633,霸龙护膝Ｘ,Akantor Boots X,mh4g-dex-build7+mh4edit-mit-save-id,10,0
-634,霸龙腿铠（发掘）,Akantor Cuisses,mh4g-armor-name-crosswalk+mh4edit-mit-save-id,0,1
-635,霸龙护腿（发掘）,Akantor Jambs,mh4g-armor-name-crosswalk+mh4edit-mit-save-id,0,1
-636,EX煌黑龙之鳞,EX Escadora Sheath,mh4g-dex-build7+mh4edit-mit-save-id,10,0
-637,EX煌黑龙甜腻,EX Escadora Scala,mh4g-dex-build7+mh4edit-mit-save-id,10,0
-638,崩龙护胫Ｘ,Ukanlos Hessian X,mh4g-dex-build7+mh4edit-mit-save-id,10,0
-639,崩龙护膝Ｘ,Ukanlos Boots X,mh4g-dex-build7+mh4edit-mit-save-id,10,0
-640,钢龙护胫Ｘ,Kushala Crus X,mh4g-dex-build7+mh4edit-mit-save-id,10,0
-641,钢龙护膝Ｘ,Kushala Shank X,mh4g-dex-build7+mh4edit-mit-save-id,10,0
-642,钢龙腿铠（发掘）,Kushala Cuisses,mh4g-armor-name-crosswalk+mh4edit-mit-save-id,0,1
-643,钢龙护腿（发掘）,Kushala Jambs,mh4g-armor-name-crosswalk+mh4edit-mit-save-id,0,1
-644,锈钢龙护胫,Kujula Crus,mh4g-dex-build7+mh4edit-mit-save-id,10,0
-645,锈钢龙护膝,Kujula Shank,mh4g-dex-build7+mh4edit-mit-save-id,10,0
-646,齐天的具足・真,Grand God's Peer Feet,mh4g-dex-build7+mh4edit-mit-save-id,10,0
-647,仙师的具足・真,Grand Hermit Feet,mh4g-dex-build7+mh4edit-mit-save-id,10,0
-648,怒天的具足・真,Grand Divine Ire Feet,mh4g-dex-build7+mh4edit-mit-save-id,10,0
-649,心灭的具足・真,Grand Crusher Feet,mh4g-dex-build7+mh4edit-mit-save-id,10,0
-650,逆乱重靴Ｘ,Rebellion Greaves X,mh4g-dex-build7+mh4edit-mit-save-id,10,0
-651,暴乱轻靴Ｘ,Riot Leggings X,mh4g-dex-build7+mh4edit-mit-save-id,10,0
-652,逆乱腿铠（发掘）,Rebellion Cuisses,mh4g-armor-name-crosswalk+mh4edit-mit-save-id,0,1
-653,暴乱护腿（发掘）,Riot Jambs,mh4g-armor-name-crosswalk+mh4edit-mit-save-id,0,1
-654,逆乱重靴Ｚ,Rebellion Greaves Z,mh4g-dex-build7+mh4edit-mit-save-id,10,0
-655,暴乱轻靴Ｚ,Riot Leggings Z,mh4g-dex-build7+mh4edit-mit-save-id,10,0
-656,砂龙重靴Ｘ,Cephalos Greaves X,mh4g-dex-build7+mh4edit-mit-save-id,8,0
-657,砂龙轻靴Ｘ,Cephalos Leggings X,mh4g-dex-build7+mh4edit-mit-save-id,8,0
-658,盾蟹重靴Ｘ,Hermitaur Greaves X,mh4g-dex-build7+mh4edit-mit-save-id,8,0
-659,盾蟹轻靴Ｘ,Hermitaur Leggings X,mh4g-dex-build7+mh4edit-mit-save-id,8,0
-660,盾蟹腿铠（发掘）,Hermitaur Cuisses,mh4g-armor-name-crosswalk+mh4edit-mit-save-id,0,1
-661,盾蟹护腿（发掘）,Hermitaur Jambs,mh4g-armor-name-crosswalk+mh4edit-mit-save-id,0,1
-662,紫盾蟹重靴Ｚ,Hermitaur Greaves Z,mh4g-dex-build7+mh4edit-mit-save-id,8,0
-663,紫盾蟹轻靴Ｚ,Hermitaur Leggings Z,mh4g-dex-build7+mh4edit-mit-save-id,8,0
-664,一角龙重靴Ｓ,Mono Greaves S,mh4g-dex-build7+mh4edit-mit-save-id,5,0
-665,一角龙轻靴Ｓ,Mono Leggings S,mh4g-dex-build7+mh4edit-mit-save-id,5,0
-666,一角龙重靴Ｘ,Mono Greaves X,mh4g-dex-build7+mh4edit-mit-save-id,9,0
-667,一角龙轻靴Ｘ,Mono Leggings X,mh4g-dex-build7+mh4edit-mit-save-id,9,0
-668,一角龙重靴（发掘）,Mono Greaves,mh4g-armor-name-crosswalk+mh4edit-mit-save-id,0,1
-669,一角龙轻靴（发掘）,Mono Leggings,mh4g-armor-name-crosswalk+mh4edit-mit-save-id,0,1
-670,一角龙腿铠（发掘）,Mono Cuisses,mh4g-armor-name-crosswalk+mh4edit-mit-save-id,0,1
-671,一角龙护腿（发掘）,Mono Jambs,mh4g-armor-name-crosswalk+mh4edit-mit-save-id,0,1
-672,白一角龙重靴,Monodevil Greaves,mh4g-dex-build7+mh4edit-mit-save-id,9,0
-673,白一角龙轻靴,Monodevil Leggings,mh4g-dex-build7+mh4edit-mit-save-id,9,0
-674,白一角龙重靴,Monodevil Greaves,mh4g-dex-build7+mh4edit-mit-save-id,9,0
-675,白一角龙轻靴,Monodevil Leggings,mh4g-dex-build7+mh4edit-mit-save-id,9,0
-676,白一角龙腿铠（发掘）,Monodevil Cuisses,mh4g-armor-name-crosswalk+mh4edit-mit-save-id,0,1
-677,白一角龙护腿（发掘）,Monodevil Jambs,mh4g-armor-name-crosswalk+mh4edit-mit-save-id,0,1
-678,角龙重靴Ｘ,Diablos Greaves X,mh4g-dex-build7+mh4edit-mit-save-id,9,0
-679,角龙轻靴Ｘ,Diablos Leggings X,mh4g-dex-build7+mh4edit-mit-save-id,9,0
-680,角龙重靴,Diablos Greaves,mh4g-dex-build7+mh4edit-mit-save-id,3,0
-681,角龙轻靴,Diablos Leggings,mh4g-dex-build7+mh4edit-mit-save-id,3,0
-682,角龙腿铠（发掘）,Diablos Cuisses,mh4g-armor-name-crosswalk+mh4edit-mit-save-id,0,1
-683,角龙护腿（发掘）,Diablos Jambs,mh4g-armor-name-crosswalk+mh4edit-mit-save-id,0,1
-684,黑角龙重靴Ｚ,Diablos Greaves Z,mh4g-dex-build7+mh4edit-mit-save-id,9,0
-685,黑角龙轻靴Ｚ,Diablos Leggings Z,mh4g-dex-build7+mh4edit-mit-save-id,9,0
-686,恶龙具足Ｘ,Dragonfeet X,mh4g-dex-build7+mh4edit-mit-save-id,10,0
-687,恶龙足甲Ｘ,Dragonlegs X,mh4g-dex-build7+mh4edit-mit-save-id,10,0
-688,恶龙Ｘ腿铠（发掘）,Dragoncuisses X,mh4g-armor-name-crosswalk+mh4edit-mit-save-id,0,1
-689,恶龙Ｘ护腿（发掘）,Dragonjambs X,mh4g-armor-name-crosswalk+mh4edit-mit-save-id,0,1
-690,红黑龙Ｚ具足（发掘）,Fatalis Crimsonfeet Z,mh4g-armor-name-crosswalk+mh4edit-mit-save-id,0,1
-691,红黑龙Ｚ足甲（发掘）,Fatalis Crimsonlegs Z,mh4g-armor-name-crosswalk+mh4edit-mit-save-id,0,1
-692,红黑龙Ｚ腿铠（发掘）,Fatalis Crimsonboots Z,mh4g-armor-name-crosswalk+mh4edit-mit-save-id,0,1
-693,红黑龙Ｚ护腿（发掘）,Fatalis Crimsonjambs Z,mh4g-armor-name-crosswalk+mh4edit-mit-save-id,0,1
-694,黑龙具足,Wrothfeet,mh4g-dex-build7+mh4edit-mit-save-id,10,0
-695,黑龙足甲,Wrothlegs,mh4g-dex-build7+mh4edit-mit-save-id,10,0
-696,祖龙具足,White Fatalis Feet,mh4g-dex-build7+mh4edit-mit-save-id,10,0
-697,祖龙足甲,White Fatalis Legs,mh4g-dex-build7+mh4edit-mit-save-id,10,0
-698,罔象真【具足】,Grand Mizuha Leg Wrap,mh4g-dex-build7+mh4edit-mit-save-id,10,0
-699,丰玉真【具足】,Grand Cham Trousers,mh4g-dex-build7+mh4edit-mit-save-id,10,0
-700,千刃龙重靴Ｓ,Regios Greaves S,mh4g-dex-build7+mh4edit-mit-save-id,6,0
-701,千刃龙轻靴Ｓ,Regios Leggings S,mh4g-dex-build7+mh4edit-mit-save-id,6,0
-702,千刃龙重靴Ｘ,Regios Greaves X,mh4g-dex-build7+mh4edit-mit-save-id,9,0
-703,千刃龙轻靴Ｘ,Regios Leggings X,mh4g-dex-build7+mh4edit-mit-save-id,9,0
-704,浑沌重靴,Chaos Greaves,mh4g-dex-build7+mh4edit-mit-save-id,9,0
-705,拿非利重靴,Nephilim Greaves,mh4g-dex-build7+mh4edit-mit-save-id,9,0
-706,浑沌轻靴,Chaos Leggings,mh4g-dex-build7+mh4edit-mit-save-id,9,0
-707,拿非利轻靴,Nephilim Leggings,mh4g-dex-build7+mh4edit-mit-save-id,9,0
-708,岩龙重靴Ｘ,Basarios Greaves X,mh4g-dex-build7+mh4edit-mit-save-id,8,0
-709,岩龙轻靴Ｘ,Basarios Leggings X,mh4g-dex-build7+mh4edit-mit-save-id,8,0
-710,桃岩龙重靴Ｚ,Basarios Greaves Z,mh4g-dex-build7+mh4edit-mit-save-id,8,0
-711,桃岩龙轻靴Ｚ,Basarios Leggings Z,mh4g-dex-build7+mh4edit-mit-save-id,8,0
-712,大怪鸟重靴Ｘ,Kut-Ku Greaves X,mh4g-dex-build7+mh4edit-mit-save-id,8,0
-713,大怪鸟轻靴Ｘ,Kut-Ku Leggings X,mh4g-dex-build7+mh4edit-mit-save-id,8,0
-714,青怪鸟重靴Ｚ,Kut-Ku Greaves Z,mh4g-dex-build7+mh4edit-mit-save-id,8,0
-715,青怪鸟轻靴Ｚ,Kut-Ku Leggings Z,mh4g-dex-build7+mh4edit-mit-save-id,8,0
-716,黑狼鸟重靴Ｘ,Garuga Greaves X,mh4g-dex-build7+mh4edit-mit-save-id,9,0
-717,黑狼鸟轻靴Ｘ,Garuga Leggings X,mh4g-dex-build7+mh4edit-mit-save-id,9,0
-718,麒麟绑腿Ｘ,Kirin Leg Guards X,mh4g-dex-build7+mh4edit-mit-save-id,10,0
-719,麒麟皮靴Ｘ,Kirin Boots X,mh4g-dex-build7+mh4edit-mit-save-id,10,0
-720,麒麟腿铠（发掘）,Kirin Cuisses,mh4g-armor-name-crosswalk+mh4edit-mit-save-id,0,1
-721,麒麟护腿（发掘）,Kirin Jambs,mh4g-armor-name-crosswalk+mh4edit-mit-save-id,0,1
-722,冰麒麟绑腿Ｚ,Kirin Leg Guards Z,mh4g-dex-build7+mh4edit-mit-save-id,10,0
-723,冰麒麟皮靴Ｚ,Kirin Boots Z,mh4g-dex-build7+mh4edit-mit-save-id,10,0
-724,冰麒麟Ｕ腿铠（发掘）,Kirin Cuisses U,mh4g-armor-name-crosswalk+mh4edit-mit-save-id,0,1
-725,冰麒麟Ｕ护腿（发掘）,Kirin Jambs U,mh4g-armor-name-crosswalk+mh4edit-mit-save-id,0,1
-726,飞甲虫皮靴Ｘ,Bnahabra Boots X,mh4g-dex-build7+mh4edit-mit-save-id,8,0
-727,飞甲虫具足Ｘ,Bnahabra Pants X,mh4g-dex-build7+mh4edit-mit-save-id,8,0
-728,DUMMY,DUMMY,mh4edit-mit-save-id-en-fallback,0,0
-729,DUMMY,DUMMY,mh4edit-mit-save-id-en-fallback,0,0
-730,草食龙重靴Ｘ,Rhenoplos Greaves X,mh4g-dex-build7+mh4edit-mit-save-id,8,0
-731,草食龙轻靴Ｘ,Rhenoplos Leggings X,mh4g-dex-build7+mh4edit-mit-save-id,8,0
-732,猎人腿铠（发掘）,Hunter's Cuisses,mh4g-armor-name-crosswalk+mh4edit-mit-save-id,0,1
-733,猎人护腿（发掘）,Hunter's Jambs,mh4g-armor-name-crosswalk+mh4edit-mit-save-id,0,1
-734,合金腿铠（发掘）,Alloy Cuisses,mh4g-armor-name-crosswalk+mh4edit-mit-save-id,0,1
-735,合金护腿（发掘）,Alloy Jambs,mh4g-armor-name-crosswalk+mh4edit-mit-save-id,0,1
-736,神秘重靴Ｘ,Artian Greaves X,mh4g-dex-build7+mh4edit-mit-save-id,9,0
-737,神秘轻靴Ｘ,Artian Leggings X,mh4g-dex-build7+mh4edit-mit-save-id,9,0
-738,弧光Ｓ腿铠（发掘）,Arc Cuisses S,mh4g-armor-name-crosswalk+mh4edit-mit-save-id,0,1
-739,弧光Ｓ护腿（发掘）,Arc Jambs S,mh4g-armor-name-crosswalk+mh4edit-mit-save-id,0,1
-740,铸锭腿铠（发掘）,Ingot Cuisses,mh4g-armor-name-crosswalk+mh4edit-mit-save-id,0,1
-741,铸锭护腿（发掘）,Ingot Jambs,mh4g-armor-name-crosswalk+mh4edit-mit-save-id,0,1
-742,守护者皮靴Ｘ,Guardian Boots X,mh4g-dex-build7+mh4edit-mit-save-id,8,0
-743,女佣短袜Ｘ,Helper Socks X,mh4g-dex-build7+mh4edit-mit-save-id,8,0
-744,守护者具足Ｘ,Guardian Pants X,mh4g-dex-build7+mh4edit-mit-save-id,8,0
-745,护士短袜Ｘ,Healer Socks X,mh4g-dex-build7+mh4edit-mit-save-id,8,0
-746,守护者皮靴Ｚ,Guardian Boots Z,mh4g-dex-build7+mh4edit-mit-save-id,9,0
-747,女佣短袜Ｚ,Helper Socks Z,mh4g-dex-build7+mh4edit-mit-save-id,9,0
-748,守护者具足Ｚ,Guardian Pants Z,mh4g-dex-build7+mh4edit-mit-save-id,9,0
-749,护士短袜Ｚ,Healer Socks Z,mh4g-dex-build7+mh4edit-mit-save-id,9,0
-750,G骑士装皮靴Ｘ,G. Knight Boots X,mh4g-dex-build7+mh4edit-mit-save-id,9,0
-751,女仆装短袜Ｘ,Maiden's Socks X,mh4g-dex-build7+mh4edit-mit-save-id,9,0
-752,G骑士装丝袜Ｘ,G. Knight Tights X,mh4g-dex-build7+mh4edit-mit-save-id,9,0
-753,私密装丝袜Ｘ,Exclusive Tights X,mh4g-dex-build7+mh4edit-mit-save-id,9,0
-754,首领重靴,Ace Greaves,mh4g-dex-build7+mh4edit-mit-save-id,9,0
-755,女王重靴,Sororal Greaves,mh4g-dex-build7+mh4edit-mit-save-id,9,0
-756,首领轻靴,Ace Leggings,mh4g-dex-build7+mh4edit-mit-save-id,9,0
-757,女王轻靴,Sororal Leggings,mh4g-dex-build7+mh4edit-mit-save-id,9,0
-758,镰蟹腿铠（发掘）,Ceanataur Cuisses,mh4g-armor-name-crosswalk+mh4edit-mit-save-id,0,1
-759,镰蟹护腿（发掘）,Ceanataur Jambs,mh4g-armor-name-crosswalk+mh4edit-mit-save-id,0,1
-760,海龙腿铠（发掘）,Lagiacrus Cuisses,mh4g-armor-name-crosswalk+mh4edit-mit-save-id,0,1
-761,海龙护腿（发掘）,Lagiacrus Jambs,mh4g-armor-name-crosswalk+mh4edit-mit-save-id,0,1
-762,煌黑龙腿铠（发掘）,Escadora Cuisses,mh4g-armor-name-crosswalk+mh4edit-mit-save-id,0,1
-763,煌黑龙护腿（发掘）,Escadora Jambs,mh4g-armor-name-crosswalk+mh4edit-mit-save-id,0,1
-764,晓丸胫甲（发掘）,Auroros Kermes Shins,mh4g-armor-name-crosswalk+mh4edit-mit-save-id,0,1
-765,凛长裤（发掘）,Borealis Woad Pants,mh4g-armor-name-crosswalk+mh4edit-mit-save-id,0,1
-766,曙丸胫甲（发掘）,Genesis Kermes Shins,mh4g-armor-name-crosswalk+mh4edit-mit-save-id,0,1
-767,妖艳长裤（发掘）,Glyph Woad Pants,mh4g-armor-name-crosswalk+mh4edit-mit-save-id,0,1
-768,水兽腿铠（发掘）,Ludroth Cuisses,mh4g-armor-name-crosswalk+mh4edit-mit-save-id,0,1
-769,水兽护腿（发掘）,Ludroth Jambs,mh4g-armor-name-crosswalk+mh4edit-mit-save-id,0,1
-770,甲虫重靴（发掘）,Hornet Greaves,mh4g-armor-name-crosswalk+mh4edit-mit-save-id,0,1
-771,甲虫轻靴（发掘）,Hornet Leggings,mh4g-armor-name-crosswalk+mh4edit-mit-save-id,0,1
-772,甲虫腿铠（发掘）,Hornet Cuisses,mh4g-armor-name-crosswalk+mh4edit-mit-save-id,0,1
-773,甲虫护腿（发掘）,Hornet Jambs,mh4g-armor-name-crosswalk+mh4edit-mit-save-id,0,1
-774,毒狗龙重靴（发掘）,Wroggi Greaves,mh4g-armor-name-crosswalk+mh4edit-mit-save-id,0,1
-775,毒狗龙轻靴（发掘）,Wroggi Leggings,mh4g-armor-name-crosswalk+mh4edit-mit-save-id,0,1
-776,毒狗龙腿铠（发掘）,Wroggi Cuisses,mh4g-armor-name-crosswalk+mh4edit-mit-save-id,0,1
-777,毒狗龙护腿（发掘）,Wroggi Jambs,mh4g-armor-name-crosswalk+mh4edit-mit-save-id,0,1
-778,毒怪龙重靴（发掘）,Gigginox Greaves,mh4g-armor-name-crosswalk+mh4edit-mit-save-id,0,1
-779,毒怪龙轻靴（发掘）,Gigginox Leggings,mh4g-armor-name-crosswalk+mh4edit-mit-save-id,0,1
-780,毒怪龙腿铠（发掘）,Gigginox Cuisses,mh4g-armor-name-crosswalk+mh4edit-mit-save-id,0,1
-781,毒怪龙护腿（发掘）,Gigginox Jambs,mh4g-armor-name-crosswalk+mh4edit-mit-save-id,0,1
-782,荒天【足袴】,Tempest Hakama,mh4g-dex-build7+mh4edit-mit-save-id,10,0
-783,苍天【足袴】,Welkin Hakama,mh4g-dex-build7+mh4edit-mit-save-id,10,0
-784,荒天翼裙裤（发掘）,Tempest Wingpleats,mh4g-armor-name-crosswalk+mh4edit-mit-save-id,0,1
-785,苍天翼裙裤（发掘）,Welkin Wingpleats,mh4g-armor-name-crosswalk+mh4edit-mit-save-id,0,1
-786,死神重靴（发掘）,Death Stench Heel,mh4g-armor-name-crosswalk+mh4edit-mit-save-id,0,1
-787,死神轻靴（发掘）,Death Stench March,mh4g-armor-name-crosswalk+mh4edit-mit-save-id,0,1
-788,死神腿铠（发掘）,Death Stench Cuisses,mh4g-armor-name-crosswalk+mh4edit-mit-save-id,0,1
-789,死神护腿（发掘）,Death Stench Jambs,mh4g-armor-name-crosswalk+mh4edit-mit-save-id,0,1
-790,大马士革重靴（发掘）,Damascus Greaves,mh4g-armor-name-crosswalk+mh4edit-mit-save-id,0,1
-791,大马士革轻靴（发掘）,Damascus Leggings,mh4g-armor-name-crosswalk+mh4edit-mit-save-id,0,1
-792,大马士革腿铠（发掘）,Damascus Cuisses,mh4g-armor-name-crosswalk+mh4edit-mit-save-id,0,1
-793,大马士革护腿（发掘）,Damascus Jambs,mh4g-armor-name-crosswalk+mh4edit-mit-save-id,0,1
-794,海龙重靴Ｘ,Lagiacrus Greaves X,mh4g-dex-build7+mh4edit-mit-save-id,9,0
-795,海龙轻靴Ｘ,Lagiacrus Leggings X,mh4g-dex-build7+mh4edit-mit-save-id,9,0
-796,迅龙重靴Ｘ,Nargacuga Greaves X,mh4g-dex-build7+mh4edit-mit-save-id,9,0
-797,迅龙轻靴Ｘ,Nargacuga Leggings X,mh4g-dex-build7+mh4edit-mit-save-id,9,0
-798,炎妃龙重靴Ｘ,Empress Greaves X,mh4g-dex-build7+mh4edit-mit-save-id,10,0
-799,炎妃龙轻靴Ｘ,Empress Leggings X,mh4g-dex-build7+mh4edit-mit-save-id,10,0
-800,太阳神重靴Ｘ,Helios Greaves X,mh4g-dex-build7+mh4edit-mit-save-id,10,0
-801,月神重靴Ｘ,Selene Greaves X,mh4g-dex-build7+mh4edit-mit-save-id,10,0
-802,太阳神轻靴Ｘ,Helios Leggings X,mh4g-dex-build7+mh4edit-mit-save-id,10,0
-803,月神轻靴Ｘ,Selene Leggings X,mh4g-dex-build7+mh4edit-mit-save-id,10,0
-804,炎戈龙重靴Ｘ,Agnaktor Greaves X,mh4g-dex-build7+mh4edit-mit-save-id,8,0
-805,炎戈龙轻靴Ｘ,Agnaktor Leggings X,mh4g-dex-build7+mh4edit-mit-save-id,8,0
-806,彩鸟重靴Ｘ,Qurupeco Greaves X,mh4g-dex-build7+mh4edit-mit-save-id,8,0
-807,彩鸟轻靴Ｘ,Qurupeco Leggings X,mh4g-dex-build7+mh4edit-mit-save-id,8,0
-808,灯鱼龙重靴Ｘ,Gobul Greaves X,mh4g-dex-build7+mh4edit-mit-save-id,8,0
-809,灯鱼龙轻靴Ｘ,Gobul Leggings X,mh4g-dex-build7+mh4edit-mit-save-id,8,0
-810,冰牙龙重靴Ｘ,Barioth Greaves X,mh4g-dex-build7+mh4edit-mit-save-id,8,0
-811,冰牙龙轻靴Ｘ,Barioth Leggings X,mh4g-dex-build7+mh4edit-mit-save-id,8,0
-812,土砂龙重靴Ｘ,Barroth Greaves X,mh4g-dex-build7+mh4edit-mit-save-id,8,0
-813,土砂龙轻靴Ｘ,Barroth Leggings X,mh4g-dex-build7+mh4edit-mit-save-id,8,0
-814,潜口龙重靴Ｘ,Nibelsnarf Greaves X,mh4g-dex-build7+mh4edit-mit-save-id,8,0
-815,潜口龙轻靴Ｘ,Nibelsnarf Leggings X,mh4g-dex-build7+mh4edit-mit-save-id,8,0
-816,尾槌龙重靴Ｘ,Duramboros Greaves X,mh4g-dex-build7+mh4edit-mit-save-id,9,0
-817,尾槌龙轻靴Ｘ,Duramboros Leggings X,mh4g-dex-build7+mh4edit-mit-save-id,9,0
-818,溶岩龙重靴Ｘ,Lava Greaves X,mh4g-dex-build7+mh4edit-mit-save-id,9,0
-819,溶岩龙轻靴Ｘ,Lava Leggings X,mh4g-dex-build7+mh4edit-mit-save-id,9,0
-820,大和・真【具足】,Grand Yamato Gusoku,mh4g-dex-build7+mh4edit-mit-save-id,10,0
-821,日向・真【足袴】,Grand Hyuga Hakama,mh4g-dex-build7+mh4edit-mit-save-id,10,0
-822,陆奥・真【具足】,Grand Mutsu Gusoku,mh4g-dex-build7+mh4edit-mit-save-id,10,0
-823,天成・真【足袴】,Grand Amagi Hakama,mh4g-dex-build7+mh4edit-mit-save-id,10,0
-824,夜叉・真【御足】,Grand Yaksha Boots,mh4g-dex-build7+mh4edit-mit-save-id,10,0
-825,修罗・真【御足】,Grand Carnage Boots,mh4g-dex-build7+mh4edit-mit-save-id,10,0
-826,炼黑龙具足,Miralis Drogues,mh4g-dex-build7+mh4edit-mit-save-id,10,0
-827,炼黑龙足甲,Miralis Kedges,mh4g-dex-build7+mh4edit-mit-save-id,10,0
-828,翠水龙重靴Ｚ,Plesioth Greaves Z,mh4g-dex-build7+mh4edit-mit-save-id,8,0
-829,翠水龙轻靴Ｚ,Plesioth Leggings Z,mh4g-dex-build7+mh4edit-mit-save-id,8,0
-830,北辰【足袴】,Kita Star Hakama,mh4g-dex-build7+mh4edit-mit-save-id,8,0
-831,海渊【足袴】,Umi Ocean Hakama,mh4g-dex-build7+mh4edit-mit-save-id,8,0
-832,厨师皮靴,Patissier's Boots,mh4g-dex-build7+mh4edit-mit-save-id,7,0
-833,厨师具足,Patissier's Footwear,mh4g-dex-build7+mh4edit-mit-save-id,7,0
-834,矿石重靴Ｓ,High Metal Greaves S,mh4g-dex-build7+mh4edit-mit-save-id,5,0
-835,矿石轻靴Ｓ,High Metal Leggings S,mh4g-dex-build7+mh4edit-mit-save-id,5,0
-836,锹虫重靴Ｘ,Aelucanth Crura X,mh4g-dex-build7+mh4edit-mit-save-id,8,0
-837,蝴蝶重靴Ｘ,Rhopessa Crura X,mh4g-dex-build7+mh4edit-mit-save-id,8,0
-838,锹虫轻靴Ｘ,Aelucanth Tarsi X,mh4g-dex-build7+mh4edit-mit-save-id,8,0
-839,蝴蝶轻靴Ｘ,Rhopessa Tarsi X,mh4g-dex-build7+mh4edit-mit-save-id,8,0
-840,独角仙重靴Ｘ,Obituary Crura X,mh4g-dex-build7+mh4edit-mit-save-id,8,0
-841,彩蝶重靴Ｘ,Butterfly Crura X,mh4g-dex-build7+mh4edit-mit-save-id,8,0
-842,独角仙轻靴Ｘ,Obituary Tarsi X,mh4g-dex-build7+mh4edit-mit-save-id,8,0
-843,彩蝶轻靴Ｘ,Butterfly Tarsi X,mh4g-dex-build7+mh4edit-mit-save-id,8,0
-844,EX晓丸【具足】,EX Auroros Pants,mh4g-dex-build7+mh4edit-mit-save-id,10,0
-845,EX凛【足袴】,EX Borealis Hakama,mh4g-dex-build7+mh4edit-mit-save-id,10,0
-846,EX曙丸【具足】,EX Genesis Pants,mh4g-dex-build7+mh4edit-mit-save-id,10,0
-847,EX妖艳【足袴】,EX Glyph Hakama,mh4g-dex-build7+mh4edit-mit-save-id,10,0
-848,荒天【足袴】,Tempest Hakama,mh4g-dex-build7+mh4edit-mit-save-id,10,0
-849,苍天【足袴】,Welkin Hakama,mh4g-dex-build7+mh4edit-mit-save-id,10,0
-850,GX煌黑龙腿铠（发掘）,GX Escadora Cuisses,mh4g-armor-name-crosswalk+mh4edit-mit-save-id,0,1
-851,GX煌黑龙护腿（发掘）,GX Escadora Jambs,mh4g-armor-name-crosswalk+mh4edit-mit-save-id,0,1
-852,GX恶龙Ｘ腿铠（发掘）,GX Dragoncuisses X,mh4g-armor-name-crosswalk+mh4edit-mit-save-id,0,1
-853,GX恶龙Ｘ护腿（发掘）,GX Dragonjambs X,mh4g-armor-name-crosswalk+mh4edit-mit-save-id,0,1
-854,星骑士重靴,Star Knight Greaves,mh4g-dex-build7+mh4edit-mit-save-id,10,0
-855,星骑士轻靴,Star Knight Leggings,mh4g-dex-build7+mh4edit-mit-save-id,10,0
-856,【美】愤怒重靴,Greaves of Rage,mh4g-dex-build7+mh4edit-mit-save-id,10,0
-857,【美】愤怒轻靴,Leggings of Rage,mh4g-dex-build7+mh4edit-mit-save-id,10,0
-858,屏障装绑腿,Varia Suit Leg Guards,mh4g-dex-build7+mh4edit-mit-save-id,10,0
-859,【美】零式装皮靴,Zero Suit Boots,mh4g-dex-build7+mh4edit-mit-save-id,10,0
-860,屏障装胸壳,Varia Suit Legs,mh4g-dex-build7+mh4edit-mit-save-id,10,0
-861,【美】零式装丝袜,Zero Suit Tights,mh4g-dex-build7+mh4edit-mit-save-id,10,0
-862,屏障装绑腿,Varia Suit Leg Guards,mh4g-dex-build7+mh4edit-mit-save-id,10,0
-863,【美】零式装皮靴,Zero Suit Boots,mh4g-dex-build7+mh4edit-mit-save-id,10,0
-864,屏障装胸壳,Varia Suit Legs,mh4g-dex-build7+mh4edit-mit-save-id,10,0
-865,【美】零式装丝袜,Zero Suit Tights,mh4g-dex-build7+mh4edit-mit-save-id,10,0
-866,DUMMY,DUMMY,mh4edit-mit-save-id-en-fallback,0,0
-867,DUMMY,DUMMY,mh4edit-mit-save-id-en-fallback,0,0
-868,团长皮靴Ｘ,Hawkboots X,mh4g-dex-build7+mh4edit-mit-save-id,9,0
-869,看板娘皮靴Ｘ,Lecturer's Boots X,mh4g-dex-build7+mh4edit-mit-save-id,9,0
-870,团长具足Ｘ,Hawkfeet X,mh4g-dex-build7+mh4edit-mit-save-id,9,0
-871,看板娘具足Ｘ,Lecturer's Footwear X,mh4g-dex-build7+mh4edit-mit-save-id,9,0
-872,GX猎人大腿,GX Hunter's Cuisses,mh4g-dex-build7+mh4edit-mit-save-id,10,0
-873,GX猎人十字架,GX Hunter's Jambs,mh4g-dex-build7+mh4edit-mit-save-id,10,0
-874,GX贪婪大腿,GX Esurient Cuisses,mh4g-dex-build7+mh4edit-mit-save-id,10,0
-875,GX贪婪十字架,GX Esurient Jambs,mh4g-dex-build7+mh4edit-mit-save-id,10,0
-876,GX荒天【羽袴】,GX Tempest Wingpleats,mh4g-dex-build7+mh4edit-mit-save-id,10,0
-877,GX苍天【羽袴】,GX Welkin Wingpleats,mh4g-dex-build7+mh4edit-mit-save-id,10,0
-878,GX红黑龙大腿Ｚ,GX Fatalis Crimsonboots,mh4g-dex-build7+mh4edit-mit-save-id,10,0
-879,GX红黑龙十字架Ｚ,GX Fatalis Crimsonjambs,mh4g-dex-build7+mh4edit-mit-save-id,10,0
-880,猎人重靴,Hunter's Greaves,mh4g-dex-build7+mh4edit-mit-save-id,1,0
-881,猎人轻靴,Hunter's Leggings,mh4g-dex-build7+mh4edit-mit-save-id,1,0
-882,猎人重靴,Hunter's Greaves,mh4g-dex-build7+mh4edit-mit-save-id,1,0
-883,猎人轻靴,Hunter's Leggings,mh4g-dex-build7+mh4edit-mit-save-id,1,0
-884,水兽重靴,Ludroth Greaves,mh4g-dex-build7+mh4edit-mit-save-id,2,0
-885,水兽轻靴,Ludroth Leggings,mh4g-dex-build7+mh4edit-mit-save-id,2,0
-886,水兽重靴,Ludroth Greaves,mh4g-dex-build7+mh4edit-mit-save-id,2,0
-887,水兽轻靴,Ludroth Leggings,mh4g-dex-build7+mh4edit-mit-save-id,2,0
-888,合金重靴,Alloy Greaves,mh4g-dex-build7+mh4edit-mit-save-id,1,0
-889,合金轻靴,Alloy Leggings,mh4g-dex-build7+mh4edit-mit-save-id,1,0
-890,合金重靴,Alloy Greaves,mh4g-dex-build7+mh4edit-mit-save-id,1,0
-891,合金轻靴,Alloy Leggings,mh4g-dex-build7+mh4edit-mit-save-id,1,0
-892,毒怪鸟重靴,Gypceros Greaves,mh4g-dex-build7+mh4edit-mit-save-id,2,0
-893,毒怪鸟轻靴,Gypceros Leggings,mh4g-dex-build7+mh4edit-mit-save-id,2,0
-894,毒怪鸟重靴,Gypceros Greaves,mh4g-dex-build7+mh4edit-mit-save-id,2,0
-895,毒怪鸟轻靴,Gypceros Leggings,mh4g-dex-build7+mh4edit-mit-save-id,2,0
-896,电龙重靴,Khezu Greaves,mh4g-dex-build7+mh4edit-mit-save-id,2,0
-897,电龙轻靴,Khezu Leggings,mh4g-dex-build7+mh4edit-mit-save-id,2,0
-898,电龙重靴,Khezu Greaves,mh4g-dex-build7+mh4edit-mit-save-id,2,0
-899,电龙轻靴,Khezu Leggings,mh4g-dex-build7+mh4edit-mit-save-id,2,0
-900,铸锭重靴,Ingot Greaves,mh4g-dex-build7+mh4edit-mit-save-id,3,0
-901,铸锭轻靴,Ingot Leggings,mh4g-dex-build7+mh4edit-mit-save-id,3,0
-902,铸锭重靴,Ingot Greaves,mh4g-dex-build7+mh4edit-mit-save-id,3,0
-903,铸锭轻靴,Ingot Leggings,mh4g-dex-build7+mh4edit-mit-save-id,3,0
-904,雌火龙重靴,Rathian Greaves,mh4g-dex-build7+mh4edit-mit-save-id,2,0
-905,雌火龙轻靴,Rathian Leggings,mh4g-dex-build7+mh4edit-mit-save-id,2,0
-906,海龙重靴,Lagiacrus Greaves,mh4g-dex-build7+mh4edit-mit-save-id,6,0
-907,海龙轻靴,Lagiacrus Leggings,mh4g-dex-build7+mh4edit-mit-save-id,6,0
-908,雄火龙重靴,Rathalos Greaves,mh4g-dex-build7+mh4edit-mit-save-id,3,0
-909,雄火龙轻靴,Rathalos Leggings,mh4g-dex-build7+mh4edit-mit-save-id,3,0
-910,紫毒怪鸟重靴Ｕ,Gypceros Greaves U,mh4g-dex-build7+mh4edit-mit-save-id,6,0
-911,紫毒怪鸟轻靴Ｕ,Gypceros Leggings U,mh4g-dex-build7+mh4edit-mit-save-id,6,0
-912,赤电龙重靴Ｕ,Khezu Greaves U,mh4g-dex-build7+mh4edit-mit-save-id,6,0
-913,赤电龙轻靴Ｕ,Khezu Leggings U,mh4g-dex-build7+mh4edit-mit-save-id,6,0
-914,轰龙重靴,Tigrex Greaves,mh4g-dex-build7+mh4edit-mit-save-id,3,0
-915,轰龙轻靴,Tigrex Leggings,mh4g-dex-build7+mh4edit-mit-save-id,3,0
-916,麒麟绑腿,Kirin Leg Guards,mh4g-dex-build7+mh4edit-mit-save-id,3,0
-917,麒麟皮靴,Kirin Boots,mh4g-dex-build7+mh4edit-mit-save-id,3,0
-918,麒麟绑腿,Kirin Leg Guards,mh4g-dex-build7+mh4edit-mit-save-id,3,0
-919,麒麟皮靴,Kirin Boots,mh4g-dex-build7+mh4edit-mit-save-id,3,0
-920,神秘重靴Ｓ,Artian Greaves S,mh4g-dex-build7+mh4edit-mit-save-id,5,0
-921,神秘轻靴Ｓ,Artian Leggings S,mh4g-dex-build7+mh4edit-mit-save-id,5,0
-922,镰蟹重靴,Ceanataur Greaves,mh4g-dex-build7+mh4edit-mit-save-id,2,0
-923,镰蟹轻靴,Ceanataur Leggings,mh4g-dex-build7+mh4edit-mit-save-id,2,0
-924,镰蟹重靴,Ceanataur Greaves,mh4g-dex-build7+mh4edit-mit-save-id,2,0
-925,镰蟹轻靴,Ceanataur Leggings,mh4g-dex-build7+mh4edit-mit-save-id,2,0
-926,残阳【具足】,Gloaming Greaves,mh4g-dex-build7+mh4edit-mit-save-id,3,0
-927,东云【足袴】,Dayspring Pleats,mh4g-dex-build7+mh4edit-mit-save-id,3,0
-928,常磐【具足】,Adamance Pleats,mh4g-dex-build7+mh4edit-mit-save-id,3,0
-929,八千代【足袴】,Epoch Pleats,mh4g-dex-build7+mh4edit-mit-save-id,3,0
-930,狱狼龙重靴Ｕ,Zinogre Greaves U,mh4g-dex-build7+mh4edit-mit-save-id,6,0
-931,狱狼龙轻靴Ｕ,Zinogre Leggings U,mh4g-dex-build7+mh4edit-mit-save-id,6,0
-932,黑轰龙重靴Ｕ,Tigrex Greaves U,mh4g-dex-build7+mh4edit-mit-save-id,6,0
-933,黑轰龙轻靴Ｕ,Tigrex Leggings U,mh4g-dex-build7+mh4edit-mit-save-id,6,0
-934,黑蚀龙重靴,Gore Greaves,mh4g-dex-build7+mh4edit-mit-save-id,3,0
-935,黑蚀龙轻靴,Gore Leggings,mh4g-dex-build7+mh4edit-mit-save-id,3,0
-936,晓丸【具足】,Auroros Pants,mh4g-dex-build7+mh4edit-mit-save-id,3,0
-937,曙丸【具足】,Genesis Pants,mh4g-dex-build7+mh4edit-mit-save-id,3,0
-938,凛【足袴】,Borealis Hakama,mh4g-dex-build7+mh4edit-mit-save-id,3,0
-939,妖艳【足袴】,Glyph Hakama,mh4g-dex-build7+mh4edit-mit-save-id,3,0
-940,冰麒麟绑腿Ｕ,Kirin Leg Guards U,mh4g-dex-build7+mh4edit-mit-save-id,7,0
-941,冰麒麟皮靴Ｕ,Kirin Boots U,mh4g-dex-build7+mh4edit-mit-save-id,7,0
-942,冰麒麟绑腿Ｕ,Kirin Leg Guards U,mh4g-dex-build7+mh4edit-mit-save-id,7,0
-943,冰麒麟皮靴Ｕ,Kirin Boots U,mh4g-dex-build7+mh4edit-mit-save-id,7,0
-944,贪婪重靴,Esurient Greaves,mh4g-dex-build7+mh4edit-mit-save-id,7,0
-945,贪婪轻靴,Esurient Leggings,mh4g-dex-build7+mh4edit-mit-save-id,7,0
-946,一角龙重靴（发掘）,Monoblos Greaves,mh4g-armor-name-crosswalk+mh4edit-mit-save-id,0,1
-947,一角龙轻靴（发掘）,Monoblos Leggings,mh4g-armor-name-crosswalk+mh4edit-mit-save-id,0,1
-948,甲虫重靴（发掘）,Hornet Greaves,mh4g-armor-name-crosswalk+mh4edit-mit-save-id,0,1
-949,甲虫轻靴（发掘）,Hornet Leggings,mh4g-armor-name-crosswalk+mh4edit-mit-save-id,0,1
-950,毒狗龙重靴（发掘）,Wroggi Greaves,mh4g-armor-name-crosswalk+mh4edit-mit-save-id,0,1
-951,毒狗龙轻靴（发掘）,Wroggi Leggings,mh4g-armor-name-crosswalk+mh4edit-mit-save-id,0,1
-952,白一角龙重靴,Monodevil Greaves,mh4g-dex-build7+mh4edit-mit-save-id,9,0
-953,白一角龙轻靴,Monodevil Leggings,mh4g-dex-build7+mh4edit-mit-save-id,9,0
-954,角龙重靴,Diablos Greaves,mh4g-dex-build7+mh4edit-mit-save-id,3,0
-955,角龙轻靴,Diablos Leggings,mh4g-dex-build7+mh4edit-mit-save-id,3,0
-956,毒怪龙重靴（发掘）,Gigginox Greaves,mh4g-armor-name-crosswalk+mh4edit-mit-save-id,0,1
-957,毒怪龙轻靴（发掘）,Gigginox Leggings,mh4g-armor-name-crosswalk+mh4edit-mit-save-id,0,1
-958,死神重靴（发掘）,Death Stench Heel,mh4g-armor-name-crosswalk+mh4edit-mit-save-id,0,1
-959,死神轻靴（发掘）,Death Stench March,mh4g-armor-name-crosswalk+mh4edit-mit-save-id,0,1
-960,大马士革重靴（发掘）,Damascus Greaves,mh4g-armor-name-crosswalk+mh4edit-mit-save-id,0,1
-961,大马士革轻靴（发掘）,Damascus Leggings,mh4g-armor-name-crosswalk+mh4edit-mit-save-id,0,1
-962,DUMMY,DUMMY,mh4edit-mit-save-id-en-fallback,0,0
-963,DUMMY,DUMMY,mh4edit-mit-save-id-en-fallback,0,0
+0,无装备,None,mh4g-core-common-game-array,0,0
+1,勇气具足,Derring Trousers,mh4g-core-common-game-array+mh4g-dex-build7+mh4edit-mit-save-id,1,0
+2,勇气重靴Ｓ,Derring Greaves S,mh4g-core-common-game-array+mh4g-dex-build7+mh4edit-mit-save-id,4,0
+3,勇气轻靴Ｓ,Derring Leggings S,mh4g-core-common-game-array+mh4g-dex-build7+mh4edit-mit-save-id,4,0
+4,轻皮具足,Leather Trousers,mh4g-core-common-game-array+mh4g-dex-build7+mh4edit-mit-save-id,1,0
+5,轻皮重靴Ｓ,Leather Greaves S,mh4g-core-common-game-array+mh4g-dex-build7+mh4edit-mit-save-id,4,0
+6,轻皮轻靴Ｓ,Leather Leggings S,mh4g-core-common-game-array+mh4g-dex-build7+mh4edit-mit-save-id,4,0
+7,锁链具足,Chainmail Trousers,mh4g-core-common-game-array+mh4g-dex-build7+mh4edit-mit-save-id,1,0
+8,锁链重靴Ｓ,Chainmail Greaves S,mh4g-core-common-game-array+mh4g-dex-build7+mh4edit-mit-save-id,4,0
+9,锁链轻靴Ｓ,Chainmail Leggings S,mh4g-core-common-game-array+mh4g-dex-build7+mh4edit-mit-save-id,4,0
+10,猎人重靴,Hunter's Greaves,mh4g-core-common-game-array+mh4g-dex-build7+mh4edit-mit-save-id,1,0
+11,猎人轻靴,Hunter's Leggings,mh4g-core-common-game-array+mh4g-dex-build7+mh4edit-mit-save-id,1,0
+12,猎人重靴Ｓ,Hunter's Greaves S,mh4g-core-common-game-array+mh4g-dex-build7+mh4edit-mit-save-id,4,0
+13,猎人轻靴Ｓ,Hunter's Leggings S,mh4g-core-common-game-array+mh4g-dex-build7+mh4edit-mit-save-id,4,0
+14,猎人重靴,Hunter's Greaves,mh4g-core-common-game-array+mh4g-dex-build7+mh4edit-mit-save-id,1,0
+15,猎人轻靴,Hunter's Leggings,mh4g-core-common-game-array+mh4g-dex-build7+mh4edit-mit-save-id,1,0
+16,骨制重靴,Bone Greaves,mh4g-core-common-game-array+mh4g-dex-build7+mh4edit-mit-save-id,1,0
+17,骨制轻靴,Bone Leggings,mh4g-core-common-game-array+mh4g-dex-build7+mh4edit-mit-save-id,1,0
+18,骨制重靴Ｓ,Bone Greaves S,mh4g-core-common-game-array+mh4g-dex-build7+mh4edit-mit-save-id,4,0
+19,骨制轻靴Ｓ,Bone Leggings S,mh4g-core-common-game-array+mh4g-dex-build7+mh4edit-mit-save-id,4,0
+20,合金重靴,Alloy Greaves,mh4g-core-common-game-array+mh4g-dex-build7+mh4edit-mit-save-id,1,0
+21,合金轻靴,Alloy Leggings,mh4g-core-common-game-array+mh4g-dex-build7+mh4edit-mit-save-id,1,0
+22,合金重靴Ｓ,Alloy Greaves S,mh4g-core-common-game-array+mh4g-dex-build7+mh4edit-mit-save-id,4,0
+23,合金轻靴Ｓ,Alloy Leggings S,mh4g-core-common-game-array+mh4g-dex-build7+mh4edit-mit-save-id,4,0
+24,合金重靴,Alloy Greaves,mh4g-core-common-game-array+mh4g-dex-build7+mh4edit-mit-save-id,1,0
+25,合金轻靴,Alloy Leggings,mh4g-core-common-game-array+mh4g-dex-build7+mh4edit-mit-save-id,1,0
+26,狗龙重靴,Jaggi Greaves,mh4g-core-common-game-array+mh4g-dex-build7+mh4edit-mit-save-id,2,0
+27,狗龙轻靴,Jaggi Leggings,mh4g-core-common-game-array+mh4g-dex-build7+mh4edit-mit-save-id,2,0
+28,狗龙重靴Ｓ,Jaggi Greaves S,mh4g-core-common-game-array+mh4g-dex-build7+mh4edit-mit-save-id,4,0
+29,狗龙轻靴Ｓ,Jaggi Leggings S,mh4g-core-common-game-array+mh4g-dex-build7+mh4edit-mit-save-id,4,0
+30,洛克拉克皮靴,Loc Lac Boots,mh4g-core-common-game-array+mh4g-dex-build7+mh4edit-mit-save-id,1,0
+31,水兽重靴,Ludroth Greaves,mh4g-core-common-game-array+mh4g-dex-build7+mh4edit-mit-save-id,2,0
+32,水兽轻靴,Ludroth Leggings,mh4g-core-common-game-array+mh4g-dex-build7+mh4edit-mit-save-id,2,0
+33,水兽重靴,Ludroth Greaves,mh4g-core-common-game-array+mh4g-dex-build7+mh4edit-mit-save-id,2,0
+34,水兽轻靴,Ludroth Leggings,mh4g-core-common-game-array+mh4g-dex-build7+mh4edit-mit-save-id,2,0
+35,草食龙重靴,Rhenoplos Greaves,mh4g-core-common-game-array+mh4g-dex-build7+mh4edit-mit-save-id,2,0
+36,草食龙轻靴,Rhenoplos Leggings,mh4g-core-common-game-array+mh4g-dex-build7+mh4edit-mit-save-id,2,0
+37,草食龙重靴Ｓ,Rhenoplos Greaves S,mh4g-core-common-game-array+mh4g-dex-build7+mh4edit-mit-save-id,4,0
+38,草食龙轻靴Ｓ,Rhenoplos Leggings S,mh4g-core-common-game-array+mh4g-dex-build7+mh4edit-mit-save-id,4,0
+39,飞甲虫之靴,Bnahabra Boots,mh4g-core-common-game-array+mh4g-dex-build7+mh4edit-mit-save-id,2,0
+40,飞甲虫之足,Bnahabra Pants,mh4g-core-common-game-array+mh4g-dex-build7+mh4edit-mit-save-id,2,0
+41,飞甲虫之靴Ｓ,Bnahabra Boots S,mh4g-core-common-game-array+mh4g-dex-build7+mh4edit-mit-save-id,4,0
+42,飞甲虫之足Ｓ,Bnahabra Pants S,mh4g-core-common-game-array+mh4g-dex-build7+mh4edit-mit-save-id,4,0
+43,土砂龙重靴,Barroth Greaves,mh4g-core-common-game-array+mh4g-dex-build7+mh4edit-mit-save-id,2,0
+44,土砂龙轻靴,Barroth Leggings,mh4g-core-common-game-array+mh4g-dex-build7+mh4edit-mit-save-id,2,0
+45,雌火龙重靴,Rathian Greaves,mh4g-core-common-game-array+mh4g-dex-build7+mh4edit-mit-save-id,2,0
+46,雌火龙轻靴,Rathian Leggings,mh4g-core-common-game-array+mh4g-dex-build7+mh4edit-mit-save-id,2,0
+47,雌火龙重靴Ｓ,Rathian Greaves S,mh4g-core-common-game-array+mh4g-dex-build7+mh4edit-mit-save-id,5,0
+48,雌火龙轻靴Ｓ,Rathian Leggings S,mh4g-core-common-game-array+mh4g-dex-build7+mh4edit-mit-save-id,5,0
+49,樱火龙重靴,Rath Heart Greaves,mh4g-core-common-game-array+mh4g-dex-build7+mh4edit-mit-save-id,6,0
+50,樱火龙轻靴,Rath Heart Leggings,mh4g-core-common-game-array+mh4g-dex-build7+mh4edit-mit-save-id,6,0
+51,金火龙重靴,Golden Lunegreaves,mh4g-core-common-game-array+mh4g-dex-build7+mh4edit-mit-save-id,7,0
+52,金火龙轻靴,Golden Luneleggings,mh4g-core-common-game-array+mh4g-dex-build7+mh4edit-mit-save-id,7,0
+53,雌火龙重靴,Rathian Greaves,mh4g-core-common-game-array+mh4g-dex-build7+mh4edit-mit-save-id,2,0
+54,雌火龙轻靴,Rathian Leggings,mh4g-core-common-game-array+mh4g-dex-build7+mh4edit-mit-save-id,2,0
+55,樱火龙重靴,Rath Heart Greaves,mh4g-core-common-game-array+mh4g-dex-build7+mh4edit-mit-save-id,6,0
+56,樱火龙轻靴,Rath Heart Leggings,mh4g-core-common-game-array+mh4g-dex-build7+mh4edit-mit-save-id,6,0
+57,EX雌火龙重靴,EX Rathian Greaves,mh4g-core-common-game-array+mh4g-dex-build7+mh4edit-mit-save-id,7,0
+58,EX雌火龙轻靴,EX Rathian Leggings,mh4g-core-common-game-array+mh4g-dex-build7+mh4edit-mit-save-id,7,0
+59,雄火龙重靴,Rathalos Greaves,mh4g-core-common-game-array+mh4g-dex-build7+mh4edit-mit-save-id,3,0
+60,雄火龙轻靴,Rathalos Leggings,mh4g-core-common-game-array+mh4g-dex-build7+mh4edit-mit-save-id,3,0
+61,雄火龙重靴Ｓ,Rathalos Greaves S,mh4g-core-common-game-array+mh4g-dex-build7+mh4edit-mit-save-id,5,0
+62,雄火龙轻靴Ｓ,Rathalos Leggings S,mh4g-core-common-game-array+mh4g-dex-build7+mh4edit-mit-save-id,5,0
+63,苍火龙重靴,Rath Soul Greaves,mh4g-core-common-game-array+mh4g-dex-build7+mh4edit-mit-save-id,6,0
+64,苍火龙轻靴,Rath Soul Leggings,mh4g-core-common-game-array+mh4g-dex-build7+mh4edit-mit-save-id,6,0
+65,银火龙重靴,Silver Solgreaves,mh4g-core-common-game-array+mh4g-dex-build7+mh4edit-mit-save-id,7,0
+66,银火龙轻靴,Silver Solleggings,mh4g-core-common-game-array+mh4g-dex-build7+mh4edit-mit-save-id,7,0
+67,雄火龙重靴,Rathalos Greaves,mh4g-core-common-game-array+mh4g-dex-build7+mh4edit-mit-save-id,3,0
+68,雄火龙轻靴,Rathalos Leggings,mh4g-core-common-game-array+mh4g-dex-build7+mh4edit-mit-save-id,3,0
+69,苍火龙重靴,Rath Soul Greaves,mh4g-core-common-game-array+mh4g-dex-build7+mh4edit-mit-save-id,6,0
+70,苍火龙轻靴,Rath Soul Leggings,mh4g-core-common-game-array+mh4g-dex-build7+mh4edit-mit-save-id,6,0
+71,银火龙重靴,Silver Solgreaves,mh4g-core-common-game-array+mh4g-dex-build7+mh4edit-mit-save-id,7,0
+72,银火龙轻靴,Silver Solleggings,mh4g-core-common-game-array+mh4g-dex-build7+mh4edit-mit-save-id,7,0
+73,EX雄火龙重靴,EX Rathalos Greaves,mh4g-core-common-game-array+mh4g-dex-build7+mh4edit-mit-save-id,7,0
+74,EX雄火龙轻靴,EX Rathalos Leggings,mh4g-core-common-game-array+mh4g-dex-build7+mh4edit-mit-save-id,7,0
+75,角龙重靴,Diablos Greaves,mh4g-core-common-game-array+mh4g-dex-build7+mh4edit-mit-save-id,3,0
+76,角龙轻靴,Diablos Leggings,mh4g-core-common-game-array+mh4g-dex-build7+mh4edit-mit-save-id,3,0
+77,爆锤龙重靴,Uragaan Greaves,mh4g-core-common-game-array+mh4g-dex-build7+mh4edit-mit-save-id,3,0
+78,爆锤龙轻靴,Uragaan Leggings,mh4g-core-common-game-array+mh4g-dex-build7+mh4edit-mit-save-id,3,0
+79,恐暴龙重靴,Vangis Greaves,mh4g-core-common-game-array+mh4g-dex-build7+mh4edit-mit-save-id,6,0
+80,恐暴龙轻靴,Vangis Leggings,mh4g-core-common-game-array+mh4g-dex-build7+mh4edit-mit-save-id,6,0
+81,残忍重靴,Esurient Greaves,mh4g-core-common-game-array+mh4g-dex-build7+mh4edit-mit-save-id,7,0
+82,残忍轻靴,Esurient Leggings,mh4g-core-common-game-array+mh4g-dex-build7+mh4edit-mit-save-id,7,0
+83,残忍重靴,Esurient Greaves,mh4g-core-common-game-array+mh4g-dex-build7+mh4edit-mit-save-id,7,0
+84,残忍轻靴,Esurient Leggings,mh4g-core-common-game-array+mh4g-dex-build7+mh4edit-mit-save-id,7,0
+85,残阳【具足】,Gloaming Greaves,mh4g-core-common-game-array+mh4g-dex-build7+mh4edit-mit-save-id,3,0
+86,常盘【具足】,Adamance Pleats,mh4g-core-common-game-array+mh4g-dex-build7+mh4edit-mit-save-id,3,0
+87,东云【袴】,Dayspring Pleats,mh4g-core-common-game-array+mh4g-dex-build7+mh4edit-mit-save-id,3,0
+88,八千代【袴】,Epoch Pleats,mh4g-core-common-game-array+mh4g-dex-build7+mh4edit-mit-save-id,3,0
+89,残阳・霸【具足】,Gloaming Archgreaves,mh4g-core-common-game-array+mh4g-dex-build7+mh4edit-mit-save-id,7,0
+90,常盘・霸【具足】,Adamance Archpleats,mh4g-core-common-game-array+mh4g-dex-build7+mh4edit-mit-save-id,7,0
+91,东云・霸【袴】,Dayspring Archpleats,mh4g-core-common-game-array+mh4g-dex-build7+mh4edit-mit-save-id,7,0
+92,八千代・霸【袴】,Epoch Archpleats,mh4g-core-common-game-array+mh4g-dex-build7+mh4edit-mit-save-id,7,0
+93,残阳【具足】,Gloaming Greaves,mh4g-core-common-game-array+mh4g-dex-build7+mh4edit-mit-save-id,3,0
+94,常盘【具足】,Adamance Pleats,mh4g-core-common-game-array+mh4g-dex-build7+mh4edit-mit-save-id,3,0
+95,东云【袴】,Dayspring Pleats,mh4g-core-common-game-array+mh4g-dex-build7+mh4edit-mit-save-id,3,0
+96,八千代【袴】,Epoch Pleats,mh4g-core-common-game-array+mh4g-dex-build7+mh4edit-mit-save-id,3,0
+97,水龙重靴,Plesioth Greaves,mh4g-core-common-game-array+mh4g-dex-build7+mh4edit-mit-save-id,4,0
+98,水龙轻靴,Plesioth Leggings,mh4g-core-common-game-array+mh4g-dex-build7+mh4edit-mit-save-id,4,0
+99,潜口龙重靴,Nibelsnarf Greaves,mh4g-core-common-game-array+mh4g-dex-build7+mh4edit-mit-save-id,2,0
+100,潜口龙轻靴,Nibelsnarf Leggings,mh4g-core-common-game-array+mh4g-dex-build7+mh4edit-mit-save-id,2,0
+101,尾槌龙重靴,Duramboros Greaves,mh4g-core-common-game-array+mh4g-dex-build7+mh4edit-mit-save-id,3,0
+102,尾槌龙轻靴,Duramboros Leggings,mh4g-core-common-game-array+mh4g-dex-build7+mh4edit-mit-save-id,3,0
+103,青熊重靴,Arzuros Greaves,mh4g-core-common-game-array+mh4g-dex-build7+mh4edit-mit-save-id,2,0
+104,青熊轻靴,Arzuros Leggings,mh4g-core-common-game-array+mh4g-dex-build7+mh4edit-mit-save-id,2,0
+105,白兔重靴,Lagombi Greaves,mh4g-core-common-game-array+mh4g-dex-build7+mh4edit-mit-save-id,2,0
+106,白兔轻靴,Lagombi Leggings,mh4g-core-common-game-array+mh4g-dex-build7+mh4edit-mit-save-id,2,0
+107,白兔重靴Ｓ,Lagombi Greaves S,mh4g-core-common-game-array+mh4g-dex-build7+mh4edit-mit-save-id,4,0
+108,白兔轻靴Ｓ,Lagombi Leggings S,mh4g-core-common-game-array+mh4g-dex-build7+mh4edit-mit-save-id,4,0
+109,迅龙重靴,Nargacuga Greaves,mh4g-core-common-game-array+mh4g-dex-build7+mh4edit-mit-save-id,3,0
+110,迅龙轻靴,Nargacuga Leggings,mh4g-core-common-game-array+mh4g-dex-build7+mh4edit-mit-save-id,3,0
+111,轰龙重靴,Tigrex Greaves,mh4g-core-common-game-array+mh4g-dex-build7+mh4edit-mit-save-id,3,0
+112,轰龙轻靴,Tigrex Leggings,mh4g-core-common-game-array+mh4g-dex-build7+mh4edit-mit-save-id,3,0
+113,轰龙重靴Ｓ,Tigrex Greaves S,mh4g-core-common-game-array+mh4g-dex-build7+mh4edit-mit-save-id,5,0
+114,轰龙轻靴Ｓ,Tigrex Leggings S,mh4g-core-common-game-array+mh4g-dex-build7+mh4edit-mit-save-id,5,0
+115,黑轰龙重靴Ｕ,Tigrex Greaves U,mh4g-core-common-game-array+mh4g-dex-build7+mh4edit-mit-save-id,6,0
+116,黑轰龙轻靴Ｕ,Tigrex Leggings U,mh4g-core-common-game-array+mh4g-dex-build7+mh4edit-mit-save-id,6,0
+117,大轰龙重靴,Excello Greaves,mh4g-core-common-game-array+mh4g-dex-build7+mh4edit-mit-save-id,7,0
+118,大轰龙轻靴,Excello Leggings,mh4g-core-common-game-array+mh4g-dex-build7+mh4edit-mit-save-id,7,0
+119,EX轰龙重靴,EX Tigrex Greaves,mh4g-core-common-game-array+mh4g-dex-build7+mh4edit-mit-save-id,7,0
+120,EX轰龙轻靴,EX Tigrex Leggings,mh4g-core-common-game-array+mh4g-dex-build7+mh4edit-mit-save-id,7,0
+121,轰龙重靴,Tigrex Greaves,mh4g-core-common-game-array+mh4g-dex-build7+mh4edit-mit-save-id,3,0
+122,轰龙轻靴,Tigrex Leggings,mh4g-core-common-game-array+mh4g-dex-build7+mh4edit-mit-save-id,3,0
+123,黑轰龙重靴Ｕ,Tigrex Greaves U,mh4g-core-common-game-array+mh4g-dex-build7+mh4edit-mit-save-id,6,0
+124,黑轰龙轻靴Ｕ,Tigrex Leggings U,mh4g-core-common-game-array+mh4g-dex-build7+mh4edit-mit-save-id,6,0
+125,碎龙重靴,Brachydios Greaves,mh4g-core-common-game-array+mh4g-dex-build7+mh4edit-mit-save-id,3,0
+126,碎龙轻靴,Brachydios Leggings,mh4g-core-common-game-array+mh4g-dex-build7+mh4edit-mit-save-id,3,0
+127,碎龙重靴Ｓ,Brachydios Greaves S,mh4g-core-common-game-array+mh4g-dex-build7+mh4edit-mit-save-id,6,0
+128,碎龙轻靴Ｓ,Brachy Leggings S,mh4g-core-common-game-array+mh4g-dex-build7+mh4edit-mit-save-id,6,0
+129,霸龙重靴,Akantor Hessian,mh4g-core-common-game-array+mh4g-dex-build7+mh4edit-mit-save-id,7,0
+130,霸龙轻靴,Akantor Boots,mh4g-core-common-game-array+mh4g-dex-build7+mh4edit-mit-save-id,7,0
+131,霸龙重靴,Akantor Hessian,mh4g-core-common-game-array+mh4g-dex-build7+mh4edit-mit-save-id,7,0
+132,霸龙轻靴,Akantor Boots,mh4g-core-common-game-array+mh4g-dex-build7+mh4edit-mit-save-id,7,0
+133,雷狼龙重靴,Zinogre Greaves,mh4g-core-common-game-array+mh4g-dex-build7+mh4edit-mit-save-id,3,0
+134,雷狼龙轻靴,Zinogre Leggings,mh4g-core-common-game-array+mh4g-dex-build7+mh4edit-mit-save-id,3,0
+135,雷狼龙重靴Ｓ,Zinogre Greaves S,mh4g-core-common-game-array+mh4g-dex-build7+mh4edit-mit-save-id,5,0
+136,雷狼龙轻靴Ｓ,Zinogre Leggings S,mh4g-core-common-game-array+mh4g-dex-build7+mh4edit-mit-save-id,5,0
+137,雷狼龙重靴Ｕ,Zinogre Greaves U,mh4g-core-common-game-array+mh4g-dex-build7+mh4edit-mit-save-id,6,0
+138,雷狼龙轻靴Ｕ,Zinogre Leggings U,mh4g-core-common-game-array+mh4g-dex-build7+mh4edit-mit-save-id,6,0
+139,雷狼龙重靴Ｕ,Zinogre Greaves U,mh4g-core-common-game-array+mh4g-dex-build7+mh4edit-mit-save-id,6,0
+140,雷狼龙轻靴Ｕ,Zinogre Leggings U,mh4g-core-common-game-array+mh4g-dex-build7+mh4edit-mit-save-id,6,0
+141,EX炎王重靴,EX Kaiser Greaves,mh4g-core-common-game-array+mh4g-dex-build7+mh4edit-mit-save-id,7,0
+142,EX炎王轻靴,EX Kaiser Leggings,mh4g-core-common-game-array+mh4g-dex-build7+mh4edit-mit-save-id,7,0
+143,奇猿狐重靴,Kecha Greaves,mh4g-core-common-game-array+mh4g-dex-build7+mh4edit-mit-save-id,2,0
+144,奇猿狐轻靴,Kecha Leggings,mh4g-core-common-game-array+mh4g-dex-build7+mh4edit-mit-save-id,2,0
+145,奇猿狐重靴Ｓ,Kecha Greaves S,mh4g-core-common-game-array+mh4g-dex-build7+mh4edit-mit-save-id,4,0
+146,奇猿狐轻靴Ｓ,Kecha Leggings S,mh4g-core-common-game-array+mh4g-dex-build7+mh4edit-mit-save-id,4,0
+147,黑蚀龙重靴,Gore Greaves,mh4g-core-common-game-array+mh4g-dex-build7+mh4edit-mit-save-id,3,0
+148,黑蚀龙轻靴,Gore Leggings,mh4g-core-common-game-array+mh4g-dex-build7+mh4edit-mit-save-id,3,0
+149,黑蚀龙重靴Ｓ,Gore Greaves S,mh4g-core-common-game-array+mh4g-dex-build7+mh4edit-mit-save-id,6,0
+150,黑蚀龙轻靴Ｓ,Gore Leggings S,mh4g-core-common-game-array+mh4g-dex-build7+mh4edit-mit-save-id,6,0
+151,黑蚀龙重靴,Gore Greaves,mh4g-core-common-game-array+mh4g-dex-build7+mh4edit-mit-save-id,3,0
+152,黑蚀龙轻靴,Gore Leggings,mh4g-core-common-game-array+mh4g-dex-build7+mh4edit-mit-save-id,3,0
+153,鬼蛙重靴,Tetsucabra Greaves,mh4g-core-common-game-array+mh4g-dex-build7+mh4edit-mit-save-id,2,0
+154,鬼蛙轻靴,Tetsucabra Leggings,mh4g-core-common-game-array+mh4g-dex-build7+mh4edit-mit-save-id,2,0
+155,鬼蛙重靴Ｓ,Tetsucabra Greaves S,mh4g-core-common-game-array+mh4g-dex-build7+mh4edit-mit-save-id,5,0
+156,鬼蛙轻靴Ｓ,Tetsucabra Leggings S,mh4g-core-common-game-array+mh4g-dex-build7+mh4edit-mit-save-id,5,0
+157,影蜘蛛重靴,Nerscylla Greaves,mh4g-core-common-game-array+mh4g-dex-build7+mh4edit-mit-save-id,2,0
+158,影蜘蛛轻靴,Nerscylla Leggings,mh4g-core-common-game-array+mh4g-dex-build7+mh4edit-mit-save-id,2,0
+159,影蜘蛛重靴Ｓ,Nerscylla Greaves S,mh4g-core-common-game-array+mh4g-dex-build7+mh4edit-mit-save-id,5,0
+160,影蜘蛛轻靴Ｓ,Nerscylla Leggings S,mh4g-core-common-game-array+mh4g-dex-build7+mh4edit-mit-save-id,5,0
+161,绞蛇龙重靴,Najarala Greaves,mh4g-core-common-game-array+mh4g-dex-build7+mh4edit-mit-save-id,2,0
+162,绞蛇龙轻靴,Najarala Leggings,mh4g-core-common-game-array+mh4g-dex-build7+mh4edit-mit-save-id,2,0
+163,绞蛇龙重靴Ｓ,Najarala Greaves S,mh4g-core-common-game-array+mh4g-dex-build7+mh4edit-mit-save-id,5,0
+164,绞蛇龙轻靴Ｓ,Najarala Leggings S,mh4g-core-common-game-array+mh4g-dex-build7+mh4edit-mit-save-id,5,0
+165,黑狼鸟重靴,Garuga Greaves,mh4g-core-common-game-array+mh4g-dex-build7+mh4edit-mit-save-id,3,0
+166,黑狼鸟轻靴,Garuga Leggings,mh4g-core-common-game-array+mh4g-dex-build7+mh4edit-mit-save-id,3,0
+167,黑狼鸟重靴Ｓ,Garuga Greaves S,mh4g-core-common-game-array+mh4g-dex-build7+mh4edit-mit-save-id,5,0
+168,黑狼鸟轻靴Ｓ,Garuga Leggings S,mh4g-core-common-game-array+mh4g-dex-build7+mh4edit-mit-save-id,5,0
+169,岩龙重靴,Basarios Greaves,mh4g-core-common-game-array+mh4g-dex-build7+mh4edit-mit-save-id,2,0
+170,岩龙轻靴,Basarios Leggings,mh4g-core-common-game-array+mh4g-dex-build7+mh4edit-mit-save-id,2,0
+171,岩龙重靴Ｓ,Basarios Greaves S,mh4g-core-common-game-array+mh4g-dex-build7+mh4edit-mit-save-id,5,0
+172,岩龙轻靴Ｓ,Basarios Leggings S,mh4g-core-common-game-array+mh4g-dex-build7+mh4edit-mit-save-id,5,0
+173,岩龙重靴Ｕ,Basarios Greaves U,mh4g-core-common-game-array+mh4g-dex-build7+mh4edit-mit-save-id,6,0
+174,岩龙轻靴Ｕ,Basarios Leggings U,mh4g-core-common-game-array+mh4g-dex-build7+mh4edit-mit-save-id,6,0
+175,战斗重靴,Battle Greaves,mh4g-core-common-game-array+mh4g-dex-build7+mh4edit-mit-save-id,2,0
+176,战斗轻靴,Battle Leggings,mh4g-core-common-game-array+mh4g-dex-build7+mh4edit-mit-save-id,2,0
+177,蓝速龙重靴,Velociprey Greaves,mh4g-core-common-game-array+mh4g-dex-build7+mh4edit-mit-save-id,2,0
+178,蓝速龙轻靴,Velociprey Leggings,mh4g-core-common-game-array+mh4g-dex-build7+mh4edit-mit-save-id,2,0
+179,蓝速龙重靴Ｓ,Velociprey Greaves S,mh4g-core-common-game-array+mh4g-dex-build7+mh4edit-mit-save-id,4,0
+180,蓝速龙轻靴Ｓ,Velociprey Leggings S,mh4g-core-common-game-array+mh4g-dex-build7+mh4edit-mit-save-id,4,0
+181,黄速龙重靴,Genprey Greaves,mh4g-core-common-game-array+mh4g-dex-build7+mh4edit-mit-save-id,2,0
+182,黄速龙轻靴,Genprey Leggings,mh4g-core-common-game-array+mh4g-dex-build7+mh4edit-mit-save-id,2,0
+183,黄速龙重靴Ｓ,Genprey Greaves S,mh4g-core-common-game-array+mh4g-dex-build7+mh4edit-mit-save-id,4,0
+184,黄速龙轻靴Ｓ,Genprey Leggings S,mh4g-core-common-game-array+mh4g-dex-build7+mh4edit-mit-save-id,4,0
+185,红速龙重靴,Ioprey Greaves,mh4g-core-common-game-array+mh4g-dex-build7+mh4edit-mit-save-id,2,0
+186,红速龙轻靴,Ioprey Leggings,mh4g-core-common-game-array+mh4g-dex-build7+mh4edit-mit-save-id,2,0
+187,红速龙重靴Ｓ,Ioprey Greaves S,mh4g-core-common-game-array+mh4g-dex-build7+mh4edit-mit-save-id,4,0
+188,红速龙轻靴Ｓ,Ioprey Leggings S,mh4g-core-common-game-array+mh4g-dex-build7+mh4edit-mit-save-id,4,0
+189,大怪鸟重靴,Kut-Ku Greaves,mh4g-core-common-game-array+mh4g-dex-build7+mh4edit-mit-save-id,2,0
+190,大怪鸟轻靴,Kut-Ku Leggings,mh4g-core-common-game-array+mh4g-dex-build7+mh4edit-mit-save-id,2,0
+191,大怪鸟重靴Ｓ,Kut-Ku Greaves S,mh4g-core-common-game-array+mh4g-dex-build7+mh4edit-mit-save-id,4,0
+192,大怪鸟轻靴Ｓ,Kut-Ku Leggings S,mh4g-core-common-game-array+mh4g-dex-build7+mh4edit-mit-save-id,4,0
+193,大怪鸟重靴Ｕ,Kut-Ku Greaves U,mh4g-core-common-game-array+mh4g-dex-build7+mh4edit-mit-save-id,5,0
+194,大怪鸟轻靴Ｕ,Kut-Ku Leggings U,mh4g-core-common-game-array+mh4g-dex-build7+mh4edit-mit-save-id,5,0
+195,毒怪鸟重靴,Gypceros Greaves,mh4g-core-common-game-array+mh4g-dex-build7+mh4edit-mit-save-id,2,0
+196,毒怪鸟轻靴,Gypceros Leggings,mh4g-core-common-game-array+mh4g-dex-build7+mh4edit-mit-save-id,2,0
+197,毒怪鸟重靴Ｓ,Gypceros Greaves S,mh4g-core-common-game-array+mh4g-dex-build7+mh4edit-mit-save-id,5,0
+198,毒怪鸟轻靴Ｓ,Gypceros Leggings S,mh4g-core-common-game-array+mh4g-dex-build7+mh4edit-mit-save-id,5,0
+199,毒怪鸟重靴Ｕ,Gypceros Greaves U,mh4g-core-common-game-array+mh4g-dex-build7+mh4edit-mit-save-id,6,0
+200,毒怪鸟轻靴Ｕ,Gypceros Leggings U,mh4g-core-common-game-array+mh4g-dex-build7+mh4edit-mit-save-id,6,0
+201,毒怪鸟重靴,Gypceros Greaves,mh4g-core-common-game-array+mh4g-dex-build7+mh4edit-mit-save-id,2,0
+202,毒怪鸟轻靴,Gypceros Leggings,mh4g-core-common-game-array+mh4g-dex-build7+mh4edit-mit-save-id,2,0
+203,毒怪鸟重靴Ｕ,Gypceros Greaves U,mh4g-core-common-game-array+mh4g-dex-build7+mh4edit-mit-save-id,6,0
+204,毒怪鸟轻靴Ｕ,Gypceros Leggings U,mh4g-core-common-game-array+mh4g-dex-build7+mh4edit-mit-save-id,6,0
+205,桃毛兽重靴,Conga Greaves,mh4g-core-common-game-array+mh4g-dex-build7+mh4edit-mit-save-id,2,0
+206,桃毛兽轻靴,Conga Leggings,mh4g-core-common-game-array+mh4g-dex-build7+mh4edit-mit-save-id,2,0
+207,桃毛兽重靴Ｓ,Conga Greaves S,mh4g-core-common-game-array+mh4g-dex-build7+mh4edit-mit-save-id,4,0
+208,桃毛兽轻靴Ｓ,Conga Leggings S,mh4g-core-common-game-array+mh4g-dex-build7+mh4edit-mit-save-id,4,0
+209,桃毛兽重靴Ｕ,Conga Greaves U,mh4g-core-common-game-array+mh4g-dex-build7+mh4edit-mit-save-id,5,0
+210,桃毛兽轻靴Ｕ,Conga Leggings U,mh4g-core-common-game-array+mh4g-dex-build7+mh4edit-mit-save-id,5,0
+211,铠龙重靴,Gravios Greaves,mh4g-core-common-game-array+mh4g-dex-build7+mh4edit-mit-save-id,3,0
+212,铠龙轻靴,Gravios Leggings,mh4g-core-common-game-array+mh4g-dex-build7+mh4edit-mit-save-id,3,0
+213,铠龙重靴Ｓ,Gravios Greaves S,mh4g-core-common-game-array+mh4g-dex-build7+mh4edit-mit-save-id,5,0
+214,铠龙轻靴Ｓ,Gravios Leggings S,mh4g-core-common-game-array+mh4g-dex-build7+mh4edit-mit-save-id,5,0
+215,铠龙重靴Ｕ,Gravios Greaves U,mh4g-core-common-game-array+mh4g-dex-build7+mh4edit-mit-save-id,6,0
+216,铠龙轻靴Ｕ,Gravios Leggings U,mh4g-core-common-game-array+mh4g-dex-build7+mh4edit-mit-save-id,6,0
+217,电龙重靴,Khezu Greaves,mh4g-core-common-game-array+mh4g-dex-build7+mh4edit-mit-save-id,2,0
+218,电龙轻靴,Khezu Leggings,mh4g-core-common-game-array+mh4g-dex-build7+mh4edit-mit-save-id,2,0
+219,电龙重靴Ｓ,Khezu Greaves S,mh4g-core-common-game-array+mh4g-dex-build7+mh4edit-mit-save-id,5,0
+220,电龙轻靴Ｓ,Khezu Leggings S,mh4g-core-common-game-array+mh4g-dex-build7+mh4edit-mit-save-id,5,0
+221,电龙重靴Ｕ,Khezu Greaves U,mh4g-core-common-game-array+mh4g-dex-build7+mh4edit-mit-save-id,6,0
+222,电龙轻靴Ｕ,Khezu Leggings U,mh4g-core-common-game-array+mh4g-dex-build7+mh4edit-mit-save-id,6,0
+223,电龙重靴,Khezu Greaves,mh4g-core-common-game-array+mh4g-dex-build7+mh4edit-mit-save-id,2,0
+224,电龙轻靴,Khezu Leggings,mh4g-core-common-game-array+mh4g-dex-build7+mh4edit-mit-save-id,2,0
+225,电龙重靴Ｕ,Khezu Greaves U,mh4g-core-common-game-array+mh4g-dex-build7+mh4edit-mit-save-id,6,0
+226,电龙轻靴Ｕ,Khezu Leggings U,mh4g-core-common-game-array+mh4g-dex-build7+mh4edit-mit-save-id,6,0
+227,麒麟护腿,Kirin Leg Guards,mh4g-core-common-game-array+mh4g-dex-build7+mh4edit-mit-save-id,3,0
+228,麒麟鞋,Kirin Boots,mh4g-core-common-game-array+mh4g-dex-build7+mh4edit-mit-save-id,3,0
+229,麒麟护腿Ｓ,Kirin Leg Guards S,mh4g-core-common-game-array+mh4g-dex-build7+mh4edit-mit-save-id,6,0
+230,麒麟鞋Ｓ,Kirin Boots S,mh4g-core-common-game-array+mh4g-dex-build7+mh4edit-mit-save-id,6,0
+231,麒麟护腿Ｕ,Kirin Leg Guards U,mh4g-core-common-game-array+mh4g-dex-build7+mh4edit-mit-save-id,7,0
+232,麒麟鞋Ｕ,Kirin Boots U,mh4g-core-common-game-array+mh4g-dex-build7+mh4edit-mit-save-id,7,0
+233,麒麟护腿,Kirin Leg Guards,mh4g-core-common-game-array+mh4g-dex-build7+mh4edit-mit-save-id,3,0
+234,麒麟鞋,Kirin Boots,mh4g-core-common-game-array+mh4g-dex-build7+mh4edit-mit-save-id,3,0
+235,麒麟护腿Ｕ,Kirin Leg Guards U,mh4g-core-common-game-array+mh4g-dex-build7+mh4edit-mit-save-id,7,0
+236,麒麟鞋Ｕ,Kirin Boots U,mh4g-core-common-game-array+mh4g-dex-build7+mh4edit-mit-save-id,7,0
+237,钢龙重靴,Kushala Crus,mh4g-core-common-game-array+mh4g-dex-build7+mh4edit-mit-save-id,7,0
+238,钢龙轻靴,Kushala Shank,mh4g-core-common-game-array+mh4g-dex-build7+mh4edit-mit-save-id,7,0
+239,EX钢龙重靴,EX Kushala Crus,mh4g-core-common-game-array+mh4g-dex-build7+mh4edit-mit-save-id,7,0
+240,EX钢龙轻靴,EX Kushala Shank,mh4g-core-common-game-array+mh4g-dex-build7+mh4edit-mit-save-id,7,0
+241,钢龙重靴,Kushala Crus,mh4g-core-common-game-array+mh4g-dex-build7+mh4edit-mit-save-id,7,0
+242,钢龙轻靴,Kushala Shank,mh4g-core-common-game-array+mh4g-dex-build7+mh4edit-mit-save-id,7,0
+243,女帝重靴,Empress Greaves,mh4g-core-common-game-array+mh4g-dex-build7+mh4edit-mit-save-id,7,0
+244,女帝轻靴,Empress Leggings,mh4g-core-common-game-array+mh4g-dex-build7+mh4edit-mit-save-id,7,0
+245,镰蟹重靴,Ceanataur Greaves,mh4g-core-common-game-array+mh4g-dex-build7+mh4edit-mit-save-id,2,0
+246,镰蟹轻靴,Ceanataur Leggings,mh4g-core-common-game-array+mh4g-dex-build7+mh4edit-mit-save-id,2,0
+247,镰蟹重靴,Ceanataur Greaves,mh4g-core-common-game-array+mh4g-dex-build7+mh4edit-mit-save-id,2,0
+248,镰蟹轻靴,Ceanataur Leggings,mh4g-core-common-game-array+mh4g-dex-build7+mh4edit-mit-save-id,2,0
+249,晓丸【具足】,Auroros Pants,mh4g-core-common-game-array+mh4g-dex-build7+mh4edit-mit-save-id,3,0
+250,凛【袴】,Borealis Hakama,mh4g-core-common-game-array+mh4g-dex-build7+mh4edit-mit-save-id,3,0
+251,曙丸【具足】,Genesis Pants,mh4g-core-common-game-array+mh4g-dex-build7+mh4edit-mit-save-id,3,0
+252,艳【袴】,Glyph Hakama,mh4g-core-common-game-array+mh4g-dex-build7+mh4edit-mit-save-id,3,0
+253,晓丸【具足】,Auroros Pants,mh4g-core-common-game-array+mh4g-dex-build7+mh4edit-mit-save-id,3,0
+254,凛【袴】,Borealis Hakama,mh4g-core-common-game-array+mh4g-dex-build7+mh4edit-mit-save-id,3,0
+255,曙丸【具足】,Genesis Pants,mh4g-core-common-game-array+mh4g-dex-build7+mh4edit-mit-save-id,3,0
+256,艳【袴】,Glyph Hakama,mh4g-core-common-game-array+mh4g-dex-build7+mh4edit-mit-save-id,3,0
+257,海龙重靴,Lava Greaves,mh4g-core-common-game-array+mh4g-dex-build7+mh4edit-mit-save-id,3,0
+258,海龙轻靴,Lava Leggings,mh4g-core-common-game-array+mh4g-dex-build7+mh4edit-mit-save-id,3,0
+259,翼蛇龙之脚,Remobra Feet,mh4g-core-common-game-array+mh4g-dex-build7+mh4edit-mit-save-id,2,0
+260,翼蛇龙之腿,Remobra Tights,mh4g-core-common-game-array+mh4g-dex-build7+mh4edit-mit-save-id,2,0
+261,翼蛇龙之脚Ｓ,Remobra Feet S,mh4g-core-common-game-array+mh4g-dex-build7+mh4edit-mit-save-id,4,0
+262,翼蛇龙之腿Ｓ,Remobra Tights S,mh4g-core-common-game-array+mh4g-dex-build7+mh4edit-mit-save-id,4,0
+263,鬼鲛重靴,Zamtrios Greaves,mh4g-core-common-game-array+mh4g-dex-build7+mh4edit-mit-save-id,2,0
+264,鬼鲛轻靴,Zamtrios Leggings,mh4g-core-common-game-array+mh4g-dex-build7+mh4edit-mit-save-id,2,0
+265,鬼鲛重靴Ｓ,Zamtrios Greaves S,mh4g-core-common-game-array+mh4g-dex-build7+mh4edit-mit-save-id,5,0
+266,鬼鲛轻靴Ｓ,Zamtrios Leggings S,mh4g-core-common-game-array+mh4g-dex-build7+mh4edit-mit-save-id,5,0
+267,甲虫重靴,Seltas Greaves,mh4g-core-common-game-array+mh4g-dex-build7+mh4edit-mit-save-id,3,0
+268,甲虫轻靴,Seltas Leggings,mh4g-core-common-game-array+mh4g-dex-build7+mh4edit-mit-save-id,3,0
+269,甲虫重靴Ｓ,Seltas Greaves S,mh4g-core-common-game-array+mh4g-dex-build7+mh4edit-mit-save-id,5,0
+270,甲虫轻靴Ｓ,Seltas Leggings S,mh4g-core-common-game-array+mh4g-dex-build7+mh4edit-mit-save-id,5,0
+271,方舟重靴,Arc Greaves,mh4g-core-common-game-array+mh4g-dex-build7+mh4edit-mit-save-id,3,0
+272,方舟轻靴,Arc Leggings,mh4g-core-common-game-array+mh4g-dex-build7+mh4edit-mit-save-id,3,0
+273,方舟重靴Ｓ,Arc Greaves S,mh4g-core-common-game-array+mh4g-dex-build7+mh4edit-mit-save-id,7,0
+274,方舟轻靴Ｓ,Arc Leggings S,mh4g-core-common-game-array+mh4g-dex-build7+mh4edit-mit-save-id,7,0
+275,方舟重靴,Arc Greaves,mh4g-core-common-game-array+mh4g-dex-build7+mh4edit-mit-save-id,3,0
+276,方舟轻靴,Arc Leggings,mh4g-core-common-game-array+mh4g-dex-build7+mh4edit-mit-save-id,3,0
+277,炎王重靴,Kaiser Greaves,mh4g-core-common-game-array+mh4g-dex-build7+mh4edit-mit-save-id,7,0
+278,炎王轻靴,Kaiser Leggings,mh4g-core-common-game-array+mh4g-dex-build7+mh4edit-mit-save-id,7,0
+279,金色之袴,Golden Hakama,mh4g-core-common-game-array+mh4g-dex-build7+mh4edit-mit-save-id,7,0
+280,黑子之足袋,Puppeteer Tabi,mh4g-core-common-game-array+mh4g-dex-build7+mh4edit-mit-save-id,7,0
+281,怒天之袴,Divine Ire Hakama,mh4g-core-common-game-array+mh4g-dex-build7+mh4edit-mit-save-id,7,0
+282,心灭之足袋,Mind Crusher Tabi,mh4g-core-common-game-array+mh4g-dex-build7+mh4edit-mit-save-id,7,0
+283,反逆重靴,Rebellion Greaves,mh4g-core-common-game-array+mh4g-dex-build7+mh4edit-mit-save-id,7,0
+284,暴动轻靴,Riot Leggings,mh4g-core-common-game-array+mh4g-dex-build7+mh4edit-mit-save-id,7,0
+285,反逆重靴,Rebellion Greaves,mh4g-core-common-game-array+mh4g-dex-build7+mh4edit-mit-save-id,7,0
+286,暴动轻靴,Riot Leggings,mh4g-core-common-game-array+mh4g-dex-build7+mh4edit-mit-save-id,7,0
+287,龙脚Ｘ,Dragonfeet X,mh4g-core-common-game-array+mh4g-dex-build7+mh4edit-mit-save-id,10,0
+288,龙腿Ｘ,Dragonlegs X,mh4g-core-common-game-array+mh4g-dex-build7+mh4edit-mit-save-id,10,0
+289,龙脚,Dragonfeet,mh4g-core-common-game-array+mh4g-dex-build7+mh4edit-mit-save-id,7,0
+290,龙腿,Dragonlegs,mh4g-core-common-game-array+mh4g-dex-build7+mh4edit-mit-save-id,7,0
+291,黑龙脚,Fatalis Crimsonfeet,mh4g-core-common-game-array+mh4g-dex-build7+mh4edit-mit-save-id,7,0
+292,黑龙腿,Fatalis Crimsonlegs,mh4g-core-common-game-array+mh4g-dex-build7+mh4edit-mit-save-id,7,0
+293,红速龙之脚,Ioprey Feet,mh4g-core-common-game-array+mh4g-dex-build7+mh4edit-mit-save-id,5,0
+294,红速龙之腿,Ioprey Tights,mh4g-core-common-game-array+mh4g-dex-build7+mh4edit-mit-save-id,5,0
+295,沙龙重靴,Cephalos Greaves,mh4g-core-common-game-array+mh4g-dex-build7+mh4edit-mit-save-id,4,0
+296,沙龙轻靴,Cephalos Leggings,mh4g-core-common-game-array+mh4g-dex-build7+mh4edit-mit-save-id,4,0
+297,三叶【具足】,Mizuha Leg Wrap,mh4g-core-common-game-array+mh4g-dex-build7+mh4edit-mit-save-id,7,0
+298,丰玉【具足】,Cham Trousers,mh4g-core-common-game-array+mh4g-dex-build7+mh4edit-mit-save-id,7,0
+299,盾蟹重靴,Hermitaur Greaves,mh4g-core-common-game-array+mh4g-dex-build7+mh4edit-mit-save-id,4,0
+300,盾蟹轻靴,Hermitaur Leggings,mh4g-core-common-game-array+mh4g-dex-build7+mh4edit-mit-save-id,4,0
+301,盾蟹重靴,Hermitaur Greaves,mh4g-core-common-game-array+mh4g-dex-build7+mh4edit-mit-save-id,4,0
+302,盾蟹轻靴,Hermitaur Leggings,mh4g-core-common-game-array+mh4g-dex-build7+mh4edit-mit-save-id,4,0
+303,飞甲虫重靴,Vespoid Greaves,mh4g-core-common-game-array+mh4g-dex-build7+mh4edit-mit-save-id,4,0
+304,飞甲虫轻靴,Vespoid Leggings,mh4g-core-common-game-array+mh4g-dex-build7+mh4edit-mit-save-id,4,0
+305,彩鸟重靴,Qurupeco Greaves,mh4g-core-common-game-array+mh4g-dex-build7+mh4edit-mit-save-id,4,0
+306,彩鸟轻靴,Qurupeco Leggings,mh4g-core-common-game-array+mh4g-dex-build7+mh4edit-mit-save-id,4,0
+307,炎戈龙重靴,Agnaktor Greaves,mh4g-core-common-game-array+mh4g-dex-build7+mh4edit-mit-save-id,6,0
+308,炎戈龙轻靴,Agnaktor Leggings,mh4g-core-common-game-array+mh4g-dex-build7+mh4edit-mit-save-id,6,0
+309,冰牙龙重靴,Barioth Greaves,mh4g-core-common-game-array+mh4g-dex-build7+mh4edit-mit-save-id,5,0
+310,冰牙龙轻靴,Barioth Leggings,mh4g-core-common-game-array+mh4g-dex-build7+mh4edit-mit-save-id,5,0
+311,赤甲兽重靴,Volvidon Greaves,mh4g-core-common-game-array+mh4g-dex-build7+mh4edit-mit-save-id,4,0
+312,赤甲兽轻靴,Volvidon Leggings,mh4g-core-common-game-array+mh4g-dex-build7+mh4edit-mit-save-id,4,0
+313,海龙重靴,Lagiacrus Greaves,mh4g-core-common-game-array+mh4g-dex-build7+mh4edit-mit-save-id,6,0
+314,海龙轻靴,Lagiacrus Leggings,mh4g-core-common-game-array+mh4g-dex-build7+mh4edit-mit-save-id,6,0
+315,海龙重靴,Lagiacrus Greaves,mh4g-core-common-game-array+mh4g-dex-build7+mh4edit-mit-save-id,6,0
+316,海龙轻靴,Lagiacrus Leggings,mh4g-core-common-game-array+mh4g-dex-build7+mh4edit-mit-save-id,6,0
+317,大海龙重靴,Helios Greaves,mh4g-core-common-game-array+mh4g-dex-build7+mh4edit-mit-save-id,7,0
+318,大海龙轻靴,Helios Leggings,mh4g-core-common-game-array+mh4g-dex-build7+mh4edit-mit-save-id,7,0
+319,大海龙重靴,Selene Greaves,mh4g-core-common-game-array+mh4g-dex-build7+mh4edit-mit-save-id,7,0
+320,大海龙轻靴,Selene Leggings,mh4g-core-common-game-array+mh4g-dex-build7+mh4edit-mit-save-id,7,0
+321,灯鱼龙重靴,Gobul Greaves,mh4g-core-common-game-array+mh4g-dex-build7+mh4edit-mit-save-id,5,0
+322,灯鱼龙轻靴,Gobul Leggings,mh4g-core-common-game-array+mh4g-dex-build7+mh4edit-mit-save-id,5,0
+323,大和【具足】,Yamato Gusoku,mh4g-core-common-game-array+mh4g-dex-build7+mh4edit-mit-save-id,7,0
+324,日向【袴】,Hyuga Hakama,mh4g-core-common-game-array+mh4g-dex-build7+mh4edit-mit-save-id,7,0
+325,陆奥【具足】,Mutsu Gusoku,mh4g-core-common-game-array+mh4g-dex-build7+mh4edit-mit-save-id,7,0
+326,天城【袴】,Amagi Hakama,mh4g-core-common-game-array+mh4g-dex-build7+mh4edit-mit-save-id,7,0
+327,煌黑龙之骨,Escadora Sheath,mh4g-core-common-game-array+mh4g-dex-build7+mh4edit-mit-save-id,7,0
+328,煌黑龙之足,Escadora Scala,mh4g-core-common-game-array+mh4g-dex-build7+mh4edit-mit-save-id,7,0
+329,煌黑龙之骨,Escadora Sheath,mh4g-core-common-game-array+mh4g-dex-build7+mh4edit-mit-save-id,7,0
+330,煌黑龙之足,Escadora Scala,mh4g-core-common-game-array+mh4g-dex-build7+mh4edit-mit-save-id,7,0
+331,雪狮子重靴,Blango Greaves,mh4g-core-common-game-array+mh4g-dex-build7+mh4edit-mit-save-id,5,0
+332,雪狮子轻靴,Blango Leggings,mh4g-core-common-game-array+mh4g-dex-build7+mh4edit-mit-save-id,5,0
+333,龙虾王重靴,Lobster Greaves,mh4g-core-common-game-array+mh4g-dex-build7+mh4edit-mit-save-id,4,0
+334,龙虾王轻靴,Lobster Leggings,mh4g-core-common-game-array+mh4g-dex-build7+mh4edit-mit-save-id,4,0
+335,崩龙重靴,Ukanlos Hessian,mh4g-core-common-game-array+mh4g-dex-build7+mh4edit-mit-save-id,7,0
+336,崩龙轻靴,Ukanlos Boots,mh4g-core-common-game-array+mh4g-dex-build7+mh4edit-mit-save-id,7,0
+337,金刚【具足】,Indra Leggings,mh4g-core-common-game-array+mh4g-dex-build7+mh4edit-mit-save-id,7,0
+338,不动【具足】,Steadfast Boots,mh4g-core-common-game-array+mh4g-dex-build7+mh4edit-mit-save-id,7,0
+339,夜叉【御足】,Yaksha Boots,mh4g-core-common-game-array+mh4g-dex-build7+mh4edit-mit-save-id,7,0
+340,修罗【御足】,Carnage Boots,mh4g-core-common-game-array+mh4g-dex-build7+mh4edit-mit-save-id,7,0
+341,强金属之靴,Chrome Metal Boots,mh4g-core-common-game-array+mh4g-dex-build7+mh4edit-mit-save-id,4,0
+342,强金属之鞋,Chrome Metal Feet,mh4g-core-common-game-array+mh4g-dex-build7+mh4edit-mit-save-id,4,0
+343,神秘重靴,Artian Greaves,mh4g-core-common-game-array+mh4g-dex-build7+mh4edit-mit-save-id,3,0
+344,神秘轻靴,Artian Leggings,mh4g-core-common-game-array+mh4g-dex-build7+mh4edit-mit-save-id,3,0
+345,神秘重靴Ｓ,Artian Greaves S,mh4g-core-common-game-array+mh4g-dex-build7+mh4edit-mit-save-id,5,0
+346,神秘轻靴Ｓ,Artian Leggings S,mh4g-core-common-game-array+mh4g-dex-build7+mh4edit-mit-save-id,5,0
+347,神秘重靴Ｓ,Artian Greaves S,mh4g-core-common-game-array+mh4g-dex-build7+mh4edit-mit-save-id,5,0
+348,神秘轻靴Ｓ,Artian Leggings S,mh4g-core-common-game-array+mh4g-dex-build7+mh4edit-mit-save-id,5,0
+349,远古龙重靴,Dober Greaves,mh4g-core-common-game-array+mh4g-dex-build7+mh4edit-mit-save-id,6,0
+350,远古龙轻靴,Dober Leggings,mh4g-core-common-game-array+mh4g-dex-build7+mh4edit-mit-save-id,6,0
+351,高合金重靴,Ingot Greaves,mh4g-core-common-game-array+mh4g-dex-build7+mh4edit-mit-save-id,3,0
+352,高合金轻靴,Ingot Leggings,mh4g-core-common-game-array+mh4g-dex-build7+mh4edit-mit-save-id,3,0
+353,高合金重靴,Ingot Greaves,mh4g-core-common-game-array+mh4g-dex-build7+mh4edit-mit-save-id,3,0
+354,高合金轻靴,Ingot Leggings,mh4g-core-common-game-array+mh4g-dex-build7+mh4edit-mit-save-id,3,0
+355,锹虫重靴,Aelucanth Crura,mh4g-core-common-game-array+mh4g-dex-build7+mh4edit-mit-save-id,4,0
+356,飞虫重靴,Rhopessa Crura,mh4g-core-common-game-array+mh4g-dex-build7+mh4edit-mit-save-id,4,0
+357,锹虫轻靴,Aelucanth Tarsi,mh4g-core-common-game-array+mh4g-dex-build7+mh4edit-mit-save-id,4,0
+358,飞虫轻靴,Rhopessa Tarsi,mh4g-core-common-game-array+mh4g-dex-build7+mh4edit-mit-save-id,4,0
+359,奥比特护膝,Obituary Crura,mh4g-core-common-game-array+mh4g-dex-build7+mh4edit-mit-save-id,5,0
+360,帕比梅尔护膝,Butterfly Crura,mh4g-core-common-game-array+mh4g-dex-build7+mh4edit-mit-save-id,5,0
+361,奥比特之靴,Obituary Tarsi,mh4g-core-common-game-array+mh4g-dex-build7+mh4edit-mit-save-id,5,0
+362,帕比梅尔之靴,Butterfly Tarsi,mh4g-core-common-game-array+mh4g-dex-build7+mh4edit-mit-save-id,5,0
+363,南瓜重足,Mosgharl Roots,mh4g-core-common-game-array+mh4g-dex-build7+mh4edit-mit-save-id,4,0
+364,南瓜轻足,Mosgharl Radicles,mh4g-core-common-game-array+mh4g-dex-build7+mh4edit-mit-save-id,4,0
+365,公会精英之靴,Guild Bard Boots,mh4g-core-common-game-array+mh4g-dex-build7+mh4edit-mit-save-id,4,0
+366,店员短袜,Scholar's Socks,mh4g-core-common-game-array+mh4g-dex-build7+mh4edit-mit-save-id,4,0
+367,公会精英之足,Guild Bard Gaiters,mh4g-core-common-game-array+mh4g-dex-build7+mh4edit-mit-save-id,4,0
+368,店员凉鞋,Scholar's Sandals,mh4g-core-common-game-array+mh4g-dex-build7+mh4edit-mit-save-id,4,0
+369,黑带重靴,Black Belt Greaves,mh4g-core-common-game-array+mh4g-dex-build7+mh4edit-mit-save-id,6,0
+370,黑带轻靴,Black Belt Leggings,mh4g-core-common-game-array+mh4g-dex-build7+mh4edit-mit-save-id,6,0
+371,守护者之靴,Guardian Boots,mh4g-core-common-game-array+mh4g-dex-build7+mh4edit-mit-save-id,4,0
+372,助手袜子,Helper Socks,mh4g-core-common-game-array+mh4g-dex-build7+mh4edit-mit-save-id,4,0
+373,守护者之鞋,Guardian Pants,mh4g-core-common-game-array+mh4g-dex-build7+mh4edit-mit-save-id,4,0
+374,助手紧身裤,Helper Tights,mh4g-core-common-game-array+mh4g-dex-build7+mh4edit-mit-save-id,4,0
+375,忍之足袋・天,Shinobi Sky Boots,mh4g-core-common-game-array+mh4g-dex-build7+mh4edit-mit-save-id,7,0
+376,忍之足袋・地,Shinobi Land Boots,mh4g-core-common-game-array+mh4g-dex-build7+mh4edit-mit-save-id,7,0
+377,公会骑士之靴,Guild Knight Boots,mh4g-core-common-game-array+mh4g-dex-build7+mh4edit-mit-save-id,6,0
+378,女仆袜,Maiden's Socks,mh4g-core-common-game-array+mh4g-dex-build7+mh4edit-mit-save-id,6,0
+379,公会骑士紧身裤,Guild Knight Tights,mh4g-core-common-game-array+mh4g-dex-build7+mh4edit-mit-save-id,6,0
+380,女仆紧身裤,Maiden's Tights,mh4g-core-common-game-array+mh4g-dex-build7+mh4edit-mit-save-id,6,0
+381,结云袴・天,Yukumo Sky Hakama,mh4g-core-common-game-array+mh4g-dex-build7+mh4edit-mit-save-id,6,0
+382,结云袴・地,Yukumo Land Hakama,mh4g-core-common-game-array+mh4g-dex-build7+mh4edit-mit-save-id,6,0
+383,高级金属重靴,High Metal Greaves,mh4g-core-common-game-array+mh4g-dex-build7+mh4edit-mit-save-id,2,0
+384,高级金属轻靴,High Metal Leggings,mh4g-core-common-game-array+mh4g-dex-build7+mh4edit-mit-save-id,2,0
+385,城塞游击队【足袋】,Ranger's Espadrilles,mh4g-core-common-game-array+mh4g-dex-build7+mh4edit-mit-save-id,6,0
+386,城塞弓击队【足袋】,Archer's Espadrilles,mh4g-core-common-game-array+mh4g-dex-build7+mh4edit-mit-save-id,6,0
+387,漆黑轻皮具足,Black Leather Chaps,mh4g-core-common-game-array+mh4g-dex-build7+mh4edit-mit-save-id,7,0
+388,漆黑轻皮具足内裤,Black Leather Pants,mh4g-core-common-game-array+mh4g-dex-build7+mh4edit-mit-save-id,7,0
+389,三眼足轮,Chakra Anklet,mh4g-core-common-game-array+mh4g-dex-build7+mh4edit-mit-save-id,5,0
+390,水手长袜,Sailor Socks,mh4g-core-common-game-array+mh4g-dex-build7+mh4edit-mit-save-id,6,0
+391,水手拖鞋,Sailor Sandals,mh4g-core-common-game-array+mh4g-dex-build7+mh4edit-mit-save-id,6,0
+392,鹰之靴,Hawkboots,mh4g-core-common-game-array+mh4g-dex-build7+mh4edit-mit-save-id,6,0
+393,战鹰之靴,Lecturer's Boots,mh4g-core-common-game-array+mh4g-dex-build7+mh4edit-mit-save-id,6,0
+394,鹰之脚,Hawkfeet,mh4g-core-common-game-array+mh4g-dex-build7+mh4edit-mit-save-id,6,0
+395,战鹰之脚,Lecturer's Footwear,mh4g-core-common-game-array+mh4g-dex-build7+mh4edit-mit-save-id,6,0
+396,蓝星之靴,Blue Star Boots,mh4g-core-common-game-array+mh4g-dex-build7+mh4edit-mit-save-id,7,0
+397,蓝星之鞋,Blue Star Footwear,mh4g-core-common-game-array+mh4g-dex-build7+mh4edit-mit-save-id,7,0
+398,Ｊ船长之靴,Greaves of Anat,mh4g-core-common-game-array+mh4g-dex-build7+mh4edit-mit-save-id,10,0
+399,Ｊ船长短裤,Leggings of Anat,mh4g-core-common-game-array+mh4g-dex-build7+mh4edit-mit-save-id,10,0
+400,优衣库短裤,Uniqlo Slacks,mh4g-core-common-game-array+mh4g-dex-build7+mh4edit-mit-save-id,7,0
+401,优衣库紧身裤,Uniqlo Tights,mh4g-core-common-game-array+mh4g-dex-build7+mh4edit-mit-save-id,7,0
+402,星光重靴,Star Rook Greaves,mh4g-core-common-game-array+mh4g-dex-build7+mh4edit-mit-save-id,7,0
+403,星光轻靴,Star Rook Leggings,mh4g-core-common-game-array+mh4g-dex-build7+mh4edit-mit-save-id,7,0
+404,星座重靴,dummy706,mh4g-core-common-game-array+mh4edit-mit-save-id,0,0
+405,星座轻靴,dummy718,mh4g-core-common-game-array+mh4edit-mit-save-id,0,0
+406,Ｊ传说之靴,dummy707,mh4g-core-common-game-array+mh4edit-mit-save-id,0,0
+407,Ｊ传说短裤,dummy719,mh4g-core-common-game-array+mh4edit-mit-save-id,0,0
+408,坊屋休闲裤,dummy709,mh4g-core-common-game-array+mh4edit-mit-save-id,0,0
+409,坊屋休闲裤,dummy721,mh4g-core-common-game-array+mh4edit-mit-save-id,0,0
+410,dummy,DUMMY,mh4g-core-common-game-array+mh4edit-mit-save-id,0,0
+411,dummy,DUMMY,mh4g-core-common-game-array+mh4edit-mit-save-id,0,0
+412,dummy,DUMMY,mh4g-core-common-game-array+mh4edit-mit-save-id,0,0
+413,dummy,DUMMY,mh4g-core-common-game-array+mh4edit-mit-save-id,0,0
+414,勇者之靴,Hero's Boots,mh4g-core-common-game-array+mh4g-dex-build7+mh4edit-mit-save-id,7,0
+415,勇者之具足,Hero's Leggings,mh4g-core-common-game-array+mh4g-dex-build7+mh4edit-mit-save-id,7,0
+416,地上最強之袴,dummy729,mh4g-core-common-game-array+mh4edit-mit-save-id,0,0
+417,地上最强之下衣,dummy730,mh4g-core-common-game-array+mh4edit-mit-save-id,0,0
+418,坊屋休闲裤,dummy731,mh4g-core-common-game-array+mh4edit-mit-save-id,0,0
+419,坊屋休闲裤,dummy732,mh4g-core-common-game-array+mh4edit-mit-save-id,0,0
+420,EX反逆重靴,EX Rebellion Greaves,mh4g-core-common-game-array+mh4g-dex-build7+mh4edit-mit-save-id,7,0
+421,EX暴动轻靴,EX Riot Leggings,mh4g-core-common-game-array+mh4g-dex-build7+mh4edit-mit-save-id,7,0
+422,EX神秘重靴,EX Artian Greaves,mh4g-core-common-game-array+mh4g-dex-build7+mh4edit-mit-save-id,7,0
+423,EX神秘轻靴,EX Artian Leggings,mh4g-core-common-game-array+mh4g-dex-build7+mh4edit-mit-save-id,7,0
+424,EX黑蚀龙重靴,EX Gore Greaves,mh4g-core-common-game-array+mh4g-dex-build7+mh4edit-mit-save-id,7,0
+425,EX黑蚀龙轻靴,EX Gore Leggings,mh4g-core-common-game-array+mh4g-dex-build7+mh4edit-mit-save-id,7,0
+426,EX高合金重靴,EX Ingot Greaves,mh4g-core-common-game-array+mh4g-dex-build7+mh4edit-mit-save-id,7,0
+427,EX高合金轻靴,EX Ingot Leggings,mh4g-core-common-game-array+mh4g-dex-build7+mh4edit-mit-save-id,7,0
+428,EX麒麟护腿Ｕ,EX Kirin Leg Guards U,mh4g-core-common-game-array+mh4g-dex-build7+mh4edit-mit-save-id,7,0
+429,EX麒麟鞋Ｕ,EX Kirin Boots U,mh4g-core-common-game-array+mh4g-dex-build7+mh4edit-mit-save-id,7,0
+430,慈爱重靴,Storge Greaves,mh4g-core-common-game-array+mh4g-dex-build7+mh4edit-mit-save-id,3,0
+431,慈爱轻靴,Storge Leggings,mh4g-core-common-game-array+mh4g-dex-build7+mh4edit-mit-save-id,3,0
+432,慈爱重靴Ｓ,Storge Greaves S,mh4g-core-common-game-array+mh4g-dex-build7+mh4edit-mit-save-id,7,0
+433,慈爱轻靴Ｓ,Storge Leggings S,mh4g-core-common-game-array+mh4g-dex-build7+mh4edit-mit-save-id,7,0
+434,慈爱重靴,Storge Greaves,mh4g-core-common-game-array+mh4g-dex-build7+mh4edit-mit-save-id,3,0
+435,慈爱轻靴,Storge Leggings,mh4g-core-common-game-array+mh4g-dex-build7+mh4edit-mit-save-id,3,0
+436,猎人重靴,Hunter's Greaves,mh4g-core-common-game-array+mh4g-dex-build7+mh4edit-mit-save-id,1,0
+437,猎人轻靴,Hunter's Leggings,mh4g-core-common-game-array+mh4g-dex-build7+mh4edit-mit-save-id,1,0
+438,合金重靴,Alloy Greaves,mh4g-core-common-game-array+mh4g-dex-build7+mh4edit-mit-save-id,1,0
+439,合金轻靴,Alloy Leggings,mh4g-core-common-game-array+mh4g-dex-build7+mh4edit-mit-save-id,1,0
+440,水兽重靴,Ludroth Greaves,mh4g-core-common-game-array+mh4g-dex-build7+mh4edit-mit-save-id,2,0
+441,水兽轻靴,Ludroth Leggings,mh4g-core-common-game-array+mh4g-dex-build7+mh4edit-mit-save-id,2,0
+442,雌火龙重靴,Rathian Greaves,mh4g-core-common-game-array+mh4g-dex-build7+mh4edit-mit-save-id,2,0
+443,雌火龙轻靴,Rathian Leggings,mh4g-core-common-game-array+mh4g-dex-build7+mh4edit-mit-save-id,2,0
+444,樱火龙重靴,Rath Heart Greaves,mh4g-core-common-game-array+mh4g-dex-build7+mh4edit-mit-save-id,6,0
+445,樱火龙轻靴,Rath Heart Leggings,mh4g-core-common-game-array+mh4g-dex-build7+mh4edit-mit-save-id,6,0
+446,雄火龙重靴,Rathalos Greaves,mh4g-core-common-game-array+mh4g-dex-build7+mh4edit-mit-save-id,3,0
+447,雄火龙轻靴,Rathalos Leggings,mh4g-core-common-game-array+mh4g-dex-build7+mh4edit-mit-save-id,3,0
+448,苍火龙重靴,Rath Soul Greaves,mh4g-core-common-game-array+mh4g-dex-build7+mh4edit-mit-save-id,6,0
+449,苍火龙轻靴,Rath Soul Leggings,mh4g-core-common-game-array+mh4g-dex-build7+mh4edit-mit-save-id,6,0
+450,银火龙重靴,Silver Solgreaves,mh4g-core-common-game-array+mh4g-dex-build7+mh4edit-mit-save-id,7,0
+451,银火龙轻靴,Silver Solleggings,mh4g-core-common-game-array+mh4g-dex-build7+mh4edit-mit-save-id,7,0
+452,残忍重靴,Esurient Greaves,mh4g-core-common-game-array+mh4g-dex-build7+mh4edit-mit-save-id,7,0
+453,残忍轻靴,Esurient Leggings,mh4g-core-common-game-array+mh4g-dex-build7+mh4edit-mit-save-id,7,0
+454,残阳【具足】,Gloaming Greaves,mh4g-core-common-game-array+mh4g-dex-build7+mh4edit-mit-save-id,3,0
+455,常盘【具足】,Adamance Pleats,mh4g-core-common-game-array+mh4g-dex-build7+mh4edit-mit-save-id,3,0
+456,东云【袴】,Dayspring Pleats,mh4g-core-common-game-array+mh4g-dex-build7+mh4edit-mit-save-id,3,0
+457,八千代【袴】,Epoch Pleats,mh4g-core-common-game-array+mh4g-dex-build7+mh4edit-mit-save-id,3,0
+458,轰龙重靴,Tigrex Greaves,mh4g-core-common-game-array+mh4g-dex-build7+mh4edit-mit-save-id,3,0
+459,轰龙轻靴,Tigrex Leggings,mh4g-core-common-game-array+mh4g-dex-build7+mh4edit-mit-save-id,3,0
+460,黑轰龙重靴Ｕ,Tigrex Greaves U,mh4g-core-common-game-array+mh4g-dex-build7+mh4edit-mit-save-id,6,0
+461,黑轰龙轻靴Ｕ,Tigrex Leggings U,mh4g-core-common-game-array+mh4g-dex-build7+mh4edit-mit-save-id,6,0
+462,霸龙重靴,Akantor Hessian,mh4g-core-common-game-array+mh4g-dex-build7+mh4edit-mit-save-id,7,0
+463,霸龙轻靴,Akantor Boots,mh4g-core-common-game-array+mh4g-dex-build7+mh4edit-mit-save-id,7,0
+464,雷狼龙重靴Ｕ,Zinogre Greaves U,mh4g-core-common-game-array+mh4g-dex-build7+mh4edit-mit-save-id,6,0
+465,雷狼龙轻靴Ｕ,Zinogre Leggings U,mh4g-core-common-game-array+mh4g-dex-build7+mh4edit-mit-save-id,6,0
+466,黑蚀龙重靴,Gore Greaves,mh4g-core-common-game-array+mh4g-dex-build7+mh4edit-mit-save-id,3,0
+467,黑蚀龙轻靴,Gore Leggings,mh4g-core-common-game-array+mh4g-dex-build7+mh4edit-mit-save-id,3,0
+468,毒怪鸟重靴,Gypceros Greaves,mh4g-core-common-game-array+mh4g-dex-build7+mh4edit-mit-save-id,2,0
+469,毒怪鸟轻靴,Gypceros Leggings,mh4g-core-common-game-array+mh4g-dex-build7+mh4edit-mit-save-id,2,0
+470,毒怪鸟重靴Ｕ,Gypceros Greaves U,mh4g-core-common-game-array+mh4g-dex-build7+mh4edit-mit-save-id,6,0
+471,毒怪鸟轻靴Ｕ,Gypceros Leggings U,mh4g-core-common-game-array+mh4g-dex-build7+mh4edit-mit-save-id,6,0
+472,电龙重靴,Khezu Greaves,mh4g-core-common-game-array+mh4g-dex-build7+mh4edit-mit-save-id,2,0
+473,电龙轻靴,Khezu Leggings,mh4g-core-common-game-array+mh4g-dex-build7+mh4edit-mit-save-id,2,0
+474,电龙重靴Ｕ,Khezu Greaves U,mh4g-core-common-game-array+mh4g-dex-build7+mh4edit-mit-save-id,6,0
+475,电龙轻靴Ｕ,Khezu Leggings U,mh4g-core-common-game-array+mh4g-dex-build7+mh4edit-mit-save-id,6,0
+476,麒麟护腿,Kirin Leg Guards,mh4g-core-common-game-array+mh4g-dex-build7+mh4edit-mit-save-id,3,0
+477,麒麟鞋,Kirin Boots,mh4g-core-common-game-array+mh4g-dex-build7+mh4edit-mit-save-id,3,0
+478,麒麟护腿Ｕ,Kirin Leg Guards U,mh4g-core-common-game-array+mh4g-dex-build7+mh4edit-mit-save-id,7,0
+479,麒麟鞋Ｕ,Kirin Boots U,mh4g-core-common-game-array+mh4g-dex-build7+mh4edit-mit-save-id,7,0
+480,钢龙重靴,Kushala Crus,mh4g-core-common-game-array+mh4g-dex-build7+mh4edit-mit-save-id,7,0
+481,钢龙轻靴,Kushala Shank,mh4g-core-common-game-array+mh4g-dex-build7+mh4edit-mit-save-id,7,0
+482,镰蟹重靴,Ceanataur Greaves,mh4g-core-common-game-array+mh4g-dex-build7+mh4edit-mit-save-id,2,0
+483,镰蟹轻靴,Ceanataur Leggings,mh4g-core-common-game-array+mh4g-dex-build7+mh4edit-mit-save-id,2,0
+484,晓丸【具足】,Auroros Pants,mh4g-core-common-game-array+mh4g-dex-build7+mh4edit-mit-save-id,3,0
+485,凛【袴】,Borealis Hakama,mh4g-core-common-game-array+mh4g-dex-build7+mh4edit-mit-save-id,3,0
+486,曙丸【具足】,Genesis Pants,mh4g-core-common-game-array+mh4g-dex-build7+mh4edit-mit-save-id,3,0
+487,艳【袴】,Glyph Hakama,mh4g-core-common-game-array+mh4g-dex-build7+mh4edit-mit-save-id,3,0
+488,方舟重靴,Arc Greaves,mh4g-core-common-game-array+mh4g-dex-build7+mh4edit-mit-save-id,3,0
+489,方舟轻靴,Arc Leggings,mh4g-core-common-game-array+mh4g-dex-build7+mh4edit-mit-save-id,3,0
+490,反逆重靴,Rebellion Greaves,mh4g-core-common-game-array+mh4g-dex-build7+mh4edit-mit-save-id,7,0
+491,暴动轻靴,Riot Leggings,mh4g-core-common-game-array+mh4g-dex-build7+mh4edit-mit-save-id,7,0
+492,龙脚Ｘ,Dragonfeet X,mh4g-core-common-game-array+mh4g-dex-build7+mh4edit-mit-save-id,10,0
+493,龙腿Ｘ,Dragonlegs X,mh4g-core-common-game-array+mh4g-dex-build7+mh4edit-mit-save-id,10,0
+494,盾蟹重靴,Hermitaur Greaves,mh4g-core-common-game-array+mh4g-dex-build7+mh4edit-mit-save-id,4,0
+495,盾蟹轻靴,Hermitaur Leggings,mh4g-core-common-game-array+mh4g-dex-build7+mh4edit-mit-save-id,4,0
+496,海龙重靴,Lagiacrus Greaves,mh4g-core-common-game-array+mh4g-dex-build7+mh4edit-mit-save-id,6,0
+497,海龙轻靴,Lagiacrus Leggings,mh4g-core-common-game-array+mh4g-dex-build7+mh4edit-mit-save-id,6,0
+498,煌黑龙之骨,Escadora Sheath,mh4g-core-common-game-array+mh4g-dex-build7+mh4edit-mit-save-id,7,0
+499,煌黑龙之足,Escadora Scala,mh4g-core-common-game-array+mh4g-dex-build7+mh4edit-mit-save-id,7,0
+500,神秘重靴Ｓ,Artian Greaves S,mh4g-core-common-game-array+mh4g-dex-build7+mh4edit-mit-save-id,5,0
+501,神秘轻靴Ｓ,Artian Leggings S,mh4g-core-common-game-array+mh4g-dex-build7+mh4edit-mit-save-id,5,0
+502,高合金重靴,Ingot Greaves,mh4g-core-common-game-array+mh4g-dex-build7+mh4edit-mit-save-id,3,0
+503,高合金轻靴,Ingot Leggings,mh4g-core-common-game-array+mh4g-dex-build7+mh4edit-mit-save-id,3,0
+504,慈爱重靴,Storge Greaves,mh4g-core-common-game-array+mh4g-dex-build7+mh4edit-mit-save-id,3,0
+505,慈爱轻靴,Storge Leggings,mh4g-core-common-game-array+mh4g-dex-build7+mh4edit-mit-save-id,3,0
+506,蓝速龙重靴Ｘ,Velociprey Greaves X,mh4g-core-common-game-array+mh4g-dex-build7+mh4edit-mit-save-id,8,0
+507,蓝速龙轻靴Ｘ,Velociprey Leggings X,mh4g-core-common-game-array+mh4g-dex-build7+mh4edit-mit-save-id,8,0
+508,红速龙重靴Ｘ,Ioprey Greaves X,mh4g-core-common-game-array+mh4g-dex-build7+mh4edit-mit-save-id,8,0
+509,红速龙轻靴Ｘ,Ioprey Leggings X,mh4g-core-common-game-array+mh4g-dex-build7+mh4edit-mit-save-id,8,0
+510,奇猿狐重靴Ｘ,Kecha Greaves X,mh4g-core-common-game-array+mh4g-dex-build7+mh4edit-mit-save-id,8,0
+511,奇猿狐轻靴Ｘ,Kecha Leggings X,mh4g-core-common-game-array+mh4g-dex-build7+mh4edit-mit-save-id,8,0
+512,奇猿狐重靴Ｚ,Kecha Greaves Z,mh4g-core-common-game-array+mh4g-dex-build7+mh4edit-mit-save-id,8,0
+513,奇猿狐轻靴Ｚ,Kecha Leggings Z,mh4g-core-common-game-array+mh4g-dex-build7+mh4edit-mit-save-id,8,0
+514,鬼蛙重靴Ｘ,Tetsucabra Greaves X,mh4g-core-common-game-array+mh4g-dex-build7+mh4edit-mit-save-id,8,0
+515,鬼蛙轻靴Ｘ,Tetsucabra Leggings X,mh4g-core-common-game-array+mh4g-dex-build7+mh4edit-mit-save-id,8,0
+516,鬼蛙重靴Ｚ,Tetsucabra Greaves Z,mh4g-core-common-game-array+mh4g-dex-build7+mh4edit-mit-save-id,8,0
+517,鬼蛙轻靴Ｚ,Tetsucabra Leggings Z,mh4g-core-common-game-array+mh4g-dex-build7+mh4edit-mit-save-id,8,0
+518,影蜘蛛重靴Ｘ,Nerscylla Greaves X,mh4g-core-common-game-array+mh4g-dex-build7+mh4edit-mit-save-id,8,0
+519,影蜘蛛轻靴Ｘ,Nerscylla Leggings X,mh4g-core-common-game-array+mh4g-dex-build7+mh4edit-mit-save-id,8,0
+520,影蜘蛛重靴Ｚ,Nerscylla Greaves Z,mh4g-core-common-game-array+mh4g-dex-build7+mh4edit-mit-save-id,9,0
+521,影蜘蛛轻靴Ｚ,Nerscylla Leggings Z,mh4g-core-common-game-array+mh4g-dex-build7+mh4edit-mit-save-id,9,0
+522,鬼鲛重靴Ｘ,Zamtrios Greaves X,mh4g-core-common-game-array+mh4g-dex-build7+mh4edit-mit-save-id,8,0
+523,鬼鲛轻靴Ｘ,Zamtrios Leggings X,mh4g-core-common-game-array+mh4g-dex-build7+mh4edit-mit-save-id,8,0
+524,鬼鲛重靴Ｚ,Zamtrios Greaves Z,mh4g-core-common-game-array+mh4g-dex-build7+mh4edit-mit-save-id,8,0
+525,鬼鲛轻靴Ｚ,Zamtrios Leggings Z,mh4g-core-common-game-array+mh4g-dex-build7+mh4edit-mit-save-id,8,0
+526,绞蛇龙重靴Ｘ,Najarala Greaves X,mh4g-core-common-game-array+mh4g-dex-build7+mh4edit-mit-save-id,8,0
+527,绞蛇龙轻靴Ｘ,Najarala Leggings X,mh4g-core-common-game-array+mh4g-dex-build7+mh4edit-mit-save-id,8,0
+528,绞蛇龙重靴Ｚ,Najarala Greaves Z,mh4g-core-common-game-array+mh4g-dex-build7+mh4edit-mit-save-id,8,0
+529,绞蛇龙轻靴Ｚ,Najarala Leggings Z,mh4g-core-common-game-array+mh4g-dex-build7+mh4edit-mit-save-id,8,0
+530,甲虫重靴Ｘ,Seltas Greaves X,mh4g-core-common-game-array+mh4g-dex-build7+mh4edit-mit-save-id,9,0
+531,甲虫轻靴Ｘ,Seltas Leggings X,mh4g-core-common-game-array+mh4g-dex-build7+mh4edit-mit-save-id,9,0
+532,甲虫重靴Ｚ,Seltas Greaves Z,mh4g-core-common-game-array+mh4g-dex-build7+mh4edit-mit-save-id,9,0
+533,甲虫轻靴Ｚ,Seltas Leggings Z,mh4g-core-common-game-array+mh4g-dex-build7+mh4edit-mit-save-id,9,0
+534,黑蚀龙重靴Ｘ,Gore Greaves X,mh4g-core-common-game-array+mh4g-dex-build7+mh4edit-mit-save-id,9,0
+535,黑蚀龙轻靴Ｘ,Gore Leggings X,mh4g-core-common-game-array+mh4g-dex-build7+mh4edit-mit-save-id,9,0
+536,黑蚀龙战靴,Gore Cuisses,mh4g-core-common-game-array+mh4g-armor-name-crosswalk+mh4edit-mit-save-id,0,1
+537,黑蚀龙长靴,Gore Jambs,mh4g-core-common-game-array+mh4g-armor-name-crosswalk+mh4edit-mit-save-id,0,1
+538,方舟重靴Ｘ,Arc Greaves X,mh4g-core-common-game-array+mh4g-dex-build7+mh4edit-mit-save-id,10,0
+539,慈爱重靴Ｘ,Storge Greaves X,mh4g-core-common-game-array+mh4g-dex-build7+mh4edit-mit-save-id,10,0
+540,方舟轻靴Ｘ,Arc Leggings X,mh4g-core-common-game-array+mh4g-dex-build7+mh4edit-mit-save-id,10,0
+541,慈爱轻靴Ｘ,Storge Leggings X,mh4g-core-common-game-array+mh4g-dex-build7+mh4edit-mit-save-id,10,0
+542,方舟战靴,Arc Cuisses,mh4g-core-common-game-array+mh4g-armor-name-crosswalk+mh4edit-mit-save-id,0,1
+543,慈爱战靴,Storge Cuisses,mh4g-core-common-game-array+mh4g-armor-name-crosswalk+mh4edit-mit-save-id,0,1
+544,方舟长靴,Arc Jambs,mh4g-core-common-game-array+mh4g-armor-name-crosswalk+mh4edit-mit-save-id,0,1
+545,慈爱长靴,Storge Jambs,mh4g-core-common-game-array+mh4g-armor-name-crosswalk+mh4edit-mit-save-id,0,1
+546,歌革重靴,Gogma Greaves,mh4g-core-common-game-array+mh4g-dex-build7+mh4edit-mit-save-id,10,0
+547,玛各轻靴,Gogma Leggings,mh4g-core-common-game-array+mh4g-dex-build7+mh4edit-mit-save-id,10,0
+548,毒怪鸟重靴Ｘ,Gypceros Greaves X,mh4g-core-common-game-array+mh4g-dex-build7+mh4edit-mit-save-id,8,0
+549,毒怪鸟轻靴Ｘ,Gypceros Leggings X,mh4g-core-common-game-array+mh4g-dex-build7+mh4edit-mit-save-id,8,0
+550,毒怪鸟战靴,Gypceros Cuisses,mh4g-core-common-game-array+mh4g-armor-name-crosswalk+mh4edit-mit-save-id,0,1
+551,毒怪鸟长靴,Gypceros Jambs,mh4g-core-common-game-array+mh4g-armor-name-crosswalk+mh4edit-mit-save-id,0,1
+552,毒怪鸟重靴Ｚ,Gypceros Greaves Z,mh4g-core-common-game-array+mh4g-dex-build7+mh4edit-mit-save-id,8,0
+553,毒怪鸟轻靴Ｚ,Gypceros Leggings Z,mh4g-core-common-game-array+mh4g-dex-build7+mh4edit-mit-save-id,8,0
+554,毒怪鸟战靴Ｕ,Gypceros Cuisses U,mh4g-core-common-game-array+mh4g-armor-name-crosswalk+mh4edit-mit-save-id,0,1
+555,毒怪鸟长靴Ｕ,Gypceros Jambs U,mh4g-core-common-game-array+mh4g-armor-name-crosswalk+mh4edit-mit-save-id,0,1
+556,白兔兽重靴Ｘ,Lagombi Greaves X,mh4g-core-common-game-array+mh4g-dex-build7+mh4edit-mit-save-id,8,0
+557,白兔兽轻靴Ｘ,Lagombi Leggings X,mh4g-core-common-game-array+mh4g-dex-build7+mh4edit-mit-save-id,8,0
+558,桃毛兽重靴Ｘ,Conga Greaves X,mh4g-core-common-game-array+mh4g-dex-build7+mh4edit-mit-save-id,8,0
+559,桃毛兽轻靴Ｘ,Conga Leggings X,mh4g-core-common-game-array+mh4g-dex-build7+mh4edit-mit-save-id,8,0
+560,桃毛兽重靴Ｚ,Conga Greaves Z,mh4g-core-common-game-array+mh4g-dex-build7+mh4edit-mit-save-id,8,0
+561,桃毛兽轻靴Ｚ,Conga Leggings Z,mh4g-core-common-game-array+mh4g-dex-build7+mh4edit-mit-save-id,8,0
+562,电龙重靴Ｘ,Khezu Greaves X,mh4g-core-common-game-array+mh4g-dex-build7+mh4edit-mit-save-id,8,0
+563,电龙轻靴Ｘ,Khezu Leggings X,mh4g-core-common-game-array+mh4g-dex-build7+mh4edit-mit-save-id,8,0
+564,电龙战靴,Khezu Cuisses,mh4g-core-common-game-array+mh4g-armor-name-crosswalk+mh4edit-mit-save-id,0,1
+565,电龙长靴,Khezu Jambs,mh4g-core-common-game-array+mh4g-armor-name-crosswalk+mh4edit-mit-save-id,0,1
+566,电龙重靴Ｚ,Khezu Greaves Z,mh4g-core-common-game-array+mh4g-dex-build7+mh4edit-mit-save-id,8,0
+567,电龙轻靴Ｚ,Khezu Leggings Z,mh4g-core-common-game-array+mh4g-dex-build7+mh4edit-mit-save-id,8,0
+568,电龙战靴Ｕ,Khezu Cuisses U,mh4g-core-common-game-array+mh4g-armor-name-crosswalk+mh4edit-mit-save-id,0,1
+569,电龙长靴Ｕ,Khezu Jambs U,mh4g-core-common-game-array+mh4g-armor-name-crosswalk+mh4edit-mit-save-id,0,1
+570,雌火龙重靴Ｘ,Rathian Greaves X,mh4g-core-common-game-array+mh4g-dex-build7+mh4edit-mit-save-id,8,0
+571,雌火龙轻靴Ｘ,Rathian Leggings X,mh4g-core-common-game-array+mh4g-dex-build7+mh4edit-mit-save-id,8,0
+572,雌火龙战靴,Rathian Cuisses,mh4g-core-common-game-array+mh4g-armor-name-crosswalk+mh4edit-mit-save-id,0,1
+573,雌火龙长靴,Rathian Jambs,mh4g-core-common-game-array+mh4g-armor-name-crosswalk+mh4edit-mit-save-id,0,1
+574,樱火龙重靴Ｚ,Rath Heart Greaves Z,mh4g-core-common-game-array+mh4g-dex-build7+mh4edit-mit-save-id,8,0
+575,樱火龙轻靴Ｚ,Rath Heart Leggings Z,mh4g-core-common-game-array+mh4g-dex-build7+mh4edit-mit-save-id,8,0
+576,樱火龙战靴,Rath Heart Cuisses,mh4g-core-common-game-array+mh4g-armor-name-crosswalk+mh4edit-mit-save-id,0,1
+577,樱火龙长靴,Rath Heart Jambs,mh4g-core-common-game-array+mh4g-armor-name-crosswalk+mh4edit-mit-save-id,0,1
+578,Ｇ・月光重靴Ｚ,Golden Lunegreaves Z,mh4g-core-common-game-array+mh4g-dex-build7+mh4edit-mit-save-id,10,0
+579,Ｇ・月光轻靴Ｚ,Golden Luneleggings Z,mh4g-core-common-game-array+mh4g-dex-build7+mh4edit-mit-save-id,10,0
+580,雄火龙重靴Ｘ,Rathalos Greaves X,mh4g-core-common-game-array+mh4g-dex-build7+mh4edit-mit-save-id,9,0
+581,雄火龙轻靴Ｘ,Rathalos Leggings X,mh4g-core-common-game-array+mh4g-dex-build7+mh4edit-mit-save-id,9,0
+582,雄火龙战靴,Rathalos Cuisses,mh4g-core-common-game-array+mh4g-armor-name-crosswalk+mh4edit-mit-save-id,0,1
+583,雄火龙长靴,Rathalos Jambs,mh4g-core-common-game-array+mh4g-armor-name-crosswalk+mh4edit-mit-save-id,0,1
+584,苍火龙重靴Ｚ,Rath Soul Greaves Z,mh4g-core-common-game-array+mh4g-dex-build7+mh4edit-mit-save-id,9,0
+585,苍火龙轻靴Ｚ,Rath Soul Leggings Z,mh4g-core-common-game-array+mh4g-dex-build7+mh4edit-mit-save-id,9,0
+586,苍火龙战靴,Rath Soul Cuisses,mh4g-core-common-game-array+mh4g-armor-name-crosswalk+mh4edit-mit-save-id,0,1
+587,苍火龙长靴,Rath Soul Jambs,mh4g-core-common-game-array+mh4g-armor-name-crosswalk+mh4edit-mit-save-id,0,1
+588,Ｓ・日光重靴Ｚ,Silver Solgreaves Z,mh4g-core-common-game-array+mh4g-dex-build7+mh4edit-mit-save-id,10,0
+589,Ｓ・日光轻靴Ｚ,Silver Solleggings Z,mh4g-core-common-game-array+mh4g-dex-build7+mh4edit-mit-save-id,10,0
+590,银之日光战靴,Silver Solcuisses,mh4g-core-common-game-array+mh4g-armor-name-crosswalk+mh4edit-mit-save-id,0,1
+591,银之日光长靴,Silver Soljambs,mh4g-core-common-game-array+mh4g-armor-name-crosswalk+mh4edit-mit-save-id,0,1
+592,雷狼龙重靴Ｘ,Zinogre Greaves X,mh4g-core-common-game-array+mh4g-dex-build7+mh4edit-mit-save-id,9,0
+593,雷狼龙轻靴Ｘ,Zinogre Leggings X,mh4g-core-common-game-array+mh4g-dex-build7+mh4edit-mit-save-id,9,0
+594,雷狼龙重靴Ｚ,Zinogre Greaves Z,mh4g-core-common-game-array+mh4g-dex-build7+mh4edit-mit-save-id,9,0
+595,雷狼龙轻靴Ｚ,Zinogre Leggings Z,mh4g-core-common-game-array+mh4g-dex-build7+mh4edit-mit-save-id,9,0
+596,雷狼龙战靴Ｕ,Zinogre Cuisses U,mh4g-core-common-game-array+mh4g-armor-name-crosswalk+mh4edit-mit-save-id,0,1
+597,雷狼龙长靴Ｕ,Zinogre Jambs U,mh4g-core-common-game-array+mh4g-armor-name-crosswalk+mh4edit-mit-save-id,0,1
+598,轰龙重靴Ｘ,Tigrex Greaves X,mh4g-core-common-game-array+mh4g-dex-build7+mh4edit-mit-save-id,9,0
+599,轰龙轻靴Ｘ,Tigrex Leggings X,mh4g-core-common-game-array+mh4g-dex-build7+mh4edit-mit-save-id,9,0
+600,轰龙战靴,Tigrex Cuisses,mh4g-core-common-game-array+mh4g-armor-name-crosswalk+mh4edit-mit-save-id,0,1
+601,轰龙长靴,Tigrex Jambs,mh4g-core-common-game-array+mh4g-armor-name-crosswalk+mh4edit-mit-save-id,0,1
+602,轰龙重靴Ｚ,Tigrex Greaves Z,mh4g-core-common-game-array+mh4g-dex-build7+mh4edit-mit-save-id,9,0
+603,轰龙轻靴Ｚ,Tigrex Leggings Z,mh4g-core-common-game-array+mh4g-dex-build7+mh4edit-mit-save-id,9,0
+604,轰龙战靴Ｕ,Tigrex Cuisses U,mh4g-core-common-game-array+mh4g-armor-name-crosswalk+mh4edit-mit-save-id,0,1
+605,轰龙长靴Ｕ,Tigrex Jambs U,mh4g-core-common-game-array+mh4g-armor-name-crosswalk+mh4edit-mit-save-id,0,1
+606,大轰龙重靴Ｚ,Excello Greaves Z,mh4g-core-common-game-array+mh4g-dex-build7+mh4edit-mit-save-id,10,0
+607,大轰龙轻靴Ｚ,Excello Leggings Z,mh4g-core-common-game-array+mh4g-dex-build7+mh4edit-mit-save-id,10,0
+608,铠龙重靴Ｘ,Gravios Greaves X,mh4g-core-common-game-array+mh4g-dex-build7+mh4edit-mit-save-id,9,0
+609,铠龙轻靴Ｘ,Gravios Leggings X,mh4g-core-common-game-array+mh4g-dex-build7+mh4edit-mit-save-id,9,0
+610,铠龙重靴Ｚ,Gravios Greaves Z,mh4g-core-common-game-array+mh4g-dex-build7+mh4edit-mit-save-id,9,0
+611,铠龙轻靴Ｚ,Gravios Leggings Z,mh4g-core-common-game-array+mh4g-dex-build7+mh4edit-mit-save-id,9,0
+612,碎龙重靴Ｘ,Brachydios Greaves X,mh4g-core-common-game-array+mh4g-dex-build7+mh4edit-mit-save-id,9,0
+613,碎龙轻靴Ｘ,Brachydios Leggings X,mh4g-core-common-game-array+mh4g-dex-build7+mh4edit-mit-save-id,9,0
+614,光碎重靴,Brachydium Greaves,mh4g-core-common-game-array+mh4g-dex-build7+mh4edit-mit-save-id,10,0
+615,光碎轻靴,Brachydium Leggings,mh4g-core-common-game-array+mh4g-dex-build7+mh4edit-mit-save-id,10,0
+616,残阳・真【具足】,Grand Gloaming Greaves,mh4g-core-common-game-array+mh4g-dex-build7+mh4edit-mit-save-id,10,0
+617,常盘・真【具足】,Grand Adamance Pleats,mh4g-core-common-game-array+mh4g-dex-build7+mh4edit-mit-save-id,10,0
+618,东云・真【具足】,Grand Dayspring Pleats,mh4g-core-common-game-array+mh4g-dex-build7+mh4edit-mit-save-id,10,0
+619,八千代・真【具足】,Grand Epoch Greaves,mh4g-core-common-game-array+mh4g-dex-build7+mh4edit-mit-save-id,10,0
+620,残阳・真【白袴】,Gloaming Whitewalkers,mh4g-core-common-game-array+mh4g-armor-name-crosswalk+mh4edit-mit-save-id,0,1
+621,常盘・真【白袴】,Adamance Whitewalkers,mh4g-core-common-game-array+mh4g-armor-name-crosswalk+mh4edit-mit-save-id,0,1
+622,东云・真【白袴】,Dayspring Whitewalkers,mh4g-core-common-game-array+mh4g-armor-name-crosswalk+mh4edit-mit-save-id,0,1
+623,八千代・真【白袴】,Epoch Whitepleats,mh4g-core-common-game-array+mh4g-armor-name-crosswalk+mh4edit-mit-save-id,0,1
+624,恐暴龙重靴Ｘ,Vangis Greaves X,mh4g-core-common-game-array+mh4g-dex-build7+mh4edit-mit-save-id,9,0
+625,恐暴龙轻靴Ｘ,Vangis Leggings X,mh4g-core-common-game-array+mh4g-dex-build7+mh4edit-mit-save-id,9,0
+626,残忍重靴Ｚ,Esurient Greaves Z,mh4g-core-common-game-array+mh4g-dex-build7+mh4edit-mit-save-id,10,0
+627,残忍轻靴Ｚ,Esurient Leggings Z,mh4g-core-common-game-array+mh4g-dex-build7+mh4edit-mit-save-id,10,0
+628,残忍战靴,Esurient Cuisses,mh4g-core-common-game-array+mh4g-armor-name-crosswalk+mh4edit-mit-save-id,0,1
+629,残忍长靴,Esurient Jambs,mh4g-core-common-game-array+mh4g-armor-name-crosswalk+mh4edit-mit-save-id,0,1
+630,凯撒重靴Ｘ,Kaiser Greaves X,mh4g-core-common-game-array+mh4g-dex-build7+mh4edit-mit-save-id,10,0
+631,凯撒轻靴Ｘ,Kaiser Leggings X,mh4g-core-common-game-array+mh4g-dex-build7+mh4edit-mit-save-id,10,0
+632,霸龙重靴Ｘ,Akantor Hessian X,mh4g-core-common-game-array+mh4g-dex-build7+mh4edit-mit-save-id,10,0
+633,霸龙轻靴Ｘ,Akantor Boots X,mh4g-core-common-game-array+mh4g-dex-build7+mh4edit-mit-save-id,10,0
+634,霸龙战靴,Akantor Cuisses,mh4g-core-common-game-array+mh4g-armor-name-crosswalk+mh4edit-mit-save-id,0,1
+635,霸龙长靴,Akantor Jambs,mh4g-core-common-game-array+mh4g-armor-name-crosswalk+mh4edit-mit-save-id,0,1
+636,EX煌黑龙之骨,EX Escadora Sheath,mh4g-core-common-game-array+mh4g-dex-build7+mh4edit-mit-save-id,10,0
+637,EX煌黑龙之足,EX Escadora Scala,mh4g-core-common-game-array+mh4g-dex-build7+mh4edit-mit-save-id,10,0
+638,崩龙重靴Ｘ,Ukanlos Hessian X,mh4g-core-common-game-array+mh4g-dex-build7+mh4edit-mit-save-id,10,0
+639,崩龙轻靴Ｘ,Ukanlos Boots X,mh4g-core-common-game-array+mh4g-dex-build7+mh4edit-mit-save-id,10,0
+640,钢龙重靴Ｘ,Kushala Crus X,mh4g-core-common-game-array+mh4g-dex-build7+mh4edit-mit-save-id,10,0
+641,钢龙轻靴Ｘ,Kushala Shank X,mh4g-core-common-game-array+mh4g-dex-build7+mh4edit-mit-save-id,10,0
+642,钢龙战靴,Kushala Cuisses,mh4g-core-common-game-array+mh4g-armor-name-crosswalk+mh4edit-mit-save-id,0,1
+643,钢龙长靴,Kushala Jambs,mh4g-core-common-game-array+mh4g-armor-name-crosswalk+mh4edit-mit-save-id,0,1
+644,锈钢重靴,Kujula Crus,mh4g-core-common-game-array+mh4g-dex-build7+mh4edit-mit-save-id,10,0
+645,锈钢轻靴,Kujula Shank,mh4g-core-common-game-array+mh4g-dex-build7+mh4edit-mit-save-id,10,0
+646,齐天之具足・真,Grand God's Peer Feet,mh4g-core-common-game-array+mh4g-dex-build7+mh4edit-mit-save-id,10,0
+647,仙师之具足・真,Grand Hermit Feet,mh4g-core-common-game-array+mh4g-dex-build7+mh4edit-mit-save-id,10,0
+648,怒天之具足・真,Grand Divine Ire Feet,mh4g-core-common-game-array+mh4g-dex-build7+mh4edit-mit-save-id,10,0
+649,心灭之具足・真,Grand Crusher Feet,mh4g-core-common-game-array+mh4g-dex-build7+mh4edit-mit-save-id,10,0
+650,暴动重靴Ｘ,Rebellion Greaves X,mh4g-core-common-game-array+mh4g-dex-build7+mh4edit-mit-save-id,10,0
+651,反逆轻靴Ｘ,Riot Leggings X,mh4g-core-common-game-array+mh4g-dex-build7+mh4edit-mit-save-id,10,0
+652,暴动战靴,Rebellion Cuisses,mh4g-core-common-game-array+mh4g-armor-name-crosswalk+mh4edit-mit-save-id,0,1
+653,反逆长靴,Riot Jambs,mh4g-core-common-game-array+mh4g-armor-name-crosswalk+mh4edit-mit-save-id,0,1
+654,暴动重靴Ｚ,Rebellion Greaves Z,mh4g-core-common-game-array+mh4g-dex-build7+mh4edit-mit-save-id,10,0
+655,反逆轻靴Ｚ,Riot Leggings Z,mh4g-core-common-game-array+mh4g-dex-build7+mh4edit-mit-save-id,10,0
+656,沙龙重靴Ｘ,Cephalos Greaves X,mh4g-core-common-game-array+mh4g-dex-build7+mh4edit-mit-save-id,8,0
+657,沙龙轻靴Ｘ,Cephalos Leggings X,mh4g-core-common-game-array+mh4g-dex-build7+mh4edit-mit-save-id,8,0
+658,盾蟹重靴Ｘ,Hermitaur Greaves X,mh4g-core-common-game-array+mh4g-dex-build7+mh4edit-mit-save-id,8,0
+659,盾蟹轻靴Ｘ,Hermitaur Leggings X,mh4g-core-common-game-array+mh4g-dex-build7+mh4edit-mit-save-id,8,0
+660,盾蟹战靴,Hermitaur Cuisses,mh4g-core-common-game-array+mh4g-armor-name-crosswalk+mh4edit-mit-save-id,0,1
+661,盾蟹长靴,Hermitaur Jambs,mh4g-core-common-game-array+mh4g-armor-name-crosswalk+mh4edit-mit-save-id,0,1
+662,盾蟹重靴Ｚ,Hermitaur Greaves Z,mh4g-core-common-game-array+mh4g-dex-build7+mh4edit-mit-save-id,8,0
+663,盾蟹轻靴Ｚ,Hermitaur Leggings Z,mh4g-core-common-game-array+mh4g-dex-build7+mh4edit-mit-save-id,8,0
+664,一角龙重靴Ｓ,Mono Greaves S,mh4g-core-common-game-array+mh4g-dex-build7+mh4edit-mit-save-id,5,0
+665,一角龙轻靴Ｓ,Mono Leggings S,mh4g-core-common-game-array+mh4g-dex-build7+mh4edit-mit-save-id,5,0
+666,一角龙重靴Ｘ,Mono Greaves X,mh4g-core-common-game-array+mh4g-dex-build7+mh4edit-mit-save-id,9,0
+667,一角龙轻靴Ｘ,Mono Leggings X,mh4g-core-common-game-array+mh4g-dex-build7+mh4edit-mit-save-id,9,0
+668,一角龙重靴,Mono Greaves,mh4g-core-common-game-array+mh4g-armor-name-crosswalk+mh4edit-mit-save-id,0,1
+669,一角龙轻靴,Mono Leggings,mh4g-core-common-game-array+mh4g-armor-name-crosswalk+mh4edit-mit-save-id,0,1
+670,一角龙战靴,Mono Cuisses,mh4g-core-common-game-array+mh4g-armor-name-crosswalk+mh4edit-mit-save-id,0,1
+671,一角龙长靴,Mono Jambs,mh4g-core-common-game-array+mh4g-armor-name-crosswalk+mh4edit-mit-save-id,0,1
+672,独角恶魔重靴,Monodevil Greaves,mh4g-core-common-game-array+mh4g-dex-build7+mh4edit-mit-save-id,9,0
+673,独角恶魔轻靴,Monodevil Leggings,mh4g-core-common-game-array+mh4g-dex-build7+mh4edit-mit-save-id,9,0
+674,独角恶魔重靴,Monodevil Greaves,mh4g-core-common-game-array+mh4g-dex-build7+mh4edit-mit-save-id,9,0
+675,独角恶魔轻靴,Monodevil Leggings,mh4g-core-common-game-array+mh4g-dex-build7+mh4edit-mit-save-id,9,0
+676,独角恶魔战靴,Monodevil Cuisses,mh4g-core-common-game-array+mh4g-armor-name-crosswalk+mh4edit-mit-save-id,0,1
+677,独角恶魔长靴,Monodevil Jambs,mh4g-core-common-game-array+mh4g-armor-name-crosswalk+mh4edit-mit-save-id,0,1
+678,角龙重靴Ｘ,Diablos Greaves X,mh4g-core-common-game-array+mh4g-dex-build7+mh4edit-mit-save-id,9,0
+679,角龙轻靴Ｘ,Diablos Leggings X,mh4g-core-common-game-array+mh4g-dex-build7+mh4edit-mit-save-id,9,0
+680,角龙重靴,Diablos Greaves,mh4g-core-common-game-array+mh4g-dex-build7+mh4edit-mit-save-id,3,0
+681,角龙轻靴,Diablos Leggings,mh4g-core-common-game-array+mh4g-dex-build7+mh4edit-mit-save-id,3,0
+682,角龙战靴,Diablos Cuisses,mh4g-core-common-game-array+mh4g-armor-name-crosswalk+mh4edit-mit-save-id,0,1
+683,角龙长靴,Diablos Jambs,mh4g-core-common-game-array+mh4g-armor-name-crosswalk+mh4edit-mit-save-id,0,1
+684,角龙重靴Ｚ,Diablos Greaves Z,mh4g-core-common-game-array+mh4g-dex-build7+mh4edit-mit-save-id,9,0
+685,角龙轻靴Ｚ,Diablos Leggings Z,mh4g-core-common-game-array+mh4g-dex-build7+mh4edit-mit-save-id,9,0
+686,龙脚Ｘ,Dragonfeet X,mh4g-core-common-game-array+mh4g-dex-build7+mh4edit-mit-save-id,10,0
+687,龙腿Ｘ,Dragonlegs X,mh4g-core-common-game-array+mh4g-dex-build7+mh4edit-mit-save-id,10,0
+688,龙之战靴Ｘ,Dragoncuisses X,mh4g-core-common-game-array+mh4g-armor-name-crosswalk+mh4edit-mit-save-id,0,1
+689,龙之长靴Ｘ,Dragonjambs X,mh4g-core-common-game-array+mh4g-armor-name-crosswalk+mh4edit-mit-save-id,0,1
+690,红龙脚Ｚ,Fatalis Crimsonfeet Z,mh4g-core-common-game-array+mh4g-armor-name-crosswalk+mh4edit-mit-save-id,0,1
+691,红龙腿Ｚ,Fatalis Crimsonlegs Z,mh4g-core-common-game-array+mh4g-armor-name-crosswalk+mh4edit-mit-save-id,0,1
+692,红龙战靴Ｚ,Fatalis Crimsonboots Z,mh4g-core-common-game-array+mh4g-armor-name-crosswalk+mh4edit-mit-save-id,0,1
+693,红龙长靴Ｚ,Fatalis Crimsonjambs Z,mh4g-core-common-game-array+mh4g-armor-name-crosswalk+mh4edit-mit-save-id,0,1
+694,愤怒脚,Wrothfeet,mh4g-core-common-game-array+mh4g-dex-build7+mh4edit-mit-save-id,10,0
+695,愤怒腿,Wrothlegs,mh4g-core-common-game-array+mh4g-dex-build7+mh4edit-mit-save-id,10,0
+696,祖龙脚,White Fatalis Feet,mh4g-core-common-game-array+mh4g-dex-build7+mh4edit-mit-save-id,10,0
+697,祖龙腿,White Fatalis Legs,mh4g-core-common-game-array+mh4g-dex-build7+mh4edit-mit-save-id,10,0
+698,三叶真【具足】,Grand Mizuha Leg Wrap,mh4g-core-common-game-array+mh4g-dex-build7+mh4edit-mit-save-id,10,0
+699,丰玉真【具足】,Grand Cham Trousers,mh4g-core-common-game-array+mh4g-dex-build7+mh4edit-mit-save-id,10,0
+700,千刃龙重靴Ｓ,Regios Greaves S,mh4g-core-common-game-array+mh4g-dex-build7+mh4edit-mit-save-id,6,0
+701,千刃龙轻靴Ｓ,Regios Leggings S,mh4g-core-common-game-array+mh4g-dex-build7+mh4edit-mit-save-id,6,0
+702,千刃龙重靴Ｘ,Regios Greaves X,mh4g-core-common-game-array+mh4g-dex-build7+mh4edit-mit-save-id,9,0
+703,千刃龙轻靴Ｘ,Regios Leggings X,mh4g-core-common-game-array+mh4g-dex-build7+mh4edit-mit-save-id,9,0
+704,混沌重靴,Chaos Greaves,mh4g-core-common-game-array+mh4g-dex-build7+mh4edit-mit-save-id,9,0
+705,堕落重靴,Nephilim Greaves,mh4g-core-common-game-array+mh4g-dex-build7+mh4edit-mit-save-id,9,0
+706,混沌轻靴,Chaos Leggings,mh4g-core-common-game-array+mh4g-dex-build7+mh4edit-mit-save-id,9,0
+707,堕落轻靴,Nephilim Leggings,mh4g-core-common-game-array+mh4g-dex-build7+mh4edit-mit-save-id,9,0
+708,岩龙重靴Ｘ,Basarios Greaves X,mh4g-core-common-game-array+mh4g-dex-build7+mh4edit-mit-save-id,8,0
+709,岩龙轻靴Ｘ,Basarios Leggings X,mh4g-core-common-game-array+mh4g-dex-build7+mh4edit-mit-save-id,8,0
+710,岩龙重靴Ｚ,Basarios Greaves Z,mh4g-core-common-game-array+mh4g-dex-build7+mh4edit-mit-save-id,8,0
+711,岩龙轻靴Ｚ,Basarios Leggings Z,mh4g-core-common-game-array+mh4g-dex-build7+mh4edit-mit-save-id,8,0
+712,怪鸟重靴Ｘ,Kut-Ku Greaves X,mh4g-core-common-game-array+mh4g-dex-build7+mh4edit-mit-save-id,8,0
+713,怪鸟轻靴Ｘ,Kut-Ku Leggings X,mh4g-core-common-game-array+mh4g-dex-build7+mh4edit-mit-save-id,8,0
+714,怪鸟重靴Ｚ,Kut-Ku Greaves Z,mh4g-core-common-game-array+mh4g-dex-build7+mh4edit-mit-save-id,8,0
+715,怪鸟轻靴Ｚ,Kut-Ku Leggings Z,mh4g-core-common-game-array+mh4g-dex-build7+mh4edit-mit-save-id,8,0
+716,黑狼鸟重靴Ｘ,Garuga Greaves X,mh4g-core-common-game-array+mh4g-dex-build7+mh4edit-mit-save-id,9,0
+717,黑狼鸟轻靴Ｘ,Garuga Leggings X,mh4g-core-common-game-array+mh4g-dex-build7+mh4edit-mit-save-id,9,0
+718,麒麟护腿Ｘ,Kirin Leg Guards X,mh4g-core-common-game-array+mh4g-dex-build7+mh4edit-mit-save-id,10,0
+719,麒麟鞋Ｘ,Kirin Boots X,mh4g-core-common-game-array+mh4g-dex-build7+mh4edit-mit-save-id,10,0
+720,麒麟战靴,Kirin Cuisses,mh4g-core-common-game-array+mh4g-armor-name-crosswalk+mh4edit-mit-save-id,0,1
+721,麒麟长靴,Kirin Jambs,mh4g-core-common-game-array+mh4g-armor-name-crosswalk+mh4edit-mit-save-id,0,1
+722,麒麟护腿Ｚ,Kirin Leg Guards Z,mh4g-core-common-game-array+mh4g-dex-build7+mh4edit-mit-save-id,10,0
+723,麒麟鞋Ｚ,Kirin Boots Z,mh4g-core-common-game-array+mh4g-dex-build7+mh4edit-mit-save-id,10,0
+724,麒麟战靴Ｕ,Kirin Cuisses U,mh4g-core-common-game-array+mh4g-armor-name-crosswalk+mh4edit-mit-save-id,0,1
+725,麒麟长靴Ｕ,Kirin Jambs U,mh4g-core-common-game-array+mh4g-armor-name-crosswalk+mh4edit-mit-save-id,0,1
+726,飞甲虫之靴Ｘ,Bnahabra Boots X,mh4g-core-common-game-array+mh4g-dex-build7+mh4edit-mit-save-id,8,0
+727,飞甲虫之足Ｘ,Bnahabra Pants X,mh4g-core-common-game-array+mh4g-dex-build7+mh4edit-mit-save-id,8,0
+728,dummy,DUMMY,mh4g-core-common-game-array+mh4edit-mit-save-id,0,0
+729,dummy,DUMMY,mh4g-core-common-game-array+mh4edit-mit-save-id,0,0
+730,草食龙重靴Ｘ,Rhenoplos Greaves X,mh4g-core-common-game-array+mh4g-dex-build7+mh4edit-mit-save-id,8,0
+731,草食龙轻靴Ｘ,Rhenoplos Leggings X,mh4g-core-common-game-array+mh4g-dex-build7+mh4edit-mit-save-id,8,0
+732,猎人战靴,Hunter's Cuisses,mh4g-core-common-game-array+mh4g-armor-name-crosswalk+mh4edit-mit-save-id,0,1
+733,猎人长靴,Hunter's Jambs,mh4g-core-common-game-array+mh4g-armor-name-crosswalk+mh4edit-mit-save-id,0,1
+734,合金战靴,Alloy Cuisses,mh4g-core-common-game-array+mh4g-armor-name-crosswalk+mh4edit-mit-save-id,0,1
+735,合金长靴,Alloy Jambs,mh4g-core-common-game-array+mh4g-armor-name-crosswalk+mh4edit-mit-save-id,0,1
+736,神秘重靴Ｘ,Artian Greaves X,mh4g-core-common-game-array+mh4g-dex-build7+mh4edit-mit-save-id,9,0
+737,神秘轻靴Ｘ,Artian Leggings X,mh4g-core-common-game-array+mh4g-dex-build7+mh4edit-mit-save-id,9,0
+738,神秘战靴Ｓ,Arc Cuisses S,mh4g-core-common-game-array+mh4g-armor-name-crosswalk+mh4edit-mit-save-id,0,1
+739,神秘长靴Ｓ,Arc Jambs S,mh4g-core-common-game-array+mh4g-armor-name-crosswalk+mh4edit-mit-save-id,0,1
+740,高合金战靴,Ingot Cuisses,mh4g-core-common-game-array+mh4g-armor-name-crosswalk+mh4edit-mit-save-id,0,1
+741,高合金长靴,Ingot Jambs,mh4g-core-common-game-array+mh4g-armor-name-crosswalk+mh4edit-mit-save-id,0,1
+742,守护者之靴Ｘ,Guardian Boots X,mh4g-core-common-game-array+mh4g-dex-build7+mh4edit-mit-save-id,8,0
+743,助手袜子Ｘ,Helper Socks X,mh4g-core-common-game-array+mh4g-dex-build7+mh4edit-mit-save-id,8,0
+744,守护者之鞋Ｘ,Guardian Pants X,mh4g-core-common-game-array+mh4g-dex-build7+mh4edit-mit-save-id,8,0
+745,治疗者袜子Ｘ,Healer Socks X,mh4g-core-common-game-array+mh4g-dex-build7+mh4edit-mit-save-id,8,0
+746,守护者之靴Ｚ,Guardian Boots Z,mh4g-core-common-game-array+mh4g-dex-build7+mh4edit-mit-save-id,9,0
+747,助手袜子Ｚ,Helper Socks Z,mh4g-core-common-game-array+mh4g-dex-build7+mh4edit-mit-save-id,9,0
+748,守护者之鞋Ｚ,Guardian Pants Z,mh4g-core-common-game-array+mh4g-dex-build7+mh4edit-mit-save-id,9,0
+749,治疗者袜子Ｚ,Healer Socks Z,mh4g-core-common-game-array+mh4g-dex-build7+mh4edit-mit-save-id,9,0
+750,Ｇ・骑士Ｘ鞋,G. Knight Boots X,mh4g-core-common-game-array+mh4g-dex-build7+mh4edit-mit-save-id,9,0
+751,女仆袜子Ｘ,Maiden's Socks X,mh4g-core-common-game-array+mh4g-dex-build7+mh4edit-mit-save-id,9,0
+752,Ｇ・骑士紧身裤Ｘ,G. Knight Tights X,mh4g-core-common-game-array+mh4g-dex-build7+mh4edit-mit-save-id,9,0
+753,隐私紧身裤Ｘ,Exclusive Tights X,mh4g-core-common-game-array+mh4g-dex-build7+mh4edit-mit-save-id,9,0
+754,王牌重靴,Ace Greaves,mh4g-core-common-game-array+mh4g-dex-build7+mh4edit-mit-save-id,9,0
+755,女王重靴,Sororal Greaves,mh4g-core-common-game-array+mh4g-dex-build7+mh4edit-mit-save-id,9,0
+756,王牌轻靴,Ace Leggings,mh4g-core-common-game-array+mh4g-dex-build7+mh4edit-mit-save-id,9,0
+757,女王轻靴,Sororal Leggings,mh4g-core-common-game-array+mh4g-dex-build7+mh4edit-mit-save-id,9,0
+758,镰蟹战靴,Ceanataur Cuisses,mh4g-core-common-game-array+mh4g-armor-name-crosswalk+mh4edit-mit-save-id,0,1
+759,镰蟹长靴,Ceanataur Jambs,mh4g-core-common-game-array+mh4g-armor-name-crosswalk+mh4edit-mit-save-id,0,1
+760,海龙战靴,Lagiacrus Cuisses,mh4g-core-common-game-array+mh4g-armor-name-crosswalk+mh4edit-mit-save-id,0,1
+761,海龙长靴,Lagiacrus Jambs,mh4g-core-common-game-array+mh4g-armor-name-crosswalk+mh4edit-mit-save-id,0,1
+762,煌黑龙战靴,Escadora Cuisses,mh4g-core-common-game-array+mh4g-armor-name-crosswalk+mh4edit-mit-save-id,0,1
+763,煌黑龙长靴,Escadora Jambs,mh4g-core-common-game-array+mh4g-armor-name-crosswalk+mh4edit-mit-save-id,0,1
+764,晓丸【红胫当】,Auroros Kermes Shins,mh4g-core-common-game-array+mh4g-armor-name-crosswalk+mh4edit-mit-save-id,0,1
+765,凛【蓝具足】,Borealis Woad Pants,mh4g-core-common-game-array+mh4g-armor-name-crosswalk+mh4edit-mit-save-id,0,1
+766,曙丸【红胫当】,Genesis Kermes Shins,mh4g-core-common-game-array+mh4g-armor-name-crosswalk+mh4edit-mit-save-id,0,1
+767,艳【蓝具足】,Glyph Woad Pants,mh4g-core-common-game-array+mh4g-armor-name-crosswalk+mh4edit-mit-save-id,0,1
+768,水兽战靴,Ludroth Cuisses,mh4g-core-common-game-array+mh4g-armor-name-crosswalk+mh4edit-mit-save-id,0,1
+769,水兽长靴,Ludroth Jambs,mh4g-core-common-game-array+mh4g-armor-name-crosswalk+mh4edit-mit-save-id,0,1
+770,牛头重靴,Hornet Greaves,mh4g-core-common-game-array+mh4g-armor-name-crosswalk+mh4edit-mit-save-id,0,1
+771,牛头轻靴,Hornet Leggings,mh4g-core-common-game-array+mh4g-armor-name-crosswalk+mh4edit-mit-save-id,0,1
+772,牛头战靴,Hornet Cuisses,mh4g-core-common-game-array+mh4g-armor-name-crosswalk+mh4edit-mit-save-id,0,1
+773,牛头长靴,Hornet Jambs,mh4g-core-common-game-array+mh4g-armor-name-crosswalk+mh4edit-mit-save-id,0,1
+774,毒狗龙重靴,Wroggi Greaves,mh4g-core-common-game-array+mh4g-armor-name-crosswalk+mh4edit-mit-save-id,0,1
+775,毒狗龙轻靴,Wroggi Leggings,mh4g-core-common-game-array+mh4g-armor-name-crosswalk+mh4edit-mit-save-id,0,1
+776,毒狗龙战靴,Wroggi Cuisses,mh4g-core-common-game-array+mh4g-armor-name-crosswalk+mh4edit-mit-save-id,0,1
+777,毒狗龙长靴,Wroggi Jambs,mh4g-core-common-game-array+mh4g-armor-name-crosswalk+mh4edit-mit-save-id,0,1
+778,毒怪龙重靴,Gigginox Greaves,mh4g-core-common-game-array+mh4g-armor-name-crosswalk+mh4edit-mit-save-id,0,1
+779,毒怪龙轻靴,Gigginox Leggings,mh4g-core-common-game-array+mh4g-armor-name-crosswalk+mh4edit-mit-save-id,0,1
+780,毒怪龙战靴,Gigginox Cuisses,mh4g-core-common-game-array+mh4g-armor-name-crosswalk+mh4edit-mit-save-id,0,1
+781,毒怪龙长靴,Gigginox Jambs,mh4g-core-common-game-array+mh4g-armor-name-crosswalk+mh4edit-mit-save-id,0,1
+782,荒天【袴】,Tempest Hakama,mh4g-core-common-game-array+mh4g-dex-build7+mh4edit-mit-save-id,10,0
+783,苍天【袴】,Welkin Hakama,mh4g-core-common-game-array+mh4g-dex-build7+mh4edit-mit-save-id,10,0
+784,荒天【羽袴】,Tempest Wingpleats,mh4g-core-common-game-array+mh4g-armor-name-crosswalk+mh4edit-mit-save-id,0,1
+785,苍天【羽袴】,Welkin Wingpleats,mh4g-core-common-game-array+mh4g-armor-name-crosswalk+mh4edit-mit-save-id,0,1
+786,死神重靴,Death Stench Heel,mh4g-core-common-game-array+mh4g-armor-name-crosswalk+mh4edit-mit-save-id,0,1
+787,死神轻靴,Death Stench March,mh4g-core-common-game-array+mh4g-armor-name-crosswalk+mh4edit-mit-save-id,0,1
+788,死神战靴,Death Stench Cuisses,mh4g-core-common-game-array+mh4g-armor-name-crosswalk+mh4edit-mit-save-id,0,1
+789,死神长靴,Death Stench Jambs,mh4g-core-common-game-array+mh4g-armor-name-crosswalk+mh4edit-mit-save-id,0,1
+790,大马士革重靴,Damascus Greaves,mh4g-core-common-game-array+mh4g-armor-name-crosswalk+mh4edit-mit-save-id,0,1
+791,大马士革轻靴,Damascus Leggings,mh4g-core-common-game-array+mh4g-armor-name-crosswalk+mh4edit-mit-save-id,0,1
+792,大马士革战靴,Damascus Cuisses,mh4g-core-common-game-array+mh4g-armor-name-crosswalk+mh4edit-mit-save-id,0,1
+793,大马士革长靴,Damascus Jambs,mh4g-core-common-game-array+mh4g-armor-name-crosswalk+mh4edit-mit-save-id,0,1
+794,海龙重靴Ｘ,Lagiacrus Greaves X,mh4g-core-common-game-array+mh4g-dex-build7+mh4edit-mit-save-id,9,0
+795,海龙轻靴Ｘ,Lagiacrus Leggings X,mh4g-core-common-game-array+mh4g-dex-build7+mh4edit-mit-save-id,9,0
+796,迅龙重靴Ｘ,Nargacuga Greaves X,mh4g-core-common-game-array+mh4g-dex-build7+mh4edit-mit-save-id,9,0
+797,迅龙轻靴Ｘ,Nargacuga Leggings X,mh4g-core-common-game-array+mh4g-dex-build7+mh4edit-mit-save-id,9,0
+798,女帝重靴Ｘ,Empress Greaves X,mh4g-core-common-game-array+mh4g-dex-build7+mh4edit-mit-save-id,10,0
+799,女帝轻靴Ｘ,Empress Leggings X,mh4g-core-common-game-array+mh4g-dex-build7+mh4edit-mit-save-id,10,0
+800,太阳神重靴Ｘ,Helios Greaves X,mh4g-core-common-game-array+mh4g-dex-build7+mh4edit-mit-save-id,10,0
+801,月神重靴Ｘ,Selene Greaves X,mh4g-core-common-game-array+mh4g-dex-build7+mh4edit-mit-save-id,10,0
+802,太阳神轻靴Ｘ,Helios Leggings X,mh4g-core-common-game-array+mh4g-dex-build7+mh4edit-mit-save-id,10,0
+803,月神轻靴Ｘ,Selene Leggings X,mh4g-core-common-game-array+mh4g-dex-build7+mh4edit-mit-save-id,10,0
+804,炎戈龙重靴Ｘ,Agnaktor Greaves X,mh4g-core-common-game-array+mh4g-dex-build7+mh4edit-mit-save-id,8,0
+805,炎戈龙轻靴Ｘ,Agnaktor Leggings X,mh4g-core-common-game-array+mh4g-dex-build7+mh4edit-mit-save-id,8,0
+806,彩鸟重靴Ｘ,Qurupeco Greaves X,mh4g-core-common-game-array+mh4g-dex-build7+mh4edit-mit-save-id,8,0
+807,彩鸟轻靴Ｘ,Qurupeco Leggings X,mh4g-core-common-game-array+mh4g-dex-build7+mh4edit-mit-save-id,8,0
+808,灯鱼龙重靴Ｘ,Gobul Greaves X,mh4g-core-common-game-array+mh4g-dex-build7+mh4edit-mit-save-id,8,0
+809,灯鱼龙轻靴Ｘ,Gobul Leggings X,mh4g-core-common-game-array+mh4g-dex-build7+mh4edit-mit-save-id,8,0
+810,冰牙龙重靴Ｘ,Barioth Greaves X,mh4g-core-common-game-array+mh4g-dex-build7+mh4edit-mit-save-id,8,0
+811,冰牙龙轻靴Ｘ,Barioth Leggings X,mh4g-core-common-game-array+mh4g-dex-build7+mh4edit-mit-save-id,8,0
+812,土砂龙重靴Ｘ,Barroth Greaves X,mh4g-core-common-game-array+mh4g-dex-build7+mh4edit-mit-save-id,8,0
+813,土砂龙轻靴Ｘ,Barroth Leggings X,mh4g-core-common-game-array+mh4g-dex-build7+mh4edit-mit-save-id,8,0
+814,潜口龙重靴Ｘ,Nibelsnarf Greaves X,mh4g-core-common-game-array+mh4g-dex-build7+mh4edit-mit-save-id,8,0
+815,潜口龙轻靴Ｘ,Nibelsnarf Leggings X,mh4g-core-common-game-array+mh4g-dex-build7+mh4edit-mit-save-id,8,0
+816,尾槌龙重靴Ｘ,Duramboros Greaves X,mh4g-core-common-game-array+mh4g-dex-build7+mh4edit-mit-save-id,9,0
+817,尾槌龙轻靴Ｘ,Duramboros Leggings X,mh4g-core-common-game-array+mh4g-dex-build7+mh4edit-mit-save-id,9,0
+818,熔岩龙重靴Ｘ,Lava Greaves X,mh4g-core-common-game-array+mh4g-dex-build7+mh4edit-mit-save-id,9,0
+819,熔岩龙轻靴Ｘ,Lava Leggings X,mh4g-core-common-game-array+mh4g-dex-build7+mh4edit-mit-save-id,9,0
+820,大和・真【具足】,Grand Yamato Gusoku,mh4g-core-common-game-array+mh4g-dex-build7+mh4edit-mit-save-id,10,0
+821,日向・真【袴】,Grand Hyuga Hakama,mh4g-core-common-game-array+mh4g-dex-build7+mh4edit-mit-save-id,10,0
+822,陆奥・真【具足】,Grand Mutsu Gusoku,mh4g-core-common-game-array+mh4g-dex-build7+mh4edit-mit-save-id,10,0
+823,天城・真【袴】,Grand Amagi Hakama,mh4g-core-common-game-array+mh4g-dex-build7+mh4edit-mit-save-id,10,0
+824,夜叉・真【御足】,Grand Yaksha Boots,mh4g-core-common-game-array+mh4g-dex-build7+mh4edit-mit-save-id,10,0
+825,修罗・真【御足】,Grand Carnage Boots,mh4g-core-common-game-array+mh4g-dex-build7+mh4edit-mit-save-id,10,0
+826,炼黑龙脚,Miralis Drogues,mh4g-core-common-game-array+mh4g-dex-build7+mh4edit-mit-save-id,10,0
+827,炼黑龙腿,Miralis Kedges,mh4g-core-common-game-array+mh4g-dex-build7+mh4edit-mit-save-id,10,0
+828,水龙重靴Ｚ,Plesioth Greaves Z,mh4g-core-common-game-array+mh4g-dex-build7+mh4edit-mit-save-id,8,0
+829,水龙轻靴Ｚ,Plesioth Leggings Z,mh4g-core-common-game-array+mh4g-dex-build7+mh4edit-mit-save-id,8,0
+830,北辰【袴】,Kita Star Hakama,mh4g-core-common-game-array+mh4g-dex-build7+mh4edit-mit-save-id,8,0
+831,海渊【袴】,Umi Ocean Hakama,mh4g-core-common-game-array+mh4g-dex-build7+mh4edit-mit-save-id,8,0
+832,甜点师之靴,Patissier's Boots,mh4g-core-common-game-array+mh4g-dex-build7+mh4edit-mit-save-id,7,0
+833,甜点师之鞋,Patissier's Footwear,mh4g-core-common-game-array+mh4g-dex-build7+mh4edit-mit-save-id,7,0
+834,高级金属重靴Ｓ,High Metal Greaves S,mh4g-core-common-game-array+mh4g-dex-build7+mh4edit-mit-save-id,5,0
+835,高级金属轻靴Ｓ,High Metal Leggings S,mh4g-core-common-game-array+mh4g-dex-build7+mh4edit-mit-save-id,5,0
+836,锹虫重靴Ｘ,Aelucanth Crura X,mh4g-core-common-game-array+mh4g-dex-build7+mh4edit-mit-save-id,8,0
+837,飞虫重靴Ｘ,Rhopessa Crura X,mh4g-core-common-game-array+mh4g-dex-build7+mh4edit-mit-save-id,8,0
+838,锹虫轻靴Ｘ,Aelucanth Tarsi X,mh4g-core-common-game-array+mh4g-dex-build7+mh4edit-mit-save-id,8,0
+839,飞虫轻靴Ｘ,Rhopessa Tarsi X,mh4g-core-common-game-array+mh4g-dex-build7+mh4edit-mit-save-id,8,0
+840,奥比特护膝Ｘ,Obituary Crura X,mh4g-core-common-game-array+mh4g-dex-build7+mh4edit-mit-save-id,8,0
+841,帕比梅尔护膝Ｘ,Butterfly Crura X,mh4g-core-common-game-array+mh4g-dex-build7+mh4edit-mit-save-id,8,0
+842,奥比特之靴Ｘ,Obituary Tarsi X,mh4g-core-common-game-array+mh4g-dex-build7+mh4edit-mit-save-id,8,0
+843,帕比梅尔之靴Ｘ,Butterfly Tarsi X,mh4g-core-common-game-array+mh4g-dex-build7+mh4edit-mit-save-id,8,0
+844,EX晓丸【具足】,EX Auroros Pants,mh4g-core-common-game-array+mh4g-dex-build7+mh4edit-mit-save-id,10,0
+845,EX凛【袴】,EX Borealis Hakama,mh4g-core-common-game-array+mh4g-dex-build7+mh4edit-mit-save-id,10,0
+846,EX曙丸【具足】,EX Genesis Pants,mh4g-core-common-game-array+mh4g-dex-build7+mh4edit-mit-save-id,10,0
+847,EX艳【袴】,EX Glyph Hakama,mh4g-core-common-game-array+mh4g-dex-build7+mh4edit-mit-save-id,10,0
+848,荒天【袴】,Tempest Hakama,mh4g-core-common-game-array+mh4g-dex-build7+mh4edit-mit-save-id,10,0
+849,苍天【袴】,Welkin Hakama,mh4g-core-common-game-array+mh4g-dex-build7+mh4edit-mit-save-id,10,0
+850,GX煌黑龙战靴,GX Escadora Cuisses,mh4g-core-common-game-array+mh4g-armor-name-crosswalk+mh4edit-mit-save-id,0,1
+851,GX煌黑龙长靴,GX Escadora Jambs,mh4g-core-common-game-array+mh4g-armor-name-crosswalk+mh4edit-mit-save-id,0,1
+852,GX龙之战靴Ｘ,GX Dragoncuisses X,mh4g-core-common-game-array+mh4g-armor-name-crosswalk+mh4edit-mit-save-id,0,1
+853,GX龙之长靴Ｘ,GX Dragonjambs X,mh4g-core-common-game-array+mh4g-armor-name-crosswalk+mh4edit-mit-save-id,0,1
+854,星光骑士重靴,Star Knight Greaves,mh4g-core-common-game-array+mh4g-dex-build7+mh4edit-mit-save-id,10,0
+855,星光骑士轻靴,Star Knight Leggings,mh4g-core-common-game-array+mh4g-dex-build7+mh4edit-mit-save-id,10,0
+856,Ｊ反逆王之靴,Greaves of Rage,mh4g-core-common-game-array+mh4g-dex-build7+mh4edit-mit-save-id,10,0
+857,Ｊ反逆王短裤,Leggings of Rage,mh4g-core-common-game-array+mh4g-dex-build7+mh4edit-mit-save-id,10,0
+858,王者长靴,Varia Suit Leg Guards,mh4g-core-common-game-array+mh4g-dex-build7+mh4edit-mit-save-id,10,0
+859,王者长靴,Zero Suit Boots,mh4g-core-common-game-array+mh4g-dex-build7+mh4edit-mit-save-id,10,0
+860,强者长靴,Varia Suit Legs,mh4g-core-common-game-array+mh4g-dex-build7+mh4edit-mit-save-id,10,0
+861,强者长靴,Zero Suit Tights,mh4g-core-common-game-array+mh4g-dex-build7+mh4edit-mit-save-id,10,0
+862,防护服战靴,Varia Suit Leg Guards,mh4g-core-common-game-array+mh4g-dex-build7+mh4edit-mit-save-id,10,0
+863,零式鞋,Zero Suit Boots,mh4g-core-common-game-array+mh4g-dex-build7+mh4edit-mit-save-id,10,0
+864,防护服靴子,Varia Suit Legs,mh4g-core-common-game-array+mh4g-dex-build7+mh4edit-mit-save-id,10,0
+865,零式紧身裤,Zero Suit Tights,mh4g-core-common-game-array+mh4g-dex-build7+mh4edit-mit-save-id,10,0
+866,dummy,DUMMY,mh4g-core-common-game-array+mh4edit-mit-save-id,0,0
+867,dummy,DUMMY,mh4g-core-common-game-array+mh4edit-mit-save-id,0,0
+868,鹰之靴Ｘ,Hawkboots X,mh4g-core-common-game-array+mh4g-dex-build7+mh4edit-mit-save-id,9,0
+869,战鹰之靴Ｘ,Lecturer's Boots X,mh4g-core-common-game-array+mh4g-dex-build7+mh4edit-mit-save-id,9,0
+870,鹰之脚Ｘ,Hawkfeet X,mh4g-core-common-game-array+mh4g-dex-build7+mh4edit-mit-save-id,9,0
+871,战鹰之脚Ｘ,Lecturer's Footwear X,mh4g-core-common-game-array+mh4g-dex-build7+mh4edit-mit-save-id,9,0
+872,GX猎人战靴,GX Hunter's Cuisses,mh4g-core-common-game-array+mh4g-dex-build7+mh4edit-mit-save-id,10,0
+873,GX猎人长靴,GX Hunter's Jambs,mh4g-core-common-game-array+mh4g-dex-build7+mh4edit-mit-save-id,10,0
+874,GX残忍战靴,GX Esurient Cuisses,mh4g-core-common-game-array+mh4g-dex-build7+mh4edit-mit-save-id,10,0
+875,GX残忍长靴,GX Esurient Jambs,mh4g-core-common-game-array+mh4g-dex-build7+mh4edit-mit-save-id,10,0
+876,GX荒天【羽袴】,GX Tempest Wingpleats,mh4g-core-common-game-array+mh4g-dex-build7+mh4edit-mit-save-id,10,0
+877,GX苍天【羽袴】,GX Welkin Wingpleats,mh4g-core-common-game-array+mh4g-dex-build7+mh4edit-mit-save-id,10,0
+878,GX红龙战靴Ｚ,GX Fatalis Crimsonboots,mh4g-core-common-game-array+mh4g-dex-build7+mh4edit-mit-save-id,10,0
+879,GX红龙长靴Ｚ,GX Fatalis Crimsonjambs,mh4g-core-common-game-array+mh4g-dex-build7+mh4edit-mit-save-id,10,0
+880,猎人重靴,Hunter's Greaves,mh4g-core-common-game-array+mh4g-dex-build7+mh4edit-mit-save-id,1,0
+881,猎人轻靴,Hunter's Leggings,mh4g-core-common-game-array+mh4g-dex-build7+mh4edit-mit-save-id,1,0
+882,猎人重靴,Hunter's Greaves,mh4g-core-common-game-array+mh4g-dex-build7+mh4edit-mit-save-id,1,0
+883,猎人轻靴,Hunter's Leggings,mh4g-core-common-game-array+mh4g-dex-build7+mh4edit-mit-save-id,1,0
+884,水兽重靴,Ludroth Greaves,mh4g-core-common-game-array+mh4g-dex-build7+mh4edit-mit-save-id,2,0
+885,水兽轻靴,Ludroth Leggings,mh4g-core-common-game-array+mh4g-dex-build7+mh4edit-mit-save-id,2,0
+886,水兽重靴,Ludroth Greaves,mh4g-core-common-game-array+mh4g-dex-build7+mh4edit-mit-save-id,2,0
+887,水兽轻靴,Ludroth Leggings,mh4g-core-common-game-array+mh4g-dex-build7+mh4edit-mit-save-id,2,0
+888,合金重靴,Alloy Greaves,mh4g-core-common-game-array+mh4g-dex-build7+mh4edit-mit-save-id,1,0
+889,合金轻靴,Alloy Leggings,mh4g-core-common-game-array+mh4g-dex-build7+mh4edit-mit-save-id,1,0
+890,合金重靴,Alloy Greaves,mh4g-core-common-game-array+mh4g-dex-build7+mh4edit-mit-save-id,1,0
+891,合金轻靴,Alloy Leggings,mh4g-core-common-game-array+mh4g-dex-build7+mh4edit-mit-save-id,1,0
+892,毒怪鸟重靴,Gypceros Greaves,mh4g-core-common-game-array+mh4g-dex-build7+mh4edit-mit-save-id,2,0
+893,毒怪鸟轻靴,Gypceros Leggings,mh4g-core-common-game-array+mh4g-dex-build7+mh4edit-mit-save-id,2,0
+894,毒怪鸟重靴,Gypceros Greaves,mh4g-core-common-game-array+mh4g-dex-build7+mh4edit-mit-save-id,2,0
+895,毒怪鸟轻靴,Gypceros Leggings,mh4g-core-common-game-array+mh4g-dex-build7+mh4edit-mit-save-id,2,0
+896,电龙重靴,Khezu Greaves,mh4g-core-common-game-array+mh4g-dex-build7+mh4edit-mit-save-id,2,0
+897,电龙轻靴,Khezu Leggings,mh4g-core-common-game-array+mh4g-dex-build7+mh4edit-mit-save-id,2,0
+898,电龙重靴,Khezu Greaves,mh4g-core-common-game-array+mh4g-dex-build7+mh4edit-mit-save-id,2,0
+899,电龙轻靴,Khezu Leggings,mh4g-core-common-game-array+mh4g-dex-build7+mh4edit-mit-save-id,2,0
+900,高合金重靴,Ingot Greaves,mh4g-core-common-game-array+mh4g-dex-build7+mh4edit-mit-save-id,3,0
+901,高合金轻靴,Ingot Leggings,mh4g-core-common-game-array+mh4g-dex-build7+mh4edit-mit-save-id,3,0
+902,高合金重靴,Ingot Greaves,mh4g-core-common-game-array+mh4g-dex-build7+mh4edit-mit-save-id,3,0
+903,高合金轻靴,Ingot Leggings,mh4g-core-common-game-array+mh4g-dex-build7+mh4edit-mit-save-id,3,0
+904,雌火龙重靴,Rathian Greaves,mh4g-core-common-game-array+mh4g-dex-build7+mh4edit-mit-save-id,2,0
+905,雌火龙轻靴,Rathian Leggings,mh4g-core-common-game-array+mh4g-dex-build7+mh4edit-mit-save-id,2,0
+906,海龙重靴,Lagiacrus Greaves,mh4g-core-common-game-array+mh4g-dex-build7+mh4edit-mit-save-id,6,0
+907,海龙轻靴,Lagiacrus Leggings,mh4g-core-common-game-array+mh4g-dex-build7+mh4edit-mit-save-id,6,0
+908,雄火龙重靴,Rathalos Greaves,mh4g-core-common-game-array+mh4g-dex-build7+mh4edit-mit-save-id,3,0
+909,雄火龙轻靴,Rathalos Leggings,mh4g-core-common-game-array+mh4g-dex-build7+mh4edit-mit-save-id,3,0
+910,毒怪鸟重靴Ｕ,Gypceros Greaves U,mh4g-core-common-game-array+mh4g-dex-build7+mh4edit-mit-save-id,6,0
+911,毒怪鸟轻靴Ｕ,Gypceros Leggings U,mh4g-core-common-game-array+mh4g-dex-build7+mh4edit-mit-save-id,6,0
+912,电龙重靴Ｕ,Khezu Greaves U,mh4g-core-common-game-array+mh4g-dex-build7+mh4edit-mit-save-id,6,0
+913,电龙轻靴Ｕ,Khezu Leggings U,mh4g-core-common-game-array+mh4g-dex-build7+mh4edit-mit-save-id,6,0
+914,轰龙腿甲,Tigrex Greaves,mh4g-core-common-game-array+mh4g-dex-build7+mh4edit-mit-save-id,3,0
+915,轰龙轻靴,Tigrex Leggings,mh4g-core-common-game-array+mh4g-dex-build7+mh4edit-mit-save-id,3,0
+916,麒麟护腿,Kirin Leg Guards,mh4g-core-common-game-array+mh4g-dex-build7+mh4edit-mit-save-id,3,0
+917,麒麟鞋,Kirin Boots,mh4g-core-common-game-array+mh4g-dex-build7+mh4edit-mit-save-id,3,0
+918,麒麟护腿,Kirin Leg Guards,mh4g-core-common-game-array+mh4g-dex-build7+mh4edit-mit-save-id,3,0
+919,麒麟鞋,Kirin Boots,mh4g-core-common-game-array+mh4g-dex-build7+mh4edit-mit-save-id,3,0
+920,神秘重靴Ｓ,Artian Greaves S,mh4g-core-common-game-array+mh4g-dex-build7+mh4edit-mit-save-id,5,0
+921,神秘轻靴Ｓ,Artian Leggings S,mh4g-core-common-game-array+mh4g-dex-build7+mh4edit-mit-save-id,5,0
+922,镰蟹重靴,Ceanataur Greaves,mh4g-core-common-game-array+mh4g-dex-build7+mh4edit-mit-save-id,2,0
+923,镰蟹轻靴,Ceanataur Leggings,mh4g-core-common-game-array+mh4g-dex-build7+mh4edit-mit-save-id,2,0
+924,镰蟹重靴,Ceanataur Greaves,mh4g-core-common-game-array+mh4g-dex-build7+mh4edit-mit-save-id,2,0
+925,镰蟹轻靴,Ceanataur Leggings,mh4g-core-common-game-array+mh4g-dex-build7+mh4edit-mit-save-id,2,0
+926,残阳【具足】,Gloaming Greaves,mh4g-core-common-game-array+mh4g-dex-build7+mh4edit-mit-save-id,3,0
+927,东云【袴】,Dayspring Pleats,mh4g-core-common-game-array+mh4g-dex-build7+mh4edit-mit-save-id,3,0
+928,常盘【具足】,Adamance Pleats,mh4g-core-common-game-array+mh4g-dex-build7+mh4edit-mit-save-id,3,0
+929,八千代【袴】,Epoch Pleats,mh4g-core-common-game-array+mh4g-dex-build7+mh4edit-mit-save-id,3,0
+930,雷狼龙重靴Ｕ,Zinogre Greaves U,mh4g-core-common-game-array+mh4g-dex-build7+mh4edit-mit-save-id,6,0
+931,雷狼龙轻靴Ｕ,Zinogre Leggings U,mh4g-core-common-game-array+mh4g-dex-build7+mh4edit-mit-save-id,6,0
+932,黑轰龙重靴Ｕ,Tigrex Greaves U,mh4g-core-common-game-array+mh4g-dex-build7+mh4edit-mit-save-id,6,0
+933,黑轰龙轻靴Ｕ,Tigrex Leggings U,mh4g-core-common-game-array+mh4g-dex-build7+mh4edit-mit-save-id,6,0
+934,黑蚀龙重靴,Gore Greaves,mh4g-core-common-game-array+mh4g-dex-build7+mh4edit-mit-save-id,3,0
+935,黑蚀龙轻靴,Gore Leggings,mh4g-core-common-game-array+mh4g-dex-build7+mh4edit-mit-save-id,3,0
+936,晓丸【具足】,Auroros Pants,mh4g-core-common-game-array+mh4g-dex-build7+mh4edit-mit-save-id,3,0
+937,曙丸【具足】,Genesis Pants,mh4g-core-common-game-array+mh4g-dex-build7+mh4edit-mit-save-id,3,0
+938,凛【袴】,Borealis Hakama,mh4g-core-common-game-array+mh4g-dex-build7+mh4edit-mit-save-id,3,0
+939,艳【袴】,Glyph Hakama,mh4g-core-common-game-array+mh4g-dex-build7+mh4edit-mit-save-id,3,0
+940,麒麟护腿Ｕ,Kirin Leg Guards U,mh4g-core-common-game-array+mh4g-dex-build7+mh4edit-mit-save-id,7,0
+941,麒麟鞋Ｕ,Kirin Boots U,mh4g-core-common-game-array+mh4g-dex-build7+mh4edit-mit-save-id,7,0
+942,麒麟护腿Ｕ,Kirin Leg Guards U,mh4g-core-common-game-array+mh4g-dex-build7+mh4edit-mit-save-id,7,0
+943,麒麟鞋Ｕ,Kirin Boots U,mh4g-core-common-game-array+mh4g-dex-build7+mh4edit-mit-save-id,7,0
+944,残忍重靴,Esurient Greaves,mh4g-core-common-game-array+mh4g-dex-build7+mh4edit-mit-save-id,7,0
+945,残忍轻靴,Esurient Leggings,mh4g-core-common-game-array+mh4g-dex-build7+mh4edit-mit-save-id,7,0
+946,一角龙重靴,Monoblos Greaves,mh4g-core-common-game-array+mh4g-armor-name-crosswalk+mh4edit-mit-save-id,0,1
+947,一角龙轻靴,Monoblos Leggings,mh4g-core-common-game-array+mh4g-armor-name-crosswalk+mh4edit-mit-save-id,0,1
+948,牛头重靴,Hornet Greaves,mh4g-core-common-game-array+mh4g-armor-name-crosswalk+mh4edit-mit-save-id,0,1
+949,牛头轻靴,Hornet Leggings,mh4g-core-common-game-array+mh4g-armor-name-crosswalk+mh4edit-mit-save-id,0,1
+950,毒狗龙重靴,Wroggi Greaves,mh4g-core-common-game-array+mh4g-armor-name-crosswalk+mh4edit-mit-save-id,0,1
+951,毒狗龙轻靴,Wroggi Leggings,mh4g-core-common-game-array+mh4g-armor-name-crosswalk+mh4edit-mit-save-id,0,1
+952,独角恶魔重靴,Monodevil Greaves,mh4g-core-common-game-array+mh4g-dex-build7+mh4edit-mit-save-id,9,0
+953,独角恶魔轻靴,Monodevil Leggings,mh4g-core-common-game-array+mh4g-dex-build7+mh4edit-mit-save-id,9,0
+954,角龙重靴,Diablos Greaves,mh4g-core-common-game-array+mh4g-dex-build7+mh4edit-mit-save-id,3,0
+955,角龙轻靴,Diablos Leggings,mh4g-core-common-game-array+mh4g-dex-build7+mh4edit-mit-save-id,3,0
+956,毒怪龙重靴,Gigginox Greaves,mh4g-core-common-game-array+mh4g-armor-name-crosswalk+mh4edit-mit-save-id,0,1
+957,毒怪龙轻靴,Gigginox Leggings,mh4g-core-common-game-array+mh4g-armor-name-crosswalk+mh4edit-mit-save-id,0,1
+958,死神重靴,Death Stench Heel,mh4g-core-common-game-array+mh4g-armor-name-crosswalk+mh4edit-mit-save-id,0,1
+959,死神轻靴,Death Stench March,mh4g-core-common-game-array+mh4g-armor-name-crosswalk+mh4edit-mit-save-id,0,1
+960,大马士革重靴,Damascus Greaves,mh4g-core-common-game-array+mh4g-armor-name-crosswalk+mh4edit-mit-save-id,0,1
+961,大马士革轻靴,Damascus Leggings,mh4g-core-common-game-array+mh4g-armor-name-crosswalk+mh4edit-mit-save-id,0,1
+962,dummy,DUMMY,mh4g-core-common-game-array+mh4edit-mit-save-id,0,0
+963,dummy,DUMMY,mh4g-core-common-game-array+mh4edit-mit-save-id,0,0

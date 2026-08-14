@@ -1,957 +1,957 @@
 id,name,english,source,rarity,is_relic
-0,None,None,mh4g-save-format,0,0
-1,Derring Gloves,Derring Gloves,mh4g-dex-build7+mh4edit-mit-save-id,1,0
-2,Derring Vambraces S,Derring Vambraces S,mh4g-dex-build7+mh4edit-mit-save-id,4,0
-3,Derring Guards S,Derring Guards S,mh4g-dex-build7+mh4edit-mit-save-id,4,0
-4,Leather Gloves,Leather Gloves,mh4g-dex-build7+mh4edit-mit-save-id,1,0
-5,Leather Vambraces S,Leather Vambraces S,mh4g-dex-build7+mh4edit-mit-save-id,4,0
-6,Leather Guards S,Leather Guards S,mh4g-dex-build7+mh4edit-mit-save-id,4,0
-7,Chainmail Gloves,Chainmail Gloves,mh4g-dex-build7+mh4edit-mit-save-id,1,0
-8,Chainmail Braces S,Chainmail Braces S,mh4g-dex-build7+mh4edit-mit-save-id,4,0
-9,Chainmail Guards S,Chainmail Guards S,mh4g-dex-build7+mh4edit-mit-save-id,4,0
-10,Hunter's Vambraces,Hunter's Vambraces,mh4g-dex-build7+mh4edit-mit-save-id,1,0
-11,Hunter's Guards,Hunter's Guards,mh4g-dex-build7+mh4edit-mit-save-id,1,0
-12,Hunter's Vambraces S,Hunter's Vambraces S,mh4g-dex-build7+mh4edit-mit-save-id,4,0
-13,Hunter's Guards S,Hunter's Guards S,mh4g-dex-build7+mh4edit-mit-save-id,4,0
-14,Hunter's Vambraces,Hunter's Vambraces,mh4g-dex-build7+mh4edit-mit-save-id,1,0
-15,Hunter's Guards,Hunter's Guards,mh4g-dex-build7+mh4edit-mit-save-id,1,0
-16,Bone Vambraces,Bone Vambraces,mh4g-dex-build7+mh4edit-mit-save-id,1,0
-17,Bone Guards,Bone Guards,mh4g-dex-build7+mh4edit-mit-save-id,1,0
-18,Bone Vambraces S,Bone Vambraces S,mh4g-dex-build7+mh4edit-mit-save-id,4,0
-19,Bone Guards S,Bone Guards S,mh4g-dex-build7+mh4edit-mit-save-id,4,0
-20,Alloy Vambraces,Alloy Vambraces,mh4g-dex-build7+mh4edit-mit-save-id,1,0
-21,Alloy Guards,Alloy Guards,mh4g-dex-build7+mh4edit-mit-save-id,1,0
-22,Alloy Vambraces S,Alloy Vambraces S,mh4g-dex-build7+mh4edit-mit-save-id,4,0
-23,Alloy Guards S,Alloy Guards S,mh4g-dex-build7+mh4edit-mit-save-id,4,0
-24,Alloy Vambraces,Alloy Vambraces,mh4g-dex-build7+mh4edit-mit-save-id,1,0
-25,Alloy Guards,Alloy Guards,mh4g-dex-build7+mh4edit-mit-save-id,1,0
-26,Jaggi Vambraces,Jaggi Vambraces,mh4g-dex-build7+mh4edit-mit-save-id,2,0
-27,Jaggi Guards,Jaggi Guards,mh4g-dex-build7+mh4edit-mit-save-id,2,0
-28,Jaggi Vambraces S,Jaggi Vambraces S,mh4g-dex-build7+mh4edit-mit-save-id,4,0
-29,Jaggi Guards S,Jaggi Guards S,mh4g-dex-build7+mh4edit-mit-save-id,4,0
-30,Ludroth Vambraces,Ludroth Vambraces,mh4g-dex-build7+mh4edit-mit-save-id,2,0
-31,Ludroth Guards,Ludroth Guards,mh4g-dex-build7+mh4edit-mit-save-id,2,0
-32,Ludroth Vambraces,Ludroth Vambraces,mh4g-dex-build7+mh4edit-mit-save-id,2,0
-33,Ludroth Guards,Ludroth Guards,mh4g-dex-build7+mh4edit-mit-save-id,2,0
-34,Rhenoplos Vambraces,Rhenoplos Vambraces,mh4g-dex-build7+mh4edit-mit-save-id,2,0
-35,Rhenoplos Guards,Rhenoplos Guards,mh4g-dex-build7+mh4edit-mit-save-id,2,0
-36,Rhenoplos Braces S,Rhenoplos Braces S,mh4g-dex-build7+mh4edit-mit-save-id,4,0
-37,Rhenoplos Guards S,Rhenoplos Guards S,mh4g-dex-build7+mh4edit-mit-save-id,4,0
-38,Bnahabra Gloves,Bnahabra Gloves,mh4g-dex-build7+mh4edit-mit-save-id,2,0
-39,Bnahabra Sleeves,Bnahabra Sleeves,mh4g-dex-build7+mh4edit-mit-save-id,2,0
-40,Bnahabra Gloves S,Bnahabra Gloves S,mh4g-dex-build7+mh4edit-mit-save-id,4,0
-41,Bnahabra Sleeves S,Bnahabra Sleeves S,mh4g-dex-build7+mh4edit-mit-save-id,4,0
-42,Barroth Vambraces,Barroth Vambraces,mh4g-dex-build7+mh4edit-mit-save-id,2,0
-43,Barroth Guards,Barroth Guards,mh4g-dex-build7+mh4edit-mit-save-id,2,0
-44,Rathian Vambraces,Rathian Vambraces,mh4g-dex-build7+mh4edit-mit-save-id,2,0
-45,Rathian Guards,Rathian Guards,mh4g-dex-build7+mh4edit-mit-save-id,2,0
-46,Rathian Vambraces S,Rathian Vambraces S,mh4g-dex-build7+mh4edit-mit-save-id,5,0
-47,Rathian Guards S,Rathian Guards S,mh4g-dex-build7+mh4edit-mit-save-id,5,0
-48,Rath Heart Braces,Rath Heart Braces,mh4g-dex-build7+mh4edit-mit-save-id,6,0
-49,Rath Heart Guards,Rath Heart Guards,mh4g-dex-build7+mh4edit-mit-save-id,6,0
-50,Golden Lunebraces,Golden Lunebraces,mh4g-dex-build7+mh4edit-mit-save-id,7,0
-51,Golden Luneguards,Golden Luneguards,mh4g-dex-build7+mh4edit-mit-save-id,7,0
-52,Rathian Vambraces,Rathian Vambraces,mh4g-dex-build7+mh4edit-mit-save-id,2,0
-53,Rathian Guards,Rathian Guards,mh4g-dex-build7+mh4edit-mit-save-id,2,0
-54,Rath Heart Braces,Rath Heart Braces,mh4g-dex-build7+mh4edit-mit-save-id,6,0
-55,Rath Heart Guards,Rath Heart Guards,mh4g-dex-build7+mh4edit-mit-save-id,6,0
-56,EX Rathian Braces,EX Rathian Braces,mh4g-dex-build7+mh4edit-mit-save-id,7,0
-57,EX Rathian Guards,EX Rathian Guards,mh4g-dex-build7+mh4edit-mit-save-id,7,0
-58,Rathalos Vambraces,Rathalos Vambraces,mh4g-dex-build7+mh4edit-mit-save-id,3,0
-59,Rathalos Guards,Rathalos Guards,mh4g-dex-build7+mh4edit-mit-save-id,3,0
-60,Rathalos Vambraces S,Rathalos Vambraces S,mh4g-dex-build7+mh4edit-mit-save-id,5,0
-61,Rathalos Guards S,Rathalos Guards S,mh4g-dex-build7+mh4edit-mit-save-id,5,0
-62,Rath Soul Braces,Rath Soul Braces,mh4g-dex-build7+mh4edit-mit-save-id,6,0
-63,Rath Soul Guards,Rath Soul Guards,mh4g-dex-build7+mh4edit-mit-save-id,6,0
-64,Silver Solbraces,Silver Solbraces,mh4g-dex-build7+mh4edit-mit-save-id,7,0
-65,Silver Solguards,Silver Solguards,mh4g-dex-build7+mh4edit-mit-save-id,7,0
-66,Rathalos Vambraces,Rathalos Vambraces,mh4g-dex-build7+mh4edit-mit-save-id,3,0
-67,Rathalos Guards,Rathalos Guards,mh4g-dex-build7+mh4edit-mit-save-id,3,0
-68,Rath Soul Braces,Rath Soul Braces,mh4g-dex-build7+mh4edit-mit-save-id,6,0
-69,Rath Soul Guards,Rath Soul Guards,mh4g-dex-build7+mh4edit-mit-save-id,6,0
-70,Silver Solbraces,Silver Solbraces,mh4g-dex-build7+mh4edit-mit-save-id,7,0
-71,Silver Solguards,Silver Solguards,mh4g-dex-build7+mh4edit-mit-save-id,7,0
-72,EX Rathalos Braces,EX Rathalos Braces,mh4g-dex-build7+mh4edit-mit-save-id,7,0
-73,EX Rathalos Guards,EX Rathalos Guards,mh4g-dex-build7+mh4edit-mit-save-id,7,0
-74,Diablos Vambraces,Diablos Vambraces,mh4g-dex-build7+mh4edit-mit-save-id,3,0
-75,Diablos Guards,Diablos Guards,mh4g-dex-build7+mh4edit-mit-save-id,3,0
-76,Uragaan Vambraces,Uragaan Vambraces,mh4g-dex-build7+mh4edit-mit-save-id,3,0
-77,Uragaan Guards,Uragaan Guards,mh4g-dex-build7+mh4edit-mit-save-id,3,0
-78,Vangis Vambraces,Vangis Vambraces,mh4g-dex-build7+mh4edit-mit-save-id,6,0
-79,Vangis Guards,Vangis Guards,mh4g-dex-build7+mh4edit-mit-save-id,6,0
-80,Esurient Vambraces,Esurient Vambraces,mh4g-dex-build7+mh4edit-mit-save-id,7,0
-81,Esurient Guards,Esurient Guards,mh4g-dex-build7+mh4edit-mit-save-id,7,0
-82,Esurient Vambraces,Esurient Vambraces,mh4g-dex-build7+mh4edit-mit-save-id,7,0
-83,Esurient Guards,Esurient Guards,mh4g-dex-build7+mh4edit-mit-save-id,7,0
-84,Gloaming Braces,Gloaming Braces,mh4g-dex-build7+mh4edit-mit-save-id,3,0
-85,Adamance Braces,Adamance Braces,mh4g-dex-build7+mh4edit-mit-save-id,3,0
-86,Dayspring Braces,Dayspring Braces,mh4g-dex-build7+mh4edit-mit-save-id,3,0
-87,Epoch Braces,Epoch Braces,mh4g-dex-build7+mh4edit-mit-save-id,3,0
-88,Gloaming Archbraces,Gloaming Archbraces,mh4g-dex-build7+mh4edit-mit-save-id,7,0
-89,Adamance Archbraces,Adamance Archbraces,mh4g-dex-build7+mh4edit-mit-save-id,7,0
-90,Dayspring Archbraces,Dayspring Archbraces,mh4g-dex-build7+mh4edit-mit-save-id,7,0
-91,Epoch Archbraces,Epoch Archbraces,mh4g-dex-build7+mh4edit-mit-save-id,7,0
-92,Gloaming Braces,Gloaming Braces,mh4g-dex-build7+mh4edit-mit-save-id,3,0
-93,Adamance Braces,Adamance Braces,mh4g-dex-build7+mh4edit-mit-save-id,3,0
-94,Dayspring Braces,Dayspring Braces,mh4g-dex-build7+mh4edit-mit-save-id,3,0
-95,Epoch Braces,Epoch Braces,mh4g-dex-build7+mh4edit-mit-save-id,3,0
-96,Plesioth Vambraces,Plesioth Vambraces,mh4g-dex-build7+mh4edit-mit-save-id,4,0
-97,Plesioth Guards,Plesioth Guards,mh4g-dex-build7+mh4edit-mit-save-id,4,0
-98,Nibelsnarf Braces,Nibelsnarf Braces,mh4g-dex-build7+mh4edit-mit-save-id,2,0
-99,Nibelsnarf Guards,Nibelsnarf Guards,mh4g-dex-build7+mh4edit-mit-save-id,2,0
-100,Duramboros Braces,Duramboros Braces,mh4g-dex-build7+mh4edit-mit-save-id,3,0
-101,Duramboros Guards,Duramboros Guards,mh4g-dex-build7+mh4edit-mit-save-id,3,0
-102,Arzuros Vambraces,Arzuros Vambraces,mh4g-dex-build7+mh4edit-mit-save-id,2,0
-103,Arzuros Guards,Arzuros Guards,mh4g-dex-build7+mh4edit-mit-save-id,2,0
-104,Lagombi Vambraces,Lagombi Vambraces,mh4g-dex-build7+mh4edit-mit-save-id,2,0
-105,Lagombi Guards,Lagombi Guards,mh4g-dex-build7+mh4edit-mit-save-id,2,0
-106,Lagombi Vambraces S,Lagombi Vambraces S,mh4g-dex-build7+mh4edit-mit-save-id,4,0
-107,Lagombi Guards S,Lagombi Guards S,mh4g-dex-build7+mh4edit-mit-save-id,4,0
-108,Nargacuga Braces,Nargacuga Braces,mh4g-dex-build7+mh4edit-mit-save-id,3,0
-109,Nargacuga Guards,Nargacuga Guards,mh4g-dex-build7+mh4edit-mit-save-id,3,0
-110,Tigrex Vambraces,Tigrex Vambraces,mh4g-dex-build7+mh4edit-mit-save-id,3,0
-111,Tigrex Guards,Tigrex Guards,mh4g-dex-build7+mh4edit-mit-save-id,3,0
-112,Tigrex Vambraces S,Tigrex Vambraces S,mh4g-dex-build7+mh4edit-mit-save-id,5,0
-113,Tigrex Guards S,Tigrex Guards S,mh4g-dex-build7+mh4edit-mit-save-id,5,0
-114,Tigrex Vambraces U,Tigrex Vambraces U,mh4g-dex-build7+mh4edit-mit-save-id,6,0
-115,Tigrex Guards U,Tigrex Guards U,mh4g-dex-build7+mh4edit-mit-save-id,6,0
-116,Excello Vambraces,Excello Vambraces,mh4g-dex-build7+mh4edit-mit-save-id,7,0
-117,Excello Guards,Excello Guards,mh4g-dex-build7+mh4edit-mit-save-id,7,0
-118,EX Tigrex Vambraces,EX Tigrex Vambraces,mh4g-dex-build7+mh4edit-mit-save-id,7,0
-119,EX Tigrex Guards,EX Tigrex Guards,mh4g-dex-build7+mh4edit-mit-save-id,7,0
-120,Tigrex Vambraces,Tigrex Vambraces,mh4g-dex-build7+mh4edit-mit-save-id,3,0
-121,Tigrex Guards,Tigrex Guards,mh4g-dex-build7+mh4edit-mit-save-id,3,0
-122,Tigrex Vambraces U,Tigrex Vambraces U,mh4g-dex-build7+mh4edit-mit-save-id,6,0
-123,Tigrex Guards U,Tigrex Guards U,mh4g-dex-build7+mh4edit-mit-save-id,6,0
-124,Brachydios Braces,Brachydios Braces,mh4g-dex-build7+mh4edit-mit-save-id,3,0
-125,Brachydios Guards,Brachydios Guards,mh4g-dex-build7+mh4edit-mit-save-id,3,0
-126,Brachydios Braces S,Brachydios Braces S,mh4g-dex-build7+mh4edit-mit-save-id,6,0
-127,Brachydios Guards S,Brachydios Guards S,mh4g-dex-build7+mh4edit-mit-save-id,6,0
-128,Akantor Claws,Akantor Claws,mh4g-dex-build7+mh4edit-mit-save-id,7,0
-129,Akantor Gauntlets,Akantor Gauntlets,mh4g-dex-build7+mh4edit-mit-save-id,7,0
-130,Akantor Claws,Akantor Claws,mh4g-dex-build7+mh4edit-mit-save-id,7,0
-131,Akantor Gauntlets,Akantor Gauntlets,mh4g-dex-build7+mh4edit-mit-save-id,7,0
-132,Zinogre Vambraces,Zinogre Vambraces,mh4g-dex-build7+mh4edit-mit-save-id,3,0
-133,Zinogre Guards,Zinogre Guards,mh4g-dex-build7+mh4edit-mit-save-id,3,0
-134,Zinogre Vambraces S,Zinogre Vambraces S,mh4g-dex-build7+mh4edit-mit-save-id,5,0
-135,Zinogre Guards S,Zinogre Guards S,mh4g-dex-build7+mh4edit-mit-save-id,5,0
-136,Zinogre Vambraces U,Zinogre Vambraces U,mh4g-dex-build7+mh4edit-mit-save-id,6,0
-137,Zinogre Guards U,Zinogre Guards U,mh4g-dex-build7+mh4edit-mit-save-id,6,0
-138,Zinogre Vambraces U,Zinogre Vambraces U,mh4g-dex-build7+mh4edit-mit-save-id,6,0
-139,Zinogre Guards U,Zinogre Guards U,mh4g-dex-build7+mh4edit-mit-save-id,6,0
-140,EX Kaiser Vambraces,EX Kaiser Vambraces,mh4g-dex-build7+mh4edit-mit-save-id,7,0
-141,EX Kaiser Guards,EX Kaiser Guards,mh4g-dex-build7+mh4edit-mit-save-id,7,0
-142,Kecha Vambraces,Kecha Vambraces,mh4g-dex-build7+mh4edit-mit-save-id,2,0
-143,Kecha Guards,Kecha Guards,mh4g-dex-build7+mh4edit-mit-save-id,2,0
-144,Kecha Braces S,Kecha Braces S,mh4g-dex-build7+mh4edit-mit-save-id,4,0
-145,Kecha Guards S,Kecha Guards S,mh4g-dex-build7+mh4edit-mit-save-id,4,0
-146,Gore Braces,Gore Braces,mh4g-dex-build7+mh4edit-mit-save-id,3,0
-147,Gore Guards,Gore Guards,mh4g-dex-build7+mh4edit-mit-save-id,3,0
-148,Gore Braces S,Gore Braces S,mh4g-dex-build7+mh4edit-mit-save-id,6,0
-149,Gore Guards S,Gore Guards S,mh4g-dex-build7+mh4edit-mit-save-id,6,0
-150,Gore Braces,Gore Braces,mh4g-dex-build7+mh4edit-mit-save-id,3,0
-151,Gore Guards,Gore Guards,mh4g-dex-build7+mh4edit-mit-save-id,3,0
-152,Tetsucabra Vambraces,Tetsucabra Vambraces,mh4g-dex-build7+mh4edit-mit-save-id,2,0
-153,Tetsucabra Guards,Tetsucabra Guards,mh4g-dex-build7+mh4edit-mit-save-id,2,0
-154,Tetsucabra Braces S,Tetsucabra Braces S,mh4g-dex-build7+mh4edit-mit-save-id,5,0
-155,Tetsucabra Guards S,Tetsucabra Guards S,mh4g-dex-build7+mh4edit-mit-save-id,5,0
-156,Nerscylla Vambraces,Nerscylla Vambraces,mh4g-dex-build7+mh4edit-mit-save-id,2,0
-157,Nerscylla Guards,Nerscylla Guards,mh4g-dex-build7+mh4edit-mit-save-id,2,0
-158,Nerscylla Braces S,Nerscylla Braces S,mh4g-dex-build7+mh4edit-mit-save-id,5,0
-159,Nerscylla Guards S,Nerscylla Guards S,mh4g-dex-build7+mh4edit-mit-save-id,5,0
-160,Najarala Braces,Najarala Braces,mh4g-dex-build7+mh4edit-mit-save-id,2,0
-161,Najarala Guards,Najarala Guards,mh4g-dex-build7+mh4edit-mit-save-id,2,0
-162,Najarala Braces S,Najarala Braces S,mh4g-dex-build7+mh4edit-mit-save-id,5,0
-163,Najarala Guards S,Najarala Guards S,mh4g-dex-build7+mh4edit-mit-save-id,5,0
-164,Garuga Vambraces,Garuga Vambraces,mh4g-dex-build7+mh4edit-mit-save-id,3,0
-165,Garuga Guards,Garuga Guards,mh4g-dex-build7+mh4edit-mit-save-id,3,0
-166,Garuga Vambraces S,Garuga Vambraces S,mh4g-dex-build7+mh4edit-mit-save-id,5,0
-167,Garuga Guards S,Garuga Guards S,mh4g-dex-build7+mh4edit-mit-save-id,5,0
-168,Basarios Vambraces,Basarios Vambraces,mh4g-dex-build7+mh4edit-mit-save-id,2,0
-169,Basarios Guards,Basarios Guards,mh4g-dex-build7+mh4edit-mit-save-id,2,0
-170,Basarios Vambraces S,Basarios Vambraces S,mh4g-dex-build7+mh4edit-mit-save-id,5,0
-171,Basarios Guards S,Basarios Guards S,mh4g-dex-build7+mh4edit-mit-save-id,5,0
-172,Basarios Vambraces U,Basarios Vambraces U,mh4g-dex-build7+mh4edit-mit-save-id,6,0
-173,Basarios Guards U,Basarios Guards U,mh4g-dex-build7+mh4edit-mit-save-id,6,0
-174,Battle Vambraces,Battle Vambraces,mh4g-dex-build7+mh4edit-mit-save-id,2,0
-175,Battle Guards,Battle Guards,mh4g-dex-build7+mh4edit-mit-save-id,2,0
-176,Velociprey Braces,Velociprey Braces,mh4g-dex-build7+mh4edit-mit-save-id,2,0
-177,Velociprey Guards,Velociprey Guards,mh4g-dex-build7+mh4edit-mit-save-id,2,0
-178,Velociprey Braces S,Velociprey Braces S,mh4g-dex-build7+mh4edit-mit-save-id,4,0
-179,Velociprey Guards S,Velociprey Guards S,mh4g-dex-build7+mh4edit-mit-save-id,4,0
-180,Genprey Vambraces,Genprey Vambraces,mh4g-dex-build7+mh4edit-mit-save-id,2,0
-181,Genprey Guards,Genprey Guards,mh4g-dex-build7+mh4edit-mit-save-id,2,0
-182,Genprey Vambraces S,Genprey Vambraces S,mh4g-dex-build7+mh4edit-mit-save-id,4,0
-183,Genprey Guards S,Genprey Guards S,mh4g-dex-build7+mh4edit-mit-save-id,4,0
-184,Ioprey Vambraces,Ioprey Vambraces,mh4g-dex-build7+mh4edit-mit-save-id,2,0
-185,Ioprey Guards,Ioprey Guards,mh4g-dex-build7+mh4edit-mit-save-id,2,0
-186,Ioprey Vambraces S,Ioprey Vambraces S,mh4g-dex-build7+mh4edit-mit-save-id,4,0
-187,Ioprey Guards S,Ioprey Guards S,mh4g-dex-build7+mh4edit-mit-save-id,4,0
-188,Kut-Ku Vambraces,Kut-Ku Vambraces,mh4g-dex-build7+mh4edit-mit-save-id,2,0
-189,Kut-Ku Guards,Kut-Ku Guards,mh4g-dex-build7+mh4edit-mit-save-id,2,0
-190,Kut-Ku Vambraces S,Kut-Ku Vambraces S,mh4g-dex-build7+mh4edit-mit-save-id,4,0
-191,Kut-Ku Guards S,Kut-Ku Guards S,mh4g-dex-build7+mh4edit-mit-save-id,4,0
-192,Kut-Ku Vambraces U,Kut-Ku Vambraces U,mh4g-dex-build7+mh4edit-mit-save-id,5,0
-193,Kut-Ku Guards U,Kut-Ku Guards U,mh4g-dex-build7+mh4edit-mit-save-id,5,0
-194,Gypceros Vambraces,Gypceros Vambraces,mh4g-dex-build7+mh4edit-mit-save-id,2,0
-195,Gypceros Guards,Gypceros Guards,mh4g-dex-build7+mh4edit-mit-save-id,2,0
-196,Gypceros Vambraces S,Gypceros Vambraces S,mh4g-dex-build7+mh4edit-mit-save-id,5,0
-197,Gypceros Guards S,Gypceros Guards S,mh4g-dex-build7+mh4edit-mit-save-id,5,0
-198,Gypceros Vambraces U,Gypceros Vambraces U,mh4g-dex-build7+mh4edit-mit-save-id,6,0
-199,Gypceros Guards U,Gypceros Guards U,mh4g-dex-build7+mh4edit-mit-save-id,6,0
-200,Gypceros Vambraces,Gypceros Vambraces,mh4g-dex-build7+mh4edit-mit-save-id,2,0
-201,Gypceros Guards,Gypceros Guards,mh4g-dex-build7+mh4edit-mit-save-id,2,0
-202,Gypceros Vambraces U,Gypceros Vambraces U,mh4g-dex-build7+mh4edit-mit-save-id,6,0
-203,Gypceros Guards U,Gypceros Guards U,mh4g-dex-build7+mh4edit-mit-save-id,6,0
-204,Conga Vambraces,Conga Vambraces,mh4g-dex-build7+mh4edit-mit-save-id,2,0
-205,Conga Guards,Conga Guards,mh4g-dex-build7+mh4edit-mit-save-id,2,0
-206,Conga Vambraces S,Conga Vambraces S,mh4g-dex-build7+mh4edit-mit-save-id,4,0
-207,Conga Guards S,Conga Guards S,mh4g-dex-build7+mh4edit-mit-save-id,4,0
-208,Conga Vambraces U,Conga Vambraces U,mh4g-dex-build7+mh4edit-mit-save-id,5,0
-209,Conga Guards U,Conga Guards U,mh4g-dex-build7+mh4edit-mit-save-id,5,0
-210,Gravios Vambraces,Gravios Vambraces,mh4g-dex-build7+mh4edit-mit-save-id,3,0
-211,Gravios Guards,Gravios Guards,mh4g-dex-build7+mh4edit-mit-save-id,3,0
-212,Gravios Vambraces S,Gravios Vambraces S,mh4g-dex-build7+mh4edit-mit-save-id,5,0
-213,Gravios Guards S,Gravios Guards S,mh4g-dex-build7+mh4edit-mit-save-id,5,0
-214,Gravios Vambraces U,Gravios Vambraces U,mh4g-dex-build7+mh4edit-mit-save-id,6,0
-215,Gravios Guards U,Gravios Guards U,mh4g-dex-build7+mh4edit-mit-save-id,6,0
-216,Khezu Vambraces,Khezu Vambraces,mh4g-dex-build7+mh4edit-mit-save-id,2,0
-217,Khezu Guards,Khezu Guards,mh4g-dex-build7+mh4edit-mit-save-id,2,0
-218,Khezu Vambraces S,Khezu Vambraces S,mh4g-dex-build7+mh4edit-mit-save-id,5,0
-219,Khezu Guards S,Khezu Guards S,mh4g-dex-build7+mh4edit-mit-save-id,5,0
-220,Khezu Vambraces U,Khezu Vambraces U,mh4g-dex-build7+mh4edit-mit-save-id,6,0
-221,Khezu Guards U,Khezu Guards U,mh4g-dex-build7+mh4edit-mit-save-id,6,0
-222,Khezu Vambraces,Khezu Vambraces,mh4g-dex-build7+mh4edit-mit-save-id,2,0
-223,Khezu Guards,Khezu Guards,mh4g-dex-build7+mh4edit-mit-save-id,2,0
-224,Khezu Vambraces U,Khezu Vambraces U,mh4g-dex-build7+mh4edit-mit-save-id,6,0
-225,Khezu Guards U,Khezu Guards U,mh4g-dex-build7+mh4edit-mit-save-id,6,0
-226,Kirin Longarms,Kirin Longarms,mh4g-dex-build7+mh4edit-mit-save-id,3,0
-227,Kirin Gloves,Kirin Gloves,mh4g-dex-build7+mh4edit-mit-save-id,3,0
-228,Kirin Longarms S,Kirin Longarms S,mh4g-dex-build7+mh4edit-mit-save-id,6,0
-229,Kirin Gloves S,Kirin Gloves S,mh4g-dex-build7+mh4edit-mit-save-id,6,0
-230,Kirin Longarms U,Kirin Longarms U,mh4g-dex-build7+mh4edit-mit-save-id,7,0
-231,Kirin Gloves U,Kirin Gloves U,mh4g-dex-build7+mh4edit-mit-save-id,7,0
-232,Kirin Longarms,Kirin Longarms,mh4g-dex-build7+mh4edit-mit-save-id,3,0
-233,Kirin Gloves,Kirin Gloves,mh4g-dex-build7+mh4edit-mit-save-id,3,0
-234,Kirin Longarms U,Kirin Longarms U,mh4g-dex-build7+mh4edit-mit-save-id,7,0
-235,Kirin Gloves U,Kirin Gloves U,mh4g-dex-build7+mh4edit-mit-save-id,7,0
-236,Kushala Grip,Kushala Grip,mh4g-dex-build7+mh4edit-mit-save-id,7,0
-237,Kushala Embrace,Kushala Embrace,mh4g-dex-build7+mh4edit-mit-save-id,7,0
-238,EX Kushala Grip,EX Kushala Grip,mh4g-dex-build7+mh4edit-mit-save-id,7,0
-239,EX Kushala Embrace,EX Kushala Embrace,mh4g-dex-build7+mh4edit-mit-save-id,7,0
-240,Kushala Grip,Kushala Grip,mh4g-dex-build7+mh4edit-mit-save-id,7,0
-241,Kushala Embrace,Kushala Embrace,mh4g-dex-build7+mh4edit-mit-save-id,7,0
-242,Empress Vambraces,Empress Vambraces,mh4g-dex-build7+mh4edit-mit-save-id,7,0
-243,Empress Guards,Empress Guards,mh4g-dex-build7+mh4edit-mit-save-id,7,0
-244,Ceanataur Braces,Ceanataur Braces,mh4g-dex-build7+mh4edit-mit-save-id,2,0
-245,Ceanataur Guards,Ceanataur Guards,mh4g-dex-build7+mh4edit-mit-save-id,2,0
-246,Ceanataur Braces,Ceanataur Braces,mh4g-dex-build7+mh4edit-mit-save-id,2,0
-247,Ceanataur Guards,Ceanataur Guards,mh4g-dex-build7+mh4edit-mit-save-id,2,0
-248,Auroros Gauntlets,Auroros Gauntlets,mh4g-dex-build7+mh4edit-mit-save-id,3,0
-249,Borealis Gauntlets,Borealis Gauntlets,mh4g-dex-build7+mh4edit-mit-save-id,3,0
-250,Genesis Gauntlets,Genesis Gauntlets,mh4g-dex-build7+mh4edit-mit-save-id,3,0
-251,Glyph Gauntlets,Glyph Gauntlets,mh4g-dex-build7+mh4edit-mit-save-id,3,0
-252,Auroros Gauntlets,Auroros Gauntlets,mh4g-dex-build7+mh4edit-mit-save-id,3,0
-253,Borealis Gauntlets,Borealis Gauntlets,mh4g-dex-build7+mh4edit-mit-save-id,3,0
-254,Genesis Gauntlets,Genesis Gauntlets,mh4g-dex-build7+mh4edit-mit-save-id,3,0
-255,Glyph Gauntlets,Glyph Gauntlets,mh4g-dex-build7+mh4edit-mit-save-id,3,0
-256,Lava Vambraces,Lava Vambraces,mh4g-dex-build7+mh4edit-mit-save-id,3,0
-257,Lava Guards,Lava Guards,mh4g-dex-build7+mh4edit-mit-save-id,3,0
-258,Remobra Gloves,Remobra Gloves,mh4g-dex-build7+mh4edit-mit-save-id,2,0
-259,Remobra Hands,Remobra Hands,mh4g-dex-build7+mh4edit-mit-save-id,2,0
-260,Remobra Gloves S,Remobra Gloves S,mh4g-dex-build7+mh4edit-mit-save-id,4,0
-261,Remobra Hands S,Remobra Hands S,mh4g-dex-build7+mh4edit-mit-save-id,4,0
-262,Zamtrios Braces,Zamtrios Braces,mh4g-dex-build7+mh4edit-mit-save-id,2,0
-263,Zamtrios Guards,Zamtrios Guards,mh4g-dex-build7+mh4edit-mit-save-id,2,0
-264,Zamtrios Braces S,Zamtrios Braces S,mh4g-dex-build7+mh4edit-mit-save-id,5,0
-265,Zamtrios Guards S,Zamtrios Guards S,mh4g-dex-build7+mh4edit-mit-save-id,5,0
-266,Seltas Vambraces,Seltas Vambraces,mh4g-dex-build7+mh4edit-mit-save-id,3,0
-267,Seltas Guards,Seltas Guards,mh4g-dex-build7+mh4edit-mit-save-id,3,0
-268,Seltas Vambraces S,Seltas Vambraces S,mh4g-dex-build7+mh4edit-mit-save-id,5,0
-269,Seltas Guards S,Seltas Guards S,mh4g-dex-build7+mh4edit-mit-save-id,5,0
-270,Konchu Vambraces,Konchu Vambraces,mh4g-dex-build7+mh4edit-mit-save-id,2,0
-271,Konchu Vambraces S,Konchu Vambraces S,mh4g-dex-build7+mh4edit-mit-save-id,4,0
-272,Konchu Guards,Konchu Guards,mh4g-dex-build7+mh4edit-mit-save-id,2,0
-273,Konchu Guards S,Konchu Guards S,mh4g-dex-build7+mh4edit-mit-save-id,4,0
-274,Arc Vambraces,Arc Vambraces,mh4g-dex-build7+mh4edit-mit-save-id,3,0
-275,Arc Guards,Arc Guards,mh4g-dex-build7+mh4edit-mit-save-id,3,0
-276,Arc Vambraces S,Arc Vambraces S,mh4g-dex-build7+mh4edit-mit-save-id,7,0
-277,Arc Guards S,Arc Guards S,mh4g-dex-build7+mh4edit-mit-save-id,7,0
-278,Arc Vambraces,Arc Vambraces,mh4g-dex-build7+mh4edit-mit-save-id,3,0
-279,Arc Guards,Arc Guards,mh4g-dex-build7+mh4edit-mit-save-id,3,0
-280,Kaiser Vambraces,Kaiser Vambraces,mh4g-dex-build7+mh4edit-mit-save-id,7,0
-281,Kaiser Guards,Kaiser Guards,mh4g-dex-build7+mh4edit-mit-save-id,7,0
-282,Golden Kote,Golden Kote,mh4g-dex-build7+mh4edit-mit-save-id,7,0
-283,Puppeteer Gloves,Puppeteer Gloves,mh4g-dex-build7+mh4edit-mit-save-id,7,0
-284,Divine Ire Kote,Divine Ire Kote,mh4g-dex-build7+mh4edit-mit-save-id,7,0
-285,Crusher Braces,Crusher Braces,mh4g-dex-build7+mh4edit-mit-save-id,7,0
-286,Rebellion Vambraces,Rebellion Vambraces,mh4g-dex-build7+mh4edit-mit-save-id,7,0
-287,Riot Guards,Riot Guards,mh4g-dex-build7+mh4edit-mit-save-id,7,0
-288,Rebellion Vambraces,Rebellion Vambraces,mh4g-dex-build7+mh4edit-mit-save-id,7,0
-289,Riot Guards,Riot Guards,mh4g-dex-build7+mh4edit-mit-save-id,7,0
-290,Dragonclaws X,Dragonclaws X,mh4g-dex-build7+mh4edit-mit-save-id,10,0
-291,Dragonfists X,Dragonfists X,mh4g-dex-build7+mh4edit-mit-save-id,10,0
-292,Dragonclaws,Dragonclaws,mh4g-dex-build7+mh4edit-mit-save-id,7,0
-293,Dragonfists,Dragonfists,mh4g-dex-build7+mh4edit-mit-save-id,7,0
-294,Fatalis Crimsonclaws,Fatalis Crimsonclaws,mh4g-dex-build7+mh4edit-mit-save-id,7,0
-295,Fatalis Crimsonfists,Fatalis Crimsonfists,mh4g-dex-build7+mh4edit-mit-save-id,7,0
-296,Ioprey Claws,Ioprey Claws,mh4g-dex-build7+mh4edit-mit-save-id,5,0
-297,Ioprey Gloves,Ioprey Gloves,mh4g-dex-build7+mh4edit-mit-save-id,5,0
-298,Cephalos Vambraces,Cephalos Vambraces,mh4g-dex-build7+mh4edit-mit-save-id,4,0
-299,Cephalos Guards,Cephalos Guards,mh4g-dex-build7+mh4edit-mit-save-id,4,0
-300,Mizuha Sleeves,Mizuha Sleeves,mh4g-dex-build7+mh4edit-mit-save-id,7,0
-301,Cham Sleeves,Cham Sleeves,mh4g-dex-build7+mh4edit-mit-save-id,7,0
-302,Hermitaur Braces,Hermitaur Braces,mh4g-dex-build7+mh4edit-mit-save-id,4,0
-303,Hermitaur Guards,Hermitaur Guards,mh4g-dex-build7+mh4edit-mit-save-id,4,0
-304,Hermitaur Braces,Hermitaur Braces,mh4g-dex-build7+mh4edit-mit-save-id,4,0
-305,Hermitaur Guards,Hermitaur Guards,mh4g-dex-build7+mh4edit-mit-save-id,4,0
-306,Vespoid Vambraces,Vespoid Vambraces,mh4g-dex-build7+mh4edit-mit-save-id,4,0
-307,Vespoid Guards,Vespoid Guards,mh4g-dex-build7+mh4edit-mit-save-id,4,0
-308,Qurupeco Vambraces,Qurupeco Vambraces,mh4g-dex-build7+mh4edit-mit-save-id,4,0
-309,Qurupeco Guards,Qurupeco Guards,mh4g-dex-build7+mh4edit-mit-save-id,4,0
-310,Agnaktor Vambraces,Agnaktor Vambraces,mh4g-dex-build7+mh4edit-mit-save-id,6,0
-311,Agnaktor Guards,Agnaktor Guards,mh4g-dex-build7+mh4edit-mit-save-id,6,0
-312,Barioth Vambraces,Barioth Vambraces,mh4g-dex-build7+mh4edit-mit-save-id,5,0
-313,Barioth Guards,Barioth Guards,mh4g-dex-build7+mh4edit-mit-save-id,5,0
-314,Volvidon Vambraces,Volvidon Vambraces,mh4g-dex-build7+mh4edit-mit-save-id,4,0
-315,Volvidon Guards,Volvidon Guards,mh4g-dex-build7+mh4edit-mit-save-id,4,0
-316,Lagiacrus Braces,Lagiacrus Braces,mh4g-dex-build7+mh4edit-mit-save-id,6,0
-317,Lagiacrus Guards,Lagiacrus Guards,mh4g-dex-build7+mh4edit-mit-save-id,6,0
-318,Lagiacrus Braces,Lagiacrus Braces,mh4g-dex-build7+mh4edit-mit-save-id,6,0
-319,Lagiacrus Guards,Lagiacrus Guards,mh4g-dex-build7+mh4edit-mit-save-id,6,0
-320,Helios Vambraces,Helios Vambraces,mh4g-dex-build7+mh4edit-mit-save-id,7,0
-321,Helios Guards,Helios Guards,mh4g-dex-build7+mh4edit-mit-save-id,7,0
-322,Selene Vambraces,Selene Vambraces,mh4g-dex-build7+mh4edit-mit-save-id,7,0
-323,Selene Guards,Selene Guards,mh4g-dex-build7+mh4edit-mit-save-id,7,0
-324,Gobul Vambraces,Gobul Vambraces,mh4g-dex-build7+mh4edit-mit-save-id,5,0
-325,Gobul Guards,Gobul Guards,mh4g-dex-build7+mh4edit-mit-save-id,5,0
-326,Yamato Kote,Yamato Kote,mh4g-dex-build7+mh4edit-mit-save-id,7,0
-327,Hyuga Kote,Hyuga Kote,mh4g-dex-build7+mh4edit-mit-save-id,7,0
-328,Mutsu Kote,Mutsu Kote,mh4g-dex-build7+mh4edit-mit-save-id,7,0
-329,Amagi Kote,Amagi Kote,mh4g-dex-build7+mh4edit-mit-save-id,7,0
-330,Escadora Armguards,Escadora Armguards,mh4g-dex-build7+mh4edit-mit-save-id,7,0
-331,Escadora Arma,Escadora Arma,mh4g-dex-build7+mh4edit-mit-save-id,7,0
-332,Escadora Armguards,Escadora Armguards,mh4g-dex-build7+mh4edit-mit-save-id,7,0
-333,Escadora Arma,Escadora Arma,mh4g-dex-build7+mh4edit-mit-save-id,7,0
-334,Blango Vambraces,Blango Vambraces,mh4g-dex-build7+mh4edit-mit-save-id,5,0
-335,Blango Guards,Blango Guards,mh4g-dex-build7+mh4edit-mit-save-id,5,0
-336,Lobster Vambraces,Lobster Vambraces,mh4g-dex-build7+mh4edit-mit-save-id,4,0
-337,Lobster Guards,Lobster Guards,mh4g-dex-build7+mh4edit-mit-save-id,4,0
-338,Ukanlos Claws,Ukanlos Claws,mh4g-dex-build7+mh4edit-mit-save-id,7,0
-339,Ukanlos Gauntlets,Ukanlos Gauntlets,mh4g-dex-build7+mh4edit-mit-save-id,7,0
-340,Indra Gloves,Indra Gloves,mh4g-dex-build7+mh4edit-mit-save-id,7,0
-341,Steadfast Guards,Steadfast Guards,mh4g-dex-build7+mh4edit-mit-save-id,7,0
-342,Yaksha Braces,Yaksha Braces,mh4g-dex-build7+mh4edit-mit-save-id,7,0
-343,Carnage Vambraces,Carnage Vambraces,mh4g-dex-build7+mh4edit-mit-save-id,7,0
-344,Artian Vambraces,Artian Vambraces,mh4g-dex-build7+mh4edit-mit-save-id,3,0
-345,Artian Guards,Artian Guards,mh4g-dex-build7+mh4edit-mit-save-id,3,0
-346,Artian Vambraces S,Artian Vambraces S,mh4g-dex-build7+mh4edit-mit-save-id,5,0
-347,Artian Guards S,Artian Guards S,mh4g-dex-build7+mh4edit-mit-save-id,5,0
-348,Artian Vambraces S,Artian Vambraces S,mh4g-dex-build7+mh4edit-mit-save-id,5,0
-349,Artian Guards S,Artian Guards S,mh4g-dex-build7+mh4edit-mit-save-id,5,0
-350,Dober Vambraces,Dober Vambraces,mh4g-dex-build7+mh4edit-mit-save-id,6,0
-351,Dober Guards,Dober Guards,mh4g-dex-build7+mh4edit-mit-save-id,6,0
-352,Ingot Vambraces,Ingot Vambraces,mh4g-dex-build7+mh4edit-mit-save-id,3,0
-353,Ingot Guards,Ingot Guards,mh4g-dex-build7+mh4edit-mit-save-id,3,0
-354,Ingot Vambraces,Ingot Vambraces,mh4g-dex-build7+mh4edit-mit-save-id,3,0
-355,Ingot Guards,Ingot Guards,mh4g-dex-build7+mh4edit-mit-save-id,3,0
-356,Aelucanth Brachia,Aelucanth Brachia,mh4g-dex-build7+mh4edit-mit-save-id,4,0
-357,Rhopessa Brachia,Rhopessa Brachia,mh4g-dex-build7+mh4edit-mit-save-id,4,0
-358,Aelucanth Manus,Aelucanth Manus,mh4g-dex-build7+mh4edit-mit-save-id,4,0
-359,Rhopessa Manus,Rhopessa Manus,mh4g-dex-build7+mh4edit-mit-save-id,4,0
-360,Obituary Brachia,Obituary Brachia,mh4g-dex-build7+mh4edit-mit-save-id,5,0
-361,Butterfly Brachia,Butterfly Brachia,mh4g-dex-build7+mh4edit-mit-save-id,5,0
-362,Obituary Manus,Obituary Manus,mh4g-dex-build7+mh4edit-mit-save-id,5,0
-363,Butterfly Manus,Butterfly Manus,mh4g-dex-build7+mh4edit-mit-save-id,5,0
-364,Mosgharl Creeper,Mosgharl Creeper,mh4g-dex-build7+mh4edit-mit-save-id,4,0
-365,Mosgharl Tendril,Mosgharl Tendril,mh4g-dex-build7+mh4edit-mit-save-id,4,0
-366,Guild Bard Braces,Guild Bard Braces,mh4g-dex-build7+mh4edit-mit-save-id,4,0
-367,Scholar's Gloves,Scholar's Gloves,mh4g-dex-build7+mh4edit-mit-save-id,4,0
-368,Guild Bard Sleeves,Guild Bard Sleeves,mh4g-dex-build7+mh4edit-mit-save-id,4,0
-369,Scholar's Sleeves,Scholar's Sleeves,mh4g-dex-build7+mh4edit-mit-save-id,4,0
-370,Black Belt Vambraces,Black Belt Vambraces,mh4g-dex-build7+mh4edit-mit-save-id,6,0
-371,Black Belt Guards,Black Belt Guards,mh4g-dex-build7+mh4edit-mit-save-id,6,0
-372,Guardian Vambraces,Guardian Vambraces,mh4g-dex-build7+mh4edit-mit-save-id,4,0
-373,Helper Gloves,Helper Gloves,mh4g-dex-build7+mh4edit-mit-save-id,4,0
-374,Guardian Guards,Guardian Guards,mh4g-dex-build7+mh4edit-mit-save-id,4,0
-375,Helper Sleeves,Helper Sleeves,mh4g-dex-build7+mh4edit-mit-save-id,4,0
-376,Shinobi Sky Kote,Shinobi Sky Kote,mh4g-dex-build7+mh4edit-mit-save-id,7,0
-377,Shinobi Land Kote,Shinobi Land Kote,mh4g-dex-build7+mh4edit-mit-save-id,7,0
-378,Guild Knight Gloves,Guild Knight Gloves,mh4g-dex-build7+mh4edit-mit-save-id,6,0
-379,Maiden's Gloves,Maiden's Gloves,mh4g-dex-build7+mh4edit-mit-save-id,6,0
-380,Guild Knight Sleeves,Guild Knight Sleeves,mh4g-dex-build7+mh4edit-mit-save-id,6,0
-381,Maiden's Sleeves,Maiden's Sleeves,mh4g-dex-build7+mh4edit-mit-save-id,6,0
-382,Yukumo Sky Kote,Yukumo Sky Kote,mh4g-dex-build7+mh4edit-mit-save-id,6,0
-383,Yukumo Land Kote,Yukumo Land Kote,mh4g-dex-build7+mh4edit-mit-save-id,6,0
-384,High Metal Vambraces,High Metal Vambraces,mh4g-dex-build7+mh4edit-mit-save-id,2,0
-385,High Metal Guards,High Metal Guards,mh4g-dex-build7+mh4edit-mit-save-id,2,0
-386,Ranger's Gauntlets,Ranger's Gauntlets,mh4g-dex-build7+mh4edit-mit-save-id,6,0
-387,Archer's Gauntlets,Archer's Gauntlets,mh4g-dex-build7+mh4edit-mit-save-id,6,0
-388,Chakra Bracelet,Chakra Bracelet,mh4g-dex-build7+mh4edit-mit-save-id,5,0
-389,Sailor Gloves,Sailor Gloves,mh4g-dex-build7+mh4edit-mit-save-id,6,0
-390,Sailor Sleeves,Sailor Sleeves,mh4g-dex-build7+mh4edit-mit-save-id,6,0
-391,Hawkbraces,Hawkbraces,mh4g-dex-build7+mh4edit-mit-save-id,6,0
-392,Lecturer's Braces,Lecturer's Braces,mh4g-dex-build7+mh4edit-mit-save-id,6,0
-393,Hawkguards,Hawkguards,mh4g-dex-build7+mh4edit-mit-save-id,6,0
-394,Lecturer's Guards,Lecturer's Guards,mh4g-dex-build7+mh4edit-mit-save-id,6,0
-395,Caravaneer's Armlets,Caravaneer's Armlets,mh4g-dex-build7+mh4edit-mit-save-id,6,0
-396,Blue Star Braces,Blue Star Braces,mh4g-dex-build7+mh4edit-mit-save-id,7,0
-397,Blue Star Sleeves,Blue Star Sleeves,mh4g-dex-build7+mh4edit-mit-save-id,7,0
-398,Braces of Anat,Braces of Anat,mh4g-dex-build7+mh4edit-mit-save-id,10,0
-399,Guards of Anat,Guards of Anat,mh4g-dex-build7+mh4edit-mit-save-id,10,0
-400,Uniqlo Watch,Uniqlo Watch,mh4g-dex-build7+mh4edit-mit-save-id,7,0
-401,Uniqlo Timepiece,Uniqlo Timepiece,mh4g-dex-build7+mh4edit-mit-save-id,7,0
-402,Star Rook Vambraces,Star Rook Vambraces,mh4g-dex-build7+mh4edit-mit-save-id,7,0
-403,Star Rook Guards,Star Rook Guards,mh4g-dex-build7+mh4edit-mit-save-id,7,0
-404,dummy706,dummy706,mh4edit-mit-save-id,0,0
-405,dummy718,dummy718,mh4edit-mit-save-id,0,0
-406,dummy707,dummy707,mh4edit-mit-save-id,0,0
-407,dummy719,dummy719,mh4edit-mit-save-id,0,0
-408,DUMMY,DUMMY,mh4edit-mit-save-id,0,0
-409,DUMMY,DUMMY,mh4edit-mit-save-id,0,0
-410,Hero's Braces,Hero's Braces,mh4g-dex-build7+mh4edit-mit-save-id,7,0
-411,Hero's Gloves,Hero's Gloves,mh4g-dex-build7+mh4edit-mit-save-id,7,0
-412,EX Rebellion Braces,EX Rebellion Braces,mh4g-dex-build7+mh4edit-mit-save-id,7,0
-413,EX Riot Guards,EX Riot Guards,mh4g-dex-build7+mh4edit-mit-save-id,7,0
-414,EX Artian Vambraces,EX Artian Vambraces,mh4g-dex-build7+mh4edit-mit-save-id,7,0
-415,EX Artian Guards,EX Artian Guards,mh4g-dex-build7+mh4edit-mit-save-id,7,0
-416,EX Gore Braces,EX Gore Braces,mh4g-dex-build7+mh4edit-mit-save-id,7,0
-417,EX Gore Guards,EX Gore Guards,mh4g-dex-build7+mh4edit-mit-save-id,7,0
-418,EX Ingot Vambraces,EX Ingot Vambraces,mh4g-dex-build7+mh4edit-mit-save-id,7,0
-419,EX Ingot Guards,EX Ingot Guards,mh4g-dex-build7+mh4edit-mit-save-id,7,0
-420,EX Kirin Longarms U,EX Kirin Longarms U,mh4g-dex-build7+mh4edit-mit-save-id,7,0
-421,EX Kirin Gloves U,EX Kirin Gloves U,mh4g-dex-build7+mh4edit-mit-save-id,7,0
-422,Storge Vambraces,Storge Vambraces,mh4g-dex-build7+mh4edit-mit-save-id,3,0
-423,Storge Guards,Storge Guards,mh4g-dex-build7+mh4edit-mit-save-id,3,0
-424,Storge Vambraces S,Storge Vambraces S,mh4g-dex-build7+mh4edit-mit-save-id,7,0
-425,Storge Guards S,Storge Guards S,mh4g-dex-build7+mh4edit-mit-save-id,7,0
-426,Storge Vambraces,Storge Vambraces,mh4g-dex-build7+mh4edit-mit-save-id,3,0
-427,Storge Guards,Storge Guards,mh4g-dex-build7+mh4edit-mit-save-id,3,0
-428,Hunter's Vambraces,Hunter's Vambraces,mh4g-dex-build7+mh4edit-mit-save-id,1,0
-429,Hunter's Guards,Hunter's Guards,mh4g-dex-build7+mh4edit-mit-save-id,1,0
-430,Alloy Vambraces,Alloy Vambraces,mh4g-dex-build7+mh4edit-mit-save-id,1,0
-431,Alloy Guards,Alloy Guards,mh4g-dex-build7+mh4edit-mit-save-id,1,0
-432,Ludroth Vambraces,Ludroth Vambraces,mh4g-dex-build7+mh4edit-mit-save-id,2,0
-433,Ludroth Guards,Ludroth Guards,mh4g-dex-build7+mh4edit-mit-save-id,2,0
-434,Rathian Vambraces,Rathian Vambraces,mh4g-dex-build7+mh4edit-mit-save-id,2,0
-435,Rathian Guards,Rathian Guards,mh4g-dex-build7+mh4edit-mit-save-id,2,0
-436,Rath Heart Braces,Rath Heart Braces,mh4g-dex-build7+mh4edit-mit-save-id,6,0
-437,Rath Heart Guards,Rath Heart Guards,mh4g-dex-build7+mh4edit-mit-save-id,6,0
-438,Rathalos Vambraces,Rathalos Vambraces,mh4g-dex-build7+mh4edit-mit-save-id,3,0
-439,Rathalos Guards,Rathalos Guards,mh4g-dex-build7+mh4edit-mit-save-id,3,0
-440,Rath Soul Braces,Rath Soul Braces,mh4g-dex-build7+mh4edit-mit-save-id,6,0
-441,Rath Soul Guards,Rath Soul Guards,mh4g-dex-build7+mh4edit-mit-save-id,6,0
-442,Silver Solbraces,Silver Solbraces,mh4g-dex-build7+mh4edit-mit-save-id,7,0
-443,Silver Solguards,Silver Solguards,mh4g-dex-build7+mh4edit-mit-save-id,7,0
-444,Esurient Vambraces,Esurient Vambraces,mh4g-dex-build7+mh4edit-mit-save-id,7,0
-445,Esurient Guards,Esurient Guards,mh4g-dex-build7+mh4edit-mit-save-id,7,0
-446,Gloaming Braces,Gloaming Braces,mh4g-dex-build7+mh4edit-mit-save-id,3,0
-447,Adamance Braces,Adamance Braces,mh4g-dex-build7+mh4edit-mit-save-id,3,0
-448,Dayspring Braces,Dayspring Braces,mh4g-dex-build7+mh4edit-mit-save-id,3,0
-449,Epoch Braces,Epoch Braces,mh4g-dex-build7+mh4edit-mit-save-id,3,0
-450,Tigrex Vambraces,Tigrex Vambraces,mh4g-dex-build7+mh4edit-mit-save-id,3,0
-451,Tigrex Guards,Tigrex Guards,mh4g-dex-build7+mh4edit-mit-save-id,3,0
-452,Tigrex Vambraces U,Tigrex Vambraces U,mh4g-dex-build7+mh4edit-mit-save-id,6,0
-453,Tigrex Guards U,Tigrex Guards U,mh4g-dex-build7+mh4edit-mit-save-id,6,0
-454,Akantor Claws,Akantor Claws,mh4g-dex-build7+mh4edit-mit-save-id,7,0
-455,Akantor Gauntlets,Akantor Gauntlets,mh4g-dex-build7+mh4edit-mit-save-id,7,0
-456,Zinogre Vambraces U,Zinogre Vambraces U,mh4g-dex-build7+mh4edit-mit-save-id,6,0
-457,Zinogre Guards U,Zinogre Guards U,mh4g-dex-build7+mh4edit-mit-save-id,6,0
-458,Gore Braces,Gore Braces,mh4g-dex-build7+mh4edit-mit-save-id,3,0
-459,Gore Guards,Gore Guards,mh4g-dex-build7+mh4edit-mit-save-id,3,0
-460,Gypceros Vambraces,Gypceros Vambraces,mh4g-dex-build7+mh4edit-mit-save-id,2,0
-461,Gypceros Guards,Gypceros Guards,mh4g-dex-build7+mh4edit-mit-save-id,2,0
-462,Gypceros Vambraces U,Gypceros Vambraces U,mh4g-dex-build7+mh4edit-mit-save-id,6,0
-463,Gypceros Guards U,Gypceros Guards U,mh4g-dex-build7+mh4edit-mit-save-id,6,0
-464,Khezu Vambraces,Khezu Vambraces,mh4g-dex-build7+mh4edit-mit-save-id,2,0
-465,Khezu Guards,Khezu Guards,mh4g-dex-build7+mh4edit-mit-save-id,2,0
-466,Khezu Vambraces U,Khezu Vambraces U,mh4g-dex-build7+mh4edit-mit-save-id,6,0
-467,Khezu Guards U,Khezu Guards U,mh4g-dex-build7+mh4edit-mit-save-id,6,0
-468,Kirin Longarms,Kirin Longarms,mh4g-dex-build7+mh4edit-mit-save-id,3,0
-469,Kirin Gloves,Kirin Gloves,mh4g-dex-build7+mh4edit-mit-save-id,3,0
-470,Kirin Longarms U,Kirin Longarms U,mh4g-dex-build7+mh4edit-mit-save-id,7,0
-471,Kirin Gloves U,Kirin Gloves U,mh4g-dex-build7+mh4edit-mit-save-id,7,0
-472,Kushala Grip,Kushala Grip,mh4g-dex-build7+mh4edit-mit-save-id,7,0
-473,Kushala Embrace,Kushala Embrace,mh4g-dex-build7+mh4edit-mit-save-id,7,0
-474,Ceanataur Braces,Ceanataur Braces,mh4g-dex-build7+mh4edit-mit-save-id,2,0
-475,Ceanataur Guards,Ceanataur Guards,mh4g-dex-build7+mh4edit-mit-save-id,2,0
-476,Auroros Gauntlets,Auroros Gauntlets,mh4g-dex-build7+mh4edit-mit-save-id,3,0
-477,Borealis Gauntlets,Borealis Gauntlets,mh4g-dex-build7+mh4edit-mit-save-id,3,0
-478,Genesis Gauntlets,Genesis Gauntlets,mh4g-dex-build7+mh4edit-mit-save-id,3,0
-479,Glyph Gauntlets,Glyph Gauntlets,mh4g-dex-build7+mh4edit-mit-save-id,3,0
-480,Arc Vambraces,Arc Vambraces,mh4g-dex-build7+mh4edit-mit-save-id,3,0
-481,Arc Guards,Arc Guards,mh4g-dex-build7+mh4edit-mit-save-id,3,0
-482,Rebellion Vambraces,Rebellion Vambraces,mh4g-dex-build7+mh4edit-mit-save-id,7,0
-483,Riot Guards,Riot Guards,mh4g-dex-build7+mh4edit-mit-save-id,7,0
-484,Dragonclaws X,Dragonclaws X,mh4g-dex-build7+mh4edit-mit-save-id,10,0
-485,Dragonfists X,Dragonfists X,mh4g-dex-build7+mh4edit-mit-save-id,10,0
-486,Hermitaur Braces,Hermitaur Braces,mh4g-dex-build7+mh4edit-mit-save-id,4,0
-487,Hermitaur Guards,Hermitaur Guards,mh4g-dex-build7+mh4edit-mit-save-id,4,0
-488,Lagiacrus Braces,Lagiacrus Braces,mh4g-dex-build7+mh4edit-mit-save-id,6,0
-489,Lagiacrus Guards,Lagiacrus Guards,mh4g-dex-build7+mh4edit-mit-save-id,6,0
-490,Escadora Armguards,Escadora Armguards,mh4g-dex-build7+mh4edit-mit-save-id,7,0
-491,Escadora Arma,Escadora Arma,mh4g-dex-build7+mh4edit-mit-save-id,7,0
-492,Artian Vambraces S,Artian Vambraces S,mh4g-dex-build7+mh4edit-mit-save-id,5,0
-493,Artian Guards S,Artian Guards S,mh4g-dex-build7+mh4edit-mit-save-id,5,0
-494,Ingot Vambraces,Ingot Vambraces,mh4g-dex-build7+mh4edit-mit-save-id,3,0
-495,Ingot Guards,Ingot Guards,mh4g-dex-build7+mh4edit-mit-save-id,3,0
-496,Storge Vambraces,Storge Vambraces,mh4g-dex-build7+mh4edit-mit-save-id,3,0
-497,Storge Guards,Storge Guards,mh4g-dex-build7+mh4edit-mit-save-id,3,0
-498,Velociprey Braces X,Velociprey Braces X,mh4g-dex-build7+mh4edit-mit-save-id,8,0
-499,Velociprey Guards X,Velociprey Guards X,mh4g-dex-build7+mh4edit-mit-save-id,8,0
-500,Ioprey Vambraces X,Ioprey Vambraces X,mh4g-dex-build7+mh4edit-mit-save-id,8,0
-501,Ioprey Guards X,Ioprey Guards X,mh4g-dex-build7+mh4edit-mit-save-id,8,0
-502,Kecha Braces X,Kecha Braces X,mh4g-dex-build7+mh4edit-mit-save-id,8,0
-503,Kecha Guards X,Kecha Guards X,mh4g-dex-build7+mh4edit-mit-save-id,8,0
-504,Kecha Braces Z,Kecha Braces Z,mh4g-dex-build7+mh4edit-mit-save-id,8,0
-505,Kecha Guards Z,Kecha Guards Z,mh4g-dex-build7+mh4edit-mit-save-id,8,0
-506,Tetsucabra Braces X,Tetsucabra Braces X,mh4g-dex-build7+mh4edit-mit-save-id,8,0
-507,Tetsucabra Guards X,Tetsucabra Guards X,mh4g-dex-build7+mh4edit-mit-save-id,8,0
-508,Tetsucabra Braces Z,Tetsucabra Braces Z,mh4g-dex-build7+mh4edit-mit-save-id,8,0
-509,Tetsucabra Guards Z,Tetsucabra Guards Z,mh4g-dex-build7+mh4edit-mit-save-id,8,0
-510,Nerscylla Braces X,Nerscylla Braces X,mh4g-dex-build7+mh4edit-mit-save-id,8,0
-511,Nerscylla Guards X,Nerscylla Guards X,mh4g-dex-build7+mh4edit-mit-save-id,8,0
-512,Nerscylla Braces Z,Nerscylla Braces Z,mh4g-dex-build7+mh4edit-mit-save-id,9,0
-513,Nerscylla Guards Z,Nerscylla Guards Z,mh4g-dex-build7+mh4edit-mit-save-id,9,0
-514,Zamtrios Braces X,Zamtrios Braces X,mh4g-dex-build7+mh4edit-mit-save-id,8,0
-515,Zamtrios Guards X,Zamtrios Guards X,mh4g-dex-build7+mh4edit-mit-save-id,8,0
-516,Zamtrios Braces Z,Zamtrios Braces Z,mh4g-dex-build7+mh4edit-mit-save-id,8,0
-517,Zamtrios Guards Z,Zamtrios Guards Z,mh4g-dex-build7+mh4edit-mit-save-id,8,0
-518,Najarala Braces X,Najarala Braces X,mh4g-dex-build7+mh4edit-mit-save-id,8,0
-519,Najarala Guards X,Najarala Guards X,mh4g-dex-build7+mh4edit-mit-save-id,8,0
-520,Najarala Braces Z,Najarala Braces Z,mh4g-dex-build7+mh4edit-mit-save-id,8,0
-521,Najarala Guards Z,Najarala Guards Z,mh4g-dex-build7+mh4edit-mit-save-id,8,0
-522,Seltas Vambraces X,Seltas Vambraces X,mh4g-dex-build7+mh4edit-mit-save-id,9,0
-523,Seltas Guards X,Seltas Guards X,mh4g-dex-build7+mh4edit-mit-save-id,9,0
-524,Seltas Vambraces Z,Seltas Vambraces Z,mh4g-dex-build7+mh4edit-mit-save-id,9,0
-525,Seltas Guards Z,Seltas Guards Z,mh4g-dex-build7+mh4edit-mit-save-id,9,0
-526,Gore Braces X,Gore Braces X,mh4g-dex-build7+mh4edit-mit-save-id,9,0
-527,Gore Guards X,Gore Guards X,mh4g-dex-build7+mh4edit-mit-save-id,9,0
-528,Gore Arms,Gore Arms,mh4g-armor-name-crosswalk+mh4edit-mit-save-id,0,1
-529,Gore Bands,Gore Bands,mh4g-armor-name-crosswalk+mh4edit-mit-save-id,0,1
-530,Arc Vambraces X,Arc Vambraces X,mh4g-dex-build7+mh4edit-mit-save-id,10,0
-531,Storge Vambraces X,Storge Vambraces X,mh4g-dex-build7+mh4edit-mit-save-id,10,0
-532,Arc Guards X,Arc Guards X,mh4g-dex-build7+mh4edit-mit-save-id,10,0
-533,Storge Guards X,Storge Guards X,mh4g-dex-build7+mh4edit-mit-save-id,10,0
-534,Arc Arms,Arc Arms,mh4g-armor-name-crosswalk+mh4edit-mit-save-id,0,1
-535,Storge Arms,Storge Arms,mh4g-armor-name-crosswalk+mh4edit-mit-save-id,0,1
-536,Arc Bands,Arc Bands,mh4g-armor-name-crosswalk+mh4edit-mit-save-id,0,1
-537,Storge Bands,Storge Bands,mh4g-armor-name-crosswalk+mh4edit-mit-save-id,0,1
-538,Gogma Braces,Gogma Braces,mh4g-dex-build7+mh4edit-mit-save-id,10,0
-539,Gogma Guards,Gogma Guards,mh4g-dex-build7+mh4edit-mit-save-id,10,0
-540,Gypceros Vambraces X,Gypceros Vambraces X,mh4g-dex-build7+mh4edit-mit-save-id,8,0
-541,Gypceros Guards X,Gypceros Guards X,mh4g-dex-build7+mh4edit-mit-save-id,8,0
-542,Gypceros Arms,Gypceros Arms,mh4g-armor-name-crosswalk+mh4edit-mit-save-id,0,1
-543,Gypceros Bands,Gypceros Bands,mh4g-armor-name-crosswalk+mh4edit-mit-save-id,0,1
-544,Gypceros Vambraces Z,Gypceros Vambraces Z,mh4g-dex-build7+mh4edit-mit-save-id,8,0
-545,Gypceros Guards Z,Gypceros Guards Z,mh4g-dex-build7+mh4edit-mit-save-id,8,0
-546,Gypceros Arms U,Gypceros Arms U,mh4g-armor-name-crosswalk+mh4edit-mit-save-id,0,1
-547,Gypceros Bands U,Gypceros Bands U,mh4g-armor-name-crosswalk+mh4edit-mit-save-id,0,1
-548,Lagombi Vambraces X,Lagombi Vambraces X,mh4g-dex-build7+mh4edit-mit-save-id,8,0
-549,Lagombi Guards X,Lagombi Guards X,mh4g-dex-build7+mh4edit-mit-save-id,8,0
-550,Conga Vambraces X,Conga Vambraces X,mh4g-dex-build7+mh4edit-mit-save-id,8,0
-551,Conga Guards X,Conga Guards X,mh4g-dex-build7+mh4edit-mit-save-id,8,0
-552,Conga Vambraces Z,Conga Vambraces Z,mh4g-dex-build7+mh4edit-mit-save-id,8,0
-553,Conga Guards Z,Conga Guards Z,mh4g-dex-build7+mh4edit-mit-save-id,8,0
-554,Khezu Vambraces X,Khezu Vambraces X,mh4g-dex-build7+mh4edit-mit-save-id,8,0
-555,Khezu Guards X,Khezu Guards X,mh4g-dex-build7+mh4edit-mit-save-id,8,0
-556,Khezu Arms,Khezu Arms,mh4g-armor-name-crosswalk+mh4edit-mit-save-id,0,1
-557,Khezu Bands,Khezu Bands,mh4g-armor-name-crosswalk+mh4edit-mit-save-id,0,1
-558,Khezu Vambraces Z,Khezu Vambraces Z,mh4g-dex-build7+mh4edit-mit-save-id,8,0
-559,Khezu Guards Z,Khezu Guards Z,mh4g-dex-build7+mh4edit-mit-save-id,8,0
-560,Khezu Arms U,Khezu Arms U,mh4g-armor-name-crosswalk+mh4edit-mit-save-id,0,1
-561,Khezu Bands U,Khezu Bands U,mh4g-armor-name-crosswalk+mh4edit-mit-save-id,0,1
-562,Rathian Vambraces X,Rathian Vambraces X,mh4g-dex-build7+mh4edit-mit-save-id,8,0
-563,Rathian Guards X,Rathian Guards X,mh4g-dex-build7+mh4edit-mit-save-id,8,0
-564,Rathian Arms,Rathian Arms,mh4g-armor-name-crosswalk+mh4edit-mit-save-id,0,1
-565,Rathian Bands,Rathian Bands,mh4g-armor-name-crosswalk+mh4edit-mit-save-id,0,1
-566,Rath Heart Braces Z,Rath Heart Braces Z,mh4g-dex-build7+mh4edit-mit-save-id,8,0
-567,Rath Heart Guards Z,Rath Heart Guards Z,mh4g-dex-build7+mh4edit-mit-save-id,8,0
-568,Rath Heart Arms,Rath Heart Arms,mh4g-armor-name-crosswalk+mh4edit-mit-save-id,0,1
-569,Rath Heart Bands,Rath Heart Bands,mh4g-armor-name-crosswalk+mh4edit-mit-save-id,0,1
-570,Golden Lunebraces Z,Golden Lunebraces Z,mh4g-dex-build7+mh4edit-mit-save-id,10,0
-571,Golden Luneguards Z,Golden Luneguards Z,mh4g-dex-build7+mh4edit-mit-save-id,10,0
-572,Rathalos Vambraces X,Rathalos Vambraces X,mh4g-dex-build7+mh4edit-mit-save-id,9,0
-573,Rathalos Guards X,Rathalos Guards X,mh4g-dex-build7+mh4edit-mit-save-id,9,0
-574,Rathalos Arms,Rathalos Arms,mh4g-armor-name-crosswalk+mh4edit-mit-save-id,0,1
-575,Rathalos Bands,Rathalos Bands,mh4g-armor-name-crosswalk+mh4edit-mit-save-id,0,1
-576,Rath Soul Braces Z,Rath Soul Braces Z,mh4g-dex-build7+mh4edit-mit-save-id,9,0
-577,Rath Soul Guards Z,Rath Soul Guards Z,mh4g-dex-build7+mh4edit-mit-save-id,9,0
-578,Rath Soul Arms,Rath Soul Arms,mh4g-armor-name-crosswalk+mh4edit-mit-save-id,0,1
-579,Rath Soul Bands,Rath Soul Bands,mh4g-armor-name-crosswalk+mh4edit-mit-save-id,0,1
-580,Silver Solbraces Z,Silver Solbraces Z,mh4g-dex-build7+mh4edit-mit-save-id,10,0
-581,Silver Solguards Z,Silver Solguards Z,mh4g-dex-build7+mh4edit-mit-save-id,10,0
-582,Silver Solarms,Silver Solarms,mh4g-armor-name-crosswalk+mh4edit-mit-save-id,0,1
-583,Silver Solbands,Silver Solbands,mh4g-armor-name-crosswalk+mh4edit-mit-save-id,0,1
-584,Zinogre Vambraces X,Zinogre Vambraces X,mh4g-dex-build7+mh4edit-mit-save-id,9,0
-585,Zinogre Guards X,Zinogre Guards X,mh4g-dex-build7+mh4edit-mit-save-id,9,0
-586,Zinogre Vambraces Z,Zinogre Vambraces Z,mh4g-dex-build7+mh4edit-mit-save-id,9,0
-587,Zinogre Guards Z,Zinogre Guards Z,mh4g-dex-build7+mh4edit-mit-save-id,9,0
-588,Zinogre Arms U,Zinogre Arms U,mh4g-armor-name-crosswalk+mh4edit-mit-save-id,0,1
-589,Zinogre Bands U,Zinogre Bands U,mh4g-armor-name-crosswalk+mh4edit-mit-save-id,0,1
-590,Tigrex Vambraces X,Tigrex Vambraces X,mh4g-dex-build7+mh4edit-mit-save-id,9,0
-591,Tigrex Guards X,Tigrex Guards X,mh4g-dex-build7+mh4edit-mit-save-id,9,0
-592,Tigrex Arms,Tigrex Arms,mh4g-armor-name-crosswalk+mh4edit-mit-save-id,0,1
-593,Tigrex Bands,Tigrex Bands,mh4g-armor-name-crosswalk+mh4edit-mit-save-id,0,1
-594,Tigrex Vambraces Z,Tigrex Vambraces Z,mh4g-dex-build7+mh4edit-mit-save-id,9,0
-595,Tigrex Guards Z,Tigrex Guards Z,mh4g-dex-build7+mh4edit-mit-save-id,9,0
-596,Tigrex Arms U,Tigrex Arms U,mh4g-armor-name-crosswalk+mh4edit-mit-save-id,0,1
-597,Tigrex Bands U,Tigrex Bands U,mh4g-armor-name-crosswalk+mh4edit-mit-save-id,0,1
-598,Excello Vambraces Z,Excello Vambraces Z,mh4g-dex-build7+mh4edit-mit-save-id,10,0
-599,Excello Guards Z,Excello Guards Z,mh4g-dex-build7+mh4edit-mit-save-id,10,0
-600,Gravios Vambraces X,Gravios Vambraces X,mh4g-dex-build7+mh4edit-mit-save-id,9,0
-601,Gravios Guards X,Gravios Guards X,mh4g-dex-build7+mh4edit-mit-save-id,9,0
-602,Gravios Vambraces Z,Gravios Vambraces Z,mh4g-dex-build7+mh4edit-mit-save-id,9,0
-603,Gravios Guards Z,Gravios Guards Z,mh4g-dex-build7+mh4edit-mit-save-id,9,0
-604,Brachydios Braces X,Brachydios Braces X,mh4g-dex-build7+mh4edit-mit-save-id,9,0
-605,Brachydios Guards X,Brachydios Guards X,mh4g-dex-build7+mh4edit-mit-save-id,9,0
-606,Brachydium Vambraces,Brachydium Vambraces,mh4g-dex-build7+mh4edit-mit-save-id,10,0
-607,Brachydium Guards,Brachydium Guards,mh4g-dex-build7+mh4edit-mit-save-id,10,0
-608,Grand Gloaming Braces,Grand Gloaming Braces,mh4g-dex-build7+mh4edit-mit-save-id,10,0
-609,Grand Adamance Braces,Grand Adamance Braces,mh4g-dex-build7+mh4edit-mit-save-id,10,0
-610,Grand Dayspring Braces,Grand Dayspring Braces,mh4g-dex-build7+mh4edit-mit-save-id,10,0
-611,Grand Epoch Sleeves,Grand Epoch Sleeves,mh4g-dex-build7+mh4edit-mit-save-id,10,0
-612,Gloaming Redbraces,Gloaming Redbraces,mh4g-armor-name-crosswalk+mh4edit-mit-save-id,0,1
-613,Adamance Redbraces,Adamance Redbraces,mh4g-armor-name-crosswalk+mh4edit-mit-save-id,0,1
-614,Dayspring Redbraces,Dayspring Redbraces,mh4g-armor-name-crosswalk+mh4edit-mit-save-id,0,1
-615,Epoch Redbraces,Epoch Redbraces,mh4g-armor-name-crosswalk+mh4edit-mit-save-id,0,1
-616,Vangis Vambraces X,Vangis Vambraces X,mh4g-dex-build7+mh4edit-mit-save-id,9,0
-617,Vangis Guards X,Vangis Guards X,mh4g-dex-build7+mh4edit-mit-save-id,9,0
-618,Esurient Vambraces Z,Esurient Vambraces Z,mh4g-dex-build7+mh4edit-mit-save-id,10,0
-619,Esurient Guards Z,Esurient Guards Z,mh4g-dex-build7+mh4edit-mit-save-id,10,0
-620,Esurient Arms,Esurient Arms,mh4g-armor-name-crosswalk+mh4edit-mit-save-id,0,1
-621,Esurient Bands,Esurient Bands,mh4g-armor-name-crosswalk+mh4edit-mit-save-id,0,1
-622,Kaiser Vambraces X,Kaiser Vambraces X,mh4g-dex-build7+mh4edit-mit-save-id,10,0
-623,Kaiser Guards X,Kaiser Guards X,mh4g-dex-build7+mh4edit-mit-save-id,10,0
-624,Akantor Claws X,Akantor Claws X,mh4g-dex-build7+mh4edit-mit-save-id,10,0
-625,Akantor Gauntlets X,Akantor Gauntlets X,mh4g-dex-build7+mh4edit-mit-save-id,10,0
-626,Akantor Arms,Akantor Arms,mh4g-armor-name-crosswalk+mh4edit-mit-save-id,0,1
-627,Akantor Bands,Akantor Bands,mh4g-armor-name-crosswalk+mh4edit-mit-save-id,0,1
-628,EX Escadora Armguards,EX Escadora Armguards,mh4g-dex-build7+mh4edit-mit-save-id,10,0
-629,EX Escadora Arma,EX Escadora Arma,mh4g-dex-build7+mh4edit-mit-save-id,10,0
-630,Ukanlos Claws X,Ukanlos Claws X,mh4g-dex-build7+mh4edit-mit-save-id,10,0
-631,Ukanlos Gauntlets X,Ukanlos Gauntlets X,mh4g-dex-build7+mh4edit-mit-save-id,10,0
-632,Kushala Grip X,Kushala Grip X,mh4g-dex-build7+mh4edit-mit-save-id,10,0
-633,Kushala Embrace X,Kushala Embrace X,mh4g-dex-build7+mh4edit-mit-save-id,10,0
-634,Kushala Arms,Kushala Arms,mh4g-armor-name-crosswalk+mh4edit-mit-save-id,0,1
-635,Kushala Bands,Kushala Bands,mh4g-armor-name-crosswalk+mh4edit-mit-save-id,0,1
-636,Kujula Grip,Kujula Grip,mh4g-dex-build7+mh4edit-mit-save-id,10,0
-637,Kujula Embrace,Kujula Embrace,mh4g-dex-build7+mh4edit-mit-save-id,10,0
-638,Grand God's Peer Arms,Grand God's Peer Arms,mh4g-dex-build7+mh4edit-mit-save-id,10,0
-639,Grand Hermit Arms,Grand Hermit Arms,mh4g-dex-build7+mh4edit-mit-save-id,10,0
-640,Grand Divine Ire Kote,Grand Divine Ire Kote,mh4g-dex-build7+mh4edit-mit-save-id,10,0
-641,Grand Crusher Braces,Grand Crusher Braces,mh4g-dex-build7+mh4edit-mit-save-id,10,0
-642,Rebellion Vambraces X,Rebellion Vambraces X,mh4g-dex-build7+mh4edit-mit-save-id,10,0
-643,Riot Guards X,Riot Guards X,mh4g-dex-build7+mh4edit-mit-save-id,10,0
-644,Rebellion Arms,Rebellion Arms,mh4g-armor-name-crosswalk+mh4edit-mit-save-id,0,1
-645,Riot Bands,Riot Bands,mh4g-armor-name-crosswalk+mh4edit-mit-save-id,0,1
-646,Rebellion Vambraces Z,Rebellion Vambraces Z,mh4g-dex-build7+mh4edit-mit-save-id,10,0
-647,Riot Guards Z,Riot Guards Z,mh4g-dex-build7+mh4edit-mit-save-id,10,0
-648,Cephalos Vambraces X,Cephalos Vambraces X,mh4g-dex-build7+mh4edit-mit-save-id,8,0
-649,Cephalos Guards X,Cephalos Guards X,mh4g-dex-build7+mh4edit-mit-save-id,8,0
-650,Hermitaur Braces X,Hermitaur Braces X,mh4g-dex-build7+mh4edit-mit-save-id,8,0
-651,Hermitaur Guards X,Hermitaur Guards X,mh4g-dex-build7+mh4edit-mit-save-id,8,0
-652,Hermitaur Arms,Hermitaur Arms,mh4g-armor-name-crosswalk+mh4edit-mit-save-id,0,1
-653,Hermitaur Bands,Hermitaur Bands,mh4g-armor-name-crosswalk+mh4edit-mit-save-id,0,1
-654,Hermitaur Braces Z,Hermitaur Braces Z,mh4g-dex-build7+mh4edit-mit-save-id,8,0
-655,Hermitaur Guards Z,Hermitaur Guards Z,mh4g-dex-build7+mh4edit-mit-save-id,8,0
-656,Mono Vambraces S,Mono Vambraces S,mh4g-dex-build7+mh4edit-mit-save-id,5,0
-657,Mono Guards S,Mono Guards S,mh4g-dex-build7+mh4edit-mit-save-id,5,0
-658,Mono Vambraces X,Mono Vambraces X,mh4g-dex-build7+mh4edit-mit-save-id,9,0
-659,Mono Guards X,Mono Guards X,mh4g-dex-build7+mh4edit-mit-save-id,9,0
-660,Mono Vambraces,Mono Vambraces,mh4g-armor-name-crosswalk+mh4edit-mit-save-id,0,1
-661,Mono Guards,Mono Guards,mh4g-armor-name-crosswalk+mh4edit-mit-save-id,0,1
-662,Mono Arms,Mono Arms,mh4g-armor-name-crosswalk+mh4edit-mit-save-id,0,1
-663,Mono Bands,Mono Bands,mh4g-armor-name-crosswalk+mh4edit-mit-save-id,0,1
-664,Monodevil Vambraces,Monodevil Vambraces,mh4g-dex-build7+mh4edit-mit-save-id,9,0
-665,Monodevil Guards,Monodevil Guards,mh4g-dex-build7+mh4edit-mit-save-id,9,0
-666,Monodevil Vambraces,Monodevil Vambraces,mh4g-dex-build7+mh4edit-mit-save-id,9,0
-667,Monodevil Guards,Monodevil Guards,mh4g-dex-build7+mh4edit-mit-save-id,9,0
-668,Monodevil Arms,Monodevil Arms,mh4g-armor-name-crosswalk+mh4edit-mit-save-id,0,1
-669,Monodevil Bands,Monodevil Bands,mh4g-armor-name-crosswalk+mh4edit-mit-save-id,0,1
-670,Diablos Vambraces X,Diablos Vambraces X,mh4g-dex-build7+mh4edit-mit-save-id,9,0
-671,Diablos Guards X,Diablos Guards X,mh4g-dex-build7+mh4edit-mit-save-id,9,0
-672,Diablos Vambraces,Diablos Vambraces,mh4g-dex-build7+mh4edit-mit-save-id,3,0
-673,Diablos Guards,Diablos Guards,mh4g-dex-build7+mh4edit-mit-save-id,3,0
-674,Diablos Arms,Diablos Arms,mh4g-armor-name-crosswalk+mh4edit-mit-save-id,0,1
-675,Diablos Bands,Diablos Bands,mh4g-armor-name-crosswalk+mh4edit-mit-save-id,0,1
-676,Diablos Vambraces Z,Diablos Vambraces Z,mh4g-dex-build7+mh4edit-mit-save-id,9,0
-677,Diablos Guards Z,Diablos Guards Z,mh4g-dex-build7+mh4edit-mit-save-id,9,0
-678,Dragonclaws X,Dragonclaws X,mh4g-dex-build7+mh4edit-mit-save-id,10,0
-679,Dragonfists X,Dragonfists X,mh4g-dex-build7+mh4edit-mit-save-id,10,0
-680,Dragonarms X,Dragonarms X,mh4g-armor-name-crosswalk+mh4edit-mit-save-id,0,1
-681,Dragonbands X,Dragonbands X,mh4g-armor-name-crosswalk+mh4edit-mit-save-id,0,1
-682,Fatalis Crimsonclaws Z,Fatalis Crimsonclaws Z,mh4g-armor-name-crosswalk+mh4edit-mit-save-id,0,1
-683,Fatalis Crimsonfists Z,Fatalis Crimsonfists Z,mh4g-armor-name-crosswalk+mh4edit-mit-save-id,0,1
-684,Fatalis Crimsonarms Z,Fatalis Crimsonarms Z,mh4g-armor-name-crosswalk+mh4edit-mit-save-id,0,1
-685,Fatalis Crimsonbands Z,Fatalis Crimsonbands Z,mh4g-armor-name-crosswalk+mh4edit-mit-save-id,0,1
-686,Wrothclaws,Wrothclaws,mh4g-dex-build7+mh4edit-mit-save-id,10,0
-687,Wrothfists,Wrothfists,mh4g-dex-build7+mh4edit-mit-save-id,10,0
-688,White Fatalis Claw,White Fatalis Claw,mh4g-dex-build7+mh4edit-mit-save-id,10,0
-689,White Fatalis Fist,White Fatalis Fist,mh4g-dex-build7+mh4edit-mit-save-id,10,0
-690,Grand Mizuha Sleeves,Grand Mizuha Sleeves,mh4g-dex-build7+mh4edit-mit-save-id,10,0
-691,Grand Cham Sleeves,Grand Cham Sleeves,mh4g-dex-build7+mh4edit-mit-save-id,10,0
-692,Regios Vambraces S,Regios Vambraces S,mh4g-dex-build7+mh4edit-mit-save-id,6,0
-693,Regios Guards S,Regios Guards S,mh4g-dex-build7+mh4edit-mit-save-id,6,0
-694,Regios Vambraces X,Regios Vambraces X,mh4g-dex-build7+mh4edit-mit-save-id,9,0
-695,Regios Guards X,Regios Guards X,mh4g-dex-build7+mh4edit-mit-save-id,9,0
-696,Chaos Vambraces,Chaos Vambraces,mh4g-dex-build7+mh4edit-mit-save-id,9,0
-697,Nephilim Vambraces,Nephilim Vambraces,mh4g-dex-build7+mh4edit-mit-save-id,9,0
-698,Chaos Guards,Chaos Guards,mh4g-dex-build7+mh4edit-mit-save-id,9,0
-699,Nephilim Guards,Nephilim Guards,mh4g-dex-build7+mh4edit-mit-save-id,9,0
-700,Basarios Vambraces X,Basarios Vambraces X,mh4g-dex-build7+mh4edit-mit-save-id,8,0
-701,Basarios Guards X,Basarios Guards X,mh4g-dex-build7+mh4edit-mit-save-id,8,0
-702,Basarios Vambraces Z,Basarios Vambraces Z,mh4g-dex-build7+mh4edit-mit-save-id,8,0
-703,Basarios Guards Z,Basarios Guards Z,mh4g-dex-build7+mh4edit-mit-save-id,8,0
-704,Kut-Ku Vambraces X,Kut-Ku Vambraces X,mh4g-dex-build7+mh4edit-mit-save-id,8,0
-705,Kut-Ku Guards X,Kut-Ku Guards X,mh4g-dex-build7+mh4edit-mit-save-id,8,0
-706,Kut-Ku Vambraces Z,Kut-Ku Vambraces Z,mh4g-dex-build7+mh4edit-mit-save-id,8,0
-707,Kut-Ku Guards Z,Kut-Ku Guards Z,mh4g-dex-build7+mh4edit-mit-save-id,8,0
-708,Garuga Vambraces X,Garuga Vambraces X,mh4g-dex-build7+mh4edit-mit-save-id,9,0
-709,Garuga Guards X,Garuga Guards X,mh4g-dex-build7+mh4edit-mit-save-id,9,0
-710,Kirin Longarms X,Kirin Longarms X,mh4g-dex-build7+mh4edit-mit-save-id,10,0
-711,Kirin Gloves X,Kirin Gloves X,mh4g-dex-build7+mh4edit-mit-save-id,10,0
-712,Kirin Arms,Kirin Arms,mh4g-armor-name-crosswalk+mh4edit-mit-save-id,0,1
-713,Kirin Bands,Kirin Bands,mh4g-armor-name-crosswalk+mh4edit-mit-save-id,0,1
-714,Kirin Longarms Z,Kirin Longarms Z,mh4g-dex-build7+mh4edit-mit-save-id,10,0
-715,Kirin Gloves Z,Kirin Gloves Z,mh4g-dex-build7+mh4edit-mit-save-id,10,0
-716,Kirin Arms U,Kirin Arms U,mh4g-armor-name-crosswalk+mh4edit-mit-save-id,0,1
-717,Kirin Bands U,Kirin Bands U,mh4g-armor-name-crosswalk+mh4edit-mit-save-id,0,1
-718,Bnahabra Gloves X,Bnahabra Gloves X,mh4g-dex-build7+mh4edit-mit-save-id,8,0
-719,Bnahabra Sleeves X,Bnahabra Sleeves X,mh4g-dex-build7+mh4edit-mit-save-id,8,0
-720,Konchu Vambraces X,Konchu Vambraces X,mh4g-dex-build7+mh4edit-mit-save-id,8,0
-721,Konchu Guards X,Konchu Guards X,mh4g-dex-build7+mh4edit-mit-save-id,8,0
-722,Rhenoplos Braces X,Rhenoplos Braces X,mh4g-dex-build7+mh4edit-mit-save-id,8,0
-723,Rhenoplos Guards X,Rhenoplos Guards X,mh4g-dex-build7+mh4edit-mit-save-id,8,0
-724,Hunter's Arms,Hunter's Arms,mh4g-armor-name-crosswalk+mh4edit-mit-save-id,0,1
-725,Hunter's Bands,Hunter's Bands,mh4g-armor-name-crosswalk+mh4edit-mit-save-id,0,1
-726,Alloy Arms,Alloy Arms,mh4g-armor-name-crosswalk+mh4edit-mit-save-id,0,1
-727,Alloy Bands,Alloy Bands,mh4g-armor-name-crosswalk+mh4edit-mit-save-id,0,1
-728,Artian Vambraces X,Artian Vambraces X,mh4g-dex-build7+mh4edit-mit-save-id,9,0
-729,Artian Guards X,Artian Guards X,mh4g-dex-build7+mh4edit-mit-save-id,9,0
-730,Arc Arms S,Arc Arms S,mh4g-armor-name-crosswalk+mh4edit-mit-save-id,0,1
-731,Arc Bands S,Arc Bands S,mh4g-armor-name-crosswalk+mh4edit-mit-save-id,0,1
-732,Ingot Arms,Ingot Arms,mh4g-armor-name-crosswalk+mh4edit-mit-save-id,0,1
-733,Ingot Bands,Ingot Bands,mh4g-armor-name-crosswalk+mh4edit-mit-save-id,0,1
-734,Guardian Vambraces X,Guardian Vambraces X,mh4g-dex-build7+mh4edit-mit-save-id,8,0
-735,Helper Sleeves X,Helper Sleeves X,mh4g-dex-build7+mh4edit-mit-save-id,8,0
-736,Guardian Guards X,Guardian Guards X,mh4g-dex-build7+mh4edit-mit-save-id,8,0
-737,Healer Sleeves X,Healer Sleeves X,mh4g-dex-build7+mh4edit-mit-save-id,8,0
-738,Guardian Vambraces Z,Guardian Vambraces Z,mh4g-dex-build7+mh4edit-mit-save-id,9,0
-739,Helper Sleeves Z,Helper Sleeves Z,mh4g-dex-build7+mh4edit-mit-save-id,9,0
-740,Guardian Guards Z,Guardian Guards Z,mh4g-dex-build7+mh4edit-mit-save-id,9,0
-741,Healer Sleeves Z,Healer Sleeves Z,mh4g-dex-build7+mh4edit-mit-save-id,9,0
-742,G. Knight Gloves X,G. Knight Gloves X,mh4g-dex-build7+mh4edit-mit-save-id,9,0
-743,Maiden's Gloves X,Maiden's Gloves X,mh4g-dex-build7+mh4edit-mit-save-id,9,0
-744,G. Knight Sleeves X,G. Knight Sleeves X,mh4g-dex-build7+mh4edit-mit-save-id,9,0
-745,Exclusive Sleeves X,Exclusive Sleeves X,mh4g-dex-build7+mh4edit-mit-save-id,9,0
-746,Ace Vambraces,Ace Vambraces,mh4g-dex-build7+mh4edit-mit-save-id,9,0
-747,Sororal Vambraces,Sororal Vambraces,mh4g-dex-build7+mh4edit-mit-save-id,9,0
-748,Ace Guards,Ace Guards,mh4g-dex-build7+mh4edit-mit-save-id,9,0
-749,Sororal Guards,Sororal Guards,mh4g-dex-build7+mh4edit-mit-save-id,9,0
-750,Ceanataur Arms,Ceanataur Arms,mh4g-armor-name-crosswalk+mh4edit-mit-save-id,0,1
-751,Ceanataur Bands,Ceanataur Bands,mh4g-armor-name-crosswalk+mh4edit-mit-save-id,0,1
-752,Lagiacrus Arms,Lagiacrus Arms,mh4g-armor-name-crosswalk+mh4edit-mit-save-id,0,1
-753,Lagiacrus Bands,Lagiacrus Bands,mh4g-armor-name-crosswalk+mh4edit-mit-save-id,0,1
-754,Escadora Arms,Escadora Arms,mh4g-armor-name-crosswalk+mh4edit-mit-save-id,0,1
-755,Escadora Bands,Escadora Bands,mh4g-armor-name-crosswalk+mh4edit-mit-save-id,0,1
-756,Auroros Kermes Cuffs,Auroros Kermes Cuffs,mh4g-armor-name-crosswalk+mh4edit-mit-save-id,0,1
-757,Borealis Woad Cuffs,Borealis Woad Cuffs,mh4g-armor-name-crosswalk+mh4edit-mit-save-id,0,1
-758,Genesis Kermes Cuffs,Genesis Kermes Cuffs,mh4g-armor-name-crosswalk+mh4edit-mit-save-id,0,1
-759,Glyph Woad Cuffs,Glyph Woad Cuffs,mh4g-armor-name-crosswalk+mh4edit-mit-save-id,0,1
-760,Ludroth Arms,Ludroth Arms,mh4g-armor-name-crosswalk+mh4edit-mit-save-id,0,1
-761,Ludroth Bands,Ludroth Bands,mh4g-armor-name-crosswalk+mh4edit-mit-save-id,0,1
-762,Hornet Vambraces,Hornet Vambraces,mh4g-armor-name-crosswalk+mh4edit-mit-save-id,0,1
-763,Hornet Guards,Hornet Guards,mh4g-armor-name-crosswalk+mh4edit-mit-save-id,0,1
-764,Hornet Arms,Hornet Arms,mh4g-armor-name-crosswalk+mh4edit-mit-save-id,0,1
-765,Hornet Bands,Hornet Bands,mh4g-armor-name-crosswalk+mh4edit-mit-save-id,0,1
-766,Wroggi Vambraces,Wroggi Vambraces,mh4g-armor-name-crosswalk+mh4edit-mit-save-id,0,1
-767,Wroggi Guards,Wroggi Guards,mh4g-armor-name-crosswalk+mh4edit-mit-save-id,0,1
-768,Wroggi Arms,Wroggi Arms,mh4g-armor-name-crosswalk+mh4edit-mit-save-id,0,1
-769,Wroggi Bands,Wroggi Bands,mh4g-armor-name-crosswalk+mh4edit-mit-save-id,0,1
-770,Gigginox Vambraces,Gigginox Vambraces,mh4g-armor-name-crosswalk+mh4edit-mit-save-id,0,1
-771,Gigginox Guards,Gigginox Guards,mh4g-armor-name-crosswalk+mh4edit-mit-save-id,0,1
-772,Gigginox Arms,Gigginox Arms,mh4g-armor-name-crosswalk+mh4edit-mit-save-id,0,1
-773,Gigginox Bands,Gigginox Bands,mh4g-armor-name-crosswalk+mh4edit-mit-save-id,0,1
-774,Tempest Sleeves,Tempest Sleeves,mh4g-dex-build7+mh4edit-mit-save-id,10,0
-775,Welkin Sleeves,Welkin Sleeves,mh4g-dex-build7+mh4edit-mit-save-id,10,0
-776,Tempest Trails,Tempest Trails,mh4g-armor-name-crosswalk+mh4edit-mit-save-id,0,1
-777,Welkin Trails,Welkin Trails,mh4g-armor-name-crosswalk+mh4edit-mit-save-id,0,1
-778,Death Stench Grip,Death Stench Grip,mh4g-armor-name-crosswalk+mh4edit-mit-save-id,0,1
-779,Death Stench Grasp,Death Stench Grasp,mh4g-armor-name-crosswalk+mh4edit-mit-save-id,0,1
-780,Death Stench Arms,Death Stench Arms,mh4g-armor-name-crosswalk+mh4edit-mit-save-id,0,1
-781,Death Stench Bands,Death Stench Bands,mh4g-armor-name-crosswalk+mh4edit-mit-save-id,0,1
-782,Damascus Vambraces,Damascus Vambraces,mh4g-armor-name-crosswalk+mh4edit-mit-save-id,0,1
-783,Damascus Guards,Damascus Guards,mh4g-armor-name-crosswalk+mh4edit-mit-save-id,0,1
-784,Damascus Arms,Damascus Arms,mh4g-armor-name-crosswalk+mh4edit-mit-save-id,0,1
-785,Damascus Bands,Damascus Bands,mh4g-armor-name-crosswalk+mh4edit-mit-save-id,0,1
-786,Lagiacrus Braces X,Lagiacrus Braces X,mh4g-dex-build7+mh4edit-mit-save-id,9,0
-787,Lagiacrus Guards X,Lagiacrus Guards X,mh4g-dex-build7+mh4edit-mit-save-id,9,0
-788,Nargacuga Braces X,Nargacuga Braces X,mh4g-dex-build7+mh4edit-mit-save-id,9,0
-789,Nargacuga Guards X,Nargacuga Guards X,mh4g-dex-build7+mh4edit-mit-save-id,9,0
-790,Empress Vambraces X,Empress Vambraces X,mh4g-dex-build7+mh4edit-mit-save-id,10,0
-791,Empress Guards X,Empress Guards X,mh4g-dex-build7+mh4edit-mit-save-id,10,0
-792,Helios Vambraces X,Helios Vambraces X,mh4g-dex-build7+mh4edit-mit-save-id,10,0
-793,Selene Vambraces X,Selene Vambraces X,mh4g-dex-build7+mh4edit-mit-save-id,10,0
-794,Helios Guards X,Helios Guards X,mh4g-dex-build7+mh4edit-mit-save-id,10,0
-795,Selene Guards X,Selene Guards X,mh4g-dex-build7+mh4edit-mit-save-id,10,0
-796,Agnaktor Vambraces X,Agnaktor Vambraces X,mh4g-dex-build7+mh4edit-mit-save-id,8,0
-797,Agnaktor Guards X,Agnaktor Guards X,mh4g-dex-build7+mh4edit-mit-save-id,8,0
-798,Qurupeco Vambraces X,Qurupeco Vambraces X,mh4g-dex-build7+mh4edit-mit-save-id,8,0
-799,Qurupeco Guards X,Qurupeco Guards X,mh4g-dex-build7+mh4edit-mit-save-id,8,0
-800,Gobul Vambraces X,Gobul Vambraces X,mh4g-dex-build7+mh4edit-mit-save-id,8,0
-801,Gobul Guards X,Gobul Guards X,mh4g-dex-build7+mh4edit-mit-save-id,8,0
-802,Barioth Vambraces X,Barioth Vambraces X,mh4g-dex-build7+mh4edit-mit-save-id,8,0
-803,Barioth Guards X,Barioth Guards X,mh4g-dex-build7+mh4edit-mit-save-id,8,0
-804,Barroth Vambraces X,Barroth Vambraces X,mh4g-dex-build7+mh4edit-mit-save-id,8,0
-805,Barroth Guards X,Barroth Guards X,mh4g-dex-build7+mh4edit-mit-save-id,8,0
-806,Nibelsnarf Braces X,Nibelsnarf Braces X,mh4g-dex-build7+mh4edit-mit-save-id,8,0
-807,Nibelsnarf Guards X,Nibelsnarf Guards X,mh4g-dex-build7+mh4edit-mit-save-id,8,0
-808,Duramboros Braces X,Duramboros Braces X,mh4g-dex-build7+mh4edit-mit-save-id,9,0
-809,Duramboros Guards X,Duramboros Guards X,mh4g-dex-build7+mh4edit-mit-save-id,9,0
-810,Lava Vambraces X,Lava Vambraces X,mh4g-dex-build7+mh4edit-mit-save-id,9,0
-811,Lava Guards X,Lava Guards X,mh4g-dex-build7+mh4edit-mit-save-id,9,0
-812,Grand Yamato Kote,Grand Yamato Kote,mh4g-dex-build7+mh4edit-mit-save-id,10,0
-813,Grand Hyuga Kote,Grand Hyuga Kote,mh4g-dex-build7+mh4edit-mit-save-id,10,0
-814,Grand Mutsu Kote,Grand Mutsu Kote,mh4g-dex-build7+mh4edit-mit-save-id,10,0
-815,Grand Amagi Kote,Grand Amagi Kote,mh4g-dex-build7+mh4edit-mit-save-id,10,0
-816,Grand Yaksha Braces,Grand Yaksha Braces,mh4g-dex-build7+mh4edit-mit-save-id,10,0
-817,Grand Carnage Braces,Grand Carnage Braces,mh4g-dex-build7+mh4edit-mit-save-id,10,0
-818,Miralis Grievers,Miralis Grievers,mh4g-dex-build7+mh4edit-mit-save-id,10,0
-819,Miralis Clouts,Miralis Clouts,mh4g-dex-build7+mh4edit-mit-save-id,10,0
-820,Plesioth Vambraces Z,Plesioth Vambraces Z,mh4g-dex-build7+mh4edit-mit-save-id,8,0
-821,Plesioth Guards Z,Plesioth Guards Z,mh4g-dex-build7+mh4edit-mit-save-id,8,0
-822,Kita Star Sleeves,Kita Star Sleeves,mh4g-dex-build7+mh4edit-mit-save-id,8,0
-823,Umi Ocean Sleeves,Umi Ocean Sleeves,mh4g-dex-build7+mh4edit-mit-save-id,8,0
-824,Patissier's Gloves,Patissier's Gloves,mh4g-dex-build7+mh4edit-mit-save-id,7,0
-825,Patissier's Mitts,Patissier's Mitts,mh4g-dex-build7+mh4edit-mit-save-id,7,0
-826,High Metal Vambraces S,High Metal Vambraces S,mh4g-dex-build7+mh4edit-mit-save-id,5,0
-827,High Metal Guards S,High Metal Guards S,mh4g-dex-build7+mh4edit-mit-save-id,5,0
-828,Aelucanth Brachia X,Aelucanth Brachia X,mh4g-dex-build7+mh4edit-mit-save-id,8,0
-829,Rhopessa Brachia X,Rhopessa Brachia X,mh4g-dex-build7+mh4edit-mit-save-id,8,0
-830,Aelucanth Manus X,Aelucanth Manus X,mh4g-dex-build7+mh4edit-mit-save-id,8,0
-831,Rhopessa Manus X,Rhopessa Manus X,mh4g-dex-build7+mh4edit-mit-save-id,8,0
-832,Obituary Brachia X,Obituary Brachia X,mh4g-dex-build7+mh4edit-mit-save-id,8,0
-833,Butterfly Brachia X,Butterfly Brachia X,mh4g-dex-build7+mh4edit-mit-save-id,8,0
-834,Obituary Manus X,Obituary Manus X,mh4g-dex-build7+mh4edit-mit-save-id,8,0
-835,Butterfly Manus X,Butterfly Manus X,mh4g-dex-build7+mh4edit-mit-save-id,8,0
-836,EX Auroros Gauntlets,EX Auroros Gauntlets,mh4g-dex-build7+mh4edit-mit-save-id,10,0
-837,EX Borealis Gauntlets,EX Borealis Gauntlets,mh4g-dex-build7+mh4edit-mit-save-id,10,0
-838,EX Genesis Gauntlets,EX Genesis Gauntlets,mh4g-dex-build7+mh4edit-mit-save-id,10,0
-839,EX Glyph Gauntlets,EX Glyph Gauntlets,mh4g-dex-build7+mh4edit-mit-save-id,10,0
-840,Tempest Sleeves,Tempest Sleeves,mh4g-dex-build7+mh4edit-mit-save-id,10,0
-841,Welkin Sleeves,Welkin Sleeves,mh4g-dex-build7+mh4edit-mit-save-id,10,0
-842,GX Escadora Arms,GX Escadora Arms,mh4g-armor-name-crosswalk+mh4edit-mit-save-id,0,1
-843,GX Escadora Bands,GX Escadora Bands,mh4g-armor-name-crosswalk+mh4edit-mit-save-id,0,1
-844,GX Dragonarms X,GX Dragonarms X,mh4g-armor-name-crosswalk+mh4edit-mit-save-id,0,1
-845,GX Dragonbands X,GX Dragonbands X,mh4g-armor-name-crosswalk+mh4edit-mit-save-id,0,1
-846,Star Knight Vambraces,Star Knight Vambraces,mh4g-dex-build7+mh4edit-mit-save-id,10,0
-847,Star Knight Guards,Star Knight Guards,mh4g-dex-build7+mh4edit-mit-save-id,10,0
-848,Braces of Rage,Braces of Rage,mh4g-dex-build7+mh4edit-mit-save-id,10,0
-849,Guards of Rage,Guards of Rage,mh4g-dex-build7+mh4edit-mit-save-id,10,0
-850,Varia Suit Guards,Varia Suit Guards,mh4g-dex-build7+mh4edit-mit-save-id,10,0
-851,Zero Suit Gloves,Zero Suit Gloves,mh4g-dex-build7+mh4edit-mit-save-id,10,0
-852,Varia Suit Shield,Varia Suit Shield,mh4g-dex-build7+mh4edit-mit-save-id,10,0
-853,Zero Suit Hands,Zero Suit Hands,mh4g-dex-build7+mh4edit-mit-save-id,10,0
-854,Varia Suit Guards,Varia Suit Guards,mh4g-dex-build7+mh4edit-mit-save-id,10,0
-855,Zero Suit Gloves,Zero Suit Gloves,mh4g-dex-build7+mh4edit-mit-save-id,10,0
-856,Varia Suit Shield,Varia Suit Shield,mh4g-dex-build7+mh4edit-mit-save-id,10,0
-857,Zero Suit Hands,Zero Suit Hands,mh4g-dex-build7+mh4edit-mit-save-id,10,0
-858,DUMMY,DUMMY,mh4edit-mit-save-id,0,0
-859,DUMMY,DUMMY,mh4edit-mit-save-id,0,0
-860,Hawkbraces X,Hawkbraces X,mh4g-dex-build7+mh4edit-mit-save-id,9,0
-861,Lecturer's Braces X,Lecturer's Braces X,mh4g-dex-build7+mh4edit-mit-save-id,9,0
-862,Hawkguards X,Hawkguards X,mh4g-dex-build7+mh4edit-mit-save-id,9,0
-863,Lecturer's Guards X,Lecturer's Guards X,mh4g-dex-build7+mh4edit-mit-save-id,9,0
-864,GX Hunter's Arms,GX Hunter's Arms,mh4g-dex-build7+mh4edit-mit-save-id,10,0
-865,GX Hunter's Bands,GX Hunter's Bands,mh4g-dex-build7+mh4edit-mit-save-id,10,0
-866,GX Esurient Arms,GX Esurient Arms,mh4g-dex-build7+mh4edit-mit-save-id,10,0
-867,GX Esurient Bands,GX Esurient Bands,mh4g-dex-build7+mh4edit-mit-save-id,10,0
-868,GX Tempest Trails,GX Tempest Trails,mh4g-dex-build7+mh4edit-mit-save-id,10,0
-869,GX Welkin Trails,GX Welkin Trails,mh4g-dex-build7+mh4edit-mit-save-id,10,0
-870,GX Fatalis Crimsonarms,GX Fatalis Crimsonarms,mh4g-dex-build7+mh4edit-mit-save-id,10,0
-871,GX Fatalis Crimsonbands,GX Fatalis Crimsonbands,mh4g-dex-build7+mh4edit-mit-save-id,10,0
-872,Hunter's Vambraces,Hunter's Vambraces,mh4g-dex-build7+mh4edit-mit-save-id,1,0
-873,Hunter's Guards,Hunter's Guards,mh4g-dex-build7+mh4edit-mit-save-id,1,0
-874,Hunter's Vambraces,Hunter's Vambraces,mh4g-dex-build7+mh4edit-mit-save-id,1,0
-875,Hunter's Guards,Hunter's Guards,mh4g-dex-build7+mh4edit-mit-save-id,1,0
-876,Ludroth Vambraces,Ludroth Vambraces,mh4g-dex-build7+mh4edit-mit-save-id,2,0
-877,Ludroth Guards,Ludroth Guards,mh4g-dex-build7+mh4edit-mit-save-id,2,0
-878,Ludroth Vambraces,Ludroth Vambraces,mh4g-dex-build7+mh4edit-mit-save-id,2,0
-879,Ludroth Guards,Ludroth Guards,mh4g-dex-build7+mh4edit-mit-save-id,2,0
-880,Alloy Vambraces,Alloy Vambraces,mh4g-dex-build7+mh4edit-mit-save-id,1,0
-881,Alloy Guards,Alloy Guards,mh4g-dex-build7+mh4edit-mit-save-id,1,0
-882,Alloy Vambraces,Alloy Vambraces,mh4g-dex-build7+mh4edit-mit-save-id,1,0
-883,Alloy Guards,Alloy Guards,mh4g-dex-build7+mh4edit-mit-save-id,1,0
-884,Gypceros Vambraces,Gypceros Vambraces,mh4g-dex-build7+mh4edit-mit-save-id,2,0
-885,Gypceros Guards,Gypceros Guards,mh4g-dex-build7+mh4edit-mit-save-id,2,0
-886,Gypceros Vambraces,Gypceros Vambraces,mh4g-dex-build7+mh4edit-mit-save-id,2,0
-887,Gypceros Guards,Gypceros Guards,mh4g-dex-build7+mh4edit-mit-save-id,2,0
-888,Khezu Vambraces,Khezu Vambraces,mh4g-dex-build7+mh4edit-mit-save-id,2,0
-889,Khezu Guards,Khezu Guards,mh4g-dex-build7+mh4edit-mit-save-id,2,0
-890,Khezu Vambraces,Khezu Vambraces,mh4g-dex-build7+mh4edit-mit-save-id,2,0
-891,Khezu Guards,Khezu Guards,mh4g-dex-build7+mh4edit-mit-save-id,2,0
-892,Ingot Vambraces,Ingot Vambraces,mh4g-dex-build7+mh4edit-mit-save-id,3,0
-893,Ingot Guards,Ingot Guards,mh4g-dex-build7+mh4edit-mit-save-id,3,0
-894,Ingot Vambraces,Ingot Vambraces,mh4g-dex-build7+mh4edit-mit-save-id,3,0
-895,Ingot Guards,Ingot Guards,mh4g-dex-build7+mh4edit-mit-save-id,3,0
-896,Rathian Vambraces,Rathian Vambraces,mh4g-dex-build7+mh4edit-mit-save-id,2,0
-897,Rathian Guards,Rathian Guards,mh4g-dex-build7+mh4edit-mit-save-id,2,0
-898,Lagiacrus Braces,Lagiacrus Braces,mh4g-dex-build7+mh4edit-mit-save-id,6,0
-899,Lagiacrus Guards,Lagiacrus Guards,mh4g-dex-build7+mh4edit-mit-save-id,6,0
-900,Rathalos Vambraces,Rathalos Vambraces,mh4g-dex-build7+mh4edit-mit-save-id,3,0
-901,Rathalos Guards,Rathalos Guards,mh4g-dex-build7+mh4edit-mit-save-id,3,0
-902,Gypceros Vambraces U,Gypceros Vambraces U,mh4g-dex-build7+mh4edit-mit-save-id,6,0
-903,Gypceros Guards U,Gypceros Guards U,mh4g-dex-build7+mh4edit-mit-save-id,6,0
-904,Khezu Vambraces U,Khezu Vambraces U,mh4g-dex-build7+mh4edit-mit-save-id,6,0
-905,Khezu Guards U,Khezu Guards U,mh4g-dex-build7+mh4edit-mit-save-id,6,0
-906,Tigrex Vambraces,Tigrex Vambraces,mh4g-dex-build7+mh4edit-mit-save-id,3,0
-907,Tigrex Guards,Tigrex Guards,mh4g-dex-build7+mh4edit-mit-save-id,3,0
-908,Kirin Longarms,Kirin Longarms,mh4g-dex-build7+mh4edit-mit-save-id,3,0
-909,Kirin Gloves,Kirin Gloves,mh4g-dex-build7+mh4edit-mit-save-id,3,0
-910,Kirin Longarms,Kirin Longarms,mh4g-dex-build7+mh4edit-mit-save-id,3,0
-911,Kirin Gloves,Kirin Gloves,mh4g-dex-build7+mh4edit-mit-save-id,3,0
-912,Artian Vambraces S,Artian Vambraces S,mh4g-dex-build7+mh4edit-mit-save-id,5,0
-913,Artian Guards S,Artian Guards S,mh4g-dex-build7+mh4edit-mit-save-id,5,0
-914,Ceanataur Braces,Ceanataur Braces,mh4g-dex-build7+mh4edit-mit-save-id,2,0
-915,Ceanataur Guards,Ceanataur Guards,mh4g-dex-build7+mh4edit-mit-save-id,2,0
-916,Ceanataur Braces,Ceanataur Braces,mh4g-dex-build7+mh4edit-mit-save-id,2,0
-917,Ceanataur Guards,Ceanataur Guards,mh4g-dex-build7+mh4edit-mit-save-id,2,0
-918,Gloaming Braces,Gloaming Braces,mh4g-dex-build7+mh4edit-mit-save-id,3,0
-919,Dayspring Braces,Dayspring Braces,mh4g-dex-build7+mh4edit-mit-save-id,3,0
-920,Adamance Braces,Adamance Braces,mh4g-dex-build7+mh4edit-mit-save-id,3,0
-921,Epoch Braces,Epoch Braces,mh4g-dex-build7+mh4edit-mit-save-id,3,0
-922,Zinogre Vambraces U,Zinogre Vambraces U,mh4g-dex-build7+mh4edit-mit-save-id,6,0
-923,Zinogre Guards U,Zinogre Guards U,mh4g-dex-build7+mh4edit-mit-save-id,6,0
-924,Tigrex Vambraces U,Tigrex Vambraces U,mh4g-dex-build7+mh4edit-mit-save-id,6,0
-925,Tigrex Guards U,Tigrex Guards U,mh4g-dex-build7+mh4edit-mit-save-id,6,0
-926,Gore Braces,Gore Braces,mh4g-dex-build7+mh4edit-mit-save-id,3,0
-927,Gore Guards,Gore Guards,mh4g-dex-build7+mh4edit-mit-save-id,3,0
-928,Auroros Gauntlets,Auroros Gauntlets,mh4g-dex-build7+mh4edit-mit-save-id,3,0
-929,Genesis Gauntlets,Genesis Gauntlets,mh4g-dex-build7+mh4edit-mit-save-id,3,0
-930,Borealis Gauntlets,Borealis Gauntlets,mh4g-dex-build7+mh4edit-mit-save-id,3,0
-931,Glyph Gauntlets,Glyph Gauntlets,mh4g-dex-build7+mh4edit-mit-save-id,3,0
-932,Kirin Longarms U,Kirin Longarms U,mh4g-dex-build7+mh4edit-mit-save-id,7,0
-933,Kirin Gloves U,Kirin Gloves U,mh4g-dex-build7+mh4edit-mit-save-id,7,0
-934,Kirin Longarms U,Kirin Longarms U,mh4g-dex-build7+mh4edit-mit-save-id,7,0
-935,Kirin Gloves U,Kirin Gloves U,mh4g-dex-build7+mh4edit-mit-save-id,7,0
-936,Esurient Vambraces,Esurient Vambraces,mh4g-dex-build7+mh4edit-mit-save-id,7,0
-937,Esurient Guards,Esurient Guards,mh4g-dex-build7+mh4edit-mit-save-id,7,0
-938,Monoblos Vambraces,Monoblos Vambraces,mh4g-armor-name-crosswalk+mh4edit-mit-save-id,0,1
-939,Monoblos Guards,Monoblos Guards,mh4g-armor-name-crosswalk+mh4edit-mit-save-id,0,1
-940,Hornet Vambraces,Hornet Vambraces,mh4g-armor-name-crosswalk+mh4edit-mit-save-id,0,1
-941,Hornet Guards,Hornet Guards,mh4g-armor-name-crosswalk+mh4edit-mit-save-id,0,1
-942,Wroggi Vambraces,Wroggi Vambraces,mh4g-armor-name-crosswalk+mh4edit-mit-save-id,0,1
-943,Wroggi Guards,Wroggi Guards,mh4g-armor-name-crosswalk+mh4edit-mit-save-id,0,1
-944,Monodevil Vambraces,Monodevil Vambraces,mh4g-dex-build7+mh4edit-mit-save-id,9,0
-945,Monodevil Guards,Monodevil Guards,mh4g-dex-build7+mh4edit-mit-save-id,9,0
-946,Diablos Vambraces,Diablos Vambraces,mh4g-dex-build7+mh4edit-mit-save-id,3,0
-947,Diablos Guards,Diablos Guards,mh4g-dex-build7+mh4edit-mit-save-id,3,0
-948,Gigginox Vambraces,Gigginox Vambraces,mh4g-armor-name-crosswalk+mh4edit-mit-save-id,0,1
-949,Gigginox Guards,Gigginox Guards,mh4g-armor-name-crosswalk+mh4edit-mit-save-id,0,1
-950,Death Stench Grip,Death Stench Grip,mh4g-armor-name-crosswalk+mh4edit-mit-save-id,0,1
-951,Death Stench Grasp,Death Stench Grasp,mh4g-armor-name-crosswalk+mh4edit-mit-save-id,0,1
-952,Damascus Vambraces,Damascus Vambraces,mh4g-armor-name-crosswalk+mh4edit-mit-save-id,0,1
-953,Damascus Guards,Damascus Guards,mh4g-armor-name-crosswalk+mh4edit-mit-save-id,0,1
-954,DUMMY,DUMMY,mh4edit-mit-save-id,0,0
-955,DUMMY,DUMMY,mh4edit-mit-save-id,0,0
+0,None,None,mh4g-core-common-game-array,0,0
+1,Derring Gloves,Derring Gloves,mh4g-core-common-game-array+mh4g-dex-build7+mh4edit-mit-save-id,1,0
+2,Derring Vambraces S,Derring Vambraces S,mh4g-core-common-game-array+mh4g-dex-build7+mh4edit-mit-save-id,4,0
+3,Derring Guards S,Derring Guards S,mh4g-core-common-game-array+mh4g-dex-build7+mh4edit-mit-save-id,4,0
+4,Leather Gloves,Leather Gloves,mh4g-core-common-game-array+mh4g-dex-build7+mh4edit-mit-save-id,1,0
+5,Leather Vambraces S,Leather Vambraces S,mh4g-core-common-game-array+mh4g-dex-build7+mh4edit-mit-save-id,4,0
+6,Leather Guards S,Leather Guards S,mh4g-core-common-game-array+mh4g-dex-build7+mh4edit-mit-save-id,4,0
+7,Chainmail Gloves,Chainmail Gloves,mh4g-core-common-game-array+mh4g-dex-build7+mh4edit-mit-save-id,1,0
+8,Chainmail Braces S,Chainmail Braces S,mh4g-core-common-game-array+mh4g-dex-build7+mh4edit-mit-save-id,4,0
+9,Chainmail Guards S,Chainmail Guards S,mh4g-core-common-game-array+mh4g-dex-build7+mh4edit-mit-save-id,4,0
+10,Hunter's Vambraces,Hunter's Vambraces,mh4g-core-common-game-array+mh4g-dex-build7+mh4edit-mit-save-id,1,0
+11,Hunter's Guards,Hunter's Guards,mh4g-core-common-game-array+mh4g-dex-build7+mh4edit-mit-save-id,1,0
+12,Hunter's Vambraces S,Hunter's Vambraces S,mh4g-core-common-game-array+mh4g-dex-build7+mh4edit-mit-save-id,4,0
+13,Hunter's Guards S,Hunter's Guards S,mh4g-core-common-game-array+mh4g-dex-build7+mh4edit-mit-save-id,4,0
+14,Hunter's Vambraces,Hunter's Vambraces,mh4g-core-common-game-array+mh4g-dex-build7+mh4edit-mit-save-id,1,0
+15,Hunter's Guards,Hunter's Guards,mh4g-core-common-game-array+mh4g-dex-build7+mh4edit-mit-save-id,1,0
+16,Bone Vambraces,Bone Vambraces,mh4g-core-common-game-array+mh4g-dex-build7+mh4edit-mit-save-id,1,0
+17,Bone Guards,Bone Guards,mh4g-core-common-game-array+mh4g-dex-build7+mh4edit-mit-save-id,1,0
+18,Bone Vambraces S,Bone Vambraces S,mh4g-core-common-game-array+mh4g-dex-build7+mh4edit-mit-save-id,4,0
+19,Bone Guards S,Bone Guards S,mh4g-core-common-game-array+mh4g-dex-build7+mh4edit-mit-save-id,4,0
+20,Alloy Vambraces,Alloy Vambraces,mh4g-core-common-game-array+mh4g-dex-build7+mh4edit-mit-save-id,1,0
+21,Alloy Guards,Alloy Guards,mh4g-core-common-game-array+mh4g-dex-build7+mh4edit-mit-save-id,1,0
+22,Alloy Vambraces S,Alloy Vambraces S,mh4g-core-common-game-array+mh4g-dex-build7+mh4edit-mit-save-id,4,0
+23,Alloy Guards S,Alloy Guards S,mh4g-core-common-game-array+mh4g-dex-build7+mh4edit-mit-save-id,4,0
+24,Alloy Vambraces,Alloy Vambraces,mh4g-core-common-game-array+mh4g-dex-build7+mh4edit-mit-save-id,1,0
+25,Alloy Guards,Alloy Guards,mh4g-core-common-game-array+mh4g-dex-build7+mh4edit-mit-save-id,1,0
+26,Jaggi Vambraces,Jaggi Vambraces,mh4g-core-common-game-array+mh4g-dex-build7+mh4edit-mit-save-id,2,0
+27,Jaggi Guards,Jaggi Guards,mh4g-core-common-game-array+mh4g-dex-build7+mh4edit-mit-save-id,2,0
+28,Jaggi Vambraces S,Jaggi Vambraces S,mh4g-core-common-game-array+mh4g-dex-build7+mh4edit-mit-save-id,4,0
+29,Jaggi Guards S,Jaggi Guards S,mh4g-core-common-game-array+mh4g-dex-build7+mh4edit-mit-save-id,4,0
+30,Ludroth Vambraces,Ludroth Vambraces,mh4g-core-common-game-array+mh4g-dex-build7+mh4edit-mit-save-id,2,0
+31,Ludroth Guards,Ludroth Guards,mh4g-core-common-game-array+mh4g-dex-build7+mh4edit-mit-save-id,2,0
+32,Ludroth Vambraces,Ludroth Vambraces,mh4g-core-common-game-array+mh4g-dex-build7+mh4edit-mit-save-id,2,0
+33,Ludroth Guards,Ludroth Guards,mh4g-core-common-game-array+mh4g-dex-build7+mh4edit-mit-save-id,2,0
+34,Rhenoplos Vambraces,Rhenoplos Vambraces,mh4g-core-common-game-array+mh4g-dex-build7+mh4edit-mit-save-id,2,0
+35,Rhenoplos Guards,Rhenoplos Guards,mh4g-core-common-game-array+mh4g-dex-build7+mh4edit-mit-save-id,2,0
+36,Rhenoplos Braces S,Rhenoplos Braces S,mh4g-core-common-game-array+mh4g-dex-build7+mh4edit-mit-save-id,4,0
+37,Rhenoplos Guards S,Rhenoplos Guards S,mh4g-core-common-game-array+mh4g-dex-build7+mh4edit-mit-save-id,4,0
+38,Bnahabra Gloves,Bnahabra Gloves,mh4g-core-common-game-array+mh4g-dex-build7+mh4edit-mit-save-id,2,0
+39,Bnahabra Sleeves,Bnahabra Sleeves,mh4g-core-common-game-array+mh4g-dex-build7+mh4edit-mit-save-id,2,0
+40,Bnahabra Gloves S,Bnahabra Gloves S,mh4g-core-common-game-array+mh4g-dex-build7+mh4edit-mit-save-id,4,0
+41,Bnahabra Sleeves S,Bnahabra Sleeves S,mh4g-core-common-game-array+mh4g-dex-build7+mh4edit-mit-save-id,4,0
+42,Barroth Vambraces,Barroth Vambraces,mh4g-core-common-game-array+mh4g-dex-build7+mh4edit-mit-save-id,2,0
+43,Barroth Guards,Barroth Guards,mh4g-core-common-game-array+mh4g-dex-build7+mh4edit-mit-save-id,2,0
+44,Rathian Vambraces,Rathian Vambraces,mh4g-core-common-game-array+mh4g-dex-build7+mh4edit-mit-save-id,2,0
+45,Rathian Guards,Rathian Guards,mh4g-core-common-game-array+mh4g-dex-build7+mh4edit-mit-save-id,2,0
+46,Rathian Vambraces S,Rathian Vambraces S,mh4g-core-common-game-array+mh4g-dex-build7+mh4edit-mit-save-id,5,0
+47,Rathian Guards S,Rathian Guards S,mh4g-core-common-game-array+mh4g-dex-build7+mh4edit-mit-save-id,5,0
+48,Rath Heart Braces,Rath Heart Braces,mh4g-core-common-game-array+mh4g-dex-build7+mh4edit-mit-save-id,6,0
+49,Rath Heart Guards,Rath Heart Guards,mh4g-core-common-game-array+mh4g-dex-build7+mh4edit-mit-save-id,6,0
+50,Golden Lunebraces,Golden Lunebraces,mh4g-core-common-game-array+mh4g-dex-build7+mh4edit-mit-save-id,7,0
+51,Golden Luneguards,Golden Luneguards,mh4g-core-common-game-array+mh4g-dex-build7+mh4edit-mit-save-id,7,0
+52,Rathian Vambraces,Rathian Vambraces,mh4g-core-common-game-array+mh4g-dex-build7+mh4edit-mit-save-id,2,0
+53,Rathian Guards,Rathian Guards,mh4g-core-common-game-array+mh4g-dex-build7+mh4edit-mit-save-id,2,0
+54,Rath Heart Braces,Rath Heart Braces,mh4g-core-common-game-array+mh4g-dex-build7+mh4edit-mit-save-id,6,0
+55,Rath Heart Guards,Rath Heart Guards,mh4g-core-common-game-array+mh4g-dex-build7+mh4edit-mit-save-id,6,0
+56,EX Rathian Braces,EX Rathian Braces,mh4g-core-common-game-array+mh4g-dex-build7+mh4edit-mit-save-id,7,0
+57,EX Rathian Guards,EX Rathian Guards,mh4g-core-common-game-array+mh4g-dex-build7+mh4edit-mit-save-id,7,0
+58,Rathalos Vambraces,Rathalos Vambraces,mh4g-core-common-game-array+mh4g-dex-build7+mh4edit-mit-save-id,3,0
+59,Rathalos Guards,Rathalos Guards,mh4g-core-common-game-array+mh4g-dex-build7+mh4edit-mit-save-id,3,0
+60,Rathalos Vambraces S,Rathalos Vambraces S,mh4g-core-common-game-array+mh4g-dex-build7+mh4edit-mit-save-id,5,0
+61,Rathalos Guards S,Rathalos Guards S,mh4g-core-common-game-array+mh4g-dex-build7+mh4edit-mit-save-id,5,0
+62,Rath Soul Braces,Rath Soul Braces,mh4g-core-common-game-array+mh4g-dex-build7+mh4edit-mit-save-id,6,0
+63,Rath Soul Guards,Rath Soul Guards,mh4g-core-common-game-array+mh4g-dex-build7+mh4edit-mit-save-id,6,0
+64,Silver Solbraces,Silver Solbraces,mh4g-core-common-game-array+mh4g-dex-build7+mh4edit-mit-save-id,7,0
+65,Silver Solguards,Silver Solguards,mh4g-core-common-game-array+mh4g-dex-build7+mh4edit-mit-save-id,7,0
+66,Rathalos Vambraces,Rathalos Vambraces,mh4g-core-common-game-array+mh4g-dex-build7+mh4edit-mit-save-id,3,0
+67,Rathalos Guards,Rathalos Guards,mh4g-core-common-game-array+mh4g-dex-build7+mh4edit-mit-save-id,3,0
+68,Rath Soul Braces,Rath Soul Braces,mh4g-core-common-game-array+mh4g-dex-build7+mh4edit-mit-save-id,6,0
+69,Rath Soul Guards,Rath Soul Guards,mh4g-core-common-game-array+mh4g-dex-build7+mh4edit-mit-save-id,6,0
+70,Silver Solbraces,Silver Solbraces,mh4g-core-common-game-array+mh4g-dex-build7+mh4edit-mit-save-id,7,0
+71,Silver Solguards,Silver Solguards,mh4g-core-common-game-array+mh4g-dex-build7+mh4edit-mit-save-id,7,0
+72,EX Rathalos Braces,EX Rathalos Braces,mh4g-core-common-game-array+mh4g-dex-build7+mh4edit-mit-save-id,7,0
+73,EX Rathalos Guards,EX Rathalos Guards,mh4g-core-common-game-array+mh4g-dex-build7+mh4edit-mit-save-id,7,0
+74,Diablos Vambraces,Diablos Vambraces,mh4g-core-common-game-array+mh4g-dex-build7+mh4edit-mit-save-id,3,0
+75,Diablos Guards,Diablos Guards,mh4g-core-common-game-array+mh4g-dex-build7+mh4edit-mit-save-id,3,0
+76,Uragaan Vambraces,Uragaan Vambraces,mh4g-core-common-game-array+mh4g-dex-build7+mh4edit-mit-save-id,3,0
+77,Uragaan Guards,Uragaan Guards,mh4g-core-common-game-array+mh4g-dex-build7+mh4edit-mit-save-id,3,0
+78,Vangis Vambraces,Vangis Vambraces,mh4g-core-common-game-array+mh4g-dex-build7+mh4edit-mit-save-id,6,0
+79,Vangis Guards,Vangis Guards,mh4g-core-common-game-array+mh4g-dex-build7+mh4edit-mit-save-id,6,0
+80,Esurient Vambraces,Esurient Vambraces,mh4g-core-common-game-array+mh4g-dex-build7+mh4edit-mit-save-id,7,0
+81,Esurient Guards,Esurient Guards,mh4g-core-common-game-array+mh4g-dex-build7+mh4edit-mit-save-id,7,0
+82,Esurient Vambraces,Esurient Vambraces,mh4g-core-common-game-array+mh4g-dex-build7+mh4edit-mit-save-id,7,0
+83,Esurient Guards,Esurient Guards,mh4g-core-common-game-array+mh4g-dex-build7+mh4edit-mit-save-id,7,0
+84,Gloaming Braces,Gloaming Braces,mh4g-core-common-game-array+mh4g-dex-build7+mh4edit-mit-save-id,3,0
+85,Adamance Braces,Adamance Braces,mh4g-core-common-game-array+mh4g-dex-build7+mh4edit-mit-save-id,3,0
+86,Dayspring Braces,Dayspring Braces,mh4g-core-common-game-array+mh4g-dex-build7+mh4edit-mit-save-id,3,0
+87,Epoch Braces,Epoch Braces,mh4g-core-common-game-array+mh4g-dex-build7+mh4edit-mit-save-id,3,0
+88,Gloaming Archbraces,Gloaming Archbraces,mh4g-core-common-game-array+mh4g-dex-build7+mh4edit-mit-save-id,7,0
+89,Adamance Archbraces,Adamance Archbraces,mh4g-core-common-game-array+mh4g-dex-build7+mh4edit-mit-save-id,7,0
+90,Dayspring Archbraces,Dayspring Archbraces,mh4g-core-common-game-array+mh4g-dex-build7+mh4edit-mit-save-id,7,0
+91,Epoch Archbraces,Epoch Archbraces,mh4g-core-common-game-array+mh4g-dex-build7+mh4edit-mit-save-id,7,0
+92,Gloaming Braces,Gloaming Braces,mh4g-core-common-game-array+mh4g-dex-build7+mh4edit-mit-save-id,3,0
+93,Adamance Braces,Adamance Braces,mh4g-core-common-game-array+mh4g-dex-build7+mh4edit-mit-save-id,3,0
+94,Dayspring Braces,Dayspring Braces,mh4g-core-common-game-array+mh4g-dex-build7+mh4edit-mit-save-id,3,0
+95,Epoch Braces,Epoch Braces,mh4g-core-common-game-array+mh4g-dex-build7+mh4edit-mit-save-id,3,0
+96,Plesioth Vambraces,Plesioth Vambraces,mh4g-core-common-game-array+mh4g-dex-build7+mh4edit-mit-save-id,4,0
+97,Plesioth Guards,Plesioth Guards,mh4g-core-common-game-array+mh4g-dex-build7+mh4edit-mit-save-id,4,0
+98,Nibelsnarf Braces,Nibelsnarf Braces,mh4g-core-common-game-array+mh4g-dex-build7+mh4edit-mit-save-id,2,0
+99,Nibelsnarf Guards,Nibelsnarf Guards,mh4g-core-common-game-array+mh4g-dex-build7+mh4edit-mit-save-id,2,0
+100,Duramboros Braces,Duramboros Braces,mh4g-core-common-game-array+mh4g-dex-build7+mh4edit-mit-save-id,3,0
+101,Duramboros Guards,Duramboros Guards,mh4g-core-common-game-array+mh4g-dex-build7+mh4edit-mit-save-id,3,0
+102,Arzuros Vambraces,Arzuros Vambraces,mh4g-core-common-game-array+mh4g-dex-build7+mh4edit-mit-save-id,2,0
+103,Arzuros Guards,Arzuros Guards,mh4g-core-common-game-array+mh4g-dex-build7+mh4edit-mit-save-id,2,0
+104,Lagombi Vambraces,Lagombi Vambraces,mh4g-core-common-game-array+mh4g-dex-build7+mh4edit-mit-save-id,2,0
+105,Lagombi Guards,Lagombi Guards,mh4g-core-common-game-array+mh4g-dex-build7+mh4edit-mit-save-id,2,0
+106,Lagombi Vambraces S,Lagombi Vambraces S,mh4g-core-common-game-array+mh4g-dex-build7+mh4edit-mit-save-id,4,0
+107,Lagombi Guards S,Lagombi Guards S,mh4g-core-common-game-array+mh4g-dex-build7+mh4edit-mit-save-id,4,0
+108,Nargacuga Braces,Nargacuga Braces,mh4g-core-common-game-array+mh4g-dex-build7+mh4edit-mit-save-id,3,0
+109,Nargacuga Guards,Nargacuga Guards,mh4g-core-common-game-array+mh4g-dex-build7+mh4edit-mit-save-id,3,0
+110,Tigrex Vambraces,Tigrex Vambraces,mh4g-core-common-game-array+mh4g-dex-build7+mh4edit-mit-save-id,3,0
+111,Tigrex Guards,Tigrex Guards,mh4g-core-common-game-array+mh4g-dex-build7+mh4edit-mit-save-id,3,0
+112,Tigrex Vambraces S,Tigrex Vambraces S,mh4g-core-common-game-array+mh4g-dex-build7+mh4edit-mit-save-id,5,0
+113,Tigrex Guards S,Tigrex Guards S,mh4g-core-common-game-array+mh4g-dex-build7+mh4edit-mit-save-id,5,0
+114,Tigrex Vambraces U,Tigrex Vambraces U,mh4g-core-common-game-array+mh4g-dex-build7+mh4edit-mit-save-id,6,0
+115,Tigrex Guards U,Tigrex Guards U,mh4g-core-common-game-array+mh4g-dex-build7+mh4edit-mit-save-id,6,0
+116,Excello Vambraces,Excello Vambraces,mh4g-core-common-game-array+mh4g-dex-build7+mh4edit-mit-save-id,7,0
+117,Excello Guards,Excello Guards,mh4g-core-common-game-array+mh4g-dex-build7+mh4edit-mit-save-id,7,0
+118,EX Tigrex Vambraces,EX Tigrex Vambraces,mh4g-core-common-game-array+mh4g-dex-build7+mh4edit-mit-save-id,7,0
+119,EX Tigrex Guards,EX Tigrex Guards,mh4g-core-common-game-array+mh4g-dex-build7+mh4edit-mit-save-id,7,0
+120,Tigrex Vambraces,Tigrex Vambraces,mh4g-core-common-game-array+mh4g-dex-build7+mh4edit-mit-save-id,3,0
+121,Tigrex Guards,Tigrex Guards,mh4g-core-common-game-array+mh4g-dex-build7+mh4edit-mit-save-id,3,0
+122,Tigrex Vambraces U,Tigrex Vambraces U,mh4g-core-common-game-array+mh4g-dex-build7+mh4edit-mit-save-id,6,0
+123,Tigrex Guards U,Tigrex Guards U,mh4g-core-common-game-array+mh4g-dex-build7+mh4edit-mit-save-id,6,0
+124,Brachydios Braces,Brachydios Braces,mh4g-core-common-game-array+mh4g-dex-build7+mh4edit-mit-save-id,3,0
+125,Brachydios Guards,Brachydios Guards,mh4g-core-common-game-array+mh4g-dex-build7+mh4edit-mit-save-id,3,0
+126,Brachydios Braces S,Brachydios Braces S,mh4g-core-common-game-array+mh4g-dex-build7+mh4edit-mit-save-id,6,0
+127,Brachydios Guards S,Brachydios Guards S,mh4g-core-common-game-array+mh4g-dex-build7+mh4edit-mit-save-id,6,0
+128,Akantor Claws,Akantor Claws,mh4g-core-common-game-array+mh4g-dex-build7+mh4edit-mit-save-id,7,0
+129,Akantor Gauntlets,Akantor Gauntlets,mh4g-core-common-game-array+mh4g-dex-build7+mh4edit-mit-save-id,7,0
+130,Akantor Claws,Akantor Claws,mh4g-core-common-game-array+mh4g-dex-build7+mh4edit-mit-save-id,7,0
+131,Akantor Gauntlets,Akantor Gauntlets,mh4g-core-common-game-array+mh4g-dex-build7+mh4edit-mit-save-id,7,0
+132,Zinogre Vambraces,Zinogre Vambraces,mh4g-core-common-game-array+mh4g-dex-build7+mh4edit-mit-save-id,3,0
+133,Zinogre Guards,Zinogre Guards,mh4g-core-common-game-array+mh4g-dex-build7+mh4edit-mit-save-id,3,0
+134,Zinogre Vambraces S,Zinogre Vambraces S,mh4g-core-common-game-array+mh4g-dex-build7+mh4edit-mit-save-id,5,0
+135,Zinogre Guards S,Zinogre Guards S,mh4g-core-common-game-array+mh4g-dex-build7+mh4edit-mit-save-id,5,0
+136,Zinogre Vambraces U,Zinogre Vambraces U,mh4g-core-common-game-array+mh4g-dex-build7+mh4edit-mit-save-id,6,0
+137,Zinogre Guards U,Zinogre Guards U,mh4g-core-common-game-array+mh4g-dex-build7+mh4edit-mit-save-id,6,0
+138,Zinogre Vambraces U,Zinogre Vambraces U,mh4g-core-common-game-array+mh4g-dex-build7+mh4edit-mit-save-id,6,0
+139,Zinogre Guards U,Zinogre Guards U,mh4g-core-common-game-array+mh4g-dex-build7+mh4edit-mit-save-id,6,0
+140,EX Kaiser Vambraces,EX Kaiser Vambraces,mh4g-core-common-game-array+mh4g-dex-build7+mh4edit-mit-save-id,7,0
+141,EX Kaiser Guards,EX Kaiser Guards,mh4g-core-common-game-array+mh4g-dex-build7+mh4edit-mit-save-id,7,0
+142,Kecha Vambraces,Kecha Vambraces,mh4g-core-common-game-array+mh4g-dex-build7+mh4edit-mit-save-id,2,0
+143,Kecha Guards,Kecha Guards,mh4g-core-common-game-array+mh4g-dex-build7+mh4edit-mit-save-id,2,0
+144,Kecha Braces S,Kecha Braces S,mh4g-core-common-game-array+mh4g-dex-build7+mh4edit-mit-save-id,4,0
+145,Kecha Guards S,Kecha Guards S,mh4g-core-common-game-array+mh4g-dex-build7+mh4edit-mit-save-id,4,0
+146,Gore Braces,Gore Braces,mh4g-core-common-game-array+mh4g-dex-build7+mh4edit-mit-save-id,3,0
+147,Gore Guards,Gore Guards,mh4g-core-common-game-array+mh4g-dex-build7+mh4edit-mit-save-id,3,0
+148,Gore Braces S,Gore Braces S,mh4g-core-common-game-array+mh4g-dex-build7+mh4edit-mit-save-id,6,0
+149,Gore Guards S,Gore Guards S,mh4g-core-common-game-array+mh4g-dex-build7+mh4edit-mit-save-id,6,0
+150,Gore Braces,Gore Braces,mh4g-core-common-game-array+mh4g-dex-build7+mh4edit-mit-save-id,3,0
+151,Gore Guards,Gore Guards,mh4g-core-common-game-array+mh4g-dex-build7+mh4edit-mit-save-id,3,0
+152,Tetsucabra Vambraces,Tetsucabra Vambraces,mh4g-core-common-game-array+mh4g-dex-build7+mh4edit-mit-save-id,2,0
+153,Tetsucabra Guards,Tetsucabra Guards,mh4g-core-common-game-array+mh4g-dex-build7+mh4edit-mit-save-id,2,0
+154,Tetsucabra Braces S,Tetsucabra Braces S,mh4g-core-common-game-array+mh4g-dex-build7+mh4edit-mit-save-id,5,0
+155,Tetsucabra Guards S,Tetsucabra Guards S,mh4g-core-common-game-array+mh4g-dex-build7+mh4edit-mit-save-id,5,0
+156,Nerscylla Vambraces,Nerscylla Vambraces,mh4g-core-common-game-array+mh4g-dex-build7+mh4edit-mit-save-id,2,0
+157,Nerscylla Guards,Nerscylla Guards,mh4g-core-common-game-array+mh4g-dex-build7+mh4edit-mit-save-id,2,0
+158,Nerscylla Braces S,Nerscylla Braces S,mh4g-core-common-game-array+mh4g-dex-build7+mh4edit-mit-save-id,5,0
+159,Nerscylla Guards S,Nerscylla Guards S,mh4g-core-common-game-array+mh4g-dex-build7+mh4edit-mit-save-id,5,0
+160,Najarala Braces,Najarala Braces,mh4g-core-common-game-array+mh4g-dex-build7+mh4edit-mit-save-id,2,0
+161,Najarala Guards,Najarala Guards,mh4g-core-common-game-array+mh4g-dex-build7+mh4edit-mit-save-id,2,0
+162,Najarala Braces S,Najarala Braces S,mh4g-core-common-game-array+mh4g-dex-build7+mh4edit-mit-save-id,5,0
+163,Najarala Guards S,Najarala Guards S,mh4g-core-common-game-array+mh4g-dex-build7+mh4edit-mit-save-id,5,0
+164,Garuga Vambraces,Garuga Vambraces,mh4g-core-common-game-array+mh4g-dex-build7+mh4edit-mit-save-id,3,0
+165,Garuga Guards,Garuga Guards,mh4g-core-common-game-array+mh4g-dex-build7+mh4edit-mit-save-id,3,0
+166,Garuga Vambraces S,Garuga Vambraces S,mh4g-core-common-game-array+mh4g-dex-build7+mh4edit-mit-save-id,5,0
+167,Garuga Guards S,Garuga Guards S,mh4g-core-common-game-array+mh4g-dex-build7+mh4edit-mit-save-id,5,0
+168,Basarios Vambraces,Basarios Vambraces,mh4g-core-common-game-array+mh4g-dex-build7+mh4edit-mit-save-id,2,0
+169,Basarios Guards,Basarios Guards,mh4g-core-common-game-array+mh4g-dex-build7+mh4edit-mit-save-id,2,0
+170,Basarios Vambraces S,Basarios Vambraces S,mh4g-core-common-game-array+mh4g-dex-build7+mh4edit-mit-save-id,5,0
+171,Basarios Guards S,Basarios Guards S,mh4g-core-common-game-array+mh4g-dex-build7+mh4edit-mit-save-id,5,0
+172,Basarios Vambraces U,Basarios Vambraces U,mh4g-core-common-game-array+mh4g-dex-build7+mh4edit-mit-save-id,6,0
+173,Basarios Guards U,Basarios Guards U,mh4g-core-common-game-array+mh4g-dex-build7+mh4edit-mit-save-id,6,0
+174,Battle Vambraces,Battle Vambraces,mh4g-core-common-game-array+mh4g-dex-build7+mh4edit-mit-save-id,2,0
+175,Battle Guards,Battle Guards,mh4g-core-common-game-array+mh4g-dex-build7+mh4edit-mit-save-id,2,0
+176,Velociprey Braces,Velociprey Braces,mh4g-core-common-game-array+mh4g-dex-build7+mh4edit-mit-save-id,2,0
+177,Velociprey Guards,Velociprey Guards,mh4g-core-common-game-array+mh4g-dex-build7+mh4edit-mit-save-id,2,0
+178,Velociprey Braces S,Velociprey Braces S,mh4g-core-common-game-array+mh4g-dex-build7+mh4edit-mit-save-id,4,0
+179,Velociprey Guards S,Velociprey Guards S,mh4g-core-common-game-array+mh4g-dex-build7+mh4edit-mit-save-id,4,0
+180,Genprey Vambraces,Genprey Vambraces,mh4g-core-common-game-array+mh4g-dex-build7+mh4edit-mit-save-id,2,0
+181,Genprey Guards,Genprey Guards,mh4g-core-common-game-array+mh4g-dex-build7+mh4edit-mit-save-id,2,0
+182,Genprey Vambraces S,Genprey Vambraces S,mh4g-core-common-game-array+mh4g-dex-build7+mh4edit-mit-save-id,4,0
+183,Genprey Guards S,Genprey Guards S,mh4g-core-common-game-array+mh4g-dex-build7+mh4edit-mit-save-id,4,0
+184,Ioprey Vambraces,Ioprey Vambraces,mh4g-core-common-game-array+mh4g-dex-build7+mh4edit-mit-save-id,2,0
+185,Ioprey Guards,Ioprey Guards,mh4g-core-common-game-array+mh4g-dex-build7+mh4edit-mit-save-id,2,0
+186,Ioprey Vambraces S,Ioprey Vambraces S,mh4g-core-common-game-array+mh4g-dex-build7+mh4edit-mit-save-id,4,0
+187,Ioprey Guards S,Ioprey Guards S,mh4g-core-common-game-array+mh4g-dex-build7+mh4edit-mit-save-id,4,0
+188,Kut-Ku Vambraces,Kut-Ku Vambraces,mh4g-core-common-game-array+mh4g-dex-build7+mh4edit-mit-save-id,2,0
+189,Kut-Ku Guards,Kut-Ku Guards,mh4g-core-common-game-array+mh4g-dex-build7+mh4edit-mit-save-id,2,0
+190,Kut-Ku Vambraces S,Kut-Ku Vambraces S,mh4g-core-common-game-array+mh4g-dex-build7+mh4edit-mit-save-id,4,0
+191,Kut-Ku Guards S,Kut-Ku Guards S,mh4g-core-common-game-array+mh4g-dex-build7+mh4edit-mit-save-id,4,0
+192,Kut-Ku Vambraces U,Kut-Ku Vambraces U,mh4g-core-common-game-array+mh4g-dex-build7+mh4edit-mit-save-id,5,0
+193,Kut-Ku Guards U,Kut-Ku Guards U,mh4g-core-common-game-array+mh4g-dex-build7+mh4edit-mit-save-id,5,0
+194,Gypceros Vambraces,Gypceros Vambraces,mh4g-core-common-game-array+mh4g-dex-build7+mh4edit-mit-save-id,2,0
+195,Gypceros Guards,Gypceros Guards,mh4g-core-common-game-array+mh4g-dex-build7+mh4edit-mit-save-id,2,0
+196,Gypceros Vambraces S,Gypceros Vambraces S,mh4g-core-common-game-array+mh4g-dex-build7+mh4edit-mit-save-id,5,0
+197,Gypceros Guards S,Gypceros Guards S,mh4g-core-common-game-array+mh4g-dex-build7+mh4edit-mit-save-id,5,0
+198,Gypceros Vambraces U,Gypceros Vambraces U,mh4g-core-common-game-array+mh4g-dex-build7+mh4edit-mit-save-id,6,0
+199,Gypceros Guards U,Gypceros Guards U,mh4g-core-common-game-array+mh4g-dex-build7+mh4edit-mit-save-id,6,0
+200,Gypceros Vambraces,Gypceros Vambraces,mh4g-core-common-game-array+mh4g-dex-build7+mh4edit-mit-save-id,2,0
+201,Gypceros Guards,Gypceros Guards,mh4g-core-common-game-array+mh4g-dex-build7+mh4edit-mit-save-id,2,0
+202,Gypceros Vambraces U,Gypceros Vambraces U,mh4g-core-common-game-array+mh4g-dex-build7+mh4edit-mit-save-id,6,0
+203,Gypceros Guards U,Gypceros Guards U,mh4g-core-common-game-array+mh4g-dex-build7+mh4edit-mit-save-id,6,0
+204,Conga Vambraces,Conga Vambraces,mh4g-core-common-game-array+mh4g-dex-build7+mh4edit-mit-save-id,2,0
+205,Conga Guards,Conga Guards,mh4g-core-common-game-array+mh4g-dex-build7+mh4edit-mit-save-id,2,0
+206,Conga Vambraces S,Conga Vambraces S,mh4g-core-common-game-array+mh4g-dex-build7+mh4edit-mit-save-id,4,0
+207,Conga Guards S,Conga Guards S,mh4g-core-common-game-array+mh4g-dex-build7+mh4edit-mit-save-id,4,0
+208,Conga Vambraces U,Conga Vambraces U,mh4g-core-common-game-array+mh4g-dex-build7+mh4edit-mit-save-id,5,0
+209,Conga Guards U,Conga Guards U,mh4g-core-common-game-array+mh4g-dex-build7+mh4edit-mit-save-id,5,0
+210,Gravios Vambraces,Gravios Vambraces,mh4g-core-common-game-array+mh4g-dex-build7+mh4edit-mit-save-id,3,0
+211,Gravios Guards,Gravios Guards,mh4g-core-common-game-array+mh4g-dex-build7+mh4edit-mit-save-id,3,0
+212,Gravios Vambraces S,Gravios Vambraces S,mh4g-core-common-game-array+mh4g-dex-build7+mh4edit-mit-save-id,5,0
+213,Gravios Guards S,Gravios Guards S,mh4g-core-common-game-array+mh4g-dex-build7+mh4edit-mit-save-id,5,0
+214,Gravios Vambraces U,Gravios Vambraces U,mh4g-core-common-game-array+mh4g-dex-build7+mh4edit-mit-save-id,6,0
+215,Gravios Guards U,Gravios Guards U,mh4g-core-common-game-array+mh4g-dex-build7+mh4edit-mit-save-id,6,0
+216,Khezu Vambraces,Khezu Vambraces,mh4g-core-common-game-array+mh4g-dex-build7+mh4edit-mit-save-id,2,0
+217,Khezu Guards,Khezu Guards,mh4g-core-common-game-array+mh4g-dex-build7+mh4edit-mit-save-id,2,0
+218,Khezu Vambraces S,Khezu Vambraces S,mh4g-core-common-game-array+mh4g-dex-build7+mh4edit-mit-save-id,5,0
+219,Khezu Guards S,Khezu Guards S,mh4g-core-common-game-array+mh4g-dex-build7+mh4edit-mit-save-id,5,0
+220,Khezu Vambraces U,Khezu Vambraces U,mh4g-core-common-game-array+mh4g-dex-build7+mh4edit-mit-save-id,6,0
+221,Khezu Guards U,Khezu Guards U,mh4g-core-common-game-array+mh4g-dex-build7+mh4edit-mit-save-id,6,0
+222,Khezu Vambraces,Khezu Vambraces,mh4g-core-common-game-array+mh4g-dex-build7+mh4edit-mit-save-id,2,0
+223,Khezu Guards,Khezu Guards,mh4g-core-common-game-array+mh4g-dex-build7+mh4edit-mit-save-id,2,0
+224,Khezu Vambraces U,Khezu Vambraces U,mh4g-core-common-game-array+mh4g-dex-build7+mh4edit-mit-save-id,6,0
+225,Khezu Guards U,Khezu Guards U,mh4g-core-common-game-array+mh4g-dex-build7+mh4edit-mit-save-id,6,0
+226,Kirin Longarms,Kirin Longarms,mh4g-core-common-game-array+mh4g-dex-build7+mh4edit-mit-save-id,3,0
+227,Kirin Gloves,Kirin Gloves,mh4g-core-common-game-array+mh4g-dex-build7+mh4edit-mit-save-id,3,0
+228,Kirin Longarms S,Kirin Longarms S,mh4g-core-common-game-array+mh4g-dex-build7+mh4edit-mit-save-id,6,0
+229,Kirin Gloves S,Kirin Gloves S,mh4g-core-common-game-array+mh4g-dex-build7+mh4edit-mit-save-id,6,0
+230,Kirin Longarms U,Kirin Longarms U,mh4g-core-common-game-array+mh4g-dex-build7+mh4edit-mit-save-id,7,0
+231,Kirin Gloves U,Kirin Gloves U,mh4g-core-common-game-array+mh4g-dex-build7+mh4edit-mit-save-id,7,0
+232,Kirin Longarms,Kirin Longarms,mh4g-core-common-game-array+mh4g-dex-build7+mh4edit-mit-save-id,3,0
+233,Kirin Gloves,Kirin Gloves,mh4g-core-common-game-array+mh4g-dex-build7+mh4edit-mit-save-id,3,0
+234,Kirin Longarms U,Kirin Longarms U,mh4g-core-common-game-array+mh4g-dex-build7+mh4edit-mit-save-id,7,0
+235,Kirin Gloves U,Kirin Gloves U,mh4g-core-common-game-array+mh4g-dex-build7+mh4edit-mit-save-id,7,0
+236,Kushala Grip,Kushala Grip,mh4g-core-common-game-array+mh4g-dex-build7+mh4edit-mit-save-id,7,0
+237,Kushala Embrace,Kushala Embrace,mh4g-core-common-game-array+mh4g-dex-build7+mh4edit-mit-save-id,7,0
+238,EX Kushala Grip,EX Kushala Grip,mh4g-core-common-game-array+mh4g-dex-build7+mh4edit-mit-save-id,7,0
+239,EX Kushala Embrace,EX Kushala Embrace,mh4g-core-common-game-array+mh4g-dex-build7+mh4edit-mit-save-id,7,0
+240,Kushala Grip,Kushala Grip,mh4g-core-common-game-array+mh4g-dex-build7+mh4edit-mit-save-id,7,0
+241,Kushala Embrace,Kushala Embrace,mh4g-core-common-game-array+mh4g-dex-build7+mh4edit-mit-save-id,7,0
+242,Empress Vambraces,Empress Vambraces,mh4g-core-common-game-array+mh4g-dex-build7+mh4edit-mit-save-id,7,0
+243,Empress Guards,Empress Guards,mh4g-core-common-game-array+mh4g-dex-build7+mh4edit-mit-save-id,7,0
+244,Ceanataur Braces,Ceanataur Braces,mh4g-core-common-game-array+mh4g-dex-build7+mh4edit-mit-save-id,2,0
+245,Ceanataur Guards,Ceanataur Guards,mh4g-core-common-game-array+mh4g-dex-build7+mh4edit-mit-save-id,2,0
+246,Ceanataur Braces,Ceanataur Braces,mh4g-core-common-game-array+mh4g-dex-build7+mh4edit-mit-save-id,2,0
+247,Ceanataur Guards,Ceanataur Guards,mh4g-core-common-game-array+mh4g-dex-build7+mh4edit-mit-save-id,2,0
+248,Auroros Gauntlets,Auroros Gauntlets,mh4g-core-common-game-array+mh4g-dex-build7+mh4edit-mit-save-id,3,0
+249,Borealis Gauntlets,Borealis Gauntlets,mh4g-core-common-game-array+mh4g-dex-build7+mh4edit-mit-save-id,3,0
+250,Genesis Gauntlets,Genesis Gauntlets,mh4g-core-common-game-array+mh4g-dex-build7+mh4edit-mit-save-id,3,0
+251,Glyph Gauntlets,Glyph Gauntlets,mh4g-core-common-game-array+mh4g-dex-build7+mh4edit-mit-save-id,3,0
+252,Auroros Gauntlets,Auroros Gauntlets,mh4g-core-common-game-array+mh4g-dex-build7+mh4edit-mit-save-id,3,0
+253,Borealis Gauntlets,Borealis Gauntlets,mh4g-core-common-game-array+mh4g-dex-build7+mh4edit-mit-save-id,3,0
+254,Genesis Gauntlets,Genesis Gauntlets,mh4g-core-common-game-array+mh4g-dex-build7+mh4edit-mit-save-id,3,0
+255,Glyph Gauntlets,Glyph Gauntlets,mh4g-core-common-game-array+mh4g-dex-build7+mh4edit-mit-save-id,3,0
+256,Lava Vambraces,Lava Vambraces,mh4g-core-common-game-array+mh4g-dex-build7+mh4edit-mit-save-id,3,0
+257,Lava Guards,Lava Guards,mh4g-core-common-game-array+mh4g-dex-build7+mh4edit-mit-save-id,3,0
+258,Remobra Gloves,Remobra Gloves,mh4g-core-common-game-array+mh4g-dex-build7+mh4edit-mit-save-id,2,0
+259,Remobra Hands,Remobra Hands,mh4g-core-common-game-array+mh4g-dex-build7+mh4edit-mit-save-id,2,0
+260,Remobra Gloves S,Remobra Gloves S,mh4g-core-common-game-array+mh4g-dex-build7+mh4edit-mit-save-id,4,0
+261,Remobra Hands S,Remobra Hands S,mh4g-core-common-game-array+mh4g-dex-build7+mh4edit-mit-save-id,4,0
+262,Zamtrios Braces,Zamtrios Braces,mh4g-core-common-game-array+mh4g-dex-build7+mh4edit-mit-save-id,2,0
+263,Zamtrios Guards,Zamtrios Guards,mh4g-core-common-game-array+mh4g-dex-build7+mh4edit-mit-save-id,2,0
+264,Zamtrios Braces S,Zamtrios Braces S,mh4g-core-common-game-array+mh4g-dex-build7+mh4edit-mit-save-id,5,0
+265,Zamtrios Guards S,Zamtrios Guards S,mh4g-core-common-game-array+mh4g-dex-build7+mh4edit-mit-save-id,5,0
+266,Seltas Vambraces,Seltas Vambraces,mh4g-core-common-game-array+mh4g-dex-build7+mh4edit-mit-save-id,3,0
+267,Seltas Guards,Seltas Guards,mh4g-core-common-game-array+mh4g-dex-build7+mh4edit-mit-save-id,3,0
+268,Seltas Vambraces S,Seltas Vambraces S,mh4g-core-common-game-array+mh4g-dex-build7+mh4edit-mit-save-id,5,0
+269,Seltas Guards S,Seltas Guards S,mh4g-core-common-game-array+mh4g-dex-build7+mh4edit-mit-save-id,5,0
+270,Konchu Vambraces,Konchu Vambraces,mh4g-core-common-game-array+mh4g-dex-build7+mh4edit-mit-save-id,2,0
+271,Konchu Vambraces S,Konchu Vambraces S,mh4g-core-common-game-array+mh4g-dex-build7+mh4edit-mit-save-id,4,0
+272,Konchu Guards,Konchu Guards,mh4g-core-common-game-array+mh4g-dex-build7+mh4edit-mit-save-id,2,0
+273,Konchu Guards S,Konchu Guards S,mh4g-core-common-game-array+mh4g-dex-build7+mh4edit-mit-save-id,4,0
+274,Arc Vambraces,Arc Vambraces,mh4g-core-common-game-array+mh4g-dex-build7+mh4edit-mit-save-id,3,0
+275,Arc Guards,Arc Guards,mh4g-core-common-game-array+mh4g-dex-build7+mh4edit-mit-save-id,3,0
+276,Arc Vambraces S,Arc Vambraces S,mh4g-core-common-game-array+mh4g-dex-build7+mh4edit-mit-save-id,7,0
+277,Arc Guards S,Arc Guards S,mh4g-core-common-game-array+mh4g-dex-build7+mh4edit-mit-save-id,7,0
+278,Arc Vambraces,Arc Vambraces,mh4g-core-common-game-array+mh4g-dex-build7+mh4edit-mit-save-id,3,0
+279,Arc Guards,Arc Guards,mh4g-core-common-game-array+mh4g-dex-build7+mh4edit-mit-save-id,3,0
+280,Kaiser Vambraces,Kaiser Vambraces,mh4g-core-common-game-array+mh4g-dex-build7+mh4edit-mit-save-id,7,0
+281,Kaiser Guards,Kaiser Guards,mh4g-core-common-game-array+mh4g-dex-build7+mh4edit-mit-save-id,7,0
+282,Golden Kote,Golden Kote,mh4g-core-common-game-array+mh4g-dex-build7+mh4edit-mit-save-id,7,0
+283,Puppeteer Gloves,Puppeteer Gloves,mh4g-core-common-game-array+mh4g-dex-build7+mh4edit-mit-save-id,7,0
+284,Divine Ire Kote,Divine Ire Kote,mh4g-core-common-game-array+mh4g-dex-build7+mh4edit-mit-save-id,7,0
+285,Crusher Braces,Crusher Braces,mh4g-core-common-game-array+mh4g-dex-build7+mh4edit-mit-save-id,7,0
+286,Rebellion Vambraces,Rebellion Vambraces,mh4g-core-common-game-array+mh4g-dex-build7+mh4edit-mit-save-id,7,0
+287,Riot Guards,Riot Guards,mh4g-core-common-game-array+mh4g-dex-build7+mh4edit-mit-save-id,7,0
+288,Rebellion Vambraces,Rebellion Vambraces,mh4g-core-common-game-array+mh4g-dex-build7+mh4edit-mit-save-id,7,0
+289,Riot Guards,Riot Guards,mh4g-core-common-game-array+mh4g-dex-build7+mh4edit-mit-save-id,7,0
+290,Dragonclaws X,Dragonclaws X,mh4g-core-common-game-array+mh4g-dex-build7+mh4edit-mit-save-id,10,0
+291,Dragonfists X,Dragonfists X,mh4g-core-common-game-array+mh4g-dex-build7+mh4edit-mit-save-id,10,0
+292,Dragonclaws,Dragonclaws,mh4g-core-common-game-array+mh4g-dex-build7+mh4edit-mit-save-id,7,0
+293,Dragonfists,Dragonfists,mh4g-core-common-game-array+mh4g-dex-build7+mh4edit-mit-save-id,7,0
+294,Fatalis Crimsonclaws,Fatalis Crimsonclaws,mh4g-core-common-game-array+mh4g-dex-build7+mh4edit-mit-save-id,7,0
+295,Fatalis Crimsonfists,Fatalis Crimsonfists,mh4g-core-common-game-array+mh4g-dex-build7+mh4edit-mit-save-id,7,0
+296,Ioprey Claws,Ioprey Claws,mh4g-core-common-game-array+mh4g-dex-build7+mh4edit-mit-save-id,5,0
+297,Ioprey Gloves,Ioprey Gloves,mh4g-core-common-game-array+mh4g-dex-build7+mh4edit-mit-save-id,5,0
+298,Cephalos Vambraces,Cephalos Vambraces,mh4g-core-common-game-array+mh4g-dex-build7+mh4edit-mit-save-id,4,0
+299,Cephalos Guards,Cephalos Guards,mh4g-core-common-game-array+mh4g-dex-build7+mh4edit-mit-save-id,4,0
+300,Mizuha Sleeves,Mizuha Sleeves,mh4g-core-common-game-array+mh4g-dex-build7+mh4edit-mit-save-id,7,0
+301,Cham Sleeves,Cham Sleeves,mh4g-core-common-game-array+mh4g-dex-build7+mh4edit-mit-save-id,7,0
+302,Hermitaur Braces,Hermitaur Braces,mh4g-core-common-game-array+mh4g-dex-build7+mh4edit-mit-save-id,4,0
+303,Hermitaur Guards,Hermitaur Guards,mh4g-core-common-game-array+mh4g-dex-build7+mh4edit-mit-save-id,4,0
+304,Hermitaur Braces,Hermitaur Braces,mh4g-core-common-game-array+mh4g-dex-build7+mh4edit-mit-save-id,4,0
+305,Hermitaur Guards,Hermitaur Guards,mh4g-core-common-game-array+mh4g-dex-build7+mh4edit-mit-save-id,4,0
+306,Vespoid Vambraces,Vespoid Vambraces,mh4g-core-common-game-array+mh4g-dex-build7+mh4edit-mit-save-id,4,0
+307,Vespoid Guards,Vespoid Guards,mh4g-core-common-game-array+mh4g-dex-build7+mh4edit-mit-save-id,4,0
+308,Qurupeco Vambraces,Qurupeco Vambraces,mh4g-core-common-game-array+mh4g-dex-build7+mh4edit-mit-save-id,4,0
+309,Qurupeco Guards,Qurupeco Guards,mh4g-core-common-game-array+mh4g-dex-build7+mh4edit-mit-save-id,4,0
+310,Agnaktor Vambraces,Agnaktor Vambraces,mh4g-core-common-game-array+mh4g-dex-build7+mh4edit-mit-save-id,6,0
+311,Agnaktor Guards,Agnaktor Guards,mh4g-core-common-game-array+mh4g-dex-build7+mh4edit-mit-save-id,6,0
+312,Barioth Vambraces,Barioth Vambraces,mh4g-core-common-game-array+mh4g-dex-build7+mh4edit-mit-save-id,5,0
+313,Barioth Guards,Barioth Guards,mh4g-core-common-game-array+mh4g-dex-build7+mh4edit-mit-save-id,5,0
+314,Volvidon Vambraces,Volvidon Vambraces,mh4g-core-common-game-array+mh4g-dex-build7+mh4edit-mit-save-id,4,0
+315,Volvidon Guards,Volvidon Guards,mh4g-core-common-game-array+mh4g-dex-build7+mh4edit-mit-save-id,4,0
+316,Lagiacrus Braces,Lagiacrus Braces,mh4g-core-common-game-array+mh4g-dex-build7+mh4edit-mit-save-id,6,0
+317,Lagiacrus Guards,Lagiacrus Guards,mh4g-core-common-game-array+mh4g-dex-build7+mh4edit-mit-save-id,6,0
+318,Lagiacrus Braces,Lagiacrus Braces,mh4g-core-common-game-array+mh4g-dex-build7+mh4edit-mit-save-id,6,0
+319,Lagiacrus Guards,Lagiacrus Guards,mh4g-core-common-game-array+mh4g-dex-build7+mh4edit-mit-save-id,6,0
+320,Helios Vambraces,Helios Vambraces,mh4g-core-common-game-array+mh4g-dex-build7+mh4edit-mit-save-id,7,0
+321,Helios Guards,Helios Guards,mh4g-core-common-game-array+mh4g-dex-build7+mh4edit-mit-save-id,7,0
+322,Selene Vambraces,Selene Vambraces,mh4g-core-common-game-array+mh4g-dex-build7+mh4edit-mit-save-id,7,0
+323,Selene Guards,Selene Guards,mh4g-core-common-game-array+mh4g-dex-build7+mh4edit-mit-save-id,7,0
+324,Gobul Vambraces,Gobul Vambraces,mh4g-core-common-game-array+mh4g-dex-build7+mh4edit-mit-save-id,5,0
+325,Gobul Guards,Gobul Guards,mh4g-core-common-game-array+mh4g-dex-build7+mh4edit-mit-save-id,5,0
+326,Yamato Kote,Yamato Kote,mh4g-core-common-game-array+mh4g-dex-build7+mh4edit-mit-save-id,7,0
+327,Hyuga Kote,Hyuga Kote,mh4g-core-common-game-array+mh4g-dex-build7+mh4edit-mit-save-id,7,0
+328,Mutsu Kote,Mutsu Kote,mh4g-core-common-game-array+mh4g-dex-build7+mh4edit-mit-save-id,7,0
+329,Amagi Kote,Amagi Kote,mh4g-core-common-game-array+mh4g-dex-build7+mh4edit-mit-save-id,7,0
+330,Escadora Armguards,Escadora Armguards,mh4g-core-common-game-array+mh4g-dex-build7+mh4edit-mit-save-id,7,0
+331,Escadora Arma,Escadora Arma,mh4g-core-common-game-array+mh4g-dex-build7+mh4edit-mit-save-id,7,0
+332,Escadora Armguards,Escadora Armguards,mh4g-core-common-game-array+mh4g-dex-build7+mh4edit-mit-save-id,7,0
+333,Escadora Arma,Escadora Arma,mh4g-core-common-game-array+mh4g-dex-build7+mh4edit-mit-save-id,7,0
+334,Blango Vambraces,Blango Vambraces,mh4g-core-common-game-array+mh4g-dex-build7+mh4edit-mit-save-id,5,0
+335,Blango Guards,Blango Guards,mh4g-core-common-game-array+mh4g-dex-build7+mh4edit-mit-save-id,5,0
+336,Lobster Vambraces,Lobster Vambraces,mh4g-core-common-game-array+mh4g-dex-build7+mh4edit-mit-save-id,4,0
+337,Lobster Guards,Lobster Guards,mh4g-core-common-game-array+mh4g-dex-build7+mh4edit-mit-save-id,4,0
+338,Ukanlos Claws,Ukanlos Claws,mh4g-core-common-game-array+mh4g-dex-build7+mh4edit-mit-save-id,7,0
+339,Ukanlos Gauntlets,Ukanlos Gauntlets,mh4g-core-common-game-array+mh4g-dex-build7+mh4edit-mit-save-id,7,0
+340,Indra Gloves,Indra Gloves,mh4g-core-common-game-array+mh4g-dex-build7+mh4edit-mit-save-id,7,0
+341,Steadfast Guards,Steadfast Guards,mh4g-core-common-game-array+mh4g-dex-build7+mh4edit-mit-save-id,7,0
+342,Yaksha Braces,Yaksha Braces,mh4g-core-common-game-array+mh4g-dex-build7+mh4edit-mit-save-id,7,0
+343,Carnage Vambraces,Carnage Vambraces,mh4g-core-common-game-array+mh4g-dex-build7+mh4edit-mit-save-id,7,0
+344,Artian Vambraces,Artian Vambraces,mh4g-core-common-game-array+mh4g-dex-build7+mh4edit-mit-save-id,3,0
+345,Artian Guards,Artian Guards,mh4g-core-common-game-array+mh4g-dex-build7+mh4edit-mit-save-id,3,0
+346,Artian Vambraces S,Artian Vambraces S,mh4g-core-common-game-array+mh4g-dex-build7+mh4edit-mit-save-id,5,0
+347,Artian Guards S,Artian Guards S,mh4g-core-common-game-array+mh4g-dex-build7+mh4edit-mit-save-id,5,0
+348,Artian Vambraces S,Artian Vambraces S,mh4g-core-common-game-array+mh4g-dex-build7+mh4edit-mit-save-id,5,0
+349,Artian Guards S,Artian Guards S,mh4g-core-common-game-array+mh4g-dex-build7+mh4edit-mit-save-id,5,0
+350,Dober Vambraces,Dober Vambraces,mh4g-core-common-game-array+mh4g-dex-build7+mh4edit-mit-save-id,6,0
+351,Dober Guards,Dober Guards,mh4g-core-common-game-array+mh4g-dex-build7+mh4edit-mit-save-id,6,0
+352,Ingot Vambraces,Ingot Vambraces,mh4g-core-common-game-array+mh4g-dex-build7+mh4edit-mit-save-id,3,0
+353,Ingot Guards,Ingot Guards,mh4g-core-common-game-array+mh4g-dex-build7+mh4edit-mit-save-id,3,0
+354,Ingot Vambraces,Ingot Vambraces,mh4g-core-common-game-array+mh4g-dex-build7+mh4edit-mit-save-id,3,0
+355,Ingot Guards,Ingot Guards,mh4g-core-common-game-array+mh4g-dex-build7+mh4edit-mit-save-id,3,0
+356,Aelucanth Brachia,Aelucanth Brachia,mh4g-core-common-game-array+mh4g-dex-build7+mh4edit-mit-save-id,4,0
+357,Rhopessa Brachia,Rhopessa Brachia,mh4g-core-common-game-array+mh4g-dex-build7+mh4edit-mit-save-id,4,0
+358,Aelucanth Manus,Aelucanth Manus,mh4g-core-common-game-array+mh4g-dex-build7+mh4edit-mit-save-id,4,0
+359,Rhopessa Manus,Rhopessa Manus,mh4g-core-common-game-array+mh4g-dex-build7+mh4edit-mit-save-id,4,0
+360,Obituary Brachia,Obituary Brachia,mh4g-core-common-game-array+mh4g-dex-build7+mh4edit-mit-save-id,5,0
+361,Butterfly Brachia,Butterfly Brachia,mh4g-core-common-game-array+mh4g-dex-build7+mh4edit-mit-save-id,5,0
+362,Obituary Manus,Obituary Manus,mh4g-core-common-game-array+mh4g-dex-build7+mh4edit-mit-save-id,5,0
+363,Butterfly Manus,Butterfly Manus,mh4g-core-common-game-array+mh4g-dex-build7+mh4edit-mit-save-id,5,0
+364,Mosgharl Creeper,Mosgharl Creeper,mh4g-core-common-game-array+mh4g-dex-build7+mh4edit-mit-save-id,4,0
+365,Mosgharl Tendril,Mosgharl Tendril,mh4g-core-common-game-array+mh4g-dex-build7+mh4edit-mit-save-id,4,0
+366,Guild Bard Braces,Guild Bard Braces,mh4g-core-common-game-array+mh4g-dex-build7+mh4edit-mit-save-id,4,0
+367,Scholar's Gloves,Scholar's Gloves,mh4g-core-common-game-array+mh4g-dex-build7+mh4edit-mit-save-id,4,0
+368,Guild Bard Sleeves,Guild Bard Sleeves,mh4g-core-common-game-array+mh4g-dex-build7+mh4edit-mit-save-id,4,0
+369,Scholar's Sleeves,Scholar's Sleeves,mh4g-core-common-game-array+mh4g-dex-build7+mh4edit-mit-save-id,4,0
+370,Black Belt Vambraces,Black Belt Vambraces,mh4g-core-common-game-array+mh4g-dex-build7+mh4edit-mit-save-id,6,0
+371,Black Belt Guards,Black Belt Guards,mh4g-core-common-game-array+mh4g-dex-build7+mh4edit-mit-save-id,6,0
+372,Guardian Vambraces,Guardian Vambraces,mh4g-core-common-game-array+mh4g-dex-build7+mh4edit-mit-save-id,4,0
+373,Helper Gloves,Helper Gloves,mh4g-core-common-game-array+mh4g-dex-build7+mh4edit-mit-save-id,4,0
+374,Guardian Guards,Guardian Guards,mh4g-core-common-game-array+mh4g-dex-build7+mh4edit-mit-save-id,4,0
+375,Helper Sleeves,Helper Sleeves,mh4g-core-common-game-array+mh4g-dex-build7+mh4edit-mit-save-id,4,0
+376,Shinobi Sky Kote,Shinobi Sky Kote,mh4g-core-common-game-array+mh4g-dex-build7+mh4edit-mit-save-id,7,0
+377,Shinobi Land Kote,Shinobi Land Kote,mh4g-core-common-game-array+mh4g-dex-build7+mh4edit-mit-save-id,7,0
+378,Guild Knight Gloves,Guild Knight Gloves,mh4g-core-common-game-array+mh4g-dex-build7+mh4edit-mit-save-id,6,0
+379,Maiden's Gloves,Maiden's Gloves,mh4g-core-common-game-array+mh4g-dex-build7+mh4edit-mit-save-id,6,0
+380,Guild Knight Sleeves,Guild Knight Sleeves,mh4g-core-common-game-array+mh4g-dex-build7+mh4edit-mit-save-id,6,0
+381,Maiden's Sleeves,Maiden's Sleeves,mh4g-core-common-game-array+mh4g-dex-build7+mh4edit-mit-save-id,6,0
+382,Yukumo Sky Kote,Yukumo Sky Kote,mh4g-core-common-game-array+mh4g-dex-build7+mh4edit-mit-save-id,6,0
+383,Yukumo Land Kote,Yukumo Land Kote,mh4g-core-common-game-array+mh4g-dex-build7+mh4edit-mit-save-id,6,0
+384,High Metal Vambraces,High Metal Vambraces,mh4g-core-common-game-array+mh4g-dex-build7+mh4edit-mit-save-id,2,0
+385,High Metal Guards,High Metal Guards,mh4g-core-common-game-array+mh4g-dex-build7+mh4edit-mit-save-id,2,0
+386,Ranger's Gauntlets,Ranger's Gauntlets,mh4g-core-common-game-array+mh4g-dex-build7+mh4edit-mit-save-id,6,0
+387,Archer's Gauntlets,Archer's Gauntlets,mh4g-core-common-game-array+mh4g-dex-build7+mh4edit-mit-save-id,6,0
+388,Chakra Bracelet,Chakra Bracelet,mh4g-core-common-game-array+mh4g-dex-build7+mh4edit-mit-save-id,5,0
+389,Sailor Gloves,Sailor Gloves,mh4g-core-common-game-array+mh4g-dex-build7+mh4edit-mit-save-id,6,0
+390,Sailor Sleeves,Sailor Sleeves,mh4g-core-common-game-array+mh4g-dex-build7+mh4edit-mit-save-id,6,0
+391,Hawkbraces,Hawkbraces,mh4g-core-common-game-array+mh4g-dex-build7+mh4edit-mit-save-id,6,0
+392,Lecturer's Braces,Lecturer's Braces,mh4g-core-common-game-array+mh4g-dex-build7+mh4edit-mit-save-id,6,0
+393,Hawkguards,Hawkguards,mh4g-core-common-game-array+mh4g-dex-build7+mh4edit-mit-save-id,6,0
+394,Lecturer's Guards,Lecturer's Guards,mh4g-core-common-game-array+mh4g-dex-build7+mh4edit-mit-save-id,6,0
+395,Caravaneer's Armlets,Caravaneer's Armlets,mh4g-core-common-game-array+mh4g-dex-build7+mh4edit-mit-save-id,6,0
+396,Blue Star Braces,Blue Star Braces,mh4g-core-common-game-array+mh4g-dex-build7+mh4edit-mit-save-id,7,0
+397,Blue Star Sleeves,Blue Star Sleeves,mh4g-core-common-game-array+mh4g-dex-build7+mh4edit-mit-save-id,7,0
+398,Braces of Anat,Braces of Anat,mh4g-core-common-game-array+mh4g-dex-build7+mh4edit-mit-save-id,10,0
+399,Guards of Anat,Guards of Anat,mh4g-core-common-game-array+mh4g-dex-build7+mh4edit-mit-save-id,10,0
+400,Uniqlo Watch,Uniqlo Watch,mh4g-core-common-game-array+mh4g-dex-build7+mh4edit-mit-save-id,7,0
+401,Uniqlo Timepiece,Uniqlo Timepiece,mh4g-core-common-game-array+mh4g-dex-build7+mh4edit-mit-save-id,7,0
+402,Star Rook Vambraces,Star Rook Vambraces,mh4g-core-common-game-array+mh4g-dex-build7+mh4edit-mit-save-id,7,0
+403,Star Rook Guards,Star Rook Guards,mh4g-core-common-game-array+mh4g-dex-build7+mh4edit-mit-save-id,7,0
+404,dummy706,dummy706,mh4g-core-common-game-array+mh4edit-mit-save-id,0,0
+405,dummy718,dummy718,mh4g-core-common-game-array+mh4edit-mit-save-id,0,0
+406,dummy707,dummy707,mh4g-core-common-game-array+mh4edit-mit-save-id,0,0
+407,dummy719,dummy719,mh4g-core-common-game-array+mh4edit-mit-save-id,0,0
+408,DUMMY,DUMMY,mh4g-core-common-game-array+mh4edit-mit-save-id,0,0
+409,DUMMY,DUMMY,mh4g-core-common-game-array+mh4edit-mit-save-id,0,0
+410,Hero's Braces,Hero's Braces,mh4g-core-common-game-array+mh4g-dex-build7+mh4edit-mit-save-id,7,0
+411,Hero's Gloves,Hero's Gloves,mh4g-core-common-game-array+mh4g-dex-build7+mh4edit-mit-save-id,7,0
+412,EX Rebellion Braces,EX Rebellion Braces,mh4g-core-common-game-array+mh4g-dex-build7+mh4edit-mit-save-id,7,0
+413,EX Riot Guards,EX Riot Guards,mh4g-core-common-game-array+mh4g-dex-build7+mh4edit-mit-save-id,7,0
+414,EX Artian Vambraces,EX Artian Vambraces,mh4g-core-common-game-array+mh4g-dex-build7+mh4edit-mit-save-id,7,0
+415,EX Artian Guards,EX Artian Guards,mh4g-core-common-game-array+mh4g-dex-build7+mh4edit-mit-save-id,7,0
+416,EX Gore Braces,EX Gore Braces,mh4g-core-common-game-array+mh4g-dex-build7+mh4edit-mit-save-id,7,0
+417,EX Gore Guards,EX Gore Guards,mh4g-core-common-game-array+mh4g-dex-build7+mh4edit-mit-save-id,7,0
+418,EX Ingot Vambraces,EX Ingot Vambraces,mh4g-core-common-game-array+mh4g-dex-build7+mh4edit-mit-save-id,7,0
+419,EX Ingot Guards,EX Ingot Guards,mh4g-core-common-game-array+mh4g-dex-build7+mh4edit-mit-save-id,7,0
+420,EX Kirin Longarms U,EX Kirin Longarms U,mh4g-core-common-game-array+mh4g-dex-build7+mh4edit-mit-save-id,7,0
+421,EX Kirin Gloves U,EX Kirin Gloves U,mh4g-core-common-game-array+mh4g-dex-build7+mh4edit-mit-save-id,7,0
+422,Storge Vambraces,Storge Vambraces,mh4g-core-common-game-array+mh4g-dex-build7+mh4edit-mit-save-id,3,0
+423,Storge Guards,Storge Guards,mh4g-core-common-game-array+mh4g-dex-build7+mh4edit-mit-save-id,3,0
+424,Storge Vambraces S,Storge Vambraces S,mh4g-core-common-game-array+mh4g-dex-build7+mh4edit-mit-save-id,7,0
+425,Storge Guards S,Storge Guards S,mh4g-core-common-game-array+mh4g-dex-build7+mh4edit-mit-save-id,7,0
+426,Storge Vambraces,Storge Vambraces,mh4g-core-common-game-array+mh4g-dex-build7+mh4edit-mit-save-id,3,0
+427,Storge Guards,Storge Guards,mh4g-core-common-game-array+mh4g-dex-build7+mh4edit-mit-save-id,3,0
+428,Hunter's Vambraces,Hunter's Vambraces,mh4g-core-common-game-array+mh4g-dex-build7+mh4edit-mit-save-id,1,0
+429,Hunter's Guards,Hunter's Guards,mh4g-core-common-game-array+mh4g-dex-build7+mh4edit-mit-save-id,1,0
+430,Alloy Vambraces,Alloy Vambraces,mh4g-core-common-game-array+mh4g-dex-build7+mh4edit-mit-save-id,1,0
+431,Alloy Guards,Alloy Guards,mh4g-core-common-game-array+mh4g-dex-build7+mh4edit-mit-save-id,1,0
+432,Ludroth Vambraces,Ludroth Vambraces,mh4g-core-common-game-array+mh4g-dex-build7+mh4edit-mit-save-id,2,0
+433,Ludroth Guards,Ludroth Guards,mh4g-core-common-game-array+mh4g-dex-build7+mh4edit-mit-save-id,2,0
+434,Rathian Vambraces,Rathian Vambraces,mh4g-core-common-game-array+mh4g-dex-build7+mh4edit-mit-save-id,2,0
+435,Rathian Guards,Rathian Guards,mh4g-core-common-game-array+mh4g-dex-build7+mh4edit-mit-save-id,2,0
+436,Rath Heart Braces,Rath Heart Braces,mh4g-core-common-game-array+mh4g-dex-build7+mh4edit-mit-save-id,6,0
+437,Rath Heart Guards,Rath Heart Guards,mh4g-core-common-game-array+mh4g-dex-build7+mh4edit-mit-save-id,6,0
+438,Rathalos Vambraces,Rathalos Vambraces,mh4g-core-common-game-array+mh4g-dex-build7+mh4edit-mit-save-id,3,0
+439,Rathalos Guards,Rathalos Guards,mh4g-core-common-game-array+mh4g-dex-build7+mh4edit-mit-save-id,3,0
+440,Rath Soul Braces,Rath Soul Braces,mh4g-core-common-game-array+mh4g-dex-build7+mh4edit-mit-save-id,6,0
+441,Rath Soul Guards,Rath Soul Guards,mh4g-core-common-game-array+mh4g-dex-build7+mh4edit-mit-save-id,6,0
+442,Silver Solbraces,Silver Solbraces,mh4g-core-common-game-array+mh4g-dex-build7+mh4edit-mit-save-id,7,0
+443,Silver Solguards,Silver Solguards,mh4g-core-common-game-array+mh4g-dex-build7+mh4edit-mit-save-id,7,0
+444,Esurient Vambraces,Esurient Vambraces,mh4g-core-common-game-array+mh4g-dex-build7+mh4edit-mit-save-id,7,0
+445,Esurient Guards,Esurient Guards,mh4g-core-common-game-array+mh4g-dex-build7+mh4edit-mit-save-id,7,0
+446,Gloaming Braces,Gloaming Braces,mh4g-core-common-game-array+mh4g-dex-build7+mh4edit-mit-save-id,3,0
+447,Adamance Braces,Adamance Braces,mh4g-core-common-game-array+mh4g-dex-build7+mh4edit-mit-save-id,3,0
+448,Dayspring Braces,Dayspring Braces,mh4g-core-common-game-array+mh4g-dex-build7+mh4edit-mit-save-id,3,0
+449,Epoch Braces,Epoch Braces,mh4g-core-common-game-array+mh4g-dex-build7+mh4edit-mit-save-id,3,0
+450,Tigrex Vambraces,Tigrex Vambraces,mh4g-core-common-game-array+mh4g-dex-build7+mh4edit-mit-save-id,3,0
+451,Tigrex Guards,Tigrex Guards,mh4g-core-common-game-array+mh4g-dex-build7+mh4edit-mit-save-id,3,0
+452,Tigrex Vambraces U,Tigrex Vambraces U,mh4g-core-common-game-array+mh4g-dex-build7+mh4edit-mit-save-id,6,0
+453,Tigrex Guards U,Tigrex Guards U,mh4g-core-common-game-array+mh4g-dex-build7+mh4edit-mit-save-id,6,0
+454,Akantor Claws,Akantor Claws,mh4g-core-common-game-array+mh4g-dex-build7+mh4edit-mit-save-id,7,0
+455,Akantor Gauntlets,Akantor Gauntlets,mh4g-core-common-game-array+mh4g-dex-build7+mh4edit-mit-save-id,7,0
+456,Zinogre Vambraces U,Zinogre Vambraces U,mh4g-core-common-game-array+mh4g-dex-build7+mh4edit-mit-save-id,6,0
+457,Zinogre Guards U,Zinogre Guards U,mh4g-core-common-game-array+mh4g-dex-build7+mh4edit-mit-save-id,6,0
+458,Gore Braces,Gore Braces,mh4g-core-common-game-array+mh4g-dex-build7+mh4edit-mit-save-id,3,0
+459,Gore Guards,Gore Guards,mh4g-core-common-game-array+mh4g-dex-build7+mh4edit-mit-save-id,3,0
+460,Gypceros Vambraces,Gypceros Vambraces,mh4g-core-common-game-array+mh4g-dex-build7+mh4edit-mit-save-id,2,0
+461,Gypceros Guards,Gypceros Guards,mh4g-core-common-game-array+mh4g-dex-build7+mh4edit-mit-save-id,2,0
+462,Gypceros Vambraces U,Gypceros Vambraces U,mh4g-core-common-game-array+mh4g-dex-build7+mh4edit-mit-save-id,6,0
+463,Gypceros Guards U,Gypceros Guards U,mh4g-core-common-game-array+mh4g-dex-build7+mh4edit-mit-save-id,6,0
+464,Khezu Vambraces,Khezu Vambraces,mh4g-core-common-game-array+mh4g-dex-build7+mh4edit-mit-save-id,2,0
+465,Khezu Guards,Khezu Guards,mh4g-core-common-game-array+mh4g-dex-build7+mh4edit-mit-save-id,2,0
+466,Khezu Vambraces U,Khezu Vambraces U,mh4g-core-common-game-array+mh4g-dex-build7+mh4edit-mit-save-id,6,0
+467,Khezu Guards U,Khezu Guards U,mh4g-core-common-game-array+mh4g-dex-build7+mh4edit-mit-save-id,6,0
+468,Kirin Longarms,Kirin Longarms,mh4g-core-common-game-array+mh4g-dex-build7+mh4edit-mit-save-id,3,0
+469,Kirin Gloves,Kirin Gloves,mh4g-core-common-game-array+mh4g-dex-build7+mh4edit-mit-save-id,3,0
+470,Kirin Longarms U,Kirin Longarms U,mh4g-core-common-game-array+mh4g-dex-build7+mh4edit-mit-save-id,7,0
+471,Kirin Gloves U,Kirin Gloves U,mh4g-core-common-game-array+mh4g-dex-build7+mh4edit-mit-save-id,7,0
+472,Kushala Grip,Kushala Grip,mh4g-core-common-game-array+mh4g-dex-build7+mh4edit-mit-save-id,7,0
+473,Kushala Embrace,Kushala Embrace,mh4g-core-common-game-array+mh4g-dex-build7+mh4edit-mit-save-id,7,0
+474,Ceanataur Braces,Ceanataur Braces,mh4g-core-common-game-array+mh4g-dex-build7+mh4edit-mit-save-id,2,0
+475,Ceanataur Guards,Ceanataur Guards,mh4g-core-common-game-array+mh4g-dex-build7+mh4edit-mit-save-id,2,0
+476,Auroros Gauntlets,Auroros Gauntlets,mh4g-core-common-game-array+mh4g-dex-build7+mh4edit-mit-save-id,3,0
+477,Borealis Gauntlets,Borealis Gauntlets,mh4g-core-common-game-array+mh4g-dex-build7+mh4edit-mit-save-id,3,0
+478,Genesis Gauntlets,Genesis Gauntlets,mh4g-core-common-game-array+mh4g-dex-build7+mh4edit-mit-save-id,3,0
+479,Glyph Gauntlets,Glyph Gauntlets,mh4g-core-common-game-array+mh4g-dex-build7+mh4edit-mit-save-id,3,0
+480,Arc Vambraces,Arc Vambraces,mh4g-core-common-game-array+mh4g-dex-build7+mh4edit-mit-save-id,3,0
+481,Arc Guards,Arc Guards,mh4g-core-common-game-array+mh4g-dex-build7+mh4edit-mit-save-id,3,0
+482,Rebellion Vambraces,Rebellion Vambraces,mh4g-core-common-game-array+mh4g-dex-build7+mh4edit-mit-save-id,7,0
+483,Riot Guards,Riot Guards,mh4g-core-common-game-array+mh4g-dex-build7+mh4edit-mit-save-id,7,0
+484,Dragonclaws X,Dragonclaws X,mh4g-core-common-game-array+mh4g-dex-build7+mh4edit-mit-save-id,10,0
+485,Dragonfists X,Dragonfists X,mh4g-core-common-game-array+mh4g-dex-build7+mh4edit-mit-save-id,10,0
+486,Hermitaur Braces,Hermitaur Braces,mh4g-core-common-game-array+mh4g-dex-build7+mh4edit-mit-save-id,4,0
+487,Hermitaur Guards,Hermitaur Guards,mh4g-core-common-game-array+mh4g-dex-build7+mh4edit-mit-save-id,4,0
+488,Lagiacrus Braces,Lagiacrus Braces,mh4g-core-common-game-array+mh4g-dex-build7+mh4edit-mit-save-id,6,0
+489,Lagiacrus Guards,Lagiacrus Guards,mh4g-core-common-game-array+mh4g-dex-build7+mh4edit-mit-save-id,6,0
+490,Escadora Armguards,Escadora Armguards,mh4g-core-common-game-array+mh4g-dex-build7+mh4edit-mit-save-id,7,0
+491,Escadora Arma,Escadora Arma,mh4g-core-common-game-array+mh4g-dex-build7+mh4edit-mit-save-id,7,0
+492,Artian Vambraces S,Artian Vambraces S,mh4g-core-common-game-array+mh4g-dex-build7+mh4edit-mit-save-id,5,0
+493,Artian Guards S,Artian Guards S,mh4g-core-common-game-array+mh4g-dex-build7+mh4edit-mit-save-id,5,0
+494,Ingot Vambraces,Ingot Vambraces,mh4g-core-common-game-array+mh4g-dex-build7+mh4edit-mit-save-id,3,0
+495,Ingot Guards,Ingot Guards,mh4g-core-common-game-array+mh4g-dex-build7+mh4edit-mit-save-id,3,0
+496,Storge Vambraces,Storge Vambraces,mh4g-core-common-game-array+mh4g-dex-build7+mh4edit-mit-save-id,3,0
+497,Storge Guards,Storge Guards,mh4g-core-common-game-array+mh4g-dex-build7+mh4edit-mit-save-id,3,0
+498,Velociprey Braces X,Velociprey Braces X,mh4g-core-common-game-array+mh4g-dex-build7+mh4edit-mit-save-id,8,0
+499,Velociprey Guards X,Velociprey Guards X,mh4g-core-common-game-array+mh4g-dex-build7+mh4edit-mit-save-id,8,0
+500,Ioprey Vambraces X,Ioprey Vambraces X,mh4g-core-common-game-array+mh4g-dex-build7+mh4edit-mit-save-id,8,0
+501,Ioprey Guards X,Ioprey Guards X,mh4g-core-common-game-array+mh4g-dex-build7+mh4edit-mit-save-id,8,0
+502,Kecha Braces X,Kecha Braces X,mh4g-core-common-game-array+mh4g-dex-build7+mh4edit-mit-save-id,8,0
+503,Kecha Guards X,Kecha Guards X,mh4g-core-common-game-array+mh4g-dex-build7+mh4edit-mit-save-id,8,0
+504,Kecha Braces Z,Kecha Braces Z,mh4g-core-common-game-array+mh4g-dex-build7+mh4edit-mit-save-id,8,0
+505,Kecha Guards Z,Kecha Guards Z,mh4g-core-common-game-array+mh4g-dex-build7+mh4edit-mit-save-id,8,0
+506,Tetsucabra Braces X,Tetsucabra Braces X,mh4g-core-common-game-array+mh4g-dex-build7+mh4edit-mit-save-id,8,0
+507,Tetsucabra Guards X,Tetsucabra Guards X,mh4g-core-common-game-array+mh4g-dex-build7+mh4edit-mit-save-id,8,0
+508,Tetsucabra Braces Z,Tetsucabra Braces Z,mh4g-core-common-game-array+mh4g-dex-build7+mh4edit-mit-save-id,8,0
+509,Tetsucabra Guards Z,Tetsucabra Guards Z,mh4g-core-common-game-array+mh4g-dex-build7+mh4edit-mit-save-id,8,0
+510,Nerscylla Braces X,Nerscylla Braces X,mh4g-core-common-game-array+mh4g-dex-build7+mh4edit-mit-save-id,8,0
+511,Nerscylla Guards X,Nerscylla Guards X,mh4g-core-common-game-array+mh4g-dex-build7+mh4edit-mit-save-id,8,0
+512,Nerscylla Braces Z,Nerscylla Braces Z,mh4g-core-common-game-array+mh4g-dex-build7+mh4edit-mit-save-id,9,0
+513,Nerscylla Guards Z,Nerscylla Guards Z,mh4g-core-common-game-array+mh4g-dex-build7+mh4edit-mit-save-id,9,0
+514,Zamtrios Braces X,Zamtrios Braces X,mh4g-core-common-game-array+mh4g-dex-build7+mh4edit-mit-save-id,8,0
+515,Zamtrios Guards X,Zamtrios Guards X,mh4g-core-common-game-array+mh4g-dex-build7+mh4edit-mit-save-id,8,0
+516,Zamtrios Braces Z,Zamtrios Braces Z,mh4g-core-common-game-array+mh4g-dex-build7+mh4edit-mit-save-id,8,0
+517,Zamtrios Guards Z,Zamtrios Guards Z,mh4g-core-common-game-array+mh4g-dex-build7+mh4edit-mit-save-id,8,0
+518,Najarala Braces X,Najarala Braces X,mh4g-core-common-game-array+mh4g-dex-build7+mh4edit-mit-save-id,8,0
+519,Najarala Guards X,Najarala Guards X,mh4g-core-common-game-array+mh4g-dex-build7+mh4edit-mit-save-id,8,0
+520,Najarala Braces Z,Najarala Braces Z,mh4g-core-common-game-array+mh4g-dex-build7+mh4edit-mit-save-id,8,0
+521,Najarala Guards Z,Najarala Guards Z,mh4g-core-common-game-array+mh4g-dex-build7+mh4edit-mit-save-id,8,0
+522,Seltas Vambraces X,Seltas Vambraces X,mh4g-core-common-game-array+mh4g-dex-build7+mh4edit-mit-save-id,9,0
+523,Seltas Guards X,Seltas Guards X,mh4g-core-common-game-array+mh4g-dex-build7+mh4edit-mit-save-id,9,0
+524,Seltas Vambraces Z,Seltas Vambraces Z,mh4g-core-common-game-array+mh4g-dex-build7+mh4edit-mit-save-id,9,0
+525,Seltas Guards Z,Seltas Guards Z,mh4g-core-common-game-array+mh4g-dex-build7+mh4edit-mit-save-id,9,0
+526,Gore Braces X,Gore Braces X,mh4g-core-common-game-array+mh4g-dex-build7+mh4edit-mit-save-id,9,0
+527,Gore Guards X,Gore Guards X,mh4g-core-common-game-array+mh4g-dex-build7+mh4edit-mit-save-id,9,0
+528,Gore Arms,Gore Arms,mh4g-core-common-game-array+mh4g-armor-name-crosswalk+mh4edit-mit-save-id,0,1
+529,Gore Bands,Gore Bands,mh4g-core-common-game-array+mh4g-armor-name-crosswalk+mh4edit-mit-save-id,0,1
+530,Arc Vambraces X,Arc Vambraces X,mh4g-core-common-game-array+mh4g-dex-build7+mh4edit-mit-save-id,10,0
+531,Storge Vambraces X,Storge Vambraces X,mh4g-core-common-game-array+mh4g-dex-build7+mh4edit-mit-save-id,10,0
+532,Arc Guards X,Arc Guards X,mh4g-core-common-game-array+mh4g-dex-build7+mh4edit-mit-save-id,10,0
+533,Storge Guards X,Storge Guards X,mh4g-core-common-game-array+mh4g-dex-build7+mh4edit-mit-save-id,10,0
+534,Arc Arms,Arc Arms,mh4g-core-common-game-array+mh4g-armor-name-crosswalk+mh4edit-mit-save-id,0,1
+535,Storge Arms,Storge Arms,mh4g-core-common-game-array+mh4g-armor-name-crosswalk+mh4edit-mit-save-id,0,1
+536,Arc Bands,Arc Bands,mh4g-core-common-game-array+mh4g-armor-name-crosswalk+mh4edit-mit-save-id,0,1
+537,Storge Bands,Storge Bands,mh4g-core-common-game-array+mh4g-armor-name-crosswalk+mh4edit-mit-save-id,0,1
+538,Gogma Braces,Gogma Braces,mh4g-core-common-game-array+mh4g-dex-build7+mh4edit-mit-save-id,10,0
+539,Gogma Guards,Gogma Guards,mh4g-core-common-game-array+mh4g-dex-build7+mh4edit-mit-save-id,10,0
+540,Gypceros Vambraces X,Gypceros Vambraces X,mh4g-core-common-game-array+mh4g-dex-build7+mh4edit-mit-save-id,8,0
+541,Gypceros Guards X,Gypceros Guards X,mh4g-core-common-game-array+mh4g-dex-build7+mh4edit-mit-save-id,8,0
+542,Gypceros Arms,Gypceros Arms,mh4g-core-common-game-array+mh4g-armor-name-crosswalk+mh4edit-mit-save-id,0,1
+543,Gypceros Bands,Gypceros Bands,mh4g-core-common-game-array+mh4g-armor-name-crosswalk+mh4edit-mit-save-id,0,1
+544,Gypceros Vambraces Z,Gypceros Vambraces Z,mh4g-core-common-game-array+mh4g-dex-build7+mh4edit-mit-save-id,8,0
+545,Gypceros Guards Z,Gypceros Guards Z,mh4g-core-common-game-array+mh4g-dex-build7+mh4edit-mit-save-id,8,0
+546,Gypceros Arms U,Gypceros Arms U,mh4g-core-common-game-array+mh4g-armor-name-crosswalk+mh4edit-mit-save-id,0,1
+547,Gypceros Bands U,Gypceros Bands U,mh4g-core-common-game-array+mh4g-armor-name-crosswalk+mh4edit-mit-save-id,0,1
+548,Lagombi Vambraces X,Lagombi Vambraces X,mh4g-core-common-game-array+mh4g-dex-build7+mh4edit-mit-save-id,8,0
+549,Lagombi Guards X,Lagombi Guards X,mh4g-core-common-game-array+mh4g-dex-build7+mh4edit-mit-save-id,8,0
+550,Conga Vambraces X,Conga Vambraces X,mh4g-core-common-game-array+mh4g-dex-build7+mh4edit-mit-save-id,8,0
+551,Conga Guards X,Conga Guards X,mh4g-core-common-game-array+mh4g-dex-build7+mh4edit-mit-save-id,8,0
+552,Conga Vambraces Z,Conga Vambraces Z,mh4g-core-common-game-array+mh4g-dex-build7+mh4edit-mit-save-id,8,0
+553,Conga Guards Z,Conga Guards Z,mh4g-core-common-game-array+mh4g-dex-build7+mh4edit-mit-save-id,8,0
+554,Khezu Vambraces X,Khezu Vambraces X,mh4g-core-common-game-array+mh4g-dex-build7+mh4edit-mit-save-id,8,0
+555,Khezu Guards X,Khezu Guards X,mh4g-core-common-game-array+mh4g-dex-build7+mh4edit-mit-save-id,8,0
+556,Khezu Arms,Khezu Arms,mh4g-core-common-game-array+mh4g-armor-name-crosswalk+mh4edit-mit-save-id,0,1
+557,Khezu Bands,Khezu Bands,mh4g-core-common-game-array+mh4g-armor-name-crosswalk+mh4edit-mit-save-id,0,1
+558,Khezu Vambraces Z,Khezu Vambraces Z,mh4g-core-common-game-array+mh4g-dex-build7+mh4edit-mit-save-id,8,0
+559,Khezu Guards Z,Khezu Guards Z,mh4g-core-common-game-array+mh4g-dex-build7+mh4edit-mit-save-id,8,0
+560,Khezu Arms U,Khezu Arms U,mh4g-core-common-game-array+mh4g-armor-name-crosswalk+mh4edit-mit-save-id,0,1
+561,Khezu Bands U,Khezu Bands U,mh4g-core-common-game-array+mh4g-armor-name-crosswalk+mh4edit-mit-save-id,0,1
+562,Rathian Vambraces X,Rathian Vambraces X,mh4g-core-common-game-array+mh4g-dex-build7+mh4edit-mit-save-id,8,0
+563,Rathian Guards X,Rathian Guards X,mh4g-core-common-game-array+mh4g-dex-build7+mh4edit-mit-save-id,8,0
+564,Rathian Arms,Rathian Arms,mh4g-core-common-game-array+mh4g-armor-name-crosswalk+mh4edit-mit-save-id,0,1
+565,Rathian Bands,Rathian Bands,mh4g-core-common-game-array+mh4g-armor-name-crosswalk+mh4edit-mit-save-id,0,1
+566,Rath Heart Braces Z,Rath Heart Braces Z,mh4g-core-common-game-array+mh4g-dex-build7+mh4edit-mit-save-id,8,0
+567,Rath Heart Guards Z,Rath Heart Guards Z,mh4g-core-common-game-array+mh4g-dex-build7+mh4edit-mit-save-id,8,0
+568,Rath Heart Arms,Rath Heart Arms,mh4g-core-common-game-array+mh4g-armor-name-crosswalk+mh4edit-mit-save-id,0,1
+569,Rath Heart Bands,Rath Heart Bands,mh4g-core-common-game-array+mh4g-armor-name-crosswalk+mh4edit-mit-save-id,0,1
+570,Golden Lunebraces Z,Golden Lunebraces Z,mh4g-core-common-game-array+mh4g-dex-build7+mh4edit-mit-save-id,10,0
+571,Golden Luneguards Z,Golden Luneguards Z,mh4g-core-common-game-array+mh4g-dex-build7+mh4edit-mit-save-id,10,0
+572,Rathalos Vambraces X,Rathalos Vambraces X,mh4g-core-common-game-array+mh4g-dex-build7+mh4edit-mit-save-id,9,0
+573,Rathalos Guards X,Rathalos Guards X,mh4g-core-common-game-array+mh4g-dex-build7+mh4edit-mit-save-id,9,0
+574,Rathalos Arms,Rathalos Arms,mh4g-core-common-game-array+mh4g-armor-name-crosswalk+mh4edit-mit-save-id,0,1
+575,Rathalos Bands,Rathalos Bands,mh4g-core-common-game-array+mh4g-armor-name-crosswalk+mh4edit-mit-save-id,0,1
+576,Rath Soul Braces Z,Rath Soul Braces Z,mh4g-core-common-game-array+mh4g-dex-build7+mh4edit-mit-save-id,9,0
+577,Rath Soul Guards Z,Rath Soul Guards Z,mh4g-core-common-game-array+mh4g-dex-build7+mh4edit-mit-save-id,9,0
+578,Rath Soul Arms,Rath Soul Arms,mh4g-core-common-game-array+mh4g-armor-name-crosswalk+mh4edit-mit-save-id,0,1
+579,Rath Soul Bands,Rath Soul Bands,mh4g-core-common-game-array+mh4g-armor-name-crosswalk+mh4edit-mit-save-id,0,1
+580,Silver Solbraces Z,Silver Solbraces Z,mh4g-core-common-game-array+mh4g-dex-build7+mh4edit-mit-save-id,10,0
+581,Silver Solguards Z,Silver Solguards Z,mh4g-core-common-game-array+mh4g-dex-build7+mh4edit-mit-save-id,10,0
+582,Silver Solarms,Silver Solarms,mh4g-core-common-game-array+mh4g-armor-name-crosswalk+mh4edit-mit-save-id,0,1
+583,Silver Solbands,Silver Solbands,mh4g-core-common-game-array+mh4g-armor-name-crosswalk+mh4edit-mit-save-id,0,1
+584,Zinogre Vambraces X,Zinogre Vambraces X,mh4g-core-common-game-array+mh4g-dex-build7+mh4edit-mit-save-id,9,0
+585,Zinogre Guards X,Zinogre Guards X,mh4g-core-common-game-array+mh4g-dex-build7+mh4edit-mit-save-id,9,0
+586,Zinogre Vambraces Z,Zinogre Vambraces Z,mh4g-core-common-game-array+mh4g-dex-build7+mh4edit-mit-save-id,9,0
+587,Zinogre Guards Z,Zinogre Guards Z,mh4g-core-common-game-array+mh4g-dex-build7+mh4edit-mit-save-id,9,0
+588,Zinogre Arms U,Zinogre Arms U,mh4g-core-common-game-array+mh4g-armor-name-crosswalk+mh4edit-mit-save-id,0,1
+589,Zinogre Bands U,Zinogre Bands U,mh4g-core-common-game-array+mh4g-armor-name-crosswalk+mh4edit-mit-save-id,0,1
+590,Tigrex Vambraces X,Tigrex Vambraces X,mh4g-core-common-game-array+mh4g-dex-build7+mh4edit-mit-save-id,9,0
+591,Tigrex Guards X,Tigrex Guards X,mh4g-core-common-game-array+mh4g-dex-build7+mh4edit-mit-save-id,9,0
+592,Tigrex Arms,Tigrex Arms,mh4g-core-common-game-array+mh4g-armor-name-crosswalk+mh4edit-mit-save-id,0,1
+593,Tigrex Bands,Tigrex Bands,mh4g-core-common-game-array+mh4g-armor-name-crosswalk+mh4edit-mit-save-id,0,1
+594,Tigrex Vambraces Z,Tigrex Vambraces Z,mh4g-core-common-game-array+mh4g-dex-build7+mh4edit-mit-save-id,9,0
+595,Tigrex Guards Z,Tigrex Guards Z,mh4g-core-common-game-array+mh4g-dex-build7+mh4edit-mit-save-id,9,0
+596,Tigrex Arms U,Tigrex Arms U,mh4g-core-common-game-array+mh4g-armor-name-crosswalk+mh4edit-mit-save-id,0,1
+597,Tigrex Bands U,Tigrex Bands U,mh4g-core-common-game-array+mh4g-armor-name-crosswalk+mh4edit-mit-save-id,0,1
+598,Excello Vambraces Z,Excello Vambraces Z,mh4g-core-common-game-array+mh4g-dex-build7+mh4edit-mit-save-id,10,0
+599,Excello Guards Z,Excello Guards Z,mh4g-core-common-game-array+mh4g-dex-build7+mh4edit-mit-save-id,10,0
+600,Gravios Vambraces X,Gravios Vambraces X,mh4g-core-common-game-array+mh4g-dex-build7+mh4edit-mit-save-id,9,0
+601,Gravios Guards X,Gravios Guards X,mh4g-core-common-game-array+mh4g-dex-build7+mh4edit-mit-save-id,9,0
+602,Gravios Vambraces Z,Gravios Vambraces Z,mh4g-core-common-game-array+mh4g-dex-build7+mh4edit-mit-save-id,9,0
+603,Gravios Guards Z,Gravios Guards Z,mh4g-core-common-game-array+mh4g-dex-build7+mh4edit-mit-save-id,9,0
+604,Brachydios Braces X,Brachydios Braces X,mh4g-core-common-game-array+mh4g-dex-build7+mh4edit-mit-save-id,9,0
+605,Brachydios Guards X,Brachydios Guards X,mh4g-core-common-game-array+mh4g-dex-build7+mh4edit-mit-save-id,9,0
+606,Brachydium Vambraces,Brachydium Vambraces,mh4g-core-common-game-array+mh4g-dex-build7+mh4edit-mit-save-id,10,0
+607,Brachydium Guards,Brachydium Guards,mh4g-core-common-game-array+mh4g-dex-build7+mh4edit-mit-save-id,10,0
+608,Grand Gloaming Braces,Grand Gloaming Braces,mh4g-core-common-game-array+mh4g-dex-build7+mh4edit-mit-save-id,10,0
+609,Grand Adamance Braces,Grand Adamance Braces,mh4g-core-common-game-array+mh4g-dex-build7+mh4edit-mit-save-id,10,0
+610,Grand Dayspring Braces,Grand Dayspring Braces,mh4g-core-common-game-array+mh4g-dex-build7+mh4edit-mit-save-id,10,0
+611,Grand Epoch Sleeves,Grand Epoch Sleeves,mh4g-core-common-game-array+mh4g-dex-build7+mh4edit-mit-save-id,10,0
+612,Gloaming Redbraces,Gloaming Redbraces,mh4g-core-common-game-array+mh4g-armor-name-crosswalk+mh4edit-mit-save-id,0,1
+613,Adamance Redbraces,Adamance Redbraces,mh4g-core-common-game-array+mh4g-armor-name-crosswalk+mh4edit-mit-save-id,0,1
+614,Dayspring Redbraces,Dayspring Redbraces,mh4g-core-common-game-array+mh4g-armor-name-crosswalk+mh4edit-mit-save-id,0,1
+615,Epoch Redbraces,Epoch Redbraces,mh4g-core-common-game-array+mh4g-armor-name-crosswalk+mh4edit-mit-save-id,0,1
+616,Vangis Vambraces X,Vangis Vambraces X,mh4g-core-common-game-array+mh4g-dex-build7+mh4edit-mit-save-id,9,0
+617,Vangis Guards X,Vangis Guards X,mh4g-core-common-game-array+mh4g-dex-build7+mh4edit-mit-save-id,9,0
+618,Esurient Vambraces Z,Esurient Vambraces Z,mh4g-core-common-game-array+mh4g-dex-build7+mh4edit-mit-save-id,10,0
+619,Esurient Guards Z,Esurient Guards Z,mh4g-core-common-game-array+mh4g-dex-build7+mh4edit-mit-save-id,10,0
+620,Esurient Arms,Esurient Arms,mh4g-core-common-game-array+mh4g-armor-name-crosswalk+mh4edit-mit-save-id,0,1
+621,Esurient Bands,Esurient Bands,mh4g-core-common-game-array+mh4g-armor-name-crosswalk+mh4edit-mit-save-id,0,1
+622,Kaiser Vambraces X,Kaiser Vambraces X,mh4g-core-common-game-array+mh4g-dex-build7+mh4edit-mit-save-id,10,0
+623,Kaiser Guards X,Kaiser Guards X,mh4g-core-common-game-array+mh4g-dex-build7+mh4edit-mit-save-id,10,0
+624,Akantor Claws X,Akantor Claws X,mh4g-core-common-game-array+mh4g-dex-build7+mh4edit-mit-save-id,10,0
+625,Akantor Gauntlets X,Akantor Gauntlets X,mh4g-core-common-game-array+mh4g-dex-build7+mh4edit-mit-save-id,10,0
+626,Akantor Arms,Akantor Arms,mh4g-core-common-game-array+mh4g-armor-name-crosswalk+mh4edit-mit-save-id,0,1
+627,Akantor Bands,Akantor Bands,mh4g-core-common-game-array+mh4g-armor-name-crosswalk+mh4edit-mit-save-id,0,1
+628,EX Escadora Armguards,EX Escadora Armguards,mh4g-core-common-game-array+mh4g-dex-build7+mh4edit-mit-save-id,10,0
+629,EX Escadora Arma,EX Escadora Arma,mh4g-core-common-game-array+mh4g-dex-build7+mh4edit-mit-save-id,10,0
+630,Ukanlos Claws X,Ukanlos Claws X,mh4g-core-common-game-array+mh4g-dex-build7+mh4edit-mit-save-id,10,0
+631,Ukanlos Gauntlets X,Ukanlos Gauntlets X,mh4g-core-common-game-array+mh4g-dex-build7+mh4edit-mit-save-id,10,0
+632,Kushala Grip X,Kushala Grip X,mh4g-core-common-game-array+mh4g-dex-build7+mh4edit-mit-save-id,10,0
+633,Kushala Embrace X,Kushala Embrace X,mh4g-core-common-game-array+mh4g-dex-build7+mh4edit-mit-save-id,10,0
+634,Kushala Arms,Kushala Arms,mh4g-core-common-game-array+mh4g-armor-name-crosswalk+mh4edit-mit-save-id,0,1
+635,Kushala Bands,Kushala Bands,mh4g-core-common-game-array+mh4g-armor-name-crosswalk+mh4edit-mit-save-id,0,1
+636,Kujula Grip,Kujula Grip,mh4g-core-common-game-array+mh4g-dex-build7+mh4edit-mit-save-id,10,0
+637,Kujula Embrace,Kujula Embrace,mh4g-core-common-game-array+mh4g-dex-build7+mh4edit-mit-save-id,10,0
+638,Grand God's Peer Arms,Grand God's Peer Arms,mh4g-core-common-game-array+mh4g-dex-build7+mh4edit-mit-save-id,10,0
+639,Grand Hermit Arms,Grand Hermit Arms,mh4g-core-common-game-array+mh4g-dex-build7+mh4edit-mit-save-id,10,0
+640,Grand Divine Ire Kote,Grand Divine Ire Kote,mh4g-core-common-game-array+mh4g-dex-build7+mh4edit-mit-save-id,10,0
+641,Grand Crusher Braces,Grand Crusher Braces,mh4g-core-common-game-array+mh4g-dex-build7+mh4edit-mit-save-id,10,0
+642,Rebellion Vambraces X,Rebellion Vambraces X,mh4g-core-common-game-array+mh4g-dex-build7+mh4edit-mit-save-id,10,0
+643,Riot Guards X,Riot Guards X,mh4g-core-common-game-array+mh4g-dex-build7+mh4edit-mit-save-id,10,0
+644,Rebellion Arms,Rebellion Arms,mh4g-core-common-game-array+mh4g-armor-name-crosswalk+mh4edit-mit-save-id,0,1
+645,Riot Bands,Riot Bands,mh4g-core-common-game-array+mh4g-armor-name-crosswalk+mh4edit-mit-save-id,0,1
+646,Rebellion Vambraces Z,Rebellion Vambraces Z,mh4g-core-common-game-array+mh4g-dex-build7+mh4edit-mit-save-id,10,0
+647,Riot Guards Z,Riot Guards Z,mh4g-core-common-game-array+mh4g-dex-build7+mh4edit-mit-save-id,10,0
+648,Cephalos Vambraces X,Cephalos Vambraces X,mh4g-core-common-game-array+mh4g-dex-build7+mh4edit-mit-save-id,8,0
+649,Cephalos Guards X,Cephalos Guards X,mh4g-core-common-game-array+mh4g-dex-build7+mh4edit-mit-save-id,8,0
+650,Hermitaur Braces X,Hermitaur Braces X,mh4g-core-common-game-array+mh4g-dex-build7+mh4edit-mit-save-id,8,0
+651,Hermitaur Guards X,Hermitaur Guards X,mh4g-core-common-game-array+mh4g-dex-build7+mh4edit-mit-save-id,8,0
+652,Hermitaur Arms,Hermitaur Arms,mh4g-core-common-game-array+mh4g-armor-name-crosswalk+mh4edit-mit-save-id,0,1
+653,Hermitaur Bands,Hermitaur Bands,mh4g-core-common-game-array+mh4g-armor-name-crosswalk+mh4edit-mit-save-id,0,1
+654,Hermitaur Braces Z,Hermitaur Braces Z,mh4g-core-common-game-array+mh4g-dex-build7+mh4edit-mit-save-id,8,0
+655,Hermitaur Guards Z,Hermitaur Guards Z,mh4g-core-common-game-array+mh4g-dex-build7+mh4edit-mit-save-id,8,0
+656,Mono Vambraces S,Mono Vambraces S,mh4g-core-common-game-array+mh4g-dex-build7+mh4edit-mit-save-id,5,0
+657,Mono Guards S,Mono Guards S,mh4g-core-common-game-array+mh4g-dex-build7+mh4edit-mit-save-id,5,0
+658,Mono Vambraces X,Mono Vambraces X,mh4g-core-common-game-array+mh4g-dex-build7+mh4edit-mit-save-id,9,0
+659,Mono Guards X,Mono Guards X,mh4g-core-common-game-array+mh4g-dex-build7+mh4edit-mit-save-id,9,0
+660,Mono Vambraces,Mono Vambraces,mh4g-core-common-game-array+mh4g-armor-name-crosswalk+mh4edit-mit-save-id,0,1
+661,Mono Guards,Mono Guards,mh4g-core-common-game-array+mh4g-armor-name-crosswalk+mh4edit-mit-save-id,0,1
+662,Mono Arms,Mono Arms,mh4g-core-common-game-array+mh4g-armor-name-crosswalk+mh4edit-mit-save-id,0,1
+663,Mono Bands,Mono Bands,mh4g-core-common-game-array+mh4g-armor-name-crosswalk+mh4edit-mit-save-id,0,1
+664,Monodevil Vambraces,Monodevil Vambraces,mh4g-core-common-game-array+mh4g-dex-build7+mh4edit-mit-save-id,9,0
+665,Monodevil Guards,Monodevil Guards,mh4g-core-common-game-array+mh4g-dex-build7+mh4edit-mit-save-id,9,0
+666,Monodevil Vambraces,Monodevil Vambraces,mh4g-core-common-game-array+mh4g-dex-build7+mh4edit-mit-save-id,9,0
+667,Monodevil Guards,Monodevil Guards,mh4g-core-common-game-array+mh4g-dex-build7+mh4edit-mit-save-id,9,0
+668,Monodevil Arms,Monodevil Arms,mh4g-core-common-game-array+mh4g-armor-name-crosswalk+mh4edit-mit-save-id,0,1
+669,Monodevil Bands,Monodevil Bands,mh4g-core-common-game-array+mh4g-armor-name-crosswalk+mh4edit-mit-save-id,0,1
+670,Diablos Vambraces X,Diablos Vambraces X,mh4g-core-common-game-array+mh4g-dex-build7+mh4edit-mit-save-id,9,0
+671,Diablos Guards X,Diablos Guards X,mh4g-core-common-game-array+mh4g-dex-build7+mh4edit-mit-save-id,9,0
+672,Diablos Vambraces,Diablos Vambraces,mh4g-core-common-game-array+mh4g-dex-build7+mh4edit-mit-save-id,3,0
+673,Diablos Guards,Diablos Guards,mh4g-core-common-game-array+mh4g-dex-build7+mh4edit-mit-save-id,3,0
+674,Diablos Arms,Diablos Arms,mh4g-core-common-game-array+mh4g-armor-name-crosswalk+mh4edit-mit-save-id,0,1
+675,Diablos Bands,Diablos Bands,mh4g-core-common-game-array+mh4g-armor-name-crosswalk+mh4edit-mit-save-id,0,1
+676,Diablos Vambraces Z,Diablos Vambraces Z,mh4g-core-common-game-array+mh4g-dex-build7+mh4edit-mit-save-id,9,0
+677,Diablos Guards Z,Diablos Guards Z,mh4g-core-common-game-array+mh4g-dex-build7+mh4edit-mit-save-id,9,0
+678,Dragonclaws X,Dragonclaws X,mh4g-core-common-game-array+mh4g-dex-build7+mh4edit-mit-save-id,10,0
+679,Dragonfists X,Dragonfists X,mh4g-core-common-game-array+mh4g-dex-build7+mh4edit-mit-save-id,10,0
+680,Dragonarms X,Dragonarms X,mh4g-core-common-game-array+mh4g-armor-name-crosswalk+mh4edit-mit-save-id,0,1
+681,Dragonbands X,Dragonbands X,mh4g-core-common-game-array+mh4g-armor-name-crosswalk+mh4edit-mit-save-id,0,1
+682,Fatalis Crimsonclaws Z,Fatalis Crimsonclaws Z,mh4g-core-common-game-array+mh4g-armor-name-crosswalk+mh4edit-mit-save-id,0,1
+683,Fatalis Crimsonfists Z,Fatalis Crimsonfists Z,mh4g-core-common-game-array+mh4g-armor-name-crosswalk+mh4edit-mit-save-id,0,1
+684,Fatalis Crimsonarms Z,Fatalis Crimsonarms Z,mh4g-core-common-game-array+mh4g-armor-name-crosswalk+mh4edit-mit-save-id,0,1
+685,Fatalis Crimsonbands Z,Fatalis Crimsonbands Z,mh4g-core-common-game-array+mh4g-armor-name-crosswalk+mh4edit-mit-save-id,0,1
+686,Wrothclaws,Wrothclaws,mh4g-core-common-game-array+mh4g-dex-build7+mh4edit-mit-save-id,10,0
+687,Wrothfists,Wrothfists,mh4g-core-common-game-array+mh4g-dex-build7+mh4edit-mit-save-id,10,0
+688,White Fatalis Claw,White Fatalis Claw,mh4g-core-common-game-array+mh4g-dex-build7+mh4edit-mit-save-id,10,0
+689,White Fatalis Fist,White Fatalis Fist,mh4g-core-common-game-array+mh4g-dex-build7+mh4edit-mit-save-id,10,0
+690,Grand Mizuha Sleeves,Grand Mizuha Sleeves,mh4g-core-common-game-array+mh4g-dex-build7+mh4edit-mit-save-id,10,0
+691,Grand Cham Sleeves,Grand Cham Sleeves,mh4g-core-common-game-array+mh4g-dex-build7+mh4edit-mit-save-id,10,0
+692,Regios Vambraces S,Regios Vambraces S,mh4g-core-common-game-array+mh4g-dex-build7+mh4edit-mit-save-id,6,0
+693,Regios Guards S,Regios Guards S,mh4g-core-common-game-array+mh4g-dex-build7+mh4edit-mit-save-id,6,0
+694,Regios Vambraces X,Regios Vambraces X,mh4g-core-common-game-array+mh4g-dex-build7+mh4edit-mit-save-id,9,0
+695,Regios Guards X,Regios Guards X,mh4g-core-common-game-array+mh4g-dex-build7+mh4edit-mit-save-id,9,0
+696,Chaos Vambraces,Chaos Vambraces,mh4g-core-common-game-array+mh4g-dex-build7+mh4edit-mit-save-id,9,0
+697,Nephilim Vambraces,Nephilim Vambraces,mh4g-core-common-game-array+mh4g-dex-build7+mh4edit-mit-save-id,9,0
+698,Chaos Guards,Chaos Guards,mh4g-core-common-game-array+mh4g-dex-build7+mh4edit-mit-save-id,9,0
+699,Nephilim Guards,Nephilim Guards,mh4g-core-common-game-array+mh4g-dex-build7+mh4edit-mit-save-id,9,0
+700,Basarios Vambraces X,Basarios Vambraces X,mh4g-core-common-game-array+mh4g-dex-build7+mh4edit-mit-save-id,8,0
+701,Basarios Guards X,Basarios Guards X,mh4g-core-common-game-array+mh4g-dex-build7+mh4edit-mit-save-id,8,0
+702,Basarios Vambraces Z,Basarios Vambraces Z,mh4g-core-common-game-array+mh4g-dex-build7+mh4edit-mit-save-id,8,0
+703,Basarios Guards Z,Basarios Guards Z,mh4g-core-common-game-array+mh4g-dex-build7+mh4edit-mit-save-id,8,0
+704,Kut-Ku Vambraces X,Kut-Ku Vambraces X,mh4g-core-common-game-array+mh4g-dex-build7+mh4edit-mit-save-id,8,0
+705,Kut-Ku Guards X,Kut-Ku Guards X,mh4g-core-common-game-array+mh4g-dex-build7+mh4edit-mit-save-id,8,0
+706,Kut-Ku Vambraces Z,Kut-Ku Vambraces Z,mh4g-core-common-game-array+mh4g-dex-build7+mh4edit-mit-save-id,8,0
+707,Kut-Ku Guards Z,Kut-Ku Guards Z,mh4g-core-common-game-array+mh4g-dex-build7+mh4edit-mit-save-id,8,0
+708,Garuga Vambraces X,Garuga Vambraces X,mh4g-core-common-game-array+mh4g-dex-build7+mh4edit-mit-save-id,9,0
+709,Garuga Guards X,Garuga Guards X,mh4g-core-common-game-array+mh4g-dex-build7+mh4edit-mit-save-id,9,0
+710,Kirin Longarms X,Kirin Longarms X,mh4g-core-common-game-array+mh4g-dex-build7+mh4edit-mit-save-id,10,0
+711,Kirin Gloves X,Kirin Gloves X,mh4g-core-common-game-array+mh4g-dex-build7+mh4edit-mit-save-id,10,0
+712,Kirin Arms,Kirin Arms,mh4g-core-common-game-array+mh4g-armor-name-crosswalk+mh4edit-mit-save-id,0,1
+713,Kirin Bands,Kirin Bands,mh4g-core-common-game-array+mh4g-armor-name-crosswalk+mh4edit-mit-save-id,0,1
+714,Kirin Longarms Z,Kirin Longarms Z,mh4g-core-common-game-array+mh4g-dex-build7+mh4edit-mit-save-id,10,0
+715,Kirin Gloves Z,Kirin Gloves Z,mh4g-core-common-game-array+mh4g-dex-build7+mh4edit-mit-save-id,10,0
+716,Kirin Arms U,Kirin Arms U,mh4g-core-common-game-array+mh4g-armor-name-crosswalk+mh4edit-mit-save-id,0,1
+717,Kirin Bands U,Kirin Bands U,mh4g-core-common-game-array+mh4g-armor-name-crosswalk+mh4edit-mit-save-id,0,1
+718,Bnahabra Gloves X,Bnahabra Gloves X,mh4g-core-common-game-array+mh4g-dex-build7+mh4edit-mit-save-id,8,0
+719,Bnahabra Sleeves X,Bnahabra Sleeves X,mh4g-core-common-game-array+mh4g-dex-build7+mh4edit-mit-save-id,8,0
+720,Konchu Vambraces X,Konchu Vambraces X,mh4g-core-common-game-array+mh4g-dex-build7+mh4edit-mit-save-id,8,0
+721,Konchu Guards X,Konchu Guards X,mh4g-core-common-game-array+mh4g-dex-build7+mh4edit-mit-save-id,8,0
+722,Rhenoplos Braces X,Rhenoplos Braces X,mh4g-core-common-game-array+mh4g-dex-build7+mh4edit-mit-save-id,8,0
+723,Rhenoplos Guards X,Rhenoplos Guards X,mh4g-core-common-game-array+mh4g-dex-build7+mh4edit-mit-save-id,8,0
+724,Hunter's Arms,Hunter's Arms,mh4g-core-common-game-array+mh4g-armor-name-crosswalk+mh4edit-mit-save-id,0,1
+725,Hunter's Bands,Hunter's Bands,mh4g-core-common-game-array+mh4g-armor-name-crosswalk+mh4edit-mit-save-id,0,1
+726,Alloy Arms,Alloy Arms,mh4g-core-common-game-array+mh4g-armor-name-crosswalk+mh4edit-mit-save-id,0,1
+727,Alloy Bands,Alloy Bands,mh4g-core-common-game-array+mh4g-armor-name-crosswalk+mh4edit-mit-save-id,0,1
+728,Artian Vambraces X,Artian Vambraces X,mh4g-core-common-game-array+mh4g-dex-build7+mh4edit-mit-save-id,9,0
+729,Artian Guards X,Artian Guards X,mh4g-core-common-game-array+mh4g-dex-build7+mh4edit-mit-save-id,9,0
+730,Arc Arms S,Arc Arms S,mh4g-core-common-game-array+mh4g-armor-name-crosswalk+mh4edit-mit-save-id,0,1
+731,Arc Bands S,Arc Bands S,mh4g-core-common-game-array+mh4g-armor-name-crosswalk+mh4edit-mit-save-id,0,1
+732,Ingot Arms,Ingot Arms,mh4g-core-common-game-array+mh4g-armor-name-crosswalk+mh4edit-mit-save-id,0,1
+733,Ingot Bands,Ingot Bands,mh4g-core-common-game-array+mh4g-armor-name-crosswalk+mh4edit-mit-save-id,0,1
+734,Guardian Vambraces X,Guardian Vambraces X,mh4g-core-common-game-array+mh4g-dex-build7+mh4edit-mit-save-id,8,0
+735,Helper Sleeves X,Helper Sleeves X,mh4g-core-common-game-array+mh4g-dex-build7+mh4edit-mit-save-id,8,0
+736,Guardian Guards X,Guardian Guards X,mh4g-core-common-game-array+mh4g-dex-build7+mh4edit-mit-save-id,8,0
+737,Healer Sleeves X,Healer Sleeves X,mh4g-core-common-game-array+mh4g-dex-build7+mh4edit-mit-save-id,8,0
+738,Guardian Vambraces Z,Guardian Vambraces Z,mh4g-core-common-game-array+mh4g-dex-build7+mh4edit-mit-save-id,9,0
+739,Helper Sleeves Z,Helper Sleeves Z,mh4g-core-common-game-array+mh4g-dex-build7+mh4edit-mit-save-id,9,0
+740,Guardian Guards Z,Guardian Guards Z,mh4g-core-common-game-array+mh4g-dex-build7+mh4edit-mit-save-id,9,0
+741,Healer Sleeves Z,Healer Sleeves Z,mh4g-core-common-game-array+mh4g-dex-build7+mh4edit-mit-save-id,9,0
+742,G. Knight Gloves X,G. Knight Gloves X,mh4g-core-common-game-array+mh4g-dex-build7+mh4edit-mit-save-id,9,0
+743,Maiden's Gloves X,Maiden's Gloves X,mh4g-core-common-game-array+mh4g-dex-build7+mh4edit-mit-save-id,9,0
+744,G. Knight Sleeves X,G. Knight Sleeves X,mh4g-core-common-game-array+mh4g-dex-build7+mh4edit-mit-save-id,9,0
+745,Exclusive Sleeves X,Exclusive Sleeves X,mh4g-core-common-game-array+mh4g-dex-build7+mh4edit-mit-save-id,9,0
+746,Ace Vambraces,Ace Vambraces,mh4g-core-common-game-array+mh4g-dex-build7+mh4edit-mit-save-id,9,0
+747,Sororal Vambraces,Sororal Vambraces,mh4g-core-common-game-array+mh4g-dex-build7+mh4edit-mit-save-id,9,0
+748,Ace Guards,Ace Guards,mh4g-core-common-game-array+mh4g-dex-build7+mh4edit-mit-save-id,9,0
+749,Sororal Guards,Sororal Guards,mh4g-core-common-game-array+mh4g-dex-build7+mh4edit-mit-save-id,9,0
+750,Ceanataur Arms,Ceanataur Arms,mh4g-core-common-game-array+mh4g-armor-name-crosswalk+mh4edit-mit-save-id,0,1
+751,Ceanataur Bands,Ceanataur Bands,mh4g-core-common-game-array+mh4g-armor-name-crosswalk+mh4edit-mit-save-id,0,1
+752,Lagiacrus Arms,Lagiacrus Arms,mh4g-core-common-game-array+mh4g-armor-name-crosswalk+mh4edit-mit-save-id,0,1
+753,Lagiacrus Bands,Lagiacrus Bands,mh4g-core-common-game-array+mh4g-armor-name-crosswalk+mh4edit-mit-save-id,0,1
+754,Escadora Arms,Escadora Arms,mh4g-core-common-game-array+mh4g-armor-name-crosswalk+mh4edit-mit-save-id,0,1
+755,Escadora Bands,Escadora Bands,mh4g-core-common-game-array+mh4g-armor-name-crosswalk+mh4edit-mit-save-id,0,1
+756,Auroros Kermes Cuffs,Auroros Kermes Cuffs,mh4g-core-common-game-array+mh4g-armor-name-crosswalk+mh4edit-mit-save-id,0,1
+757,Borealis Woad Cuffs,Borealis Woad Cuffs,mh4g-core-common-game-array+mh4g-armor-name-crosswalk+mh4edit-mit-save-id,0,1
+758,Genesis Kermes Cuffs,Genesis Kermes Cuffs,mh4g-core-common-game-array+mh4g-armor-name-crosswalk+mh4edit-mit-save-id,0,1
+759,Glyph Woad Cuffs,Glyph Woad Cuffs,mh4g-core-common-game-array+mh4g-armor-name-crosswalk+mh4edit-mit-save-id,0,1
+760,Ludroth Arms,Ludroth Arms,mh4g-core-common-game-array+mh4g-armor-name-crosswalk+mh4edit-mit-save-id,0,1
+761,Ludroth Bands,Ludroth Bands,mh4g-core-common-game-array+mh4g-armor-name-crosswalk+mh4edit-mit-save-id,0,1
+762,Hornet Vambraces,Hornet Vambraces,mh4g-core-common-game-array+mh4g-armor-name-crosswalk+mh4edit-mit-save-id,0,1
+763,Hornet Guards,Hornet Guards,mh4g-core-common-game-array+mh4g-armor-name-crosswalk+mh4edit-mit-save-id,0,1
+764,Hornet Arms,Hornet Arms,mh4g-core-common-game-array+mh4g-armor-name-crosswalk+mh4edit-mit-save-id,0,1
+765,Hornet Bands,Hornet Bands,mh4g-core-common-game-array+mh4g-armor-name-crosswalk+mh4edit-mit-save-id,0,1
+766,Wroggi Vambraces,Wroggi Vambraces,mh4g-core-common-game-array+mh4g-armor-name-crosswalk+mh4edit-mit-save-id,0,1
+767,Wroggi Guards,Wroggi Guards,mh4g-core-common-game-array+mh4g-armor-name-crosswalk+mh4edit-mit-save-id,0,1
+768,Wroggi Arms,Wroggi Arms,mh4g-core-common-game-array+mh4g-armor-name-crosswalk+mh4edit-mit-save-id,0,1
+769,Wroggi Bands,Wroggi Bands,mh4g-core-common-game-array+mh4g-armor-name-crosswalk+mh4edit-mit-save-id,0,1
+770,Gigginox Vambraces,Gigginox Vambraces,mh4g-core-common-game-array+mh4g-armor-name-crosswalk+mh4edit-mit-save-id,0,1
+771,Gigginox Guards,Gigginox Guards,mh4g-core-common-game-array+mh4g-armor-name-crosswalk+mh4edit-mit-save-id,0,1
+772,Gigginox Arms,Gigginox Arms,mh4g-core-common-game-array+mh4g-armor-name-crosswalk+mh4edit-mit-save-id,0,1
+773,Gigginox Bands,Gigginox Bands,mh4g-core-common-game-array+mh4g-armor-name-crosswalk+mh4edit-mit-save-id,0,1
+774,Tempest Sleeves,Tempest Sleeves,mh4g-core-common-game-array+mh4g-dex-build7+mh4edit-mit-save-id,10,0
+775,Welkin Sleeves,Welkin Sleeves,mh4g-core-common-game-array+mh4g-dex-build7+mh4edit-mit-save-id,10,0
+776,Tempest Trails,Tempest Trails,mh4g-core-common-game-array+mh4g-armor-name-crosswalk+mh4edit-mit-save-id,0,1
+777,Welkin Trails,Welkin Trails,mh4g-core-common-game-array+mh4g-armor-name-crosswalk+mh4edit-mit-save-id,0,1
+778,Death Stench Grip,Death Stench Grip,mh4g-core-common-game-array+mh4g-armor-name-crosswalk+mh4edit-mit-save-id,0,1
+779,Death Stench Grasp,Death Stench Grasp,mh4g-core-common-game-array+mh4g-armor-name-crosswalk+mh4edit-mit-save-id,0,1
+780,Death Stench Arms,Death Stench Arms,mh4g-core-common-game-array+mh4g-armor-name-crosswalk+mh4edit-mit-save-id,0,1
+781,Death Stench Bands,Death Stench Bands,mh4g-core-common-game-array+mh4g-armor-name-crosswalk+mh4edit-mit-save-id,0,1
+782,Damascus Vambraces,Damascus Vambraces,mh4g-core-common-game-array+mh4g-armor-name-crosswalk+mh4edit-mit-save-id,0,1
+783,Damascus Guards,Damascus Guards,mh4g-core-common-game-array+mh4g-armor-name-crosswalk+mh4edit-mit-save-id,0,1
+784,Damascus Arms,Damascus Arms,mh4g-core-common-game-array+mh4g-armor-name-crosswalk+mh4edit-mit-save-id,0,1
+785,Damascus Bands,Damascus Bands,mh4g-core-common-game-array+mh4g-armor-name-crosswalk+mh4edit-mit-save-id,0,1
+786,Lagiacrus Braces X,Lagiacrus Braces X,mh4g-core-common-game-array+mh4g-dex-build7+mh4edit-mit-save-id,9,0
+787,Lagiacrus Guards X,Lagiacrus Guards X,mh4g-core-common-game-array+mh4g-dex-build7+mh4edit-mit-save-id,9,0
+788,Nargacuga Braces X,Nargacuga Braces X,mh4g-core-common-game-array+mh4g-dex-build7+mh4edit-mit-save-id,9,0
+789,Nargacuga Guards X,Nargacuga Guards X,mh4g-core-common-game-array+mh4g-dex-build7+mh4edit-mit-save-id,9,0
+790,Empress Vambraces X,Empress Vambraces X,mh4g-core-common-game-array+mh4g-dex-build7+mh4edit-mit-save-id,10,0
+791,Empress Guards X,Empress Guards X,mh4g-core-common-game-array+mh4g-dex-build7+mh4edit-mit-save-id,10,0
+792,Helios Vambraces X,Helios Vambraces X,mh4g-core-common-game-array+mh4g-dex-build7+mh4edit-mit-save-id,10,0
+793,Selene Vambraces X,Selene Vambraces X,mh4g-core-common-game-array+mh4g-dex-build7+mh4edit-mit-save-id,10,0
+794,Helios Guards X,Helios Guards X,mh4g-core-common-game-array+mh4g-dex-build7+mh4edit-mit-save-id,10,0
+795,Selene Guards X,Selene Guards X,mh4g-core-common-game-array+mh4g-dex-build7+mh4edit-mit-save-id,10,0
+796,Agnaktor Vambraces X,Agnaktor Vambraces X,mh4g-core-common-game-array+mh4g-dex-build7+mh4edit-mit-save-id,8,0
+797,Agnaktor Guards X,Agnaktor Guards X,mh4g-core-common-game-array+mh4g-dex-build7+mh4edit-mit-save-id,8,0
+798,Qurupeco Vambraces X,Qurupeco Vambraces X,mh4g-core-common-game-array+mh4g-dex-build7+mh4edit-mit-save-id,8,0
+799,Qurupeco Guards X,Qurupeco Guards X,mh4g-core-common-game-array+mh4g-dex-build7+mh4edit-mit-save-id,8,0
+800,Gobul Vambraces X,Gobul Vambraces X,mh4g-core-common-game-array+mh4g-dex-build7+mh4edit-mit-save-id,8,0
+801,Gobul Guards X,Gobul Guards X,mh4g-core-common-game-array+mh4g-dex-build7+mh4edit-mit-save-id,8,0
+802,Barioth Vambraces X,Barioth Vambraces X,mh4g-core-common-game-array+mh4g-dex-build7+mh4edit-mit-save-id,8,0
+803,Barioth Guards X,Barioth Guards X,mh4g-core-common-game-array+mh4g-dex-build7+mh4edit-mit-save-id,8,0
+804,Barroth Vambraces X,Barroth Vambraces X,mh4g-core-common-game-array+mh4g-dex-build7+mh4edit-mit-save-id,8,0
+805,Barroth Guards X,Barroth Guards X,mh4g-core-common-game-array+mh4g-dex-build7+mh4edit-mit-save-id,8,0
+806,Nibelsnarf Braces X,Nibelsnarf Braces X,mh4g-core-common-game-array+mh4g-dex-build7+mh4edit-mit-save-id,8,0
+807,Nibelsnarf Guards X,Nibelsnarf Guards X,mh4g-core-common-game-array+mh4g-dex-build7+mh4edit-mit-save-id,8,0
+808,Duramboros Braces X,Duramboros Braces X,mh4g-core-common-game-array+mh4g-dex-build7+mh4edit-mit-save-id,9,0
+809,Duramboros Guards X,Duramboros Guards X,mh4g-core-common-game-array+mh4g-dex-build7+mh4edit-mit-save-id,9,0
+810,Lava Vambraces X,Lava Vambraces X,mh4g-core-common-game-array+mh4g-dex-build7+mh4edit-mit-save-id,9,0
+811,Lava Guards X,Lava Guards X,mh4g-core-common-game-array+mh4g-dex-build7+mh4edit-mit-save-id,9,0
+812,Grand Yamato Kote,Grand Yamato Kote,mh4g-core-common-game-array+mh4g-dex-build7+mh4edit-mit-save-id,10,0
+813,Grand Hyuga Kote,Grand Hyuga Kote,mh4g-core-common-game-array+mh4g-dex-build7+mh4edit-mit-save-id,10,0
+814,Grand Mutsu Kote,Grand Mutsu Kote,mh4g-core-common-game-array+mh4g-dex-build7+mh4edit-mit-save-id,10,0
+815,Grand Amagi Kote,Grand Amagi Kote,mh4g-core-common-game-array+mh4g-dex-build7+mh4edit-mit-save-id,10,0
+816,Grand Yaksha Braces,Grand Yaksha Braces,mh4g-core-common-game-array+mh4g-dex-build7+mh4edit-mit-save-id,10,0
+817,Grand Carnage Braces,Grand Carnage Braces,mh4g-core-common-game-array+mh4g-dex-build7+mh4edit-mit-save-id,10,0
+818,Miralis Grievers,Miralis Grievers,mh4g-core-common-game-array+mh4g-dex-build7+mh4edit-mit-save-id,10,0
+819,Miralis Clouts,Miralis Clouts,mh4g-core-common-game-array+mh4g-dex-build7+mh4edit-mit-save-id,10,0
+820,Plesioth Vambraces Z,Plesioth Vambraces Z,mh4g-core-common-game-array+mh4g-dex-build7+mh4edit-mit-save-id,8,0
+821,Plesioth Guards Z,Plesioth Guards Z,mh4g-core-common-game-array+mh4g-dex-build7+mh4edit-mit-save-id,8,0
+822,Kita Star Sleeves,Kita Star Sleeves,mh4g-core-common-game-array+mh4g-dex-build7+mh4edit-mit-save-id,8,0
+823,Umi Ocean Sleeves,Umi Ocean Sleeves,mh4g-core-common-game-array+mh4g-dex-build7+mh4edit-mit-save-id,8,0
+824,Patissier's Gloves,Patissier's Gloves,mh4g-core-common-game-array+mh4g-dex-build7+mh4edit-mit-save-id,7,0
+825,Patissier's Mitts,Patissier's Mitts,mh4g-core-common-game-array+mh4g-dex-build7+mh4edit-mit-save-id,7,0
+826,High Metal Vambraces S,High Metal Vambraces S,mh4g-core-common-game-array+mh4g-dex-build7+mh4edit-mit-save-id,5,0
+827,High Metal Guards S,High Metal Guards S,mh4g-core-common-game-array+mh4g-dex-build7+mh4edit-mit-save-id,5,0
+828,Aelucanth Brachia X,Aelucanth Brachia X,mh4g-core-common-game-array+mh4g-dex-build7+mh4edit-mit-save-id,8,0
+829,Rhopessa Brachia X,Rhopessa Brachia X,mh4g-core-common-game-array+mh4g-dex-build7+mh4edit-mit-save-id,8,0
+830,Aelucanth Manus X,Aelucanth Manus X,mh4g-core-common-game-array+mh4g-dex-build7+mh4edit-mit-save-id,8,0
+831,Rhopessa Manus X,Rhopessa Manus X,mh4g-core-common-game-array+mh4g-dex-build7+mh4edit-mit-save-id,8,0
+832,Obituary Brachia X,Obituary Brachia X,mh4g-core-common-game-array+mh4g-dex-build7+mh4edit-mit-save-id,8,0
+833,Butterfly Brachia X,Butterfly Brachia X,mh4g-core-common-game-array+mh4g-dex-build7+mh4edit-mit-save-id,8,0
+834,Obituary Manus X,Obituary Manus X,mh4g-core-common-game-array+mh4g-dex-build7+mh4edit-mit-save-id,8,0
+835,Butterfly Manus X,Butterfly Manus X,mh4g-core-common-game-array+mh4g-dex-build7+mh4edit-mit-save-id,8,0
+836,EX Auroros Gauntlets,EX Auroros Gauntlets,mh4g-core-common-game-array+mh4g-dex-build7+mh4edit-mit-save-id,10,0
+837,EX Borealis Gauntlets,EX Borealis Gauntlets,mh4g-core-common-game-array+mh4g-dex-build7+mh4edit-mit-save-id,10,0
+838,EX Genesis Gauntlets,EX Genesis Gauntlets,mh4g-core-common-game-array+mh4g-dex-build7+mh4edit-mit-save-id,10,0
+839,EX Glyph Gauntlets,EX Glyph Gauntlets,mh4g-core-common-game-array+mh4g-dex-build7+mh4edit-mit-save-id,10,0
+840,Tempest Sleeves,Tempest Sleeves,mh4g-core-common-game-array+mh4g-dex-build7+mh4edit-mit-save-id,10,0
+841,Welkin Sleeves,Welkin Sleeves,mh4g-core-common-game-array+mh4g-dex-build7+mh4edit-mit-save-id,10,0
+842,GX Escadora Arms,GX Escadora Arms,mh4g-core-common-game-array+mh4g-armor-name-crosswalk+mh4edit-mit-save-id,0,1
+843,GX Escadora Bands,GX Escadora Bands,mh4g-core-common-game-array+mh4g-armor-name-crosswalk+mh4edit-mit-save-id,0,1
+844,GX Dragonarms X,GX Dragonarms X,mh4g-core-common-game-array+mh4g-armor-name-crosswalk+mh4edit-mit-save-id,0,1
+845,GX Dragonbands X,GX Dragonbands X,mh4g-core-common-game-array+mh4g-armor-name-crosswalk+mh4edit-mit-save-id,0,1
+846,Star Knight Vambraces,Star Knight Vambraces,mh4g-core-common-game-array+mh4g-dex-build7+mh4edit-mit-save-id,10,0
+847,Star Knight Guards,Star Knight Guards,mh4g-core-common-game-array+mh4g-dex-build7+mh4edit-mit-save-id,10,0
+848,Braces of Rage,Braces of Rage,mh4g-core-common-game-array+mh4g-dex-build7+mh4edit-mit-save-id,10,0
+849,Guards of Rage,Guards of Rage,mh4g-core-common-game-array+mh4g-dex-build7+mh4edit-mit-save-id,10,0
+850,Varia Suit Guards,Varia Suit Guards,mh4g-core-common-game-array+mh4g-dex-build7+mh4edit-mit-save-id,10,0
+851,Zero Suit Gloves,Zero Suit Gloves,mh4g-core-common-game-array+mh4g-dex-build7+mh4edit-mit-save-id,10,0
+852,Varia Suit Shield,Varia Suit Shield,mh4g-core-common-game-array+mh4g-dex-build7+mh4edit-mit-save-id,10,0
+853,Zero Suit Hands,Zero Suit Hands,mh4g-core-common-game-array+mh4g-dex-build7+mh4edit-mit-save-id,10,0
+854,Varia Suit Guards,Varia Suit Guards,mh4g-core-common-game-array+mh4g-dex-build7+mh4edit-mit-save-id,10,0
+855,Zero Suit Gloves,Zero Suit Gloves,mh4g-core-common-game-array+mh4g-dex-build7+mh4edit-mit-save-id,10,0
+856,Varia Suit Shield,Varia Suit Shield,mh4g-core-common-game-array+mh4g-dex-build7+mh4edit-mit-save-id,10,0
+857,Zero Suit Hands,Zero Suit Hands,mh4g-core-common-game-array+mh4g-dex-build7+mh4edit-mit-save-id,10,0
+858,DUMMY,DUMMY,mh4g-core-common-game-array+mh4edit-mit-save-id,0,0
+859,DUMMY,DUMMY,mh4g-core-common-game-array+mh4edit-mit-save-id,0,0
+860,Hawkbraces X,Hawkbraces X,mh4g-core-common-game-array+mh4g-dex-build7+mh4edit-mit-save-id,9,0
+861,Lecturer's Braces X,Lecturer's Braces X,mh4g-core-common-game-array+mh4g-dex-build7+mh4edit-mit-save-id,9,0
+862,Hawkguards X,Hawkguards X,mh4g-core-common-game-array+mh4g-dex-build7+mh4edit-mit-save-id,9,0
+863,Lecturer's Guards X,Lecturer's Guards X,mh4g-core-common-game-array+mh4g-dex-build7+mh4edit-mit-save-id,9,0
+864,GX Hunter's Arms,GX Hunter's Arms,mh4g-core-common-game-array+mh4g-dex-build7+mh4edit-mit-save-id,10,0
+865,GX Hunter's Bands,GX Hunter's Bands,mh4g-core-common-game-array+mh4g-dex-build7+mh4edit-mit-save-id,10,0
+866,GX Esurient Arms,GX Esurient Arms,mh4g-core-common-game-array+mh4g-dex-build7+mh4edit-mit-save-id,10,0
+867,GX Esurient Bands,GX Esurient Bands,mh4g-core-common-game-array+mh4g-dex-build7+mh4edit-mit-save-id,10,0
+868,GX Tempest Trails,GX Tempest Trails,mh4g-core-common-game-array+mh4g-dex-build7+mh4edit-mit-save-id,10,0
+869,GX Welkin Trails,GX Welkin Trails,mh4g-core-common-game-array+mh4g-dex-build7+mh4edit-mit-save-id,10,0
+870,GX Fatalis Crimsonarms,GX Fatalis Crimsonarms,mh4g-core-common-game-array+mh4g-dex-build7+mh4edit-mit-save-id,10,0
+871,GX Fatalis Crimsonbands,GX Fatalis Crimsonbands,mh4g-core-common-game-array+mh4g-dex-build7+mh4edit-mit-save-id,10,0
+872,Hunter's Vambraces,Hunter's Vambraces,mh4g-core-common-game-array+mh4g-dex-build7+mh4edit-mit-save-id,1,0
+873,Hunter's Guards,Hunter's Guards,mh4g-core-common-game-array+mh4g-dex-build7+mh4edit-mit-save-id,1,0
+874,Hunter's Vambraces,Hunter's Vambraces,mh4g-core-common-game-array+mh4g-dex-build7+mh4edit-mit-save-id,1,0
+875,Hunter's Guards,Hunter's Guards,mh4g-core-common-game-array+mh4g-dex-build7+mh4edit-mit-save-id,1,0
+876,Ludroth Vambraces,Ludroth Vambraces,mh4g-core-common-game-array+mh4g-dex-build7+mh4edit-mit-save-id,2,0
+877,Ludroth Guards,Ludroth Guards,mh4g-core-common-game-array+mh4g-dex-build7+mh4edit-mit-save-id,2,0
+878,Ludroth Vambraces,Ludroth Vambraces,mh4g-core-common-game-array+mh4g-dex-build7+mh4edit-mit-save-id,2,0
+879,Ludroth Guards,Ludroth Guards,mh4g-core-common-game-array+mh4g-dex-build7+mh4edit-mit-save-id,2,0
+880,Alloy Vambraces,Alloy Vambraces,mh4g-core-common-game-array+mh4g-dex-build7+mh4edit-mit-save-id,1,0
+881,Alloy Guards,Alloy Guards,mh4g-core-common-game-array+mh4g-dex-build7+mh4edit-mit-save-id,1,0
+882,Alloy Vambraces,Alloy Vambraces,mh4g-core-common-game-array+mh4g-dex-build7+mh4edit-mit-save-id,1,0
+883,Alloy Guards,Alloy Guards,mh4g-core-common-game-array+mh4g-dex-build7+mh4edit-mit-save-id,1,0
+884,Gypceros Vambraces,Gypceros Vambraces,mh4g-core-common-game-array+mh4g-dex-build7+mh4edit-mit-save-id,2,0
+885,Gypceros Guards,Gypceros Guards,mh4g-core-common-game-array+mh4g-dex-build7+mh4edit-mit-save-id,2,0
+886,Gypceros Vambraces,Gypceros Vambraces,mh4g-core-common-game-array+mh4g-dex-build7+mh4edit-mit-save-id,2,0
+887,Gypceros Guards,Gypceros Guards,mh4g-core-common-game-array+mh4g-dex-build7+mh4edit-mit-save-id,2,0
+888,Khezu Vambraces,Khezu Vambraces,mh4g-core-common-game-array+mh4g-dex-build7+mh4edit-mit-save-id,2,0
+889,Khezu Guards,Khezu Guards,mh4g-core-common-game-array+mh4g-dex-build7+mh4edit-mit-save-id,2,0
+890,Khezu Vambraces,Khezu Vambraces,mh4g-core-common-game-array+mh4g-dex-build7+mh4edit-mit-save-id,2,0
+891,Khezu Guards,Khezu Guards,mh4g-core-common-game-array+mh4g-dex-build7+mh4edit-mit-save-id,2,0
+892,Ingot Vambraces,Ingot Vambraces,mh4g-core-common-game-array+mh4g-dex-build7+mh4edit-mit-save-id,3,0
+893,Ingot Guards,Ingot Guards,mh4g-core-common-game-array+mh4g-dex-build7+mh4edit-mit-save-id,3,0
+894,Ingot Vambraces,Ingot Vambraces,mh4g-core-common-game-array+mh4g-dex-build7+mh4edit-mit-save-id,3,0
+895,Ingot Guards,Ingot Guards,mh4g-core-common-game-array+mh4g-dex-build7+mh4edit-mit-save-id,3,0
+896,Rathian Vambraces,Rathian Vambraces,mh4g-core-common-game-array+mh4g-dex-build7+mh4edit-mit-save-id,2,0
+897,Rathian Guards,Rathian Guards,mh4g-core-common-game-array+mh4g-dex-build7+mh4edit-mit-save-id,2,0
+898,Lagiacrus Braces,Lagiacrus Braces,mh4g-core-common-game-array+mh4g-dex-build7+mh4edit-mit-save-id,6,0
+899,Lagiacrus Guards,Lagiacrus Guards,mh4g-core-common-game-array+mh4g-dex-build7+mh4edit-mit-save-id,6,0
+900,Rathalos Vambraces,Rathalos Vambraces,mh4g-core-common-game-array+mh4g-dex-build7+mh4edit-mit-save-id,3,0
+901,Rathalos Guards,Rathalos Guards,mh4g-core-common-game-array+mh4g-dex-build7+mh4edit-mit-save-id,3,0
+902,Gypceros Vambraces U,Gypceros Vambraces U,mh4g-core-common-game-array+mh4g-dex-build7+mh4edit-mit-save-id,6,0
+903,Gypceros Guards U,Gypceros Guards U,mh4g-core-common-game-array+mh4g-dex-build7+mh4edit-mit-save-id,6,0
+904,Khezu Vambraces U,Khezu Vambraces U,mh4g-core-common-game-array+mh4g-dex-build7+mh4edit-mit-save-id,6,0
+905,Khezu Guards U,Khezu Guards U,mh4g-core-common-game-array+mh4g-dex-build7+mh4edit-mit-save-id,6,0
+906,Tigrex Vambraces,Tigrex Vambraces,mh4g-core-common-game-array+mh4g-dex-build7+mh4edit-mit-save-id,3,0
+907,Tigrex Guards,Tigrex Guards,mh4g-core-common-game-array+mh4g-dex-build7+mh4edit-mit-save-id,3,0
+908,Kirin Longarms,Kirin Longarms,mh4g-core-common-game-array+mh4g-dex-build7+mh4edit-mit-save-id,3,0
+909,Kirin Gloves,Kirin Gloves,mh4g-core-common-game-array+mh4g-dex-build7+mh4edit-mit-save-id,3,0
+910,Kirin Longarms,Kirin Longarms,mh4g-core-common-game-array+mh4g-dex-build7+mh4edit-mit-save-id,3,0
+911,Kirin Gloves,Kirin Gloves,mh4g-core-common-game-array+mh4g-dex-build7+mh4edit-mit-save-id,3,0
+912,Artian Vambraces S,Artian Vambraces S,mh4g-core-common-game-array+mh4g-dex-build7+mh4edit-mit-save-id,5,0
+913,Artian Guards S,Artian Guards S,mh4g-core-common-game-array+mh4g-dex-build7+mh4edit-mit-save-id,5,0
+914,Ceanataur Braces,Ceanataur Braces,mh4g-core-common-game-array+mh4g-dex-build7+mh4edit-mit-save-id,2,0
+915,Ceanataur Guards,Ceanataur Guards,mh4g-core-common-game-array+mh4g-dex-build7+mh4edit-mit-save-id,2,0
+916,Ceanataur Braces,Ceanataur Braces,mh4g-core-common-game-array+mh4g-dex-build7+mh4edit-mit-save-id,2,0
+917,Ceanataur Guards,Ceanataur Guards,mh4g-core-common-game-array+mh4g-dex-build7+mh4edit-mit-save-id,2,0
+918,Gloaming Braces,Gloaming Braces,mh4g-core-common-game-array+mh4g-dex-build7+mh4edit-mit-save-id,3,0
+919,Dayspring Braces,Dayspring Braces,mh4g-core-common-game-array+mh4g-dex-build7+mh4edit-mit-save-id,3,0
+920,Adamance Braces,Adamance Braces,mh4g-core-common-game-array+mh4g-dex-build7+mh4edit-mit-save-id,3,0
+921,Epoch Braces,Epoch Braces,mh4g-core-common-game-array+mh4g-dex-build7+mh4edit-mit-save-id,3,0
+922,Zinogre Vambraces U,Zinogre Vambraces U,mh4g-core-common-game-array+mh4g-dex-build7+mh4edit-mit-save-id,6,0
+923,Zinogre Guards U,Zinogre Guards U,mh4g-core-common-game-array+mh4g-dex-build7+mh4edit-mit-save-id,6,0
+924,Tigrex Vambraces U,Tigrex Vambraces U,mh4g-core-common-game-array+mh4g-dex-build7+mh4edit-mit-save-id,6,0
+925,Tigrex Guards U,Tigrex Guards U,mh4g-core-common-game-array+mh4g-dex-build7+mh4edit-mit-save-id,6,0
+926,Gore Braces,Gore Braces,mh4g-core-common-game-array+mh4g-dex-build7+mh4edit-mit-save-id,3,0
+927,Gore Guards,Gore Guards,mh4g-core-common-game-array+mh4g-dex-build7+mh4edit-mit-save-id,3,0
+928,Auroros Gauntlets,Auroros Gauntlets,mh4g-core-common-game-array+mh4g-dex-build7+mh4edit-mit-save-id,3,0
+929,Genesis Gauntlets,Genesis Gauntlets,mh4g-core-common-game-array+mh4g-dex-build7+mh4edit-mit-save-id,3,0
+930,Borealis Gauntlets,Borealis Gauntlets,mh4g-core-common-game-array+mh4g-dex-build7+mh4edit-mit-save-id,3,0
+931,Glyph Gauntlets,Glyph Gauntlets,mh4g-core-common-game-array+mh4g-dex-build7+mh4edit-mit-save-id,3,0
+932,Kirin Longarms U,Kirin Longarms U,mh4g-core-common-game-array+mh4g-dex-build7+mh4edit-mit-save-id,7,0
+933,Kirin Gloves U,Kirin Gloves U,mh4g-core-common-game-array+mh4g-dex-build7+mh4edit-mit-save-id,7,0
+934,Kirin Longarms U,Kirin Longarms U,mh4g-core-common-game-array+mh4g-dex-build7+mh4edit-mit-save-id,7,0
+935,Kirin Gloves U,Kirin Gloves U,mh4g-core-common-game-array+mh4g-dex-build7+mh4edit-mit-save-id,7,0
+936,Esurient Vambraces,Esurient Vambraces,mh4g-core-common-game-array+mh4g-dex-build7+mh4edit-mit-save-id,7,0
+937,Esurient Guards,Esurient Guards,mh4g-core-common-game-array+mh4g-dex-build7+mh4edit-mit-save-id,7,0
+938,Monoblos Vambraces,Monoblos Vambraces,mh4g-core-common-game-array+mh4g-armor-name-crosswalk+mh4edit-mit-save-id,0,1
+939,Monoblos Guards,Monoblos Guards,mh4g-core-common-game-array+mh4g-armor-name-crosswalk+mh4edit-mit-save-id,0,1
+940,Hornet Vambraces,Hornet Vambraces,mh4g-core-common-game-array+mh4g-armor-name-crosswalk+mh4edit-mit-save-id,0,1
+941,Hornet Guards,Hornet Guards,mh4g-core-common-game-array+mh4g-armor-name-crosswalk+mh4edit-mit-save-id,0,1
+942,Wroggi Vambraces,Wroggi Vambraces,mh4g-core-common-game-array+mh4g-armor-name-crosswalk+mh4edit-mit-save-id,0,1
+943,Wroggi Guards,Wroggi Guards,mh4g-core-common-game-array+mh4g-armor-name-crosswalk+mh4edit-mit-save-id,0,1
+944,Monodevil Vambraces,Monodevil Vambraces,mh4g-core-common-game-array+mh4g-dex-build7+mh4edit-mit-save-id,9,0
+945,Monodevil Guards,Monodevil Guards,mh4g-core-common-game-array+mh4g-dex-build7+mh4edit-mit-save-id,9,0
+946,Diablos Vambraces,Diablos Vambraces,mh4g-core-common-game-array+mh4g-dex-build7+mh4edit-mit-save-id,3,0
+947,Diablos Guards,Diablos Guards,mh4g-core-common-game-array+mh4g-dex-build7+mh4edit-mit-save-id,3,0
+948,Gigginox Vambraces,Gigginox Vambraces,mh4g-core-common-game-array+mh4g-armor-name-crosswalk+mh4edit-mit-save-id,0,1
+949,Gigginox Guards,Gigginox Guards,mh4g-core-common-game-array+mh4g-armor-name-crosswalk+mh4edit-mit-save-id,0,1
+950,Death Stench Grip,Death Stench Grip,mh4g-core-common-game-array+mh4g-armor-name-crosswalk+mh4edit-mit-save-id,0,1
+951,Death Stench Grasp,Death Stench Grasp,mh4g-core-common-game-array+mh4g-armor-name-crosswalk+mh4edit-mit-save-id,0,1
+952,Damascus Vambraces,Damascus Vambraces,mh4g-core-common-game-array+mh4g-armor-name-crosswalk+mh4edit-mit-save-id,0,1
+953,Damascus Guards,Damascus Guards,mh4g-core-common-game-array+mh4g-armor-name-crosswalk+mh4edit-mit-save-id,0,1
+954,DUMMY,DUMMY,mh4g-core-common-game-array+mh4edit-mit-save-id,0,0
+955,DUMMY,DUMMY,mh4g-core-common-game-array+mh4edit-mit-save-id,0,0

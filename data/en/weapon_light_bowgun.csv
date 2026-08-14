@@ -1,186 +1,186 @@
 id,name,english,source,rarity,is_relic
-0,None,None,mh4g-save-format,0,0
-1,Cross Bowgun,Cross Bowgun,mh4g-dex-build7+mh4edit-mit-save-id,1,0
-2,Cross Bowgun+,Cross Bowgun+,mh4g-dex-build7+mh4edit-mit-save-id,1,0
-3,Grenade Launcher,Grenade Launcher,mh4g-dex-build7+mh4edit-mit-save-id,2,0
-4,Grenade Launcher+,Grenade Launcher+,mh4g-dex-build7+mh4edit-mit-save-id,3,0
-5,Grenade Revolver,Grenade Revolver,mh4g-dex-build7+mh4edit-mit-save-id,4,0
-6,Rathling Gun,Rathling Gun,mh4g-dex-build7+mh4edit-mit-save-id,3,0
-7,Rathling Doombringer,Rathling Doombringer,mh4g-dex-build7+mh4edit-mit-save-id,4,0
-8,Rathling Phoenix,Rathling Phoenix,mh4g-dex-build7+mh4edit-mit-save-id,5,0
-9,Azurathling Skysear,Azurathling Skysear,mh4g-dex-build7+mh4edit-mit-save-id,6,0
-10,Azurathling Sunsear,Azurathling Sunsear,mh4g-dex-build7+mh4edit-mit-save-id,6,0
-11,Blossomayhem,Blossomayhem,mh4g-dex-build7+mh4edit-mit-save-id,7,0
-12,Jaggid Fire,Jaggid Fire,mh4g-dex-build7+mh4edit-mit-save-id,1,0
-13,Bandit Fire,Bandit Fire,mh4g-dex-build7+mh4edit-mit-save-id,2,0
-14,Bandit's Rage,Bandit's Rage,mh4g-dex-build7+mh4edit-mit-save-id,4,0
-15,Usurper's Crime,Usurper's Crime,mh4g-dex-build7+mh4edit-mit-save-id,3,0
-16,Usurper's Crime+,Usurper's Crime+,mh4g-dex-build7+mh4edit-mit-save-id,4,0
-17,Despot's Wildfire,Despot's Wildfire,mh4g-dex-build7+mh4edit-mit-save-id,5,0
-18,Brimstren Drakekiss,Brimstren Drakekiss,mh4g-dex-build7+mh4edit-mit-save-id,6,0
-19,Brimstren Drakevow,Brimstren Drakevow,mh4g-dex-build7+mh4edit-mit-save-id,7,0
-20,Cross Blitz,Cross Blitz,mh4g-dex-build7+mh4edit-mit-save-id,4,0
-21,Cross Blitzkrieg,Cross Blitzkrieg,mh4g-dex-build7+mh4edit-mit-save-id,5,0
-22,Shotgun (Azure),Shotgun (Azure),mh4g-dex-build7+mh4edit-mit-save-id,6,0
-23,Blue Shooter,Blue Shooter,mh4g-dex-build7+mh4edit-mit-save-id,6,0
-24,Simple Shooter,Simple Shooter,mh4g-dex-build7+mh4edit-mit-save-id,1,0
-25,Simple Shooter+,Simple Shooter+,mh4g-dex-build7+mh4edit-mit-save-id,2,0
-26,Shotgun (Blood),Shotgun (Blood),mh4g-dex-build7+mh4edit-mit-save-id,3,0
-27,Crimson Blade Shower,Crimson Blade Shower,mh4g-dex-build7+mh4edit-mit-save-id,4,0
-28,Rouge Shooter,Rouge Shooter,mh4g-dex-build7+mh4edit-mit-save-id,5,0
-29,Shotgun (Green),Shotgun (Green),mh4g-dex-build7+mh4edit-mit-save-id,2,0
-30,Green Blade Shower,Green Blade Shower,mh4g-dex-build7+mh4edit-mit-save-id,2,0
-31,Vert Shooter,Vert Shooter,mh4g-dex-build7+mh4edit-mit-save-id,4,0
-32,Shell Shooter,Shell Shooter,mh4g-dex-build7+mh4edit-mit-save-id,1,0
-33,Shell Gatling,Shell Gatling,mh4g-dex-build7+mh4edit-mit-save-id,3,0
-34,Insect Vulcan,Insect Vulcan,mh4g-dex-build7+mh4edit-mit-save-id,4,0
-35,Hornet's Nest,Hornet's Nest,mh4g-dex-build7+mh4edit-mit-save-id,5,0
-36,Sawgun,Sawgun,mh4g-dex-build7+mh4edit-mit-save-id,2,0
-37,Sawgun+,Sawgun+,mh4g-dex-build7+mh4edit-mit-save-id,2,0
-38,Buzzawgun,Buzzawgun,mh4g-dex-build7+mh4edit-mit-save-id,4,0
-39,Buzzawcannon,Buzzawcannon,mh4g-dex-build7+mh4edit-mit-save-id,5,0
-40,Fäulnisschleuder,Fäulnisschleuder,mh4g-dex-build7+mh4edit-mit-save-id,3,0
-41,Wahnschleuder,Wahnschleuder,mh4g-dex-build7+mh4edit-mit-save-id,4,0
-42,Teufelsschleuder,Teufelsschleuder,mh4g-dex-build7+mh4edit-mit-save-id,5,0
-43,La Lumière,La Lumière,mh4g-dex-build7+mh4edit-mit-save-id,6,0
-44,Le Condamnateur,Le Condamnateur,mh4g-dex-build7+mh4edit-mit-save-id,7,0
-45,Dios Blaster,Dios Blaster,mh4g-dex-build7+mh4edit-mit-save-id,4,0
-46,Dios Blaster+,Dios Blaster+,mh4g-dex-build7+mh4edit-mit-save-id,5,0
-47,Demolition Gun,Demolition Gun,mh4g-dex-build7+mh4edit-mit-save-id,6,0
-48,Khezu Syringe,Khezu Syringe,mh4g-dex-build7+mh4edit-mit-save-id,2,0
-49,Khezu Hypo,Khezu Hypo,mh4g-dex-build7+mh4edit-mit-save-id,3,0
-50,Hyodermic Miracle,Hyodermic Miracle,mh4g-dex-build7+mh4edit-mit-save-id,5,0
-51,Kut-Ku Anger,Kut-Ku Anger,mh4g-dex-build7+mh4edit-mit-save-id,1,0
-52,Kut-Ku Anger+,Kut-Ku Anger+,mh4g-dex-build7+mh4edit-mit-save-id,3,0
-53,Kut-Ku Counterattack,Kut-Ku Counterattack,mh4g-dex-build7+mh4edit-mit-save-id,4,0
-54,Kut-Ku Rage,Kut-Ku Rage,mh4g-dex-build7+mh4edit-mit-save-id,4,0
-55,Kut-Ku Barrage,Kut-Ku Barrage,mh4g-dex-build7+mh4edit-mit-save-id,5,0
-56,Raven Do,Raven Do,mh4g-dex-build7+mh4edit-mit-save-id,3,0
-57,Wolf Do,Wolf Do,mh4g-dex-build7+mh4edit-mit-save-id,4,0
-58,Crow Do,Crow Do,mh4g-dex-build7+mh4edit-mit-save-id,6,0
-59,Royal Launcher,Royal Launcher,mh4g-dex-build7+mh4edit-mit-save-id,2,0
-60,Royal Torrent,Royal Torrent,mh4g-dex-build7+mh4edit-mit-save-id,2,0
-61,Royal Inundation,Royal Inundation,mh4g-dex-build7+mh4edit-mit-save-id,4,0
-62,Barro Barrel,Barro Barrel,mh4g-dex-build7+mh4edit-mit-save-id,2,0
-63,Barro Barrel+,Barro Barrel+,mh4g-dex-build7+mh4edit-mit-save-id,3,0
-64,Barrozooka,Barrozooka,mh4g-dex-build7+mh4edit-mit-save-id,5,0
-65,Thundacrus,Thundacrus,mh4g-dex-build7+mh4edit-mit-save-id,6,0
-66,Thundacrus Rex,Thundacrus Rex,mh4g-dex-build7+mh4edit-mit-save-id,7,0
-67,Blizzard Cannon,Blizzard Cannon,mh4g-dex-build7+mh4edit-mit-save-id,5,0
-68,Tabula Blizzara,Tabula Blizzara,mh4g-dex-build7+mh4edit-mit-save-id,6,0
-69,Felyne Helldoll,Felyne Helldoll,mh4g-dex-build7+mh4edit-mit-save-id,5,0
-70,Black Parasol,Black Parasol,mh4g-dex-build7+mh4edit-mit-save-id,7,0
-71,Demon's Isle,Demon's Isle,mh4g-dex-build7+mh4edit-mit-save-id,2,0
-72,Demon's Island,Demon's Island,mh4g-dex-build7+mh4edit-mit-save-id,5,0
-73,God's Isle,God's Isle,mh4g-dex-build7+mh4edit-mit-save-id,5,0
-74,God's Island,God's Island,mh4g-dex-build7+mh4edit-mit-save-id,6,0
-75,Blitz Bowgun,Blitz Bowgun,mh4g-dex-build7+mh4edit-mit-save-id,4,0
-76,Blitz Kirin,Blitz Kirin,mh4g-dex-build7+mh4edit-mit-save-id,7,0
-77,Frigid Bowgun,Frigid Bowgun,mh4g-dex-build7+mh4edit-mit-save-id,6,0
-78,Frigid Kirin,Frigid Kirin,mh4g-dex-build7+mh4edit-mit-save-id,7,0
-79,Devil's Grin,Devil's Grin,mh4g-dex-build7+mh4edit-mit-save-id,4,0
-80,Devil's Madness,Devil's Madness,mh4g-dex-build7+mh4edit-mit-save-id,6,0
-81,"Diregun ""Dementia""","Diregun ""Dementia""",mh4g-dex-build7+mh4edit-mit-save-id,7,0
-82,Rajang Barrage,Rajang Barrage,mh4g-dex-build7+mh4edit-mit-save-id,6,0
-83,Ten Thousand Volts,Ten Thousand Volts,mh4g-dex-build7+mh4edit-mit-save-id,7,0
-84,Barro Barrel (red),Barro Barrel (red),mh4g-dex-build7+mh4edit-mit-save-id,0,1
-85,Barro Barrel (yellow),Barro Barrel (yellow),mh4g-dex-build7+mh4edit-mit-save-id,0,1
-86,Barro Barrel (green),Barro Barrel (green),mh4g-dex-build7+mh4edit-mit-save-id,0,1
-87,Barro Barrel (blue),Barro Barrel (blue),mh4g-dex-build7+mh4edit-mit-save-id,0,1
-88,Barro Barrel (purple),Barro Barrel (purple),mh4g-dex-build7+mh4edit-mit-save-id,0,1
-89,Thundercrack (red),Thundercrack (red),mh4edit-mit-save-id,0,1
-90,Thundercrack (yellow),Thundercrack (yellow),mh4edit-mit-save-id,0,1
-91,Thundercrack (green),Thundercrack (green),mh4edit-mit-save-id,0,1
-92,Thundercrack (blue),Thundercrack (blue),mh4edit-mit-save-id,0,1
-93,Thundercrack (purple),Thundercrack (purple),mh4edit-mit-save-id,0,1
-94,Burst Revolver,Burst Revolver,mh4g-dex-build7+mh4edit-mit-save-id,8,0
-95,Volarevolver,Volarevolver,mh4g-dex-build7+mh4edit-mit-save-id,9,0
-96,Searulean Firedance,Searulean Firedance,mh4g-dex-build7+mh4edit-mit-save-id,9,0
-97,Searulean Firebath,Searulean Firebath,mh4g-dex-build7+mh4edit-mit-save-id,9,0
-98,Mille Blossomayhem,Mille Blossomayhem,mh4g-dex-build7+mh4edit-mit-save-id,9,0
-99,Prosperity,Prosperity,mh4g-dex-build7+mh4edit-mit-save-id,10,0
-100,Merciless Rage,Merciless Rage,mh4g-dex-build7+mh4edit-mit-save-id,8,0
-101,Oppressor's Rift,Oppressor's Rift,mh4g-dex-build7+mh4edit-mit-save-id,9,0
-102,Orcus Barqus,Orcus Barqus,mh4g-dex-build7+mh4edit-mit-save-id,9,0
-103,Brimstren Drakevow+,Brimstren Drakevow+,mh4g-dex-build7+mh4edit-mit-save-id,9,0
-104,Stygian Invidia,Stygian Invidia,mh4g-dex-build7+mh4edit-mit-save-id,9,0
-105,Blue Shooter+,Blue Shooter+,mh4g-dex-build7+mh4edit-mit-save-id,8,0
-106,Blue Burst,Blue Burst,mh4g-dex-build7+mh4edit-mit-save-id,9,0
-107,Rouge Shooter+,Rouge Shooter+,mh4g-dex-build7+mh4edit-mit-save-id,8,0
-108,Rouge Burst,Rouge Burst,mh4g-dex-build7+mh4edit-mit-save-id,9,0
-109,Vert Shooter+,Vert Shooter+,mh4g-dex-build7+mh4edit-mit-save-id,8,0
-110,Machine Strafer,Machine Strafer,mh4g-dex-build7+mh4edit-mit-save-id,9,0
-111,Battalion Strafer,Battalion Strafer,mh4g-dex-build7+mh4edit-mit-save-id,9,0
-112,Precision Pusca,Precision Pusca,mh4g-dex-build7+mh4edit-mit-save-id,8,0
-113,Precision Punisher,Precision Punisher,mh4g-dex-build7+mh4edit-mit-save-id,9,0
-114,La Vertu,La Vertu,mh4g-dex-build7+mh4edit-mit-save-id,9,0
-115,L'Éden,L'Éden,mh4g-dex-build7+mh4edit-mit-save-id,10,0
-116,Fäulnis/Vertu,Fäulnis/Vertu,mh4g-dex-build7+mh4edit-mit-save-id,9,0
-117,Ballista Demolisher,Ballista Demolisher,mh4g-dex-build7+mh4edit-mit-save-id,8,0
-118,Ballista Demolisher+,Ballista Demolisher+,mh4g-dex-build7+mh4edit-mit-save-id,9,0
-119,Lightbreak Gun,Lightbreak Gun,mh4g-dex-build7+mh4edit-mit-save-id,10,0
-120,Blood Syringe,Blood Syringe,mh4g-dex-build7+mh4edit-mit-save-id,8,0
-121,Blood Injection,Blood Injection,mh4g-dex-build7+mh4edit-mit-save-id,9,0
-122,Kut-Ku Barrage+,Kut-Ku Barrage+,mh4g-dex-build7+mh4edit-mit-save-id,8,0
-123,Garuga Espringal,Garuga Espringal,mh4g-dex-build7+mh4edit-mit-save-id,9,0
-124,Maelstrom,Maelstrom,mh4g-dex-build7+mh4edit-mit-save-id,6,0
-125,Maelstrom+,Maelstrom+,mh4g-dex-build7+mh4edit-mit-save-id,8,0
-126,Plesioth Drencher,Plesioth Drencher,mh4g-dex-build7+mh4edit-mit-save-id,9,0
-127,Aurora Flare,Aurora Flare,mh4g-dex-build7+mh4edit-mit-save-id,6,0
-128,Glacialahti,Glacialahti,mh4g-dex-build7+mh4edit-mit-save-id,8,0
-129,Arctica Cannon,Arctica Cannon,mh4g-dex-build7+mh4edit-mit-save-id,9,0
-130,Neo Thundacrus,Neo Thundacrus,mh4g-dex-build7+mh4edit-mit-save-id,9,0
-131,Eclair Whitebolt,Eclair Whitebolt,mh4g-dex-build7+mh4edit-mit-save-id,9,0
-132,Nether Phloxion,Nether Phloxion,mh4g-dex-build7+mh4edit-mit-save-id,10,0
-133,Diamond Frost,Diamond Frost,mh4g-dex-build7+mh4edit-mit-save-id,8,0
-134,Diamond Crest,Diamond Crest,mh4g-dex-build7+mh4edit-mit-save-id,9,0
-135,Felyne Heavendoll,Felyne Heavendoll,mh4g-dex-build7+mh4edit-mit-save-id,9,0
-136,God's Archipelago,God's Archipelago,mh4g-dex-build7+mh4edit-mit-save-id,9,0
-137,Blitz Kirin King,Blitz Kirin King,mh4g-dex-build7+mh4edit-mit-save-id,10,0
-138,Frigid Kirin King,Frigid Kirin King,mh4g-dex-build7+mh4edit-mit-save-id,10,0
-139,"Doomgun ""Dementia""","Doomgun ""Dementia""",mh4g-dex-build7+mh4edit-mit-save-id,10,0
-140,Ten Million Volts,Ten Million Volts,mh4g-dex-build7+mh4edit-mit-save-id,9,0
-141,Demonlord Cannon,Demonlord Cannon,mh4g-dex-build7+mh4edit-mit-save-id,10,0
-142,Tigrex Tank,Tigrex Tank,mh4g-dex-build7+mh4edit-mit-save-id,9,0
-143,Tigrex Wargun,Tigrex Wargun,mh4g-dex-build7+mh4edit-mit-save-id,9,0
-144,Heavy Grisfire,Heavy Grisfire,mh4g-dex-build7+mh4edit-mit-save-id,10,0
-145,Zhen Angler,Zhen Angler,mh4g-dex-build7+mh4edit-mit-save-id,8,0
-146,Gobul Ganador,Gobul Ganador,mh4g-dex-build7+mh4edit-mit-save-id,9,0
-147,Icesteel Wasp,Icesteel Wasp,mh4g-dex-build7+mh4edit-mit-save-id,7,0
-148,Daora's Hornet,Daora's Hornet,mh4g-dex-build7+mh4edit-mit-save-id,10,0
-149,Eldaora's Hornet,Eldaora's Hornet,mh4g-dex-build7+mh4edit-mit-save-id,10,0
-150,Genie's Lamp,Genie's Lamp,mh4g-dex-build7+mh4edit-mit-save-id,10,0
-151,Ukanlos Flame Bow,Ukanlos Flame Bow,mh4g-dex-build7+mh4edit-mit-save-id,7,0
-152,Ukanlos Skylighter,Ukanlos Skylighter,mh4g-dex-build7+mh4edit-mit-save-id,9,0
-153,Penetrating Gaze,Penetrating Gaze,mh4g-dex-build7+mh4edit-mit-save-id,6,0
-154,Hayha Voidmaker,Hayha Voidmaker,mh4g-dex-build7+mh4edit-mit-save-id,7,0
-155,Krasnojarsk the Mad,Krasnojarsk the Mad,mh4g-dex-build7+mh4edit-mit-save-id,9,0
-156,Dalamadur Fire,Dalamadur Fire,mh4g-dex-build7+mh4edit-mit-save-id,10,0
-157,Buoyant Dalamadur,Buoyant Dalamadur,mh4g-dex-build7+mh4edit-mit-save-id,10,0
-158,Dark Parasol,Dark Parasol,mh4g-dex-build7+mh4edit-mit-save-id,10,0
-159,Dith Valor,Dith Valor,mh4g-dex-build7+mh4edit-mit-save-id,10,0
-160,Absolute Bowgun,Absolute Bowgun,mh4g-dex-build7+mh4edit-mit-save-id,10,0
-161,Rasasa Bowgun,Rasasa Bowgun,mh4g-dex-build7+mh4edit-mit-save-id,6,0
-162,Rasasa Bowgun+,Rasasa Bowgun+,mh4g-dex-build7+mh4edit-mit-save-id,7,0
-163,Seditious Shot,Seditious Shot,mh4g-dex-build7+mh4edit-mit-save-id,9,0
-164,Vayu Sedition,Vayu Sedition,mh4g-dex-build7+mh4edit-mit-save-id,10,0
-165,Bethorned Dystopia,Bethorned Dystopia,mh4g-dex-build7+mh4edit-mit-save-id,10,0
-166,Shakalaka Prized Bow,Shakalaka Prized Bow,mh4g-dex-build7+mh4edit-mit-save-id,8,0
-167,Hexed Shaka Bow,Hexed Shaka Bow,mh4g-dex-build7+mh4edit-mit-save-id,9,0
-168,Kettleblower,Kettleblower,mh4g-dex-build7+mh4edit-mit-save-id,4,0
-169,Kettleblower Deluxe,Kettleblower Deluxe,mh4g-dex-build7+mh4edit-mit-save-id,9,0
-170,Arm Cannon,Arm Cannon,mh4g-dex-build7+mh4edit-mit-save-id,10,0
-171,Frilly Pink Parasol,Frilly Pink Parasol,mh4g-dex-build7+mh4edit-mit-save-id,10,0
-172,DUMMY,DUMMY,mh4edit-mit-save-id,0,0
-173,Frilly Parasol (red),Frilly Parasol (red),mh4edit-mit-save-id,0,1
-174,Frilly Parasol (yellow),Frilly Parasol (yellow),mh4edit-mit-save-id,0,1
-175,Frilly Parasol (green),Frilly Parasol (green),mh4edit-mit-save-id,0,1
-176,Frilly Parasol (blue),Frilly Parasol (blue),mh4edit-mit-save-id,0,1
-177,Frilly Parasol (purple),Frilly Parasol (purple),mh4edit-mit-save-id,0,1
-178,Durambarrel (red),Durambarrel (red),mh4edit-mit-save-id,0,1
-179,Durambarrel (yellow),Durambarrel (yellow),mh4edit-mit-save-id,0,1
-180,Durambarrel (green),Durambarrel (green),mh4edit-mit-save-id,0,1
-181,Durambarrel (blue),Durambarrel (blue),mh4edit-mit-save-id,0,1
-182,Durambarrel (purple),Durambarrel (purple),mh4edit-mit-save-id,0,1
-183,Scatterfly Rack,Scatterfly Rack,mh4edit-mit-save-id,0,0
-184,Rebel Paradigm,Rebel Paradigm,mh4edit-mit-save-id,0,0
+0,None,None,mh4g-core-common-game-array,0,0
+1,Cross Bowgun,Cross Bowgun,mh4g-core-common-game-array+mh4g-dex-build7+mh4edit-mit-save-id,1,0
+2,Cross Bowgun+,Cross Bowgun+,mh4g-core-common-game-array+mh4g-dex-build7+mh4edit-mit-save-id,1,0
+3,Grenade Launcher,Grenade Launcher,mh4g-core-common-game-array+mh4g-dex-build7+mh4edit-mit-save-id,2,0
+4,Grenade Launcher+,Grenade Launcher+,mh4g-core-common-game-array+mh4g-dex-build7+mh4edit-mit-save-id,3,0
+5,Grenade Revolver,Grenade Revolver,mh4g-core-common-game-array+mh4g-dex-build7+mh4edit-mit-save-id,4,0
+6,Rathling Gun,Rathling Gun,mh4g-core-common-game-array+mh4g-dex-build7+mh4edit-mit-save-id,3,0
+7,Rathling Doombringer,Rathling Doombringer,mh4g-core-common-game-array+mh4g-dex-build7+mh4edit-mit-save-id,4,0
+8,Rathling Phoenix,Rathling Phoenix,mh4g-core-common-game-array+mh4g-dex-build7+mh4edit-mit-save-id,5,0
+9,Azurathling Skysear,Azurathling Skysear,mh4g-core-common-game-array+mh4g-dex-build7+mh4edit-mit-save-id,6,0
+10,Azurathling Sunsear,Azurathling Sunsear,mh4g-core-common-game-array+mh4g-dex-build7+mh4edit-mit-save-id,6,0
+11,Blossomayhem,Blossomayhem,mh4g-core-common-game-array+mh4g-dex-build7+mh4edit-mit-save-id,7,0
+12,Jaggid Fire,Jaggid Fire,mh4g-core-common-game-array+mh4g-dex-build7+mh4edit-mit-save-id,1,0
+13,Bandit Fire,Bandit Fire,mh4g-core-common-game-array+mh4g-dex-build7+mh4edit-mit-save-id,2,0
+14,Bandit's Rage,Bandit's Rage,mh4g-core-common-game-array+mh4g-dex-build7+mh4edit-mit-save-id,4,0
+15,Usurper's Crime,Usurper's Crime,mh4g-core-common-game-array+mh4g-dex-build7+mh4edit-mit-save-id,3,0
+16,Usurper's Crime+,Usurper's Crime+,mh4g-core-common-game-array+mh4g-dex-build7+mh4edit-mit-save-id,4,0
+17,Despot's Wildfire,Despot's Wildfire,mh4g-core-common-game-array+mh4g-dex-build7+mh4edit-mit-save-id,5,0
+18,Brimstren Drakekiss,Brimstren Drakekiss,mh4g-core-common-game-array+mh4g-dex-build7+mh4edit-mit-save-id,6,0
+19,Brimstren Drakevow,Brimstren Drakevow,mh4g-core-common-game-array+mh4g-dex-build7+mh4edit-mit-save-id,7,0
+20,Cross Blitz,Cross Blitz,mh4g-core-common-game-array+mh4g-dex-build7+mh4edit-mit-save-id,4,0
+21,Cross Blitzkrieg,Cross Blitzkrieg,mh4g-core-common-game-array+mh4g-dex-build7+mh4edit-mit-save-id,5,0
+22,Shotgun (Azure),Shotgun (Azure),mh4g-core-common-game-array+mh4g-dex-build7+mh4edit-mit-save-id,6,0
+23,Blue Shooter,Blue Shooter,mh4g-core-common-game-array+mh4g-dex-build7+mh4edit-mit-save-id,6,0
+24,Simple Shooter,Simple Shooter,mh4g-core-common-game-array+mh4g-dex-build7+mh4edit-mit-save-id,1,0
+25,Simple Shooter+,Simple Shooter+,mh4g-core-common-game-array+mh4g-dex-build7+mh4edit-mit-save-id,2,0
+26,Shotgun (Blood),Shotgun (Blood),mh4g-core-common-game-array+mh4g-dex-build7+mh4edit-mit-save-id,3,0
+27,Crimson Blade Shower,Crimson Blade Shower,mh4g-core-common-game-array+mh4g-dex-build7+mh4edit-mit-save-id,4,0
+28,Rouge Shooter,Rouge Shooter,mh4g-core-common-game-array+mh4g-dex-build7+mh4edit-mit-save-id,5,0
+29,Shotgun (Green),Shotgun (Green),mh4g-core-common-game-array+mh4g-dex-build7+mh4edit-mit-save-id,2,0
+30,Green Blade Shower,Green Blade Shower,mh4g-core-common-game-array+mh4g-dex-build7+mh4edit-mit-save-id,2,0
+31,Vert Shooter,Vert Shooter,mh4g-core-common-game-array+mh4g-dex-build7+mh4edit-mit-save-id,4,0
+32,Shell Shooter,Shell Shooter,mh4g-core-common-game-array+mh4g-dex-build7+mh4edit-mit-save-id,1,0
+33,Shell Gatling,Shell Gatling,mh4g-core-common-game-array+mh4g-dex-build7+mh4edit-mit-save-id,3,0
+34,Insect Vulcan,Insect Vulcan,mh4g-core-common-game-array+mh4g-dex-build7+mh4edit-mit-save-id,4,0
+35,Hornet's Nest,Hornet's Nest,mh4g-core-common-game-array+mh4g-dex-build7+mh4edit-mit-save-id,5,0
+36,Sawgun,Sawgun,mh4g-core-common-game-array+mh4g-dex-build7+mh4edit-mit-save-id,2,0
+37,Sawgun+,Sawgun+,mh4g-core-common-game-array+mh4g-dex-build7+mh4edit-mit-save-id,2,0
+38,Buzzawgun,Buzzawgun,mh4g-core-common-game-array+mh4g-dex-build7+mh4edit-mit-save-id,4,0
+39,Buzzawcannon,Buzzawcannon,mh4g-core-common-game-array+mh4g-dex-build7+mh4edit-mit-save-id,5,0
+40,Fäulnisschleuder,Fäulnisschleuder,mh4g-core-common-game-array+mh4g-dex-build7+mh4edit-mit-save-id,3,0
+41,Wahnschleuder,Wahnschleuder,mh4g-core-common-game-array+mh4g-dex-build7+mh4edit-mit-save-id,4,0
+42,Teufelsschleuder,Teufelsschleuder,mh4g-core-common-game-array+mh4g-dex-build7+mh4edit-mit-save-id,5,0
+43,La Lumière,La Lumière,mh4g-core-common-game-array+mh4g-dex-build7+mh4edit-mit-save-id,6,0
+44,Le Condamnateur,Le Condamnateur,mh4g-core-common-game-array+mh4g-dex-build7+mh4edit-mit-save-id,7,0
+45,Dios Blaster,Dios Blaster,mh4g-core-common-game-array+mh4g-dex-build7+mh4edit-mit-save-id,4,0
+46,Dios Blaster+,Dios Blaster+,mh4g-core-common-game-array+mh4g-dex-build7+mh4edit-mit-save-id,5,0
+47,Demolition Gun,Demolition Gun,mh4g-core-common-game-array+mh4g-dex-build7+mh4edit-mit-save-id,6,0
+48,Khezu Syringe,Khezu Syringe,mh4g-core-common-game-array+mh4g-dex-build7+mh4edit-mit-save-id,2,0
+49,Khezu Hypo,Khezu Hypo,mh4g-core-common-game-array+mh4g-dex-build7+mh4edit-mit-save-id,3,0
+50,Hyodermic Miracle,Hyodermic Miracle,mh4g-core-common-game-array+mh4g-dex-build7+mh4edit-mit-save-id,5,0
+51,Kut-Ku Anger,Kut-Ku Anger,mh4g-core-common-game-array+mh4g-dex-build7+mh4edit-mit-save-id,1,0
+52,Kut-Ku Anger+,Kut-Ku Anger+,mh4g-core-common-game-array+mh4g-dex-build7+mh4edit-mit-save-id,3,0
+53,Kut-Ku Counterattack,Kut-Ku Counterattack,mh4g-core-common-game-array+mh4g-dex-build7+mh4edit-mit-save-id,4,0
+54,Kut-Ku Rage,Kut-Ku Rage,mh4g-core-common-game-array+mh4g-dex-build7+mh4edit-mit-save-id,4,0
+55,Kut-Ku Barrage,Kut-Ku Barrage,mh4g-core-common-game-array+mh4g-dex-build7+mh4edit-mit-save-id,5,0
+56,Raven Do,Raven Do,mh4g-core-common-game-array+mh4g-dex-build7+mh4edit-mit-save-id,3,0
+57,Wolf Do,Wolf Do,mh4g-core-common-game-array+mh4g-dex-build7+mh4edit-mit-save-id,4,0
+58,Crow Do,Crow Do,mh4g-core-common-game-array+mh4g-dex-build7+mh4edit-mit-save-id,6,0
+59,Royal Launcher,Royal Launcher,mh4g-core-common-game-array+mh4g-dex-build7+mh4edit-mit-save-id,2,0
+60,Royal Torrent,Royal Torrent,mh4g-core-common-game-array+mh4g-dex-build7+mh4edit-mit-save-id,2,0
+61,Royal Inundation,Royal Inundation,mh4g-core-common-game-array+mh4g-dex-build7+mh4edit-mit-save-id,4,0
+62,Barro Barrel,Barro Barrel,mh4g-core-common-game-array+mh4g-dex-build7+mh4edit-mit-save-id,2,0
+63,Barro Barrel+,Barro Barrel+,mh4g-core-common-game-array+mh4g-dex-build7+mh4edit-mit-save-id,3,0
+64,Barrozooka,Barrozooka,mh4g-core-common-game-array+mh4g-dex-build7+mh4edit-mit-save-id,5,0
+65,Thundacrus,Thundacrus,mh4g-core-common-game-array+mh4g-dex-build7+mh4edit-mit-save-id,6,0
+66,Thundacrus Rex,Thundacrus Rex,mh4g-core-common-game-array+mh4g-dex-build7+mh4edit-mit-save-id,7,0
+67,Blizzard Cannon,Blizzard Cannon,mh4g-core-common-game-array+mh4g-dex-build7+mh4edit-mit-save-id,5,0
+68,Tabula Blizzara,Tabula Blizzara,mh4g-core-common-game-array+mh4g-dex-build7+mh4edit-mit-save-id,6,0
+69,Felyne Helldoll,Felyne Helldoll,mh4g-core-common-game-array+mh4g-dex-build7+mh4edit-mit-save-id,5,0
+70,Black Parasol,Black Parasol,mh4g-core-common-game-array+mh4g-dex-build7+mh4edit-mit-save-id,7,0
+71,Demon's Isle,Demon's Isle,mh4g-core-common-game-array+mh4g-dex-build7+mh4edit-mit-save-id,2,0
+72,Demon's Island,Demon's Island,mh4g-core-common-game-array+mh4g-dex-build7+mh4edit-mit-save-id,5,0
+73,God's Isle,God's Isle,mh4g-core-common-game-array+mh4g-dex-build7+mh4edit-mit-save-id,5,0
+74,God's Island,God's Island,mh4g-core-common-game-array+mh4g-dex-build7+mh4edit-mit-save-id,6,0
+75,Blitz Bowgun,Blitz Bowgun,mh4g-core-common-game-array+mh4g-dex-build7+mh4edit-mit-save-id,4,0
+76,Blitz Kirin,Blitz Kirin,mh4g-core-common-game-array+mh4g-dex-build7+mh4edit-mit-save-id,7,0
+77,Frigid Bowgun,Frigid Bowgun,mh4g-core-common-game-array+mh4g-dex-build7+mh4edit-mit-save-id,6,0
+78,Frigid Kirin,Frigid Kirin,mh4g-core-common-game-array+mh4g-dex-build7+mh4edit-mit-save-id,7,0
+79,Devil's Grin,Devil's Grin,mh4g-core-common-game-array+mh4g-dex-build7+mh4edit-mit-save-id,4,0
+80,Devil's Madness,Devil's Madness,mh4g-core-common-game-array+mh4g-dex-build7+mh4edit-mit-save-id,6,0
+81,"Diregun ""Dementia""","Diregun ""Dementia""",mh4g-core-common-game-array+mh4g-dex-build7+mh4edit-mit-save-id,7,0
+82,Rajang Barrage,Rajang Barrage,mh4g-core-common-game-array+mh4g-dex-build7+mh4edit-mit-save-id,6,0
+83,Ten Thousand Volts,Ten Thousand Volts,mh4g-core-common-game-array+mh4g-dex-build7+mh4edit-mit-save-id,7,0
+84,Barro Barrel (red),Barro Barrel (red),mh4g-core-common-game-array+mh4g-dex-build7+mh4edit-mit-save-id,0,1
+85,Barro Barrel (yellow),Barro Barrel (yellow),mh4g-core-common-game-array+mh4g-dex-build7+mh4edit-mit-save-id,0,1
+86,Barro Barrel (green),Barro Barrel (green),mh4g-core-common-game-array+mh4g-dex-build7+mh4edit-mit-save-id,0,1
+87,Barro Barrel (blue),Barro Barrel (blue),mh4g-core-common-game-array+mh4g-dex-build7+mh4edit-mit-save-id,0,1
+88,Barro Barrel (purple),Barro Barrel (purple),mh4g-core-common-game-array+mh4g-dex-build7+mh4edit-mit-save-id,0,1
+89,Thundercrack (red),Thundercrack (red),mh4g-core-common-game-array+mh4edit-mit-save-id,0,1
+90,Thundercrack (yellow),Thundercrack (yellow),mh4g-core-common-game-array+mh4edit-mit-save-id,0,1
+91,Thundercrack (green),Thundercrack (green),mh4g-core-common-game-array+mh4edit-mit-save-id,0,1
+92,Thundercrack (blue),Thundercrack (blue),mh4g-core-common-game-array+mh4edit-mit-save-id,0,1
+93,Thundercrack (purple),Thundercrack (purple),mh4g-core-common-game-array+mh4edit-mit-save-id,0,1
+94,Burst Revolver,Burst Revolver,mh4g-core-common-game-array+mh4g-dex-build7+mh4edit-mit-save-id,8,0
+95,Volarevolver,Volarevolver,mh4g-core-common-game-array+mh4g-dex-build7+mh4edit-mit-save-id,9,0
+96,Searulean Firedance,Searulean Firedance,mh4g-core-common-game-array+mh4g-dex-build7+mh4edit-mit-save-id,9,0
+97,Searulean Firebath,Searulean Firebath,mh4g-core-common-game-array+mh4g-dex-build7+mh4edit-mit-save-id,9,0
+98,Mille Blossomayhem,Mille Blossomayhem,mh4g-core-common-game-array+mh4g-dex-build7+mh4edit-mit-save-id,9,0
+99,Prosperity,Prosperity,mh4g-core-common-game-array+mh4g-dex-build7+mh4edit-mit-save-id,10,0
+100,Merciless Rage,Merciless Rage,mh4g-core-common-game-array+mh4g-dex-build7+mh4edit-mit-save-id,8,0
+101,Oppressor's Rift,Oppressor's Rift,mh4g-core-common-game-array+mh4g-dex-build7+mh4edit-mit-save-id,9,0
+102,Orcus Barqus,Orcus Barqus,mh4g-core-common-game-array+mh4g-dex-build7+mh4edit-mit-save-id,9,0
+103,Brimstren Drakevow+,Brimstren Drakevow+,mh4g-core-common-game-array+mh4g-dex-build7+mh4edit-mit-save-id,9,0
+104,Stygian Invidia,Stygian Invidia,mh4g-core-common-game-array+mh4g-dex-build7+mh4edit-mit-save-id,9,0
+105,Blue Shooter+,Blue Shooter+,mh4g-core-common-game-array+mh4g-dex-build7+mh4edit-mit-save-id,8,0
+106,Blue Burst,Blue Burst,mh4g-core-common-game-array+mh4g-dex-build7+mh4edit-mit-save-id,9,0
+107,Rouge Shooter+,Rouge Shooter+,mh4g-core-common-game-array+mh4g-dex-build7+mh4edit-mit-save-id,8,0
+108,Rouge Burst,Rouge Burst,mh4g-core-common-game-array+mh4g-dex-build7+mh4edit-mit-save-id,9,0
+109,Vert Shooter+,Vert Shooter+,mh4g-core-common-game-array+mh4g-dex-build7+mh4edit-mit-save-id,8,0
+110,Machine Strafer,Machine Strafer,mh4g-core-common-game-array+mh4g-dex-build7+mh4edit-mit-save-id,9,0
+111,Battalion Strafer,Battalion Strafer,mh4g-core-common-game-array+mh4g-dex-build7+mh4edit-mit-save-id,9,0
+112,Precision Pusca,Precision Pusca,mh4g-core-common-game-array+mh4g-dex-build7+mh4edit-mit-save-id,8,0
+113,Precision Punisher,Precision Punisher,mh4g-core-common-game-array+mh4g-dex-build7+mh4edit-mit-save-id,9,0
+114,La Vertu,La Vertu,mh4g-core-common-game-array+mh4g-dex-build7+mh4edit-mit-save-id,9,0
+115,L'Éden,L'Éden,mh4g-core-common-game-array+mh4g-dex-build7+mh4edit-mit-save-id,10,0
+116,Fäulnis/Vertu,Fäulnis/Vertu,mh4g-core-common-game-array+mh4g-dex-build7+mh4edit-mit-save-id,9,0
+117,Ballista Demolisher,Ballista Demolisher,mh4g-core-common-game-array+mh4g-dex-build7+mh4edit-mit-save-id,8,0
+118,Ballista Demolisher+,Ballista Demolisher+,mh4g-core-common-game-array+mh4g-dex-build7+mh4edit-mit-save-id,9,0
+119,Lightbreak Gun,Lightbreak Gun,mh4g-core-common-game-array+mh4g-dex-build7+mh4edit-mit-save-id,10,0
+120,Blood Syringe,Blood Syringe,mh4g-core-common-game-array+mh4g-dex-build7+mh4edit-mit-save-id,8,0
+121,Blood Injection,Blood Injection,mh4g-core-common-game-array+mh4g-dex-build7+mh4edit-mit-save-id,9,0
+122,Kut-Ku Barrage+,Kut-Ku Barrage+,mh4g-core-common-game-array+mh4g-dex-build7+mh4edit-mit-save-id,8,0
+123,Garuga Espringal,Garuga Espringal,mh4g-core-common-game-array+mh4g-dex-build7+mh4edit-mit-save-id,9,0
+124,Maelstrom,Maelstrom,mh4g-core-common-game-array+mh4g-dex-build7+mh4edit-mit-save-id,6,0
+125,Maelstrom+,Maelstrom+,mh4g-core-common-game-array+mh4g-dex-build7+mh4edit-mit-save-id,8,0
+126,Plesioth Drencher,Plesioth Drencher,mh4g-core-common-game-array+mh4g-dex-build7+mh4edit-mit-save-id,9,0
+127,Aurora Flare,Aurora Flare,mh4g-core-common-game-array+mh4g-dex-build7+mh4edit-mit-save-id,6,0
+128,Glacialahti,Glacialahti,mh4g-core-common-game-array+mh4g-dex-build7+mh4edit-mit-save-id,8,0
+129,Arctica Cannon,Arctica Cannon,mh4g-core-common-game-array+mh4g-dex-build7+mh4edit-mit-save-id,9,0
+130,Neo Thundacrus,Neo Thundacrus,mh4g-core-common-game-array+mh4g-dex-build7+mh4edit-mit-save-id,9,0
+131,Eclair Whitebolt,Eclair Whitebolt,mh4g-core-common-game-array+mh4g-dex-build7+mh4edit-mit-save-id,9,0
+132,Nether Phloxion,Nether Phloxion,mh4g-core-common-game-array+mh4g-dex-build7+mh4edit-mit-save-id,10,0
+133,Diamond Frost,Diamond Frost,mh4g-core-common-game-array+mh4g-dex-build7+mh4edit-mit-save-id,8,0
+134,Diamond Crest,Diamond Crest,mh4g-core-common-game-array+mh4g-dex-build7+mh4edit-mit-save-id,9,0
+135,Felyne Heavendoll,Felyne Heavendoll,mh4g-core-common-game-array+mh4g-dex-build7+mh4edit-mit-save-id,9,0
+136,God's Archipelago,God's Archipelago,mh4g-core-common-game-array+mh4g-dex-build7+mh4edit-mit-save-id,9,0
+137,Blitz Kirin King,Blitz Kirin King,mh4g-core-common-game-array+mh4g-dex-build7+mh4edit-mit-save-id,10,0
+138,Frigid Kirin King,Frigid Kirin King,mh4g-core-common-game-array+mh4g-dex-build7+mh4edit-mit-save-id,10,0
+139,"Doomgun ""Dementia""","Doomgun ""Dementia""",mh4g-core-common-game-array+mh4g-dex-build7+mh4edit-mit-save-id,10,0
+140,Ten Million Volts,Ten Million Volts,mh4g-core-common-game-array+mh4g-dex-build7+mh4edit-mit-save-id,9,0
+141,Demonlord Cannon,Demonlord Cannon,mh4g-core-common-game-array+mh4g-dex-build7+mh4edit-mit-save-id,10,0
+142,Tigrex Tank,Tigrex Tank,mh4g-core-common-game-array+mh4g-dex-build7+mh4edit-mit-save-id,9,0
+143,Tigrex Wargun,Tigrex Wargun,mh4g-core-common-game-array+mh4g-dex-build7+mh4edit-mit-save-id,9,0
+144,Heavy Grisfire,Heavy Grisfire,mh4g-core-common-game-array+mh4g-dex-build7+mh4edit-mit-save-id,10,0
+145,Zhen Angler,Zhen Angler,mh4g-core-common-game-array+mh4g-dex-build7+mh4edit-mit-save-id,8,0
+146,Gobul Ganador,Gobul Ganador,mh4g-core-common-game-array+mh4g-dex-build7+mh4edit-mit-save-id,9,0
+147,Icesteel Wasp,Icesteel Wasp,mh4g-core-common-game-array+mh4g-dex-build7+mh4edit-mit-save-id,7,0
+148,Daora's Hornet,Daora's Hornet,mh4g-core-common-game-array+mh4g-dex-build7+mh4edit-mit-save-id,10,0
+149,Eldaora's Hornet,Eldaora's Hornet,mh4g-core-common-game-array+mh4g-dex-build7+mh4edit-mit-save-id,10,0
+150,Genie's Lamp,Genie's Lamp,mh4g-core-common-game-array+mh4g-dex-build7+mh4edit-mit-save-id,10,0
+151,Ukanlos Flame Bow,Ukanlos Flame Bow,mh4g-core-common-game-array+mh4g-dex-build7+mh4edit-mit-save-id,7,0
+152,Ukanlos Skylighter,Ukanlos Skylighter,mh4g-core-common-game-array+mh4g-dex-build7+mh4edit-mit-save-id,9,0
+153,Penetrating Gaze,Penetrating Gaze,mh4g-core-common-game-array+mh4g-dex-build7+mh4edit-mit-save-id,6,0
+154,Hayha Voidmaker,Hayha Voidmaker,mh4g-core-common-game-array+mh4g-dex-build7+mh4edit-mit-save-id,7,0
+155,Krasnojarsk the Mad,Krasnojarsk the Mad,mh4g-core-common-game-array+mh4g-dex-build7+mh4edit-mit-save-id,9,0
+156,Dalamadur Fire,Dalamadur Fire,mh4g-core-common-game-array+mh4g-dex-build7+mh4edit-mit-save-id,10,0
+157,Buoyant Dalamadur,Buoyant Dalamadur,mh4g-core-common-game-array+mh4g-dex-build7+mh4edit-mit-save-id,10,0
+158,Dark Parasol,Dark Parasol,mh4g-core-common-game-array+mh4g-dex-build7+mh4edit-mit-save-id,10,0
+159,Dith Valor,Dith Valor,mh4g-core-common-game-array+mh4g-dex-build7+mh4edit-mit-save-id,10,0
+160,Absolute Bowgun,Absolute Bowgun,mh4g-core-common-game-array+mh4g-dex-build7+mh4edit-mit-save-id,10,0
+161,Rasasa Bowgun,Rasasa Bowgun,mh4g-core-common-game-array+mh4g-dex-build7+mh4edit-mit-save-id,6,0
+162,Rasasa Bowgun+,Rasasa Bowgun+,mh4g-core-common-game-array+mh4g-dex-build7+mh4edit-mit-save-id,7,0
+163,Seditious Shot,Seditious Shot,mh4g-core-common-game-array+mh4g-dex-build7+mh4edit-mit-save-id,9,0
+164,Vayu Sedition,Vayu Sedition,mh4g-core-common-game-array+mh4g-dex-build7+mh4edit-mit-save-id,10,0
+165,Bethorned Dystopia,Bethorned Dystopia,mh4g-core-common-game-array+mh4g-dex-build7+mh4edit-mit-save-id,10,0
+166,Shakalaka Prized Bow,Shakalaka Prized Bow,mh4g-core-common-game-array+mh4g-dex-build7+mh4edit-mit-save-id,8,0
+167,Hexed Shaka Bow,Hexed Shaka Bow,mh4g-core-common-game-array+mh4g-dex-build7+mh4edit-mit-save-id,9,0
+168,Kettleblower,Kettleblower,mh4g-core-common-game-array+mh4g-dex-build7+mh4edit-mit-save-id,4,0
+169,Kettleblower Deluxe,Kettleblower Deluxe,mh4g-core-common-game-array+mh4g-dex-build7+mh4edit-mit-save-id,9,0
+170,Arm Cannon,Arm Cannon,mh4g-core-common-game-array+mh4g-dex-build7+mh4edit-mit-save-id,10,0
+171,Frilly Pink Parasol,Frilly Pink Parasol,mh4g-core-common-game-array+mh4g-dex-build7+mh4edit-mit-save-id,10,0
+172,DUMMY,DUMMY,mh4g-core-common-game-array+mh4edit-mit-save-id,0,0
+173,Frilly Parasol (red),Frilly Parasol (red),mh4g-core-common-game-array+mh4edit-mit-save-id,0,1
+174,Frilly Parasol (yellow),Frilly Parasol (yellow),mh4g-core-common-game-array+mh4edit-mit-save-id,0,1
+175,Frilly Parasol (green),Frilly Parasol (green),mh4g-core-common-game-array+mh4edit-mit-save-id,0,1
+176,Frilly Parasol (blue),Frilly Parasol (blue),mh4g-core-common-game-array+mh4edit-mit-save-id,0,1
+177,Frilly Parasol (purple),Frilly Parasol (purple),mh4g-core-common-game-array+mh4edit-mit-save-id,0,1
+178,Durambarrel (red),Durambarrel (red),mh4g-core-common-game-array+mh4edit-mit-save-id,0,1
+179,Durambarrel (yellow),Durambarrel (yellow),mh4g-core-common-game-array+mh4edit-mit-save-id,0,1
+180,Durambarrel (green),Durambarrel (green),mh4g-core-common-game-array+mh4edit-mit-save-id,0,1
+181,Durambarrel (blue),Durambarrel (blue),mh4g-core-common-game-array+mh4edit-mit-save-id,0,1
+182,Durambarrel (purple),Durambarrel (purple),mh4g-core-common-game-array+mh4edit-mit-save-id,0,1
+183,Scatterfly Rack,Scatterfly Rack,mh4g-core-common-game-array+mh4edit-mit-save-id,0,0
+184,Rebel Paradigm,Rebel Paradigm,mh4g-core-common-game-array+mh4edit-mit-save-id,0,0

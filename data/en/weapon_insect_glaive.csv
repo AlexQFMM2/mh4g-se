@@ -1,161 +1,161 @@
 id,name,english,source,rarity,is_relic
-0,None,None,mh4g-save-format,0,0
-1,Bone Staff,Bone Staff,mh4g-dex-build7+mh4edit-mit-save-id,1,0
-2,Bone Staff+,Bone Staff+,mh4g-dex-build7+mh4edit-mit-save-id,2,0
-3,Bone Glaive,Bone Glaive,mh4g-dex-build7+mh4edit-mit-save-id,3,0
-4,Bone Glaive+,Bone Glaive+,mh4g-dex-build7+mh4edit-mit-save-id,4,0
-5,Aerial Glaive,Aerial Glaive,mh4g-dex-build7+mh4edit-mit-save-id,6,0
-6,Sturdy Glaive,Sturdy Glaive,mh4g-dex-build7+mh4edit-mit-save-id,4,0
-7,Sturdy Glaive+,Sturdy Glaive+,mh4g-dex-build7+mh4edit-mit-save-id,5,0
-8,Sturdy Glaive Redux,Sturdy Glaive Redux,mh4g-dex-build7+mh4edit-mit-save-id,7,0
-9,Stealth Glaive,Stealth Glaive,mh4g-dex-build7+mh4edit-mit-save-id,2,0
-10,Stealth Glaive+,Stealth Glaive+,mh4g-dex-build7+mh4edit-mit-save-id,4,0
-11,Stealth Glaive Redux,Stealth Glaive Redux,mh4g-dex-build7+mh4edit-mit-save-id,4,0
-12,Shadow Walker,Shadow Walker,mh4g-dex-build7+mh4edit-mit-save-id,6,0
-13,Assault Glaive,Assault Glaive,mh4g-dex-build7+mh4edit-mit-save-id,4,0
-14,Assault Glaive+,Assault Glaive+,mh4g-dex-build7+mh4edit-mit-save-id,4,0
-15,Forewalker,Forewalker,mh4g-dex-build7+mh4edit-mit-save-id,7,0
-16,Leumundslist,Leumundslist,mh4g-dex-build7+mh4edit-mit-save-id,3,0
-17,Leumundsgift,Leumundsgift,mh4g-dex-build7+mh4edit-mit-save-id,4,0
-18,Leumundsbruch,Leumundsbruch,mh4g-dex-build7+mh4edit-mit-save-id,5,0
-19,Le Traqueur,Le Traqueur,mh4g-dex-build7+mh4edit-mit-save-id,7,0
-20,Indigo Flash,Indigo Flash,mh4g-dex-build7+mh4edit-mit-save-id,4,0
-21,Azure Bolt,Azure Bolt,mh4g-dex-build7+mh4edit-mit-save-id,5,0
-22,Verdant Levin,Verdant Levin,mh4g-dex-build7+mh4edit-mit-save-id,7,0
-23,Violindigo Hail,Violindigo Hail,mh4g-dex-build7+mh4edit-mit-save-id,6,0
-24,Violazure Sleet,Violazure Sleet,mh4g-dex-build7+mh4edit-mit-save-id,6,0
-25,Violverdant Glaze,Violverdant Glaze,mh4g-dex-build7+mh4edit-mit-save-id,7,0
-26,Heaven's Rath Glaive,Heaven's Rath Glaive,mh4g-dex-build7+mh4edit-mit-save-id,6,0
-27,Rathful Blaze Glaive,Rathful Blaze Glaive,mh4g-dex-build7+mh4edit-mit-save-id,6,0
-28,Unprecedented Rath,Unprecedented Rath,mh4g-dex-build7+mh4edit-mit-save-id,7,0
-29,Metal Mauler,Metal Mauler,mh4g-dex-build7+mh4edit-mit-save-id,6,0
-30,Metal Mauler+,Metal Mauler+,mh4g-dex-build7+mh4edit-mit-save-id,6,0
-31,Metalmangler,Metalmangler,mh4g-dex-build7+mh4edit-mit-save-id,7,0
-32,Direspike Display,Direspike Display,mh4g-dex-build7+mh4edit-mit-save-id,6,0
-33,Direspike Display+,Direspike Display+,mh4g-dex-build7+mh4edit-mit-save-id,6,0
-34,The Harmonious Stave,The Harmonious Stave,mh4g-dex-build7+mh4edit-mit-save-id,7,0
-35,Fatalis Glaive,Fatalis Glaive,mh4g-dex-build7+mh4edit-mit-save-id,7,0
-36,Fatalis Glaive+,Fatalis Glaive+,mh4g-dex-build7+mh4edit-mit-save-id,7,0
-37,Fatalis Fate,Fatalis Fate,mh4g-dex-build7+mh4edit-mit-save-id,7,0
-38,dummy38,dummy38,mh4edit-mit-save-id,0,0
-39,Sky-high Glaive,Sky-high Glaive,mh4g-dex-build7+mh4edit-mit-save-id,8,0
-40,Highest of Glaives,Highest of Glaives,mh4g-dex-build7+mh4edit-mit-save-id,9,0
-41,Deep Blue Glaive,Deep Blue Glaive,mh4g-dex-build7+mh4edit-mit-save-id,8,0
-42,Midnight Glaive,Midnight Glaive,mh4g-dex-build7+mh4edit-mit-save-id,8,0
-43,Mind Stick,Mind Stick,mh4g-dex-build7+mh4edit-mit-save-id,4,0
-44,"Mind Stick ""Stone""","Mind Stick ""Stone""",mh4g-dex-build7+mh4edit-mit-save-id,5,0
-45,"Mind Stick ""Rock""","Mind Stick ""Rock""",mh4g-dex-build7+mh4edit-mit-save-id,8,0
-46,"Mind Stick ""Mount""","Mind Stick ""Mount""",mh4g-dex-build7+mh4edit-mit-save-id,9,0
-47,"Mind Stick ""Wizard""","Mind Stick ""Wizard""",mh4g-dex-build7+mh4edit-mit-save-id,9,0
-48,"Mind Stick ""Wonder""","Mind Stick ""Wonder""",mh4g-dex-build7+mh4edit-mit-save-id,8,0
-49,"Mind Stick ""Demon""","Mind Stick ""Demon""",mh4g-dex-build7+mh4edit-mit-save-id,8,0
-50,"Mind Stick ""Fiend""","Mind Stick ""Fiend""",mh4g-dex-build7+mh4edit-mit-save-id,9,0
-51,Shell Intoner,Shell Intoner,mh4g-dex-build7+mh4edit-mit-save-id,4,0
-52,Shell Intoner+,Shell Intoner+,mh4g-dex-build7+mh4edit-mit-save-id,5,0
-53,Crab Intoner,Crab Intoner,mh4g-dex-build7+mh4edit-mit-save-id,8,0
-54,Purple Intoner,Purple Intoner,mh4g-dex-build7+mh4edit-mit-save-id,8,0
-55,Hermit Scissors,Hermit Scissors,mh4g-dex-build7+mh4edit-mit-save-id,9,0
-56,Spirit Eater,Spirit Eater,mh4g-dex-build7+mh4edit-mit-save-id,9,0
-57,Reaper's Stroke,Reaper's Stroke,mh4g-dex-build7+mh4edit-mit-save-id,9,0
-58,Silent Eye,Silent Eye,mh4g-dex-build7+mh4edit-mit-save-id,9,0
-59,Silent Eye+,Silent Eye+,mh4g-dex-build7+mh4edit-mit-save-id,9,0
-60,Nightmare,Nightmare,mh4g-dex-build7+mh4edit-mit-save-id,9,0
-61,Needle Ivy,Needle Ivy,mh4g-dex-build7+mh4edit-mit-save-id,5,0
-62,Needle Ivy+,Needle Ivy+,mh4g-dex-build7+mh4edit-mit-save-id,5,0
-63,Needle Vine,Needle Vine,mh4g-dex-build7+mh4edit-mit-save-id,8,0
-64,Paralyzing Vine,Paralyzing Vine,mh4g-dex-build7+mh4edit-mit-save-id,9,0
-65,Medusa,Medusa,mh4g-dex-build7+mh4edit-mit-save-id,8,0
-66,Medusa+,Medusa+,mh4g-dex-build7+mh4edit-mit-save-id,9,0
-67,Medusa Mirror,Medusa Mirror,mh4g-dex-build7+mh4edit-mit-save-id,9,0
-68,Névé Rod,Névé Rod,mh4g-dex-build7+mh4edit-mit-save-id,5,0
-69,Névé Rod+,Névé Rod+,mh4g-dex-build7+mh4edit-mit-save-id,5,0
-70,Névé Frost,Névé Frost,mh4g-dex-build7+mh4edit-mit-save-id,8,0
-71,Fimbulvetr,Fimbulvetr,mh4g-dex-build7+mh4edit-mit-save-id,9,0
-72,Sand Fauchard,Sand Fauchard,mh4g-dex-build7+mh4edit-mit-save-id,8,0
-73,Sand Fauchard+,Sand Fauchard+,mh4g-dex-build7+mh4edit-mit-save-id,9,0
-74,Iörovellir,Iörovellir,mh4g-dex-build7+mh4edit-mit-save-id,9,0
-75,Sect Happa,Sect Happa,mh4g-dex-build7+mh4edit-mit-save-id,5,0
-76,Sect Happa+,Sect Happa+,mh4g-dex-build7+mh4edit-mit-save-id,5,0
-77,Trim Happa,Trim Happa,mh4g-dex-build7+mh4edit-mit-save-id,9,0
-78,Cannibal Happa,Cannibal Happa,mh4g-dex-build7+mh4edit-mit-save-id,9,0
-79,Diablos Rod,Diablos Rod,mh4g-dex-build7+mh4edit-mit-save-id,9,0
-80,Diablos Rod+,Diablos Rod+,mh4g-dex-build7+mh4edit-mit-save-id,9,0
-81,Tyrant Rod,Tyrant Rod,mh4g-dex-build7+mh4edit-mit-save-id,9,0
-82,Thanatos Rod,Thanatos Rod,mh4g-dex-build7+mh4edit-mit-save-id,9,0
-83,Thanatos Rod+,Thanatos Rod+,mh4g-dex-build7+mh4edit-mit-save-id,9,0
-84,Anubis,Anubis,mh4g-dex-build7+mh4edit-mit-save-id,9,0
-85,La Merveille,La Merveille,mh4g-dex-build7+mh4edit-mit-save-id,9,0
-86,Le Miracle,Le Miracle,mh4g-dex-build7+mh4edit-mit-save-id,10,0
-87,List/Confiance,List/Confiance,mh4g-dex-build7+mh4edit-mit-save-id,9,0
-88,Bruch/Logique,Bruch/Logique,mh4g-dex-build7+mh4edit-mit-save-id,9,0
-89,Wehmut/Merveille,Wehmut/Merveille,mh4g-dex-build7+mh4edit-mit-save-id,9,0
-90,Boltbrute,Boltbrute,mh4g-dex-build7+mh4edit-mit-save-id,8,0
-91,King Boltbrute,King Boltbrute,mh4g-dex-build7+mh4edit-mit-save-id,9,0
-92,Emperor Boltbrute,Emperor Boltbrute,mh4g-dex-build7+mh4edit-mit-save-id,10,0
-93,Icephantom,Icephantom,mh4g-dex-build7+mh4edit-mit-save-id,10,0
-94,Propagation,Propagation,mh4g-dex-build7+mh4edit-mit-save-id,9,0
-95,Blossomajesty,Blossomajesty,mh4g-dex-build7+mh4edit-mit-save-id,10,0
-96,Universus,Universus,mh4g-dex-build7+mh4edit-mit-save-id,10,0
-97,Metalmangler+,Metalmangler+,mh4g-dex-build7+mh4edit-mit-save-id,9,0
-98,Demonlord Cudgel,Demonlord Cudgel,mh4g-dex-build7+mh4edit-mit-save-id,9,0
-99,Demonlord Grudgel,Demonlord Grudgel,mh4g-dex-build7+mh4edit-mit-save-id,10,0
-100,Self-possession,Self-possession,mh4g-dex-build7+mh4edit-mit-save-id,9,0
-101,Dalamadur Scepter,Dalamadur Scepter,mh4g-dex-build7+mh4edit-mit-save-id,10,0
-102,Bounding Dalamadur,Bounding Dalamadur,mh4g-dex-build7+mh4edit-mit-save-id,10,0
-103,Dios Rod,Dios Rod,mh4g-dex-build7+mh4edit-mit-save-id,6,0
-104,Demolition Press,Demolition Press,mh4g-dex-build7+mh4edit-mit-save-id,8,0
-105,Quantum Demolisher,Quantum Demolisher,mh4g-dex-build7+mh4edit-mit-save-id,9,0
-106,Lightbreak Press,Lightbreak Press,mh4g-dex-build7+mh4edit-mit-save-id,10,0
-107,Ukanlos Staff,Ukanlos Staff,mh4g-dex-build7+mh4edit-mit-save-id,7,0
-108,Ukanlos Staff+,Ukanlos Staff+,mh4g-dex-build7+mh4edit-mit-save-id,9,0
-109,Ukanlos Skytraveler,Ukanlos Skytraveler,mh4g-dex-build7+mh4edit-mit-save-id,10,0
-110,Daora's Entom,Daora's Entom,mh4g-dex-build7+mh4edit-mit-save-id,7,0
-111,Daora's Tethidine,Daora's Tethidine,mh4g-dex-build7+mh4edit-mit-save-id,10,0
-112,Daora's Samudra,Daora's Samudra,mh4g-dex-build7+mh4edit-mit-save-id,10,0
-113,Eldaora's Entom,Eldaora's Entom,mh4g-dex-build7+mh4edit-mit-save-id,10,0
-114,Eldaora's Tethidine,Eldaora's Tethidine,mh4g-dex-build7+mh4edit-mit-save-id,10,0
-115,Eldaora's Samudra,Eldaora's Samudra,mh4g-dex-build7+mh4edit-mit-save-id,10,0
-116,Caster's Rod,Caster's Rod,mh4g-dex-build7+mh4edit-mit-save-id,10,0
-117,Caster's Rod+,Caster's Rod+,mh4g-dex-build7+mh4edit-mit-save-id,10,0
-118,Hazy Caster,Hazy Caster,mh4g-dex-build7+mh4edit-mit-save-id,10,0
-119,True Fatalis Dyaus,True Fatalis Dyaus,mh4g-dex-build7+mh4edit-mit-save-id,10,0
-120,Hellruin Glaive,Hellruin Glaive,mh4g-dex-build7+mh4edit-mit-save-id,10,0
-121,"Hellruin Glaive ""Gift""","Hellruin Glaive ""Gift""",mh4g-dex-build7+mh4edit-mit-save-id,10,0
-122,"Hellruin Glaive ""Omen""","Hellruin Glaive ""Omen""",mh4g-dex-build7+mh4edit-mit-save-id,10,0
-123,Fatalis Soldier,Fatalis Soldier,mh4g-dex-build7+mh4edit-mit-save-id,10,0
-124,Fatalis Enforcer,Fatalis Enforcer,mh4g-dex-build7+mh4edit-mit-save-id,10,0
-125,Fatalis Overlord,Fatalis Overlord,mh4g-dex-build7+mh4edit-mit-save-id,10,0
-126,Altair,Altair,mh4g-dex-build7+mh4edit-mit-save-id,6,0
-127,Altair+,Altair+,mh4g-dex-build7+mh4edit-mit-save-id,7,0
-128,Seditious Breaker,Seditious Breaker,mh4g-dex-build7+mh4edit-mit-save-id,9,0
-129,Lana Sedition,Lana Sedition,mh4g-dex-build7+mh4edit-mit-save-id,10,0
-130,Messenger's Mark,Messenger's Mark,mh4g-dex-build7+mh4edit-mit-save-id,10,0
-131,Luminary's Mark,Luminary's Mark,mh4g-dex-build7+mh4edit-mit-save-id,10,0
-132,Limbo Lacrimosa,Limbo Lacrimosa,mh4g-dex-build7+mh4edit-mit-save-id,10,0
-133,Clockwork,Clockwork,mh4g-dex-build7+mh4edit-mit-save-id,5,0
-134,dummy134,dummy134,mh4edit-mit-save-id,0,0
-135,dummy135,dummy135,mh4edit-mit-save-id,0,0
-136,dummy136,dummy136,mh4edit-mit-save-id,0,0
-137,dummy137,dummy137,mh4edit-mit-save-id,0,0
-138,Bone Staff (red),Bone Staff (red),mh4g-dex-build7+mh4edit-mit-save-id,0,1
-139,Bone Staff (yellow),Bone Staff (yellow),mh4g-dex-build7+mh4edit-mit-save-id,0,1
-140,Bone Staff (green),Bone Staff (green),mh4g-dex-build7+mh4edit-mit-save-id,0,1
-141,Bone Staff (blue),Bone Staff (blue),mh4g-dex-build7+mh4edit-mit-save-id,0,1
-142,Bone Staff (purple),Bone Staff (purple),mh4g-dex-build7+mh4edit-mit-save-id,0,1
-143,Metal Mauler (red),Metal Mauler (red),mh4g-dex-build7+mh4edit-mit-save-id,0,1
-144,Metal Mauler (yellow),Metal Mauler (yellow),mh4g-dex-build7+mh4edit-mit-save-id,0,1
-145,Metal Mauler (green),Metal Mauler (green),mh4g-dex-build7+mh4edit-mit-save-id,0,1
-146,Metal Mauler (blue),Metal Mauler (blue),mh4g-dex-build7+mh4edit-mit-save-id,0,1
-147,Metal Mauler (purple),Metal Mauler (purple),mh4g-dex-build7+mh4edit-mit-save-id,0,1
-148,Leumundslist (red),Leumundslist (red),mh4g-dex-build7+mh4edit-mit-save-id,0,1
-149,Leumundslist (yellow),Leumundslist (yellow),mh4g-dex-build7+mh4edit-mit-save-id,0,1
-150,Leumundslist (green),Leumundslist (green),mh4g-dex-build7+mh4edit-mit-save-id,0,1
-151,Leumundslist (blue),Leumundslist (blue),mh4g-dex-build7+mh4edit-mit-save-id,0,1
-152,Leumundslist (purple),Leumundslist (purple),mh4g-dex-build7+mh4edit-mit-save-id,0,1
-153,Sect Happa (red),Sect Happa (red),mh4g-dex-build7+mh4edit-mit-save-id,0,1
-154,Sect Happa (yellow),Sect Happa (yellow),mh4g-dex-build7+mh4edit-mit-save-id,0,1
-155,Sect Happa (green),Sect Happa (green),mh4g-dex-build7+mh4edit-mit-save-id,0,1
-156,Sect Happa (blue),Sect Happa (blue),mh4g-dex-build7+mh4edit-mit-save-id,0,1
-157,Sect Happa (purple),Sect Happa (purple),mh4g-dex-build7+mh4edit-mit-save-id,0,1
-158,Dancing Mad,Dancing Mad,mh4edit-mit-save-id,0,0
-159,Hades Shinerod,Hades Shinerod,mh4edit-mit-save-id,0,0
+0,None,None,mh4g-core-common-game-array,0,0
+1,Bone Staff,Bone Staff,mh4g-core-common-game-array+mh4g-dex-build7+mh4edit-mit-save-id,1,0
+2,Bone Staff+,Bone Staff+,mh4g-core-common-game-array+mh4g-dex-build7+mh4edit-mit-save-id,2,0
+3,Bone Glaive,Bone Glaive,mh4g-core-common-game-array+mh4g-dex-build7+mh4edit-mit-save-id,3,0
+4,Bone Glaive+,Bone Glaive+,mh4g-core-common-game-array+mh4g-dex-build7+mh4edit-mit-save-id,4,0
+5,Aerial Glaive,Aerial Glaive,mh4g-core-common-game-array+mh4g-dex-build7+mh4edit-mit-save-id,6,0
+6,Sturdy Glaive,Sturdy Glaive,mh4g-core-common-game-array+mh4g-dex-build7+mh4edit-mit-save-id,4,0
+7,Sturdy Glaive+,Sturdy Glaive+,mh4g-core-common-game-array+mh4g-dex-build7+mh4edit-mit-save-id,5,0
+8,Sturdy Glaive Redux,Sturdy Glaive Redux,mh4g-core-common-game-array+mh4g-dex-build7+mh4edit-mit-save-id,7,0
+9,Stealth Glaive,Stealth Glaive,mh4g-core-common-game-array+mh4g-dex-build7+mh4edit-mit-save-id,2,0
+10,Stealth Glaive+,Stealth Glaive+,mh4g-core-common-game-array+mh4g-dex-build7+mh4edit-mit-save-id,4,0
+11,Stealth Glaive Redux,Stealth Glaive Redux,mh4g-core-common-game-array+mh4g-dex-build7+mh4edit-mit-save-id,4,0
+12,Shadow Walker,Shadow Walker,mh4g-core-common-game-array+mh4g-dex-build7+mh4edit-mit-save-id,6,0
+13,Assault Glaive,Assault Glaive,mh4g-core-common-game-array+mh4g-dex-build7+mh4edit-mit-save-id,4,0
+14,Assault Glaive+,Assault Glaive+,mh4g-core-common-game-array+mh4g-dex-build7+mh4edit-mit-save-id,4,0
+15,Forewalker,Forewalker,mh4g-core-common-game-array+mh4g-dex-build7+mh4edit-mit-save-id,7,0
+16,Leumundslist,Leumundslist,mh4g-core-common-game-array+mh4g-dex-build7+mh4edit-mit-save-id,3,0
+17,Leumundsgift,Leumundsgift,mh4g-core-common-game-array+mh4g-dex-build7+mh4edit-mit-save-id,4,0
+18,Leumundsbruch,Leumundsbruch,mh4g-core-common-game-array+mh4g-dex-build7+mh4edit-mit-save-id,5,0
+19,Le Traqueur,Le Traqueur,mh4g-core-common-game-array+mh4g-dex-build7+mh4edit-mit-save-id,7,0
+20,Indigo Flash,Indigo Flash,mh4g-core-common-game-array+mh4g-dex-build7+mh4edit-mit-save-id,4,0
+21,Azure Bolt,Azure Bolt,mh4g-core-common-game-array+mh4g-dex-build7+mh4edit-mit-save-id,5,0
+22,Verdant Levin,Verdant Levin,mh4g-core-common-game-array+mh4g-dex-build7+mh4edit-mit-save-id,7,0
+23,Violindigo Hail,Violindigo Hail,mh4g-core-common-game-array+mh4g-dex-build7+mh4edit-mit-save-id,6,0
+24,Violazure Sleet,Violazure Sleet,mh4g-core-common-game-array+mh4g-dex-build7+mh4edit-mit-save-id,6,0
+25,Violverdant Glaze,Violverdant Glaze,mh4g-core-common-game-array+mh4g-dex-build7+mh4edit-mit-save-id,7,0
+26,Heaven's Rath Glaive,Heaven's Rath Glaive,mh4g-core-common-game-array+mh4g-dex-build7+mh4edit-mit-save-id,6,0
+27,Rathful Blaze Glaive,Rathful Blaze Glaive,mh4g-core-common-game-array+mh4g-dex-build7+mh4edit-mit-save-id,6,0
+28,Unprecedented Rath,Unprecedented Rath,mh4g-core-common-game-array+mh4g-dex-build7+mh4edit-mit-save-id,7,0
+29,Metal Mauler,Metal Mauler,mh4g-core-common-game-array+mh4g-dex-build7+mh4edit-mit-save-id,6,0
+30,Metal Mauler+,Metal Mauler+,mh4g-core-common-game-array+mh4g-dex-build7+mh4edit-mit-save-id,6,0
+31,Metalmangler,Metalmangler,mh4g-core-common-game-array+mh4g-dex-build7+mh4edit-mit-save-id,7,0
+32,Direspike Display,Direspike Display,mh4g-core-common-game-array+mh4g-dex-build7+mh4edit-mit-save-id,6,0
+33,Direspike Display+,Direspike Display+,mh4g-core-common-game-array+mh4g-dex-build7+mh4edit-mit-save-id,6,0
+34,The Harmonious Stave,The Harmonious Stave,mh4g-core-common-game-array+mh4g-dex-build7+mh4edit-mit-save-id,7,0
+35,Fatalis Glaive,Fatalis Glaive,mh4g-core-common-game-array+mh4g-dex-build7+mh4edit-mit-save-id,7,0
+36,Fatalis Glaive+,Fatalis Glaive+,mh4g-core-common-game-array+mh4g-dex-build7+mh4edit-mit-save-id,7,0
+37,Fatalis Fate,Fatalis Fate,mh4g-core-common-game-array+mh4g-dex-build7+mh4edit-mit-save-id,7,0
+38,dummy38,dummy38,mh4g-core-common-game-array+mh4edit-mit-save-id,0,0
+39,Sky-high Glaive,Sky-high Glaive,mh4g-core-common-game-array+mh4g-dex-build7+mh4edit-mit-save-id,8,0
+40,Highest of Glaives,Highest of Glaives,mh4g-core-common-game-array+mh4g-dex-build7+mh4edit-mit-save-id,9,0
+41,Deep Blue Glaive,Deep Blue Glaive,mh4g-core-common-game-array+mh4g-dex-build7+mh4edit-mit-save-id,8,0
+42,Midnight Glaive,Midnight Glaive,mh4g-core-common-game-array+mh4g-dex-build7+mh4edit-mit-save-id,8,0
+43,Mind Stick,Mind Stick,mh4g-core-common-game-array+mh4g-dex-build7+mh4edit-mit-save-id,4,0
+44,"Mind Stick ""Stone""","Mind Stick ""Stone""",mh4g-core-common-game-array+mh4g-dex-build7+mh4edit-mit-save-id,5,0
+45,"Mind Stick ""Rock""","Mind Stick ""Rock""",mh4g-core-common-game-array+mh4g-dex-build7+mh4edit-mit-save-id,8,0
+46,"Mind Stick ""Mount""","Mind Stick ""Mount""",mh4g-core-common-game-array+mh4g-dex-build7+mh4edit-mit-save-id,9,0
+47,"Mind Stick ""Wizard""","Mind Stick ""Wizard""",mh4g-core-common-game-array+mh4g-dex-build7+mh4edit-mit-save-id,9,0
+48,"Mind Stick ""Wonder""","Mind Stick ""Wonder""",mh4g-core-common-game-array+mh4g-dex-build7+mh4edit-mit-save-id,8,0
+49,"Mind Stick ""Demon""","Mind Stick ""Demon""",mh4g-core-common-game-array+mh4g-dex-build7+mh4edit-mit-save-id,8,0
+50,"Mind Stick ""Fiend""","Mind Stick ""Fiend""",mh4g-core-common-game-array+mh4g-dex-build7+mh4edit-mit-save-id,9,0
+51,Shell Intoner,Shell Intoner,mh4g-core-common-game-array+mh4g-dex-build7+mh4edit-mit-save-id,4,0
+52,Shell Intoner+,Shell Intoner+,mh4g-core-common-game-array+mh4g-dex-build7+mh4edit-mit-save-id,5,0
+53,Crab Intoner,Crab Intoner,mh4g-core-common-game-array+mh4g-dex-build7+mh4edit-mit-save-id,8,0
+54,Purple Intoner,Purple Intoner,mh4g-core-common-game-array+mh4g-dex-build7+mh4edit-mit-save-id,8,0
+55,Hermit Scissors,Hermit Scissors,mh4g-core-common-game-array+mh4g-dex-build7+mh4edit-mit-save-id,9,0
+56,Spirit Eater,Spirit Eater,mh4g-core-common-game-array+mh4g-dex-build7+mh4edit-mit-save-id,9,0
+57,Reaper's Stroke,Reaper's Stroke,mh4g-core-common-game-array+mh4g-dex-build7+mh4edit-mit-save-id,9,0
+58,Silent Eye,Silent Eye,mh4g-core-common-game-array+mh4g-dex-build7+mh4edit-mit-save-id,9,0
+59,Silent Eye+,Silent Eye+,mh4g-core-common-game-array+mh4g-dex-build7+mh4edit-mit-save-id,9,0
+60,Nightmare,Nightmare,mh4g-core-common-game-array+mh4g-dex-build7+mh4edit-mit-save-id,9,0
+61,Needle Ivy,Needle Ivy,mh4g-core-common-game-array+mh4g-dex-build7+mh4edit-mit-save-id,5,0
+62,Needle Ivy+,Needle Ivy+,mh4g-core-common-game-array+mh4g-dex-build7+mh4edit-mit-save-id,5,0
+63,Needle Vine,Needle Vine,mh4g-core-common-game-array+mh4g-dex-build7+mh4edit-mit-save-id,8,0
+64,Paralyzing Vine,Paralyzing Vine,mh4g-core-common-game-array+mh4g-dex-build7+mh4edit-mit-save-id,9,0
+65,Medusa,Medusa,mh4g-core-common-game-array+mh4g-dex-build7+mh4edit-mit-save-id,8,0
+66,Medusa+,Medusa+,mh4g-core-common-game-array+mh4g-dex-build7+mh4edit-mit-save-id,9,0
+67,Medusa Mirror,Medusa Mirror,mh4g-core-common-game-array+mh4g-dex-build7+mh4edit-mit-save-id,9,0
+68,Névé Rod,Névé Rod,mh4g-core-common-game-array+mh4g-dex-build7+mh4edit-mit-save-id,5,0
+69,Névé Rod+,Névé Rod+,mh4g-core-common-game-array+mh4g-dex-build7+mh4edit-mit-save-id,5,0
+70,Névé Frost,Névé Frost,mh4g-core-common-game-array+mh4g-dex-build7+mh4edit-mit-save-id,8,0
+71,Fimbulvetr,Fimbulvetr,mh4g-core-common-game-array+mh4g-dex-build7+mh4edit-mit-save-id,9,0
+72,Sand Fauchard,Sand Fauchard,mh4g-core-common-game-array+mh4g-dex-build7+mh4edit-mit-save-id,8,0
+73,Sand Fauchard+,Sand Fauchard+,mh4g-core-common-game-array+mh4g-dex-build7+mh4edit-mit-save-id,9,0
+74,Iörovellir,Iörovellir,mh4g-core-common-game-array+mh4g-dex-build7+mh4edit-mit-save-id,9,0
+75,Sect Happa,Sect Happa,mh4g-core-common-game-array+mh4g-dex-build7+mh4edit-mit-save-id,5,0
+76,Sect Happa+,Sect Happa+,mh4g-core-common-game-array+mh4g-dex-build7+mh4edit-mit-save-id,5,0
+77,Trim Happa,Trim Happa,mh4g-core-common-game-array+mh4g-dex-build7+mh4edit-mit-save-id,9,0
+78,Cannibal Happa,Cannibal Happa,mh4g-core-common-game-array+mh4g-dex-build7+mh4edit-mit-save-id,9,0
+79,Diablos Rod,Diablos Rod,mh4g-core-common-game-array+mh4g-dex-build7+mh4edit-mit-save-id,9,0
+80,Diablos Rod+,Diablos Rod+,mh4g-core-common-game-array+mh4g-dex-build7+mh4edit-mit-save-id,9,0
+81,Tyrant Rod,Tyrant Rod,mh4g-core-common-game-array+mh4g-dex-build7+mh4edit-mit-save-id,9,0
+82,Thanatos Rod,Thanatos Rod,mh4g-core-common-game-array+mh4g-dex-build7+mh4edit-mit-save-id,9,0
+83,Thanatos Rod+,Thanatos Rod+,mh4g-core-common-game-array+mh4g-dex-build7+mh4edit-mit-save-id,9,0
+84,Anubis,Anubis,mh4g-core-common-game-array+mh4g-dex-build7+mh4edit-mit-save-id,9,0
+85,La Merveille,La Merveille,mh4g-core-common-game-array+mh4g-dex-build7+mh4edit-mit-save-id,9,0
+86,Le Miracle,Le Miracle,mh4g-core-common-game-array+mh4g-dex-build7+mh4edit-mit-save-id,10,0
+87,List/Confiance,List/Confiance,mh4g-core-common-game-array+mh4g-dex-build7+mh4edit-mit-save-id,9,0
+88,Bruch/Logique,Bruch/Logique,mh4g-core-common-game-array+mh4g-dex-build7+mh4edit-mit-save-id,9,0
+89,Wehmut/Merveille,Wehmut/Merveille,mh4g-core-common-game-array+mh4g-dex-build7+mh4edit-mit-save-id,9,0
+90,Boltbrute,Boltbrute,mh4g-core-common-game-array+mh4g-dex-build7+mh4edit-mit-save-id,8,0
+91,King Boltbrute,King Boltbrute,mh4g-core-common-game-array+mh4g-dex-build7+mh4edit-mit-save-id,9,0
+92,Emperor Boltbrute,Emperor Boltbrute,mh4g-core-common-game-array+mh4g-dex-build7+mh4edit-mit-save-id,10,0
+93,Icephantom,Icephantom,mh4g-core-common-game-array+mh4g-dex-build7+mh4edit-mit-save-id,10,0
+94,Propagation,Propagation,mh4g-core-common-game-array+mh4g-dex-build7+mh4edit-mit-save-id,9,0
+95,Blossomajesty,Blossomajesty,mh4g-core-common-game-array+mh4g-dex-build7+mh4edit-mit-save-id,10,0
+96,Universus,Universus,mh4g-core-common-game-array+mh4g-dex-build7+mh4edit-mit-save-id,10,0
+97,Metalmangler+,Metalmangler+,mh4g-core-common-game-array+mh4g-dex-build7+mh4edit-mit-save-id,9,0
+98,Demonlord Cudgel,Demonlord Cudgel,mh4g-core-common-game-array+mh4g-dex-build7+mh4edit-mit-save-id,9,0
+99,Demonlord Grudgel,Demonlord Grudgel,mh4g-core-common-game-array+mh4g-dex-build7+mh4edit-mit-save-id,10,0
+100,Self-possession,Self-possession,mh4g-core-common-game-array+mh4g-dex-build7+mh4edit-mit-save-id,9,0
+101,Dalamadur Scepter,Dalamadur Scepter,mh4g-core-common-game-array+mh4g-dex-build7+mh4edit-mit-save-id,10,0
+102,Bounding Dalamadur,Bounding Dalamadur,mh4g-core-common-game-array+mh4g-dex-build7+mh4edit-mit-save-id,10,0
+103,Dios Rod,Dios Rod,mh4g-core-common-game-array+mh4g-dex-build7+mh4edit-mit-save-id,6,0
+104,Demolition Press,Demolition Press,mh4g-core-common-game-array+mh4g-dex-build7+mh4edit-mit-save-id,8,0
+105,Quantum Demolisher,Quantum Demolisher,mh4g-core-common-game-array+mh4g-dex-build7+mh4edit-mit-save-id,9,0
+106,Lightbreak Press,Lightbreak Press,mh4g-core-common-game-array+mh4g-dex-build7+mh4edit-mit-save-id,10,0
+107,Ukanlos Staff,Ukanlos Staff,mh4g-core-common-game-array+mh4g-dex-build7+mh4edit-mit-save-id,7,0
+108,Ukanlos Staff+,Ukanlos Staff+,mh4g-core-common-game-array+mh4g-dex-build7+mh4edit-mit-save-id,9,0
+109,Ukanlos Skytraveler,Ukanlos Skytraveler,mh4g-core-common-game-array+mh4g-dex-build7+mh4edit-mit-save-id,10,0
+110,Daora's Entom,Daora's Entom,mh4g-core-common-game-array+mh4g-dex-build7+mh4edit-mit-save-id,7,0
+111,Daora's Tethidine,Daora's Tethidine,mh4g-core-common-game-array+mh4g-dex-build7+mh4edit-mit-save-id,10,0
+112,Daora's Samudra,Daora's Samudra,mh4g-core-common-game-array+mh4g-dex-build7+mh4edit-mit-save-id,10,0
+113,Eldaora's Entom,Eldaora's Entom,mh4g-core-common-game-array+mh4g-dex-build7+mh4edit-mit-save-id,10,0
+114,Eldaora's Tethidine,Eldaora's Tethidine,mh4g-core-common-game-array+mh4g-dex-build7+mh4edit-mit-save-id,10,0
+115,Eldaora's Samudra,Eldaora's Samudra,mh4g-core-common-game-array+mh4g-dex-build7+mh4edit-mit-save-id,10,0
+116,Caster's Rod,Caster's Rod,mh4g-core-common-game-array+mh4g-dex-build7+mh4edit-mit-save-id,10,0
+117,Caster's Rod+,Caster's Rod+,mh4g-core-common-game-array+mh4g-dex-build7+mh4edit-mit-save-id,10,0
+118,Hazy Caster,Hazy Caster,mh4g-core-common-game-array+mh4g-dex-build7+mh4edit-mit-save-id,10,0
+119,True Fatalis Dyaus,True Fatalis Dyaus,mh4g-core-common-game-array+mh4g-dex-build7+mh4edit-mit-save-id,10,0
+120,Hellruin Glaive,Hellruin Glaive,mh4g-core-common-game-array+mh4g-dex-build7+mh4edit-mit-save-id,10,0
+121,"Hellruin Glaive ""Gift""","Hellruin Glaive ""Gift""",mh4g-core-common-game-array+mh4g-dex-build7+mh4edit-mit-save-id,10,0
+122,"Hellruin Glaive ""Omen""","Hellruin Glaive ""Omen""",mh4g-core-common-game-array+mh4g-dex-build7+mh4edit-mit-save-id,10,0
+123,Fatalis Soldier,Fatalis Soldier,mh4g-core-common-game-array+mh4g-dex-build7+mh4edit-mit-save-id,10,0
+124,Fatalis Enforcer,Fatalis Enforcer,mh4g-core-common-game-array+mh4g-dex-build7+mh4edit-mit-save-id,10,0
+125,Fatalis Overlord,Fatalis Overlord,mh4g-core-common-game-array+mh4g-dex-build7+mh4edit-mit-save-id,10,0
+126,Altair,Altair,mh4g-core-common-game-array+mh4g-dex-build7+mh4edit-mit-save-id,6,0
+127,Altair+,Altair+,mh4g-core-common-game-array+mh4g-dex-build7+mh4edit-mit-save-id,7,0
+128,Seditious Breaker,Seditious Breaker,mh4g-core-common-game-array+mh4g-dex-build7+mh4edit-mit-save-id,9,0
+129,Lana Sedition,Lana Sedition,mh4g-core-common-game-array+mh4g-dex-build7+mh4edit-mit-save-id,10,0
+130,Messenger's Mark,Messenger's Mark,mh4g-core-common-game-array+mh4g-dex-build7+mh4edit-mit-save-id,10,0
+131,Luminary's Mark,Luminary's Mark,mh4g-core-common-game-array+mh4g-dex-build7+mh4edit-mit-save-id,10,0
+132,Limbo Lacrimosa,Limbo Lacrimosa,mh4g-core-common-game-array+mh4g-dex-build7+mh4edit-mit-save-id,10,0
+133,Clockwork,Clockwork,mh4g-core-common-game-array+mh4g-dex-build7+mh4edit-mit-save-id,5,0
+134,dummy134,dummy134,mh4g-core-common-game-array+mh4edit-mit-save-id,0,0
+135,dummy135,dummy135,mh4g-core-common-game-array+mh4edit-mit-save-id,0,0
+136,dummy136,dummy136,mh4g-core-common-game-array+mh4edit-mit-save-id,0,0
+137,dummy137,dummy137,mh4g-core-common-game-array+mh4edit-mit-save-id,0,0
+138,Bone Staff (red),Bone Staff (red),mh4g-core-common-game-array+mh4g-dex-build7+mh4edit-mit-save-id,0,1
+139,Bone Staff (yellow),Bone Staff (yellow),mh4g-core-common-game-array+mh4g-dex-build7+mh4edit-mit-save-id,0,1
+140,Bone Staff (green),Bone Staff (green),mh4g-core-common-game-array+mh4g-dex-build7+mh4edit-mit-save-id,0,1
+141,Bone Staff (blue),Bone Staff (blue),mh4g-core-common-game-array+mh4g-dex-build7+mh4edit-mit-save-id,0,1
+142,Bone Staff (purple),Bone Staff (purple),mh4g-core-common-game-array+mh4g-dex-build7+mh4edit-mit-save-id,0,1
+143,Metal Mauler (red),Metal Mauler (red),mh4g-core-common-game-array+mh4g-dex-build7+mh4edit-mit-save-id,0,1
+144,Metal Mauler (yellow),Metal Mauler (yellow),mh4g-core-common-game-array+mh4g-dex-build7+mh4edit-mit-save-id,0,1
+145,Metal Mauler (green),Metal Mauler (green),mh4g-core-common-game-array+mh4g-dex-build7+mh4edit-mit-save-id,0,1
+146,Metal Mauler (blue),Metal Mauler (blue),mh4g-core-common-game-array+mh4g-dex-build7+mh4edit-mit-save-id,0,1
+147,Metal Mauler (purple),Metal Mauler (purple),mh4g-core-common-game-array+mh4g-dex-build7+mh4edit-mit-save-id,0,1
+148,Leumundslist (red),Leumundslist (red),mh4g-core-common-game-array+mh4g-dex-build7+mh4edit-mit-save-id,0,1
+149,Leumundslist (yellow),Leumundslist (yellow),mh4g-core-common-game-array+mh4g-dex-build7+mh4edit-mit-save-id,0,1
+150,Leumundslist (green),Leumundslist (green),mh4g-core-common-game-array+mh4g-dex-build7+mh4edit-mit-save-id,0,1
+151,Leumundslist (blue),Leumundslist (blue),mh4g-core-common-game-array+mh4g-dex-build7+mh4edit-mit-save-id,0,1
+152,Leumundslist (purple),Leumundslist (purple),mh4g-core-common-game-array+mh4g-dex-build7+mh4edit-mit-save-id,0,1
+153,Sect Happa (red),Sect Happa (red),mh4g-core-common-game-array+mh4g-dex-build7+mh4edit-mit-save-id,0,1
+154,Sect Happa (yellow),Sect Happa (yellow),mh4g-core-common-game-array+mh4g-dex-build7+mh4edit-mit-save-id,0,1
+155,Sect Happa (green),Sect Happa (green),mh4g-core-common-game-array+mh4g-dex-build7+mh4edit-mit-save-id,0,1
+156,Sect Happa (blue),Sect Happa (blue),mh4g-core-common-game-array+mh4g-dex-build7+mh4edit-mit-save-id,0,1
+157,Sect Happa (purple),Sect Happa (purple),mh4g-core-common-game-array+mh4g-dex-build7+mh4edit-mit-save-id,0,1
+158,Dancing Mad,Dancing Mad,mh4g-core-common-game-array+mh4edit-mit-save-id,0,0
+159,Hades Shinerod,Hades Shinerod,mh4g-core-common-game-array+mh4edit-mit-save-id,0,0

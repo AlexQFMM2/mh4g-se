@@ -1,199 +1,199 @@
 id,name,english,source,rarity,is_relic
-0,无,None,mh4g-save-format,0,0
-1,骨斧,Bone Axe,mh4g-dex-build7+mh4edit-mit-save-id,1,0
-2,骨斧改,Bone Axe+,mh4g-dex-build7+mh4edit-mit-save-id,1,0
-3,骨头粉碎者,Bone Smasher,mh4g-dex-build7+mh4edit-mit-save-id,1,0
-4,全力大斧,Power Gasher,mh4g-dex-build7+mh4edit-mit-save-id,2,0
-5,强硬大斧,Massive Gasher,mh4g-dex-build7+mh4edit-mit-save-id,2,0
-6,极限大斧,Maximal Gasher,mh4g-dex-build7+mh4edit-mit-save-id,3,0
-7,精锐讨伐队剑斧,Elite Switch Axe,mh4g-dex-build7+mh4edit-mit-save-id,4,0
-8,精锐讨伐队剑斧改,Elite Switch Axe+,mh4g-dex-build7+mh4edit-mit-save-id,5,0
-9,利刃大斧,Czar Switch Axe,mh4g-dex-build7+mh4edit-mit-save-id,6,0
-10,琥珀冲击,Amber Slash,mh4g-dex-build7+mh4edit-mit-save-id,5,0
-11,血腥疾风冰封,Galefrost,mh4g-dex-build7+mh4edit-mit-save-id,6,0
-12,火龙勇气,Rath Flame Splitter,mh4g-dex-build7+mh4edit-mit-save-id,3,0
-13,炎龙勇气,Rath Blaze Splitter,mh4g-dex-build7+mh4edit-mit-save-id,5,0
-14,炎斧里奥布雷亚德,Rathsplicer,mh4g-dex-build7+mh4edit-mit-save-id,7,0
-15,龙姬剑斧,Dragonmaiden Axe,mh4g-dex-build7+mh4edit-mit-save-id,2,0
-16,龙姬剑斧改,Dragonmaiden Axe+,mh4g-dex-build7+mh4edit-mit-save-id,3,0
-17,大地女王,Gríðr's Landmaker,mh4g-dex-build7+mh4edit-mit-save-id,5,0
-18,樱剑苍斧,Azure Rose,mh4g-dex-build7+mh4edit-mit-save-id,6,0
-19,奇形斧,Vavoom Axe,mh4g-dex-build7+mh4edit-mit-save-id,2,0
-20,奇形斧改,Vavoom Axe+,mh4g-dex-build7+mh4edit-mit-save-id,2,0
-21,奇形钉爪,Vavoom Verdict,mh4g-dex-build7+mh4edit-mit-save-id,3,0
-22,奇形战斧,Vavoom Vengeance,mh4g-dex-build7+mh4edit-mit-save-id,4,0
-23,奇形神牙,Vavoom Vindication,mh4g-dex-build7+mh4edit-mit-save-id,5,0
-24,王剑斧雷电,Usurper's Downpour,mh4g-dex-build7+mh4edit-mit-save-id,3,0
-25,王牙剑斧【裂雷】,Despot's Cloudburst,mh4g-dex-build7+mh4edit-mit-save-id,5,0
-26,狱剑斧龙牙,Brimstren Drakefang,mh4g-dex-build7+mh4edit-mit-save-id,6,0
-27,雷剑斧电压,Volt Axe,mh4g-dex-build7+mh4edit-mit-save-id,6,0
-28,极北寒斧,Notched Doom,mh4g-dex-build7+mh4edit-mit-save-id,2,0
-29,极北寒斧改,Notched Doom+,mh4g-dex-build7+mh4edit-mit-save-id,4,0
-30,极北寒鲨,Notched Tyrant,mh4g-dex-build7+mh4edit-mit-save-id,5,0
-31,极北死鲨,Notched Oppressor,mh4g-dex-build7+mh4edit-mit-save-id,6,0
-32,迪欧斯之斧,Dios Axe,mh4g-dex-build7+mh4edit-mit-save-id,4,0
-33,迪欧斯之斧改,Dios Axe+,mh4g-dex-build7+mh4edit-mit-save-id,5,0
-34,爆碎之剑斧,Demolition Axe,mh4g-dex-build7+mh4edit-mit-save-id,6,0
-35,蛮族剑斧,Barbarian Axe,mh4g-dex-build7+mh4edit-mit-save-id,1,0
-36,蛮勇剑斧,Bold Barbarian Axe,mh4g-dex-build7+mh4edit-mit-save-id,2,0
-37,蛮勇剑斧【无赖】,Barbarian Outcast,mh4g-dex-build7+mh4edit-mit-save-id,4,0
-38,彩鸟剑斧,Pecospander,mh4g-dex-build7+mh4edit-mit-save-id,2,0
-39,彩鸟剑斧改,Pecospander+,mh4g-dex-build7+mh4edit-mit-save-id,2,0
-40,大彩鸟剑斧,Qurupexspander,mh4g-dex-build7+mh4edit-mit-save-id,4,0
-41,野斧,Wild Axe,mh4g-dex-build7+mh4edit-mit-save-id,1,0
-42,野斧改,Wild Axe+,mh4g-dex-build7+mh4edit-mit-save-id,2,0
-43,大地冲击,Ground Dasher,mh4g-dex-build7+mh4edit-mit-save-id,2,0
-44,轰龙斩斧,Rex Slasher,mh4g-dex-build7+mh4edit-mit-save-id,3,0
-45,轰龙大斩斧,Rex Gnasher,mh4g-dex-build7+mh4edit-mit-save-id,5,0
-46,暴君斩斧,Accursed Switcher,mh4g-dex-build7+mh4edit-mit-save-id,6,0
-47,冲斧【虎威】,Sheltered Graveaxe,mh4g-dex-build7+mh4edit-mit-save-id,7,0
-48,心愿of躯壳,Eisenleib,mh4g-dex-build7+mh4edit-mit-save-id,3,0
-49,心愿of精神,Eisengeist,mh4g-dex-build7+mh4edit-mit-save-id,4,0
-50,心愿of灵魂,Eisenherz,mh4g-dex-build7+mh4edit-mit-save-id,5,0
-51,THE执行者,La Guillotine,mh4g-dex-build7+mh4edit-mit-save-id,7,0
-52,突击斧,Assault Axe,mh4g-dex-build7+mh4edit-mit-save-id,2,0
-53,土砂破坏者,Blitzkrieg,mh4g-dex-build7+mh4edit-mit-save-id,3,0
-54,赤甲滚动者,Binding Roller,mh4g-dex-build7+mh4edit-mit-save-id,5,0
-55,赤色战斧,Vermilingua,mh4g-dex-build7+mh4edit-mit-save-id,6,0
-56,惊叫之斧,Flickaxe,mh4g-dex-build7+mh4edit-mit-save-id,2,0
-57,惊叫之斧改,Flickaxe+,mh4g-dex-build7+mh4edit-mit-save-id,3,0
-58,惊叫战斧,Flicker Axe,mh4g-dex-build7+mh4edit-mit-save-id,5,0
-59,战栗战斧,Paraflick Axe,mh4g-dex-build7+mh4edit-mit-save-id,6,0
-60,Ｇ・大海龙剑斧,Great Inceadeus,mh4g-dex-build7+mh4edit-mit-save-id,7,0
-61,Ｄ・巨斧,Rough Edge,mh4g-dex-build7+mh4edit-mit-save-id,4,0
-62,烈日毁灭者,Soulbreaker,mh4g-dex-build7+mh4edit-mit-save-id,5,0
-63,格林猫猫斧,Grim Cat,mh4g-dex-build7+mh4edit-mit-save-id,2,0
-64,修雷姆卡兹,Grimmig Katze,mh4g-dex-build7+mh4edit-mit-save-id,5,0
-65,风化严重的剑斧,Worn Switch Axe,mh4g-dex-build7+mh4edit-mit-save-id,5,0
-66,风化的剑斧,Weathered Switch Axe,mh4g-dex-build7+mh4edit-mit-save-id,5,0
-67,优雅极斧,Mundus Altus,mh4g-dex-build7+mh4edit-mit-save-id,6,0
-68,布都剑斧,Rupture,mh4g-dex-build7+mh4edit-mit-save-id,4,0
-69,豪剑斧【伊邪那岐】,Izanagi,mh4g-dex-build7+mh4edit-mit-save-id,7,0
-70,雷斧,Peal,mh4g-dex-build7+mh4edit-mit-save-id,4,0
-71,断雷斧麒麟,Kirin Thunderpeal,mh4g-dex-build7+mh4edit-mit-save-id,7,0
-72,降雹斧麒麟,Kirin Thunderbolt,mh4g-dex-build7+mh4edit-mit-save-id,7,0
-73,决斗斩斧,Tyrannos,mh4g-dex-build7+mh4edit-mit-save-id,4,0
-74,决斗大斩斧,Terror Tyrannos,mh4g-dex-build7+mh4edit-mit-save-id,6,0
-75,业斧格拉巴利塔,Saligia Vileaxe,mh4g-dex-build7+mh4edit-mit-save-id,7,0
-76,霸剑斧黑灭碎神,Akantor Switch Axe,mh4g-dex-build7+mh4edit-mit-save-id,7,0
-77,锐鳞连接之斧,Keenscale Phalanx,mh4g-dex-build7+mh4edit-mit-save-id,6,0
-78,拔山盖世的乱刃牙击,The Exuberant Bite,mh4g-dex-build7+mh4edit-mit-save-id,7,0
-79,黑龙剑斧,Fatalis's End,mh4g-dex-build7+mh4edit-mit-save-id,7,0
-80,黑灭龙剑斧,Ruiner's Bane,mh4g-dex-build7+mh4edit-mit-save-id,7,0
-81,dummy81,dummy81,mh4edit-mit-save-id-en-fallback,0,0
-82,【日】大海盗Ｊ战斧,[JP] Buccaneer Axe J,mh4g-dex-build7+mh4edit-mit-save-id+mh4g-save-id-dex-crosswalk,6,0
-83,【日】狐之斩斧,[JP] Switch Fox,mh4g-dex-build7+mh4edit-mit-save-id+mh4g-save-id-dex-crosswalk,4,0
-84,【日】特报队专用斧【仙狐】,[JP] Special Corps Axe,mh4g-dex-build7+mh4edit-mit-save-id+mh4g-save-id-dex-crosswalk,6,0
-85,EX布都剑斧,EX Rupture,mh4g-dex-build7+mh4edit-mit-save-id,4,0
-86,EX豪剑斧【伊邪那岐】,EX Izanagi,mh4g-dex-build7+mh4edit-mit-save-id,7,0
-87,豪剑斧（发掘·红）,Mighty Switch Axe (red),mh4g-dex-build7-series-crosswalk+mh4edit-mit-save-id,0,1
-88,豪剑斧（发掘·黄）,Mighty Switch Axe (yellow),mh4g-dex-build7-series-crosswalk+mh4edit-mit-save-id,0,1
-89,豪剑斧（发掘·绿）,Mighty Switch Axe (green),mh4g-dex-build7-series-crosswalk+mh4edit-mit-save-id,0,1
-90,豪剑斧（发掘·蓝）,Mighty Switch Axe (blue),mh4g-dex-build7-series-crosswalk+mh4edit-mit-save-id,0,1
-91,豪剑斧（发掘·紫）,Mighty Switch Axe (purple),mh4g-dex-build7-series-crosswalk+mh4edit-mit-save-id,0,1
-92,Ｄ・巨斧（发掘·红）,Rough Edge (red),mh4g-dex-build7+mh4edit-mit-save-id,0,1
-93,Ｄ・巨斧（发掘·黄）,Rough Edge (yellow),mh4g-dex-build7+mh4edit-mit-save-id,0,1
-94,Ｄ・巨斧（发掘·绿）,Rough Edge (green),mh4g-dex-build7+mh4edit-mit-save-id,0,1
-95,Ｄ・巨斧（发掘·蓝）,Rough Edge (blue),mh4g-dex-build7+mh4edit-mit-save-id,0,1
-96,Ｄ・巨斧（发掘·紫）,Rough Edge (purple),mh4g-dex-build7+mh4edit-mit-save-id,0,1
-97,王剑斧（发掘·红）,Switch Axe Regnant (red),mh4g-dex-build7-series-crosswalk+mh4edit-mit-save-id,0,1
-98,王剑斧（发掘·黄）,Switch Axe Regnant (yellow),mh4g-dex-build7-series-crosswalk+mh4edit-mit-save-id,0,1
-99,王剑斧（发掘·绿）,Switch Axe Regnant (green),mh4g-dex-build7-series-crosswalk+mh4edit-mit-save-id,0,1
-100,王剑斧（发掘·蓝）,Switch Axe Regnant (blue),mh4g-dex-build7-series-crosswalk+mh4edit-mit-save-id,0,1
-101,王剑斧（发掘·紫）,Switch Axe Regnant (purple),mh4g-dex-build7-series-crosswalk+mh4edit-mit-save-id,0,1
-102,迅斧（发掘·红）,Hidden Axe (red),mh3u-se-cn-gpl-v3+mh4edit-mit-save-id,0,1
-103,迅斧（发掘·黄）,Hidden Axe (yellow),mh3u-se-cn-gpl-v3+mh4edit-mit-save-id,0,1
-104,迅斧（发掘·绿）,Hidden Axe (green),mh3u-se-cn-gpl-v3+mh4edit-mit-save-id,0,1
-105,迅斧（发掘·蓝）,Hidden Axe (blue),mh3u-se-cn-gpl-v3+mh4edit-mit-save-id,0,1
-106,迅斧（发掘·紫）,Hidden Axe (purple),mh3u-se-cn-gpl-v3+mh4edit-mit-save-id,0,1
-107,龙姬剑斧（发掘·红）,Dragonmaiden Axe (red),mh4g-dex-build7+mh4edit-mit-save-id,0,1
-108,龙姬剑斧（发掘·黄）,Dragonmaiden Axe (yellow),mh4g-dex-build7+mh4edit-mit-save-id,0,1
-109,龙姬剑斧（发掘·绿）,Dragonmaiden Axe (green),mh4g-dex-build7+mh4edit-mit-save-id,0,1
-110,龙姬剑斧（发掘·蓝）,Dragonmaiden Axe (blue),mh4g-dex-build7+mh4edit-mit-save-id,0,1
-111,龙姬剑斧（发掘·紫）,Dragonmaiden Axe (purple),mh4g-dex-build7+mh4edit-mit-save-id,0,1
-112,将军大斧,General's Strongaxe,mh4g-dex-build7+mh4edit-mit-save-id,8,0
-113,肯克艾斯塔之斧,Conqueress,mh4g-dex-build7+mh4edit-mit-save-id,9,0
-114,血腥疾风冰封改,Galefrost+,mh4g-dex-build7+mh4edit-mit-save-id,8,0
-115,超级疾风冰封,Giga Galefrost,mh4g-dex-build7+mh4edit-mit-save-id,9,0
-116,焰斧里奥埃克斯雷兹,Rathlagration,mh4g-dex-build7+mh4edit-mit-save-id,9,0
-117,光焰斧里奥艾克席德,Rathscension,mh4g-dex-build7+mh4edit-mit-save-id,10,0
-118,樱剑苍斧【花天】,Azure Rosebloom,mh4g-dex-build7+mh4edit-mit-save-id,9,0
-119,樱剑苍斧【狂咲】,Azure Straybloom,mh4g-dex-build7+mh4edit-mit-save-id,10,0
-120,奇形神斧,Vavoom Nakha,mh4g-dex-build7+mh4edit-mit-save-id,8,0
-121,奇猿斧瓦查娜迦,Weird Wacha Nakha,mh4g-dex-build7+mh4edit-mit-save-id,8,0
-122,白狐断牙,Tanka Talon,mh4g-dex-build7+mh4edit-mit-save-id,8,0
-123,白狐断断牙,Tatanka Talon,mh4g-dex-build7+mh4edit-mit-save-id,8,0
-124,狱剑斧龙牙改,Brimstren Drakefang+,mh4g-dex-build7+mh4edit-mit-save-id,9,0
-125,狼牙剑斧【暴狱】,Stygian Vanagloria,mh4g-dex-build7+mh4edit-mit-save-id,9,0
-126,白雷剑斧拉米埃尔,Remiel Whitebolt,mh4g-dex-build7+mh4edit-mit-save-id,9,0
-127,冥剑雷斧恩席德,Nether Excellion,mh4g-dex-build7+mh4edit-mit-save-id,10,0
-128,极北死鲨改,Notched Oppressor+,mh4g-dex-build7+mh4edit-mit-save-id,8,0
-129,极北狂血鲨,Notched Diavolo,mh4g-dex-build7+mh4edit-mit-save-id,9,0
-130,虎口荒木,Allagi Tigermaw,mh4g-dex-build7+mh4edit-mit-save-id,8,0
-131,大虎口鲨荒木,Zamtreacherous Maw,mh4g-dex-build7+mh4edit-mit-save-id,9,0
-132,破岩剑斧艾克利克西,Brisant Demolisher,mh4g-dex-build7+mh4edit-mit-save-id,9,0
-133,碎光之剑斧,Lightbreak Axe,mh4g-dex-build7+mh4edit-mit-save-id,10,0
-134,猛者战斧,Bruiser Axe,mh4g-dex-build7+mh4edit-mit-save-id,8,0
-135,猛者战斧【首领】,Chief Bruiser Axe,mh4g-dex-build7+mh4edit-mit-save-id,9,0
-136,死亡毒棍,Waxglare Wand,mh4g-dex-build7+mh4edit-mit-save-id,10,0
-137,大彩鸟剑斧改,Qurupexspander+,mh4g-dex-build7+mh4edit-mit-save-id,8,0
-138,红莲斧赫尔泽斯迪,Helstrong Firebath,mh4g-dex-build7+mh4edit-mit-save-id,9,0
-139,冲斧【虎威】改,Sheltered Graveaxe+,mh4g-dex-build7+mh4edit-mit-save-id,9,0
-140,绝冲斧【狂虎】,Crazed Grisaxe,mh4g-dex-build7+mh4edit-mit-save-id,10,0
-141,暴君战斧,Axe Semper Tyrannis,mh4g-dex-build7+mh4edit-mit-save-id,9,0
-142,盖亚,Axe of Gaia,mh4g-dex-build7+mh4edit-mit-save-id,9,0
-143,死神战斧,Axe of Thanatos,mh4g-dex-build7+mh4edit-mit-save-id,9,0
-144,哈迪斯,Axe of Hades,mh4g-dex-build7+mh4edit-mit-save-id,9,0
-145,THE授予者,Le Sursis,mh4g-dex-build7+mh4edit-mit-save-id,9,0
-146,THE靠近者,La Conclusion,mh4g-dex-build7+mh4edit-mit-save-id,10,0
-147,罪恶or授予,Frevel/Sursis,mh4g-dex-build7+mh4edit-mit-save-id,9,0
-148,红剑斧瓦米里翁,Vermilion Bloodaxe,mh4g-dex-build7+mh4edit-mit-save-id,8,0
-149,战栗大战斧,Paracrux Axe,mh4g-dex-build7+mh4edit-mit-save-id,8,0
-150,蛇怪,Basilisk,mh4g-dex-build7+mh4edit-mit-save-id,9,0
-151,寂静哭泣,Cryoseism,mh4g-dex-build7+mh4edit-mit-save-id,8,0
-152,蛇魔,Illuyanka,mh4g-dex-build7+mh4edit-mit-save-id,9,0
-153,海王斧纳巴尔迪德,Ceadeed Axe,mh4g-dex-build7+mh4edit-mit-save-id,10,0
-154,烈日仲裁者,Soulcrusher,mh4g-dex-build7+mh4edit-mit-save-id,8,0
-155,太阳神仲裁者,Helios Crusher,mh4g-dex-build7+mh4edit-mit-save-id,8,0
-156,优雅极斧改,Mundus Altus+,mh4g-dex-build7+mh4edit-mit-save-id,8,0
-157,优雅皇斧,Mundus Regius,mh4g-dex-build7+mh4edit-mit-save-id,9,0
-158,炎王虹弧,Teostra's Arx,mh4g-dex-build7+mh4edit-mit-save-id,7,0
-159,炎王城堡,Teostra's Castle,mh4g-dex-build7+mh4edit-mit-save-id,10,0
-160,帕尔萨＝达欧拉,Daora's Farasa,mh4g-dex-build7+mh4edit-mit-save-id,7,0
-161,加纳弗＝达欧拉,Daora's Janah,mh4g-dex-build7+mh4edit-mit-save-id,10,0
-162,帕尔萨＝埃尔达欧尔,Eldaora's Farasa,mh4g-dex-build7+mh4edit-mit-save-id,10,0
-163,二荒剑斧,Futara,mh4g-dex-build7+mh4edit-mit-save-id,9,0
-164,豪峻剑斧【山津见】,Yamatsumi,mh4g-dex-build7+mh4edit-mit-save-id,10,0
-165,断雷斧麒麟改,Kirin Thunderpeal+,mh4g-dex-build7+mh4edit-mit-save-id,8,0
-166,雷公宝斧麒麟,Archbeast Kirin,mh4g-dex-build7+mh4edit-mit-save-id,10,0
-167,雹刃宝斧麒麟,Bitterbeast Kirin,mh4g-dex-build7+mh4edit-mit-save-id,10,0
-168,灭斧黑暗骑士,"Doomaxe ""Downpour""",mh4g-dex-build7+mh4edit-mit-save-id,10,0
-169,霸斩斧库奈尔卡姆,Akantor Divider,mh4g-dex-build7+mh4edit-mit-save-id,10,0
-170,乱世王天魔牙击,Oda the Conqueror,mh4g-dex-build7+mh4edit-mit-save-id,9,0
-171,帝剑斧达拉韦俢,Dalamadur Axe,mh4g-dex-build7+mh4edit-mit-save-id,10,0
-172,蛇剑斧奥普塔玛迪拉,Praying Dalamadur,mh4g-dex-build7+mh4edit-mit-save-id,10,0
-173,真・黑龙剑斧,True Fatalis's End,mh4g-dex-build7+mh4edit-mit-save-id,10,0
-174,真・黑灭龙剑斧,True Ruiner's Bane,mh4g-dex-build7+mh4edit-mit-save-id,10,0
-175,龙祖之力,Fatalis Force,mh4g-dex-build7+mh4edit-mit-save-id,10,0
-176,千刃战斧,Aksa Switch,mh4g-dex-build7+mh4edit-mit-save-id,6,0
-177,千刃战斧改,Aksa Switch+,mh4g-dex-build7+mh4edit-mit-save-id,7,0
-178,叛逆之伐斧,Seditious Axe,mh4g-dex-build7+mh4edit-mit-save-id,9,0
-179,叛逆斧巴拉克雷吉昂,Baraq Sedition,mh4g-dex-build7+mh4edit-mit-save-id,10,0
-180,被制裁之罪,Punishable Sin,mh4g-dex-build7+mh4edit-mit-save-id,10,0
-181,邪执之征服者,Wicked Conqueror,mh4g-dex-build7+mh4edit-mit-save-id,10,0
-182,DUMMY,DUMMY,mh4edit-mit-save-id-en-fallback,0,0
-183,DUMMY,DUMMY,mh4edit-mit-save-id-en-fallback,0,0
-184,DUMMY,DUMMY,mh4edit-mit-save-id-en-fallback,0,0
-185,DUMMY,DUMMY,mh4edit-mit-save-id-en-fallback,0,0
-186,Shah Bloodseeker,Shah Bloodseeker,mh4edit-mit-save-id-en-fallback,0,0
-187,Olvid of the Abyss,Olvid of the Abyss,mh4edit-mit-save-id-en-fallback,0,0
-188,激流斧（发掘·红）,Deluge (red),mh4g-relic-jp-cn-crosswalk+mh4edit-mit-save-id,0,1
-189,激流斧（发掘·黄）,Deluge (yellow),mh4g-relic-jp-cn-crosswalk+mh4edit-mit-save-id,0,1
-190,激流斧（发掘·绿）,Deluge (green),mh4g-relic-jp-cn-crosswalk+mh4edit-mit-save-id,0,1
-191,激流斧（发掘·蓝）,Deluge (blue),mh4g-relic-jp-cn-crosswalk+mh4edit-mit-save-id,0,1
-192,激流斧（发掘·紫）,Deluge (purple),mh4g-relic-jp-cn-crosswalk+mh4edit-mit-save-id,0,1
-193,爆锤爆斧（发掘·红）,Motor Burst (red),mh3u-se-cn-gpl-v3+mh4edit-mit-save-id,0,1
-194,爆锤爆斧（发掘·黄）,Motor Burst (yellow),mh3u-se-cn-gpl-v3+mh4edit-mit-save-id,0,1
-195,爆锤爆斧（发掘·绿）,Motor Burst (green),mh3u-se-cn-gpl-v3+mh4edit-mit-save-id,0,1
-196,爆锤爆斧（发掘·蓝）,Motor Burst (blue),mh3u-se-cn-gpl-v3+mh4edit-mit-save-id,0,1
-197,爆锤爆斧（发掘·紫）,Motor Burst (purple),mh3u-se-cn-gpl-v3+mh4edit-mit-save-id,0,1
+0,无装备,None,mh4g-core-common-game-array,0,0
+1,骨斧,Bone Axe,mh4g-core-common-game-array+mh4g-dex-build7+mh4edit-mit-save-id,1,0
+2,骨斧改,Bone Axe+,mh4g-core-common-game-array+mh4g-dex-build7+mh4edit-mit-save-id,1,0
+3,骨头粉碎者,Bone Smasher,mh4g-core-common-game-array+mh4g-dex-build7+mh4edit-mit-save-id,1,0
+4,全力大斧,Power Gasher,mh4g-core-common-game-array+mh4g-dex-build7+mh4edit-mit-save-id,2,0
+5,强硬大斧,Massive Gasher,mh4g-core-common-game-array+mh4g-dex-build7+mh4edit-mit-save-id,2,0
+6,极限大斧,Maximal Gasher,mh4g-core-common-game-array+mh4g-dex-build7+mh4edit-mit-save-id,3,0
+7,精锐讨伐队剑斧,Elite Switch Axe,mh4g-core-common-game-array+mh4g-dex-build7+mh4edit-mit-save-id,4,0
+8,精锐讨伐队剑斧改,Elite Switch Axe+,mh4g-core-common-game-array+mh4g-dex-build7+mh4edit-mit-save-id,5,0
+9,利刃大斧,Czar Switch Axe,mh4g-core-common-game-array+mh4g-dex-build7+mh4edit-mit-save-id,6,0
+10,琥珀冲击,Amber Slash,mh4g-core-common-game-array+mh4g-dex-build7+mh4edit-mit-save-id,5,0
+11,血腥疾风冰封,Galefrost,mh4g-core-common-game-array+mh4g-dex-build7+mh4edit-mit-save-id,6,0
+12,火龙勇气,Rath Flame Splitter,mh4g-core-common-game-array+mh4g-dex-build7+mh4edit-mit-save-id,3,0
+13,炎龙勇气,Rath Blaze Splitter,mh4g-core-common-game-array+mh4g-dex-build7+mh4edit-mit-save-id,5,0
+14,炎斧里奥布雷亚德,Rathsplicer,mh4g-core-common-game-array+mh4g-dex-build7+mh4edit-mit-save-id,7,0
+15,龙姬剑斧,Dragonmaiden Axe,mh4g-core-common-game-array+mh4g-dex-build7+mh4edit-mit-save-id,2,0
+16,龙姬剑斧改,Dragonmaiden Axe+,mh4g-core-common-game-array+mh4g-dex-build7+mh4edit-mit-save-id,3,0
+17,大地女王,Gríðr's Landmaker,mh4g-core-common-game-array+mh4g-dex-build7+mh4edit-mit-save-id,5,0
+18,樱剑苍斧,Azure Rose,mh4g-core-common-game-array+mh4g-dex-build7+mh4edit-mit-save-id,6,0
+19,奇形斧,Vavoom Axe,mh4g-core-common-game-array+mh4g-dex-build7+mh4edit-mit-save-id,2,0
+20,奇形斧改,Vavoom Axe+,mh4g-core-common-game-array+mh4g-dex-build7+mh4edit-mit-save-id,2,0
+21,奇形钉爪,Vavoom Verdict,mh4g-core-common-game-array+mh4g-dex-build7+mh4edit-mit-save-id,3,0
+22,奇形战斧,Vavoom Vengeance,mh4g-core-common-game-array+mh4g-dex-build7+mh4edit-mit-save-id,4,0
+23,奇形神牙,Vavoom Vindication,mh4g-core-common-game-array+mh4g-dex-build7+mh4edit-mit-save-id,5,0
+24,王剑斧雷电,Usurper's Downpour,mh4g-core-common-game-array+mh4g-dex-build7+mh4edit-mit-save-id,3,0
+25,王牙剑斧【裂雷】,Despot's Cloudburst,mh4g-core-common-game-array+mh4g-dex-build7+mh4edit-mit-save-id,5,0
+26,狱剑斧龙牙,Brimstren Drakefang,mh4g-core-common-game-array+mh4g-dex-build7+mh4edit-mit-save-id,6,0
+27,雷剑斧电压,Volt Axe,mh4g-core-common-game-array+mh4g-dex-build7+mh4edit-mit-save-id,6,0
+28,极北寒斧,Notched Doom,mh4g-core-common-game-array+mh4g-dex-build7+mh4edit-mit-save-id,2,0
+29,极北寒斧改,Notched Doom+,mh4g-core-common-game-array+mh4g-dex-build7+mh4edit-mit-save-id,4,0
+30,极北寒鲨,Notched Tyrant,mh4g-core-common-game-array+mh4g-dex-build7+mh4edit-mit-save-id,5,0
+31,极北死鲨,Notched Oppressor,mh4g-core-common-game-array+mh4g-dex-build7+mh4edit-mit-save-id,6,0
+32,迪欧斯之斧,Dios Axe,mh4g-core-common-game-array+mh4g-dex-build7+mh4edit-mit-save-id,4,0
+33,迪欧斯之斧改,Dios Axe+,mh4g-core-common-game-array+mh4g-dex-build7+mh4edit-mit-save-id,5,0
+34,爆碎之剑斧,Demolition Axe,mh4g-core-common-game-array+mh4g-dex-build7+mh4edit-mit-save-id,6,0
+35,蛮族剑斧,Barbarian Axe,mh4g-core-common-game-array+mh4g-dex-build7+mh4edit-mit-save-id,1,0
+36,蛮勇剑斧,Bold Barbarian Axe,mh4g-core-common-game-array+mh4g-dex-build7+mh4edit-mit-save-id,2,0
+37,蛮勇剑斧【无赖】,Barbarian Outcast,mh4g-core-common-game-array+mh4g-dex-build7+mh4edit-mit-save-id,4,0
+38,彩鸟剑斧,Pecospander,mh4g-core-common-game-array+mh4g-dex-build7+mh4edit-mit-save-id,2,0
+39,彩鸟剑斧改,Pecospander+,mh4g-core-common-game-array+mh4g-dex-build7+mh4edit-mit-save-id,2,0
+40,大彩鸟剑斧,Qurupexspander,mh4g-core-common-game-array+mh4g-dex-build7+mh4edit-mit-save-id,4,0
+41,野斧,Wild Axe,mh4g-core-common-game-array+mh4g-dex-build7+mh4edit-mit-save-id,1,0
+42,野斧改,Wild Axe+,mh4g-core-common-game-array+mh4g-dex-build7+mh4edit-mit-save-id,2,0
+43,大地冲击,Ground Dasher,mh4g-core-common-game-array+mh4g-dex-build7+mh4edit-mit-save-id,2,0
+44,轰龙斩斧,Rex Slasher,mh4g-core-common-game-array+mh4g-dex-build7+mh4edit-mit-save-id,3,0
+45,轰龙大斩斧,Rex Gnasher,mh4g-core-common-game-array+mh4g-dex-build7+mh4edit-mit-save-id,5,0
+46,暴君斩斧,Accursed Switcher,mh4g-core-common-game-array+mh4g-dex-build7+mh4edit-mit-save-id,6,0
+47,冲斧【虎威】,Sheltered Graveaxe,mh4g-core-common-game-array+mh4g-dex-build7+mh4edit-mit-save-id,7,0
+48,心愿of躯壳,Eisenleib,mh4g-core-common-game-array+mh4g-dex-build7+mh4edit-mit-save-id,3,0
+49,心愿of精神,Eisengeist,mh4g-core-common-game-array+mh4g-dex-build7+mh4edit-mit-save-id,4,0
+50,心愿of灵魂,Eisenherz,mh4g-core-common-game-array+mh4g-dex-build7+mh4edit-mit-save-id,5,0
+51,THE执行者,La Guillotine,mh4g-core-common-game-array+mh4g-dex-build7+mh4edit-mit-save-id,7,0
+52,突击斧,Assault Axe,mh4g-core-common-game-array+mh4g-dex-build7+mh4edit-mit-save-id,2,0
+53,土砂破坏者,Blitzkrieg,mh4g-core-common-game-array+mh4g-dex-build7+mh4edit-mit-save-id,3,0
+54,赤甲滚动者,Binding Roller,mh4g-core-common-game-array+mh4g-dex-build7+mh4edit-mit-save-id,5,0
+55,赤色战斧,Vermilingua,mh4g-core-common-game-array+mh4g-dex-build7+mh4edit-mit-save-id,6,0
+56,惊叫之斧,Flickaxe,mh4g-core-common-game-array+mh4g-dex-build7+mh4edit-mit-save-id,2,0
+57,惊叫之斧改,Flickaxe+,mh4g-core-common-game-array+mh4g-dex-build7+mh4edit-mit-save-id,3,0
+58,惊叫战斧,Flicker Axe,mh4g-core-common-game-array+mh4g-dex-build7+mh4edit-mit-save-id,5,0
+59,战栗战斧,Paraflick Axe,mh4g-core-common-game-array+mh4g-dex-build7+mh4edit-mit-save-id,6,0
+60,Ｇ・大海龙剑斧,Great Inceadeus,mh4g-core-common-game-array+mh4g-dex-build7+mh4edit-mit-save-id,7,0
+61,Ｄ・巨斧,Rough Edge,mh4g-core-common-game-array+mh4g-dex-build7+mh4edit-mit-save-id,4,0
+62,烈日毁灭者,Soulbreaker,mh4g-core-common-game-array+mh4g-dex-build7+mh4edit-mit-save-id,5,0
+63,格林猫猫斧,Grim Cat,mh4g-core-common-game-array+mh4g-dex-build7+mh4edit-mit-save-id,2,0
+64,修雷姆卡兹,Grimmig Katze,mh4g-core-common-game-array+mh4g-dex-build7+mh4edit-mit-save-id,5,0
+65,风化严重的剑斧,Worn Switch Axe,mh4g-core-common-game-array+mh4g-dex-build7+mh4edit-mit-save-id,5,0
+66,风化的剑斧,Weathered Switch Axe,mh4g-core-common-game-array+mh4g-dex-build7+mh4edit-mit-save-id,5,0
+67,优雅极斧,Mundus Altus,mh4g-core-common-game-array+mh4g-dex-build7+mh4edit-mit-save-id,6,0
+68,布都剑斧,Rupture,mh4g-core-common-game-array+mh4g-dex-build7+mh4edit-mit-save-id,4,0
+69,豪剑斧【伊邪那岐】,Izanagi,mh4g-core-common-game-array+mh4g-dex-build7+mh4edit-mit-save-id,7,0
+70,雷斧,Peal,mh4g-core-common-game-array+mh4g-dex-build7+mh4edit-mit-save-id,4,0
+71,断雷斧麒麟,Kirin Thunderpeal,mh4g-core-common-game-array+mh4g-dex-build7+mh4edit-mit-save-id,7,0
+72,降雹斧麒麟,Kirin Thunderbolt,mh4g-core-common-game-array+mh4g-dex-build7+mh4edit-mit-save-id,7,0
+73,决斗斩斧,Tyrannos,mh4g-core-common-game-array+mh4g-dex-build7+mh4edit-mit-save-id,4,0
+74,决斗大斩斧,Terror Tyrannos,mh4g-core-common-game-array+mh4g-dex-build7+mh4edit-mit-save-id,6,0
+75,业斧格拉巴利塔,Saligia Vileaxe,mh4g-core-common-game-array+mh4g-dex-build7+mh4edit-mit-save-id,7,0
+76,霸剑斧黑灭碎神,Akantor Switch Axe,mh4g-core-common-game-array+mh4g-dex-build7+mh4edit-mit-save-id,7,0
+77,锐鳞连接之斧,Keenscale Phalanx,mh4g-core-common-game-array+mh4g-dex-build7+mh4edit-mit-save-id,6,0
+78,拔山盖世的乱刃牙击,The Exuberant Bite,mh4g-core-common-game-array+mh4g-dex-build7+mh4edit-mit-save-id,7,0
+79,黑龙剑斧,Fatalis's End,mh4g-core-common-game-array+mh4g-dex-build7+mh4edit-mit-save-id,7,0
+80,黑灭龙剑斧,Ruiner's Bane,mh4g-core-common-game-array+mh4g-dex-build7+mh4edit-mit-save-id,7,0
+81,海盗Ｊ战斧,dummy81,mh4g-core-common-game-array+mh4edit-mit-save-id,0,0
+82,大海盗Ｊ战斧,[JP] Buccaneer Axe J,mh4g-core-common-game-array+mh4g-dex-build7+mh4edit-mit-save-id+mh4g-save-id-dex-crosswalk,6,0
+83,狐之斩斧,[JP] Switch Fox,mh4g-core-common-game-array+mh4g-dex-build7+mh4edit-mit-save-id+mh4g-save-id-dex-crosswalk,4,0
+84,特报队专用斧【仙狐】,[JP] Special Corps Axe,mh4g-core-common-game-array+mh4g-dex-build7+mh4edit-mit-save-id+mh4g-save-id-dex-crosswalk,6,0
+85,EX布都剑斧,EX Rupture,mh4g-core-common-game-array+mh4g-dex-build7+mh4edit-mit-save-id,4,0
+86,EX豪剑斧【伊邪那岐】,EX Izanagi,mh4g-core-common-game-array+mh4g-dex-build7+mh4edit-mit-save-id,7,0
+87,豪剑斧,Mighty Switch Axe (red),mh4g-core-common-game-array+mh4g-dex-build7-series-crosswalk+mh4edit-mit-save-id,0,1
+88,豪剑斧,Mighty Switch Axe (yellow),mh4g-core-common-game-array+mh4g-dex-build7-series-crosswalk+mh4edit-mit-save-id,0,1
+89,豪剑斧,Mighty Switch Axe (green),mh4g-core-common-game-array+mh4g-dex-build7-series-crosswalk+mh4edit-mit-save-id,0,1
+90,豪剑斧,Mighty Switch Axe (blue),mh4g-core-common-game-array+mh4g-dex-build7-series-crosswalk+mh4edit-mit-save-id,0,1
+91,豪剑斧,Mighty Switch Axe (purple),mh4g-core-common-game-array+mh4g-dex-build7-series-crosswalk+mh4edit-mit-save-id,0,1
+92,Ｄ・巨斧,Rough Edge (red),mh4g-core-common-game-array+mh4g-dex-build7+mh4edit-mit-save-id,0,1
+93,Ｄ・巨斧,Rough Edge (yellow),mh4g-core-common-game-array+mh4g-dex-build7+mh4edit-mit-save-id,0,1
+94,Ｄ・巨斧,Rough Edge (green),mh4g-core-common-game-array+mh4g-dex-build7+mh4edit-mit-save-id,0,1
+95,Ｄ・巨斧,Rough Edge (blue),mh4g-core-common-game-array+mh4g-dex-build7+mh4edit-mit-save-id,0,1
+96,Ｄ・巨斧,Rough Edge (purple),mh4g-core-common-game-array+mh4g-dex-build7+mh4edit-mit-save-id,0,1
+97,王剑斧,Switch Axe Regnant (red),mh4g-core-common-game-array+mh4g-dex-build7-series-crosswalk+mh4edit-mit-save-id,0,1
+98,王剑斧,Switch Axe Regnant (yellow),mh4g-core-common-game-array+mh4g-dex-build7-series-crosswalk+mh4edit-mit-save-id,0,1
+99,王剑斧,Switch Axe Regnant (green),mh4g-core-common-game-array+mh4g-dex-build7-series-crosswalk+mh4edit-mit-save-id,0,1
+100,王剑斧,Switch Axe Regnant (blue),mh4g-core-common-game-array+mh4g-dex-build7-series-crosswalk+mh4edit-mit-save-id,0,1
+101,王剑斧,Switch Axe Regnant (purple),mh4g-core-common-game-array+mh4g-dex-build7-series-crosswalk+mh4edit-mit-save-id,0,1
+102,迅斧,Hidden Axe (red),mh4g-core-common-game-array+mh3u-se-cn-gpl-v3+mh4edit-mit-save-id,0,1
+103,迅斧,Hidden Axe (yellow),mh4g-core-common-game-array+mh3u-se-cn-gpl-v3+mh4edit-mit-save-id,0,1
+104,迅斧,Hidden Axe (green),mh4g-core-common-game-array+mh3u-se-cn-gpl-v3+mh4edit-mit-save-id,0,1
+105,迅斧,Hidden Axe (blue),mh4g-core-common-game-array+mh3u-se-cn-gpl-v3+mh4edit-mit-save-id,0,1
+106,迅斧,Hidden Axe (purple),mh4g-core-common-game-array+mh3u-se-cn-gpl-v3+mh4edit-mit-save-id,0,1
+107,龙姬剑斧,Dragonmaiden Axe (red),mh4g-core-common-game-array+mh4g-dex-build7+mh4edit-mit-save-id,0,1
+108,龙姬剑斧,Dragonmaiden Axe (yellow),mh4g-core-common-game-array+mh4g-dex-build7+mh4edit-mit-save-id,0,1
+109,龙姬剑斧,Dragonmaiden Axe (green),mh4g-core-common-game-array+mh4g-dex-build7+mh4edit-mit-save-id,0,1
+110,龙姬剑斧,Dragonmaiden Axe (blue),mh4g-core-common-game-array+mh4g-dex-build7+mh4edit-mit-save-id,0,1
+111,龙姬剑斧,Dragonmaiden Axe (purple),mh4g-core-common-game-array+mh4g-dex-build7+mh4edit-mit-save-id,0,1
+112,将军大斧,General's Strongaxe,mh4g-core-common-game-array+mh4g-dex-build7+mh4edit-mit-save-id,8,0
+113,肯克艾斯塔之斧,Conqueress,mh4g-core-common-game-array+mh4g-dex-build7+mh4edit-mit-save-id,9,0
+114,血腥疾风冰封改,Galefrost+,mh4g-core-common-game-array+mh4g-dex-build7+mh4edit-mit-save-id,8,0
+115,超级疾风冰封,Giga Galefrost,mh4g-core-common-game-array+mh4g-dex-build7+mh4edit-mit-save-id,9,0
+116,焰斧里奥埃克斯雷兹,Rathlagration,mh4g-core-common-game-array+mh4g-dex-build7+mh4edit-mit-save-id,9,0
+117,光焰斧里奥艾克席德,Rathscension,mh4g-core-common-game-array+mh4g-dex-build7+mh4edit-mit-save-id,10,0
+118,樱剑苍斧【花天】,Azure Rosebloom,mh4g-core-common-game-array+mh4g-dex-build7+mh4edit-mit-save-id,9,0
+119,樱剑苍斧【狂咲】,Azure Straybloom,mh4g-core-common-game-array+mh4g-dex-build7+mh4edit-mit-save-id,10,0
+120,奇形神斧,Vavoom Nakha,mh4g-core-common-game-array+mh4g-dex-build7+mh4edit-mit-save-id,8,0
+121,奇猿斧瓦查娜迦,Weird Wacha Nakha,mh4g-core-common-game-array+mh4g-dex-build7+mh4edit-mit-save-id,8,0
+122,白狐断牙,Tanka Talon,mh4g-core-common-game-array+mh4g-dex-build7+mh4edit-mit-save-id,8,0
+123,白狐断断牙,Tatanka Talon,mh4g-core-common-game-array+mh4g-dex-build7+mh4edit-mit-save-id,8,0
+124,狱剑斧龙牙改,Brimstren Drakefang+,mh4g-core-common-game-array+mh4g-dex-build7+mh4edit-mit-save-id,9,0
+125,狼牙剑斧【暴狱】,Stygian Vanagloria,mh4g-core-common-game-array+mh4g-dex-build7+mh4edit-mit-save-id,9,0
+126,白雷剑斧拉米埃尔,Remiel Whitebolt,mh4g-core-common-game-array+mh4g-dex-build7+mh4edit-mit-save-id,9,0
+127,冥剑雷斧恩席德,Nether Excellion,mh4g-core-common-game-array+mh4g-dex-build7+mh4edit-mit-save-id,10,0
+128,极北死鲨改,Notched Oppressor+,mh4g-core-common-game-array+mh4g-dex-build7+mh4edit-mit-save-id,8,0
+129,极北狂血鲨,Notched Diavolo,mh4g-core-common-game-array+mh4g-dex-build7+mh4edit-mit-save-id,9,0
+130,虎口荒木,Allagi Tigermaw,mh4g-core-common-game-array+mh4g-dex-build7+mh4edit-mit-save-id,8,0
+131,大虎口鲨荒木,Zamtreacherous Maw,mh4g-core-common-game-array+mh4g-dex-build7+mh4edit-mit-save-id,9,0
+132,破岩剑斧艾克利克西,Brisant Demolisher,mh4g-core-common-game-array+mh4g-dex-build7+mh4edit-mit-save-id,9,0
+133,碎光之剑斧,Lightbreak Axe,mh4g-core-common-game-array+mh4g-dex-build7+mh4edit-mit-save-id,10,0
+134,猛者战斧,Bruiser Axe,mh4g-core-common-game-array+mh4g-dex-build7+mh4edit-mit-save-id,8,0
+135,猛者战斧【首领】,Chief Bruiser Axe,mh4g-core-common-game-array+mh4g-dex-build7+mh4edit-mit-save-id,9,0
+136,死亡毒棍,Waxglare Wand,mh4g-core-common-game-array+mh4g-dex-build7+mh4edit-mit-save-id,10,0
+137,大彩鸟剑斧改,Qurupexspander+,mh4g-core-common-game-array+mh4g-dex-build7+mh4edit-mit-save-id,8,0
+138,红莲斧赫尔泽斯迪,Helstrong Firebath,mh4g-core-common-game-array+mh4g-dex-build7+mh4edit-mit-save-id,9,0
+139,冲斧【虎威】改,Sheltered Graveaxe+,mh4g-core-common-game-array+mh4g-dex-build7+mh4edit-mit-save-id,9,0
+140,绝冲斧【狂虎】,Crazed Grisaxe,mh4g-core-common-game-array+mh4g-dex-build7+mh4edit-mit-save-id,10,0
+141,暴君战斧,Axe Semper Tyrannis,mh4g-core-common-game-array+mh4g-dex-build7+mh4edit-mit-save-id,9,0
+142,盖亚,Axe of Gaia,mh4g-core-common-game-array+mh4g-dex-build7+mh4edit-mit-save-id,9,0
+143,死神战斧,Axe of Thanatos,mh4g-core-common-game-array+mh4g-dex-build7+mh4edit-mit-save-id,9,0
+144,哈迪斯,Axe of Hades,mh4g-core-common-game-array+mh4g-dex-build7+mh4edit-mit-save-id,9,0
+145,THE授予者,Le Sursis,mh4g-core-common-game-array+mh4g-dex-build7+mh4edit-mit-save-id,9,0
+146,THE靠近者,La Conclusion,mh4g-core-common-game-array+mh4g-dex-build7+mh4edit-mit-save-id,10,0
+147,罪恶or授予,Frevel/Sursis,mh4g-core-common-game-array+mh4g-dex-build7+mh4edit-mit-save-id,9,0
+148,红剑斧瓦米里翁,Vermilion Bloodaxe,mh4g-core-common-game-array+mh4g-dex-build7+mh4edit-mit-save-id,8,0
+149,战栗大战斧,Paracrux Axe,mh4g-core-common-game-array+mh4g-dex-build7+mh4edit-mit-save-id,8,0
+150,蛇怪,Basilisk,mh4g-core-common-game-array+mh4g-dex-build7+mh4edit-mit-save-id,9,0
+151,寂静哭泣,Cryoseism,mh4g-core-common-game-array+mh4g-dex-build7+mh4edit-mit-save-id,8,0
+152,蛇魔,Illuyanka,mh4g-core-common-game-array+mh4g-dex-build7+mh4edit-mit-save-id,9,0
+153,海王斧纳巴尔迪德,Ceadeed Axe,mh4g-core-common-game-array+mh4g-dex-build7+mh4edit-mit-save-id,10,0
+154,烈日仲裁者,Soulcrusher,mh4g-core-common-game-array+mh4g-dex-build7+mh4edit-mit-save-id,8,0
+155,太阳神仲裁者,Helios Crusher,mh4g-core-common-game-array+mh4g-dex-build7+mh4edit-mit-save-id,8,0
+156,优雅极斧改,Mundus Altus+,mh4g-core-common-game-array+mh4g-dex-build7+mh4edit-mit-save-id,8,0
+157,优雅皇斧,Mundus Regius,mh4g-core-common-game-array+mh4g-dex-build7+mh4edit-mit-save-id,9,0
+158,炎王虹弧,Teostra's Arx,mh4g-core-common-game-array+mh4g-dex-build7+mh4edit-mit-save-id,7,0
+159,炎王城堡,Teostra's Castle,mh4g-core-common-game-array+mh4g-dex-build7+mh4edit-mit-save-id,10,0
+160,帕尔萨＝达欧拉,Daora's Farasa,mh4g-core-common-game-array+mh4g-dex-build7+mh4edit-mit-save-id,7,0
+161,加纳弗＝达欧拉,Daora's Janah,mh4g-core-common-game-array+mh4g-dex-build7+mh4edit-mit-save-id,10,0
+162,帕尔萨＝埃尔达欧尔,Eldaora's Farasa,mh4g-core-common-game-array+mh4g-dex-build7+mh4edit-mit-save-id,10,0
+163,二荒剑斧,Futara,mh4g-core-common-game-array+mh4g-dex-build7+mh4edit-mit-save-id,9,0
+164,豪峻剑斧【山津见】,Yamatsumi,mh4g-core-common-game-array+mh4g-dex-build7+mh4edit-mit-save-id,10,0
+165,断雷斧麒麟改,Kirin Thunderpeal+,mh4g-core-common-game-array+mh4g-dex-build7+mh4edit-mit-save-id,8,0
+166,雷公宝斧麒麟,Archbeast Kirin,mh4g-core-common-game-array+mh4g-dex-build7+mh4edit-mit-save-id,10,0
+167,雹刃宝斧麒麟,Bitterbeast Kirin,mh4g-core-common-game-array+mh4g-dex-build7+mh4edit-mit-save-id,10,0
+168,灭斧黑暗骑士,"Doomaxe ""Downpour""",mh4g-core-common-game-array+mh4g-dex-build7+mh4edit-mit-save-id,10,0
+169,霸斩斧库奈尔卡姆,Akantor Divider,mh4g-core-common-game-array+mh4g-dex-build7+mh4edit-mit-save-id,10,0
+170,乱世王天魔牙击,Oda the Conqueror,mh4g-core-common-game-array+mh4g-dex-build7+mh4edit-mit-save-id,9,0
+171,帝剑斧达拉韦俢,Dalamadur Axe,mh4g-core-common-game-array+mh4g-dex-build7+mh4edit-mit-save-id,10,0
+172,蛇剑斧奥普塔玛迪拉,Praying Dalamadur,mh4g-core-common-game-array+mh4g-dex-build7+mh4edit-mit-save-id,10,0
+173,真・黑龙剑斧,True Fatalis's End,mh4g-core-common-game-array+mh4g-dex-build7+mh4edit-mit-save-id,10,0
+174,真・黑灭龙剑斧,True Ruiner's Bane,mh4g-core-common-game-array+mh4g-dex-build7+mh4edit-mit-save-id,10,0
+175,龙祖之力,Fatalis Force,mh4g-core-common-game-array+mh4g-dex-build7+mh4edit-mit-save-id,10,0
+176,千刃战斧,Aksa Switch,mh4g-core-common-game-array+mh4g-dex-build7+mh4edit-mit-save-id,6,0
+177,千刃战斧改,Aksa Switch+,mh4g-core-common-game-array+mh4g-dex-build7+mh4edit-mit-save-id,7,0
+178,叛逆之伐斧,Seditious Axe,mh4g-core-common-game-array+mh4g-dex-build7+mh4edit-mit-save-id,9,0
+179,叛逆斧巴拉克雷吉昂,Baraq Sedition,mh4g-core-common-game-array+mh4g-dex-build7+mh4edit-mit-save-id,10,0
+180,被制裁之罪,Punishable Sin,mh4g-core-common-game-array+mh4g-dex-build7+mh4edit-mit-save-id,10,0
+181,邪执之征服者,Wicked Conqueror,mh4g-core-common-game-array+mh4g-dex-build7+mh4edit-mit-save-id,10,0
+182,dummy,DUMMY,mh4g-core-common-game-array+mh4edit-mit-save-id,0,0
+183,dummy,DUMMY,mh4g-core-common-game-array+mh4edit-mit-save-id,0,0
+184,dummy,DUMMY,mh4g-core-common-game-array+mh4edit-mit-save-id,0,0
+185,dummy,DUMMY,mh4g-core-common-game-array+mh4edit-mit-save-id,0,0
+186,剑帝斧布拉德兹艾库里,Shah Bloodseeker,mh4g-core-common-game-array+mh4edit-mit-save-id,0,0
+187,冥王斧奥尔维德,Olvid of the Abyss,mh4g-core-common-game-array+mh4edit-mit-save-id,0,0
+188,激流斧,Deluge (red),mh4g-core-common-game-array+mh4g-relic-jp-cn-crosswalk+mh4edit-mit-save-id,0,1
+189,激流斧,Deluge (yellow),mh4g-core-common-game-array+mh4g-relic-jp-cn-crosswalk+mh4edit-mit-save-id,0,1
+190,激流斧,Deluge (green),mh4g-core-common-game-array+mh4g-relic-jp-cn-crosswalk+mh4edit-mit-save-id,0,1
+191,激流斧,Deluge (blue),mh4g-core-common-game-array+mh4g-relic-jp-cn-crosswalk+mh4edit-mit-save-id,0,1
+192,激流斧,Deluge (purple),mh4g-core-common-game-array+mh4g-relic-jp-cn-crosswalk+mh4edit-mit-save-id,0,1
+193,爆锤爆斧,Motor Burst (red),mh4g-core-common-game-array+mh3u-se-cn-gpl-v3+mh4edit-mit-save-id,0,1
+194,爆锤爆斧,Motor Burst (yellow),mh4g-core-common-game-array+mh3u-se-cn-gpl-v3+mh4edit-mit-save-id,0,1
+195,爆锤爆斧,Motor Burst (green),mh4g-core-common-game-array+mh3u-se-cn-gpl-v3+mh4edit-mit-save-id,0,1
+196,爆锤爆斧,Motor Burst (blue),mh4g-core-common-game-array+mh3u-se-cn-gpl-v3+mh4edit-mit-save-id,0,1
+197,爆锤爆斧,Motor Burst (purple),mh4g-core-common-game-array+mh3u-se-cn-gpl-v3+mh4edit-mit-save-id,0,1

@@ -290,12 +290,16 @@ int main(int argc, char **argv)
     MH4GData data;
     QString dataError;
     if (!require(data.load("cn", &dataError), "Chinese data load failed: " + dataError) ||
-        !require(data.items().size() == 1913, "unexpected Chinese item count") ||
+        !require(data.items().size() == 1937, "unexpected Chinese item count") ||
         !require(data.equipmentTypes().size() == 21, "unexpected equipment type count") ||
         !require(data.decorations().size() == 290, "unexpected decoration count") ||
         !require(!data.lookups().isEmpty(), "equipment lookups were not loaded") ||
         !require(!data.itemName(1).isEmpty(), "Chinese item lookup failed") ||
         !require(!data.equipmentName(19, 157).isEmpty(), "Chinese equipment lookup failed") ||
+        !require(data.equipmentName(MH4G_Type::WaistType, 101) == QStringLiteral("青熊腰甲"),
+                 "waist game ID 101 should be 青熊腰甲") ||
+        !require(data.equipmentName(MH4G_Type::WaistType, 112) == QStringLiteral("轰龙裙甲Ｓ"),
+                 "waist game ID 112 should be 轰龙裙甲Ｓ") ||
         !require(data.isRelicEquipment(MH4G_Type::GSType, 239),
                  "great sword 239 should be marked as relic") ||
         !require(!data.isRelicEquipment(MH4G_Type::GSType, 154),
@@ -304,7 +308,9 @@ int main(int argc, char **argv)
                  "light bowgun 29 should not be marked as relic"))
         return 1;
     if (!require(data.load("en", &dataError), "English data load failed: " + dataError) ||
-        !require(data.items().size() == 1913, "unexpected English item count") ||
+        !require(data.items().size() == 1937, "unexpected English item count") ||
+        !require(data.equipmentName(MH4G_Type::WaistType, 101) == QStringLiteral("Arzuros Faulds"),
+                 "English waist game ID 101 should be Arzuros Faulds") ||
         !require(!data.itemName(1).isEmpty(), "English item lookup failed"))
         return 1;
     if (!testTransferForms() || !testEquipmentValues() ||

@@ -1,247 +1,247 @@
 id,name,english,source,rarity,is_relic
-0,None,None,mh4g-save-format,0,0
-1,Iron Sword,Iron Sword,mh4g-dex-build7+mh4edit-mit-save-id,1,0
-2,Iron Sword+,Iron Sword+,mh4g-dex-build7+mh4edit-mit-save-id,1,0
-3,Buster Sword,Buster Sword,mh4g-dex-build7+mh4edit-mit-save-id,1,0
-4,Buster Sword+,Buster Sword+,mh4g-dex-build7+mh4edit-mit-save-id,2,0
-5,Ravager Blade,Ravager Blade,mh4g-dex-build7+mh4edit-mit-save-id,2,0
-6,Ravager Blade+,Ravager Blade+,mh4g-dex-build7+mh4edit-mit-save-id,3,0
-7,Lacerator Blade,Lacerator Blade,mh4g-dex-build7+mh4edit-mit-save-id,4,0
-8,Devastator Blade,Devastator Blade,mh4g-dex-build7+mh4edit-mit-save-id+mh4g-save-id-dex-crosswalk,5,0
-9,Chrome Razor,Chrome Razor,mh4g-dex-build7+mh4edit-mit-save-id,4,0
-10,Chrome Quietus,Chrome Quietus,mh4g-dex-build7+mh4edit-mit-save-id,5,0
-11,Khezu Shock Sword,Khezu Shock Sword,mh4g-dex-build7+mh4edit-mit-save-id,2,0
-12,Khezu Shock Blade,Khezu Shock Blade,mh4g-dex-build7+mh4edit-mit-save-id,5,0
-13,Khezu Shock Full,Khezu Shock Full,mh4g-dex-build7+mh4edit-mit-save-id,6,0
-14,Santoku Reaver,Santoku Reaver,mh4g-dex-build7+mh4edit-mit-save-id,2,0
-15,Funayuki Reaver,Funayuki Reaver,mh4g-dex-build7+mh4edit-mit-save-id,3,0
-16,Toad Bereaver,Toad Bereaver,mh4g-dex-build7+mh4edit-mit-save-id,4,0
-17,Millstone Bereaver,Millstone Bereaver,mh4g-dex-build7+mh4edit-mit-save-id,5,0
-18,Brazenwall,Brazenwall,mh4g-dex-build7+mh4edit-mit-save-id+mh4g-save-id-dex-crosswalk,3,0
-19,Crimsonwall,Crimsonwall,mh4g-dex-build7+mh4edit-mit-save-id,5,0
-20,Cragscliff,Cragscliff,mh4g-dex-build7+mh4edit-mit-save-id,6,0
-21,Rugged Great Sword,Rugged Great Sword,mh4g-dex-build7+mh4edit-mit-save-id,1,0
-22,Chieftain's Grt Swd,Chieftain's Grt Swd,mh4g-dex-build7+mh4edit-mit-save-id+mh4g-save-id-dex-crosswalk,2,0
-23,Schattenstolz,Schattenstolz,mh4g-dex-build7+mh4edit-mit-save-id,3,0
-24,Düsterstolz,Düsterstolz,mh4g-dex-build7+mh4edit-mit-save-id,4,0
-25,Verhängnisstolz,Verhängnisstolz,mh4g-dex-build7+mh4edit-mit-save-id,5,0
-26,L'Apothéose,L'Apothéose,mh4g-dex-build7+mh4edit-mit-save-id,7,0
-27,Usurper's Storm,Usurper's Storm,mh4g-dex-build7+mh4edit-mit-save-id,3,0
-28,Despot's Blackstorm,Despot's Blackstorm,mh4g-dex-build7+mh4edit-mit-save-id,5,0
-29,Brimstren Drakepride,Brimstren Drakepride,mh4g-dex-build7+mh4edit-mit-save-id,6,0
-30,Demon Rod,Demon Rod,mh4g-dex-build7+mh4edit-mit-save-id,6,0
-31,Great Demon Rod,Great Demon Rod,mh4g-dex-build7+mh4edit-mit-save-id,7,0
-32,Ludroth Bone Sword,Ludroth Bone Sword,mh4g-dex-build7+mh4edit-mit-save-id,2,0
-33,Ludroth Bone Sword+,Ludroth Bone Sword+,mh4g-dex-build7+mh4edit-mit-save-id,2,0
-34,Cataclysm Sword,Cataclysm Sword,mh4g-dex-build7+mh4edit-mit-save-id,4,0
-35,Cataclysm Blade,Cataclysm Blade,mh4g-dex-build7+mh4edit-mit-save-id,5,0
-36,Bone Blade,Bone Blade,mh4g-dex-build7+mh4edit-mit-save-id,1,0
-37,Bone Blade+,Bone Blade+,mh4g-dex-build7+mh4edit-mit-save-id,1,0
-38,Jawblade,Jawblade,mh4g-dex-build7+mh4edit-mit-save-id,1,0
-39,Giant Jawblade,Giant Jawblade,mh4g-dex-build7+mh4edit-mit-save-id,2,0
-40,Golem Blade,Golem Blade,mh4g-dex-build7+mh4edit-mit-save-id,2,0
-41,Tiger Jawblade,Tiger Jawblade,mh4g-dex-build7+mh4edit-mit-save-id,3,0
-42,Tigrex Great Sword,Tigrex Great Sword,mh4g-dex-build7+mh4edit-mit-save-id,5,0
-43,Accursed Blade,Accursed Blade,mh4g-dex-build7+mh4edit-mit-save-id,6,0
-44,Veined Graveblade,Veined Graveblade,mh4g-dex-build7+mh4edit-mit-save-id,7,0
-45,Dios Blade,Dios Blade,mh4g-dex-build7+mh4edit-mit-save-id,4,0
-46,Dios Blade+,Dios Blade+,mh4g-dex-build7+mh4edit-mit-save-id,5,0
-47,Executioner,Executioner,mh4g-dex-build7+mh4edit-mit-save-id,5,0
-48,Valkyrie Blade,Valkyrie Blade,mh4g-dex-build7+mh4edit-mit-save-id,2,0
-49,Sieglinde,Sieglinde,mh4g-dex-build7+mh4edit-mit-save-id,3,0
-50,Titania,Titania,mh4g-dex-build7+mh4edit-mit-save-id,5,0
-51,Blushing Dame,Blushing Dame,mh4g-dex-build7+mh4edit-mit-save-id,6,0
-52,Auberon,Auberon,mh4g-dex-build7+mh4edit-mit-save-id,6,0
-53,Red Wing,Red Wing,mh4g-dex-build7+mh4edit-mit-save-id,3,0
-54,Rathalos Firesword,Rathalos Firesword,mh4g-dex-build7+mh4edit-mit-save-id,4,0
-55,Rathalos Flamesword,Rathalos Flamesword,mh4g-dex-build7+mh4edit-mit-save-id,5,0
-56,Rathalos Gleamsword,Rathalos Gleamsword,mh4g-dex-build7+mh4edit-mit-save-id,7,0
-57,Rathalos Glinsword,Rathalos Glinsword,mh4g-dex-build7+mh4edit-mit-save-id+mh4g-save-id-dex-crosswalk,6,0
-58,Thrash Sword,Thrash Sword,mh4g-dex-build7+mh4edit-mit-save-id,2,0
-59,Thrash Sword+,Thrash Sword+,mh4g-dex-build7+mh4edit-mit-save-id,3,0
-60,Thrash Blade,Thrash Blade,mh4g-dex-build7+mh4edit-mit-save-id,4,0
-61,Thrashgash Blade,Thrashgash Blade,mh4g-dex-build7+mh4edit-mit-save-id,5,0
-62,Immane Blade,Immane Blade,mh4g-dex-build7+mh4edit-mit-save-id,2,0
-63,Immolator Blade,Immolator Blade,mh4g-dex-build7+mh4edit-mit-save-id,3,0
-64,Scylla Blade,Scylla Blade,mh4g-dex-build7+mh4edit-mit-save-id,4,0
-65,Scylla Razor,Scylla Razor,mh4g-dex-build7+mh4edit-mit-save-id,6,0
-66,Vile Serpentblade,Vile Serpentblade,mh4g-dex-build7+mh4edit-mit-save-id,1,0
-67,Vile Serpentblade+,Vile Serpentblade+,mh4g-dex-build7+mh4edit-mit-save-id,2,0
-68,Fanged Serpentblade,Fanged Serpentblade,mh4g-dex-build7+mh4edit-mit-save-id,3,0
-69,Deadly Serpentblade,Deadly Serpentblade,mh4g-dex-build7+mh4edit-mit-save-id,5,0
-70,Poison Serpentblade,Poison Serpentblade,mh4g-dex-build7+mh4edit-mit-save-id,6,0
-71,Chick Decapitator,Chick Decapitator,mh4g-dex-build7+mh4edit-mit-save-id,2,0
-72,Rooster Decapitator,Rooster Decapitator,mh4g-dex-build7+mh4edit-mit-save-id,2,0
-73,Sentoryu Raven,Sentoryu Raven,mh4g-dex-build7+mh4edit-mit-save-id,3,0
-74,Sentoryu Wolf,Sentoryu Wolf,mh4g-dex-build7+mh4edit-mit-save-id,5,0
-75,Sentoryu Crow,Sentoryu Crow,mh4g-dex-build7+mh4edit-mit-save-id,6,0
-76,Hidden Blade,Hidden Blade,mh4g-dex-build7+mh4edit-mit-save-id,3,0
-77,Dark of Night,Dark of Night,mh4g-dex-build7+mh4edit-mit-save-id,6,0
-78,Vulcanis,Vulcanis,mh4g-dex-build7+mh4edit-mit-save-id,4,0
-79,Vulcamagnon,Vulcamagnon,mh4g-dex-build7+mh4edit-mit-save-id,5,0
-80,Plesioth Watercutter,Plesioth Watercutter,mh4g-dex-build7+mh4edit-mit-save-id,2,0
-81,Plesioth Watercutter+,Plesioth Watercutter+,mh4g-dex-build7+mh4edit-mit-save-id,4,0
-82,Plesioth Lullaby,Plesioth Lullaby,mh4g-dex-build7+mh4edit-mit-save-id,5,0
-83,Plesioth Lullabane,Plesioth Lullabane,mh4g-dex-build7+mh4edit-mit-save-id,6,0
-84,Frozen Speartuna,Frozen Speartuna,mh4g-dex-build7+mh4edit-mit-save-id,2,0
-85,Freezer Speartuna,Freezer Speartuna,mh4g-dex-build7+mh4edit-mit-save-id,4,0
-86,Rusted Great Sword,Rusted Great Sword,mh4g-dex-build7+mh4edit-mit-save-id,2,0
-87,Tarnished Great Swd,Tarnished Great Swd,mh4g-dex-build7+mh4edit-mit-save-id,3,0
-88,Ancient Blade,Ancient Blade,mh4g-dex-build7+mh4edit-mit-save-id,4,0
-89,Elder Monument,Elder Monument,mh4g-dex-build7+mh4edit-mit-save-id,5,0
-90,Icesteel Edge,Icesteel Edge,mh4g-dex-build7+mh4edit-mit-save-id,6,0
-91,Daora's Decimator,Daora's Decimator,mh4g-dex-build7+mh4edit-mit-save-id,7,0
-92,Worn Great Sword,Worn Great Sword,mh4g-dex-build7+mh4edit-mit-save-id,5,0
-93,Weathered Great Swd,Weathered Great Swd,mh4g-dex-build7+mh4edit-mit-save-id,5,0
-94,Epitaph Blade,Epitaph Blade,mh4g-dex-build7+mh4edit-mit-save-id,6,0
-95,Teostra Blade,Teostra Blade,mh4g-dex-build7+mh4edit-mit-save-id,6,0
-96,King Teostra Blade,King Teostra Blade,mh4g-dex-build7+mh4edit-mit-save-id,7,0
-97,Kirin Thundersword,Kirin Thundersword,mh4g-dex-build7+mh4edit-mit-save-id,4,0
-98,King Thundersword,King Thundersword,mh4g-dex-build7+mh4edit-mit-save-id,7,0
-99,Emperor Frostsword,Emperor Frostsword,mh4g-dex-build7+mh4edit-mit-save-id,7,0
-100,Berserker Sword,Berserker Sword,mh4g-dex-build7+mh4edit-mit-save-id,4,0
-101,Anguish,Anguish,mh4g-dex-build7+mh4edit-mit-save-id,6,0
-102,Consummate Blade,Consummate Blade,mh4g-dex-build7+mh4edit-mit-save-id,7,0
-103,Akantor Broadsword,Akantor Broadsword,mh4g-dex-build7+mh4edit-mit-save-id,7,0
-104,Swordscale Shard,Swordscale Shard,mh4g-dex-build7+mh4edit-mit-save-id,6,0
-105,The Lethal Graze,The Lethal Graze,mh4g-dex-build7+mh4edit-mit-save-id,7,0
-106,Fatalis Blade,Fatalis Blade,mh4g-dex-build7+mh4edit-mit-save-id,7,0
-107,dummy107,dummy107,mh4edit-mit-save-id,0,0
-108,dummy108,dummy108,mh4edit-mit-save-id,0,0
-109,[JP] ホウマノツルギ,[JP] ホウマノツルギ,mh4g-dex-build7+mh4edit-mit-save-id+mh4g-save-id-dex-crosswalk,2,0
-110,[JP] テンマノツルギ,[JP] テンマノツルギ,mh4g-dex-build7+mh4edit-mit-save-id+mh4g-save-id-dex-crosswalk,5,0
-111,dummy111,dummy111,mh4edit-mit-save-id,0,0
-112,dummy112,dummy112,mh4edit-mit-save-id,0,0
-113,[JP] 仁剣【侠客立ち】,[JP] 仁剣【侠客立ち】,mh4g-dex-build7+mh4edit-mit-save-id+mh4g-save-id-dex-crosswalk,6,0
-114,Universal Chrome,Universal Chrome,mh4g-dex-build7+mh4edit-mit-save-id,6,0
-115,Siegmund (red),Siegmund (red),mh4edit-mit-save-id,0,1
-116,Siegmund (yellow),Siegmund (yellow),mh4edit-mit-save-id,0,1
-117,Siegmund (green),Siegmund (green),mh4edit-mit-save-id,0,1
-118,Siegmund (blue),Siegmund (blue),mh4edit-mit-save-id,0,1
-119,Siegmund (purple),Siegmund (purple),mh4edit-mit-save-id,0,1
-120,Bolt (red),Bolt (red),mh4edit-mit-save-id,0,1
-121,Bolt (yellow),Bolt (yellow),mh4edit-mit-save-id,0,1
-122,Bolt (green),Bolt (green),mh4edit-mit-save-id,0,1
-123,Bolt (blue),Bolt (blue),mh4edit-mit-save-id,0,1
-124,Bolt (purple),Bolt (purple),mh4edit-mit-save-id,0,1
-125,Type 41 Wyvernator (red),Type 41 Wyvernator (red),mh4edit-mit-save-id,0,1
-126,Type 41 Wyvernator (yellow),Type 41 Wyvernator (yellow),mh4edit-mit-save-id,0,1
-127,Type 41 Wyvernator (green),Type 41 Wyvernator (green),mh4edit-mit-save-id,0,1
-128,Type 41 Wyvernator (blue),Type 41 Wyvernator (blue),mh4edit-mit-save-id,0,1
-129,Type 41 Wyvernator (purple),Type 41 Wyvernator (purple),mh4edit-mit-save-id,0,1
-130,Flash (red),Flash (red),mh4edit-mit-save-id,0,1
-131,Flash (yellow),Flash (yellow),mh4edit-mit-save-id,0,1
-132,Flash (green),Flash (green),mh4edit-mit-save-id,0,1
-133,Flash (blue),Flash (blue),mh4edit-mit-save-id,0,1
-134,Flash (purple),Flash (purple),mh4edit-mit-save-id,0,1
-135,Dragonseal (red),Dragonseal (red),mh4edit-mit-save-id,0,1
-136,Dragonseal (yellow),Dragonseal (yellow),mh4edit-mit-save-id,0,1
-137,Dragonseal (green),Dragonseal (green),mh4edit-mit-save-id,0,1
-138,Dragonseal (blue),Dragonseal (blue),mh4edit-mit-save-id,0,1
-139,Dragonseal (purple),Dragonseal (purple),mh4edit-mit-save-id,0,1
-140,Exemplar Blade,Exemplar Blade,mh4g-dex-build7+mh4edit-mit-save-id,8,0
-141,Grandglory Blade,Grandglory Blade,mh4g-dex-build7+mh4edit-mit-save-id,9,0
-142,Chrome Hell,Chrome Hell,mh4g-dex-build7+mh4edit-mit-save-id,8,0
-143,Chrome Heaven,Chrome Heaven,mh4g-dex-build7+mh4edit-mit-save-id,9,0
-144,Blood Sword,Blood Sword,mh4g-dex-build7+mh4edit-mit-save-id,8,0
-145,Blood Shock,Blood Shock,mh4g-dex-build7+mh4edit-mit-save-id,9,0
-146,Rampage Blade,Rampage Blade,mh4g-dex-build7+mh4edit-mit-save-id,8,0
-147,Rampage Temperline,Rampage Temperline,mh4g-dex-build7+mh4edit-mit-save-id,9,0
-148,Cragscliff+,Cragscliff+,mh4g-dex-build7+mh4edit-mit-save-id,9,0
-149,Cliffsword Titanius,Cliffsword Titanius,mh4g-dex-build7+mh4edit-mit-save-id,9,0
-150,L'Éclat,L'Éclat,mh4g-dex-build7+mh4edit-mit-save-id,9,0
-151,L'Origine,L'Origine,mh4g-dex-build7+mh4edit-mit-save-id,10,0
-152,Düster/Éclat,Düster/Éclat,mh4g-dex-build7+mh4edit-mit-save-id,9,0
-153,Oppressor's Forger,Oppressor's Forger,mh4g-dex-build7+mh4edit-mit-save-id,9,0
-154,Orcus Tonitrus,Orcus Tonitrus,mh4g-dex-build7+mh4edit-mit-save-id,9,0
-155,Brimstren Drakepride+,Brimstren Drakepride+,mh4g-dex-build7+mh4edit-mit-save-id,9,0
-156,Stygian Acedia,Stygian Acedia,mh4g-dex-build7+mh4edit-mit-save-id,10,0
-157,Great Demon Hot Rod,Great Demon Hot Rod,mh4g-dex-build7+mh4edit-mit-save-id,9,0
-158,Demonlord Rod,Demonlord Rod,mh4g-dex-build7+mh4edit-mit-save-id,10,0
-159,Cataclysm Blade+,Cataclysm Blade+,mh4g-dex-build7+mh4edit-mit-save-id,9,0
-160,Veined Graveblade+,Veined Graveblade+,mh4g-dex-build7+mh4edit-mit-save-id,9,0
-161,Deified Grisblade,Deified Grisblade,mh4g-dex-build7+mh4edit-mit-save-id,10,0
-162,Myxo Demolisher,Myxo Demolisher,mh4g-dex-build7+mh4edit-mit-save-id,9,0
-163,Lightbreak Blade,Lightbreak Blade,mh4g-dex-build7+mh4edit-mit-save-id,10,0
-164,Executioner,Executioner,mh4g-dex-build7+mh4edit-mit-save-id,5,0
-165,Executioner+,Executioner+,mh4g-dex-build7+mh4edit-mit-save-id,9,0
-166,Enforcer's Axe,Enforcer's Axe,mh4g-dex-build7+mh4edit-mit-save-id,9,0
-167,Cera Cigil,Cera Cigil,mh4g-dex-build7+mh4edit-mit-save-id,9,0
-168,Cera Cymmetry,Cera Cymmetry,mh4g-dex-build7+mh4edit-mit-save-id,9,0
-169,Red Pincer,Red Pincer,mh4g-dex-build7+mh4edit-mit-save-id,4,0
-170,Great Pincer,Great Pincer,mh4g-dex-build7+mh4edit-mit-save-id,8,0
-171,Violet Pincer,Violet Pincer,mh4g-dex-build7+mh4edit-mit-save-id,8,0
-172,Grand Pincer,Grand Pincer,mh4g-dex-build7+mh4edit-mit-save-id,9,0
-173,Blushing Dame+,Blushing Dame+,mh4g-dex-build7+mh4edit-mit-save-id,8,0
-174,Brünnhilde,Brünnhilde,mh4g-dex-build7+mh4edit-mit-save-id,9,0
-175,Auberon+,Auberon+,mh4g-dex-build7+mh4edit-mit-save-id,9,0
-176,Pale Kaiser,Pale Kaiser,mh4g-dex-build7+mh4edit-mit-save-id,9,0
-177,Rathalos Gleamsword+,Rathalos Gleamsword+,mh4g-dex-build7+mh4edit-mit-save-id,9,0
-178,Rathlord Gleamsword,Rathlord Gleamsword,mh4g-dex-build7+mh4edit-mit-save-id,10,0
-179,Rathalos Glinsword+,Rathalos Glinsword+,mh4g-dex-build7+mh4edit-mit-save-id,9,0
-180,Rathflame Glinsword,Rathflame Glinsword,mh4g-dex-build7+mh4edit-mit-save-id,9,0
-181,Jala Blade,Jala Blade,mh4g-dex-build7+mh4edit-mit-save-id,8,0
-182,Jajala Blade,Jajala Blade,mh4g-dex-build7+mh4edit-mit-save-id,8,0
-183,Pavaka Blade,Pavaka Blade,mh4g-dex-build7+mh4edit-mit-save-id,8,0
-184,Jvalayati Blade,Jvalayati Blade,mh4g-dex-build7+mh4edit-mit-save-id,8,0
-185,Scylla Shear,Scylla Shear,mh4g-dex-build7+mh4edit-mit-save-id,8,0
-186,Ebonscylla,Ebonscylla,mh4g-dex-build7+mh4edit-mit-save-id,9,0
-187,Webbonscylla,Webbonscylla,mh4g-dex-build7+mh4edit-mit-save-id,9,0
-188,Snakesmaw,Snakesmaw,mh4g-dex-build7+mh4edit-mit-save-id,9,0
-189,Sentoryu Pox,Sentoryu Pox,mh4g-dex-build7+mh4edit-mit-save-id,8,0
-190,Garuga Engetsu,Garuga Engetsu,mh4g-dex-build7+mh4edit-mit-save-id,9,0
-191,Dark of Night+,Dark of Night+,mh4g-dex-build7+mh4edit-mit-save-id,9,0
-192,Avidya Great Sword,Avidya Great Sword,mh4g-dex-build7+mh4edit-mit-save-id,10,0
-193,Vulcatastrophe,Vulcatastrophe,mh4g-dex-build7+mh4edit-mit-save-id,8,0
-194,Vulca Vendetta,Vulca Vendetta,mh4g-dex-build7+mh4edit-mit-save-id,8,0
-195,Plesioth Lullabane+,Plesioth Lullabane+,mh4g-dex-build7+mh4edit-mit-save-id,8,0
-196,Plesioth Pelagis,Plesioth Pelagis,mh4g-dex-build7+mh4edit-mit-save-id,9,0
-197,Xiphias Gladius,Xiphias Gladius,mh4g-dex-build7+mh4edit-mit-save-id,8,0
-198,Eternal Glyph,Eternal Glyph,mh4g-dex-build7+mh4edit-mit-save-id,9,0
-199,Daora's Deathmaker,Daora's Deathmaker,mh4g-dex-build7+mh4edit-mit-save-id,10,0
-200,Eldaora's Death,Eldaora's Death,mh4g-dex-build7+mh4edit-mit-save-id,10,0
-201,Epitaph Blade+,Epitaph Blade+,mh4g-dex-build7+mh4edit-mit-save-id,8,0
-202,Epitaph Eternal,Epitaph Eternal,mh4g-dex-build7+mh4edit-mit-save-id,9,0
-203,Teostra del Sol,Teostra del Sol,mh4g-dex-build7+mh4edit-mit-save-id,10,0
-204,Grand Shamshir,Grand Shamshir,mh4g-dex-build7+mh4edit-mit-save-id,10,0
-205,Emperor Thundersword,Emperor Thundersword,mh4g-dex-build7+mh4edit-mit-save-id,10,0
-206,Frostsword,Frostsword,mh4g-dex-build7+mh4edit-mit-save-id,9,0
-207,King Frostsword,King Frostsword,mh4g-dex-build7+mh4edit-mit-save-id,10,0
-208,"Doomedge ""Hrunting""","Doomedge ""Hrunting""",mh4g-dex-build7+mh4edit-mit-save-id,10,0
-209,Akantor Broadsword+,Akantor Broadsword+,mh4g-dex-build7+mh4edit-mit-save-id,10,0
-210,Ukanlos Destructor,Ukanlos Destructor,mh4g-dex-build7+mh4edit-mit-save-id,7,0
-211,Ukanlos Skycleaver,Ukanlos Skycleaver,mh4g-dex-build7+mh4edit-mit-save-id,9,0
-212,Wold the Just,Wold the Just,mh4g-dex-build7+mh4edit-mit-save-id,9,0
-213,Dalamadur Blade,Dalamadur Blade,mh4g-dex-build7+mh4edit-mit-save-id,10,0
-214,Dreaming Dalamadur,Dreaming Dalamadur,mh4g-dex-build7+mh4edit-mit-save-id,10,0
-215,Black Fatalis Blade,Black Fatalis Blade,mh4g-dex-build7+mh4edit-mit-save-id,10,0
-216,Flame Fatalis Blade,Flame Fatalis Blade,mh4g-dex-build7+mh4edit-mit-save-id,10,0
-217,Fatalis Legacy,Fatalis Legacy,mh4g-dex-build7+mh4edit-mit-save-id,10,0
-218,Cheda Blade,Cheda Blade,mh4g-dex-build7+mh4edit-mit-save-id,6,0
-219,Cheda Blade+,Cheda Blade+,mh4g-dex-build7+mh4edit-mit-save-id,7,0
-220,Seditious Cleaver,Seditious Cleaver,mh4g-dex-build7+mh4edit-mit-save-id,9,0
-221,Rogue Sedition,Rogue Sedition,mh4g-dex-build7+mh4edit-mit-save-id,10,0
-222,Monument of Lament,Monument of Lament,mh4g-dex-build7+mh4edit-mit-save-id,10,0
-223,Ostracon Oblivion,Ostracon Oblivion,mh4g-dex-build7+mh4edit-mit-save-id,10,0
-224,G Blade,G Blade,mh4g-dex-build7+mh4edit-mit-save-id,9,0
-225,Black Belt Blade,Black Belt Blade,mh4g-dex-build7+mh4edit-mit-save-id,9,0
-226,Commemoration Sword,Commemoration Sword,mh4g-dex-build7+mh4edit-mit-save-id,10,0
-227,[JP] アモンの剣,[JP] アモンの剣,mh4g-dex-build7+mh4edit-mit-save-id+mh4g-save-id-dex-crosswalk,10,0
-228,DUMMY,DUMMY,mh4edit-mit-save-id,0,0
-229,DUMMY,DUMMY,mh4edit-mit-save-id,0,0
-230,DUMMY,DUMMY,mh4edit-mit-save-id,0,0
-231,DUMMY,DUMMY,mh4edit-mit-save-id,0,0
-232,DUMMY,DUMMY,mh4edit-mit-save-id,0,0
-233,DUMMY,DUMMY,mh4edit-mit-save-id,0,0
-234,Dos Exile,Dos Exile,mh4edit-mit-save-id,0,0
-235,Rath of Stars,Rath of Stars,mh4edit-mit-save-id,0,0
-236,Sea-emperor's Sword (red),Sea-emperor's Sword (red),mh4edit-mit-save-id,0,1
-237,Sea-emperor's Sword (yellow),Sea-emperor's Sword (yellow),mh4edit-mit-save-id,0,1
-238,Sea-emperor's Sword (green),Sea-emperor's Sword (green),mh4edit-mit-save-id,0,1
-239,Sea-emperor's Sword (blue),Sea-emperor's Sword (blue),mh4edit-mit-save-id,0,1
-240,Sea-emperor's Sword (purple),Sea-emperor's Sword (purple),mh4edit-mit-save-id,0,1
-241,Jawblade (red),Jawblade (red),mh4g-dex-build7+mh4edit-mit-save-id,0,1
-242,Jawblade (yellow),Jawblade (yellow),mh4g-dex-build7+mh4edit-mit-save-id,0,1
-243,Jawblade (green),Jawblade (green),mh4g-dex-build7+mh4edit-mit-save-id,0,1
-244,Jawblade (blue),Jawblade (blue),mh4g-dex-build7+mh4edit-mit-save-id,0,1
-245,Jawblade (purple),Jawblade (purple),mh4g-dex-build7+mh4edit-mit-save-id,0,1
+0,None,None,mh4g-core-common-game-array,0,0
+1,Iron Sword,Iron Sword,mh4g-core-common-game-array+mh4g-dex-build7+mh4edit-mit-save-id,1,0
+2,Iron Sword+,Iron Sword+,mh4g-core-common-game-array+mh4g-dex-build7+mh4edit-mit-save-id,1,0
+3,Buster Sword,Buster Sword,mh4g-core-common-game-array+mh4g-dex-build7+mh4edit-mit-save-id,1,0
+4,Buster Sword+,Buster Sword+,mh4g-core-common-game-array+mh4g-dex-build7+mh4edit-mit-save-id,2,0
+5,Ravager Blade,Ravager Blade,mh4g-core-common-game-array+mh4g-dex-build7+mh4edit-mit-save-id,2,0
+6,Ravager Blade+,Ravager Blade+,mh4g-core-common-game-array+mh4g-dex-build7+mh4edit-mit-save-id,3,0
+7,Lacerator Blade,Lacerator Blade,mh4g-core-common-game-array+mh4g-dex-build7+mh4edit-mit-save-id,4,0
+8,Devastator Blade,Devastator Blade,mh4g-core-common-game-array+mh4g-dex-build7+mh4edit-mit-save-id+mh4g-save-id-dex-crosswalk,5,0
+9,Chrome Razor,Chrome Razor,mh4g-core-common-game-array+mh4g-dex-build7+mh4edit-mit-save-id,4,0
+10,Chrome Quietus,Chrome Quietus,mh4g-core-common-game-array+mh4g-dex-build7+mh4edit-mit-save-id,5,0
+11,Khezu Shock Sword,Khezu Shock Sword,mh4g-core-common-game-array+mh4g-dex-build7+mh4edit-mit-save-id,2,0
+12,Khezu Shock Blade,Khezu Shock Blade,mh4g-core-common-game-array+mh4g-dex-build7+mh4edit-mit-save-id,5,0
+13,Khezu Shock Full,Khezu Shock Full,mh4g-core-common-game-array+mh4g-dex-build7+mh4edit-mit-save-id,6,0
+14,Santoku Reaver,Santoku Reaver,mh4g-core-common-game-array+mh4g-dex-build7+mh4edit-mit-save-id,2,0
+15,Funayuki Reaver,Funayuki Reaver,mh4g-core-common-game-array+mh4g-dex-build7+mh4edit-mit-save-id,3,0
+16,Toad Bereaver,Toad Bereaver,mh4g-core-common-game-array+mh4g-dex-build7+mh4edit-mit-save-id,4,0
+17,Millstone Bereaver,Millstone Bereaver,mh4g-core-common-game-array+mh4g-dex-build7+mh4edit-mit-save-id,5,0
+18,Brazenwall,Brazenwall,mh4g-core-common-game-array+mh4g-dex-build7+mh4edit-mit-save-id+mh4g-save-id-dex-crosswalk,3,0
+19,Crimsonwall,Crimsonwall,mh4g-core-common-game-array+mh4g-dex-build7+mh4edit-mit-save-id,5,0
+20,Cragscliff,Cragscliff,mh4g-core-common-game-array+mh4g-dex-build7+mh4edit-mit-save-id,6,0
+21,Rugged Great Sword,Rugged Great Sword,mh4g-core-common-game-array+mh4g-dex-build7+mh4edit-mit-save-id,1,0
+22,Chieftain's Grt Swd,Chieftain's Grt Swd,mh4g-core-common-game-array+mh4g-dex-build7+mh4edit-mit-save-id+mh4g-save-id-dex-crosswalk,2,0
+23,Schattenstolz,Schattenstolz,mh4g-core-common-game-array+mh4g-dex-build7+mh4edit-mit-save-id,3,0
+24,Düsterstolz,Düsterstolz,mh4g-core-common-game-array+mh4g-dex-build7+mh4edit-mit-save-id,4,0
+25,Verhängnisstolz,Verhängnisstolz,mh4g-core-common-game-array+mh4g-dex-build7+mh4edit-mit-save-id,5,0
+26,L'Apothéose,L'Apothéose,mh4g-core-common-game-array+mh4g-dex-build7+mh4edit-mit-save-id,7,0
+27,Usurper's Storm,Usurper's Storm,mh4g-core-common-game-array+mh4g-dex-build7+mh4edit-mit-save-id,3,0
+28,Despot's Blackstorm,Despot's Blackstorm,mh4g-core-common-game-array+mh4g-dex-build7+mh4edit-mit-save-id,5,0
+29,Brimstren Drakepride,Brimstren Drakepride,mh4g-core-common-game-array+mh4g-dex-build7+mh4edit-mit-save-id,6,0
+30,Demon Rod,Demon Rod,mh4g-core-common-game-array+mh4g-dex-build7+mh4edit-mit-save-id,6,0
+31,Great Demon Rod,Great Demon Rod,mh4g-core-common-game-array+mh4g-dex-build7+mh4edit-mit-save-id,7,0
+32,Ludroth Bone Sword,Ludroth Bone Sword,mh4g-core-common-game-array+mh4g-dex-build7+mh4edit-mit-save-id,2,0
+33,Ludroth Bone Sword+,Ludroth Bone Sword+,mh4g-core-common-game-array+mh4g-dex-build7+mh4edit-mit-save-id,2,0
+34,Cataclysm Sword,Cataclysm Sword,mh4g-core-common-game-array+mh4g-dex-build7+mh4edit-mit-save-id,4,0
+35,Cataclysm Blade,Cataclysm Blade,mh4g-core-common-game-array+mh4g-dex-build7+mh4edit-mit-save-id,5,0
+36,Bone Blade,Bone Blade,mh4g-core-common-game-array+mh4g-dex-build7+mh4edit-mit-save-id,1,0
+37,Bone Blade+,Bone Blade+,mh4g-core-common-game-array+mh4g-dex-build7+mh4edit-mit-save-id,1,0
+38,Jawblade,Jawblade,mh4g-core-common-game-array+mh4g-dex-build7+mh4edit-mit-save-id,1,0
+39,Giant Jawblade,Giant Jawblade,mh4g-core-common-game-array+mh4g-dex-build7+mh4edit-mit-save-id,2,0
+40,Golem Blade,Golem Blade,mh4g-core-common-game-array+mh4g-dex-build7+mh4edit-mit-save-id,2,0
+41,Tiger Jawblade,Tiger Jawblade,mh4g-core-common-game-array+mh4g-dex-build7+mh4edit-mit-save-id,3,0
+42,Tigrex Great Sword,Tigrex Great Sword,mh4g-core-common-game-array+mh4g-dex-build7+mh4edit-mit-save-id,5,0
+43,Accursed Blade,Accursed Blade,mh4g-core-common-game-array+mh4g-dex-build7+mh4edit-mit-save-id,6,0
+44,Veined Graveblade,Veined Graveblade,mh4g-core-common-game-array+mh4g-dex-build7+mh4edit-mit-save-id,7,0
+45,Dios Blade,Dios Blade,mh4g-core-common-game-array+mh4g-dex-build7+mh4edit-mit-save-id,4,0
+46,Dios Blade+,Dios Blade+,mh4g-core-common-game-array+mh4g-dex-build7+mh4edit-mit-save-id,5,0
+47,Executioner,Executioner,mh4g-core-common-game-array+mh4g-dex-build7+mh4edit-mit-save-id,5,0
+48,Valkyrie Blade,Valkyrie Blade,mh4g-core-common-game-array+mh4g-dex-build7+mh4edit-mit-save-id,2,0
+49,Sieglinde,Sieglinde,mh4g-core-common-game-array+mh4g-dex-build7+mh4edit-mit-save-id,3,0
+50,Titania,Titania,mh4g-core-common-game-array+mh4g-dex-build7+mh4edit-mit-save-id,5,0
+51,Blushing Dame,Blushing Dame,mh4g-core-common-game-array+mh4g-dex-build7+mh4edit-mit-save-id,6,0
+52,Auberon,Auberon,mh4g-core-common-game-array+mh4g-dex-build7+mh4edit-mit-save-id,6,0
+53,Red Wing,Red Wing,mh4g-core-common-game-array+mh4g-dex-build7+mh4edit-mit-save-id,3,0
+54,Rathalos Firesword,Rathalos Firesword,mh4g-core-common-game-array+mh4g-dex-build7+mh4edit-mit-save-id,4,0
+55,Rathalos Flamesword,Rathalos Flamesword,mh4g-core-common-game-array+mh4g-dex-build7+mh4edit-mit-save-id,5,0
+56,Rathalos Gleamsword,Rathalos Gleamsword,mh4g-core-common-game-array+mh4g-dex-build7+mh4edit-mit-save-id,7,0
+57,Rathalos Glinsword,Rathalos Glinsword,mh4g-core-common-game-array+mh4g-dex-build7+mh4edit-mit-save-id+mh4g-save-id-dex-crosswalk,6,0
+58,Thrash Sword,Thrash Sword,mh4g-core-common-game-array+mh4g-dex-build7+mh4edit-mit-save-id,2,0
+59,Thrash Sword+,Thrash Sword+,mh4g-core-common-game-array+mh4g-dex-build7+mh4edit-mit-save-id,3,0
+60,Thrash Blade,Thrash Blade,mh4g-core-common-game-array+mh4g-dex-build7+mh4edit-mit-save-id,4,0
+61,Thrashgash Blade,Thrashgash Blade,mh4g-core-common-game-array+mh4g-dex-build7+mh4edit-mit-save-id,5,0
+62,Immane Blade,Immane Blade,mh4g-core-common-game-array+mh4g-dex-build7+mh4edit-mit-save-id,2,0
+63,Immolator Blade,Immolator Blade,mh4g-core-common-game-array+mh4g-dex-build7+mh4edit-mit-save-id,3,0
+64,Scylla Blade,Scylla Blade,mh4g-core-common-game-array+mh4g-dex-build7+mh4edit-mit-save-id,4,0
+65,Scylla Razor,Scylla Razor,mh4g-core-common-game-array+mh4g-dex-build7+mh4edit-mit-save-id,6,0
+66,Vile Serpentblade,Vile Serpentblade,mh4g-core-common-game-array+mh4g-dex-build7+mh4edit-mit-save-id,1,0
+67,Vile Serpentblade+,Vile Serpentblade+,mh4g-core-common-game-array+mh4g-dex-build7+mh4edit-mit-save-id,2,0
+68,Fanged Serpentblade,Fanged Serpentblade,mh4g-core-common-game-array+mh4g-dex-build7+mh4edit-mit-save-id,3,0
+69,Deadly Serpentblade,Deadly Serpentblade,mh4g-core-common-game-array+mh4g-dex-build7+mh4edit-mit-save-id,5,0
+70,Poison Serpentblade,Poison Serpentblade,mh4g-core-common-game-array+mh4g-dex-build7+mh4edit-mit-save-id,6,0
+71,Chick Decapitator,Chick Decapitator,mh4g-core-common-game-array+mh4g-dex-build7+mh4edit-mit-save-id,2,0
+72,Rooster Decapitator,Rooster Decapitator,mh4g-core-common-game-array+mh4g-dex-build7+mh4edit-mit-save-id,2,0
+73,Sentoryu Raven,Sentoryu Raven,mh4g-core-common-game-array+mh4g-dex-build7+mh4edit-mit-save-id,3,0
+74,Sentoryu Wolf,Sentoryu Wolf,mh4g-core-common-game-array+mh4g-dex-build7+mh4edit-mit-save-id,5,0
+75,Sentoryu Crow,Sentoryu Crow,mh4g-core-common-game-array+mh4g-dex-build7+mh4edit-mit-save-id,6,0
+76,Hidden Blade,Hidden Blade,mh4g-core-common-game-array+mh4g-dex-build7+mh4edit-mit-save-id,3,0
+77,Dark of Night,Dark of Night,mh4g-core-common-game-array+mh4g-dex-build7+mh4edit-mit-save-id,6,0
+78,Vulcanis,Vulcanis,mh4g-core-common-game-array+mh4g-dex-build7+mh4edit-mit-save-id,4,0
+79,Vulcamagnon,Vulcamagnon,mh4g-core-common-game-array+mh4g-dex-build7+mh4edit-mit-save-id,5,0
+80,Plesioth Watercutter,Plesioth Watercutter,mh4g-core-common-game-array+mh4g-dex-build7+mh4edit-mit-save-id,2,0
+81,Plesioth Watercutter+,Plesioth Watercutter+,mh4g-core-common-game-array+mh4g-dex-build7+mh4edit-mit-save-id,4,0
+82,Plesioth Lullaby,Plesioth Lullaby,mh4g-core-common-game-array+mh4g-dex-build7+mh4edit-mit-save-id,5,0
+83,Plesioth Lullabane,Plesioth Lullabane,mh4g-core-common-game-array+mh4g-dex-build7+mh4edit-mit-save-id,6,0
+84,Frozen Speartuna,Frozen Speartuna,mh4g-core-common-game-array+mh4g-dex-build7+mh4edit-mit-save-id,2,0
+85,Freezer Speartuna,Freezer Speartuna,mh4g-core-common-game-array+mh4g-dex-build7+mh4edit-mit-save-id,4,0
+86,Rusted Great Sword,Rusted Great Sword,mh4g-core-common-game-array+mh4g-dex-build7+mh4edit-mit-save-id,2,0
+87,Tarnished Great Swd,Tarnished Great Swd,mh4g-core-common-game-array+mh4g-dex-build7+mh4edit-mit-save-id,3,0
+88,Ancient Blade,Ancient Blade,mh4g-core-common-game-array+mh4g-dex-build7+mh4edit-mit-save-id,4,0
+89,Elder Monument,Elder Monument,mh4g-core-common-game-array+mh4g-dex-build7+mh4edit-mit-save-id,5,0
+90,Icesteel Edge,Icesteel Edge,mh4g-core-common-game-array+mh4g-dex-build7+mh4edit-mit-save-id,6,0
+91,Daora's Decimator,Daora's Decimator,mh4g-core-common-game-array+mh4g-dex-build7+mh4edit-mit-save-id,7,0
+92,Worn Great Sword,Worn Great Sword,mh4g-core-common-game-array+mh4g-dex-build7+mh4edit-mit-save-id,5,0
+93,Weathered Great Swd,Weathered Great Swd,mh4g-core-common-game-array+mh4g-dex-build7+mh4edit-mit-save-id,5,0
+94,Epitaph Blade,Epitaph Blade,mh4g-core-common-game-array+mh4g-dex-build7+mh4edit-mit-save-id,6,0
+95,Teostra Blade,Teostra Blade,mh4g-core-common-game-array+mh4g-dex-build7+mh4edit-mit-save-id,6,0
+96,King Teostra Blade,King Teostra Blade,mh4g-core-common-game-array+mh4g-dex-build7+mh4edit-mit-save-id,7,0
+97,Kirin Thundersword,Kirin Thundersword,mh4g-core-common-game-array+mh4g-dex-build7+mh4edit-mit-save-id,4,0
+98,King Thundersword,King Thundersword,mh4g-core-common-game-array+mh4g-dex-build7+mh4edit-mit-save-id,7,0
+99,Emperor Frostsword,Emperor Frostsword,mh4g-core-common-game-array+mh4g-dex-build7+mh4edit-mit-save-id,7,0
+100,Berserker Sword,Berserker Sword,mh4g-core-common-game-array+mh4g-dex-build7+mh4edit-mit-save-id,4,0
+101,Anguish,Anguish,mh4g-core-common-game-array+mh4g-dex-build7+mh4edit-mit-save-id,6,0
+102,Consummate Blade,Consummate Blade,mh4g-core-common-game-array+mh4g-dex-build7+mh4edit-mit-save-id,7,0
+103,Akantor Broadsword,Akantor Broadsword,mh4g-core-common-game-array+mh4g-dex-build7+mh4edit-mit-save-id,7,0
+104,Swordscale Shard,Swordscale Shard,mh4g-core-common-game-array+mh4g-dex-build7+mh4edit-mit-save-id,6,0
+105,The Lethal Graze,The Lethal Graze,mh4g-core-common-game-array+mh4g-dex-build7+mh4edit-mit-save-id,7,0
+106,Fatalis Blade,Fatalis Blade,mh4g-core-common-game-array+mh4g-dex-build7+mh4edit-mit-save-id,7,0
+107,dummy107,dummy107,mh4g-core-common-game-array+mh4edit-mit-save-id,0,0
+108,dummy108,dummy108,mh4g-core-common-game-array+mh4edit-mit-save-id,0,0
+109,[JP] ホウマノツルギ,[JP] ホウマノツルギ,mh4g-core-common-game-array+mh4g-dex-build7+mh4edit-mit-save-id+mh4g-save-id-dex-crosswalk,2,0
+110,[JP] テンマノツルギ,[JP] テンマノツルギ,mh4g-core-common-game-array+mh4g-dex-build7+mh4edit-mit-save-id+mh4g-save-id-dex-crosswalk,5,0
+111,dummy111,dummy111,mh4g-core-common-game-array+mh4edit-mit-save-id,0,0
+112,dummy112,dummy112,mh4g-core-common-game-array+mh4edit-mit-save-id,0,0
+113,[JP] 仁剣【侠客立ち】,[JP] 仁剣【侠客立ち】,mh4g-core-common-game-array+mh4g-dex-build7+mh4edit-mit-save-id+mh4g-save-id-dex-crosswalk,6,0
+114,Universal Chrome,Universal Chrome,mh4g-core-common-game-array+mh4g-dex-build7+mh4edit-mit-save-id,6,0
+115,Siegmund (red),Siegmund (red),mh4g-core-common-game-array+mh4edit-mit-save-id,0,1
+116,Siegmund (yellow),Siegmund (yellow),mh4g-core-common-game-array+mh4edit-mit-save-id,0,1
+117,Siegmund (green),Siegmund (green),mh4g-core-common-game-array+mh4edit-mit-save-id,0,1
+118,Siegmund (blue),Siegmund (blue),mh4g-core-common-game-array+mh4edit-mit-save-id,0,1
+119,Siegmund (purple),Siegmund (purple),mh4g-core-common-game-array+mh4edit-mit-save-id,0,1
+120,Bolt (red),Bolt (red),mh4g-core-common-game-array+mh4edit-mit-save-id,0,1
+121,Bolt (yellow),Bolt (yellow),mh4g-core-common-game-array+mh4edit-mit-save-id,0,1
+122,Bolt (green),Bolt (green),mh4g-core-common-game-array+mh4edit-mit-save-id,0,1
+123,Bolt (blue),Bolt (blue),mh4g-core-common-game-array+mh4edit-mit-save-id,0,1
+124,Bolt (purple),Bolt (purple),mh4g-core-common-game-array+mh4edit-mit-save-id,0,1
+125,Type 41 Wyvernator (red),Type 41 Wyvernator (red),mh4g-core-common-game-array+mh4edit-mit-save-id,0,1
+126,Type 41 Wyvernator (yellow),Type 41 Wyvernator (yellow),mh4g-core-common-game-array+mh4edit-mit-save-id,0,1
+127,Type 41 Wyvernator (green),Type 41 Wyvernator (green),mh4g-core-common-game-array+mh4edit-mit-save-id,0,1
+128,Type 41 Wyvernator (blue),Type 41 Wyvernator (blue),mh4g-core-common-game-array+mh4edit-mit-save-id,0,1
+129,Type 41 Wyvernator (purple),Type 41 Wyvernator (purple),mh4g-core-common-game-array+mh4edit-mit-save-id,0,1
+130,Flash (red),Flash (red),mh4g-core-common-game-array+mh4edit-mit-save-id,0,1
+131,Flash (yellow),Flash (yellow),mh4g-core-common-game-array+mh4edit-mit-save-id,0,1
+132,Flash (green),Flash (green),mh4g-core-common-game-array+mh4edit-mit-save-id,0,1
+133,Flash (blue),Flash (blue),mh4g-core-common-game-array+mh4edit-mit-save-id,0,1
+134,Flash (purple),Flash (purple),mh4g-core-common-game-array+mh4edit-mit-save-id,0,1
+135,Dragonseal (red),Dragonseal (red),mh4g-core-common-game-array+mh4edit-mit-save-id,0,1
+136,Dragonseal (yellow),Dragonseal (yellow),mh4g-core-common-game-array+mh4edit-mit-save-id,0,1
+137,Dragonseal (green),Dragonseal (green),mh4g-core-common-game-array+mh4edit-mit-save-id,0,1
+138,Dragonseal (blue),Dragonseal (blue),mh4g-core-common-game-array+mh4edit-mit-save-id,0,1
+139,Dragonseal (purple),Dragonseal (purple),mh4g-core-common-game-array+mh4edit-mit-save-id,0,1
+140,Exemplar Blade,Exemplar Blade,mh4g-core-common-game-array+mh4g-dex-build7+mh4edit-mit-save-id,8,0
+141,Grandglory Blade,Grandglory Blade,mh4g-core-common-game-array+mh4g-dex-build7+mh4edit-mit-save-id,9,0
+142,Chrome Hell,Chrome Hell,mh4g-core-common-game-array+mh4g-dex-build7+mh4edit-mit-save-id,8,0
+143,Chrome Heaven,Chrome Heaven,mh4g-core-common-game-array+mh4g-dex-build7+mh4edit-mit-save-id,9,0
+144,Blood Sword,Blood Sword,mh4g-core-common-game-array+mh4g-dex-build7+mh4edit-mit-save-id,8,0
+145,Blood Shock,Blood Shock,mh4g-core-common-game-array+mh4g-dex-build7+mh4edit-mit-save-id,9,0
+146,Rampage Blade,Rampage Blade,mh4g-core-common-game-array+mh4g-dex-build7+mh4edit-mit-save-id,8,0
+147,Rampage Temperline,Rampage Temperline,mh4g-core-common-game-array+mh4g-dex-build7+mh4edit-mit-save-id,9,0
+148,Cragscliff+,Cragscliff+,mh4g-core-common-game-array+mh4g-dex-build7+mh4edit-mit-save-id,9,0
+149,Cliffsword Titanius,Cliffsword Titanius,mh4g-core-common-game-array+mh4g-dex-build7+mh4edit-mit-save-id,9,0
+150,L'Éclat,L'Éclat,mh4g-core-common-game-array+mh4g-dex-build7+mh4edit-mit-save-id,9,0
+151,L'Origine,L'Origine,mh4g-core-common-game-array+mh4g-dex-build7+mh4edit-mit-save-id,10,0
+152,Düster/Éclat,Düster/Éclat,mh4g-core-common-game-array+mh4g-dex-build7+mh4edit-mit-save-id,9,0
+153,Oppressor's Forger,Oppressor's Forger,mh4g-core-common-game-array+mh4g-dex-build7+mh4edit-mit-save-id,9,0
+154,Orcus Tonitrus,Orcus Tonitrus,mh4g-core-common-game-array+mh4g-dex-build7+mh4edit-mit-save-id,9,0
+155,Brimstren Drakepride+,Brimstren Drakepride+,mh4g-core-common-game-array+mh4g-dex-build7+mh4edit-mit-save-id,9,0
+156,Stygian Acedia,Stygian Acedia,mh4g-core-common-game-array+mh4g-dex-build7+mh4edit-mit-save-id,10,0
+157,Great Demon Hot Rod,Great Demon Hot Rod,mh4g-core-common-game-array+mh4g-dex-build7+mh4edit-mit-save-id,9,0
+158,Demonlord Rod,Demonlord Rod,mh4g-core-common-game-array+mh4g-dex-build7+mh4edit-mit-save-id,10,0
+159,Cataclysm Blade+,Cataclysm Blade+,mh4g-core-common-game-array+mh4g-dex-build7+mh4edit-mit-save-id,9,0
+160,Veined Graveblade+,Veined Graveblade+,mh4g-core-common-game-array+mh4g-dex-build7+mh4edit-mit-save-id,9,0
+161,Deified Grisblade,Deified Grisblade,mh4g-core-common-game-array+mh4g-dex-build7+mh4edit-mit-save-id,10,0
+162,Myxo Demolisher,Myxo Demolisher,mh4g-core-common-game-array+mh4g-dex-build7+mh4edit-mit-save-id,9,0
+163,Lightbreak Blade,Lightbreak Blade,mh4g-core-common-game-array+mh4g-dex-build7+mh4edit-mit-save-id,10,0
+164,Executioner,Executioner,mh4g-core-common-game-array+mh4g-dex-build7+mh4edit-mit-save-id,5,0
+165,Executioner+,Executioner+,mh4g-core-common-game-array+mh4g-dex-build7+mh4edit-mit-save-id,9,0
+166,Enforcer's Axe,Enforcer's Axe,mh4g-core-common-game-array+mh4g-dex-build7+mh4edit-mit-save-id,9,0
+167,Cera Cigil,Cera Cigil,mh4g-core-common-game-array+mh4g-dex-build7+mh4edit-mit-save-id,9,0
+168,Cera Cymmetry,Cera Cymmetry,mh4g-core-common-game-array+mh4g-dex-build7+mh4edit-mit-save-id,9,0
+169,Red Pincer,Red Pincer,mh4g-core-common-game-array+mh4g-dex-build7+mh4edit-mit-save-id,4,0
+170,Great Pincer,Great Pincer,mh4g-core-common-game-array+mh4g-dex-build7+mh4edit-mit-save-id,8,0
+171,Violet Pincer,Violet Pincer,mh4g-core-common-game-array+mh4g-dex-build7+mh4edit-mit-save-id,8,0
+172,Grand Pincer,Grand Pincer,mh4g-core-common-game-array+mh4g-dex-build7+mh4edit-mit-save-id,9,0
+173,Blushing Dame+,Blushing Dame+,mh4g-core-common-game-array+mh4g-dex-build7+mh4edit-mit-save-id,8,0
+174,Brünnhilde,Brünnhilde,mh4g-core-common-game-array+mh4g-dex-build7+mh4edit-mit-save-id,9,0
+175,Auberon+,Auberon+,mh4g-core-common-game-array+mh4g-dex-build7+mh4edit-mit-save-id,9,0
+176,Pale Kaiser,Pale Kaiser,mh4g-core-common-game-array+mh4g-dex-build7+mh4edit-mit-save-id,9,0
+177,Rathalos Gleamsword+,Rathalos Gleamsword+,mh4g-core-common-game-array+mh4g-dex-build7+mh4edit-mit-save-id,9,0
+178,Rathlord Gleamsword,Rathlord Gleamsword,mh4g-core-common-game-array+mh4g-dex-build7+mh4edit-mit-save-id,10,0
+179,Rathalos Glinsword+,Rathalos Glinsword+,mh4g-core-common-game-array+mh4g-dex-build7+mh4edit-mit-save-id,9,0
+180,Rathflame Glinsword,Rathflame Glinsword,mh4g-core-common-game-array+mh4g-dex-build7+mh4edit-mit-save-id,9,0
+181,Jala Blade,Jala Blade,mh4g-core-common-game-array+mh4g-dex-build7+mh4edit-mit-save-id,8,0
+182,Jajala Blade,Jajala Blade,mh4g-core-common-game-array+mh4g-dex-build7+mh4edit-mit-save-id,8,0
+183,Pavaka Blade,Pavaka Blade,mh4g-core-common-game-array+mh4g-dex-build7+mh4edit-mit-save-id,8,0
+184,Jvalayati Blade,Jvalayati Blade,mh4g-core-common-game-array+mh4g-dex-build7+mh4edit-mit-save-id,8,0
+185,Scylla Shear,Scylla Shear,mh4g-core-common-game-array+mh4g-dex-build7+mh4edit-mit-save-id,8,0
+186,Ebonscylla,Ebonscylla,mh4g-core-common-game-array+mh4g-dex-build7+mh4edit-mit-save-id,9,0
+187,Webbonscylla,Webbonscylla,mh4g-core-common-game-array+mh4g-dex-build7+mh4edit-mit-save-id,9,0
+188,Snakesmaw,Snakesmaw,mh4g-core-common-game-array+mh4g-dex-build7+mh4edit-mit-save-id,9,0
+189,Sentoryu Pox,Sentoryu Pox,mh4g-core-common-game-array+mh4g-dex-build7+mh4edit-mit-save-id,8,0
+190,Garuga Engetsu,Garuga Engetsu,mh4g-core-common-game-array+mh4g-dex-build7+mh4edit-mit-save-id,9,0
+191,Dark of Night+,Dark of Night+,mh4g-core-common-game-array+mh4g-dex-build7+mh4edit-mit-save-id,9,0
+192,Avidya Great Sword,Avidya Great Sword,mh4g-core-common-game-array+mh4g-dex-build7+mh4edit-mit-save-id,10,0
+193,Vulcatastrophe,Vulcatastrophe,mh4g-core-common-game-array+mh4g-dex-build7+mh4edit-mit-save-id,8,0
+194,Vulca Vendetta,Vulca Vendetta,mh4g-core-common-game-array+mh4g-dex-build7+mh4edit-mit-save-id,8,0
+195,Plesioth Lullabane+,Plesioth Lullabane+,mh4g-core-common-game-array+mh4g-dex-build7+mh4edit-mit-save-id,8,0
+196,Plesioth Pelagis,Plesioth Pelagis,mh4g-core-common-game-array+mh4g-dex-build7+mh4edit-mit-save-id,9,0
+197,Xiphias Gladius,Xiphias Gladius,mh4g-core-common-game-array+mh4g-dex-build7+mh4edit-mit-save-id,8,0
+198,Eternal Glyph,Eternal Glyph,mh4g-core-common-game-array+mh4g-dex-build7+mh4edit-mit-save-id,9,0
+199,Daora's Deathmaker,Daora's Deathmaker,mh4g-core-common-game-array+mh4g-dex-build7+mh4edit-mit-save-id,10,0
+200,Eldaora's Death,Eldaora's Death,mh4g-core-common-game-array+mh4g-dex-build7+mh4edit-mit-save-id,10,0
+201,Epitaph Blade+,Epitaph Blade+,mh4g-core-common-game-array+mh4g-dex-build7+mh4edit-mit-save-id,8,0
+202,Epitaph Eternal,Epitaph Eternal,mh4g-core-common-game-array+mh4g-dex-build7+mh4edit-mit-save-id,9,0
+203,Teostra del Sol,Teostra del Sol,mh4g-core-common-game-array+mh4g-dex-build7+mh4edit-mit-save-id,10,0
+204,Grand Shamshir,Grand Shamshir,mh4g-core-common-game-array+mh4g-dex-build7+mh4edit-mit-save-id,10,0
+205,Emperor Thundersword,Emperor Thundersword,mh4g-core-common-game-array+mh4g-dex-build7+mh4edit-mit-save-id,10,0
+206,Frostsword,Frostsword,mh4g-core-common-game-array+mh4g-dex-build7+mh4edit-mit-save-id,9,0
+207,King Frostsword,King Frostsword,mh4g-core-common-game-array+mh4g-dex-build7+mh4edit-mit-save-id,10,0
+208,"Doomedge ""Hrunting""","Doomedge ""Hrunting""",mh4g-core-common-game-array+mh4g-dex-build7+mh4edit-mit-save-id,10,0
+209,Akantor Broadsword+,Akantor Broadsword+,mh4g-core-common-game-array+mh4g-dex-build7+mh4edit-mit-save-id,10,0
+210,Ukanlos Destructor,Ukanlos Destructor,mh4g-core-common-game-array+mh4g-dex-build7+mh4edit-mit-save-id,7,0
+211,Ukanlos Skycleaver,Ukanlos Skycleaver,mh4g-core-common-game-array+mh4g-dex-build7+mh4edit-mit-save-id,9,0
+212,Wold the Just,Wold the Just,mh4g-core-common-game-array+mh4g-dex-build7+mh4edit-mit-save-id,9,0
+213,Dalamadur Blade,Dalamadur Blade,mh4g-core-common-game-array+mh4g-dex-build7+mh4edit-mit-save-id,10,0
+214,Dreaming Dalamadur,Dreaming Dalamadur,mh4g-core-common-game-array+mh4g-dex-build7+mh4edit-mit-save-id,10,0
+215,Black Fatalis Blade,Black Fatalis Blade,mh4g-core-common-game-array+mh4g-dex-build7+mh4edit-mit-save-id,10,0
+216,Flame Fatalis Blade,Flame Fatalis Blade,mh4g-core-common-game-array+mh4g-dex-build7+mh4edit-mit-save-id,10,0
+217,Fatalis Legacy,Fatalis Legacy,mh4g-core-common-game-array+mh4g-dex-build7+mh4edit-mit-save-id,10,0
+218,Cheda Blade,Cheda Blade,mh4g-core-common-game-array+mh4g-dex-build7+mh4edit-mit-save-id,6,0
+219,Cheda Blade+,Cheda Blade+,mh4g-core-common-game-array+mh4g-dex-build7+mh4edit-mit-save-id,7,0
+220,Seditious Cleaver,Seditious Cleaver,mh4g-core-common-game-array+mh4g-dex-build7+mh4edit-mit-save-id,9,0
+221,Rogue Sedition,Rogue Sedition,mh4g-core-common-game-array+mh4g-dex-build7+mh4edit-mit-save-id,10,0
+222,Monument of Lament,Monument of Lament,mh4g-core-common-game-array+mh4g-dex-build7+mh4edit-mit-save-id,10,0
+223,Ostracon Oblivion,Ostracon Oblivion,mh4g-core-common-game-array+mh4g-dex-build7+mh4edit-mit-save-id,10,0
+224,G Blade,G Blade,mh4g-core-common-game-array+mh4g-dex-build7+mh4edit-mit-save-id,9,0
+225,Black Belt Blade,Black Belt Blade,mh4g-core-common-game-array+mh4g-dex-build7+mh4edit-mit-save-id,9,0
+226,Commemoration Sword,Commemoration Sword,mh4g-core-common-game-array+mh4g-dex-build7+mh4edit-mit-save-id,10,0
+227,[JP] アモンの剣,[JP] アモンの剣,mh4g-core-common-game-array+mh4g-dex-build7+mh4edit-mit-save-id+mh4g-save-id-dex-crosswalk,10,0
+228,DUMMY,DUMMY,mh4g-core-common-game-array+mh4edit-mit-save-id,0,0
+229,DUMMY,DUMMY,mh4g-core-common-game-array+mh4edit-mit-save-id,0,0
+230,DUMMY,DUMMY,mh4g-core-common-game-array+mh4edit-mit-save-id,0,0
+231,DUMMY,DUMMY,mh4g-core-common-game-array+mh4edit-mit-save-id,0,0
+232,DUMMY,DUMMY,mh4g-core-common-game-array+mh4edit-mit-save-id,0,0
+233,DUMMY,DUMMY,mh4g-core-common-game-array+mh4edit-mit-save-id,0,0
+234,Dos Exile,Dos Exile,mh4g-core-common-game-array+mh4edit-mit-save-id,0,0
+235,Rath of Stars,Rath of Stars,mh4g-core-common-game-array+mh4edit-mit-save-id,0,0
+236,Sea-emperor's Sword (red),Sea-emperor's Sword (red),mh4g-core-common-game-array+mh4edit-mit-save-id,0,1
+237,Sea-emperor's Sword (yellow),Sea-emperor's Sword (yellow),mh4g-core-common-game-array+mh4edit-mit-save-id,0,1
+238,Sea-emperor's Sword (green),Sea-emperor's Sword (green),mh4g-core-common-game-array+mh4edit-mit-save-id,0,1
+239,Sea-emperor's Sword (blue),Sea-emperor's Sword (blue),mh4g-core-common-game-array+mh4edit-mit-save-id,0,1
+240,Sea-emperor's Sword (purple),Sea-emperor's Sword (purple),mh4g-core-common-game-array+mh4edit-mit-save-id,0,1
+241,Jawblade (red),Jawblade (red),mh4g-core-common-game-array+mh4g-dex-build7+mh4edit-mit-save-id,0,1
+242,Jawblade (yellow),Jawblade (yellow),mh4g-core-common-game-array+mh4g-dex-build7+mh4edit-mit-save-id,0,1
+243,Jawblade (green),Jawblade (green),mh4g-core-common-game-array+mh4g-dex-build7+mh4edit-mit-save-id,0,1
+244,Jawblade (blue),Jawblade (blue),mh4g-core-common-game-array+mh4g-dex-build7+mh4edit-mit-save-id,0,1
+245,Jawblade (purple),Jawblade (purple),mh4g-core-common-game-array+mh4g-dex-build7+mh4edit-mit-save-id,0,1

@@ -57,8 +57,8 @@ Windows portable zip。
 ## 数据集
 
 成品位于 `data/cn` 和 `data/en`，包括道具、技能、装饰品、护石、
-五类防具、十四类武器及装备编辑枚举。装备文件使用存档本地 ID，
-不是 Dex 的全局编号。
+五类防具、十四类武器及装备编辑枚举。道具和装备 ID 来自游戏自身
+`core_common.arc` 的名称数组下标，不使用 Dex 全局编号或第三方数组顺序。
 
 在 Windows 上先运行 Dex 导出器：
 
@@ -68,16 +68,17 @@ powershell -ExecutionPolicy Bypass -File .\tools\mh4g-dex-dump\run_windows.ps1 `
   -OutDir D:\MH\DEX\mh4g-dex-raw
 ```
 
-再生成并验证成品：
+从自己持有的 CCI/RomFS 提取 `data/core_common.arc`，再生成并验证成品：
 
 ```bash
-python3 tools/build_data.py --input D:/MH/DEX/mh4g-dex-raw --output data
-python3 tools/validate_data.py data
+python3 tools/export_game_names.py /path/to/core_common.arc /tmp/mh4g-game-names.json --language cn
+python3 tools/build_data.py --input D:/MH/DEX/mh4g-dex-raw --game-names /tmp/mh4g-game-names.json --output data
+python3 tools/validate_data.py data --game-names /tmp/mh4g-game-names.json
 ```
 
-原始 Dex dump 不进入 Git。存档本地装备 ID 顺序参考了 MIT 许可的
-`Rokumaehn/mh4edit`；来源、固定 commit 和许可证均保存在
-`tools/reference` 与 `third_party`。
+CCI、ARC、原始名称导出和 Dex dump 不进入 Git。Dex 与 MIT 许可的
+`Rokumaehn/mh4edit` 只补英文、稀有度和发掘元数据；游戏数组负责 ID 和中文名。
+来源、固定 commit 和许可证均保存在 `tools/reference` 与 `third_party`。
 
 Qt 界面移植自本工作区的 `mh3u-se`，本项目按其 GNU GPL v3 许可证发布；
 完整许可证见 `LICENSE`。

@@ -16,7 +16,9 @@ from pathlib import Path
 from typing import Iterable
 
 
-GENERATOR_VERSION = "1.3.1"
+GENERATOR_VERSION = "2.0.0"
+GAME_EXPORT_FORMAT = "mh4g-game-name-export-v1"
+GAME_RESOURCE_SOURCE = "mh4g-core-common-game-array"
 DEX_SOURCE = "mh4g-dex-build7"
 DEX_FALLBACK_SOURCE = "mh4g-dex-build7-en-fallback"
 REFERENCE_SOURCE = "mh4edit-mit-save-id"
@@ -177,7 +179,10 @@ def joined_rows(
 
 
 def make_items(
-    sql_dir: Path, mapping: dict, language_index: int
+    sql_dir: Path,
+    mapping: dict,
+    game_names: list[str],
+    language: str,
 ) -> tuple[list[dict[str, object]], int]:
     spec = mapping["tables"]["items"]
     rows = joined_rows(
@@ -185,15 +190,39 @@ def make_items(
         read_csv(sql_dir / spec["names"]),
         spec["id"],
     )
+    by_save_id = {hexadecimal(row[spec["save_id"]]): row for row in rows}
+    missing_english = {
+        0: "None",
+        124: "No Bottle",
+        1924: "10000z",
+        1925: "1000 Caravan Points",
+        1936: "No Item",
+    }
     result = []
-    for row in rows:
-        identifier = hexadecimal(row[spec["save_id"]])
-        if identifier <= 0:
+    missing = []
+    for identifier, game_name in enumerate(game_names):
+        row = by_save_id.get(identifier)
+        if row is not None:
+            english = row[f"{spec['name_prefix']}0"].strip()
+            source = GAME_RESOURCE_SOURCE + "+" + DEX_SOURCE
+        elif game_name.casefold().startswith("dummy"):
+            english = game_name.upper()
+            source = GAME_RESOURCE_SOURCE
+        elif identifier in missing_english:
+            english = missing_english[identifier]
+            source = GAME_RESOURCE_SOURCE
+        else:
+            missing.append((identifier, game_name))
             continue
-        name, english, fallback = localized_name(row, spec["name_prefix"], language_index)
-        result.append({"id": identifier, "name": name, "english": english, "source": source_name(DEX_SOURCE, fallback)})
-    result.sort(key=lambda row: row["id"])
-    return result, len(rows) - len(result)
+        result.append({
+            "id": identifier,
+            "name": game_name if language == "cn" else english,
+            "english": english,
+            "source": source,
+        })
+    if missing:
+        raise ValueError(f"game item IDs without an explicit Dex or placeholder mapping: {missing[:10]}")
+    return result, len(game_names) - len(rows)
 
 
 def make_skills(sql_dir: Path, mapping: dict, language: str, language_index: int) -> list[dict[str, object]]:
@@ -300,19 +329,55 @@ def armor_crosswalk_name(reference_english: str, crosswalk: dict) -> str | None:
     return None
 
 
+def authoritative_reference_names(spec: dict, reference: dict) -> list[str]:
+    """Return English metadata labels aligned to the authoritative game IDs.
+
+    Every legacy reference array except waist already has the exact number of
+    slots found in core_common.arc. The legacy waist array omitted eleven
+    early entries, mislabeled six real DLC entries as placeholders, and ended
+    with eight non-waist rows. Reconstruct that crosswalk explicitly; IDs and
+    Chinese display names still always come from the game resource.
+    """
+    legacy = reference["arrays"][spec["reference_array"]]
+    if spec["file"] != "armor_waist.csv":
+        return legacy
+    corrected = [
+        "None",
+        "Derring Belt", "Derring Faulds S", "Derring Coat S",
+        "Leather Belt", "Leather Faulds S", "Leather Coat S",
+        "Chainmail Belt", "Chainmail Faulds S", "Chainmail Coat S",
+        legacy[3], legacy[4], legacy[1], legacy[2], legacy[3], legacy[4],
+        *legacy[5:837],
+        "[JP] Treason King Coil J", "[JP] Treason King Skirt J",
+        "[JP] Champion's Belt", "[JP] Champion's Belt",
+        "[JP] Strongman's Belt", "[JP] Strongman's Belt",
+        *("DUMMY" for _ in range(6)),
+        *legacy[849:945],
+    ]
+    if len(corrected) != spec["game_count"]:
+        raise ValueError(f"corrected waist crosswalk has {len(corrected)} rows")
+    return corrected
+
+
 def make_equipment(
     sql_dir: Path,
     mapping: dict,
     reference: dict,
     weapon_crosswalk: dict,
     armor_crosswalk: dict,
+    game_names: list[str],
     spec: dict,
     language: str,
     language_index: int,
 ) -> tuple[list[dict[str, object]], dict[str, int]]:
     table_spec = mapping["tables"][spec["kind"] + ("s" if spec["kind"] == "weapon" else "")]
     candidates, candidates_by_id = equipment_candidates(sql_dir, mapping, spec)
-    reference_names = reference["arrays"][spec["reference_array"]]
+    reference_names = authoritative_reference_names(spec, reference)
+    if len(reference_names) != len(game_names):
+        raise ValueError(
+            f"{spec['file']}: English metadata has {len(reference_names)} rows, "
+            f"game resource has {len(game_names)}"
+        )
     result = []
     matched = 0
     relics = 0
@@ -320,13 +385,13 @@ def make_equipment(
     relic_cn_matches = 0
     relic_id_spec = weapon_crosswalk["relic_save_ids"].get(str(spec["save_type"]))
     relic_ids = set(equipment_type_values(relic_id_spec)) if relic_id_spec else set()
-    for identifier, reference_english in enumerate(reference_names):
+    for identifier, (game_name, reference_english) in enumerate(zip(game_names, reference_names)):
         if identifier == 0:
             result.append({
                 "id": 0,
-                "name": "无" if language == "cn" else "None",
+                "name": game_name if language == "cn" else "None",
                 "english": "None",
-                "source": SAVE_FORMAT_SOURCE,
+                "source": GAME_RESOURCE_SOURCE,
                 "rarity": 0,
                 "is_relic": 0,
             })
@@ -357,32 +422,36 @@ def make_equipment(
                 if language == "en":
                     name = english
                 rarity = decimal(row[table_spec["rarity"]])
-            source = source_name(DEX_SOURCE, fallback) + "+" + REFERENCE_SOURCE
+            source = GAME_RESOURCE_SOURCE + "+" + DEX_SOURCE + "+" + REFERENCE_SOURCE
             if dex_id is not None:
                 source += "+" + SAVE_ID_CROSSWALK_SOURCE
         else:
             relic_name = weapon_crosswalk["relic_base_names"].get(base_english) if is_relic else None
             armor_name = armor_crosswalk_name(reference_english, armor_crosswalk) if spec["kind"] == "armor" else None
             if relic_name is not None and language == "cn":
-                name = f"{relic_name['cn']}（发掘·{COLOR_SUFFIXES[color]}）"
+                name = game_name
                 english = reference_english
                 rarity = 0
-                source = relic_name["source"] + "+" + REFERENCE_SOURCE
+                source = GAME_RESOURCE_SOURCE + "+" + relic_name["source"] + "+" + REFERENCE_SOURCE
                 relic_cn_matches += 1
             elif armor_name is not None:
-                name = armor_name if language == "cn" else reference_english
+                name = game_name if language == "cn" else reference_english
                 english = reference_english
                 rarity = 0
                 is_relic = True
                 relics += 1
-                source = ARMOR_CROSSWALK_SOURCE + "+" + REFERENCE_SOURCE
+                source = GAME_RESOURCE_SOURCE + "+" + ARMOR_CROSSWALK_SOURCE + "+" + REFERENCE_SOURCE
                 if language == "cn":
                     relic_cn_matches += 1
             else:
-                name = reference_english
+                name = game_name if language == "cn" else reference_english
                 english = reference_english
                 rarity = 0
-                source = REFERENCE_FALLBACK_SOURCE if language == "cn" else REFERENCE_SOURCE
+                source = GAME_RESOURCE_SOURCE + "+" + REFERENCE_SOURCE
+        if language == "cn":
+            # The resource array is the authority for both the numeric ID and
+            # the exact Chinese label, including DUMMY and DLC entries.
+            name = game_name
         result.append({
             "id": identifier,
             "name": name,
@@ -560,19 +629,17 @@ README_TEXT = """# MH4G save-editor data
 This directory is generated by `tools/build_data.py`. Do not edit the CSV
 files by hand.
 
-- `cn/` uses MH4G Dex Build 7 Simplified Chinese names. Missing translations
-  fall back to English and are marked in the `source` column.
+- `cn/` uses the exact Simplified Chinese name arrays extracted from the
+  game's `data/core_common.arc`; each array index is the save ID.
 - `en/` uses English names in both `name` and `english`.
-- Equipment IDs are save-local IDs. Dex uses global IDs, so the save-local
-  order is imported from the MIT-licensed `Rokumaehn/mh4edit` reference and
-  joined to Dex by normalized exact English name or an explicit reviewed ID
-  crosswalk (no edit-distance matching).
+- Dex global IDs and third-party arrays are never used to assign item or
+  equipment IDs. They only supply English labels, rarity and relic metadata.
 - Relic appearance names are resolved through the explicit weapon-name
   crosswalk because those base appearances are not standalone Dex weapon rows.
-  Chinese relic names include a `发掘` marker and their appearance color.
+  The exact game label is preserved; `is_relic` carries the relic marker.
 - Relic armor names are resolved through an explicit series/part crosswalk and
-  include a `发掘` marker. Placeholder IDs remain in CSV for lossless coverage;
-  the editor hides them from ordinary selection lists.
+  retain the exact game label. Placeholder IDs remain in CSV for lossless
+  coverage; the editor hides them from ordinary selection lists.
 - `rarity` is `0` when rarity is dynamic (relic/talisman) or the reference row
   has no exact Dex match. `is_relic` is `1` for known relic weapon and armor IDs.
 - `equipment_type` in `equipment_lookups.csv` is the on-disk save type (`0` is
@@ -581,17 +648,20 @@ files by hand.
   the public `mikewii/MH4U-Editor` implementation. The MH4G-only overflow value
   `0xDA` remains explicitly marked as provisional in the editor UI.
 
-The raw Dex runtime dump is intentionally not committed. Rebuild with:
+The CCI, ARC and raw Dex runtime dump are intentionally not committed. Extract
+`data/core_common.arc` from your own game, then rebuild with:
 
 ```bash
-python3 tools/build_data.py --input D:/MH/DEX/mh4g-dex-raw --output data
-python3 tools/validate_data.py data
+python3 tools/export_game_names.py /path/to/core_common.arc /tmp/mh4g-game-names.json --language cn
+python3 tools/build_data.py --input D:/MH/DEX/mh4g-dex-raw --game-names /tmp/mh4g-game-names.json --output data
+python3 tools/validate_data.py data --game-names /tmp/mh4g-game-names.json
 ```
 """
 
 
 def build(
     input_dir: Path,
+    game_names_path: Path,
     output_dir: Path,
     mapping_path: Path,
     reference_path: Path,
@@ -602,6 +672,14 @@ def build(
     reference = read_json(reference_path)
     weapon_crosswalk = read_json(weapon_crosswalk_path)
     armor_crosswalk = read_json(armor_crosswalk_path)
+    game_export = read_json(game_names_path)
+    if game_export.get("format") != GAME_EXPORT_FORMAT:
+        raise ValueError("unsupported or invalid game name export")
+    if game_export.get("language") != "cn":
+        raise ValueError("MH4G data generation requires a Simplified Chinese game name export")
+    game_tables = game_export.get("tables")
+    if not isinstance(game_tables, dict):
+        raise ValueError("game name export has no tables object")
     if weapon_crosswalk.get("format") != "mh4g-weapon-name-crosswalk-v1":
         raise ValueError("unsupported or invalid weapon name crosswalk")
     if armor_crosswalk.get("format") != "mh4g-armor-name-crosswalk-v1":
@@ -615,6 +693,23 @@ def build(
     raw_manifest = read_json(raw_manifest_path)
     if raw_manifest.get("format") != "mh4g-dex-runtime-dump-v1":
         raise ValueError("unsupported or invalid raw dump manifest")
+
+    item_message = mapping["tables"]["items"]["game_message"]
+    if item_message not in game_tables:
+        raise ValueError(f"game name export is missing {item_message}")
+    if len(game_tables[item_message]) != mapping["tables"]["items"]["game_count"]:
+        raise ValueError(
+            f"{item_message}: expected {mapping['tables']['items']['game_count']} rows, "
+            f"got {len(game_tables[item_message])}"
+        )
+    for spec in mapping["equipment"]:
+        names = game_tables.get(spec["game_message"])
+        if not isinstance(names, list):
+            raise ValueError(f"game name export is missing {spec['game_message']}")
+        if len(names) != spec["game_count"]:
+            raise ValueError(
+                f"{spec['game_message']}: expected {spec['game_count']} rows, got {len(names)}"
+            )
 
     parent = output_dir.resolve().parent
     parent.mkdir(parents=True, exist_ok=True)
@@ -635,17 +730,19 @@ def build(
     raw_decoration_rows = read_csv(sql_dir / decoration_spec["data"])
     unique_decoration_items = len({row[decoration_spec["item_id"]] for row in raw_decoration_rows})
     filters: dict[str, object] = {
-        "items": "save ID is parsed from DB_Itm.Hex; DB_Itm.Itm_ID is used only to join names",
+        "items": "ID is the zero-based msg\\itemName_jpn game-resource array index; Dex Hex only joins English metadata",
         "skills": "SklTree_ID > 0 plus save value 0 (None)",
         "decorations": "save-local allJewels order; save value 0 is None",
-        "equipment": "save-local reference order including value 0; normalized English join plus explicit weapon/armor crosswalks",
+        "equipment": "ID is the zero-based game-resource name-array index; Dex/reference data only supplies English and metadata",
     }
     match_stats: dict[str, dict[str, int]] = {}
     try:
         (temporary / "README.md").write_text(README_TEXT, encoding="utf-8", newline="\n")
         for language, language_index in mapping["languages"].items():
             language_dir = temporary / language
-            items, excluded_items = make_items(sql_dir, mapping, language_index)
+            items, excluded_items = make_items(
+                sql_dir, mapping, game_tables[item_message], language
+            )
             filters["items_excluded_rows"] = excluded_items
             datasets: dict[str, tuple[tuple[str, ...], list[dict[str, object]]]] = {
                 "items.csv": (BASE_COLUMNS, items),
@@ -667,7 +764,8 @@ def build(
 
             for spec in mapping["equipment"]:
                 rows, stats = make_equipment(
-                    sql_dir, mapping, reference, weapon_crosswalk, armor_crosswalk, spec, language, language_index
+                    sql_dir, mapping, reference, weapon_crosswalk, armor_crosswalk,
+                    game_tables[spec["game_message"]], spec, language, language_index
                 )
                 datasets[spec["file"]] = (EQUIPMENT_COLUMNS, rows)
                 if language == "cn":
@@ -692,6 +790,19 @@ def build(
             "files": dict(sorted(file_stats.items())),
             "filters": filters,
             "generator": {"name": "tools/build_data.py", "version": GENERATOR_VERSION},
+            "game_resource": {
+                "export_format": game_export["format"],
+                "export_sha256": sha256(game_names_path),
+                "language": game_export["language"],
+                "source": game_export.get("source", {}),
+                "tables": {
+                    item_message: len(game_tables[item_message]),
+                    **{
+                        spec["game_message"]: len(game_tables[spec["game_message"]])
+                        for spec in mapping["equipment"]
+                    },
+                },
+            },
             "languages": ["cn", "en"],
             "mapping": {"format": mapping["format"], "sha256": sha256(mapping_path)},
             "match_statistics": dict(sorted(match_stats.items())),
@@ -710,13 +821,13 @@ def build(
                 "sha256": sha256(armor_crosswalk_path),
             },
             "row_accounting": {
-                "items": "DB_Itm rows map one-to-one to output rows through Hex",
+                "items": "all msg\\itemName_jpn slots are emitted, including 0, DUMMY and no-item placeholders",
                 "skills": "exclude the ID_SklTree_Name -1 placeholder and add save value 0",
                 "decorations": (
                     f"DB_Jew has {len(raw_decoration_rows)} recipe rows and {unique_decoration_items} unique item IDs; "
                     "output adds save value 0 (None) to those save-local decoration values"
                 ),
-                "weapons_and_armor": "output follows save-local reference arrays; Dex exact-name matches and reviewed weapon/armor crosswalks provide metadata",
+                "weapons_and_armor": "every game-resource name-array slot is emitted; external references provide metadata only",
             },
         }
         (temporary / "manifest.json").write_text(
@@ -748,6 +859,7 @@ def main() -> int:
     script_dir = Path(__file__).resolve().parent
     parser = argparse.ArgumentParser(description=__doc__)
     parser.add_argument("--input", required=True, type=Path, help="raw runtime dump root or direct_sql directory")
+    parser.add_argument("--game-names", required=True, type=Path, help="JSON exported from the game's core_common.arc")
     parser.add_argument("--output", required=True, type=Path, help="generated data directory")
     parser.add_argument("--mapping", type=Path, default=script_dir / "data_mapping.json")
     parser.add_argument("--reference", type=Path, default=script_dir / "reference" / "mh4edit_save_ids.json")
@@ -764,6 +876,7 @@ def main() -> int:
     args = parser.parse_args()
     build(
         args.input.resolve(),
+        args.game_names.resolve(),
         args.output.resolve(),
         args.mapping.resolve(),
         args.reference.resolve(),

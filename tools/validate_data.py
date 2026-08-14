@@ -271,7 +271,13 @@ def validate_samples(data_dir: Path, mapping: dict, sample_dir: Path, errors: Va
     return report
 
 
-def validate(data_dir: Path, mapping_path: Path, samples: Path | None, report_path: Path | None) -> tuple[ValidationErrors, dict[str, object]]:
+def validate(
+    data_dir: Path,
+    mapping_path: Path,
+    samples: Path | None,
+    report_path: Path | None,
+    game_names_path: Path | None = None,
+) -> tuple[ValidationErrors, dict[str, object]]:
     errors = ValidationErrors()
     mapping = json.loads(mapping_path.read_text(encoding="utf-8"))
     crosswalk_path = mapping_path.parent / "reference" / "mh4g_weapon_name_crosswalk.json"
@@ -286,7 +292,21 @@ def validate(data_dir: Path, mapping_path: Path, samples: Path | None, report_pa
     manifest = json.loads(manifest_path.read_text(encoding="utf-8"))
     errors.require(manifest.get("format_version") == "1.0.0", "manifest: unsupported format_version")
     errors.require(manifest.get("languages") == ["cn", "en"], "manifest: languages must be ['cn', 'en']")
-    errors.require(manifest.get("generator", {}).get("version") == "1.3.1", "manifest: unsupported generator version")
+    errors.require(manifest.get("generator", {}).get("version") == "2.0.0", "manifest: unsupported generator version")
+    game_resource = manifest.get("game_resource", {})
+    errors.require(
+        game_resource.get("export_format") == "mh4g-game-name-export-v1",
+        "manifest: unsupported or missing game-resource export",
+    )
+    errors.require(game_resource.get("language") == "cn", "manifest: game-resource language must be cn")
+    for label, digest in (
+        ("game export", game_resource.get("export_sha256", "")),
+        ("core_common.arc", game_resource.get("source", {}).get("sha256", "")),
+    ):
+        errors.require(
+            len(digest) == 64 and all(char in "0123456789abcdef" for char in digest),
+            f"manifest: invalid {label} SHA-256",
+        )
     errors.require(
         manifest.get("weapon_name_crosswalk", {}).get("format") == "mh4g-weapon-name-crosswalk-v1",
         "manifest: unsupported or missing weapon name crosswalk",
@@ -328,25 +348,6 @@ def validate(data_dir: Path, mapping_path: Path, samples: Path | None, report_pa
             if language == "en":
                 for line, row in enumerate(rows, 2):
                     errors.require(row.get("name") == row.get("english"), f"{relative}:{line}: English name and english columns differ")
-            elif filename.startswith("weapon_"):
-                for line, row in enumerate(rows, 2):
-                    if row.get("is_relic") == "1":
-                        errors.require(
-                            "（发掘·" in row.get("name", ""),
-                            f"{relative}:{line}: Chinese relic name must include the relic/color marker",
-                        )
-            elif filename.startswith("armor_") and language == "cn":
-                for line, row in enumerate(rows, 2):
-                    if row.get("is_relic") == "1":
-                        errors.require(
-                            "（发掘）" in row.get("name", ""),
-                            f"{relative}:{line}: Chinese relic armor name must include the relic marker",
-                        )
-                    placeholder = row.get("name", "").strip().lower().startswith("dummy")
-                    errors.require(
-                        placeholder or "en-fallback" not in row.get("source", ""),
-                        f"{relative}:{line}: non-placeholder armor still uses an English fallback",
-                    )
             language_data[language][filename] = (columns, rows, keys)
             entry = manifest.get("files", {}).get(relative)
             errors.require(isinstance(entry, dict), f"manifest: missing {relative}")
@@ -363,6 +364,61 @@ def validate(data_dir: Path, mapping_path: Path, samples: Path | None, report_pa
         errors.require(cn_columns == en_columns, f"{filename}: cn/en columns differ")
         errors.require(cn_keys == en_keys, f"{filename}: cn/en ID or lookup key sets differ")
         errors.require([row.get("english") for row in cn_rows] == [row.get("english") for row in en_rows], f"{filename}: cn/en English columns differ")
+
+    # Every game-owned list must cover a dense, zero-based range. This catches
+    # filtered DUMMY rows and any future repetition of the old waist-table bug.
+    authoritative_counts = {"items.csv": game_resource.get("tables", {}).get(mapping["tables"]["items"]["game_message"])}
+    authoritative_counts.update({
+        spec["file"]: game_resource.get("tables", {}).get(spec["game_message"])
+        for spec in mapping["equipment"]
+    })
+    for filename, count in authoritative_counts.items():
+        errors.require(isinstance(count, int), f"manifest: missing game-resource count for {filename}")
+        if isinstance(count, int) and filename in language_data["cn"]:
+            identifiers = language_data["cn"][filename][2]
+            errors.require(
+                identifiers == list(range(count)),
+                f"{filename}: IDs must cover every game-resource index 0..{count - 1}",
+            )
+
+    # Mapping counts are reviewed constants, independent of the generated
+    # manifest, so a self-consistent but wrong export cannot silently pass.
+    errors.require(
+        authoritative_counts.get("items.csv") == mapping["tables"]["items"]["game_count"],
+        "items.csv: manifest game count differs from reviewed mapping",
+    )
+    for spec in mapping["equipment"]:
+        errors.require(
+            authoritative_counts.get(spec["file"]) == spec["game_count"],
+            f"{spec['file']}: manifest game count differs from reviewed mapping",
+        )
+
+    waist_rows = language_data.get("cn", {}).get("armor_waist.csv", ([], [], []))[1]
+    if len(waist_rows) == 956:
+        errors.require(waist_rows[101].get("name") == "青熊腰甲", "armor_waist.csv: game ID 101 must be 青熊腰甲")
+        errors.require(waist_rows[101].get("english") == "Arzuros Faulds", "armor_waist.csv: English ID 101 must be Arzuros Faulds")
+        errors.require(waist_rows[112].get("name") == "轰龙裙甲Ｓ", "armor_waist.csv: game ID 112 must be 轰龙裙甲Ｓ")
+        errors.require(waist_rows[112].get("english") == "Tigrex Coat S", "armor_waist.csv: English ID 112 must be Tigrex Coat S")
+
+    if game_names_path is not None:
+        try:
+            game_export = json.loads(game_names_path.read_text(encoding="utf-8"))
+        except Exception as exc:
+            errors.add(f"{game_names_path}: cannot read game name export: {exc}")
+            game_export = {}
+        errors.require(game_export.get("format") == "mh4g-game-name-export-v1", "game name export: unsupported format")
+        errors.require(game_export.get("language") == "cn", "game name export: language must be cn")
+        errors.require(game_resource.get("export_sha256") == sha256(game_names_path), "manifest: game export SHA-256 differs from supplied file")
+        tables = game_export.get("tables", {})
+        comparisons = [("items.csv", mapping["tables"]["items"]["game_message"])] + [
+            (spec["file"], spec["game_message"]) for spec in mapping["equipment"]
+        ]
+        for filename, table in comparisons:
+            expected_names = tables.get(table)
+            errors.require(isinstance(expected_names, list), f"game name export: missing {table}")
+            if isinstance(expected_names, list) and filename in language_data["cn"]:
+                actual_names = [row.get("name") for row in language_data["cn"][filename][1]]
+                errors.require(actual_names == expected_names, f"{filename}: Chinese names differ from game array {table}")
 
     type_rows = language_data.get("en", {}).get("equipment_types.csv", ([], [], []))[1]
     types = {int(row["id"]): row["english"] for row in type_rows if row.get("id", "").isdecimal()}
@@ -413,9 +469,14 @@ def main() -> int:
     parser.add_argument("--samples", type=Path, default=default_samples)
     parser.add_argument("--no-samples", action="store_true", help="skip real-save coverage checks")
     parser.add_argument("--report", type=Path, help="optional JSON report path")
+    parser.add_argument("--game-names", type=Path, help="optional authoritative core_common.arc name export")
     args = parser.parse_args()
     sample_dir = None if args.no_samples else args.samples.resolve()
-    errors, report = validate(args.data.resolve(), args.mapping.resolve(), sample_dir, args.report.resolve() if args.report else None)
+    errors, report = validate(
+        args.data.resolve(), args.mapping.resolve(), sample_dir,
+        args.report.resolve() if args.report else None,
+        args.game_names.resolve() if args.game_names else None,
+    )
     coverage = report.get("real_save_coverage", {})
     if isinstance(coverage, dict) and coverage.get("status") != "skipped":
         saves = coverage.get("saves", [])

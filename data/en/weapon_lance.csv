@@ -1,217 +1,217 @@
 id,name,english,source,rarity,is_relic
-0,None,None,mh4g-save-format,0,0
-1,Iron Lance,Iron Lance,mh4g-dex-build7+mh4edit-mit-save-id,1,0
-2,Iron Lance+,Iron Lance+,mh4g-dex-build7+mh4edit-mit-save-id,1,0
-3,Knight Lance,Knight Lance,mh4g-dex-build7+mh4edit-mit-save-id,1,0
-4,Knight Lance+,Knight Lance+,mh4g-dex-build7+mh4edit-mit-save-id,2,0
-5,Rampart,Rampart,mh4g-dex-build7+mh4edit-mit-save-id,2,0
-6,Rampart+,Rampart+,mh4g-dex-build7+mh4edit-mit-save-id,3,0
-7,Babel Spear,Babel Spear,mh4g-dex-build7+mh4edit-mit-save-id,4,0
-8,Elder Babel Spear,Elder Babel Spear,mh4g-dex-build7+mh4edit-mit-save-id,6,0
-9,Drill Lance,Drill Lance,mh4g-dex-build7+mh4edit-mit-save-id,4,0
-10,Megadrill Lance,Megadrill Lance,mh4g-dex-build7+mh4edit-mit-save-id,5,0
-11,Eiferschild,Eiferschild,mh4g-dex-build7+mh4edit-mit-save-id,3,0
-12,Fieberschild,Fieberschild,mh4g-dex-build7+mh4edit-mit-save-id,4,0
-13,Zornesschild,Zornesschild,mh4g-dex-build7+mh4edit-mit-save-id,5,0
-14,L'Égide,L'Égide,mh4g-dex-build7+mh4edit-mit-save-id,7,0
-15,Venom Lance,Venom Lance,mh4g-dex-build7+mh4edit-mit-save-id,2,0
-16,Basarios Venom Spear,Basarios Venom Spear,mh4g-dex-build7+mh4edit-mit-save-id,3,0
-17,Gravios Spear,Gravios Spear,mh4g-dex-build7+mh4edit-mit-save-id,5,0
-18,Black Gravios Spear,Black Gravios Spear,mh4g-dex-build7+mh4edit-mit-save-id,6,0
-19,Diablos Lance,Diablos Lance,mh4g-dex-build7+mh4edit-mit-save-id,4,0
-20,Diablos Spear,Diablos Spear,mh4g-dex-build7+mh4edit-mit-save-id,6,0
-21,Fragrance,Fragrance,mh4g-dex-build7+mh4edit-mit-save-id,2,0
-22,Fragrance+,Fragrance+,mh4g-dex-build7+mh4edit-mit-save-id,3,0
-23,Dark Spear,Dark Spear,mh4g-dex-build7+mh4edit-mit-save-id,4,0
-24,Darkness,Darkness,mh4g-dex-build7+mh4edit-mit-save-id,6,0
-25,Bone Lance,Bone Lance,mh4g-dex-build7+mh4edit-mit-save-id,1,0
-26,Bone Lance+,Bone Lance+,mh4g-dex-build7+mh4edit-mit-save-id,1,0
-27,Spiked Spear,Spiked Spear,mh4g-dex-build7+mh4edit-mit-save-id,1,0
-28,Spiked Spear+,Spiked Spear+,mh4g-dex-build7+mh4edit-mit-save-id,2,0
-29,Spiked Javelin,Spiked Javelin,mh4g-dex-build7+mh4edit-mit-save-id,2,0
-30,Tiger Stinger,Tiger Stinger,mh4g-dex-build7+mh4edit-mit-save-id,3,0
-31,Tigrex Lance,Tigrex Lance,mh4g-dex-build7+mh4edit-mit-save-id,5,0
-32,Accursed Stinger,Accursed Stinger,mh4g-dex-build7+mh4edit-mit-save-id,6,0
-33,Predator Gravelance,Predator Gravelance,mh4g-dex-build7+mh4edit-mit-save-id,7,0
-34,Dios Stinger,Dios Stinger,mh4g-dex-build7+mh4edit-mit-save-id,4,0
-35,Dios Stinger+,Dios Stinger+,mh4g-dex-build7+mh4edit-mit-save-id,5,0
-36,Demolition Lance,Demolition Lance,mh4g-dex-build7+mh4edit-mit-save-id,6,0
-37,Red Tail,Red Tail,mh4g-dex-build7+mh4edit-mit-save-id,3,0
-38,Spear of Prominence,Spear of Prominence,mh4g-dex-build7+mh4edit-mit-save-id,5,0
-39,Silver Prominence,Silver Prominence,mh4g-dex-build7+mh4edit-mit-save-id,7,0
-40,Blue Prominence,Blue Prominence,mh4g-dex-build7+mh4edit-mit-save-id,6,0
-41,Twistcrawl,Twistcrawl,mh4g-dex-build7+mh4edit-mit-save-id,2,0
-42,Twistcrawl+,Twistcrawl+,mh4g-dex-build7+mh4edit-mit-save-id,4,0
-43,Twisting Crawler,Twisting Crawler,mh4g-dex-build7+mh4edit-mit-save-id,5,0
-44,Paratwist Crawler,Paratwist Crawler,mh4g-dex-build7+mh4edit-mit-save-id,6,0
-45,Expelger,Expelger,mh4g-dex-build7+mh4edit-mit-save-id,2,0
-46,Expelgorer,Expelgorer,mh4g-dex-build7+mh4edit-mit-save-id,2,0
-47,Expelgorer+,Expelgorer+,mh4g-dex-build7+mh4edit-mit-save-id,3,0
-48,Expelgouger,Expelgouger,mh4g-dex-build7+mh4edit-mit-save-id,4,0
-49,Rexpelgouger,Rexpelgouger,mh4g-dex-build7+mh4edit-mit-save-id,5,0
-50,Gobulu Muruka,Gobulu Muruka,mh4g-dex-build7+mh4edit-mit-save-id,5,0
-51,Gobuluku Muraaka,Gobuluku Muraaka,mh4g-dex-build7+mh4edit-mit-save-id,6,0
-52,Usurper's Coming,Usurper's Coming,mh4g-dex-build7+mh4edit-mit-save-id,3,0
-53,Despot's Cacophony,Despot's Cacophony,mh4g-dex-build7+mh4edit-mit-save-id,5,0
-54,Demon Lance,Demon Lance,mh4g-dex-build7+mh4edit-mit-save-id,6,0
-55,Great Demon Lance,Great Demon Lance,mh4g-dex-build7+mh4edit-mit-save-id,7,0
-56,Brimstren Draketail,Brimstren Draketail,mh4g-dex-build7+mh4edit-mit-save-id,6,0
-57,Carnivicious,Carnivicious,mh4g-dex-build7+mh4edit-mit-save-id,2,0
-58,Carnivicious+,Carnivicious+,mh4g-dex-build7+mh4edit-mit-save-id,3,0
-59,Omnivicious,Omnivicious,mh4g-dex-build7+mh4edit-mit-save-id,5,0
-60,Omnivoracious,Omnivoracious,mh4g-dex-build7+mh4edit-mit-save-id,6,0
-61,Incessant Raven,Incessant Raven,mh4g-dex-build7+mh4edit-mit-save-id,3,0
-62,Incessant Wolf,Incessant Wolf,mh4g-dex-build7+mh4edit-mit-save-id,4,0
-63,Incessant Crow,Incessant Crow,mh4g-dex-build7+mh4edit-mit-save-id,6,0
-64,Blue Crater,Blue Crater,mh4g-dex-build7+mh4edit-mit-save-id,4,0
-65,Doom Crown,Doom Crown,mh4g-dex-build7+mh4edit-mit-save-id,5,0
-66,Sharq Byte,Sharq Byte,mh4g-dex-build7+mh4edit-mit-save-id,2,0
-67,Sharq Attaq,Sharq Attaq,mh4g-dex-build7+mh4edit-mit-save-id,5,0
-68,Aqua Spear,Aqua Spear,mh4g-dex-build7+mh4edit-mit-save-id,2,0
-69,Stream Spear,Stream Spear,mh4g-dex-build7+mh4edit-mit-save-id,4,0
-70,Emerald Spear,Emerald Spear,mh4g-dex-build7+mh4edit-mit-save-id,5,0
-71,Watery Trishula,Watery Trishula,mh4g-dex-build7+mh4edit-mit-save-id,6,0
-72,Rusted Lance,Rusted Lance,mh4g-dex-build7+mh4edit-mit-save-id,2,0
-73,Tarnished Lance,Tarnished Lance,mh4g-dex-build7+mh4edit-mit-save-id,3,0
-74,Undertaker,Undertaker,mh4g-dex-build7+mh4edit-mit-save-id,4,0
-75,High Undertaker,High Undertaker,mh4g-dex-build7+mh4edit-mit-save-id,5,0
-76,Icesteel Spear,Icesteel Spear,mh4g-dex-build7+mh4edit-mit-save-id,6,0
-77,Daora's Fang,Daora's Fang,mh4g-dex-build7+mh4edit-mit-save-id,7,0
-78,Worn Spear,Worn Spear,mh4g-dex-build7+mh4edit-mit-save-id,5,0
-79,Weathered Spear,Weathered Spear,mh4g-dex-build7+mh4edit-mit-save-id,5,0
-80,Skyscraper,Skyscraper,mh4g-dex-build7+mh4edit-mit-save-id,6,0
-81,Teostra's Howl,Teostra's Howl,mh4g-dex-build7+mh4edit-mit-save-id,6,0
-82,Teostra's Roar,Teostra's Roar,mh4g-dex-build7+mh4edit-mit-save-id,7,0
-83,Thunderspear,Thunderspear,mh4g-dex-build7+mh4edit-mit-save-id,4,0
-84,Thunderlance,Thunderlance,mh4g-dex-build7+mh4edit-mit-save-id,7,0
-85,Grief Lance,Grief Lance,mh4g-dex-build7+mh4edit-mit-save-id,4,0
-86,Fiendish Tower,Fiendish Tower,mh4g-dex-build7+mh4edit-mit-save-id,6,0
-87,Shellslab Prong,Shellslab Prong,mh4g-dex-build7+mh4edit-mit-save-id,6,0
-88,The Steadfast Aegis,The Steadfast Aegis,mh4g-dex-build7+mh4edit-mit-save-id,7,0
-89,Fatalis Lance,Fatalis Lance,mh4g-dex-build7+mh4edit-mit-save-id,7,0
-90,Ruiner Lance,Ruiner Lance,mh4g-dex-build7+mh4edit-mit-save-id,7,0
-91,[JP] Brain Fox,[JP] Brain Fox,mh4g-dex-build7+mh4edit-mit-save-id+mh4g-save-id-dex-crosswalk,2,0
-92,[JP] Discovery Corps Lance,[JP] Discovery Corps Lance,mh4g-dex-build7+mh4edit-mit-save-id+mh4g-save-id-dex-crosswalk,5,0
-93,Babel Spear (red),Babel Spear (red),mh4g-dex-build7+mh4edit-mit-save-id,0,1
-94,Babel Spear (yellow),Babel Spear (yellow),mh4g-dex-build7+mh4edit-mit-save-id,0,1
-95,Babel Spear (green),Babel Spear (green),mh4g-dex-build7+mh4edit-mit-save-id,0,1
-96,Babel Spear (blue),Babel Spear (blue),mh4g-dex-build7+mh4edit-mit-save-id,0,1
-97,Babel Spear (purple),Babel Spear (purple),mh4g-dex-build7+mh4edit-mit-save-id,0,1
-98,Tusk Lance (red),Tusk Lance (red),mh4g-dex-build7+mh4edit-mit-save-id,0,1
-99,Tusk Lance (yellow),Tusk Lance (yellow),mh4g-dex-build7+mh4edit-mit-save-id,0,1
-100,Tusk Lance (green),Tusk Lance (green),mh4g-dex-build7+mh4edit-mit-save-id,0,1
-101,Tusk Lance (blue),Tusk Lance (blue),mh4g-dex-build7+mh4edit-mit-save-id,0,1
-102,Tusk Lance (purple),Tusk Lance (purple),mh4g-dex-build7+mh4edit-mit-save-id,0,1
-103,Dragonrider Lance (red),Dragonrider Lance (red),mh4edit-mit-save-id,0,1
-104,Dragonrider Lance (yellow),Dragonrider Lance (yellow),mh4edit-mit-save-id,0,1
-105,Dragonrider Lance (green),Dragonrider Lance (green),mh4edit-mit-save-id,0,1
-106,Dragonrider Lance (blue),Dragonrider Lance (blue),mh4edit-mit-save-id,0,1
-107,Dragonrider Lance (purple),Dragonrider Lance (purple),mh4edit-mit-save-id,0,1
-108,Frontrider Lance (red),Frontrider Lance (red),mh4edit-mit-save-id,0,1
-109,Frontrider Lance (yellow),Frontrider Lance (yellow),mh4edit-mit-save-id,0,1
-110,Frontrider Lance (green),Frontrider Lance (green),mh4edit-mit-save-id,0,1
-111,Frontrider Lance (blue),Frontrider Lance (blue),mh4edit-mit-save-id,0,1
-112,Frontrider Lance (purple),Frontrider Lance (purple),mh4edit-mit-save-id,0,1
-113,Silver Prominence (red),Silver Prominence (red),mh4g-dex-build7+mh4edit-mit-save-id,0,1
-114,Silver Prominence (yellow),Silver Prominence (yellow),mh4g-dex-build7+mh4edit-mit-save-id,0,1
-115,Silver Prominence (green),Silver Prominence (green),mh4g-dex-build7+mh4edit-mit-save-id,0,1
-116,Silver Prominence (blue),Silver Prominence (blue),mh4g-dex-build7+mh4edit-mit-save-id,0,1
-117,Silver Prominence (purple),Silver Prominence (purple),mh4g-dex-build7+mh4edit-mit-save-id,0,1
-118,Elder Babel Spear+,Elder Babel Spear+,mh4g-dex-build7+mh4edit-mit-save-id,8,0
-119,Lost Babel,Lost Babel,mh4g-dex-build7+mh4edit-mit-save-id,9,0
-120,Megadrill Lance+,Megadrill Lance+,mh4g-dex-build7+mh4edit-mit-save-id,8,0
-121,Gigadrill Lance,Gigadrill Lance,mh4g-dex-build7+mh4edit-mit-save-id,8,0
-122,Le Sage,Le Sage,mh4g-dex-build7+mh4edit-mit-save-id,9,0
-123,Le Paladin,Le Paladin,mh4g-dex-build7+mh4edit-mit-save-id,10,0
-124,Luzifer/Sage,Luzifer/Sage,mh4g-dex-build7+mh4edit-mit-save-id,9,0
-125,Gravios Lance,Gravios Lance,mh4g-dex-build7+mh4edit-mit-save-id,9,0
-126,Gravios Fire Lance,Gravios Fire Lance,mh4g-dex-build7+mh4edit-mit-save-id,9,0
-127,Cera Creos,Cera Creos,mh4g-dex-build7+mh4edit-mit-save-id,9,0
-128,Black Tempest,Black Tempest,mh4g-dex-build7+mh4edit-mit-save-id,9,0
-129,Rising Tempest,Rising Tempest,mh4g-dex-build7+mh4edit-mit-save-id,9,0
-130,Crimson Lance,Crimson Lance,mh4g-dex-build7+mh4edit-mit-save-id,5,0
-131,Crimson Lance+,Crimson Lance+,mh4g-dex-build7+mh4edit-mit-save-id,7,0
-132,Crimson War Pike,Crimson War Pike,mh4g-dex-build7+mh4edit-mit-save-id,9,0
-133,Crimson Monoblos,Crimson Monoblos,mh4g-dex-build7+mh4edit-mit-save-id,9,0
-134,Ceramic Blos Lance,Ceramic Blos Lance,mh4g-dex-build7+mh4edit-mit-save-id,9,0
-135,White Catastrophe,White Catastrophe,mh4g-dex-build7+mh4edit-mit-save-id,9,0
-136,Darkness+,Darkness+,mh4g-dex-build7+mh4edit-mit-save-id,8,0
-137,Dark Din,Dark Din,mh4g-dex-build7+mh4edit-mit-save-id,9,0
-138,Predator Gravelance+,Predator Gravelance+,mh4g-dex-build7+mh4edit-mit-save-id,9,0
-139,Ruthless Grislance,Ruthless Grislance,mh4g-dex-build7+mh4edit-mit-save-id,10,0
-140,Albrach Demolisher,Albrach Demolisher,mh4g-dex-build7+mh4edit-mit-save-id,9,0
-141,Lightbreak Lance,Lightbreak Lance,mh4g-dex-build7+mh4edit-mit-save-id,10,0
-142,Sol Prominence,Sol Prominence,mh4g-dex-build7+mh4edit-mit-save-id,10,0
-143,Immaculate Soul,Immaculate Soul,mh4g-dex-build7+mh4edit-mit-save-id,10,0
-144,Soul of Prominence,Soul of Prominence,mh4g-dex-build7+mh4edit-mit-save-id,9,0
-145,Paragyred Spear,Paragyred Spear,mh4g-dex-build7+mh4edit-mit-save-id,8,0
-146,Asclepius,Asclepius,mh4g-dex-build7+mh4edit-mit-save-id,9,0
-147,Jingana,Jingana,mh4g-dex-build7+mh4edit-mit-save-id,8,0
-148,Jingana+,Jingana+,mh4g-dex-build7+mh4edit-mit-save-id,9,0
-149,Caduceus,Caduceus,mh4g-dex-build7+mh4edit-mit-save-id,9,0
-150,Bone Claw Lance,Bone Claw Lance,mh4g-dex-build7+mh4edit-mit-save-id,4,0
-151,Bone Claw Lance+,Bone Claw Lance+,mh4g-dex-build7+mh4edit-mit-save-id,6,0
-152,Shell Claw Lance,Shell Claw Lance,mh4g-dex-build7+mh4edit-mit-save-id,8,0
-153,Giant Hermitaur Lance,Giant Hermitaur Lance,mh4g-dex-build7+mh4edit-mit-save-id,9,0
-154,Shuraba Lance,Shuraba Lance,mh4g-dex-build7+mh4edit-mit-save-id,8,0
-155,Shula Shuraba,Shula Shuraba,mh4g-dex-build7+mh4edit-mit-save-id,8,0
-156,White Shula Shuraba,White Shula Shuraba,mh4g-dex-build7+mh4edit-mit-save-id,8,0
-157,Gobulaluku Bosca,Gobulaluku Bosca,mh4g-dex-build7+mh4edit-mit-save-id,8,0
-158,Gobulaluku Aquir,Gobulaluku Aquir,mh4g-dex-build7+mh4edit-mit-save-id,8,0
-159,Oppressor's Genesis,Oppressor's Genesis,mh4g-dex-build7+mh4edit-mit-save-id,9,0
-160,Orcus Galeus,Orcus Galeus,mh4g-dex-build7+mh4edit-mit-save-id,9,0
-161,Brimstren Draketail+,Brimstren Draketail+,mh4g-dex-build7+mh4edit-mit-save-id,9,0
-162,Stygian Ira,Stygian Ira,mh4g-dex-build7+mh4edit-mit-save-id,9,0
-163,Demonlance Rajang,Demonlance Rajang,mh4g-dex-build7+mh4edit-mit-save-id,9,0
-164,Demonray Rajang,Demonray Rajang,mh4g-dex-build7+mh4edit-mit-save-id,10,0
-165,The Destructor,The Destructor,mh4g-dex-build7+mh4edit-mit-save-id,8,0
-166,Icelance Zamtrios,Icelance Zamtrios,mh4g-dex-build7+mh4edit-mit-save-id,9,0
-167,Carnelian Lance,Carnelian Lance,mh4g-dex-build7+mh4edit-mit-save-id,8,0
-168,Crystalis,Crystalis,mh4g-dex-build7+mh4edit-mit-save-id,9,0
-169,Tusk Lance,Tusk Lance,mh4g-dex-build7+mh4edit-mit-save-id,8,0
-170,Sabertooth,Sabertooth,mh4g-dex-build7+mh4edit-mit-save-id,9,0
-171,Incessant Pox,Incessant Pox,mh4g-dex-build7+mh4edit-mit-save-id,8,0
-172,Garuga Incessance,Garuga Incessance,mh4g-dex-build7+mh4edit-mit-save-id,9,0
-173,Eterno Crown,Eterno Crown,mh4g-dex-build7+mh4edit-mit-save-id,8,0
-174,Aidion Crown,Aidion Crown,mh4g-dex-build7+mh4edit-mit-save-id,8,0
-175,Sharq Assawlt,Sharq Assawlt,mh4g-dex-build7+mh4edit-mit-save-id,9,0
-176,Watery Trishula+,Watery Trishula+,mh4g-dex-build7+mh4edit-mit-save-id,8,0
-177,Esmeralda's Tide,Esmeralda's Tide,mh4g-dex-build7+mh4edit-mit-save-id,9,0
-178,Neo Undertaker,Neo Undertaker,mh4g-dex-build7+mh4edit-mit-save-id,9,0
-179,Daora's Regulus,Daora's Regulus,mh4g-dex-build7+mh4edit-mit-save-id,10,0
-180,Eldaora's Fang,Eldaora's Fang,mh4g-dex-build7+mh4edit-mit-save-id,10,0
-181,Skyscraper+,Skyscraper+,mh4g-dex-build7+mh4edit-mit-save-id,8,0
-182,Skysunderer,Skysunderer,mh4g-dex-build7+mh4edit-mit-save-id,9,0
-183,Teostra's Fire,Teostra's Fire,mh4g-dex-build7+mh4edit-mit-save-id,10,0
-184,Naar Thunderlance,Naar Thunderlance,mh4g-dex-build7+mh4edit-mit-save-id,10,0
-185,Nero's Atrocity,Nero's Atrocity,mh4g-dex-build7+mh4edit-mit-save-id,10,0
-186,Ukanlos Calamity,Ukanlos Calamity,mh4g-dex-build7+mh4edit-mit-save-id,7,0
-187,Ukanlos Skysweeper,Ukanlos Skysweeper,mh4g-dex-build7+mh4edit-mit-save-id,9,0
-188,Ethelred the Ready,Ethelred the Ready,mh4g-dex-build7+mh4edit-mit-save-id,9,0
-189,Dalamadur Lance,Dalamadur Lance,mh4g-dex-build7+mh4edit-mit-save-id,10,0
-190,Generous Dalamadur,Generous Dalamadur,mh4g-dex-build7+mh4edit-mit-save-id,10,0
-191,True Fatalis Lance,True Fatalis Lance,mh4g-dex-build7+mh4edit-mit-save-id,10,0
-192,True Ruiner Lance,True Ruiner Lance,mh4g-dex-build7+mh4edit-mit-save-id,10,0
-193,W. Fatalis Lance,W. Fatalis Lance,mh4g-dex-build7+mh4edit-mit-save-id,10,0
-194,Harbah Lance,Harbah Lance,mh4g-dex-build7+mh4edit-mit-save-id,6,0
-195,Harbah Lance+,Harbah Lance+,mh4g-dex-build7+mh4edit-mit-save-id,7,0
-196,Seditious Lance,Seditious Lance,mh4g-dex-build7+mh4edit-mit-save-id,9,0
-197,Hadad Sedition,Hadad Sedition,mh4g-dex-build7+mh4edit-mit-save-id,10,0
-198,Fettering Rebuke,Fettering Rebuke,mh4g-dex-build7+mh4edit-mit-save-id,10,0
-199,Aether Geghard,Aether Geghard,mh4g-dex-build7+mh4edit-mit-save-id,10,0
-200,DUMMY,DUMMY,mh4edit-mit-save-id,0,0
-201,DUMMY,DUMMY,mh4edit-mit-save-id,0,0
-202,DUMMY,DUMMY,mh4edit-mit-save-id,0,0
-203,DUMMY,DUMMY,mh4edit-mit-save-id,0,0
-204,Seven-star lance (red),Seven-star lance (red),mh4edit-mit-save-id,0,1
-205,Seven-star lance (yellow),Seven-star lance (yellow),mh4edit-mit-save-id,0,1
-206,Seven-star lance (green),Seven-star lance (green),mh4edit-mit-save-id,0,1
-207,Seven-star lance (blue),Seven-star lance (blue),mh4edit-mit-save-id,0,1
-208,Seven-star lance (purple),Seven-star lance (purple),mh4edit-mit-save-id,0,1
-209,Estoc (red),Estoc (red),mh4edit-mit-save-id,0,1
-210,Estoc (yellow),Estoc (yellow),mh4edit-mit-save-id,0,1
-211,Estoc (green),Estoc (green),mh4edit-mit-save-id,0,1
-212,Estoc (blue),Estoc (blue),mh4edit-mit-save-id,0,1
-213,Estoc (purple),Estoc (purple),mh4edit-mit-save-id,0,1
-214,Hell Phalanx,Hell Phalanx,mh4edit-mit-save-id,0,0
-215,Purification,Purification,mh4edit-mit-save-id,0,0
+0,None,None,mh4g-core-common-game-array,0,0
+1,Iron Lance,Iron Lance,mh4g-core-common-game-array+mh4g-dex-build7+mh4edit-mit-save-id,1,0
+2,Iron Lance+,Iron Lance+,mh4g-core-common-game-array+mh4g-dex-build7+mh4edit-mit-save-id,1,0
+3,Knight Lance,Knight Lance,mh4g-core-common-game-array+mh4g-dex-build7+mh4edit-mit-save-id,1,0
+4,Knight Lance+,Knight Lance+,mh4g-core-common-game-array+mh4g-dex-build7+mh4edit-mit-save-id,2,0
+5,Rampart,Rampart,mh4g-core-common-game-array+mh4g-dex-build7+mh4edit-mit-save-id,2,0
+6,Rampart+,Rampart+,mh4g-core-common-game-array+mh4g-dex-build7+mh4edit-mit-save-id,3,0
+7,Babel Spear,Babel Spear,mh4g-core-common-game-array+mh4g-dex-build7+mh4edit-mit-save-id,4,0
+8,Elder Babel Spear,Elder Babel Spear,mh4g-core-common-game-array+mh4g-dex-build7+mh4edit-mit-save-id,6,0
+9,Drill Lance,Drill Lance,mh4g-core-common-game-array+mh4g-dex-build7+mh4edit-mit-save-id,4,0
+10,Megadrill Lance,Megadrill Lance,mh4g-core-common-game-array+mh4g-dex-build7+mh4edit-mit-save-id,5,0
+11,Eiferschild,Eiferschild,mh4g-core-common-game-array+mh4g-dex-build7+mh4edit-mit-save-id,3,0
+12,Fieberschild,Fieberschild,mh4g-core-common-game-array+mh4g-dex-build7+mh4edit-mit-save-id,4,0
+13,Zornesschild,Zornesschild,mh4g-core-common-game-array+mh4g-dex-build7+mh4edit-mit-save-id,5,0
+14,L'Égide,L'Égide,mh4g-core-common-game-array+mh4g-dex-build7+mh4edit-mit-save-id,7,0
+15,Venom Lance,Venom Lance,mh4g-core-common-game-array+mh4g-dex-build7+mh4edit-mit-save-id,2,0
+16,Basarios Venom Spear,Basarios Venom Spear,mh4g-core-common-game-array+mh4g-dex-build7+mh4edit-mit-save-id,3,0
+17,Gravios Spear,Gravios Spear,mh4g-core-common-game-array+mh4g-dex-build7+mh4edit-mit-save-id,5,0
+18,Black Gravios Spear,Black Gravios Spear,mh4g-core-common-game-array+mh4g-dex-build7+mh4edit-mit-save-id,6,0
+19,Diablos Lance,Diablos Lance,mh4g-core-common-game-array+mh4g-dex-build7+mh4edit-mit-save-id,4,0
+20,Diablos Spear,Diablos Spear,mh4g-core-common-game-array+mh4g-dex-build7+mh4edit-mit-save-id,6,0
+21,Fragrance,Fragrance,mh4g-core-common-game-array+mh4g-dex-build7+mh4edit-mit-save-id,2,0
+22,Fragrance+,Fragrance+,mh4g-core-common-game-array+mh4g-dex-build7+mh4edit-mit-save-id,3,0
+23,Dark Spear,Dark Spear,mh4g-core-common-game-array+mh4g-dex-build7+mh4edit-mit-save-id,4,0
+24,Darkness,Darkness,mh4g-core-common-game-array+mh4g-dex-build7+mh4edit-mit-save-id,6,0
+25,Bone Lance,Bone Lance,mh4g-core-common-game-array+mh4g-dex-build7+mh4edit-mit-save-id,1,0
+26,Bone Lance+,Bone Lance+,mh4g-core-common-game-array+mh4g-dex-build7+mh4edit-mit-save-id,1,0
+27,Spiked Spear,Spiked Spear,mh4g-core-common-game-array+mh4g-dex-build7+mh4edit-mit-save-id,1,0
+28,Spiked Spear+,Spiked Spear+,mh4g-core-common-game-array+mh4g-dex-build7+mh4edit-mit-save-id,2,0
+29,Spiked Javelin,Spiked Javelin,mh4g-core-common-game-array+mh4g-dex-build7+mh4edit-mit-save-id,2,0
+30,Tiger Stinger,Tiger Stinger,mh4g-core-common-game-array+mh4g-dex-build7+mh4edit-mit-save-id,3,0
+31,Tigrex Lance,Tigrex Lance,mh4g-core-common-game-array+mh4g-dex-build7+mh4edit-mit-save-id,5,0
+32,Accursed Stinger,Accursed Stinger,mh4g-core-common-game-array+mh4g-dex-build7+mh4edit-mit-save-id,6,0
+33,Predator Gravelance,Predator Gravelance,mh4g-core-common-game-array+mh4g-dex-build7+mh4edit-mit-save-id,7,0
+34,Dios Stinger,Dios Stinger,mh4g-core-common-game-array+mh4g-dex-build7+mh4edit-mit-save-id,4,0
+35,Dios Stinger+,Dios Stinger+,mh4g-core-common-game-array+mh4g-dex-build7+mh4edit-mit-save-id,5,0
+36,Demolition Lance,Demolition Lance,mh4g-core-common-game-array+mh4g-dex-build7+mh4edit-mit-save-id,6,0
+37,Red Tail,Red Tail,mh4g-core-common-game-array+mh4g-dex-build7+mh4edit-mit-save-id,3,0
+38,Spear of Prominence,Spear of Prominence,mh4g-core-common-game-array+mh4g-dex-build7+mh4edit-mit-save-id,5,0
+39,Silver Prominence,Silver Prominence,mh4g-core-common-game-array+mh4g-dex-build7+mh4edit-mit-save-id,7,0
+40,Blue Prominence,Blue Prominence,mh4g-core-common-game-array+mh4g-dex-build7+mh4edit-mit-save-id,6,0
+41,Twistcrawl,Twistcrawl,mh4g-core-common-game-array+mh4g-dex-build7+mh4edit-mit-save-id,2,0
+42,Twistcrawl+,Twistcrawl+,mh4g-core-common-game-array+mh4g-dex-build7+mh4edit-mit-save-id,4,0
+43,Twisting Crawler,Twisting Crawler,mh4g-core-common-game-array+mh4g-dex-build7+mh4edit-mit-save-id,5,0
+44,Paratwist Crawler,Paratwist Crawler,mh4g-core-common-game-array+mh4g-dex-build7+mh4edit-mit-save-id,6,0
+45,Expelger,Expelger,mh4g-core-common-game-array+mh4g-dex-build7+mh4edit-mit-save-id,2,0
+46,Expelgorer,Expelgorer,mh4g-core-common-game-array+mh4g-dex-build7+mh4edit-mit-save-id,2,0
+47,Expelgorer+,Expelgorer+,mh4g-core-common-game-array+mh4g-dex-build7+mh4edit-mit-save-id,3,0
+48,Expelgouger,Expelgouger,mh4g-core-common-game-array+mh4g-dex-build7+mh4edit-mit-save-id,4,0
+49,Rexpelgouger,Rexpelgouger,mh4g-core-common-game-array+mh4g-dex-build7+mh4edit-mit-save-id,5,0
+50,Gobulu Muruka,Gobulu Muruka,mh4g-core-common-game-array+mh4g-dex-build7+mh4edit-mit-save-id,5,0
+51,Gobuluku Muraaka,Gobuluku Muraaka,mh4g-core-common-game-array+mh4g-dex-build7+mh4edit-mit-save-id,6,0
+52,Usurper's Coming,Usurper's Coming,mh4g-core-common-game-array+mh4g-dex-build7+mh4edit-mit-save-id,3,0
+53,Despot's Cacophony,Despot's Cacophony,mh4g-core-common-game-array+mh4g-dex-build7+mh4edit-mit-save-id,5,0
+54,Demon Lance,Demon Lance,mh4g-core-common-game-array+mh4g-dex-build7+mh4edit-mit-save-id,6,0
+55,Great Demon Lance,Great Demon Lance,mh4g-core-common-game-array+mh4g-dex-build7+mh4edit-mit-save-id,7,0
+56,Brimstren Draketail,Brimstren Draketail,mh4g-core-common-game-array+mh4g-dex-build7+mh4edit-mit-save-id,6,0
+57,Carnivicious,Carnivicious,mh4g-core-common-game-array+mh4g-dex-build7+mh4edit-mit-save-id,2,0
+58,Carnivicious+,Carnivicious+,mh4g-core-common-game-array+mh4g-dex-build7+mh4edit-mit-save-id,3,0
+59,Omnivicious,Omnivicious,mh4g-core-common-game-array+mh4g-dex-build7+mh4edit-mit-save-id,5,0
+60,Omnivoracious,Omnivoracious,mh4g-core-common-game-array+mh4g-dex-build7+mh4edit-mit-save-id,6,0
+61,Incessant Raven,Incessant Raven,mh4g-core-common-game-array+mh4g-dex-build7+mh4edit-mit-save-id,3,0
+62,Incessant Wolf,Incessant Wolf,mh4g-core-common-game-array+mh4g-dex-build7+mh4edit-mit-save-id,4,0
+63,Incessant Crow,Incessant Crow,mh4g-core-common-game-array+mh4g-dex-build7+mh4edit-mit-save-id,6,0
+64,Blue Crater,Blue Crater,mh4g-core-common-game-array+mh4g-dex-build7+mh4edit-mit-save-id,4,0
+65,Doom Crown,Doom Crown,mh4g-core-common-game-array+mh4g-dex-build7+mh4edit-mit-save-id,5,0
+66,Sharq Byte,Sharq Byte,mh4g-core-common-game-array+mh4g-dex-build7+mh4edit-mit-save-id,2,0
+67,Sharq Attaq,Sharq Attaq,mh4g-core-common-game-array+mh4g-dex-build7+mh4edit-mit-save-id,5,0
+68,Aqua Spear,Aqua Spear,mh4g-core-common-game-array+mh4g-dex-build7+mh4edit-mit-save-id,2,0
+69,Stream Spear,Stream Spear,mh4g-core-common-game-array+mh4g-dex-build7+mh4edit-mit-save-id,4,0
+70,Emerald Spear,Emerald Spear,mh4g-core-common-game-array+mh4g-dex-build7+mh4edit-mit-save-id,5,0
+71,Watery Trishula,Watery Trishula,mh4g-core-common-game-array+mh4g-dex-build7+mh4edit-mit-save-id,6,0
+72,Rusted Lance,Rusted Lance,mh4g-core-common-game-array+mh4g-dex-build7+mh4edit-mit-save-id,2,0
+73,Tarnished Lance,Tarnished Lance,mh4g-core-common-game-array+mh4g-dex-build7+mh4edit-mit-save-id,3,0
+74,Undertaker,Undertaker,mh4g-core-common-game-array+mh4g-dex-build7+mh4edit-mit-save-id,4,0
+75,High Undertaker,High Undertaker,mh4g-core-common-game-array+mh4g-dex-build7+mh4edit-mit-save-id,5,0
+76,Icesteel Spear,Icesteel Spear,mh4g-core-common-game-array+mh4g-dex-build7+mh4edit-mit-save-id,6,0
+77,Daora's Fang,Daora's Fang,mh4g-core-common-game-array+mh4g-dex-build7+mh4edit-mit-save-id,7,0
+78,Worn Spear,Worn Spear,mh4g-core-common-game-array+mh4g-dex-build7+mh4edit-mit-save-id,5,0
+79,Weathered Spear,Weathered Spear,mh4g-core-common-game-array+mh4g-dex-build7+mh4edit-mit-save-id,5,0
+80,Skyscraper,Skyscraper,mh4g-core-common-game-array+mh4g-dex-build7+mh4edit-mit-save-id,6,0
+81,Teostra's Howl,Teostra's Howl,mh4g-core-common-game-array+mh4g-dex-build7+mh4edit-mit-save-id,6,0
+82,Teostra's Roar,Teostra's Roar,mh4g-core-common-game-array+mh4g-dex-build7+mh4edit-mit-save-id,7,0
+83,Thunderspear,Thunderspear,mh4g-core-common-game-array+mh4g-dex-build7+mh4edit-mit-save-id,4,0
+84,Thunderlance,Thunderlance,mh4g-core-common-game-array+mh4g-dex-build7+mh4edit-mit-save-id,7,0
+85,Grief Lance,Grief Lance,mh4g-core-common-game-array+mh4g-dex-build7+mh4edit-mit-save-id,4,0
+86,Fiendish Tower,Fiendish Tower,mh4g-core-common-game-array+mh4g-dex-build7+mh4edit-mit-save-id,6,0
+87,Shellslab Prong,Shellslab Prong,mh4g-core-common-game-array+mh4g-dex-build7+mh4edit-mit-save-id,6,0
+88,The Steadfast Aegis,The Steadfast Aegis,mh4g-core-common-game-array+mh4g-dex-build7+mh4edit-mit-save-id,7,0
+89,Fatalis Lance,Fatalis Lance,mh4g-core-common-game-array+mh4g-dex-build7+mh4edit-mit-save-id,7,0
+90,Ruiner Lance,Ruiner Lance,mh4g-core-common-game-array+mh4g-dex-build7+mh4edit-mit-save-id,7,0
+91,[JP] Brain Fox,[JP] Brain Fox,mh4g-core-common-game-array+mh4g-dex-build7+mh4edit-mit-save-id+mh4g-save-id-dex-crosswalk,2,0
+92,[JP] Discovery Corps Lance,[JP] Discovery Corps Lance,mh4g-core-common-game-array+mh4g-dex-build7+mh4edit-mit-save-id+mh4g-save-id-dex-crosswalk,5,0
+93,Babel Spear (red),Babel Spear (red),mh4g-core-common-game-array+mh4g-dex-build7+mh4edit-mit-save-id,0,1
+94,Babel Spear (yellow),Babel Spear (yellow),mh4g-core-common-game-array+mh4g-dex-build7+mh4edit-mit-save-id,0,1
+95,Babel Spear (green),Babel Spear (green),mh4g-core-common-game-array+mh4g-dex-build7+mh4edit-mit-save-id,0,1
+96,Babel Spear (blue),Babel Spear (blue),mh4g-core-common-game-array+mh4g-dex-build7+mh4edit-mit-save-id,0,1
+97,Babel Spear (purple),Babel Spear (purple),mh4g-core-common-game-array+mh4g-dex-build7+mh4edit-mit-save-id,0,1
+98,Tusk Lance (red),Tusk Lance (red),mh4g-core-common-game-array+mh4g-dex-build7+mh4edit-mit-save-id,0,1
+99,Tusk Lance (yellow),Tusk Lance (yellow),mh4g-core-common-game-array+mh4g-dex-build7+mh4edit-mit-save-id,0,1
+100,Tusk Lance (green),Tusk Lance (green),mh4g-core-common-game-array+mh4g-dex-build7+mh4edit-mit-save-id,0,1
+101,Tusk Lance (blue),Tusk Lance (blue),mh4g-core-common-game-array+mh4g-dex-build7+mh4edit-mit-save-id,0,1
+102,Tusk Lance (purple),Tusk Lance (purple),mh4g-core-common-game-array+mh4g-dex-build7+mh4edit-mit-save-id,0,1
+103,Dragonrider Lance (red),Dragonrider Lance (red),mh4g-core-common-game-array+mh4edit-mit-save-id,0,1
+104,Dragonrider Lance (yellow),Dragonrider Lance (yellow),mh4g-core-common-game-array+mh4edit-mit-save-id,0,1
+105,Dragonrider Lance (green),Dragonrider Lance (green),mh4g-core-common-game-array+mh4edit-mit-save-id,0,1
+106,Dragonrider Lance (blue),Dragonrider Lance (blue),mh4g-core-common-game-array+mh4edit-mit-save-id,0,1
+107,Dragonrider Lance (purple),Dragonrider Lance (purple),mh4g-core-common-game-array+mh4edit-mit-save-id,0,1
+108,Frontrider Lance (red),Frontrider Lance (red),mh4g-core-common-game-array+mh4edit-mit-save-id,0,1
+109,Frontrider Lance (yellow),Frontrider Lance (yellow),mh4g-core-common-game-array+mh4edit-mit-save-id,0,1
+110,Frontrider Lance (green),Frontrider Lance (green),mh4g-core-common-game-array+mh4edit-mit-save-id,0,1
+111,Frontrider Lance (blue),Frontrider Lance (blue),mh4g-core-common-game-array+mh4edit-mit-save-id,0,1
+112,Frontrider Lance (purple),Frontrider Lance (purple),mh4g-core-common-game-array+mh4edit-mit-save-id,0,1
+113,Silver Prominence (red),Silver Prominence (red),mh4g-core-common-game-array+mh4g-dex-build7+mh4edit-mit-save-id,0,1
+114,Silver Prominence (yellow),Silver Prominence (yellow),mh4g-core-common-game-array+mh4g-dex-build7+mh4edit-mit-save-id,0,1
+115,Silver Prominence (green),Silver Prominence (green),mh4g-core-common-game-array+mh4g-dex-build7+mh4edit-mit-save-id,0,1
+116,Silver Prominence (blue),Silver Prominence (blue),mh4g-core-common-game-array+mh4g-dex-build7+mh4edit-mit-save-id,0,1
+117,Silver Prominence (purple),Silver Prominence (purple),mh4g-core-common-game-array+mh4g-dex-build7+mh4edit-mit-save-id,0,1
+118,Elder Babel Spear+,Elder Babel Spear+,mh4g-core-common-game-array+mh4g-dex-build7+mh4edit-mit-save-id,8,0
+119,Lost Babel,Lost Babel,mh4g-core-common-game-array+mh4g-dex-build7+mh4edit-mit-save-id,9,0
+120,Megadrill Lance+,Megadrill Lance+,mh4g-core-common-game-array+mh4g-dex-build7+mh4edit-mit-save-id,8,0
+121,Gigadrill Lance,Gigadrill Lance,mh4g-core-common-game-array+mh4g-dex-build7+mh4edit-mit-save-id,8,0
+122,Le Sage,Le Sage,mh4g-core-common-game-array+mh4g-dex-build7+mh4edit-mit-save-id,9,0
+123,Le Paladin,Le Paladin,mh4g-core-common-game-array+mh4g-dex-build7+mh4edit-mit-save-id,10,0
+124,Luzifer/Sage,Luzifer/Sage,mh4g-core-common-game-array+mh4g-dex-build7+mh4edit-mit-save-id,9,0
+125,Gravios Lance,Gravios Lance,mh4g-core-common-game-array+mh4g-dex-build7+mh4edit-mit-save-id,9,0
+126,Gravios Fire Lance,Gravios Fire Lance,mh4g-core-common-game-array+mh4g-dex-build7+mh4edit-mit-save-id,9,0
+127,Cera Creos,Cera Creos,mh4g-core-common-game-array+mh4g-dex-build7+mh4edit-mit-save-id,9,0
+128,Black Tempest,Black Tempest,mh4g-core-common-game-array+mh4g-dex-build7+mh4edit-mit-save-id,9,0
+129,Rising Tempest,Rising Tempest,mh4g-core-common-game-array+mh4g-dex-build7+mh4edit-mit-save-id,9,0
+130,Crimson Lance,Crimson Lance,mh4g-core-common-game-array+mh4g-dex-build7+mh4edit-mit-save-id,5,0
+131,Crimson Lance+,Crimson Lance+,mh4g-core-common-game-array+mh4g-dex-build7+mh4edit-mit-save-id,7,0
+132,Crimson War Pike,Crimson War Pike,mh4g-core-common-game-array+mh4g-dex-build7+mh4edit-mit-save-id,9,0
+133,Crimson Monoblos,Crimson Monoblos,mh4g-core-common-game-array+mh4g-dex-build7+mh4edit-mit-save-id,9,0
+134,Ceramic Blos Lance,Ceramic Blos Lance,mh4g-core-common-game-array+mh4g-dex-build7+mh4edit-mit-save-id,9,0
+135,White Catastrophe,White Catastrophe,mh4g-core-common-game-array+mh4g-dex-build7+mh4edit-mit-save-id,9,0
+136,Darkness+,Darkness+,mh4g-core-common-game-array+mh4g-dex-build7+mh4edit-mit-save-id,8,0
+137,Dark Din,Dark Din,mh4g-core-common-game-array+mh4g-dex-build7+mh4edit-mit-save-id,9,0
+138,Predator Gravelance+,Predator Gravelance+,mh4g-core-common-game-array+mh4g-dex-build7+mh4edit-mit-save-id,9,0
+139,Ruthless Grislance,Ruthless Grislance,mh4g-core-common-game-array+mh4g-dex-build7+mh4edit-mit-save-id,10,0
+140,Albrach Demolisher,Albrach Demolisher,mh4g-core-common-game-array+mh4g-dex-build7+mh4edit-mit-save-id,9,0
+141,Lightbreak Lance,Lightbreak Lance,mh4g-core-common-game-array+mh4g-dex-build7+mh4edit-mit-save-id,10,0
+142,Sol Prominence,Sol Prominence,mh4g-core-common-game-array+mh4g-dex-build7+mh4edit-mit-save-id,10,0
+143,Immaculate Soul,Immaculate Soul,mh4g-core-common-game-array+mh4g-dex-build7+mh4edit-mit-save-id,10,0
+144,Soul of Prominence,Soul of Prominence,mh4g-core-common-game-array+mh4g-dex-build7+mh4edit-mit-save-id,9,0
+145,Paragyred Spear,Paragyred Spear,mh4g-core-common-game-array+mh4g-dex-build7+mh4edit-mit-save-id,8,0
+146,Asclepius,Asclepius,mh4g-core-common-game-array+mh4g-dex-build7+mh4edit-mit-save-id,9,0
+147,Jingana,Jingana,mh4g-core-common-game-array+mh4g-dex-build7+mh4edit-mit-save-id,8,0
+148,Jingana+,Jingana+,mh4g-core-common-game-array+mh4g-dex-build7+mh4edit-mit-save-id,9,0
+149,Caduceus,Caduceus,mh4g-core-common-game-array+mh4g-dex-build7+mh4edit-mit-save-id,9,0
+150,Bone Claw Lance,Bone Claw Lance,mh4g-core-common-game-array+mh4g-dex-build7+mh4edit-mit-save-id,4,0
+151,Bone Claw Lance+,Bone Claw Lance+,mh4g-core-common-game-array+mh4g-dex-build7+mh4edit-mit-save-id,6,0
+152,Shell Claw Lance,Shell Claw Lance,mh4g-core-common-game-array+mh4g-dex-build7+mh4edit-mit-save-id,8,0
+153,Giant Hermitaur Lance,Giant Hermitaur Lance,mh4g-core-common-game-array+mh4g-dex-build7+mh4edit-mit-save-id,9,0
+154,Shuraba Lance,Shuraba Lance,mh4g-core-common-game-array+mh4g-dex-build7+mh4edit-mit-save-id,8,0
+155,Shula Shuraba,Shula Shuraba,mh4g-core-common-game-array+mh4g-dex-build7+mh4edit-mit-save-id,8,0
+156,White Shula Shuraba,White Shula Shuraba,mh4g-core-common-game-array+mh4g-dex-build7+mh4edit-mit-save-id,8,0
+157,Gobulaluku Bosca,Gobulaluku Bosca,mh4g-core-common-game-array+mh4g-dex-build7+mh4edit-mit-save-id,8,0
+158,Gobulaluku Aquir,Gobulaluku Aquir,mh4g-core-common-game-array+mh4g-dex-build7+mh4edit-mit-save-id,8,0
+159,Oppressor's Genesis,Oppressor's Genesis,mh4g-core-common-game-array+mh4g-dex-build7+mh4edit-mit-save-id,9,0
+160,Orcus Galeus,Orcus Galeus,mh4g-core-common-game-array+mh4g-dex-build7+mh4edit-mit-save-id,9,0
+161,Brimstren Draketail+,Brimstren Draketail+,mh4g-core-common-game-array+mh4g-dex-build7+mh4edit-mit-save-id,9,0
+162,Stygian Ira,Stygian Ira,mh4g-core-common-game-array+mh4g-dex-build7+mh4edit-mit-save-id,9,0
+163,Demonlance Rajang,Demonlance Rajang,mh4g-core-common-game-array+mh4g-dex-build7+mh4edit-mit-save-id,9,0
+164,Demonray Rajang,Demonray Rajang,mh4g-core-common-game-array+mh4g-dex-build7+mh4edit-mit-save-id,10,0
+165,The Destructor,The Destructor,mh4g-core-common-game-array+mh4g-dex-build7+mh4edit-mit-save-id,8,0
+166,Icelance Zamtrios,Icelance Zamtrios,mh4g-core-common-game-array+mh4g-dex-build7+mh4edit-mit-save-id,9,0
+167,Carnelian Lance,Carnelian Lance,mh4g-core-common-game-array+mh4g-dex-build7+mh4edit-mit-save-id,8,0
+168,Crystalis,Crystalis,mh4g-core-common-game-array+mh4g-dex-build7+mh4edit-mit-save-id,9,0
+169,Tusk Lance,Tusk Lance,mh4g-core-common-game-array+mh4g-dex-build7+mh4edit-mit-save-id,8,0
+170,Sabertooth,Sabertooth,mh4g-core-common-game-array+mh4g-dex-build7+mh4edit-mit-save-id,9,0
+171,Incessant Pox,Incessant Pox,mh4g-core-common-game-array+mh4g-dex-build7+mh4edit-mit-save-id,8,0
+172,Garuga Incessance,Garuga Incessance,mh4g-core-common-game-array+mh4g-dex-build7+mh4edit-mit-save-id,9,0
+173,Eterno Crown,Eterno Crown,mh4g-core-common-game-array+mh4g-dex-build7+mh4edit-mit-save-id,8,0
+174,Aidion Crown,Aidion Crown,mh4g-core-common-game-array+mh4g-dex-build7+mh4edit-mit-save-id,8,0
+175,Sharq Assawlt,Sharq Assawlt,mh4g-core-common-game-array+mh4g-dex-build7+mh4edit-mit-save-id,9,0
+176,Watery Trishula+,Watery Trishula+,mh4g-core-common-game-array+mh4g-dex-build7+mh4edit-mit-save-id,8,0
+177,Esmeralda's Tide,Esmeralda's Tide,mh4g-core-common-game-array+mh4g-dex-build7+mh4edit-mit-save-id,9,0
+178,Neo Undertaker,Neo Undertaker,mh4g-core-common-game-array+mh4g-dex-build7+mh4edit-mit-save-id,9,0
+179,Daora's Regulus,Daora's Regulus,mh4g-core-common-game-array+mh4g-dex-build7+mh4edit-mit-save-id,10,0
+180,Eldaora's Fang,Eldaora's Fang,mh4g-core-common-game-array+mh4g-dex-build7+mh4edit-mit-save-id,10,0
+181,Skyscraper+,Skyscraper+,mh4g-core-common-game-array+mh4g-dex-build7+mh4edit-mit-save-id,8,0
+182,Skysunderer,Skysunderer,mh4g-core-common-game-array+mh4g-dex-build7+mh4edit-mit-save-id,9,0
+183,Teostra's Fire,Teostra's Fire,mh4g-core-common-game-array+mh4g-dex-build7+mh4edit-mit-save-id,10,0
+184,Naar Thunderlance,Naar Thunderlance,mh4g-core-common-game-array+mh4g-dex-build7+mh4edit-mit-save-id,10,0
+185,Nero's Atrocity,Nero's Atrocity,mh4g-core-common-game-array+mh4g-dex-build7+mh4edit-mit-save-id,10,0
+186,Ukanlos Calamity,Ukanlos Calamity,mh4g-core-common-game-array+mh4g-dex-build7+mh4edit-mit-save-id,7,0
+187,Ukanlos Skysweeper,Ukanlos Skysweeper,mh4g-core-common-game-array+mh4g-dex-build7+mh4edit-mit-save-id,9,0
+188,Ethelred the Ready,Ethelred the Ready,mh4g-core-common-game-array+mh4g-dex-build7+mh4edit-mit-save-id,9,0
+189,Dalamadur Lance,Dalamadur Lance,mh4g-core-common-game-array+mh4g-dex-build7+mh4edit-mit-save-id,10,0
+190,Generous Dalamadur,Generous Dalamadur,mh4g-core-common-game-array+mh4g-dex-build7+mh4edit-mit-save-id,10,0
+191,True Fatalis Lance,True Fatalis Lance,mh4g-core-common-game-array+mh4g-dex-build7+mh4edit-mit-save-id,10,0
+192,True Ruiner Lance,True Ruiner Lance,mh4g-core-common-game-array+mh4g-dex-build7+mh4edit-mit-save-id,10,0
+193,W. Fatalis Lance,W. Fatalis Lance,mh4g-core-common-game-array+mh4g-dex-build7+mh4edit-mit-save-id,10,0
+194,Harbah Lance,Harbah Lance,mh4g-core-common-game-array+mh4g-dex-build7+mh4edit-mit-save-id,6,0
+195,Harbah Lance+,Harbah Lance+,mh4g-core-common-game-array+mh4g-dex-build7+mh4edit-mit-save-id,7,0
+196,Seditious Lance,Seditious Lance,mh4g-core-common-game-array+mh4g-dex-build7+mh4edit-mit-save-id,9,0
+197,Hadad Sedition,Hadad Sedition,mh4g-core-common-game-array+mh4g-dex-build7+mh4edit-mit-save-id,10,0
+198,Fettering Rebuke,Fettering Rebuke,mh4g-core-common-game-array+mh4g-dex-build7+mh4edit-mit-save-id,10,0
+199,Aether Geghard,Aether Geghard,mh4g-core-common-game-array+mh4g-dex-build7+mh4edit-mit-save-id,10,0
+200,DUMMY,DUMMY,mh4g-core-common-game-array+mh4edit-mit-save-id,0,0
+201,DUMMY,DUMMY,mh4g-core-common-game-array+mh4edit-mit-save-id,0,0
+202,DUMMY,DUMMY,mh4g-core-common-game-array+mh4edit-mit-save-id,0,0
+203,DUMMY,DUMMY,mh4g-core-common-game-array+mh4edit-mit-save-id,0,0
+204,Seven-star lance (red),Seven-star lance (red),mh4g-core-common-game-array+mh4edit-mit-save-id,0,1
+205,Seven-star lance (yellow),Seven-star lance (yellow),mh4g-core-common-game-array+mh4edit-mit-save-id,0,1
+206,Seven-star lance (green),Seven-star lance (green),mh4g-core-common-game-array+mh4edit-mit-save-id,0,1
+207,Seven-star lance (blue),Seven-star lance (blue),mh4g-core-common-game-array+mh4edit-mit-save-id,0,1
+208,Seven-star lance (purple),Seven-star lance (purple),mh4g-core-common-game-array+mh4edit-mit-save-id,0,1
+209,Estoc (red),Estoc (red),mh4g-core-common-game-array+mh4edit-mit-save-id,0,1
+210,Estoc (yellow),Estoc (yellow),mh4g-core-common-game-array+mh4edit-mit-save-id,0,1
+211,Estoc (green),Estoc (green),mh4g-core-common-game-array+mh4edit-mit-save-id,0,1
+212,Estoc (blue),Estoc (blue),mh4g-core-common-game-array+mh4edit-mit-save-id,0,1
+213,Estoc (purple),Estoc (purple),mh4g-core-common-game-array+mh4edit-mit-save-id,0,1
+214,Hell Phalanx,Hell Phalanx,mh4g-core-common-game-array+mh4edit-mit-save-id,0,0
+215,Purification,Purification,mh4g-core-common-game-array+mh4edit-mit-save-id,0,0

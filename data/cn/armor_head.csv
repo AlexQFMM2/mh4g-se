@@ -1,988 +1,988 @@
 id,name,english,source,rarity,is_relic
-0,无,None,mh4g-save-format,0,0
-1,勇气刃笠,Derring Headgear,mh4g-dex-build7+mh4edit-mit-save-id,1,0
-2,勇气头盔Ｓ,Derring Helm S,mh4g-dex-build7+mh4edit-mit-save-id,4,0
-3,勇气战帽Ｓ,Derring Cap S,mh4g-dex-build7+mh4edit-mit-save-id,4,0
-4,皮制刃笠,Leather Headgear,mh4g-dex-build7+mh4edit-mit-save-id,1,0
-5,皮质头盔Ｓ,Leather Helm S,mh4g-dex-build7+mh4edit-mit-save-id,4,0
-6,皮质战帽Ｓ,Leather Cap S,mh4g-dex-build7+mh4edit-mit-save-id,4,0
-7,锁链刃笠,Chainmail Headgear,mh4g-dex-build7+mh4edit-mit-save-id,1,0
-8,锁链头盔Ｓ,Chainmail Helm S,mh4g-dex-build7+mh4edit-mit-save-id,4,0
-9,锁链战帽Ｓ,Chainmail Cap S,mh4g-dex-build7+mh4edit-mit-save-id,4,0
-10,猎人头盔,Hunter's Helm,mh4g-dex-build7+mh4edit-mit-save-id,1,0
-11,猎人战帽,Hunter's Cap,mh4g-dex-build7+mh4edit-mit-save-id,1,0
-12,猎人头盔Ｓ,Hunter's Helm S,mh4g-dex-build7+mh4edit-mit-save-id,4,0
-13,猎人战帽Ｓ,Hunter's Cap S,mh4g-dex-build7+mh4edit-mit-save-id,4,0
-14,猎人头盔,Hunter's Helm,mh4g-dex-build7+mh4edit-mit-save-id,1,0
-15,猎人战帽,Hunter's Cap,mh4g-dex-build7+mh4edit-mit-save-id,1,0
-16,骨制头盔,Bone Helm,mh4g-dex-build7+mh4edit-mit-save-id,1,0
-17,骨制战帽,Bone Cap,mh4g-dex-build7+mh4edit-mit-save-id,1,0
-18,骨制头盔Ｓ,Bone Helm S,mh4g-dex-build7+mh4edit-mit-save-id,4,0
-19,骨制战帽Ｓ,Bone Cap S,mh4g-dex-build7+mh4edit-mit-save-id,4,0
-20,合金头盔,Alloy Helm,mh4g-dex-build7+mh4edit-mit-save-id,1,0
-21,合金战帽,Alloy Cap,mh4g-dex-build7+mh4edit-mit-save-id,1,0
-22,合金头盔Ｓ,Alloy Helm S,mh4g-dex-build7+mh4edit-mit-save-id,4,0
-23,合金战帽Ｓ,Alloy Cap S,mh4g-dex-build7+mh4edit-mit-save-id,4,0
-24,合金头盔,Alloy Helm,mh4g-dex-build7+mh4edit-mit-save-id,1,0
-25,合金战帽,Alloy Cap,mh4g-dex-build7+mh4edit-mit-save-id,1,0
-26,狗龙头盔,Jaggi Helm,mh4g-dex-build7+mh4edit-mit-save-id,2,0
-27,狗龙战帽,Jaggi Cap,mh4g-dex-build7+mh4edit-mit-save-id,2,0
-28,狗龙头盔Ｓ,Jaggi Helm S,mh4g-dex-build7+mh4edit-mit-save-id,4,0
-29,狗龙战帽Ｓ,Jaggi Cap S,mh4g-dex-build7+mh4edit-mit-save-id,4,0
-30,水兽头盔,Ludroth Helm,mh4g-dex-build7+mh4edit-mit-save-id,2,0
-31,水兽战帽,Ludroth Cap,mh4g-dex-build7+mh4edit-mit-save-id,2,0
-32,水兽头盔,Ludroth Helm,mh4g-dex-build7+mh4edit-mit-save-id,2,0
-33,水兽战帽,Ludroth Cap,mh4g-dex-build7+mh4edit-mit-save-id,2,0
-34,草食龙头盔,Rhenoplos Helm,mh4g-dex-build7+mh4edit-mit-save-id,2,0
-35,草食龙战帽,Rhenoplos Cap,mh4g-dex-build7+mh4edit-mit-save-id,2,0
-36,草食龙头盔Ｓ,Rhenoplos Helm S,mh4g-dex-build7+mh4edit-mit-save-id,4,0
-37,草食龙战帽Ｓ,Rhenoplos Cap S,mh4g-dex-build7+mh4edit-mit-save-id,4,0
-38,飞甲虫帽子,Bnahabra Hat,mh4g-dex-build7+mh4edit-mit-save-id,2,0
-39,飞甲虫战帽,Bnahabra Headpiece,mh4g-dex-build7+mh4edit-mit-save-id,2,0
-40,飞甲虫帽子Ｓ,Bnahabra Hat S,mh4g-dex-build7+mh4edit-mit-save-id,4,0
-41,飞甲虫战帽Ｓ,Bnahabra Headpiece S,mh4g-dex-build7+mh4edit-mit-save-id,4,0
-42,土砂龙头盔,Barroth Helm,mh4g-dex-build7+mh4edit-mit-save-id,2,0
-43,土砂龙战帽,Barroth Cap,mh4g-dex-build7+mh4edit-mit-save-id,2,0
-44,雌火龙头盔,Rathian Helm,mh4g-dex-build7+mh4edit-mit-save-id,2,0
-45,雌火龙战帽,Rathian Cap,mh4g-dex-build7+mh4edit-mit-save-id,2,0
-46,雌火龙头盔Ｓ,Rathian Helm S,mh4g-dex-build7+mh4edit-mit-save-id,5,0
-47,雌火龙战帽Ｓ,Rathian Cap S,mh4g-dex-build7+mh4edit-mit-save-id,5,0
-48,樱火龙头盔,Rath Heart Helm,mh4g-dex-build7+mh4edit-mit-save-id,6,0
-49,樱火龙战帽,Rath Heart Cap,mh4g-dex-build7+mh4edit-mit-save-id,6,0
-50,金火龙头盔,Golden Lunehelm,mh4g-dex-build7+mh4edit-mit-save-id,7,0
-51,金火龙战帽,Golden Lunecap,mh4g-dex-build7+mh4edit-mit-save-id,7,0
-52,雌火龙头盔,Rathian Helm,mh4g-dex-build7+mh4edit-mit-save-id,2,0
-53,雌火龙战帽,Rathian Cap,mh4g-dex-build7+mh4edit-mit-save-id,2,0
-54,樱火龙头盔,Rath Heart Helm,mh4g-dex-build7+mh4edit-mit-save-id,6,0
-55,樱火龙战帽,Rath Heart Cap,mh4g-dex-build7+mh4edit-mit-save-id,6,0
-56,EX雌火龙头盔,EX Rathian Helm,mh4g-dex-build7+mh4edit-mit-save-id,7,0
-57,EX雌火龙战帽,EX Rathian Cap,mh4g-dex-build7+mh4edit-mit-save-id,7,0
-58,雄火龙头盔,Rathalos Helm,mh4g-dex-build7+mh4edit-mit-save-id,3,0
-59,雄火龙战帽,Rathalos Cap,mh4g-dex-build7+mh4edit-mit-save-id,3,0
-60,雄火龙头盔Ｓ,Rathalos Helm S,mh4g-dex-build7+mh4edit-mit-save-id,5,0
-61,雄火龙战帽Ｓ,Rathalos Cap S,mh4g-dex-build7+mh4edit-mit-save-id,5,0
-62,苍火龙头盔,Rath Soul Helm,mh4g-dex-build7+mh4edit-mit-save-id,6,0
-63,苍火龙战帽,Rath Soul Cap,mh4g-dex-build7+mh4edit-mit-save-id,6,0
-64,银火龙头盔,Silver Solhelm,mh4g-dex-build7+mh4edit-mit-save-id,7,0
-65,银火龙战帽,Silver Solcap,mh4g-dex-build7+mh4edit-mit-save-id,7,0
-66,雄火龙头盔,Rathalos Helm,mh4g-dex-build7+mh4edit-mit-save-id,3,0
-67,雄火龙战帽,Rathalos Cap,mh4g-dex-build7+mh4edit-mit-save-id,3,0
-68,苍火龙头盔,Rath Soul Helm,mh4g-dex-build7+mh4edit-mit-save-id,6,0
-69,苍火龙战帽,Rath Soul Cap,mh4g-dex-build7+mh4edit-mit-save-id,6,0
-70,银火龙头盔,Silver Solhelm,mh4g-dex-build7+mh4edit-mit-save-id,7,0
-71,银火龙战帽,Silver Solcap,mh4g-dex-build7+mh4edit-mit-save-id,7,0
-72,EX雄火龙头盔,EX Rathalos Helm,mh4g-dex-build7+mh4edit-mit-save-id,7,0
-73,EX雄火龙战帽,EX Rathalos Cap,mh4g-dex-build7+mh4edit-mit-save-id,7,0
-74,角龙头盔,Diablos Helm,mh4g-dex-build7+mh4edit-mit-save-id,3,0
-75,角龙战帽,Diablos Cap,mh4g-dex-build7+mh4edit-mit-save-id,3,0
-76,爆锤龙头盔,Uragaan Helm,mh4g-dex-build7+mh4edit-mit-save-id,3,0
-77,爆锤龙战帽,Uragaan Cap,mh4g-dex-build7+mh4edit-mit-save-id,3,0
-78,恐暴龙头盔,Vangis Helm,mh4g-dex-build7+mh4edit-mit-save-id,6,0
-79,恐暴龙战帽,Vangis Cap,mh4g-dex-build7+mh4edit-mit-save-id,6,0
-80,贪婪头盔,Esurient Helm,mh4g-dex-build7+mh4edit-mit-save-id,7,0
-81,贪婪战帽,Esurient Cap,mh4g-dex-build7+mh4edit-mit-save-id,7,0
-82,贪婪头盔,Esurient Helm,mh4g-dex-build7+mh4edit-mit-save-id,7,0
-83,贪婪战帽,Esurient Cap,mh4g-dex-build7+mh4edit-mit-save-id,7,0
-84,残阳【面兜】,Gloaming Helm,mh4g-dex-build7+mh4edit-mit-save-id,3,0
-85,常磐【面兜】,Adamance Helm,mh4g-dex-build7+mh4edit-mit-save-id,3,0
-86,东云【阵笠】,Dayspring Kasa,mh4g-dex-build7+mh4edit-mit-save-id,3,0
-87,八千代【头冠】,Epoch Helm,mh4g-dex-build7+mh4edit-mit-save-id,3,0
-88,残阳・霸【面兜】,Gloaming Archhelm,mh4g-dex-build7+mh4edit-mit-save-id,7,0
-89,常磐・霸【面兜】,Adamance Archhelm,mh4g-dex-build7+mh4edit-mit-save-id,7,0
-90,东云・霸【阵笠】,Dayspring Archkasa,mh4g-dex-build7+mh4edit-mit-save-id,7,0
-91,八千代・霸【头冠】,Epoch Archhelm,mh4g-dex-build7+mh4edit-mit-save-id,7,0
-92,残阳【面兜】,Gloaming Helm,mh4g-dex-build7+mh4edit-mit-save-id,3,0
-93,常磐【面兜】,Adamance Helm,mh4g-dex-build7+mh4edit-mit-save-id,3,0
-94,东云【阵笠】,Dayspring Kasa,mh4g-dex-build7+mh4edit-mit-save-id,3,0
-95,八千代【头冠】,Epoch Helm,mh4g-dex-build7+mh4edit-mit-save-id,3,0
-96,水龙头盔,Plesioth Helm,mh4g-dex-build7+mh4edit-mit-save-id,4,0
-97,水龙战帽,Plesioth Cap,mh4g-dex-build7+mh4edit-mit-save-id,4,0
-98,潜口龙头盔,Nibelsnarf Helm,mh4g-dex-build7+mh4edit-mit-save-id,2,0
-99,潜口龙战帽,Nibelsnarf Cap,mh4g-dex-build7+mh4edit-mit-save-id,2,0
-100,尾槌龙头盔,Duramboros Helm,mh4g-dex-build7+mh4edit-mit-save-id,3,0
-101,尾槌龙战帽,Duramboros Cap,mh4g-dex-build7+mh4edit-mit-save-id,3,0
-102,青熊兽头盔,Arzuros Helm,mh4g-dex-build7+mh4edit-mit-save-id,2,0
-103,青熊兽战帽,Arzuros Cap,mh4g-dex-build7+mh4edit-mit-save-id,2,0
-104,白兔兽头盔,Lagombi Helm,mh4g-dex-build7+mh4edit-mit-save-id,2,0
-105,白兔兽战帽,Lagombi Cap,mh4g-dex-build7+mh4edit-mit-save-id,2,0
-106,白兔兽头盔Ｓ,Lagombi Helm S,mh4g-dex-build7+mh4edit-mit-save-id,4,0
-107,白兔兽战帽Ｓ,Lagombi Cap S,mh4g-dex-build7+mh4edit-mit-save-id,4,0
-108,垂皮龙头罩,Slagtoth Hood,mh4g-dex-build7+mh4edit-mit-save-id,2,0
-109,垂皮龙头帽,Slagtoth Cowl,mh4g-dex-build7+mh4edit-mit-save-id,2,0
-110,垂皮龙头罩Ｓ,Slagtoth Hood S,mh4g-dex-build7+mh4edit-mit-save-id,4,0
-111,垂皮龙头帽Ｓ,Slagtoth Cowl S,mh4g-dex-build7+mh4edit-mit-save-id,4,0
-112,迅龙头盔,Nargacuga Helm,mh4g-dex-build7+mh4edit-mit-save-id,3,0
-113,迅龙战帽,Nargacuga Cap,mh4g-dex-build7+mh4edit-mit-save-id,3,0
-114,轰龙头盔,Tigrex Helm,mh4g-dex-build7+mh4edit-mit-save-id,3,0
-115,轰龙战帽,Tigrex Cap,mh4g-dex-build7+mh4edit-mit-save-id,3,0
-116,轰龙头盔Ｓ,Tigrex Helm S,mh4g-dex-build7+mh4edit-mit-save-id,5,0
-117,轰龙战帽Ｓ,Tigrex Cap S,mh4g-dex-build7+mh4edit-mit-save-id,5,0
-118,黑轰龙头盔Ｕ,Tigrex Helm U,mh4g-dex-build7+mh4edit-mit-save-id,6,0
-119,黑轰龙战帽Ｕ,Tigrex Cap U,mh4g-dex-build7+mh4edit-mit-save-id,6,0
-120,大轰龙头盔,Excello Helm,mh4g-dex-build7+mh4edit-mit-save-id,7,0
-121,大轰龙战帽,Excello Cap,mh4g-dex-build7+mh4edit-mit-save-id,7,0
-122,EX轰龙头盔,EX Tigrex Helm,mh4g-dex-build7+mh4edit-mit-save-id,7,0
-123,EX轰龙战帽,EX Tigrex Cap,mh4g-dex-build7+mh4edit-mit-save-id,7,0
-124,轰龙头盔,Tigrex Helm,mh4g-dex-build7+mh4edit-mit-save-id,3,0
-125,轰龙战帽,Tigrex Cap,mh4g-dex-build7+mh4edit-mit-save-id,3,0
-126,黑轰龙头盔Ｕ,Tigrex Helm U,mh4g-dex-build7+mh4edit-mit-save-id,6,0
-127,黑轰龙战帽Ｕ,Tigrex Cap U,mh4g-dex-build7+mh4edit-mit-save-id,6,0
-128,碎龙头盔,Brachydios Helm,mh4g-dex-build7+mh4edit-mit-save-id,3,0
-129,碎龙战帽,Brachydios Cap,mh4g-dex-build7+mh4edit-mit-save-id,3,0
-130,碎龙头盔Ｓ,Brachydios Helm S,mh4g-dex-build7+mh4edit-mit-save-id,6,0
-131,碎龙战帽Ｓ,Brachydios Cap S,mh4g-dex-build7+mh4edit-mit-save-id,6,0
-132,霸龙头铠,Akantor Mask,mh4g-dex-build7+mh4edit-mit-save-id,7,0
-133,霸龙面甲,Akantor Fangs,mh4g-dex-build7+mh4edit-mit-save-id,7,0
-134,霸龙头铠,Akantor Mask,mh4g-dex-build7+mh4edit-mit-save-id,7,0
-135,霸龙面甲,Akantor Fangs,mh4g-dex-build7+mh4edit-mit-save-id,7,0
-136,雷狼龙头盔,Zinogre Helm,mh4g-dex-build7+mh4edit-mit-save-id,3,0
-137,雷狼龙战帽,Zinogre Cap,mh4g-dex-build7+mh4edit-mit-save-id,3,0
-138,雷狼龙头盔Ｓ,Zinogre Helm S,mh4g-dex-build7+mh4edit-mit-save-id,5,0
-139,雷狼龙战帽Ｓ,Zinogre Cap S,mh4g-dex-build7+mh4edit-mit-save-id,5,0
-140,狱狼龙头盔Ｕ,Zinogre Helm U,mh4g-dex-build7+mh4edit-mit-save-id,6,0
-141,狱狼龙战帽Ｕ,Zinogre Cap U,mh4g-dex-build7+mh4edit-mit-save-id,6,0
-142,狱狼龙头盔Ｕ,Zinogre Helm U,mh4g-dex-build7+mh4edit-mit-save-id,6,0
-143,狱狼龙战帽Ｕ,Zinogre Cap U,mh4g-dex-build7+mh4edit-mit-save-id,6,0
-144,EX炎王龙皇冠,EX Kaiser Crown,mh4g-dex-build7+mh4edit-mit-save-id,7,0
-145,EX炎王龙面具,EX Kaiser Mask,mh4g-dex-build7+mh4edit-mit-save-id,7,0
-146,奇猿狐头盔,Kecha Helm,mh4g-dex-build7+mh4edit-mit-save-id,2,0
-147,奇猿狐战帽,Kecha Cap,mh4g-dex-build7+mh4edit-mit-save-id,2,0
-148,奇猿狐头盔Ｓ,Kecha Helm S,mh4g-dex-build7+mh4edit-mit-save-id,4,0
-149,奇猿狐战帽Ｓ,Kecha Cap S,mh4g-dex-build7+mh4edit-mit-save-id,4,0
-150,黑蚀龙头盔,Gore Helm,mh4g-dex-build7+mh4edit-mit-save-id,3,0
-151,黑蚀龙战帽,Gore Cap,mh4g-dex-build7+mh4edit-mit-save-id,3,0
-152,黑蚀龙头盔Ｓ,Gore Helm S,mh4g-dex-build7+mh4edit-mit-save-id,6,0
-153,黑蚀龙战帽Ｓ,Gore Cap S,mh4g-dex-build7+mh4edit-mit-save-id,6,0
-154,黑蚀龙头盔,Gore Helm,mh4g-dex-build7+mh4edit-mit-save-id,3,0
-155,黑蚀龙战帽,Gore Cap,mh4g-dex-build7+mh4edit-mit-save-id,3,0
-156,鬼蛙头盔,Tetsucabra Helm,mh4g-dex-build7+mh4edit-mit-save-id,2,0
-157,鬼蛙战帽,Tetsucabra Cap,mh4g-dex-build7+mh4edit-mit-save-id,2,0
-158,鬼蛙头盔Ｓ,Tetsucabra Helm S,mh4g-dex-build7+mh4edit-mit-save-id,5,0
-159,鬼蛙战帽Ｓ,Tetsucabra Cap S,mh4g-dex-build7+mh4edit-mit-save-id,5,0
-160,影蜘蛛头盔,Nerscylla Helm,mh4g-dex-build7+mh4edit-mit-save-id,2,0
-161,影蜘蛛战帽,Nerscylla Cap,mh4g-dex-build7+mh4edit-mit-save-id,2,0
-162,影蜘蛛头盔Ｓ,Nerscylla Helm S,mh4g-dex-build7+mh4edit-mit-save-id,5,0
-163,影蜘蛛战帽Ｓ,Nerscylla Cap S,mh4g-dex-build7+mh4edit-mit-save-id,5,0
-164,绞蛇龙头盔,Najarala Helm,mh4g-dex-build7+mh4edit-mit-save-id,2,0
-165,绞蛇龙战帽,Najarala Cap,mh4g-dex-build7+mh4edit-mit-save-id,2,0
-166,绞蛇龙头盔Ｓ,Najarala Helm S,mh4g-dex-build7+mh4edit-mit-save-id,5,0
-167,绞蛇龙战帽Ｓ,Najarala Cap S,mh4g-dex-build7+mh4edit-mit-save-id,5,0
-168,黑狼鸟头盔,Garuga Helm,mh4g-dex-build7+mh4edit-mit-save-id,3,0
-169,黑狼鸟战帽,Garuga Cap,mh4g-dex-build7+mh4edit-mit-save-id,3,0
-170,黑狼鸟头盔Ｓ,Garuga Helm S,mh4g-dex-build7+mh4edit-mit-save-id,5,0
-171,黑狼鸟战帽Ｓ,Garuga Cap S,mh4g-dex-build7+mh4edit-mit-save-id,5,0
-172,岩龙头盔,Basarios Helm,mh4g-dex-build7+mh4edit-mit-save-id,2,0
-173,岩龙战帽,Basarios Cap,mh4g-dex-build7+mh4edit-mit-save-id,2,0
-174,岩龙头盔Ｓ,Basarios Helm S,mh4g-dex-build7+mh4edit-mit-save-id,5,0
-175,岩龙战帽Ｓ,Basarios Cap S,mh4g-dex-build7+mh4edit-mit-save-id,5,0
-176,桃岩龙头盔Ｕ,Basarios Helm U,mh4g-dex-build7+mh4edit-mit-save-id,6,0
-177,桃岩龙战帽Ｕ,Basarios Cap U,mh4g-dex-build7+mh4edit-mit-save-id,6,0
-178,战斗头盔,Battle Helm,mh4g-dex-build7+mh4edit-mit-save-id,2,0
-179,战斗战帽,Battle Cap,mh4g-dex-build7+mh4edit-mit-save-id,2,0
-180,蓝速龙头盔,Velociprey Helm,mh4g-dex-build7+mh4edit-mit-save-id,2,0
-181,蓝速龙战帽,Velociprey Cap,mh4g-dex-build7+mh4edit-mit-save-id,2,0
-182,蓝速龙头盔Ｓ,Velociprey Helm S,mh4g-dex-build7+mh4edit-mit-save-id,4,0
-183,蓝速龙战帽Ｓ,Velociprey Cap S,mh4g-dex-build7+mh4edit-mit-save-id,4,0
-184,黄速龙头盔,Genprey Helm,mh4g-dex-build7+mh4edit-mit-save-id,2,0
-185,黄速龙战帽,Genprey Cap,mh4g-dex-build7+mh4edit-mit-save-id,2,0
-186,黄速龙头盔Ｓ,Genprey Helm S,mh4g-dex-build7+mh4edit-mit-save-id,4,0
-187,黄速龙战帽Ｓ,Genprey Cap S,mh4g-dex-build7+mh4edit-mit-save-id,4,0
-188,红速龙头盔,Ioprey Helm,mh4g-dex-build7+mh4edit-mit-save-id,2,0
-189,红速龙战帽,Ioprey Cap,mh4g-dex-build7+mh4edit-mit-save-id,2,0
-190,红速龙头盔Ｓ,Ioprey Helm S,mh4g-dex-build7+mh4edit-mit-save-id,4,0
-191,红速龙战帽Ｓ,Ioprey Cap S,mh4g-dex-build7+mh4edit-mit-save-id,4,0
-192,大怪鸟头盔,Kut-Ku Helm,mh4g-dex-build7+mh4edit-mit-save-id,2,0
-193,大怪鸟战帽,Kut-Ku Cap,mh4g-dex-build7+mh4edit-mit-save-id,2,0
-194,大怪鸟头盔Ｓ,Kut-Ku Helm S,mh4g-dex-build7+mh4edit-mit-save-id,4,0
-195,大怪鸟战帽Ｓ,Kut-Ku Cap S,mh4g-dex-build7+mh4edit-mit-save-id,4,0
-196,青怪鸟头盔Ｕ,Kut-Ku Helm U,mh4g-dex-build7+mh4edit-mit-save-id,5,0
-197,青怪鸟战帽Ｕ,Kut-Ku Cap U,mh4g-dex-build7+mh4edit-mit-save-id,5,0
-198,毒怪鸟头盔,Gypceros Helm,mh4g-dex-build7+mh4edit-mit-save-id,2,0
-199,毒怪鸟战帽,Gypceros Cap,mh4g-dex-build7+mh4edit-mit-save-id,2,0
-200,毒怪鸟头盔Ｓ,Gypceros Helm S,mh4g-dex-build7+mh4edit-mit-save-id,5,0
-201,毒怪鸟战帽Ｓ,Gypceros Cap S,mh4g-dex-build7+mh4edit-mit-save-id,5,0
-202,紫毒怪鸟头盔Ｕ,Gypceros Helm U,mh4g-dex-build7+mh4edit-mit-save-id,6,0
-203,紫毒怪鸟战帽Ｕ,Gypceros Cap U,mh4g-dex-build7+mh4edit-mit-save-id,6,0
-204,毒怪鸟头盔,Gypceros Helm,mh4g-dex-build7+mh4edit-mit-save-id,2,0
-205,毒怪鸟战帽,Gypceros Cap,mh4g-dex-build7+mh4edit-mit-save-id,2,0
-206,紫毒怪鸟头盔Ｕ,Gypceros Helm U,mh4g-dex-build7+mh4edit-mit-save-id,6,0
-207,紫毒怪鸟战帽Ｕ,Gypceros Cap U,mh4g-dex-build7+mh4edit-mit-save-id,6,0
-208,桃毛兽头盔,Conga Helm,mh4g-dex-build7+mh4edit-mit-save-id,2,0
-209,桃毛兽战帽,Conga Cap,mh4g-dex-build7+mh4edit-mit-save-id,2,0
-210,桃毛兽头盔Ｓ,Conga Helm S,mh4g-dex-build7+mh4edit-mit-save-id,4,0
-211,桃毛兽战帽Ｓ,Conga Cap S,mh4g-dex-build7+mh4edit-mit-save-id,4,0
-212,绿毛兽头盔Ｕ,Conga Helm U,mh4g-dex-build7+mh4edit-mit-save-id,5,0
-213,绿毛兽战帽Ｕ,Conga Cap U,mh4g-dex-build7+mh4edit-mit-save-id,5,0
-214,铠龙头盔,Gravios Helm,mh4g-dex-build7+mh4edit-mit-save-id,3,0
-215,铠龙战帽,Gravios Cap,mh4g-dex-build7+mh4edit-mit-save-id,3,0
-216,铠龙头盔Ｓ,Gravios Helm S,mh4g-dex-build7+mh4edit-mit-save-id,5,0
-217,铠龙战帽Ｓ,Gravios Cap S,mh4g-dex-build7+mh4edit-mit-save-id,5,0
-218,黑铠龙头盔Ｕ,Gravios Helm U,mh4g-dex-build7+mh4edit-mit-save-id,6,0
-219,黑铠龙战帽Ｕ,Gravios Cap U,mh4g-dex-build7+mh4edit-mit-save-id,6,0
-220,电龙头盔,Khezu Helm,mh4g-dex-build7+mh4edit-mit-save-id,2,0
-221,电龙战帽,Khezu Cap,mh4g-dex-build7+mh4edit-mit-save-id,2,0
-222,电龙头盔Ｓ,Khezu Helm S,mh4g-dex-build7+mh4edit-mit-save-id,5,0
-223,电龙战帽Ｓ,Khezu Cap S,mh4g-dex-build7+mh4edit-mit-save-id,5,0
-224,赤电龙头盔Ｕ,Khezu Helm U,mh4g-dex-build7+mh4edit-mit-save-id,6,0
-225,赤电龙战帽Ｕ,Khezu Cap U,mh4g-dex-build7+mh4edit-mit-save-id,6,0
-226,电龙头盔,Khezu Helm,mh4g-dex-build7+mh4edit-mit-save-id,2,0
-227,电龙战帽,Khezu Cap,mh4g-dex-build7+mh4edit-mit-save-id,2,0
-228,赤电龙头盔Ｕ,Khezu Helm U,mh4g-dex-build7+mh4edit-mit-save-id,6,0
-229,赤电龙战帽Ｕ,Khezu Cap U,mh4g-dex-build7+mh4edit-mit-save-id,6,0
-230,麒麟头笛,Kirin Horn,mh4g-dex-build7+mh4edit-mit-save-id,3,0
-231,麒麟头冠,Kirin Crest,mh4g-dex-build7+mh4edit-mit-save-id,3,0
-232,麒麟头笛Ｓ,Kirin Horn S,mh4g-dex-build7+mh4edit-mit-save-id,6,0
-233,麒麟头冠Ｓ,Kirin Crest S,mh4g-dex-build7+mh4edit-mit-save-id,6,0
-234,冰麒麟头笛Ｕ,Kirin Horn U,mh4g-dex-build7+mh4edit-mit-save-id,7,0
-235,冰麒麟头冠Ｕ,Kirin Crest U,mh4g-dex-build7+mh4edit-mit-save-id,7,0
-236,麒麟头笛,Kirin Horn,mh4g-dex-build7+mh4edit-mit-save-id,3,0
-237,麒麟头冠,Kirin Crest,mh4g-dex-build7+mh4edit-mit-save-id,3,0
-238,冰麒麟头笛Ｕ,Kirin Horn U,mh4g-dex-build7+mh4edit-mit-save-id,7,0
-239,冰麒麟头冠Ｕ,Kirin Crest U,mh4g-dex-build7+mh4edit-mit-save-id,7,0
-240,钢龙头铠,Kushala Glare,mh4g-dex-build7+mh4edit-mit-save-id,7,0
-241,钢龙头盔,Kushala Snarl,mh4g-dex-build7+mh4edit-mit-save-id,7,0
-242,EX钢龙头铠,EX Kushala Glare,mh4g-dex-build7+mh4edit-mit-save-id,7,0
-243,EX钢龙头盔,EX Kushala Snarl,mh4g-dex-build7+mh4edit-mit-save-id,7,0
-244,钢龙头铠,Kushala Glare,mh4g-dex-build7+mh4edit-mit-save-id,7,0
-245,钢龙头盔,Kushala Snarl,mh4g-dex-build7+mh4edit-mit-save-id,7,0
-246,炎妃龙凤冠,Empress Crown,mh4g-dex-build7+mh4edit-mit-save-id,7,0
-247,炎妃龙面具,Empress Mask,mh4g-dex-build7+mh4edit-mit-save-id,7,0
-248,镰蟹头盔,Ceanataur Helm,mh4g-dex-build7+mh4edit-mit-save-id,2,0
-249,镰蟹战帽,Ceanataur Cap,mh4g-dex-build7+mh4edit-mit-save-id,2,0
-250,镰蟹头盔,Ceanataur Helm,mh4g-dex-build7+mh4edit-mit-save-id,2,0
-251,镰蟹战帽,Ceanataur Cap,mh4g-dex-build7+mh4edit-mit-save-id,2,0
-252,晓丸【面兜】,Auroros Helm,mh4g-dex-build7+mh4edit-mit-save-id,3,0
-253,凛【钵金】,Borealis Crown,mh4g-dex-build7+mh4edit-mit-save-id,3,0
-254,曙丸【乌帽子】,Genesis Headpiece,mh4g-dex-build7+mh4edit-mit-save-id,3,0
-255,妖艳【钵金】,Glyph Crown,mh4g-dex-build7+mh4edit-mit-save-id,3,0
-256,晓丸【面兜】,Auroros Helm,mh4g-dex-build7+mh4edit-mit-save-id,3,0
-257,凛【钵金】,Borealis Crown,mh4g-dex-build7+mh4edit-mit-save-id,3,0
-258,曙丸【乌帽子】,Genesis Headpiece,mh4g-dex-build7+mh4edit-mit-save-id,3,0
-259,妖艳【钵金】,Glyph Crown,mh4g-dex-build7+mh4edit-mit-save-id,3,0
-260,溶岩龙头盔,Lava Helm,mh4g-dex-build7+mh4edit-mit-save-id,3,0
-261,溶岩龙战帽,Lava Cap,mh4g-dex-build7+mh4edit-mit-save-id,3,0
-262,翼蛇龙刃笠,Remobra Headgear,mh4g-dex-build7+mh4edit-mit-save-id,2,0
-263,翼蛇龙脸,Remobra Mask,mh4g-dex-build7+mh4edit-mit-save-id,2,0
-264,翼蛇龙刃笠Ｓ,Remobra Headgear S,mh4g-dex-build7+mh4edit-mit-save-id,4,0
-265,翼蛇龙脸Ｓ,Remobra Mask S,mh4g-dex-build7+mh4edit-mit-save-id,4,0
-266,鬼鲛头盔,Zamtrios Helm,mh4g-dex-build7+mh4edit-mit-save-id,2,0
-267,鬼鲛战帽,Zamtrios Cap,mh4g-dex-build7+mh4edit-mit-save-id,2,0
-268,鬼鲛头盔Ｓ,Zamtrios Helm S,mh4g-dex-build7+mh4edit-mit-save-id,5,0
-269,鬼鲛战帽Ｓ,Zamtrios Cap S,mh4g-dex-build7+mh4edit-mit-save-id,5,0
-270,重甲虫头盔,Seltas Helm,mh4g-dex-build7+mh4edit-mit-save-id,3,0
-271,重甲虫战帽,Seltas Cap,mh4g-dex-build7+mh4edit-mit-save-id,3,0
-272,重甲虫头盔Ｓ,Seltas Helm S,mh4g-dex-build7+mh4edit-mit-save-id,5,0
-273,重甲虫战帽Ｓ,Seltas Cap S,mh4g-dex-build7+mh4edit-mit-save-id,5,0
-274,弧光头盔,Arc Helm,mh4g-dex-build7+mh4edit-mit-save-id,3,0
-275,弧光战帽,Arc Cap,mh4g-dex-build7+mh4edit-mit-save-id,3,0
-276,弧光头盔Ｓ,Arc Helm S,mh4g-dex-build7+mh4edit-mit-save-id,7,0
-277,弧光战帽Ｓ,Arc Cap S,mh4g-dex-build7+mh4edit-mit-save-id,7,0
-278,弧光头盔,Arc Helm,mh4g-dex-build7+mh4edit-mit-save-id,3,0
-279,弧光战帽,Arc Cap,mh4g-dex-build7+mh4edit-mit-save-id,3,0
-280,炎王龙皇冠,Kaiser Crown,mh4g-dex-build7+mh4edit-mit-save-id,7,0
-281,炎王龙面具,Kaiser Mask,mh4g-dex-build7+mh4edit-mit-save-id,7,0
-282,金色的添发,Golden Headdress,mh4g-dex-build7+mh4edit-mit-save-id,7,0
-283,黑子的面隐,Puppeteer Mask,mh4g-dex-build7+mh4edit-mit-save-id,7,0
-284,怒天的添发,Divine Ire Headdress,mh4g-dex-build7+mh4edit-mit-save-id,7,0
-285,心灭的面隐,Crusher Mask,mh4g-dex-build7+mh4edit-mit-save-id,7,0
-286,逆乱头盔,Rebellion Helm,mh4g-dex-build7+mh4edit-mit-save-id,7,0
-287,暴乱战帽,Riot Cap,mh4g-dex-build7+mh4edit-mit-save-id,7,0
-288,逆乱头盔,Rebellion Helm,mh4g-dex-build7+mh4edit-mit-save-id,7,0
-289,暴乱战帽,Riot Cap,mh4g-dex-build7+mh4edit-mit-save-id,7,0
-290,恶龙刃笠Ｘ,Dragonhead X,mh4g-dex-build7+mh4edit-mit-save-id,10,0
-291,恶龙脸Ｘ,Dragonface X,mh4g-dex-build7+mh4edit-mit-save-id,10,0
-292,恶龙刃笠,Dragonhead,mh4g-dex-build7+mh4edit-mit-save-id,7,0
-293,恶龙脸,Dragonface,mh4g-dex-build7+mh4edit-mit-save-id,7,0
-294,红黑龙刃笠,Fatalis Crimsonhead,mh4g-dex-build7+mh4edit-mit-save-id,7,0
-295,红黑龙脸,Fatalis Crimsonface,mh4g-dex-build7+mh4edit-mit-save-id,7,0
-296,红速龙刃笠,Ioprey Head,mh4g-dex-build7+mh4edit-mit-save-id,5,0
-297,红速龙脸,Ioprey Face,mh4g-dex-build7+mh4edit-mit-save-id,5,0
-298,砂龙头盔,Cephalos Helm,mh4g-dex-build7+mh4edit-mit-save-id,4,0
-299,砂龙战帽,Cephalos Cap,mh4g-dex-build7+mh4edit-mit-save-id,4,0
-300,罔象【乌帽子】,Mizuha Cap,mh4g-dex-build7+mh4edit-mit-save-id,7,0
-301,丰玉【乌帽子】,Cham Hat,mh4g-dex-build7+mh4edit-mit-save-id,7,0
-302,盾蟹头盔,Hermitaur Helm,mh4g-dex-build7+mh4edit-mit-save-id,4,0
-303,盾蟹战帽,Hermitaur Cap,mh4g-dex-build7+mh4edit-mit-save-id,4,0
-304,盾蟹头盔,Hermitaur Helm,mh4g-dex-build7+mh4edit-mit-save-id,4,0
-305,盾蟹战帽,Hermitaur Cap,mh4g-dex-build7+mh4edit-mit-save-id,4,0
-306,飞虫头盔,Vespoid Helm,mh4g-dex-build7+mh4edit-mit-save-id,4,0
-307,飞虫战帽,Vespoid Cap,mh4g-dex-build7+mh4edit-mit-save-id,4,0
-308,彩鸟头盔,Qurupeco Helm,mh4g-dex-build7+mh4edit-mit-save-id,4,0
-309,彩鸟战帽,Qurupeco Cap,mh4g-dex-build7+mh4edit-mit-save-id,4,0
-310,炎戈龙头盔,Agnaktor Helm,mh4g-dex-build7+mh4edit-mit-save-id,6,0
-311,炎戈龙战帽,Agnaktor Cap,mh4g-dex-build7+mh4edit-mit-save-id,6,0
-312,冰牙龙头盔,Barioth Helm,mh4g-dex-build7+mh4edit-mit-save-id,5,0
-313,冰牙龙战帽,Barioth Cap,mh4g-dex-build7+mh4edit-mit-save-id,5,0
-314,赤甲兽头盔,Volvidon Helm,mh4g-dex-build7+mh4edit-mit-save-id,4,0
-315,赤甲兽战帽,Volvidon Cap,mh4g-dex-build7+mh4edit-mit-save-id,4,0
-316,海龙头盔,Lagiacrus Helm,mh4g-dex-build7+mh4edit-mit-save-id,6,0
-317,海龙战帽,Lagiacrus Cap,mh4g-dex-build7+mh4edit-mit-save-id,6,0
-318,海龙头盔,Lagiacrus Helm,mh4g-dex-build7+mh4edit-mit-save-id,6,0
-319,海龙战帽,Lagiacrus Cap,mh4g-dex-build7+mh4edit-mit-save-id,6,0
-320,太阳神头盔,Helios Helm,mh4g-dex-build7+mh4edit-mit-save-id,7,0
-321,太阳神战帽,Helios Cap,mh4g-dex-build7+mh4edit-mit-save-id,7,0
-322,月神头盔,Selene Helm,mh4g-dex-build7+mh4edit-mit-save-id,7,0
-323,月神战帽,Selene Cap,mh4g-dex-build7+mh4edit-mit-save-id,7,0
-324,灯鱼龙头盔,Gobul Helm,mh4g-dex-build7+mh4edit-mit-save-id,5,0
-325,灯鱼龙战帽,Gobul Cap,mh4g-dex-build7+mh4edit-mit-save-id,5,0
-326,大和【面兜】,Yamato Kabuto,mh4g-dex-build7+mh4edit-mit-save-id,7,0
-327,日向【钵金】,Hyuga Hachigane,mh4g-dex-build7+mh4edit-mit-save-id,7,0
-328,陆奥【乌帽子】,Mutsu Eboshi,mh4g-dex-build7+mh4edit-mit-save-id,7,0
-329,天成【钵金】,Amagi Hachigane,mh4g-dex-build7+mh4edit-mit-save-id,7,0
-330,煌黑龙之样,Escadora Wisdom,mh4g-dex-build7+mh4edit-mit-save-id,7,0
-331,煌黑龙智慧,Escadora Sagesse,mh4g-dex-build7+mh4edit-mit-save-id,7,0
-332,煌黑龙之样,Escadora Wisdom,mh4g-dex-build7+mh4edit-mit-save-id,7,0
-333,煌黑龙智慧,Escadora Sagesse,mh4g-dex-build7+mh4edit-mit-save-id,7,0
-334,雪狮子头盔,Blango Helm,mh4g-dex-build7+mh4edit-mit-save-id,5,0
-335,雪狮子战帽,Blango Cap,mh4g-dex-build7+mh4edit-mit-save-id,5,0
-336,龙虾王头盔,Lobster Helm,mh4g-dex-build7+mh4edit-mit-save-id,4,0
-337,龙虾王战帽,Lobster Cap,mh4g-dex-build7+mh4edit-mit-save-id,4,0
-338,崩龙头铠,Ukanlos Mask,mh4g-dex-build7+mh4edit-mit-save-id,7,0
-339,崩龙面甲,Ukanlos Fangs,mh4g-dex-build7+mh4edit-mit-save-id,7,0
-340,金刚【面兜】,Indra Helm,mh4g-dex-build7+mh4edit-mit-save-id,7,0
-341,不动【面兜】,Steadfast Helm,mh4g-dex-build7+mh4edit-mit-save-id,7,0
-342,夜叉【御面】,Yaksha Mask,mh4g-dex-build7+mh4edit-mit-save-id,7,0
-343,修罗【御面】,Carnage Helm,mh4g-dex-build7+mh4edit-mit-save-id,7,0
-344,神秘头盔Ｓ,Artian Helm S,mh4g-dex-build7+mh4edit-mit-save-id,5,0
-345,神秘战帽Ｓ,Artian Cap S,mh4g-dex-build7+mh4edit-mit-save-id,5,0
-346,远古龙头盔,Dober Helm,mh4g-dex-build7+mh4edit-mit-save-id,6,0
-347,远古龙战帽,Dober Cap,mh4g-dex-build7+mh4edit-mit-save-id,6,0
-348,铸锭头盔,Ingot Helm,mh4g-dex-build7+mh4edit-mit-save-id,3,0
-349,铸锭战帽,Ingot Cap,mh4g-dex-build7+mh4edit-mit-save-id,3,0
-350,铸锭头盔,Ingot Helm,mh4g-dex-build7+mh4edit-mit-save-id,3,0
-351,铸锭战帽,Ingot Cap,mh4g-dex-build7+mh4edit-mit-save-id,3,0
-352,锹虫头盔,Aelucanth Vertex,mh4g-dex-build7+mh4edit-mit-save-id,4,0
-353,蝴蝶头盔,Rhopessa Vertex,mh4g-dex-build7+mh4edit-mit-save-id,4,0
-354,锹虫战帽,Aelucanth Clypeus,mh4g-dex-build7+mh4edit-mit-save-id,4,0
-355,蝴蝶战帽,Rhopessa Clypeus,mh4g-dex-build7+mh4edit-mit-save-id,4,0
-356,独角仙头盔,Obituary Vertex,mh4g-dex-build7+mh4edit-mit-save-id,5,0
-357,彩蝶头盔,Butterfly Vertex,mh4g-dex-build7+mh4edit-mit-save-id,5,0
-358,独角仙战帽,Obituary Clypeus,mh4g-dex-build7+mh4edit-mit-save-id,5,0
-359,彩蝶战帽,Butterfly Clypeus,mh4g-dex-build7+mh4edit-mit-save-id,5,0
-360,南瓜帽,Mosgharl Vizor,mh4g-dex-build7+mh4edit-mit-save-id,4,0
-361,南瓜面罩,Mosgharl Brim,mh4g-dex-build7+mh4edit-mit-save-id,4,0
-362,工会精英头盔,Guild Bard Lobos,mh4g-dex-build7+mh4edit-mit-save-id,4,0
-363,店员头罩,Scholar's Beret,mh4g-dex-build7+mh4edit-mit-save-id,4,0
-364,工会精英帽子,Guild Bard Hat,mh4g-dex-build7+mh4edit-mit-save-id,4,0
-365,店员贝雷帽,Scholar's Cap,mh4g-dex-build7+mh4edit-mit-save-id,4,0
-366,骷髅刃笠,Skull Visage,mh4g-dex-build7+mh4edit-mit-save-id,5,0
-367,骷髅脸,Skull Mask,mh4g-dex-build7+mh4edit-mit-save-id,5,0
-368,黑暗眼,Shadow Shades,mh4g-dex-build7+mh4edit-mit-save-id,7,0
-369,狗龙伪装,Jaggi Mask,mh4g-dex-build7+mh4edit-mit-save-id,3,0
-370,丸鸟伪装,Gargwa Mask,mh4g-dex-build7+mh4edit-mit-save-id,3,0
-371,教官头盔,Black Belt Helm,mh4g-dex-build7+mh4edit-mit-save-id,6,0
-372,教官战帽,Black Belt Cap,mh4g-dex-build7+mh4edit-mit-save-id,6,0
-373,守护者头盔,Guardian Helm,mh4g-dex-build7+mh4edit-mit-save-id,4,0
-374,女佣头罩,Helper Hood,mh4g-dex-build7+mh4edit-mit-save-id,4,0
-375,守护者面具,Guardian Mask,mh4g-dex-build7+mh4edit-mit-save-id,4,0
-376,女佣战帽,Helper Cap,mh4g-dex-build7+mh4edit-mit-save-id,4,0
-377,忍之面・天,Shinobi Sky Mask,mh4g-dex-build7+mh4edit-mit-save-id,7,0
-378,忍之面・地,Shinobi Land Mask,mh4g-dex-build7+mh4edit-mit-save-id,7,0
-379,工会骑士羽帽,Guild Knight Feather,mh4g-dex-build7+mh4edit-mit-save-id,6,0
-380,女仆装发箍,Maiden's Hat,mh4g-dex-build7+mh4edit-mit-save-id,6,0
-381,工会骑士面具,Guild Knight Mask,mh4g-dex-build7+mh4edit-mit-save-id,6,0
-382,女仆装战帽,Maiden's Cap,mh4g-dex-build7+mh4edit-mit-save-id,6,0
-383,结云村帽・天,Yukumo Sky Kasa,mh4g-dex-build7+mh4edit-mit-save-id,6,0
-384,结云村帽・地,Yukumo Land Kasa,mh4g-dex-build7+mh4edit-mit-save-id,6,0
-385,矿石头盔,High Metal Helm,mh4g-dex-build7+mh4edit-mit-save-id,2,0
-386,矿石战帽,High Metal Cap,mh4g-dex-build7+mh4edit-mit-save-id,2,0
-387,城塞游击队【刃笠】,Ranger's Headgear,mh4g-dex-build7+mh4edit-mit-save-id,6,0
-388,城塞弓击队【面隐】,Archer's Turban,mh4g-dex-build7+mh4edit-mit-save-id,6,0
-389,龙王双眼,Dragonlord's Gaze,mh4g-dex-build7+mh4edit-mit-save-id,3,0
-390,三孔耳环,Chakra Earring,mh4g-dex-build7+mh4edit-mit-save-id,5,0
-391,水手服头罩,Sailor Hat,mh4g-dex-build7+mh4edit-mit-save-id,6,0
-392,水手服战帽,Sailor Cap,mh4g-dex-build7+mh4edit-mit-save-id,6,0
-393,团长帽子,Hawkhat,mh4g-dex-build7+mh4edit-mit-save-id,6,0
-394,看板娘头罩,Lecturer's Hood,mh4g-dex-build7+mh4edit-mit-save-id,6,0
-395,团长战帽,Hawkcap,mh4g-dex-build7+mh4edit-mit-save-id,6,0
-396,看板娘战帽,Lecturer's Cap,mh4g-dex-build7+mh4edit-mit-save-id,6,0
-397,友情羽饰,Friendship Feather,mh4g-dex-build7+mh4edit-mit-save-id,3,0
-398,胜者的羽饰,Victory Feather,mh4g-dex-build7+mh4edit-mit-save-id,6,0
-399,勇者的羽饰,Champion Feather,mh4g-dex-build7+mh4edit-mit-save-id,6,0
-400,白猫耳朵之箍,Felyne Hairband,mh4g-dex-build7+mh4edit-mit-save-id,7,0
-401,智者的眼镜,Cunning Specs,mh4g-dex-build7+mh4edit-mit-save-id,7,0
-402,蓝星花头盔,Blue Star Lobos,mh4g-dex-build7+mh4edit-mit-save-id,7,0
-403,蓝星花帽子,Blue Star Hat,mh4g-dex-build7+mh4edit-mit-save-id,7,0
-404,dummy701,dummy701,mh4edit-mit-save-id-en-fallback,0,0
-405,【美】阿纳特头盔,Helm of Anat,mh4g-dex-build7+mh4edit-mit-save-id,10,0
-406,【美】阿纳特战帽,Cap of Anat,mh4g-dex-build7+mh4edit-mit-save-id,10,0
-407,优衣库头罩,Uniqlo Hood,mh4g-dex-build7+mh4edit-mit-save-id,7,0
-408,优衣库战帽,Uniqlo Cap,mh4g-dex-build7+mh4edit-mit-save-id,7,0
-409,路克星头盔,Star Rook Helm,mh4g-dex-build7+mh4edit-mit-save-id,7,0
-410,路克星战帽,Star Rook Cap,mh4g-dex-build7+mh4edit-mit-save-id,7,0
-411,dummy706,dummy706,mh4edit-mit-save-id-en-fallback,0,0
-412,dummy718,dummy718,mh4edit-mit-save-id-en-fallback,0,0
-413,dummy707,dummy707,mh4edit-mit-save-id-en-fallback,0,0
-414,dummy719,dummy719,mh4edit-mit-save-id-en-fallback,0,0
-415,神秘头盔Ｓ,Artian Helm S,mh4g-dex-build7+mh4edit-mit-save-id,5,0
-416,神秘战帽Ｓ,Artian Cap S,mh4g-dex-build7+mh4edit-mit-save-id,5,0
-417,霸者的羽饰,Overlord Feather,mh4g-dex-build7+mh4edit-mit-save-id,7,0
-418,DUMMY,DUMMY,mh4edit-mit-save-id-en-fallback,0,0
-419,勇者的帽子,Hero's Hat,mh4g-dex-build7+mh4edit-mit-save-id,7,0
-420,DUMMY,DUMMY,mh4edit-mit-save-id-en-fallback,0,0
-421,勇者的头巾,Hero's Cap,mh4g-dex-build7+mh4edit-mit-save-id,7,0
-422,dummy729,dummy729,mh4edit-mit-save-id-en-fallback,0,0
-423,dummy730,dummy730,mh4edit-mit-save-id-en-fallback,0,0
-424,EX逆乱头盔,EX Rebellion Helm,mh4g-dex-build7+mh4edit-mit-save-id,7,0
-425,EX暴乱战帽,EX Riot Cap,mh4g-dex-build7+mh4edit-mit-save-id,7,0
-426,EX黑蚀龙头盔,EX Gore Helm,mh4g-dex-build7+mh4edit-mit-save-id,7,0
-427,EX黑蚀龙战帽,EX Gore Cap,mh4g-dex-build7+mh4edit-mit-save-id,7,0
-428,EX高合金头盔,EX Ingot Helm,mh4g-dex-build7+mh4edit-mit-save-id,7,0
-429,EX高合金战帽,EX Ingot Cap,mh4g-dex-build7+mh4edit-mit-save-id,7,0
-430,EX冰麒麟头笛Ｕ,EX Kirin Horn U,mh4g-dex-build7+mh4edit-mit-save-id,7,0
-431,EX冰麒麟头冠Ｕ,EX Kirin Crest U,mh4g-dex-build7+mh4edit-mit-save-id,7,0
-432,EX神秘头盔,EX Artian Helm,mh4g-dex-build7+mh4edit-mit-save-id,7,0
-433,EX神秘战帽,EX Artian Cap,mh4g-dex-build7+mh4edit-mit-save-id,7,0
-434,友爱头盔,Storge Helm,mh4g-dex-build7+mh4edit-mit-save-id,3,0
-435,友爱战帽,Storge Cap,mh4g-dex-build7+mh4edit-mit-save-id,3,0
-436,友爱头盔Ｓ,Storge Helm S,mh4g-dex-build7+mh4edit-mit-save-id,7,0
-437,友爱战帽Ｓ,Storge Cap S,mh4g-dex-build7+mh4edit-mit-save-id,7,0
-438,友爱头盔,Storge Helm,mh4g-dex-build7+mh4edit-mit-save-id,3,0
-439,友爱战帽,Storge Cap,mh4g-dex-build7+mh4edit-mit-save-id,3,0
-440,猎人头盔,Hunter's Helm,mh4g-dex-build7+mh4edit-mit-save-id,1,0
-441,猎人战帽,Hunter's Cap,mh4g-dex-build7+mh4edit-mit-save-id,1,0
-442,合金头盔,Alloy Helm,mh4g-dex-build7+mh4edit-mit-save-id,1,0
-443,合金战帽,Alloy Cap,mh4g-dex-build7+mh4edit-mit-save-id,1,0
-444,水兽头盔,Ludroth Helm,mh4g-dex-build7+mh4edit-mit-save-id,2,0
-445,水兽战帽,Ludroth Cap,mh4g-dex-build7+mh4edit-mit-save-id,2,0
-446,雌火龙头盔,Rathian Helm,mh4g-dex-build7+mh4edit-mit-save-id,2,0
-447,雌火龙战帽,Rathian Cap,mh4g-dex-build7+mh4edit-mit-save-id,2,0
-448,樱火龙头盔,Rath Heart Helm,mh4g-dex-build7+mh4edit-mit-save-id,6,0
-449,樱火龙战帽,Rath Heart Cap,mh4g-dex-build7+mh4edit-mit-save-id,6,0
-450,雄火龙头盔,Rathalos Helm,mh4g-dex-build7+mh4edit-mit-save-id,3,0
-451,雄火龙战帽,Rathalos Cap,mh4g-dex-build7+mh4edit-mit-save-id,3,0
-452,苍火龙头盔,Rath Soul Helm,mh4g-dex-build7+mh4edit-mit-save-id,6,0
-453,苍火龙战帽,Rath Soul Cap,mh4g-dex-build7+mh4edit-mit-save-id,6,0
-454,银火龙头盔,Silver Solhelm,mh4g-dex-build7+mh4edit-mit-save-id,7,0
-455,银火龙战帽,Silver Solcap,mh4g-dex-build7+mh4edit-mit-save-id,7,0
-456,贪婪头盔,Esurient Helm,mh4g-dex-build7+mh4edit-mit-save-id,7,0
-457,贪婪战帽,Esurient Cap,mh4g-dex-build7+mh4edit-mit-save-id,7,0
-458,残阳【面兜】,Gloaming Helm,mh4g-dex-build7+mh4edit-mit-save-id,3,0
-459,常磐【面兜】,Adamance Helm,mh4g-dex-build7+mh4edit-mit-save-id,3,0
-460,东云【阵笠】,Dayspring Kasa,mh4g-dex-build7+mh4edit-mit-save-id,3,0
-461,八千代【头冠】,Epoch Helm,mh4g-dex-build7+mh4edit-mit-save-id,3,0
-462,轰龙头盔,Tigrex Helm,mh4g-dex-build7+mh4edit-mit-save-id,3,0
-463,轰龙战帽,Tigrex Cap,mh4g-dex-build7+mh4edit-mit-save-id,3,0
-464,黑轰龙头盔Ｕ,Tigrex Helm U,mh4g-dex-build7+mh4edit-mit-save-id,6,0
-465,黑轰龙战帽Ｕ,Tigrex Cap U,mh4g-dex-build7+mh4edit-mit-save-id,6,0
-466,霸龙头铠,Akantor Mask,mh4g-dex-build7+mh4edit-mit-save-id,7,0
-467,霸龙面甲,Akantor Fangs,mh4g-dex-build7+mh4edit-mit-save-id,7,0
-468,狱狼龙头盔Ｕ,Zinogre Helm U,mh4g-dex-build7+mh4edit-mit-save-id,6,0
-469,狱狼龙战帽Ｕ,Zinogre Cap U,mh4g-dex-build7+mh4edit-mit-save-id,6,0
-470,黑蚀龙头盔,Gore Helm,mh4g-dex-build7+mh4edit-mit-save-id,3,0
-471,黑蚀龙战帽,Gore Cap,mh4g-dex-build7+mh4edit-mit-save-id,3,0
-472,毒怪鸟头盔,Gypceros Helm,mh4g-dex-build7+mh4edit-mit-save-id,2,0
-473,毒怪鸟战帽,Gypceros Cap,mh4g-dex-build7+mh4edit-mit-save-id,2,0
-474,紫毒怪鸟头盔Ｕ,Gypceros Helm U,mh4g-dex-build7+mh4edit-mit-save-id,6,0
-475,紫毒怪鸟战帽Ｕ,Gypceros Cap U,mh4g-dex-build7+mh4edit-mit-save-id,6,0
-476,电龙头盔,Khezu Helm,mh4g-dex-build7+mh4edit-mit-save-id,2,0
-477,电龙战帽,Khezu Cap,mh4g-dex-build7+mh4edit-mit-save-id,2,0
-478,赤电龙头盔Ｕ,Khezu Helm U,mh4g-dex-build7+mh4edit-mit-save-id,6,0
-479,赤电龙战帽Ｕ,Khezu Cap U,mh4g-dex-build7+mh4edit-mit-save-id,6,0
-480,麒麟头笛,Kirin Horn,mh4g-dex-build7+mh4edit-mit-save-id,3,0
-481,麒麟头冠,Kirin Crest,mh4g-dex-build7+mh4edit-mit-save-id,3,0
-482,冰麒麟头笛Ｕ,Kirin Horn U,mh4g-dex-build7+mh4edit-mit-save-id,7,0
-483,冰麒麟头冠Ｕ,Kirin Crest U,mh4g-dex-build7+mh4edit-mit-save-id,7,0
-484,钢龙头铠,Kushala Glare,mh4g-dex-build7+mh4edit-mit-save-id,7,0
-485,钢龙头盔,Kushala Snarl,mh4g-dex-build7+mh4edit-mit-save-id,7,0
-486,镰蟹头盔,Ceanataur Helm,mh4g-dex-build7+mh4edit-mit-save-id,2,0
-487,镰蟹战帽,Ceanataur Cap,mh4g-dex-build7+mh4edit-mit-save-id,2,0
-488,晓丸【面兜】,Auroros Helm,mh4g-dex-build7+mh4edit-mit-save-id,3,0
-489,凛【钵金】,Borealis Crown,mh4g-dex-build7+mh4edit-mit-save-id,3,0
-490,曙丸【乌帽子】,Genesis Headpiece,mh4g-dex-build7+mh4edit-mit-save-id,3,0
-491,妖艳【钵金】,Glyph Crown,mh4g-dex-build7+mh4edit-mit-save-id,3,0
-492,弧光头盔,Arc Helm,mh4g-dex-build7+mh4edit-mit-save-id,3,0
-493,弧光战帽,Arc Cap,mh4g-dex-build7+mh4edit-mit-save-id,3,0
-494,逆乱头盔,Rebellion Helm,mh4g-dex-build7+mh4edit-mit-save-id,7,0
-495,暴乱战帽,Riot Cap,mh4g-dex-build7+mh4edit-mit-save-id,7,0
-496,恶龙刃笠Ｘ,Dragonhead X,mh4g-dex-build7+mh4edit-mit-save-id,10,0
-497,恶龙脸Ｘ,Dragonface X,mh4g-dex-build7+mh4edit-mit-save-id,10,0
-498,盾蟹头盔,Hermitaur Helm,mh4g-dex-build7+mh4edit-mit-save-id,4,0
-499,盾蟹战帽,Hermitaur Cap,mh4g-dex-build7+mh4edit-mit-save-id,4,0
-500,海龙头盔,Lagiacrus Helm,mh4g-dex-build7+mh4edit-mit-save-id,6,0
-501,海龙战帽,Lagiacrus Cap,mh4g-dex-build7+mh4edit-mit-save-id,6,0
-502,煌黑龙之样,Escadora Wisdom,mh4g-dex-build7+mh4edit-mit-save-id,7,0
-503,煌黑龙智慧,Escadora Sagesse,mh4g-dex-build7+mh4edit-mit-save-id,7,0
-504,铸锭头盔,Ingot Helm,mh4g-dex-build7+mh4edit-mit-save-id,3,0
-505,铸锭战帽,Ingot Cap,mh4g-dex-build7+mh4edit-mit-save-id,3,0
-506,神秘头盔Ｓ,Artian Helm S,mh4g-dex-build7+mh4edit-mit-save-id,5,0
-507,神秘战帽Ｓ,Artian Cap S,mh4g-dex-build7+mh4edit-mit-save-id,5,0
-508,友爱头盔,Storge Helm,mh4g-dex-build7+mh4edit-mit-save-id,3,0
-509,友爱战帽,Storge Cap,mh4g-dex-build7+mh4edit-mit-save-id,3,0
-510,蓝速龙头盔Ｘ,Velociprey Helm X,mh4g-dex-build7+mh4edit-mit-save-id,8,0
-511,蓝速龙战帽Ｘ,Velociprey Cap X,mh4g-dex-build7+mh4edit-mit-save-id,8,0
-512,红速龙头盔Ｘ,Ioprey Helm X,mh4g-dex-build7+mh4edit-mit-save-id,8,0
-513,红速龙战帽Ｘ,Ioprey Cap X,mh4g-dex-build7+mh4edit-mit-save-id,8,0
-514,奇猿狐头盔Ｘ,Kecha Helm X,mh4g-dex-build7+mh4edit-mit-save-id,8,0
-515,奇猿狐战帽Ｘ,Kecha Cap X,mh4g-dex-build7+mh4edit-mit-save-id,8,0
-516,白猿狐头盔Ｚ,Kecha Helm Z,mh4g-dex-build7+mh4edit-mit-save-id,8,0
-517,白猿狐战帽Ｚ,Kecha Cap Z,mh4g-dex-build7+mh4edit-mit-save-id,8,0
-518,鬼蛙头盔Ｘ,Tetsucabra Helm X,mh4g-dex-build7+mh4edit-mit-save-id,8,0
-519,鬼蛙战帽Ｘ,Tetsucabra Cap X,mh4g-dex-build7+mh4edit-mit-save-id,8,0
-520,荒鬼蛙头盔Ｚ,Tetsucabra Helm Z,mh4g-dex-build7+mh4edit-mit-save-id,8,0
-521,荒鬼蛙战帽Ｚ,Tetsucabra Cap Z,mh4g-dex-build7+mh4edit-mit-save-id,8,0
-522,影蜘蛛头盔Ｘ,Nerscylla Helm X,mh4g-dex-build7+mh4edit-mit-save-id,8,0
-523,影蜘蛛战帽Ｘ,Nerscylla Cap X,mh4g-dex-build7+mh4edit-mit-save-id,8,0
-524,骸蜘蛛头盔Ｚ,Nerscylla Helm Z,mh4g-dex-build7+mh4edit-mit-save-id,9,0
-525,骸蜘蛛战帽Ｚ,Nerscylla Cap Z,mh4g-dex-build7+mh4edit-mit-save-id,9,0
-526,鬼鲛头盔Ｘ,Zamtrios Helm X,mh4g-dex-build7+mh4edit-mit-save-id,8,0
-527,鬼鲛战帽Ｘ,Zamtrios Cap X,mh4g-dex-build7+mh4edit-mit-save-id,8,0
-528,虎鲛头盔Ｚ,Zamtrios Helm Z,mh4g-dex-build7+mh4edit-mit-save-id,8,0
-529,虎鲛战帽Ｚ,Zamtrios Cap Z,mh4g-dex-build7+mh4edit-mit-save-id,8,0
-530,绞蛇龙头盔Ｘ,Najarala Helm X,mh4g-dex-build7+mh4edit-mit-save-id,8,0
-531,绞蛇龙战帽Ｘ,Najarala Cap X,mh4g-dex-build7+mh4edit-mit-save-id,8,0
-532,水蛇龙头盔Ｚ,Najarala Helm Z,mh4g-dex-build7+mh4edit-mit-save-id,8,0
-533,水蛇龙战帽Ｚ,Najarala Cap Z,mh4g-dex-build7+mh4edit-mit-save-id,8,0
-534,重甲虫头盔Ｘ,Seltas Helm X,mh4g-dex-build7+mh4edit-mit-save-id,9,0
-535,重甲虫战帽Ｘ,Seltas Cap X,mh4g-dex-build7+mh4edit-mit-save-id,9,0
-536,炮甲虫头盔Ｚ,Seltas Helm Z,mh4g-dex-build7+mh4edit-mit-save-id,9,0
-537,炮甲虫战帽Ｚ,Seltas Cap Z,mh4g-dex-build7+mh4edit-mit-save-id,9,0
-538,黑蚀龙头盔Ｘ,Gore Helm X,mh4g-dex-build7+mh4edit-mit-save-id,9,0
-539,黑蚀龙战帽Ｘ,Gore Cap X,mh4g-dex-build7+mh4edit-mit-save-id,9,0
-540,黑蚀龙头盔（发掘）,Gore Casque,mh4g-armor-name-crosswalk+mh4edit-mit-save-id,0,1
-541,黑蚀龙头巾（发掘）,Gore Coif,mh4g-armor-name-crosswalk+mh4edit-mit-save-id,0,1
-542,弧光头盔Ｘ,Arc Helm X,mh4g-dex-build7+mh4edit-mit-save-id,10,0
-543,友爱头盔Ｘ,Storge Helm X,mh4g-dex-build7+mh4edit-mit-save-id,10,0
-544,弧光战帽Ｘ,Arc Cap X,mh4g-dex-build7+mh4edit-mit-save-id,10,0
-545,友爱战帽Ｘ,Storge Cap X,mh4g-dex-build7+mh4edit-mit-save-id,10,0
-546,弧光头盔（发掘）,Arc Casque,mh4g-armor-name-crosswalk+mh4edit-mit-save-id,0,1
-547,友爱头盔（发掘）,Storge Casque,mh4g-armor-name-crosswalk+mh4edit-mit-save-id,0,1
-548,弧光头巾（发掘）,Arc Coif,mh4g-armor-name-crosswalk+mh4edit-mit-save-id,0,1
-549,友爱头巾（发掘）,Storge Coif,mh4g-armor-name-crosswalk+mh4edit-mit-save-id,0,1
-550,巨戟龙头盔,Gogma Helm,mh4g-dex-build7+mh4edit-mit-save-id,10,0
-551,巨戟龙战帽,Gogma Cap,mh4g-dex-build7+mh4edit-mit-save-id,10,0
-552,毒怪鸟头盔Ｘ,Gypceros Helm X,mh4g-dex-build7+mh4edit-mit-save-id,8,0
-553,毒怪鸟战帽Ｘ,Gypceros Cap X,mh4g-dex-build7+mh4edit-mit-save-id,8,0
-554,毒怪鸟头盔（发掘）,Gypceros Casque,mh4g-armor-name-crosswalk+mh4edit-mit-save-id,0,1
-555,毒怪鸟头巾（发掘）,Gypceros Coif,mh4g-armor-name-crosswalk+mh4edit-mit-save-id,0,1
-556,紫毒怪鸟头盔Ｚ,Gypceros Helm Z,mh4g-dex-build7+mh4edit-mit-save-id,8,0
-557,紫毒怪鸟战帽Ｚ,Gypceros Cap Z,mh4g-dex-build7+mh4edit-mit-save-id,8,0
-558,紫毒怪鸟Ｕ头盔（发掘）,Gypceros Casque U,mh4g-armor-name-crosswalk+mh4edit-mit-save-id,0,1
-559,紫毒怪鸟Ｕ头巾（发掘）,Gypceros Coif U,mh4g-armor-name-crosswalk+mh4edit-mit-save-id,0,1
-560,白兔兽头盔Ｘ,Lagombi Helm X,mh4g-dex-build7+mh4edit-mit-save-id,8,0
-561,白兔兽战帽Ｘ,Lagombi Cap X,mh4g-dex-build7+mh4edit-mit-save-id,8,0
-562,桃毛兽头盔Ｘ,Conga Helm X,mh4g-dex-build7+mh4edit-mit-save-id,8,0
-563,桃毛兽战帽Ｘ,Conga Cap X,mh4g-dex-build7+mh4edit-mit-save-id,8,0
-564,绿毛兽头盔Ｚ,Conga Helm Z,mh4g-dex-build7+mh4edit-mit-save-id,8,0
-565,绿毛兽战帽Ｚ,Conga Cap Z,mh4g-dex-build7+mh4edit-mit-save-id,8,0
-566,电龙头盔Ｘ,Khezu Helm X,mh4g-dex-build7+mh4edit-mit-save-id,8,0
-567,电龙战帽Ｘ,Khezu Cap X,mh4g-dex-build7+mh4edit-mit-save-id,8,0
-568,电龙头盔（发掘）,Khezu Casque,mh4g-armor-name-crosswalk+mh4edit-mit-save-id,0,1
-569,电龙头巾（发掘）,Khezu Coif,mh4g-armor-name-crosswalk+mh4edit-mit-save-id,0,1
-570,赤电龙头盔Ｚ,Khezu Helm Z,mh4g-dex-build7+mh4edit-mit-save-id,8,0
-571,赤电龙战帽Ｚ,Khezu Cap Z,mh4g-dex-build7+mh4edit-mit-save-id,8,0
-572,赤电龙Ｕ头盔（发掘）,Khezu Casque U,mh4g-armor-name-crosswalk+mh4edit-mit-save-id,0,1
-573,赤电龙Ｕ头巾（发掘）,Khezu Coif U,mh4g-armor-name-crosswalk+mh4edit-mit-save-id,0,1
-574,雌火龙头盔Ｘ,Rathian Helm X,mh4g-dex-build7+mh4edit-mit-save-id,8,0
-575,雌火龙战帽Ｘ,Rathian Cap X,mh4g-dex-build7+mh4edit-mit-save-id,8,0
-576,雌火龙头盔（发掘）,Rathian Casque,mh4g-armor-name-crosswalk+mh4edit-mit-save-id,0,1
-577,雌火龙头巾（发掘）,Rathian Coif,mh4g-armor-name-crosswalk+mh4edit-mit-save-id,0,1
-578,樱火龙头盔Ｚ,Rath Heart Helm Z,mh4g-dex-build7+mh4edit-mit-save-id,8,0
-579,樱火龙战帽Ｚ,Rath Heart Cap Z,mh4g-dex-build7+mh4edit-mit-save-id,8,0
-580,樱火龙头盔（发掘）,Rath Heart Casque,mh4g-armor-name-crosswalk+mh4edit-mit-save-id,0,1
-581,樱火龙头巾（发掘）,Rath Heart Coif,mh4g-armor-name-crosswalk+mh4edit-mit-save-id,0,1
-582,Ｇ・金火龙头盔Ｚ,Golden Lunehelm Z,mh4g-dex-build7+mh4edit-mit-save-id,10,0
-583,Ｇ・金火龙战帽Ｚ,Golden Lunecap Z,mh4g-dex-build7+mh4edit-mit-save-id,10,0
-584,雄火龙头盔Ｘ,Rathalos Helm X,mh4g-dex-build7+mh4edit-mit-save-id,9,0
-585,雄火龙战帽Ｘ,Rathalos Cap X,mh4g-dex-build7+mh4edit-mit-save-id,9,0
-586,雄火龙头盔（发掘）,Rathalos Casque,mh4g-armor-name-crosswalk+mh4edit-mit-save-id,0,1
-587,雄火龙头巾（发掘）,Rathalos Coif,mh4g-armor-name-crosswalk+mh4edit-mit-save-id,0,1
-588,苍火龙头盔Ｚ,Rath Soul Helm Z,mh4g-dex-build7+mh4edit-mit-save-id,9,0
-589,苍火龙战帽Ｚ,Rath Soul Cap Z,mh4g-dex-build7+mh4edit-mit-save-id,9,0
-590,苍火龙头盔（发掘）,Rath Soul Casque,mh4g-armor-name-crosswalk+mh4edit-mit-save-id,0,1
-591,苍火龙头巾（发掘）,Rath Soul Coif,mh4g-armor-name-crosswalk+mh4edit-mit-save-id,0,1
-592,Ｓ・银火龙头盔Ｚ,Silver Solhelm Z,mh4g-dex-build7+mh4edit-mit-save-id,10,0
-593,Ｓ・银火龙战帽Ｚ,Silver Solcap Z,mh4g-dex-build7+mh4edit-mit-save-id,10,0
-594,银火龙头盔（发掘）,Silver Solcasque,mh4g-armor-name-crosswalk+mh4edit-mit-save-id,0,1
-595,银火龙头巾（发掘）,Silver Solcoif,mh4g-armor-name-crosswalk+mh4edit-mit-save-id,0,1
-596,雷狼龙头盔Ｘ,Zinogre Helm X,mh4g-dex-build7+mh4edit-mit-save-id,9,0
-597,雷狼龙战帽Ｘ,Zinogre Cap X,mh4g-dex-build7+mh4edit-mit-save-id,9,0
-598,狱狼龙头盔Ｚ,Zinogre Helm Z,mh4g-dex-build7+mh4edit-mit-save-id,9,0
-599,狱狼龙战帽Ｚ,Zinogre Cap Z,mh4g-dex-build7+mh4edit-mit-save-id,9,0
-600,狱狼龙Ｕ头盔（发掘）,Zinogre Casque U,mh4g-armor-name-crosswalk+mh4edit-mit-save-id,0,1
-601,狱狼龙Ｕ头巾（发掘）,Zinogre Coif U,mh4g-armor-name-crosswalk+mh4edit-mit-save-id,0,1
-602,轰龙头盔Ｘ,Tigrex Helm X,mh4g-dex-build7+mh4edit-mit-save-id,9,0
-603,轰龙战帽Ｘ,Tigrex Cap X,mh4g-dex-build7+mh4edit-mit-save-id,9,0
-604,轰龙头盔（发掘）,Tigrex Casque,mh4g-armor-name-crosswalk+mh4edit-mit-save-id,0,1
-605,轰龙头巾（发掘）,Tigrex Coif,mh4g-armor-name-crosswalk+mh4edit-mit-save-id,0,1
-606,黑轰龙头盔Ｚ,Tigrex Helm Z,mh4g-dex-build7+mh4edit-mit-save-id,9,0
-607,黑轰龙战帽Ｚ,Tigrex Cap Z,mh4g-dex-build7+mh4edit-mit-save-id,9,0
-608,黑轰龙Ｕ头盔（发掘）,Tigrex Casque U,mh4g-armor-name-crosswalk+mh4edit-mit-save-id,0,1
-609,黑轰龙Ｕ头巾（发掘）,Tigrex Coif U,mh4g-armor-name-crosswalk+mh4edit-mit-save-id,0,1
-610,大轰龙头盔Ｚ,Excello Helm Z,mh4g-dex-build7+mh4edit-mit-save-id,10,0
-611,大轰龙战帽Ｚ,Excello Cap Z,mh4g-dex-build7+mh4edit-mit-save-id,10,0
-612,铠龙头盔Ｘ,Gravios Helm X,mh4g-dex-build7+mh4edit-mit-save-id,9,0
-613,铠龙战帽Ｘ,Gravios Cap X,mh4g-dex-build7+mh4edit-mit-save-id,9,0
-614,黑铠龙头盔Ｚ,Gravios Helm Z,mh4g-dex-build7+mh4edit-mit-save-id,9,0
-615,黑铠龙战帽Ｚ,Gravios Cap Z,mh4g-dex-build7+mh4edit-mit-save-id,9,0
-616,碎龙头盔Ｘ,Brachydios Helm X,mh4g-dex-build7+mh4edit-mit-save-id,9,0
-617,碎龙战帽Ｘ,Brachydios Cap X,mh4g-dex-build7+mh4edit-mit-save-id,9,0
-618,极限碎龙头盔,Brachydium Helm,mh4g-dex-build7+mh4edit-mit-save-id,10,0
-619,极限碎龙战帽,Brachydium Cap,mh4g-dex-build7+mh4edit-mit-save-id,10,0
-620,残阳・真【面兜】,Grand Gloaming Helm,mh4g-dex-build7+mh4edit-mit-save-id,10,0
-621,常磐・真【面兜】,Grand Adamance Helm,mh4g-dex-build7+mh4edit-mit-save-id,10,0
-622,东云・真【面兜】,Grand Dayspring Helm,mh4g-dex-build7+mh4edit-mit-save-id,10,0
-623,八千代・真【面兜】,Grand Epoch Helm,mh4g-dex-build7+mh4edit-mit-save-id,10,0
-624,残阳·红头盔（发掘）,Gloaming Redhelm,mh4g-armor-name-crosswalk+mh4edit-mit-save-id,0,1
-625,常磐·红头盔（发掘）,Adamance Redhelm,mh4g-armor-name-crosswalk+mh4edit-mit-save-id,0,1
-626,东云·红头盔（发掘）,Dayspring Redhelm,mh4g-armor-name-crosswalk+mh4edit-mit-save-id,0,1
-627,八千代·红头盔（发掘）,Epoch Redhelm,mh4g-armor-name-crosswalk+mh4edit-mit-save-id,0,1
-628,恐暴龙头盔Ｘ,Vangis Helm X,mh4g-dex-build7+mh4edit-mit-save-id,9,0
-629,恐暴龙战帽Ｘ,Vangis Cap X,mh4g-dex-build7+mh4edit-mit-save-id,9,0
-630,贪婪头盔Ｚ,Esurient Helm Z,mh4g-dex-build7+mh4edit-mit-save-id,10,0
-631,贪婪战帽Ｚ,Esurient Cap Z,mh4g-dex-build7+mh4edit-mit-save-id,10,0
-632,贪婪头盔（发掘）,Esurient Casque,mh4g-armor-name-crosswalk+mh4edit-mit-save-id,0,1
-633,贪婪头巾（发掘）,Esurient Coif,mh4g-armor-name-crosswalk+mh4edit-mit-save-id,0,1
-634,炎王龙皇冠Ｘ,Kaiser Crown X,mh4g-dex-build7+mh4edit-mit-save-id,10,0
-635,炎王龙面具Ｘ,Kaiser Mask X,mh4g-dex-build7+mh4edit-mit-save-id,10,0
-636,霸龙头铠Ｘ,Akantor Mask X,mh4g-dex-build7+mh4edit-mit-save-id,10,0
-637,霸龙面甲Ｘ,Akantor Fangs X,mh4g-dex-build7+mh4edit-mit-save-id,10,0
-638,霸龙头盔（发掘）,Akantor Casque,mh4g-armor-name-crosswalk+mh4edit-mit-save-id,0,1
-639,霸龙头巾（发掘）,Akantor Coif,mh4g-armor-name-crosswalk+mh4edit-mit-save-id,0,1
-640,EX煌黑龙之样,EX Escadora Wisdom,mh4g-dex-build7+mh4edit-mit-save-id,10,0
-641,EX煌黑龙智慧,EX Escadora Sagesse,mh4g-dex-build7+mh4edit-mit-save-id,10,0
-642,崩龙头铠Ｘ,Ukanlos Mask X,mh4g-dex-build7+mh4edit-mit-save-id,10,0
-643,崩龙面甲Ｘ,Ukanlos Fangs X,mh4g-dex-build7+mh4edit-mit-save-id,10,0
-644,钢龙头铠Ｘ,Kushala Glare X,mh4g-dex-build7+mh4edit-mit-save-id,10,0
-645,钢龙头盔Ｘ,Kushala Snarl X,mh4g-dex-build7+mh4edit-mit-save-id,10,0
-646,钢龙头盔（发掘）,Kushala Casque,mh4g-armor-name-crosswalk+mh4edit-mit-save-id,0,1
-647,钢龙头巾（发掘）,Kushala Coif,mh4g-armor-name-crosswalk+mh4edit-mit-save-id,0,1
-648,锈钢龙头铠,Kujula Glare,mh4g-dex-build7+mh4edit-mit-save-id,10,0
-649,锈钢龙头盔,Kujula Snarl,mh4g-dex-build7+mh4edit-mit-save-id,10,0
-650,齐天的添发・真,Grand God's Peer Mask,mh4g-dex-build7+mh4edit-mit-save-id,10,0
-651,仙师的添发・真,Grand Hermit Mask,mh4g-dex-build7+mh4edit-mit-save-id,10,0
-652,怒天的添发・真,Grand Divine Ire Mask,mh4g-dex-build7+mh4edit-mit-save-id,10,0
-653,心灭的添发・真,Grand Crusher Mask,mh4g-dex-build7+mh4edit-mit-save-id,10,0
-654,逆乱头盔Ｘ,Rebellion Helm X,mh4g-dex-build7+mh4edit-mit-save-id,10,0
-655,暴乱战帽Ｘ,Riot Cap X,mh4g-dex-build7+mh4edit-mit-save-id,10,0
-656,逆乱头盔（发掘）,Rebellion Casque,mh4g-armor-name-crosswalk+mh4edit-mit-save-id,0,1
-657,暴乱头巾（发掘）,Riot Coif,mh4g-armor-name-crosswalk+mh4edit-mit-save-id,0,1
-658,逆乱头盔Ｚ,Rebellion Helm Z,mh4g-dex-build7+mh4edit-mit-save-id,10,0
-659,暴乱战帽Ｚ,Riot Cap Z,mh4g-dex-build7+mh4edit-mit-save-id,10,0
-660,砂龙头盔Ｘ,Cephalos Helm X,mh4g-dex-build7+mh4edit-mit-save-id,8,0
-661,砂龙战帽Ｘ,Cephalos Cap X,mh4g-dex-build7+mh4edit-mit-save-id,8,0
-662,盾蟹头盔Ｘ,Hermitaur Helm X,mh4g-dex-build7+mh4edit-mit-save-id,8,0
-663,盾蟹战帽Ｘ,Hermitaur Cap X,mh4g-dex-build7+mh4edit-mit-save-id,8,0
-664,盾蟹头盔（发掘）,Hermitaur Casque,mh4g-armor-name-crosswalk+mh4edit-mit-save-id,0,1
-665,盾蟹头巾（发掘）,Hermitaur Coif,mh4g-armor-name-crosswalk+mh4edit-mit-save-id,0,1
-666,紫盾蟹头盔Ｚ,Hermitaur Helm Z,mh4g-dex-build7+mh4edit-mit-save-id,8,0
-667,紫盾蟹战帽Ｚ,Hermitaur Cap Z,mh4g-dex-build7+mh4edit-mit-save-id,8,0
-668,一角龙头盔Ｓ,Mono Helm S,mh4g-dex-build7+mh4edit-mit-save-id,5,0
-669,一角龙战帽Ｓ,Mono Cap S,mh4g-dex-build7+mh4edit-mit-save-id,5,0
-670,一角龙头盔Ｘ,Mono Helm X,mh4g-dex-build7+mh4edit-mit-save-id,9,0
-671,一角龙战帽Ｘ,Mono Cap X,mh4g-dex-build7+mh4edit-mit-save-id,9,0
-672,一角龙头盔（发掘）,Mono Helm,mh4g-armor-name-crosswalk+mh4edit-mit-save-id,0,1
-673,一角龙战帽（发掘）,Mono Cap,mh4g-armor-name-crosswalk+mh4edit-mit-save-id,0,1
-674,一角龙头盔（发掘）,Mono Casque,mh4g-armor-name-crosswalk+mh4edit-mit-save-id,0,1
-675,一角龙头巾（发掘）,Mono Coif,mh4g-armor-name-crosswalk+mh4edit-mit-save-id,0,1
-676,白一角龙头盔,Monodevil Helm,mh4g-dex-build7+mh4edit-mit-save-id,9,0
-677,白一角龙战帽,Monodevil Cap,mh4g-dex-build7+mh4edit-mit-save-id,9,0
-678,白一角龙头盔,Monodevil Helm,mh4g-dex-build7+mh4edit-mit-save-id,9,0
-679,白一角龙战帽,Monodevil Cap,mh4g-dex-build7+mh4edit-mit-save-id,9,0
-680,白一角龙头盔（发掘）,Monodevil Casque,mh4g-armor-name-crosswalk+mh4edit-mit-save-id,0,1
-681,白一角龙头巾（发掘）,Monodevil Coif,mh4g-armor-name-crosswalk+mh4edit-mit-save-id,0,1
-682,角龙头盔Ｘ,Diablos Helm X,mh4g-dex-build7+mh4edit-mit-save-id,9,0
-683,角龙战帽Ｘ,Diablos Cap X,mh4g-dex-build7+mh4edit-mit-save-id,9,0
-684,角龙头盔,Diablos Helm,mh4g-dex-build7+mh4edit-mit-save-id,3,0
-685,角龙战帽,Diablos Cap,mh4g-dex-build7+mh4edit-mit-save-id,3,0
-686,角龙头盔（发掘）,Diablos Casque,mh4g-armor-name-crosswalk+mh4edit-mit-save-id,0,1
-687,角龙头巾（发掘）,Diablos Coif,mh4g-armor-name-crosswalk+mh4edit-mit-save-id,0,1
-688,黑角龙头盔Ｚ,Diablos Helm Z,mh4g-dex-build7+mh4edit-mit-save-id,9,0
-689,黑角龙战帽Ｚ,Diablos Cap Z,mh4g-dex-build7+mh4edit-mit-save-id,9,0
-690,恶龙刃笠Ｘ,Dragonhead X,mh4g-dex-build7+mh4edit-mit-save-id,10,0
-691,恶龙脸Ｘ,Dragonface X,mh4g-dex-build7+mh4edit-mit-save-id,10,0
-692,恶龙Ｘ头盔（发掘）,Dragoncasque X,mh4g-armor-name-crosswalk+mh4edit-mit-save-id,0,1
-693,恶龙Ｘ头巾（发掘）,Dragoncoif X,mh4g-armor-name-crosswalk+mh4edit-mit-save-id,0,1
-694,红黑龙Ｚ刃笠（发掘）,Fatalis Crimsonhead Z,mh4g-armor-name-crosswalk+mh4edit-mit-save-id,0,1
-695,红黑龙Ｚ脸（发掘）,Fatalis Crimsonface Z,mh4g-armor-name-crosswalk+mh4edit-mit-save-id,0,1
-696,红黑龙Ｚ头盔（发掘）,Fatalis Crimsonhelm Z,mh4g-armor-name-crosswalk+mh4edit-mit-save-id,0,1
-697,红黑龙Ｚ头巾（发掘）,Fatalis Crimsoncoif Z,mh4g-armor-name-crosswalk+mh4edit-mit-save-id,0,1
-698,黑龙刃笠,Wrothhead,mh4g-dex-build7+mh4edit-mit-save-id,10,0
-699,黑龙脸,Wrothface,mh4g-dex-build7+mh4edit-mit-save-id,10,0
-700,祖龙刃笠,White Fatalis Head,mh4g-dex-build7+mh4edit-mit-save-id,10,0
-701,祖龙脸,White Fatalis Face,mh4g-dex-build7+mh4edit-mit-save-id,10,0
-702,罔象真【颊面】,Grand Mizuha Mask,mh4g-dex-build7+mh4edit-mit-save-id,10,0
-703,丰玉真【乌帽子】,Grand Cham Hat,mh4g-dex-build7+mh4edit-mit-save-id,10,0
-704,千刃龙头盔Ｓ,Regios Helm S,mh4g-dex-build7+mh4edit-mit-save-id,6,0
-705,千刃龙战帽Ｓ,Regios Cap S,mh4g-dex-build7+mh4edit-mit-save-id,6,0
-706,千刃龙头盔Ｘ,Regios Helm X,mh4g-dex-build7+mh4edit-mit-save-id,9,0
-707,千刃龙战帽Ｘ,Regios Cap X,mh4g-dex-build7+mh4edit-mit-save-id,9,0
-708,浑沌头盔,Chaos Helm,mh4g-dex-build7+mh4edit-mit-save-id,9,0
-709,拿非利头盔,Nephilim Helm,mh4g-dex-build7+mh4edit-mit-save-id,9,0
-710,浑沌战帽,Chaos Cap,mh4g-dex-build7+mh4edit-mit-save-id,9,0
-711,拿非利战帽,Nephilim Cap,mh4g-dex-build7+mh4edit-mit-save-id,9,0
-712,岩龙头盔Ｘ,Basarios Helm X,mh4g-dex-build7+mh4edit-mit-save-id,8,0
-713,岩龙战帽Ｘ,Basarios Cap X,mh4g-dex-build7+mh4edit-mit-save-id,8,0
-714,桃岩龙头盔Ｚ,Basarios Helm Z,mh4g-dex-build7+mh4edit-mit-save-id,8,0
-715,桃岩龙战帽Ｚ,Basarios Cap Z,mh4g-dex-build7+mh4edit-mit-save-id,8,0
-716,大怪鸟头盔Ｘ,Kut-Ku Helm X,mh4g-dex-build7+mh4edit-mit-save-id,8,0
-717,大怪鸟战帽Ｘ,Kut-Ku Cap X,mh4g-dex-build7+mh4edit-mit-save-id,8,0
-718,青怪鸟头盔Ｚ,Kut-Ku Helm Z,mh4g-dex-build7+mh4edit-mit-save-id,8,0
-719,青怪鸟战帽Ｚ,Kut-Ku Cap Z,mh4g-dex-build7+mh4edit-mit-save-id,8,0
-720,黑狼鸟头盔Ｘ,Garuga Helm X,mh4g-dex-build7+mh4edit-mit-save-id,9,0
-721,黑狼鸟战帽Ｘ,Garuga Cap X,mh4g-dex-build7+mh4edit-mit-save-id,9,0
-722,麒麟头笛Ｘ,Kirin Horn X,mh4g-dex-build7+mh4edit-mit-save-id,10,0
-723,麒麟头冠Ｘ,Kirin Crest X,mh4g-dex-build7+mh4edit-mit-save-id,10,0
-724,麒麟头盔（发掘）,Kirin Casque,mh4g-armor-name-crosswalk+mh4edit-mit-save-id,0,1
-725,麒麟头巾（发掘）,Kirin Coif,mh4g-armor-name-crosswalk+mh4edit-mit-save-id,0,1
-726,冰麒麟头笛Ｚ,Kirin Horn Z,mh4g-dex-build7+mh4edit-mit-save-id,10,0
-727,冰麒麟头冠Ｚ,Kirin Crest Z,mh4g-dex-build7+mh4edit-mit-save-id,10,0
-728,冰麒麟Ｕ头盔（发掘）,Kirin Casque U,mh4g-armor-name-crosswalk+mh4edit-mit-save-id,0,1
-729,冰麒麟Ｕ头巾（发掘）,Kirin Coif U,mh4g-armor-name-crosswalk+mh4edit-mit-save-id,0,1
-730,飞甲虫帽子Ｘ,Bnahabra Hat X,mh4g-dex-build7+mh4edit-mit-save-id,8,0
-731,飞甲虫战帽Ｘ,Bnahabra Headpiece X,mh4g-dex-build7+mh4edit-mit-save-id,8,0
-732,垂皮龙头罩Ｘ,Slagtoth Hood X,mh4g-dex-build7+mh4edit-mit-save-id,8,0
-733,垂皮龙头帽Ｘ,Slagtoth Cowl X,mh4g-dex-build7+mh4edit-mit-save-id,8,0
-734,草食龙头盔Ｘ,Rhenoplos Helm X,mh4g-dex-build7+mh4edit-mit-save-id,8,0
-735,草食龙战帽Ｘ,Rhenoplos Cap X,mh4g-dex-build7+mh4edit-mit-save-id,8,0
-736,猎人头盔（发掘）,Hunter's Casque,mh4g-armor-name-crosswalk+mh4edit-mit-save-id,0,1
-737,猎人头巾（发掘）,Hunter's Coif,mh4g-armor-name-crosswalk+mh4edit-mit-save-id,0,1
-738,合金头盔（发掘）,Alloy Casque,mh4g-armor-name-crosswalk+mh4edit-mit-save-id,0,1
-739,合金头巾（发掘）,Alloy Coif,mh4g-armor-name-crosswalk+mh4edit-mit-save-id,0,1
-740,神秘头盔Ｘ,Artian Helm X,mh4g-dex-build7+mh4edit-mit-save-id,9,0
-741,神秘战帽Ｘ,Artian Cap X,mh4g-dex-build7+mh4edit-mit-save-id,9,0
-742,弧光Ｓ头盔（发掘）,Arc Casque S,mh4g-armor-name-crosswalk+mh4edit-mit-save-id,0,1
-743,弧光Ｓ头巾（发掘）,Arc Coif S,mh4g-armor-name-crosswalk+mh4edit-mit-save-id,0,1
-744,铸锭头盔（发掘）,Ingot Casque,mh4g-armor-name-crosswalk+mh4edit-mit-save-id,0,1
-745,铸锭头巾（发掘）,Ingot Coif,mh4g-armor-name-crosswalk+mh4edit-mit-save-id,0,1
-746,守护者头盔Ｘ,Guardian Helm X,mh4g-dex-build7+mh4edit-mit-save-id,8,0
-747,女佣头罩Ｘ,Helper Hood X,mh4g-dex-build7+mh4edit-mit-save-id,8,0
-748,守护者面具Ｘ,Guardian Mask X,mh4g-dex-build7+mh4edit-mit-save-id,8,0
-749,护士玻璃Ｘ,Healer Glasses X,mh4g-dex-build7+mh4edit-mit-save-id,8,0
-750,守护者头盔Ｚ,Guardian Helm Z,mh4g-dex-build7+mh4edit-mit-save-id,9,0
-751,女佣头罩Ｚ,Helper Hood Z,mh4g-dex-build7+mh4edit-mit-save-id,9,0
-752,守护者面具Ｚ,Guardian Mask Z,mh4g-dex-build7+mh4edit-mit-save-id,9,0
-753,护士贝雷帽Ｚ,Healer Beret Z,mh4g-dex-build7+mh4edit-mit-save-id,9,0
-754,G骑士装羽帽Ｘ,G. Knight Feather X,mh4g-dex-build7+mh4edit-mit-save-id,9,0
-755,女仆装发箍Ｘ,Maiden's Hat X,mh4g-dex-build7+mh4edit-mit-save-id,9,0
-756,G骑士装面具Ｘ,G. Knight Mask X,mh4g-dex-build7+mh4edit-mit-save-id,9,0
-757,私密装玻璃Ｘ,Exclusive Glasses X,mh4g-dex-build7+mh4edit-mit-save-id,9,0
-758,首领刃笠,Ace Headgear,mh4g-dex-build7+mh4edit-mit-save-id,9,0
-759,女王刃笠,Sororal Headgear,mh4g-dex-build7+mh4edit-mit-save-id,9,0
-760,首领脸,Ace Mask,mh4g-dex-build7+mh4edit-mit-save-id,9,0
-761,女王脸,Sororal Mask,mh4g-dex-build7+mh4edit-mit-save-id,9,0
-762,镰蟹头盔（发掘）,Ceanataur Casque,mh4g-armor-name-crosswalk+mh4edit-mit-save-id,0,1
-763,镰蟹头巾（发掘）,Ceanataur Coif,mh4g-armor-name-crosswalk+mh4edit-mit-save-id,0,1
-764,海龙头盔（发掘）,Lagiacrus Casque,mh4g-armor-name-crosswalk+mh4edit-mit-save-id,0,1
-765,海龙头巾（发掘）,Lagiacrus Coif,mh4g-armor-name-crosswalk+mh4edit-mit-save-id,0,1
-766,煌黑龙头盔（发掘）,Escadora Casque,mh4g-armor-name-crosswalk+mh4edit-mit-save-id,0,1
-767,煌黑龙头巾（发掘）,Escadora Coif,mh4g-armor-name-crosswalk+mh4edit-mit-save-id,0,1
-768,晓丸头盔（发掘）,Auroros Kermes Helm,mh4g-armor-name-crosswalk+mh4edit-mit-save-id,0,1
-769,凛头饰（发掘）,Borealis Bellflower,mh4g-armor-name-crosswalk+mh4edit-mit-save-id,0,1
-770,曙丸头盔（发掘）,Genesis Kermes Helm,mh4g-armor-name-crosswalk+mh4edit-mit-save-id,0,1
-771,妖艳头饰（发掘）,Glyph Bellflower,mh4g-armor-name-crosswalk+mh4edit-mit-save-id,0,1
-772,水兽头盔（发掘）,Ludroth Casque,mh4g-armor-name-crosswalk+mh4edit-mit-save-id,0,1
-773,水兽头巾（发掘）,Ludroth Coif,mh4g-armor-name-crosswalk+mh4edit-mit-save-id,0,1
-774,甲虫头盔（发掘）,Hornet Helm,mh4g-armor-name-crosswalk+mh4edit-mit-save-id,0,1
-775,甲虫战帽（发掘）,Hornet Cap,mh4g-armor-name-crosswalk+mh4edit-mit-save-id,0,1
-776,甲虫头盔（发掘）,Hornet Casque,mh4g-armor-name-crosswalk+mh4edit-mit-save-id,0,1
-777,甲虫头巾（发掘）,Hornet Coif,mh4g-armor-name-crosswalk+mh4edit-mit-save-id,0,1
-778,毒狗龙头盔（发掘）,Wroggi Hat,mh4g-armor-name-crosswalk+mh4edit-mit-save-id,0,1
-779,毒狗龙战帽（发掘）,Wroggi Cap,mh4g-armor-name-crosswalk+mh4edit-mit-save-id,0,1
-780,毒狗龙头盔（发掘）,Wroggi Casque,mh4g-armor-name-crosswalk+mh4edit-mit-save-id,0,1
-781,毒狗龙头巾（发掘）,Wroggi Coif,mh4g-armor-name-crosswalk+mh4edit-mit-save-id,0,1
-782,毒怪龙头盔（发掘）,Gigginox Helm,mh4g-armor-name-crosswalk+mh4edit-mit-save-id,0,1
-783,毒怪龙战帽（发掘）,Gigginox Cap,mh4g-armor-name-crosswalk+mh4edit-mit-save-id,0,1
-784,毒怪龙头盔（发掘）,Gigginox Casque,mh4g-armor-name-crosswalk+mh4edit-mit-save-id,0,1
-785,毒怪龙头巾（发掘）,Gigginox Coif,mh4g-armor-name-crosswalk+mh4edit-mit-save-id,0,1
-786,荒天【头冠】,Tempest Crown,mh4g-dex-build7+mh4edit-mit-save-id,10,0
-787,苍天【头冠】,Welkin Crown,mh4g-dex-build7+mh4edit-mit-save-id,10,0
-788,荒天光冠（发掘）,Tempest Diadem,mh4g-armor-name-crosswalk+mh4edit-mit-save-id,0,1
-789,苍天光冠（发掘）,Welkin Diadem,mh4g-armor-name-crosswalk+mh4edit-mit-save-id,0,1
-790,死神头盔（发掘）,Death Stench Brain,mh4g-armor-name-crosswalk+mh4edit-mit-save-id,0,1
-791,死神战帽（发掘）,Death Stench Soul,mh4g-armor-name-crosswalk+mh4edit-mit-save-id,0,1
-792,死神头盔（发掘）,Death Stench Casque,mh4g-armor-name-crosswalk+mh4edit-mit-save-id,0,1
-793,死神头巾（发掘）,Death Stench Coif,mh4g-armor-name-crosswalk+mh4edit-mit-save-id,0,1
-794,大马士革头盔（发掘）,Damascus Helm,mh4g-armor-name-crosswalk+mh4edit-mit-save-id,0,1
-795,大马士革战帽（发掘）,Damascus Cap,mh4g-armor-name-crosswalk+mh4edit-mit-save-id,0,1
-796,大马士革头盔（发掘）,Damascus Casque,mh4g-armor-name-crosswalk+mh4edit-mit-save-id,0,1
-797,大马士革头巾（发掘）,Damascus Coif,mh4g-armor-name-crosswalk+mh4edit-mit-save-id,0,1
-798,海龙头盔Ｘ,Lagiacrus Helm X,mh4g-dex-build7+mh4edit-mit-save-id,9,0
-799,海龙战帽Ｘ,Lagiacrus Cap X,mh4g-dex-build7+mh4edit-mit-save-id,9,0
-800,迅龙头盔Ｘ,Nargacuga Helm X,mh4g-dex-build7+mh4edit-mit-save-id,9,0
-801,迅龙战帽Ｘ,Nargacuga Cap X,mh4g-dex-build7+mh4edit-mit-save-id,9,0
-802,炎妃龙凤冠Ｘ,Empress Crown X,mh4g-dex-build7+mh4edit-mit-save-id,10,0
-803,炎妃龙面具Ｘ,Empress Mask X,mh4g-dex-build7+mh4edit-mit-save-id,10,0
-804,太阳神头盔Ｘ,Helios Helm X,mh4g-dex-build7+mh4edit-mit-save-id,10,0
-805,月神头盔Ｘ,Selene Helm X,mh4g-dex-build7+mh4edit-mit-save-id,10,0
-806,太阳神战帽Ｘ,Helios Cap X,mh4g-dex-build7+mh4edit-mit-save-id,10,0
-807,月神战帽Ｘ,Selene Cap X,mh4g-dex-build7+mh4edit-mit-save-id,10,0
-808,炎戈龙头盔Ｘ,Agnaktor Helm X,mh4g-dex-build7+mh4edit-mit-save-id,8,0
-809,炎戈龙战帽Ｘ,Agnaktor Cap X,mh4g-dex-build7+mh4edit-mit-save-id,8,0
-810,彩鸟头盔Ｘ,Qurupeco Helm X,mh4g-dex-build7+mh4edit-mit-save-id,8,0
-811,彩鸟战帽Ｘ,Qurupeco Cap X,mh4g-dex-build7+mh4edit-mit-save-id,8,0
-812,灯鱼龙头盔Ｘ,Gobul Helm X,mh4g-dex-build7+mh4edit-mit-save-id,8,0
-813,灯鱼龙战帽Ｘ,Gobul Cap X,mh4g-dex-build7+mh4edit-mit-save-id,8,0
-814,冰牙龙头盔Ｘ,Barioth Helm X,mh4g-dex-build7+mh4edit-mit-save-id,8,0
-815,冰牙龙战帽Ｘ,Barioth Cap X,mh4g-dex-build7+mh4edit-mit-save-id,8,0
-816,土砂龙头盔Ｘ,Barroth Helm X,mh4g-dex-build7+mh4edit-mit-save-id,8,0
-817,土砂龙战帽Ｘ,Barroth Cap X,mh4g-dex-build7+mh4edit-mit-save-id,8,0
-818,潜口龙头盔Ｘ,Nibelsnarf Helm X,mh4g-dex-build7+mh4edit-mit-save-id,8,0
-819,潜口龙战帽Ｘ,Nibelsnarf Cap X,mh4g-dex-build7+mh4edit-mit-save-id,8,0
-820,尾槌龙头盔Ｘ,Duramboros Helm X,mh4g-dex-build7+mh4edit-mit-save-id,9,0
-821,尾槌龙战帽Ｘ,Duramboros Cap X,mh4g-dex-build7+mh4edit-mit-save-id,9,0
-822,溶岩龙头盔Ｘ,Lava Helm X,mh4g-dex-build7+mh4edit-mit-save-id,9,0
-823,溶岩龙战帽Ｘ,Lava Cap X,mh4g-dex-build7+mh4edit-mit-save-id,9,0
-824,大和・真【面兜】,Grand Yamato Kabuto,mh4g-dex-build7+mh4edit-mit-save-id,10,0
-825,日向・真【钵金】,Grand H. Hachigane,mh4g-dex-build7+mh4edit-mit-save-id,10,0
-826,陆奥・真【阵笠】,Grand Mutsu Jingasa,mh4g-dex-build7+mh4edit-mit-save-id,10,0
-827,天成・真【阵笠】,Grand Amagi Jingasa,mh4g-dex-build7+mh4edit-mit-save-id,10,0
-828,夜叉・真【御面】,Grand Yaksha Mask,mh4g-dex-build7+mh4edit-mit-save-id,10,0
-829,修罗・真【御面】,Grand Carnage Helm,mh4g-dex-build7+mh4edit-mit-save-id,10,0
-830,炼黑龙刃笠,Miralis Diadem,mh4g-dex-build7+mh4edit-mit-save-id,10,0
-831,炼黑龙脸,Miralis Crown,mh4g-dex-build7+mh4edit-mit-save-id,10,0
-832,翠水龙头盔Ｚ,Plesioth Helm Z,mh4g-dex-build7+mh4edit-mit-save-id,8,0
-833,翠水龙战帽Ｚ,Plesioth Cap Z,mh4g-dex-build7+mh4edit-mit-save-id,8,0
-834,北辰【添发】,Kita Star Headdress,mh4g-dex-build7+mh4edit-mit-save-id,8,0
-835,海渊【添发】,Umi Ocean Headdress,mh4g-dex-build7+mh4edit-mit-save-id,8,0
-836,厨师羽帽,Patissier's Toque,mh4g-dex-build7+mh4edit-mit-save-id,7,0
-837,厨师战帽,Patissier's Cap,mh4g-dex-build7+mh4edit-mit-save-id,7,0
-838,矿石头盔Ｓ,High Metal Helm S,mh4g-dex-build7+mh4edit-mit-save-id,5,0
-839,矿石战帽Ｓ,High Metal Cap S,mh4g-dex-build7+mh4edit-mit-save-id,5,0
-840,锹虫头盔Ｘ,Aelucanth Vertex X,mh4g-dex-build7+mh4edit-mit-save-id,8,0
-841,蝴蝶头盔Ｘ,Rhopessa Vertex X,mh4g-dex-build7+mh4edit-mit-save-id,8,0
-842,锹虫战帽Ｘ,Aelucanth Clypeus X,mh4g-dex-build7+mh4edit-mit-save-id,8,0
-843,蝴蝶战帽Ｘ,Rhopessa Clypeus X,mh4g-dex-build7+mh4edit-mit-save-id,8,0
-844,独角仙头盔Ｘ,Obituary Vertex X,mh4g-dex-build7+mh4edit-mit-save-id,8,0
-845,彩蝶头盔Ｘ,Butterfly Vertex X,mh4g-dex-build7+mh4edit-mit-save-id,8,0
-846,独角仙战帽Ｘ,Obituary Clypeus X,mh4g-dex-build7+mh4edit-mit-save-id,8,0
-847,彩蝶战帽Ｘ,Butterfly Clypeus X,mh4g-dex-build7+mh4edit-mit-save-id,8,0
-848,EX晓丸【面兜】,EX Auroros Helm,mh4g-dex-build7+mh4edit-mit-save-id,10,0
-849,EX凛【钵金】,EX Borealis Crown,mh4g-dex-build7+mh4edit-mit-save-id,10,0
-850,EX曙丸【乌帽子】,EX Genesis Headpiece,mh4g-dex-build7+mh4edit-mit-save-id,10,0
-851,EX妖艳【钵金】,EX Glyph Crown,mh4g-dex-build7+mh4edit-mit-save-id,10,0
-852,荒天【头冠】,Tempest Crown,mh4g-dex-build7+mh4edit-mit-save-id,10,0
-853,苍天【头冠】,Welkin Crown,mh4g-dex-build7+mh4edit-mit-save-id,10,0
-854,GX煌黑龙头盔（发掘）,GX Escadora Casque,mh4g-armor-name-crosswalk+mh4edit-mit-save-id,0,1
-855,GX煌黑龙头巾（发掘）,GX Escadora Coif,mh4g-armor-name-crosswalk+mh4edit-mit-save-id,0,1
-856,GX恶龙Ｘ头盔（发掘）,GX Dragoncasque X,mh4g-armor-name-crosswalk+mh4edit-mit-save-id,0,1
-857,GX恶龙Ｘ头巾（发掘）,GX Dragoncoif X,mh4g-armor-name-crosswalk+mh4edit-mit-save-id,0,1
-858,星骑士头盔,Star Knight Helm,mh4g-dex-build7+mh4edit-mit-save-id,10,0
-859,星骑士战帽,Star Knight Cap,mh4g-dex-build7+mh4edit-mit-save-id,10,0
-860,【美】愤怒头盔,Helm of Rage,mh4g-dex-build7+mh4edit-mit-save-id,10,0
-861,【美】愤怒战帽,Cap of Rage,mh4g-dex-build7+mh4edit-mit-save-id,10,0
-862,屏障装盔甲,Varia Suit Visor,mh4g-dex-build7+mh4edit-mit-save-id,10,0
-863,【美】零式装假发,Zero Suit Wig,mh4g-dex-build7+mh4edit-mit-save-id,10,0
-864,屏障装望远镜,Varia Suit Scope,mh4g-dex-build7+mh4edit-mit-save-id,10,0
-865,【美】零式装面具,Zero Suit Hairpiece,mh4g-dex-build7+mh4edit-mit-save-id,10,0
-866,屏障装盔甲,Varia Suit Visor,mh4g-dex-build7+mh4edit-mit-save-id,10,0
-867,零式装脸,Zero Suit Ponytail,mh4g-dex-build7+mh4edit-mit-save-id,10,0
-868,屏障装望远镜,Varia Suit Scope,mh4g-dex-build7+mh4edit-mit-save-id,10,0
-869,【美】零式装面具,Zero Suit Hairpiece,mh4g-dex-build7+mh4edit-mit-save-id,10,0
-870,DUMMY,DUMMY,mh4edit-mit-save-id-en-fallback,0,0
-871,DUMMY,DUMMY,mh4edit-mit-save-id-en-fallback,0,0
-872,团长帽子Ｘ,Hawkhat X,mh4g-dex-build7+mh4edit-mit-save-id,9,0
-873,看板娘头罩Ｘ,Lecturer's Hood X,mh4g-dex-build7+mh4edit-mit-save-id,9,0
-874,团长战帽Ｘ,Hawkcap X,mh4g-dex-build7+mh4edit-mit-save-id,9,0
-875,看板娘战帽Ｘ,Lecturer's Cap X,mh4g-dex-build7+mh4edit-mit-save-id,9,0
-876,DUMMY,DUMMY,mh4edit-mit-save-id-en-fallback,0,0
-877,DUMMY,DUMMY,mh4edit-mit-save-id-en-fallback,0,0
-878,DUMMY,DUMMY,mh4edit-mit-save-id-en-fallback,0,0
-879,鹰见的耳环,Hawkeye Earring,mh4g-dex-build7+mh4edit-mit-save-id,7,0
-880,增幅的羽饰,Amplifeathers,mh4g-dex-build7+mh4edit-mit-save-id,9,0
-881,职工的眼镜,Craftsman's Specs,mh4g-dex-build7+mh4edit-mit-save-id,9,0
-882,白猫耳朵之箍Ｘ,Felyne Hairband X,mh4g-dex-build7+mh4edit-mit-save-id,9,0
-883,剑圣的耳环,Sword Saint Earring,mh4g-dex-build7+mh4edit-mit-save-id,9,0
-884,增弹的耳环,Barrage Earring,mh4g-dex-build7+mh4edit-mit-save-id,9,0
-885,混沌的毡房,Chaoshroom,mh4g-dex-build7+mh4edit-mit-save-id,10,0
-886,蓝速龙伪装,Velociprey Mask,mh4g-dex-build7+mh4edit-mit-save-id,10,0
-887,白速龙伪装,Giaprey Mask,mh4g-dex-build7+mh4edit-mit-save-id,10,0
-888,黄速龙伪装,Genprey Mask,mh4g-dex-build7+mh4edit-mit-save-id,10,0
-889,苔藓伪装,Mosswine Mask,mh4g-dex-build7+mh4edit-mit-save-id,10,0
-890,大野猪伪装,Bulldrome Mask,mh4g-dex-build7+mh4edit-mit-save-id,10,0
-891,黑狼鸟伪装,Garuga Mask,mh4g-dex-build7+mh4edit-mit-save-id,10,0
-892,白猫伪装,False Felyne,mh4g-dex-build7+mh4edit-mit-save-id,10,0
-893,橡子头盔,Acorn Helm,mh4g-dex-build7+mh4edit-mit-save-id,10,0
-894,有难猫猫搅乱,Palico Bro,mh4g-dex-build7+mh4edit-mit-save-id,10,0
-895,GX猎人头盔,GX Hunter's Casque,mh4g-dex-build7+mh4edit-mit-save-id,10,0
-896,GX猎人头巾,GX Hunter's Coif,mh4g-dex-build7+mh4edit-mit-save-id,10,0
-897,GX贪婪头盔,GX Esurient Casque,mh4g-dex-build7+mh4edit-mit-save-id,10,0
-898,GX贪婪头巾,GX Esurient Coif,mh4g-dex-build7+mh4edit-mit-save-id,10,0
-899,GX荒天【光冠】,GX Tempest Diadem,mh4g-dex-build7+mh4edit-mit-save-id,10,0
-900,GX苍天【光冠】,GX Welkin Diadem,mh4g-dex-build7+mh4edit-mit-save-id,10,0
-901,GX红黑龙头盔Ｚ,GX Fatalis Crimsonhelm,mh4g-dex-build7+mh4edit-mit-save-id,10,0
-902,GX红黑龙头巾Ｚ,GX Fatalis Crimsoncoif,mh4g-dex-build7+mh4edit-mit-save-id,10,0
-903,猎人头盔,Hunter's Helm,mh4g-dex-build7+mh4edit-mit-save-id,1,0
-904,猎人战帽,Hunter's Cap,mh4g-dex-build7+mh4edit-mit-save-id,1,0
-905,猎人头盔,Hunter's Helm,mh4g-dex-build7+mh4edit-mit-save-id,1,0
-906,猎人战帽,Hunter's Cap,mh4g-dex-build7+mh4edit-mit-save-id,1,0
-907,水兽头盔,Ludroth Helm,mh4g-dex-build7+mh4edit-mit-save-id,2,0
-908,水兽战帽,Ludroth Cap,mh4g-dex-build7+mh4edit-mit-save-id,2,0
-909,水兽头盔,Ludroth Helm,mh4g-dex-build7+mh4edit-mit-save-id,2,0
-910,水兽战帽,Ludroth Cap,mh4g-dex-build7+mh4edit-mit-save-id,2,0
-911,合金头盔,Alloy Helm,mh4g-dex-build7+mh4edit-mit-save-id,1,0
-912,合金战帽,Alloy Cap,mh4g-dex-build7+mh4edit-mit-save-id,1,0
-913,合金头盔,Alloy Helm,mh4g-dex-build7+mh4edit-mit-save-id,1,0
-914,合金战帽,Alloy Cap,mh4g-dex-build7+mh4edit-mit-save-id,1,0
-915,毒怪鸟头盔,Gypceros Helm,mh4g-dex-build7+mh4edit-mit-save-id,2,0
-916,毒怪鸟战帽,Gypceros Cap,mh4g-dex-build7+mh4edit-mit-save-id,2,0
-917,毒怪鸟头盔,Gypceros Helm,mh4g-dex-build7+mh4edit-mit-save-id,2,0
-918,毒怪鸟战帽,Gypceros Cap,mh4g-dex-build7+mh4edit-mit-save-id,2,0
-919,电龙头盔,Khezu Helm,mh4g-dex-build7+mh4edit-mit-save-id,2,0
-920,电龙战帽,Khezu Cap,mh4g-dex-build7+mh4edit-mit-save-id,2,0
-921,电龙头盔,Khezu Helm,mh4g-dex-build7+mh4edit-mit-save-id,2,0
-922,电龙战帽,Khezu Cap,mh4g-dex-build7+mh4edit-mit-save-id,2,0
-923,铸锭头盔,Ingot Helm,mh4g-dex-build7+mh4edit-mit-save-id,3,0
-924,铸锭战帽,Ingot Cap,mh4g-dex-build7+mh4edit-mit-save-id,3,0
-925,铸锭头盔,Ingot Helm,mh4g-dex-build7+mh4edit-mit-save-id,3,0
-926,铸锭战帽,Ingot Cap,mh4g-dex-build7+mh4edit-mit-save-id,3,0
-927,雌火龙头盔,Rathian Helm,mh4g-dex-build7+mh4edit-mit-save-id,2,0
-928,雌火龙战帽,Rathian Cap,mh4g-dex-build7+mh4edit-mit-save-id,2,0
-929,海龙头盔,Lagiacrus Helm,mh4g-dex-build7+mh4edit-mit-save-id,6,0
-930,海龙战帽,Lagiacrus Cap,mh4g-dex-build7+mh4edit-mit-save-id,6,0
-931,雄火龙头盔,Rathalos Helm,mh4g-dex-build7+mh4edit-mit-save-id,3,0
-932,雄火龙战帽,Rathalos Cap,mh4g-dex-build7+mh4edit-mit-save-id,3,0
-933,紫毒怪鸟头盔Ｕ,Gypceros Helm U,mh4g-dex-build7+mh4edit-mit-save-id,6,0
-934,紫毒怪鸟战帽Ｕ,Gypceros Cap U,mh4g-dex-build7+mh4edit-mit-save-id,6,0
-935,赤电龙头盔Ｕ,Khezu Helm U,mh4g-dex-build7+mh4edit-mit-save-id,6,0
-936,赤电龙战帽Ｕ,Khezu Cap U,mh4g-dex-build7+mh4edit-mit-save-id,6,0
-937,轰龙头盔,Tigrex Helm,mh4g-dex-build7+mh4edit-mit-save-id,3,0
-938,轰龙战帽,Tigrex Cap,mh4g-dex-build7+mh4edit-mit-save-id,3,0
-939,麒麟头笛,Kirin Horn,mh4g-dex-build7+mh4edit-mit-save-id,3,0
-940,麒麟头冠,Kirin Crest,mh4g-dex-build7+mh4edit-mit-save-id,3,0
-941,麒麟头笛,Kirin Horn,mh4g-dex-build7+mh4edit-mit-save-id,3,0
-942,麒麟头冠,Kirin Crest,mh4g-dex-build7+mh4edit-mit-save-id,3,0
-943,神秘头盔Ｓ,Artian Helm S,mh4g-dex-build7+mh4edit-mit-save-id,5,0
-944,神秘战帽Ｓ,Artian Cap S,mh4g-dex-build7+mh4edit-mit-save-id,5,0
-945,镰蟹头盔,Ceanataur Helm,mh4g-dex-build7+mh4edit-mit-save-id,2,0
-946,镰蟹战帽,Ceanataur Cap,mh4g-dex-build7+mh4edit-mit-save-id,2,0
-947,镰蟹头盔,Ceanataur Helm,mh4g-dex-build7+mh4edit-mit-save-id,2,0
-948,镰蟹战帽,Ceanataur Cap,mh4g-dex-build7+mh4edit-mit-save-id,2,0
-949,残阳【面兜】,Gloaming Helm,mh4g-dex-build7+mh4edit-mit-save-id,3,0
-950,东云【阵笠】,Dayspring Kasa,mh4g-dex-build7+mh4edit-mit-save-id,3,0
-951,常磐【面兜】,Adamance Helm,mh4g-dex-build7+mh4edit-mit-save-id,3,0
-952,八千代【头冠】,Epoch Helm,mh4g-dex-build7+mh4edit-mit-save-id,3,0
-953,狱狼龙头盔Ｕ,Zinogre Helm U,mh4g-dex-build7+mh4edit-mit-save-id,6,0
-954,狱狼龙战帽Ｕ,Zinogre Cap U,mh4g-dex-build7+mh4edit-mit-save-id,6,0
-955,黑轰龙头盔Ｕ,Tigrex Helm U,mh4g-dex-build7+mh4edit-mit-save-id,6,0
-956,黑轰龙战帽Ｕ,Tigrex Cap U,mh4g-dex-build7+mh4edit-mit-save-id,6,0
-957,黑蚀龙头盔,Gore Helm,mh4g-dex-build7+mh4edit-mit-save-id,3,0
-958,黑蚀龙战帽,Gore Cap,mh4g-dex-build7+mh4edit-mit-save-id,3,0
-959,晓丸【面兜】,Auroros Helm,mh4g-dex-build7+mh4edit-mit-save-id,3,0
-960,曙丸【乌帽子】,Genesis Headpiece,mh4g-dex-build7+mh4edit-mit-save-id,3,0
-961,凛【钵金】,Borealis Crown,mh4g-dex-build7+mh4edit-mit-save-id,3,0
-962,妖艳【钵金】,Glyph Crown,mh4g-dex-build7+mh4edit-mit-save-id,3,0
-963,冰麒麟头笛Ｕ,Kirin Horn U,mh4g-dex-build7+mh4edit-mit-save-id,7,0
-964,冰麒麟头冠Ｕ,Kirin Crest U,mh4g-dex-build7+mh4edit-mit-save-id,7,0
-965,冰麒麟头笛Ｕ,Kirin Horn U,mh4g-dex-build7+mh4edit-mit-save-id,7,0
-966,冰麒麟头冠Ｕ,Kirin Crest U,mh4g-dex-build7+mh4edit-mit-save-id,7,0
-967,贪婪头盔,Esurient Helm,mh4g-dex-build7+mh4edit-mit-save-id,7,0
-968,贪婪战帽,Esurient Cap,mh4g-dex-build7+mh4edit-mit-save-id,7,0
-969,一角龙头盔（发掘）,Monoblos Helm,mh4g-armor-name-crosswalk+mh4edit-mit-save-id,0,1
-970,一角龙战帽（发掘）,Monoblos Cap,mh4g-armor-name-crosswalk+mh4edit-mit-save-id,0,1
-971,甲虫头盔（发掘）,Hornet Helm,mh4g-armor-name-crosswalk+mh4edit-mit-save-id,0,1
-972,甲虫战帽（发掘）,Hornet Cap,mh4g-armor-name-crosswalk+mh4edit-mit-save-id,0,1
-973,毒狗龙头盔（发掘）,Wroggi Hat,mh4g-armor-name-crosswalk+mh4edit-mit-save-id,0,1
-974,毒狗龙战帽（发掘）,Wroggi Cap,mh4g-armor-name-crosswalk+mh4edit-mit-save-id,0,1
-975,白一角龙头盔,Monodevil Helm,mh4g-dex-build7+mh4edit-mit-save-id,9,0
-976,白一角龙战帽,Monodevil Cap,mh4g-dex-build7+mh4edit-mit-save-id,9,0
-977,角龙头盔,Diablos Helm,mh4g-dex-build7+mh4edit-mit-save-id,3,0
-978,角龙战帽,Diablos Cap,mh4g-dex-build7+mh4edit-mit-save-id,3,0
-979,毒怪龙头盔（发掘）,Gigginox Helm,mh4g-armor-name-crosswalk+mh4edit-mit-save-id,0,1
-980,毒怪龙战帽（发掘）,Gigginox Cap,mh4g-armor-name-crosswalk+mh4edit-mit-save-id,0,1
-981,死神头盔（发掘）,Death Stench Brain,mh4g-armor-name-crosswalk+mh4edit-mit-save-id,0,1
-982,死神战帽（发掘）,Death Stench Soul,mh4g-armor-name-crosswalk+mh4edit-mit-save-id,0,1
-983,大马士革头盔（发掘）,Damascus Helm,mh4g-armor-name-crosswalk+mh4edit-mit-save-id,0,1
-984,大马士革战帽（发掘）,Damascus Cap,mh4g-armor-name-crosswalk+mh4edit-mit-save-id,0,1
-985,DUMMY,DUMMY,mh4edit-mit-save-id-en-fallback,0,0
-986,DUMMY,DUMMY,mh4edit-mit-save-id-en-fallback,0,0
+0,无装备,None,mh4g-core-common-game-array,0,0
+1,勇气头盔,Derring Headgear,mh4g-core-common-game-array+mh4g-dex-build7+mh4edit-mit-save-id,1,0
+2,勇气头盔Ｓ,Derring Helm S,mh4g-core-common-game-array+mh4g-dex-build7+mh4edit-mit-save-id,4,0
+3,勇气战帽Ｓ,Derring Cap S,mh4g-core-common-game-array+mh4g-dex-build7+mh4edit-mit-save-id,4,0
+4,轻皮头盔,Leather Headgear,mh4g-core-common-game-array+mh4g-dex-build7+mh4edit-mit-save-id,1,0
+5,轻皮头盔Ｓ,Leather Helm S,mh4g-core-common-game-array+mh4g-dex-build7+mh4edit-mit-save-id,4,0
+6,轻皮战帽Ｓ,Leather Cap S,mh4g-core-common-game-array+mh4g-dex-build7+mh4edit-mit-save-id,4,0
+7,锁链头盔,Chainmail Headgear,mh4g-core-common-game-array+mh4g-dex-build7+mh4edit-mit-save-id,1,0
+8,锁链头盔Ｓ,Chainmail Helm S,mh4g-core-common-game-array+mh4g-dex-build7+mh4edit-mit-save-id,4,0
+9,锁链战帽Ｓ,Chainmail Cap S,mh4g-core-common-game-array+mh4g-dex-build7+mh4edit-mit-save-id,4,0
+10,猎人头盔,Hunter's Helm,mh4g-core-common-game-array+mh4g-dex-build7+mh4edit-mit-save-id,1,0
+11,猎人战帽,Hunter's Cap,mh4g-core-common-game-array+mh4g-dex-build7+mh4edit-mit-save-id,1,0
+12,猎人头盔Ｓ,Hunter's Helm S,mh4g-core-common-game-array+mh4g-dex-build7+mh4edit-mit-save-id,4,0
+13,猎人战帽Ｓ,Hunter's Cap S,mh4g-core-common-game-array+mh4g-dex-build7+mh4edit-mit-save-id,4,0
+14,猎人头盔,Hunter's Helm,mh4g-core-common-game-array+mh4g-dex-build7+mh4edit-mit-save-id,1,0
+15,猎人战帽,Hunter's Cap,mh4g-core-common-game-array+mh4g-dex-build7+mh4edit-mit-save-id,1,0
+16,骨制头盔,Bone Helm,mh4g-core-common-game-array+mh4g-dex-build7+mh4edit-mit-save-id,1,0
+17,骨制战帽,Bone Cap,mh4g-core-common-game-array+mh4g-dex-build7+mh4edit-mit-save-id,1,0
+18,骨制头盔Ｓ,Bone Helm S,mh4g-core-common-game-array+mh4g-dex-build7+mh4edit-mit-save-id,4,0
+19,骨制战帽Ｓ,Bone Cap S,mh4g-core-common-game-array+mh4g-dex-build7+mh4edit-mit-save-id,4,0
+20,合金头盔,Alloy Helm,mh4g-core-common-game-array+mh4g-dex-build7+mh4edit-mit-save-id,1,0
+21,合金战帽,Alloy Cap,mh4g-core-common-game-array+mh4g-dex-build7+mh4edit-mit-save-id,1,0
+22,合金头盔Ｓ,Alloy Helm S,mh4g-core-common-game-array+mh4g-dex-build7+mh4edit-mit-save-id,4,0
+23,合金战帽Ｓ,Alloy Cap S,mh4g-core-common-game-array+mh4g-dex-build7+mh4edit-mit-save-id,4,0
+24,合金头盔,Alloy Helm,mh4g-core-common-game-array+mh4g-dex-build7+mh4edit-mit-save-id,1,0
+25,合金战帽,Alloy Cap,mh4g-core-common-game-array+mh4g-dex-build7+mh4edit-mit-save-id,1,0
+26,狗龙头盔,Jaggi Helm,mh4g-core-common-game-array+mh4g-dex-build7+mh4edit-mit-save-id,2,0
+27,狗龙战帽,Jaggi Cap,mh4g-core-common-game-array+mh4g-dex-build7+mh4edit-mit-save-id,2,0
+28,狗龙头盔Ｓ,Jaggi Helm S,mh4g-core-common-game-array+mh4g-dex-build7+mh4edit-mit-save-id,4,0
+29,狗龙战帽Ｓ,Jaggi Cap S,mh4g-core-common-game-array+mh4g-dex-build7+mh4edit-mit-save-id,4,0
+30,水兽头盔,Ludroth Helm,mh4g-core-common-game-array+mh4g-dex-build7+mh4edit-mit-save-id,2,0
+31,水兽战帽,Ludroth Cap,mh4g-core-common-game-array+mh4g-dex-build7+mh4edit-mit-save-id,2,0
+32,水兽头盔,Ludroth Helm,mh4g-core-common-game-array+mh4g-dex-build7+mh4edit-mit-save-id,2,0
+33,水兽战帽,Ludroth Cap,mh4g-core-common-game-array+mh4g-dex-build7+mh4edit-mit-save-id,2,0
+34,草食龙头盔,Rhenoplos Helm,mh4g-core-common-game-array+mh4g-dex-build7+mh4edit-mit-save-id,2,0
+35,草食龙战帽,Rhenoplos Cap,mh4g-core-common-game-array+mh4g-dex-build7+mh4edit-mit-save-id,2,0
+36,草食龙头盔Ｓ,Rhenoplos Helm S,mh4g-core-common-game-array+mh4g-dex-build7+mh4edit-mit-save-id,4,0
+37,草食龙战帽Ｓ,Rhenoplos Cap S,mh4g-core-common-game-array+mh4g-dex-build7+mh4edit-mit-save-id,4,0
+38,飞甲虫贵族帽,Bnahabra Hat,mh4g-core-common-game-array+mh4g-dex-build7+mh4edit-mit-save-id,2,0
+39,飞甲虫头饰,Bnahabra Headpiece,mh4g-core-common-game-array+mh4g-dex-build7+mh4edit-mit-save-id,2,0
+40,飞甲虫贵族帽Ｓ,Bnahabra Hat S,mh4g-core-common-game-array+mh4g-dex-build7+mh4edit-mit-save-id,4,0
+41,飞甲虫头饰Ｓ,Bnahabra Headpiece S,mh4g-core-common-game-array+mh4g-dex-build7+mh4edit-mit-save-id,4,0
+42,土砂龙头盔,Barroth Helm,mh4g-core-common-game-array+mh4g-dex-build7+mh4edit-mit-save-id,2,0
+43,土砂龙战帽,Barroth Cap,mh4g-core-common-game-array+mh4g-dex-build7+mh4edit-mit-save-id,2,0
+44,雌火龙头盔,Rathian Helm,mh4g-core-common-game-array+mh4g-dex-build7+mh4edit-mit-save-id,2,0
+45,雌火龙战帽,Rathian Cap,mh4g-core-common-game-array+mh4g-dex-build7+mh4edit-mit-save-id,2,0
+46,雌火龙头盔Ｓ,Rathian Helm S,mh4g-core-common-game-array+mh4g-dex-build7+mh4edit-mit-save-id,5,0
+47,雌火龙战帽Ｓ,Rathian Cap S,mh4g-core-common-game-array+mh4g-dex-build7+mh4edit-mit-save-id,5,0
+48,樱火龙头盔,Rath Heart Helm,mh4g-core-common-game-array+mh4g-dex-build7+mh4edit-mit-save-id,6,0
+49,樱火龙战帽,Rath Heart Cap,mh4g-core-common-game-array+mh4g-dex-build7+mh4edit-mit-save-id,6,0
+50,金火龙头盔,Golden Lunehelm,mh4g-core-common-game-array+mh4g-dex-build7+mh4edit-mit-save-id,7,0
+51,金火龙战帽,Golden Lunecap,mh4g-core-common-game-array+mh4g-dex-build7+mh4edit-mit-save-id,7,0
+52,雌火龙头盔,Rathian Helm,mh4g-core-common-game-array+mh4g-dex-build7+mh4edit-mit-save-id,2,0
+53,雌火龙战帽,Rathian Cap,mh4g-core-common-game-array+mh4g-dex-build7+mh4edit-mit-save-id,2,0
+54,樱火龙头盔,Rath Heart Helm,mh4g-core-common-game-array+mh4g-dex-build7+mh4edit-mit-save-id,6,0
+55,樱火龙战帽,Rath Heart Cap,mh4g-core-common-game-array+mh4g-dex-build7+mh4edit-mit-save-id,6,0
+56,EX雌火龙头盔,EX Rathian Helm,mh4g-core-common-game-array+mh4g-dex-build7+mh4edit-mit-save-id,7,0
+57,EX雌火龙战帽,EX Rathian Cap,mh4g-core-common-game-array+mh4g-dex-build7+mh4edit-mit-save-id,7,0
+58,雄火龙头盔,Rathalos Helm,mh4g-core-common-game-array+mh4g-dex-build7+mh4edit-mit-save-id,3,0
+59,雄火龙战帽,Rathalos Cap,mh4g-core-common-game-array+mh4g-dex-build7+mh4edit-mit-save-id,3,0
+60,雄火龙头盔Ｓ,Rathalos Helm S,mh4g-core-common-game-array+mh4g-dex-build7+mh4edit-mit-save-id,5,0
+61,雄火龙战帽Ｓ,Rathalos Cap S,mh4g-core-common-game-array+mh4g-dex-build7+mh4edit-mit-save-id,5,0
+62,苍火龙头盔,Rath Soul Helm,mh4g-core-common-game-array+mh4g-dex-build7+mh4edit-mit-save-id,6,0
+63,苍火龙战帽,Rath Soul Cap,mh4g-core-common-game-array+mh4g-dex-build7+mh4edit-mit-save-id,6,0
+64,银火龙头盔,Silver Solhelm,mh4g-core-common-game-array+mh4g-dex-build7+mh4edit-mit-save-id,7,0
+65,银火龙战帽,Silver Solcap,mh4g-core-common-game-array+mh4g-dex-build7+mh4edit-mit-save-id,7,0
+66,雄火龙头盔,Rathalos Helm,mh4g-core-common-game-array+mh4g-dex-build7+mh4edit-mit-save-id,3,0
+67,雄火龙战帽,Rathalos Cap,mh4g-core-common-game-array+mh4g-dex-build7+mh4edit-mit-save-id,3,0
+68,苍火龙头盔,Rath Soul Helm,mh4g-core-common-game-array+mh4g-dex-build7+mh4edit-mit-save-id,6,0
+69,苍火龙战帽,Rath Soul Cap,mh4g-core-common-game-array+mh4g-dex-build7+mh4edit-mit-save-id,6,0
+70,银火龙头盔,Silver Solhelm,mh4g-core-common-game-array+mh4g-dex-build7+mh4edit-mit-save-id,7,0
+71,银火龙战帽,Silver Solcap,mh4g-core-common-game-array+mh4g-dex-build7+mh4edit-mit-save-id,7,0
+72,EX雄火龙头盔,EX Rathalos Helm,mh4g-core-common-game-array+mh4g-dex-build7+mh4edit-mit-save-id,7,0
+73,EX雄火龙战帽,EX Rathalos Cap,mh4g-core-common-game-array+mh4g-dex-build7+mh4edit-mit-save-id,7,0
+74,角龙头盔,Diablos Helm,mh4g-core-common-game-array+mh4g-dex-build7+mh4edit-mit-save-id,3,0
+75,角龙战帽,Diablos Cap,mh4g-core-common-game-array+mh4g-dex-build7+mh4edit-mit-save-id,3,0
+76,爆锤龙头盔,Uragaan Helm,mh4g-core-common-game-array+mh4g-dex-build7+mh4edit-mit-save-id,3,0
+77,爆锤龙战帽,Uragaan Cap,mh4g-core-common-game-array+mh4g-dex-build7+mh4edit-mit-save-id,3,0
+78,恐暴龙头盔,Vangis Helm,mh4g-core-common-game-array+mh4g-dex-build7+mh4edit-mit-save-id,6,0
+79,恐暴龙战帽,Vangis Cap,mh4g-core-common-game-array+mh4g-dex-build7+mh4edit-mit-save-id,6,0
+80,残忍头盔,Esurient Helm,mh4g-core-common-game-array+mh4g-dex-build7+mh4edit-mit-save-id,7,0
+81,残忍战帽,Esurient Cap,mh4g-core-common-game-array+mh4g-dex-build7+mh4edit-mit-save-id,7,0
+82,残忍头盔,Esurient Helm,mh4g-core-common-game-array+mh4g-dex-build7+mh4edit-mit-save-id,7,0
+83,残忍战帽,Esurient Cap,mh4g-core-common-game-array+mh4g-dex-build7+mh4edit-mit-save-id,7,0
+84,残阳【兜】,Gloaming Helm,mh4g-core-common-game-array+mh4g-dex-build7+mh4edit-mit-save-id,3,0
+85,常盘【兜】,Adamance Helm,mh4g-core-common-game-array+mh4g-dex-build7+mh4edit-mit-save-id,3,0
+86,东云【阵笠】,Dayspring Kasa,mh4g-core-common-game-array+mh4g-dex-build7+mh4edit-mit-save-id,3,0
+87,八千代【冠】,Epoch Helm,mh4g-core-common-game-array+mh4g-dex-build7+mh4edit-mit-save-id,3,0
+88,残阳・霸【兜】,Gloaming Archhelm,mh4g-core-common-game-array+mh4g-dex-build7+mh4edit-mit-save-id,7,0
+89,常盘・霸【兜】,Adamance Archhelm,mh4g-core-common-game-array+mh4g-dex-build7+mh4edit-mit-save-id,7,0
+90,东云・霸【阵笠】,Dayspring Archkasa,mh4g-core-common-game-array+mh4g-dex-build7+mh4edit-mit-save-id,7,0
+91,八千代・霸【冠】,Epoch Archhelm,mh4g-core-common-game-array+mh4g-dex-build7+mh4edit-mit-save-id,7,0
+92,残阳【兜】,Gloaming Helm,mh4g-core-common-game-array+mh4g-dex-build7+mh4edit-mit-save-id,3,0
+93,常盘【兜】,Adamance Helm,mh4g-core-common-game-array+mh4g-dex-build7+mh4edit-mit-save-id,3,0
+94,东云【阵笠】,Dayspring Kasa,mh4g-core-common-game-array+mh4g-dex-build7+mh4edit-mit-save-id,3,0
+95,八千代【冠】,Epoch Helm,mh4g-core-common-game-array+mh4g-dex-build7+mh4edit-mit-save-id,3,0
+96,水龙头盔,Plesioth Helm,mh4g-core-common-game-array+mh4g-dex-build7+mh4edit-mit-save-id,4,0
+97,水龙战帽,Plesioth Cap,mh4g-core-common-game-array+mh4g-dex-build7+mh4edit-mit-save-id,4,0
+98,潜口龙头盔,Nibelsnarf Helm,mh4g-core-common-game-array+mh4g-dex-build7+mh4edit-mit-save-id,2,0
+99,潜口龙战帽,Nibelsnarf Cap,mh4g-core-common-game-array+mh4g-dex-build7+mh4edit-mit-save-id,2,0
+100,尾槌龙头盔,Duramboros Helm,mh4g-core-common-game-array+mh4g-dex-build7+mh4edit-mit-save-id,3,0
+101,尾槌龙战帽,Duramboros Cap,mh4g-core-common-game-array+mh4g-dex-build7+mh4edit-mit-save-id,3,0
+102,青熊头盔,Arzuros Helm,mh4g-core-common-game-array+mh4g-dex-build7+mh4edit-mit-save-id,2,0
+103,青熊战帽,Arzuros Cap,mh4g-core-common-game-array+mh4g-dex-build7+mh4edit-mit-save-id,2,0
+104,白兔头盔,Lagombi Helm,mh4g-core-common-game-array+mh4g-dex-build7+mh4edit-mit-save-id,2,0
+105,白兔战帽,Lagombi Cap,mh4g-core-common-game-array+mh4g-dex-build7+mh4edit-mit-save-id,2,0
+106,白兔头盔Ｓ,Lagombi Helm S,mh4g-core-common-game-array+mh4g-dex-build7+mh4edit-mit-save-id,4,0
+107,白兔战帽Ｓ,Lagombi Cap S,mh4g-core-common-game-array+mh4g-dex-build7+mh4edit-mit-save-id,4,0
+108,垂皮头罩,Slagtoth Hood,mh4g-core-common-game-array+mh4g-dex-build7+mh4edit-mit-save-id,2,0
+109,垂皮头帽,Slagtoth Cowl,mh4g-core-common-game-array+mh4g-dex-build7+mh4edit-mit-save-id,2,0
+110,垂皮头罩Ｓ,Slagtoth Hood S,mh4g-core-common-game-array+mh4g-dex-build7+mh4edit-mit-save-id,4,0
+111,垂皮头帽Ｓ,Slagtoth Cowl S,mh4g-core-common-game-array+mh4g-dex-build7+mh4edit-mit-save-id,4,0
+112,迅龙头盔,Nargacuga Helm,mh4g-core-common-game-array+mh4g-dex-build7+mh4edit-mit-save-id,3,0
+113,迅龙战帽,Nargacuga Cap,mh4g-core-common-game-array+mh4g-dex-build7+mh4edit-mit-save-id,3,0
+114,轰龙头盔,Tigrex Helm,mh4g-core-common-game-array+mh4g-dex-build7+mh4edit-mit-save-id,3,0
+115,轰龙战帽,Tigrex Cap,mh4g-core-common-game-array+mh4g-dex-build7+mh4edit-mit-save-id,3,0
+116,轰龙头盔Ｓ,Tigrex Helm S,mh4g-core-common-game-array+mh4g-dex-build7+mh4edit-mit-save-id,5,0
+117,轰龙战帽Ｓ,Tigrex Cap S,mh4g-core-common-game-array+mh4g-dex-build7+mh4edit-mit-save-id,5,0
+118,黑轰龙头盔Ｕ,Tigrex Helm U,mh4g-core-common-game-array+mh4g-dex-build7+mh4edit-mit-save-id,6,0
+119,黑轰龙战帽Ｕ,Tigrex Cap U,mh4g-core-common-game-array+mh4g-dex-build7+mh4edit-mit-save-id,6,0
+120,大轰龙头盔,Excello Helm,mh4g-core-common-game-array+mh4g-dex-build7+mh4edit-mit-save-id,7,0
+121,大轰龙战帽,Excello Cap,mh4g-core-common-game-array+mh4g-dex-build7+mh4edit-mit-save-id,7,0
+122,EX轰龙头盔,EX Tigrex Helm,mh4g-core-common-game-array+mh4g-dex-build7+mh4edit-mit-save-id,7,0
+123,EX轰龙战帽,EX Tigrex Cap,mh4g-core-common-game-array+mh4g-dex-build7+mh4edit-mit-save-id,7,0
+124,轰龙头盔,Tigrex Helm,mh4g-core-common-game-array+mh4g-dex-build7+mh4edit-mit-save-id,3,0
+125,轰龙战帽,Tigrex Cap,mh4g-core-common-game-array+mh4g-dex-build7+mh4edit-mit-save-id,3,0
+126,黑轰龙头盔Ｕ,Tigrex Helm U,mh4g-core-common-game-array+mh4g-dex-build7+mh4edit-mit-save-id,6,0
+127,黑轰龙战帽Ｕ,Tigrex Cap U,mh4g-core-common-game-array+mh4g-dex-build7+mh4edit-mit-save-id,6,0
+128,碎龙头盔,Brachydios Helm,mh4g-core-common-game-array+mh4g-dex-build7+mh4edit-mit-save-id,3,0
+129,碎龙战帽,Brachydios Cap,mh4g-core-common-game-array+mh4g-dex-build7+mh4edit-mit-save-id,3,0
+130,碎龙头盔Ｓ,Brachydios Helm S,mh4g-core-common-game-array+mh4g-dex-build7+mh4edit-mit-save-id,6,0
+131,碎龙战帽Ｓ,Brachydios Cap S,mh4g-core-common-game-array+mh4g-dex-build7+mh4edit-mit-save-id,6,0
+132,霸龙头盔,Akantor Mask,mh4g-core-common-game-array+mh4g-dex-build7+mh4edit-mit-save-id,7,0
+133,霸龙战帽,Akantor Fangs,mh4g-core-common-game-array+mh4g-dex-build7+mh4edit-mit-save-id,7,0
+134,霸龙头盔,Akantor Mask,mh4g-core-common-game-array+mh4g-dex-build7+mh4edit-mit-save-id,7,0
+135,霸龙战帽,Akantor Fangs,mh4g-core-common-game-array+mh4g-dex-build7+mh4edit-mit-save-id,7,0
+136,雷狼龙头盔,Zinogre Helm,mh4g-core-common-game-array+mh4g-dex-build7+mh4edit-mit-save-id,3,0
+137,雷狼龙战帽,Zinogre Cap,mh4g-core-common-game-array+mh4g-dex-build7+mh4edit-mit-save-id,3,0
+138,雷狼龙头盔Ｓ,Zinogre Helm S,mh4g-core-common-game-array+mh4g-dex-build7+mh4edit-mit-save-id,5,0
+139,雷狼龙战帽Ｓ,Zinogre Cap S,mh4g-core-common-game-array+mh4g-dex-build7+mh4edit-mit-save-id,5,0
+140,雷狼龙头盔Ｕ,Zinogre Helm U,mh4g-core-common-game-array+mh4g-dex-build7+mh4edit-mit-save-id,6,0
+141,雷狼龙战帽Ｕ,Zinogre Cap U,mh4g-core-common-game-array+mh4g-dex-build7+mh4edit-mit-save-id,6,0
+142,雷狼龙头盔Ｕ,Zinogre Helm U,mh4g-core-common-game-array+mh4g-dex-build7+mh4edit-mit-save-id,6,0
+143,雷狼龙战帽Ｕ,Zinogre Cap U,mh4g-core-common-game-array+mh4g-dex-build7+mh4edit-mit-save-id,6,0
+144,EX炎王王冠,EX Kaiser Crown,mh4g-core-common-game-array+mh4g-dex-build7+mh4edit-mit-save-id,7,0
+145,EX炎王面具,EX Kaiser Mask,mh4g-core-common-game-array+mh4g-dex-build7+mh4edit-mit-save-id,7,0
+146,奇猿狐头盔,Kecha Helm,mh4g-core-common-game-array+mh4g-dex-build7+mh4edit-mit-save-id,2,0
+147,奇猿狐战帽,Kecha Cap,mh4g-core-common-game-array+mh4g-dex-build7+mh4edit-mit-save-id,2,0
+148,奇猿狐头盔Ｓ,Kecha Helm S,mh4g-core-common-game-array+mh4g-dex-build7+mh4edit-mit-save-id,4,0
+149,奇猿狐战帽Ｓ,Kecha Cap S,mh4g-core-common-game-array+mh4g-dex-build7+mh4edit-mit-save-id,4,0
+150,黑蚀龙头盔,Gore Helm,mh4g-core-common-game-array+mh4g-dex-build7+mh4edit-mit-save-id,3,0
+151,黑蚀龙战帽,Gore Cap,mh4g-core-common-game-array+mh4g-dex-build7+mh4edit-mit-save-id,3,0
+152,黑蚀龙头盔Ｓ,Gore Helm S,mh4g-core-common-game-array+mh4g-dex-build7+mh4edit-mit-save-id,6,0
+153,黑蚀龙战帽Ｓ,Gore Cap S,mh4g-core-common-game-array+mh4g-dex-build7+mh4edit-mit-save-id,6,0
+154,黑蚀龙头盔,Gore Helm,mh4g-core-common-game-array+mh4g-dex-build7+mh4edit-mit-save-id,3,0
+155,黑蚀龙战帽,Gore Cap,mh4g-core-common-game-array+mh4g-dex-build7+mh4edit-mit-save-id,3,0
+156,鬼蛙头盔,Tetsucabra Helm,mh4g-core-common-game-array+mh4g-dex-build7+mh4edit-mit-save-id,2,0
+157,鬼蛙战帽,Tetsucabra Cap,mh4g-core-common-game-array+mh4g-dex-build7+mh4edit-mit-save-id,2,0
+158,鬼蛙头盔Ｓ,Tetsucabra Helm S,mh4g-core-common-game-array+mh4g-dex-build7+mh4edit-mit-save-id,5,0
+159,鬼蛙战帽Ｓ,Tetsucabra Cap S,mh4g-core-common-game-array+mh4g-dex-build7+mh4edit-mit-save-id,5,0
+160,影蜘蛛头盔,Nerscylla Helm,mh4g-core-common-game-array+mh4g-dex-build7+mh4edit-mit-save-id,2,0
+161,影蜘蛛战帽,Nerscylla Cap,mh4g-core-common-game-array+mh4g-dex-build7+mh4edit-mit-save-id,2,0
+162,影蜘蛛头盔Ｓ,Nerscylla Helm S,mh4g-core-common-game-array+mh4g-dex-build7+mh4edit-mit-save-id,5,0
+163,影蜘蛛战帽Ｓ,Nerscylla Cap S,mh4g-core-common-game-array+mh4g-dex-build7+mh4edit-mit-save-id,5,0
+164,绞蛇龙头盔,Najarala Helm,mh4g-core-common-game-array+mh4g-dex-build7+mh4edit-mit-save-id,2,0
+165,绞蛇龙战帽,Najarala Cap,mh4g-core-common-game-array+mh4g-dex-build7+mh4edit-mit-save-id,2,0
+166,绞蛇龙头盔Ｓ,Najarala Helm S,mh4g-core-common-game-array+mh4g-dex-build7+mh4edit-mit-save-id,5,0
+167,绞蛇龙战帽Ｓ,Najarala Cap S,mh4g-core-common-game-array+mh4g-dex-build7+mh4edit-mit-save-id,5,0
+168,黑狼鸟头盔,Garuga Helm,mh4g-core-common-game-array+mh4g-dex-build7+mh4edit-mit-save-id,3,0
+169,黑狼鸟战帽,Garuga Cap,mh4g-core-common-game-array+mh4g-dex-build7+mh4edit-mit-save-id,3,0
+170,黑狼鸟头盔Ｓ,Garuga Helm S,mh4g-core-common-game-array+mh4g-dex-build7+mh4edit-mit-save-id,5,0
+171,黑狼鸟战帽Ｓ,Garuga Cap S,mh4g-core-common-game-array+mh4g-dex-build7+mh4edit-mit-save-id,5,0
+172,岩龙头盔,Basarios Helm,mh4g-core-common-game-array+mh4g-dex-build7+mh4edit-mit-save-id,2,0
+173,岩龙战帽,Basarios Cap,mh4g-core-common-game-array+mh4g-dex-build7+mh4edit-mit-save-id,2,0
+174,岩龙头盔Ｓ,Basarios Helm S,mh4g-core-common-game-array+mh4g-dex-build7+mh4edit-mit-save-id,5,0
+175,岩龙战帽Ｓ,Basarios Cap S,mh4g-core-common-game-array+mh4g-dex-build7+mh4edit-mit-save-id,5,0
+176,岩龙头盔Ｕ,Basarios Helm U,mh4g-core-common-game-array+mh4g-dex-build7+mh4edit-mit-save-id,6,0
+177,岩龙战帽Ｕ,Basarios Cap U,mh4g-core-common-game-array+mh4g-dex-build7+mh4edit-mit-save-id,6,0
+178,战斗头盔,Battle Helm,mh4g-core-common-game-array+mh4g-dex-build7+mh4edit-mit-save-id,2,0
+179,战斗战帽,Battle Cap,mh4g-core-common-game-array+mh4g-dex-build7+mh4edit-mit-save-id,2,0
+180,蓝速龙头盔,Velociprey Helm,mh4g-core-common-game-array+mh4g-dex-build7+mh4edit-mit-save-id,2,0
+181,蓝速龙战帽,Velociprey Cap,mh4g-core-common-game-array+mh4g-dex-build7+mh4edit-mit-save-id,2,0
+182,蓝速龙头盔Ｓ,Velociprey Helm S,mh4g-core-common-game-array+mh4g-dex-build7+mh4edit-mit-save-id,4,0
+183,蓝速龙战帽Ｓ,Velociprey Cap S,mh4g-core-common-game-array+mh4g-dex-build7+mh4edit-mit-save-id,4,0
+184,黄速龙头盔,Genprey Helm,mh4g-core-common-game-array+mh4g-dex-build7+mh4edit-mit-save-id,2,0
+185,黄速龙战帽,Genprey Cap,mh4g-core-common-game-array+mh4g-dex-build7+mh4edit-mit-save-id,2,0
+186,黄速龙头盔Ｓ,Genprey Helm S,mh4g-core-common-game-array+mh4g-dex-build7+mh4edit-mit-save-id,4,0
+187,黄速龙战帽Ｓ,Genprey Cap S,mh4g-core-common-game-array+mh4g-dex-build7+mh4edit-mit-save-id,4,0
+188,红速龙头盔,Ioprey Helm,mh4g-core-common-game-array+mh4g-dex-build7+mh4edit-mit-save-id,2,0
+189,红速龙战帽,Ioprey Cap,mh4g-core-common-game-array+mh4g-dex-build7+mh4edit-mit-save-id,2,0
+190,红速龙头盔Ｓ,Ioprey Helm S,mh4g-core-common-game-array+mh4g-dex-build7+mh4edit-mit-save-id,4,0
+191,红速龙战帽Ｓ,Ioprey Cap S,mh4g-core-common-game-array+mh4g-dex-build7+mh4edit-mit-save-id,4,0
+192,大怪鸟头盔,Kut-Ku Helm,mh4g-core-common-game-array+mh4g-dex-build7+mh4edit-mit-save-id,2,0
+193,大怪鸟战帽,Kut-Ku Cap,mh4g-core-common-game-array+mh4g-dex-build7+mh4edit-mit-save-id,2,0
+194,大怪鸟头盔Ｓ,Kut-Ku Helm S,mh4g-core-common-game-array+mh4g-dex-build7+mh4edit-mit-save-id,4,0
+195,大怪鸟战帽Ｓ,Kut-Ku Cap S,mh4g-core-common-game-array+mh4g-dex-build7+mh4edit-mit-save-id,4,0
+196,大怪物头盔Ｕ,Kut-Ku Helm U,mh4g-core-common-game-array+mh4g-dex-build7+mh4edit-mit-save-id,5,0
+197,大怪鸟战帽Ｕ,Kut-Ku Cap U,mh4g-core-common-game-array+mh4g-dex-build7+mh4edit-mit-save-id,5,0
+198,毒怪鸟头盔,Gypceros Helm,mh4g-core-common-game-array+mh4g-dex-build7+mh4edit-mit-save-id,2,0
+199,毒怪鸟战帽,Gypceros Cap,mh4g-core-common-game-array+mh4g-dex-build7+mh4edit-mit-save-id,2,0
+200,毒怪鸟头盔Ｓ,Gypceros Helm S,mh4g-core-common-game-array+mh4g-dex-build7+mh4edit-mit-save-id,5,0
+201,毒怪鸟战帽Ｓ,Gypceros Cap S,mh4g-core-common-game-array+mh4g-dex-build7+mh4edit-mit-save-id,5,0
+202,毒怪鸟头盔Ｕ,Gypceros Helm U,mh4g-core-common-game-array+mh4g-dex-build7+mh4edit-mit-save-id,6,0
+203,毒怪鸟战帽Ｕ,Gypceros Cap U,mh4g-core-common-game-array+mh4g-dex-build7+mh4edit-mit-save-id,6,0
+204,毒怪鸟头盔,Gypceros Helm,mh4g-core-common-game-array+mh4g-dex-build7+mh4edit-mit-save-id,2,0
+205,毒怪鸟战帽,Gypceros Cap,mh4g-core-common-game-array+mh4g-dex-build7+mh4edit-mit-save-id,2,0
+206,毒怪鸟头盔Ｕ,Gypceros Helm U,mh4g-core-common-game-array+mh4g-dex-build7+mh4edit-mit-save-id,6,0
+207,毒怪鸟战帽Ｕ,Gypceros Cap U,mh4g-core-common-game-array+mh4g-dex-build7+mh4edit-mit-save-id,6,0
+208,桃毛兽头盔,Conga Helm,mh4g-core-common-game-array+mh4g-dex-build7+mh4edit-mit-save-id,2,0
+209,桃毛兽战帽,Conga Cap,mh4g-core-common-game-array+mh4g-dex-build7+mh4edit-mit-save-id,2,0
+210,桃毛兽头盔Ｓ,Conga Helm S,mh4g-core-common-game-array+mh4g-dex-build7+mh4edit-mit-save-id,4,0
+211,桃毛兽战帽Ｓ,Conga Cap S,mh4g-core-common-game-array+mh4g-dex-build7+mh4edit-mit-save-id,4,0
+212,桃毛兽头盔Ｕ,Conga Helm U,mh4g-core-common-game-array+mh4g-dex-build7+mh4edit-mit-save-id,5,0
+213,桃毛兽战帽Ｕ,Conga Cap U,mh4g-core-common-game-array+mh4g-dex-build7+mh4edit-mit-save-id,5,0
+214,铠龙头盔,Gravios Helm,mh4g-core-common-game-array+mh4g-dex-build7+mh4edit-mit-save-id,3,0
+215,铠龙战帽,Gravios Cap,mh4g-core-common-game-array+mh4g-dex-build7+mh4edit-mit-save-id,3,0
+216,铠龙头盔Ｓ,Gravios Helm S,mh4g-core-common-game-array+mh4g-dex-build7+mh4edit-mit-save-id,5,0
+217,铠龙战帽Ｓ,Gravios Cap S,mh4g-core-common-game-array+mh4g-dex-build7+mh4edit-mit-save-id,5,0
+218,铠龙头盔Ｕ,Gravios Helm U,mh4g-core-common-game-array+mh4g-dex-build7+mh4edit-mit-save-id,6,0
+219,铠龙战帽Ｕ,Gravios Cap U,mh4g-core-common-game-array+mh4g-dex-build7+mh4edit-mit-save-id,6,0
+220,电龙头盔,Khezu Helm,mh4g-core-common-game-array+mh4g-dex-build7+mh4edit-mit-save-id,2,0
+221,电龙战帽,Khezu Cap,mh4g-core-common-game-array+mh4g-dex-build7+mh4edit-mit-save-id,2,0
+222,电龙头盔Ｓ,Khezu Helm S,mh4g-core-common-game-array+mh4g-dex-build7+mh4edit-mit-save-id,5,0
+223,电龙战帽Ｓ,Khezu Cap S,mh4g-core-common-game-array+mh4g-dex-build7+mh4edit-mit-save-id,5,0
+224,电龙头盔Ｕ,Khezu Helm U,mh4g-core-common-game-array+mh4g-dex-build7+mh4edit-mit-save-id,6,0
+225,电龙战帽Ｕ,Khezu Cap U,mh4g-core-common-game-array+mh4g-dex-build7+mh4edit-mit-save-id,6,0
+226,电龙头盔,Khezu Helm,mh4g-core-common-game-array+mh4g-dex-build7+mh4edit-mit-save-id,2,0
+227,电龙战帽,Khezu Cap,mh4g-core-common-game-array+mh4g-dex-build7+mh4edit-mit-save-id,2,0
+228,电龙头盔Ｕ,Khezu Helm U,mh4g-core-common-game-array+mh4g-dex-build7+mh4edit-mit-save-id,6,0
+229,电龙战帽Ｕ,Khezu Cap U,mh4g-core-common-game-array+mh4g-dex-build7+mh4edit-mit-save-id,6,0
+230,麒麟之角,Kirin Horn,mh4g-core-common-game-array+mh4g-dex-build7+mh4edit-mit-save-id,3,0
+231,麒麟独角,Kirin Crest,mh4g-core-common-game-array+mh4g-dex-build7+mh4edit-mit-save-id,3,0
+232,麒麟之角Ｓ,Kirin Horn S,mh4g-core-common-game-array+mh4g-dex-build7+mh4edit-mit-save-id,6,0
+233,麒麟独角Ｓ,Kirin Crest S,mh4g-core-common-game-array+mh4g-dex-build7+mh4edit-mit-save-id,6,0
+234,麒麟之角Ｕ,Kirin Horn U,mh4g-core-common-game-array+mh4g-dex-build7+mh4edit-mit-save-id,7,0
+235,麒麟独角Ｕ,Kirin Crest U,mh4g-core-common-game-array+mh4g-dex-build7+mh4edit-mit-save-id,7,0
+236,麒麟之角,Kirin Horn,mh4g-core-common-game-array+mh4g-dex-build7+mh4edit-mit-save-id,3,0
+237,麒麟独角,Kirin Crest,mh4g-core-common-game-array+mh4g-dex-build7+mh4edit-mit-save-id,3,0
+238,麒麟之角Ｕ,Kirin Horn U,mh4g-core-common-game-array+mh4g-dex-build7+mh4edit-mit-save-id,7,0
+239,麒麟独角Ｕ,Kirin Crest U,mh4g-core-common-game-array+mh4g-dex-build7+mh4edit-mit-save-id,7,0
+240,钢龙战盔,Kushala Glare,mh4g-core-common-game-array+mh4g-dex-build7+mh4edit-mit-save-id,7,0
+241,钢龙头盔,Kushala Snarl,mh4g-core-common-game-array+mh4g-dex-build7+mh4edit-mit-save-id,7,0
+242,EX钢龙战盔,EX Kushala Glare,mh4g-core-common-game-array+mh4g-dex-build7+mh4edit-mit-save-id,7,0
+243,EX钢龙头盔,EX Kushala Snarl,mh4g-core-common-game-array+mh4g-dex-build7+mh4edit-mit-save-id,7,0
+244,钢龙战盔,Kushala Glare,mh4g-core-common-game-array+mh4g-dex-build7+mh4edit-mit-save-id,7,0
+245,钢龙头盔,Kushala Snarl,mh4g-core-common-game-array+mh4g-dex-build7+mh4edit-mit-save-id,7,0
+246,女帝扇盔,Empress Crown,mh4g-core-common-game-array+mh4g-dex-build7+mh4edit-mit-save-id,7,0
+247,女帝面具,Empress Mask,mh4g-core-common-game-array+mh4g-dex-build7+mh4edit-mit-save-id,7,0
+248,镰蟹头盔,Ceanataur Helm,mh4g-core-common-game-array+mh4g-dex-build7+mh4edit-mit-save-id,2,0
+249,镰蟹战帽,Ceanataur Cap,mh4g-core-common-game-array+mh4g-dex-build7+mh4edit-mit-save-id,2,0
+250,镰蟹头盔,Ceanataur Helm,mh4g-core-common-game-array+mh4g-dex-build7+mh4edit-mit-save-id,2,0
+251,镰蟹战帽,Ceanataur Cap,mh4g-core-common-game-array+mh4g-dex-build7+mh4edit-mit-save-id,2,0
+252,晓丸【兜】,Auroros Helm,mh4g-core-common-game-array+mh4g-dex-build7+mh4edit-mit-save-id,3,0
+253,凛【钵金】,Borealis Crown,mh4g-core-common-game-array+mh4g-dex-build7+mh4edit-mit-save-id,3,0
+254,曙丸【乌帽子】,Genesis Headpiece,mh4g-core-common-game-array+mh4g-dex-build7+mh4edit-mit-save-id,3,0
+255,艳【钵金】,Glyph Crown,mh4g-core-common-game-array+mh4g-dex-build7+mh4edit-mit-save-id,3,0
+256,晓丸【兜】,Auroros Helm,mh4g-core-common-game-array+mh4g-dex-build7+mh4edit-mit-save-id,3,0
+257,凛【钵金】,Borealis Crown,mh4g-core-common-game-array+mh4g-dex-build7+mh4edit-mit-save-id,3,0
+258,曙丸【乌帽子】,Genesis Headpiece,mh4g-core-common-game-array+mh4g-dex-build7+mh4edit-mit-save-id,3,0
+259,艳【钵金】,Glyph Crown,mh4g-core-common-game-array+mh4g-dex-build7+mh4edit-mit-save-id,3,0
+260,海龙头盔,Lava Helm,mh4g-core-common-game-array+mh4g-dex-build7+mh4edit-mit-save-id,3,0
+261,海龙战帽,Lava Cap,mh4g-core-common-game-array+mh4g-dex-build7+mh4edit-mit-save-id,3,0
+262,翼蛇龙之头,Remobra Headgear,mh4g-core-common-game-array+mh4g-dex-build7+mh4edit-mit-save-id,2,0
+263,翼蛇龙之脸,Remobra Mask,mh4g-core-common-game-array+mh4g-dex-build7+mh4edit-mit-save-id,2,0
+264,翼蛇龙之头Ｓ,Remobra Headgear S,mh4g-core-common-game-array+mh4g-dex-build7+mh4edit-mit-save-id,4,0
+265,翼蛇龙之脸Ｓ,Remobra Mask S,mh4g-core-common-game-array+mh4g-dex-build7+mh4edit-mit-save-id,4,0
+266,鬼鲛头盔,Zamtrios Helm,mh4g-core-common-game-array+mh4g-dex-build7+mh4edit-mit-save-id,2,0
+267,鬼鲛战帽,Zamtrios Cap,mh4g-core-common-game-array+mh4g-dex-build7+mh4edit-mit-save-id,2,0
+268,鬼鲛头盔Ｓ,Zamtrios Helm S,mh4g-core-common-game-array+mh4g-dex-build7+mh4edit-mit-save-id,5,0
+269,鬼鲛战帽Ｓ,Zamtrios Cap S,mh4g-core-common-game-array+mh4g-dex-build7+mh4edit-mit-save-id,5,0
+270,甲虫头盔,Seltas Helm,mh4g-core-common-game-array+mh4g-dex-build7+mh4edit-mit-save-id,3,0
+271,甲虫战帽,Seltas Cap,mh4g-core-common-game-array+mh4g-dex-build7+mh4edit-mit-save-id,3,0
+272,甲虫头盔Ｓ,Seltas Helm S,mh4g-core-common-game-array+mh4g-dex-build7+mh4edit-mit-save-id,5,0
+273,甲虫战帽Ｓ,Seltas Cap S,mh4g-core-common-game-array+mh4g-dex-build7+mh4edit-mit-save-id,5,0
+274,方舟头盔,Arc Helm,mh4g-core-common-game-array+mh4g-dex-build7+mh4edit-mit-save-id,3,0
+275,方舟战帽,Arc Cap,mh4g-core-common-game-array+mh4g-dex-build7+mh4edit-mit-save-id,3,0
+276,方舟头盔Ｓ,Arc Helm S,mh4g-core-common-game-array+mh4g-dex-build7+mh4edit-mit-save-id,7,0
+277,方舟战帽Ｓ,Arc Cap S,mh4g-core-common-game-array+mh4g-dex-build7+mh4edit-mit-save-id,7,0
+278,方舟头盔,Arc Helm,mh4g-core-common-game-array+mh4g-dex-build7+mh4edit-mit-save-id,3,0
+279,方舟战帽,Arc Cap,mh4g-core-common-game-array+mh4g-dex-build7+mh4edit-mit-save-id,3,0
+280,炎王王冠,Kaiser Crown,mh4g-core-common-game-array+mh4g-dex-build7+mh4edit-mit-save-id,7,0
+281,炎王面具,Kaiser Mask,mh4g-core-common-game-array+mh4g-dex-build7+mh4edit-mit-save-id,7,0
+282,金色之添发,Golden Headdress,mh4g-core-common-game-array+mh4g-dex-build7+mh4edit-mit-save-id,7,0
+283,黑子之面隐,Puppeteer Mask,mh4g-core-common-game-array+mh4g-dex-build7+mh4edit-mit-save-id,7,0
+284,怒天之添发,Divine Ire Headdress,mh4g-core-common-game-array+mh4g-dex-build7+mh4edit-mit-save-id,7,0
+285,心灭之面隐,Crusher Mask,mh4g-core-common-game-array+mh4g-dex-build7+mh4edit-mit-save-id,7,0
+286,反逆头盔,Rebellion Helm,mh4g-core-common-game-array+mh4g-dex-build7+mh4edit-mit-save-id,7,0
+287,暴动战帽,Riot Cap,mh4g-core-common-game-array+mh4g-dex-build7+mh4edit-mit-save-id,7,0
+288,反逆头盔,Rebellion Helm,mh4g-core-common-game-array+mh4g-dex-build7+mh4edit-mit-save-id,7,0
+289,暴动战帽,Riot Cap,mh4g-core-common-game-array+mh4g-dex-build7+mh4edit-mit-save-id,7,0
+290,龙头Ｘ,Dragonhead X,mh4g-core-common-game-array+mh4g-dex-build7+mh4edit-mit-save-id,10,0
+291,龙脸Ｘ,Dragonface X,mh4g-core-common-game-array+mh4g-dex-build7+mh4edit-mit-save-id,10,0
+292,龙头,Dragonhead,mh4g-core-common-game-array+mh4g-dex-build7+mh4edit-mit-save-id,7,0
+293,龙脸,Dragonface,mh4g-core-common-game-array+mh4g-dex-build7+mh4edit-mit-save-id,7,0
+294,黑龙头,Fatalis Crimsonhead,mh4g-core-common-game-array+mh4g-dex-build7+mh4edit-mit-save-id,7,0
+295,黑龙脸,Fatalis Crimsonface,mh4g-core-common-game-array+mh4g-dex-build7+mh4edit-mit-save-id,7,0
+296,红速龙之头,Ioprey Head,mh4g-core-common-game-array+mh4g-dex-build7+mh4edit-mit-save-id,5,0
+297,红速龙之脸,Ioprey Face,mh4g-core-common-game-array+mh4g-dex-build7+mh4edit-mit-save-id,5,0
+298,沙龙头盔,Cephalos Helm,mh4g-core-common-game-array+mh4g-dex-build7+mh4edit-mit-save-id,4,0
+299,沙龙战帽,Cephalos Cap,mh4g-core-common-game-array+mh4g-dex-build7+mh4edit-mit-save-id,4,0
+300,三叶【乌帽子】,Mizuha Cap,mh4g-core-common-game-array+mh4g-dex-build7+mh4edit-mit-save-id,7,0
+301,丰玉【乌帽子】,Cham Hat,mh4g-core-common-game-array+mh4g-dex-build7+mh4edit-mit-save-id,7,0
+302,盾蟹头盔,Hermitaur Helm,mh4g-core-common-game-array+mh4g-dex-build7+mh4edit-mit-save-id,4,0
+303,盾蟹战帽,Hermitaur Cap,mh4g-core-common-game-array+mh4g-dex-build7+mh4edit-mit-save-id,4,0
+304,盾蟹头盔,Hermitaur Helm,mh4g-core-common-game-array+mh4g-dex-build7+mh4edit-mit-save-id,4,0
+305,盾蟹战帽,Hermitaur Cap,mh4g-core-common-game-array+mh4g-dex-build7+mh4edit-mit-save-id,4,0
+306,飞甲虫头盔,Vespoid Helm,mh4g-core-common-game-array+mh4g-dex-build7+mh4edit-mit-save-id,4,0
+307,飞甲虫战帽,Vespoid Cap,mh4g-core-common-game-array+mh4g-dex-build7+mh4edit-mit-save-id,4,0
+308,彩鸟头盔,Qurupeco Helm,mh4g-core-common-game-array+mh4g-dex-build7+mh4edit-mit-save-id,4,0
+309,彩鸟战帽,Qurupeco Cap,mh4g-core-common-game-array+mh4g-dex-build7+mh4edit-mit-save-id,4,0
+310,炎戈龙头盔,Agnaktor Helm,mh4g-core-common-game-array+mh4g-dex-build7+mh4edit-mit-save-id,6,0
+311,炎戈龙战帽,Agnaktor Cap,mh4g-core-common-game-array+mh4g-dex-build7+mh4edit-mit-save-id,6,0
+312,冰牙龙头盔,Barioth Helm,mh4g-core-common-game-array+mh4g-dex-build7+mh4edit-mit-save-id,5,0
+313,冰牙龙战帽,Barioth Cap,mh4g-core-common-game-array+mh4g-dex-build7+mh4edit-mit-save-id,5,0
+314,赤甲兽头盔,Volvidon Helm,mh4g-core-common-game-array+mh4g-dex-build7+mh4edit-mit-save-id,4,0
+315,赤甲兽战帽,Volvidon Cap,mh4g-core-common-game-array+mh4g-dex-build7+mh4edit-mit-save-id,4,0
+316,海龙头盔,Lagiacrus Helm,mh4g-core-common-game-array+mh4g-dex-build7+mh4edit-mit-save-id,6,0
+317,海龙战帽,Lagiacrus Cap,mh4g-core-common-game-array+mh4g-dex-build7+mh4edit-mit-save-id,6,0
+318,海龙头盔,Lagiacrus Helm,mh4g-core-common-game-array+mh4g-dex-build7+mh4edit-mit-save-id,6,0
+319,海龙战帽,Lagiacrus Cap,mh4g-core-common-game-array+mh4g-dex-build7+mh4edit-mit-save-id,6,0
+320,大海龙头盔,Helios Helm,mh4g-core-common-game-array+mh4g-dex-build7+mh4edit-mit-save-id,7,0
+321,大海龙战帽,Helios Cap,mh4g-core-common-game-array+mh4g-dex-build7+mh4edit-mit-save-id,7,0
+322,大海龙头盔,Selene Helm,mh4g-core-common-game-array+mh4g-dex-build7+mh4edit-mit-save-id,7,0
+323,大海龙战帽,Selene Cap,mh4g-core-common-game-array+mh4g-dex-build7+mh4edit-mit-save-id,7,0
+324,灯鱼龙头盔,Gobul Helm,mh4g-core-common-game-array+mh4g-dex-build7+mh4edit-mit-save-id,5,0
+325,灯鱼龙战帽,Gobul Cap,mh4g-core-common-game-array+mh4g-dex-build7+mh4edit-mit-save-id,5,0
+326,大和【兜】,Yamato Kabuto,mh4g-core-common-game-array+mh4g-dex-build7+mh4edit-mit-save-id,7,0
+327,日向【钵金】,Hyuga Hachigane,mh4g-core-common-game-array+mh4g-dex-build7+mh4edit-mit-save-id,7,0
+328,陆奥【乌帽子】,Mutsu Eboshi,mh4g-core-common-game-array+mh4g-dex-build7+mh4edit-mit-save-id,7,0
+329,天城【钵金】,Amagi Hachigane,mh4g-core-common-game-array+mh4g-dex-build7+mh4edit-mit-save-id,7,0
+330,煌黑龙之智慧,Escadora Wisdom,mh4g-core-common-game-array+mh4g-dex-build7+mh4edit-mit-save-id,7,0
+331,煌黑龙之启发,Escadora Sagesse,mh4g-core-common-game-array+mh4g-dex-build7+mh4edit-mit-save-id,7,0
+332,煌黑龙之智慧,Escadora Wisdom,mh4g-core-common-game-array+mh4g-dex-build7+mh4edit-mit-save-id,7,0
+333,煌黑龙之启发,Escadora Sagesse,mh4g-core-common-game-array+mh4g-dex-build7+mh4edit-mit-save-id,7,0
+334,雪狮子头盔,Blango Helm,mh4g-core-common-game-array+mh4g-dex-build7+mh4edit-mit-save-id,5,0
+335,雪狮子战帽,Blango Cap,mh4g-core-common-game-array+mh4g-dex-build7+mh4edit-mit-save-id,5,0
+336,龙虾王头盔,Lobster Helm,mh4g-core-common-game-array+mh4g-dex-build7+mh4edit-mit-save-id,4,0
+337,龙虾王战帽,Lobster Cap,mh4g-core-common-game-array+mh4g-dex-build7+mh4edit-mit-save-id,4,0
+338,崩龙头盔,Ukanlos Mask,mh4g-core-common-game-array+mh4g-dex-build7+mh4edit-mit-save-id,7,0
+339,崩龙战帽,Ukanlos Fangs,mh4g-core-common-game-array+mh4g-dex-build7+mh4edit-mit-save-id,7,0
+340,金刚【兜】,Indra Helm,mh4g-core-common-game-array+mh4g-dex-build7+mh4edit-mit-save-id,7,0
+341,不动【兜】,Steadfast Helm,mh4g-core-common-game-array+mh4g-dex-build7+mh4edit-mit-save-id,7,0
+342,夜叉【御面】,Yaksha Mask,mh4g-core-common-game-array+mh4g-dex-build7+mh4edit-mit-save-id,7,0
+343,修罗【御面】,Carnage Helm,mh4g-core-common-game-array+mh4g-dex-build7+mh4edit-mit-save-id,7,0
+344,神秘头盔Ｓ,Artian Helm S,mh4g-core-common-game-array+mh4g-dex-build7+mh4edit-mit-save-id,5,0
+345,神秘战帽Ｓ,Artian Cap S,mh4g-core-common-game-array+mh4g-dex-build7+mh4edit-mit-save-id,5,0
+346,远古龙头盔,Dober Helm,mh4g-core-common-game-array+mh4g-dex-build7+mh4edit-mit-save-id,6,0
+347,远古龙战帽,Dober Cap,mh4g-core-common-game-array+mh4g-dex-build7+mh4edit-mit-save-id,6,0
+348,高合金头盔,Ingot Helm,mh4g-core-common-game-array+mh4g-dex-build7+mh4edit-mit-save-id,3,0
+349,高合金战帽,Ingot Cap,mh4g-core-common-game-array+mh4g-dex-build7+mh4edit-mit-save-id,3,0
+350,高合金头盔,Ingot Helm,mh4g-core-common-game-array+mh4g-dex-build7+mh4edit-mit-save-id,3,0
+351,高合金战帽,Ingot Cap,mh4g-core-common-game-array+mh4g-dex-build7+mh4edit-mit-save-id,3,0
+352,锹虫头盔,Aelucanth Vertex,mh4g-core-common-game-array+mh4g-dex-build7+mh4edit-mit-save-id,4,0
+353,飞虫头盔,Rhopessa Vertex,mh4g-core-common-game-array+mh4g-dex-build7+mh4edit-mit-save-id,4,0
+354,锹虫战帽,Aelucanth Clypeus,mh4g-core-common-game-array+mh4g-dex-build7+mh4edit-mit-save-id,4,0
+355,飞虫战帽,Rhopessa Clypeus,mh4g-core-common-game-array+mh4g-dex-build7+mh4edit-mit-save-id,4,0
+356,奥比特头盖,Obituary Vertex,mh4g-core-common-game-array+mh4g-dex-build7+mh4edit-mit-save-id,5,0
+357,帕比梅尔头盖,Butterfly Vertex,mh4g-core-common-game-array+mh4g-dex-build7+mh4edit-mit-save-id,5,0
+358,奥比特头盔,Obituary Clypeus,mh4g-core-common-game-array+mh4g-dex-build7+mh4edit-mit-save-id,5,0
+359,帕比梅尔头盔,Butterfly Clypeus,mh4g-core-common-game-array+mh4g-dex-build7+mh4edit-mit-save-id,5,0
+360,南瓜帽,Mosgharl Vizor,mh4g-core-common-game-array+mh4g-dex-build7+mh4edit-mit-save-id,4,0
+361,南瓜花帽,Mosgharl Brim,mh4g-core-common-game-array+mh4g-dex-build7+mh4edit-mit-save-id,4,0
+362,公会精英头盔,Guild Bard Lobos,mh4g-core-common-game-array+mh4g-dex-build7+mh4edit-mit-save-id,4,0
+363,店员头巾,Scholar's Beret,mh4g-core-common-game-array+mh4g-dex-build7+mh4edit-mit-save-id,4,0
+364,公会精英帽子,Guild Bard Hat,mh4g-core-common-game-array+mh4g-dex-build7+mh4edit-mit-save-id,4,0
+365,店员贝雷帽,Scholar's Cap,mh4g-core-common-game-array+mh4g-dex-build7+mh4edit-mit-save-id,4,0
+366,骷髅头,Skull Visage,mh4g-core-common-game-array+mh4g-dex-build7+mh4edit-mit-save-id,5,0
+367,骷髅面具,Skull Mask,mh4g-core-common-game-array+mh4g-dex-build7+mh4edit-mit-save-id,5,0
+368,黑暗之眼,Shadow Shades,mh4g-core-common-game-array+mh4g-dex-build7+mh4edit-mit-save-id,7,0
+369,狗龙面具,Jaggi Mask,mh4g-core-common-game-array+mh4g-dex-build7+mh4edit-mit-save-id,3,0
+370,丸鸟面具,Gargwa Mask,mh4g-core-common-game-array+mh4g-dex-build7+mh4edit-mit-save-id,3,0
+371,黑带头盔,Black Belt Helm,mh4g-core-common-game-array+mh4g-dex-build7+mh4edit-mit-save-id,6,0
+372,黑带战帽,Black Belt Cap,mh4g-core-common-game-array+mh4g-dex-build7+mh4edit-mit-save-id,6,0
+373,守护者头盔,Guardian Helm,mh4g-core-common-game-array+mh4g-dex-build7+mh4edit-mit-save-id,4,0
+374,助手兜帽,Helper Hood,mh4g-core-common-game-array+mh4g-dex-build7+mh4edit-mit-save-id,4,0
+375,守护者面具,Guardian Mask,mh4g-core-common-game-array+mh4g-dex-build7+mh4edit-mit-save-id,4,0
+376,助手战帽,Helper Cap,mh4g-core-common-game-array+mh4g-dex-build7+mh4edit-mit-save-id,4,0
+377,忍之面・天,Shinobi Sky Mask,mh4g-core-common-game-array+mh4g-dex-build7+mh4edit-mit-save-id,7,0
+378,忍之面・地,Shinobi Land Mask,mh4g-core-common-game-array+mh4g-dex-build7+mh4edit-mit-save-id,7,0
+379,公会骑士面罩,Guild Knight Feather,mh4g-core-common-game-array+mh4g-dex-build7+mh4edit-mit-save-id,6,0
+380,女仆发夹,Maiden's Hat,mh4g-core-common-game-array+mh4g-dex-build7+mh4edit-mit-save-id,6,0
+381,公会骑士面具,Guild Knight Mask,mh4g-core-common-game-array+mh4g-dex-build7+mh4edit-mit-save-id,6,0
+382,女仆帽,Maiden's Cap,mh4g-core-common-game-array+mh4g-dex-build7+mh4edit-mit-save-id,6,0
+383,结云村帽・天,Yukumo Sky Kasa,mh4g-core-common-game-array+mh4g-dex-build7+mh4edit-mit-save-id,6,0
+384,结云村帽・地,Yukumo Land Kasa,mh4g-core-common-game-array+mh4g-dex-build7+mh4edit-mit-save-id,6,0
+385,高级金属头盔,High Metal Helm,mh4g-core-common-game-array+mh4g-dex-build7+mh4edit-mit-save-id,2,0
+386,高级金属战帽,High Metal Cap,mh4g-core-common-game-array+mh4g-dex-build7+mh4edit-mit-save-id,2,0
+387,城塞游击队【刃笠】,Ranger's Headgear,mh4g-core-common-game-array+mh4g-dex-build7+mh4edit-mit-save-id,6,0
+388,城塞弓击队【面隐】,Archer's Turban,mh4g-core-common-game-array+mh4g-dex-build7+mh4edit-mit-save-id,6,0
+389,龙王的独眼,Dragonlord's Gaze,mh4g-core-common-game-array+mh4g-dex-build7+mh4edit-mit-save-id,3,0
+390,三眼耳环,Chakra Earring,mh4g-core-common-game-array+mh4g-dex-build7+mh4edit-mit-save-id,5,0
+391,水手兜帽,Sailor Hat,mh4g-core-common-game-array+mh4g-dex-build7+mh4edit-mit-save-id,6,0
+392,水手帽,Sailor Cap,mh4g-core-common-game-array+mh4g-dex-build7+mh4edit-mit-save-id,6,0
+393,鹰之帽,Hawkhat,mh4g-core-common-game-array+mh4g-dex-build7+mh4edit-mit-save-id,6,0
+394,战鹰兜帽,Lecturer's Hood,mh4g-core-common-game-array+mh4g-dex-build7+mh4edit-mit-save-id,6,0
+395,鹰之战帽,Hawkcap,mh4g-core-common-game-array+mh4g-dex-build7+mh4edit-mit-save-id,6,0
+396,战鹰战帽,Lecturer's Cap,mh4g-core-common-game-array+mh4g-dex-build7+mh4edit-mit-save-id,6,0
+397,友情的羽饰,Friendship Feather,mh4g-core-common-game-array+mh4g-dex-build7+mh4edit-mit-save-id,3,0
+398,胜者的羽饰,Victory Feather,mh4g-core-common-game-array+mh4g-dex-build7+mh4edit-mit-save-id,6,0
+399,勇者的羽饰,Champion Feather,mh4g-core-common-game-array+mh4g-dex-build7+mh4edit-mit-save-id,6,0
+400,猫猫发箍,Felyne Hairband,mh4g-core-common-game-array+mh4g-dex-build7+mh4edit-mit-save-id,7,0
+401,智略的眼镜,Cunning Specs,mh4g-core-common-game-array+mh4g-dex-build7+mh4edit-mit-save-id,7,0
+402,蓝星礼帽,Blue Star Lobos,mh4g-core-common-game-array+mh4g-dex-build7+mh4edit-mit-save-id,7,0
+403,蓝星之帽,Blue Star Hat,mh4g-core-common-game-array+mh4g-dex-build7+mh4edit-mit-save-id,7,0
+404,ＫＥＲＯＲＯ脸,dummy701,mh4g-core-common-game-array+mh4edit-mit-save-id,0,0
+405,Ｊ船长海贼帽,Helm of Anat,mh4g-core-common-game-array+mh4g-dex-build7+mh4edit-mit-save-id,10,0
+406,Ｊ船长海盗帽,Cap of Anat,mh4g-core-common-game-array+mh4g-dex-build7+mh4edit-mit-save-id,10,0
+407,优衣库兜帽,Uniqlo Hood,mh4g-core-common-game-array+mh4g-dex-build7+mh4edit-mit-save-id,7,0
+408,优衣库帽,Uniqlo Cap,mh4g-core-common-game-array+mh4g-dex-build7+mh4edit-mit-save-id,7,0
+409,星光头盔,Star Rook Helm,mh4g-core-common-game-array+mh4g-dex-build7+mh4edit-mit-save-id,7,0
+410,星光战帽,Star Rook Cap,mh4g-core-common-game-array+mh4g-dex-build7+mh4edit-mit-save-id,7,0
+411,星座头盔,dummy706,mh4g-core-common-game-array+mh4edit-mit-save-id,0,0
+412,星座战帽,dummy718,mh4g-core-common-game-array+mh4edit-mit-save-id,0,0
+413,Ｊ传说海贼帽,dummy707,mh4g-core-common-game-array+mh4edit-mit-save-id,0,0
+414,Ｊ传说海盗帽,dummy719,mh4g-core-common-game-array+mh4edit-mit-save-id,0,0
+415,神秘头盔Ｓ,Artian Helm S,mh4g-core-common-game-array+mh4g-dex-build7+mh4edit-mit-save-id,5,0
+416,神秘战帽Ｓ,Artian Cap S,mh4g-core-common-game-array+mh4g-dex-build7+mh4edit-mit-save-id,5,0
+417,霸者的羽饰,Overlord Feather,mh4g-core-common-game-array+mh4g-dex-build7+mh4edit-mit-save-id,7,0
+418,dummy,DUMMY,mh4g-core-common-game-array+mh4edit-mit-save-id,0,0
+419,勇者的帽子,Hero's Hat,mh4g-core-common-game-array+mh4g-dex-build7+mh4edit-mit-save-id,7,0
+420,dummy,DUMMY,mh4g-core-common-game-array+mh4edit-mit-save-id,0,0
+421,勇者的头巾,Hero's Cap,mh4g-core-common-game-array+mh4g-dex-build7+mh4edit-mit-save-id,7,0
+422,逆卷的怒发,dummy729,mh4g-core-common-game-array+mh4edit-mit-save-id,0,0
+423,威压的逆发,dummy730,mh4g-core-common-game-array+mh4edit-mit-save-id,0,0
+424,EX反逆头盔,EX Rebellion Helm,mh4g-core-common-game-array+mh4g-dex-build7+mh4edit-mit-save-id,7,0
+425,EX暴动战帽,EX Riot Cap,mh4g-core-common-game-array+mh4g-dex-build7+mh4edit-mit-save-id,7,0
+426,EX黑蚀龙头盔,EX Gore Helm,mh4g-core-common-game-array+mh4g-dex-build7+mh4edit-mit-save-id,7,0
+427,EX黑蚀龙战帽,EX Gore Cap,mh4g-core-common-game-array+mh4g-dex-build7+mh4edit-mit-save-id,7,0
+428,EX高合金头盔,EX Ingot Helm,mh4g-core-common-game-array+mh4g-dex-build7+mh4edit-mit-save-id,7,0
+429,EX高合金战帽,EX Ingot Cap,mh4g-core-common-game-array+mh4g-dex-build7+mh4edit-mit-save-id,7,0
+430,EX麒麟之角Ｕ,EX Kirin Horn U,mh4g-core-common-game-array+mh4g-dex-build7+mh4edit-mit-save-id,7,0
+431,EX麒麟独角Ｕ,EX Kirin Crest U,mh4g-core-common-game-array+mh4g-dex-build7+mh4edit-mit-save-id,7,0
+432,EX神秘头盔,EX Artian Helm,mh4g-core-common-game-array+mh4g-dex-build7+mh4edit-mit-save-id,7,0
+433,EX神秘战帽,EX Artian Cap,mh4g-core-common-game-array+mh4g-dex-build7+mh4edit-mit-save-id,7,0
+434,慈爱头盔,Storge Helm,mh4g-core-common-game-array+mh4g-dex-build7+mh4edit-mit-save-id,3,0
+435,慈爱战帽,Storge Cap,mh4g-core-common-game-array+mh4g-dex-build7+mh4edit-mit-save-id,3,0
+436,慈爱头盔Ｓ,Storge Helm S,mh4g-core-common-game-array+mh4g-dex-build7+mh4edit-mit-save-id,7,0
+437,慈爱战帽Ｓ,Storge Cap S,mh4g-core-common-game-array+mh4g-dex-build7+mh4edit-mit-save-id,7,0
+438,慈爱头盔,Storge Helm,mh4g-core-common-game-array+mh4g-dex-build7+mh4edit-mit-save-id,3,0
+439,慈爱战帽,Storge Cap,mh4g-core-common-game-array+mh4g-dex-build7+mh4edit-mit-save-id,3,0
+440,猎人头盔,Hunter's Helm,mh4g-core-common-game-array+mh4g-dex-build7+mh4edit-mit-save-id,1,0
+441,猎人战帽,Hunter's Cap,mh4g-core-common-game-array+mh4g-dex-build7+mh4edit-mit-save-id,1,0
+442,合金头盔,Alloy Helm,mh4g-core-common-game-array+mh4g-dex-build7+mh4edit-mit-save-id,1,0
+443,合金战帽,Alloy Cap,mh4g-core-common-game-array+mh4g-dex-build7+mh4edit-mit-save-id,1,0
+444,水兽头盔,Ludroth Helm,mh4g-core-common-game-array+mh4g-dex-build7+mh4edit-mit-save-id,2,0
+445,水兽战帽,Ludroth Cap,mh4g-core-common-game-array+mh4g-dex-build7+mh4edit-mit-save-id,2,0
+446,雌火龙头盔,Rathian Helm,mh4g-core-common-game-array+mh4g-dex-build7+mh4edit-mit-save-id,2,0
+447,雌火龙战帽,Rathian Cap,mh4g-core-common-game-array+mh4g-dex-build7+mh4edit-mit-save-id,2,0
+448,樱火龙头盔,Rath Heart Helm,mh4g-core-common-game-array+mh4g-dex-build7+mh4edit-mit-save-id,6,0
+449,樱火龙战帽,Rath Heart Cap,mh4g-core-common-game-array+mh4g-dex-build7+mh4edit-mit-save-id,6,0
+450,雄火龙头盔,Rathalos Helm,mh4g-core-common-game-array+mh4g-dex-build7+mh4edit-mit-save-id,3,0
+451,雄火龙战帽,Rathalos Cap,mh4g-core-common-game-array+mh4g-dex-build7+mh4edit-mit-save-id,3,0
+452,苍火龙头盔,Rath Soul Helm,mh4g-core-common-game-array+mh4g-dex-build7+mh4edit-mit-save-id,6,0
+453,苍火龙战帽,Rath Soul Cap,mh4g-core-common-game-array+mh4g-dex-build7+mh4edit-mit-save-id,6,0
+454,银火龙头盔,Silver Solhelm,mh4g-core-common-game-array+mh4g-dex-build7+mh4edit-mit-save-id,7,0
+455,银火龙战帽,Silver Solcap,mh4g-core-common-game-array+mh4g-dex-build7+mh4edit-mit-save-id,7,0
+456,残忍头盔,Esurient Helm,mh4g-core-common-game-array+mh4g-dex-build7+mh4edit-mit-save-id,7,0
+457,残忍战帽,Esurient Cap,mh4g-core-common-game-array+mh4g-dex-build7+mh4edit-mit-save-id,7,0
+458,残阳【兜】,Gloaming Helm,mh4g-core-common-game-array+mh4g-dex-build7+mh4edit-mit-save-id,3,0
+459,常盘【兜】,Adamance Helm,mh4g-core-common-game-array+mh4g-dex-build7+mh4edit-mit-save-id,3,0
+460,东云【阵笠】,Dayspring Kasa,mh4g-core-common-game-array+mh4g-dex-build7+mh4edit-mit-save-id,3,0
+461,八千代【冠】,Epoch Helm,mh4g-core-common-game-array+mh4g-dex-build7+mh4edit-mit-save-id,3,0
+462,轰龙头盔,Tigrex Helm,mh4g-core-common-game-array+mh4g-dex-build7+mh4edit-mit-save-id,3,0
+463,轰龙战帽,Tigrex Cap,mh4g-core-common-game-array+mh4g-dex-build7+mh4edit-mit-save-id,3,0
+464,黑轰龙头盔Ｕ,Tigrex Helm U,mh4g-core-common-game-array+mh4g-dex-build7+mh4edit-mit-save-id,6,0
+465,黑轰龙战帽Ｕ,Tigrex Cap U,mh4g-core-common-game-array+mh4g-dex-build7+mh4edit-mit-save-id,6,0
+466,霸龙头盔,Akantor Mask,mh4g-core-common-game-array+mh4g-dex-build7+mh4edit-mit-save-id,7,0
+467,霸龙战帽,Akantor Fangs,mh4g-core-common-game-array+mh4g-dex-build7+mh4edit-mit-save-id,7,0
+468,雷狼龙头盔Ｕ,Zinogre Helm U,mh4g-core-common-game-array+mh4g-dex-build7+mh4edit-mit-save-id,6,0
+469,雷狼龙战帽Ｕ,Zinogre Cap U,mh4g-core-common-game-array+mh4g-dex-build7+mh4edit-mit-save-id,6,0
+470,黑蚀龙头盔,Gore Helm,mh4g-core-common-game-array+mh4g-dex-build7+mh4edit-mit-save-id,3,0
+471,黑蚀龙战帽,Gore Cap,mh4g-core-common-game-array+mh4g-dex-build7+mh4edit-mit-save-id,3,0
+472,毒怪鸟头盔,Gypceros Helm,mh4g-core-common-game-array+mh4g-dex-build7+mh4edit-mit-save-id,2,0
+473,毒怪鸟战帽,Gypceros Cap,mh4g-core-common-game-array+mh4g-dex-build7+mh4edit-mit-save-id,2,0
+474,毒怪鸟头盔Ｕ,Gypceros Helm U,mh4g-core-common-game-array+mh4g-dex-build7+mh4edit-mit-save-id,6,0
+475,毒怪鸟战帽Ｕ,Gypceros Cap U,mh4g-core-common-game-array+mh4g-dex-build7+mh4edit-mit-save-id,6,0
+476,电龙头盔,Khezu Helm,mh4g-core-common-game-array+mh4g-dex-build7+mh4edit-mit-save-id,2,0
+477,电龙战帽,Khezu Cap,mh4g-core-common-game-array+mh4g-dex-build7+mh4edit-mit-save-id,2,0
+478,电龙头盔Ｕ,Khezu Helm U,mh4g-core-common-game-array+mh4g-dex-build7+mh4edit-mit-save-id,6,0
+479,电龙战帽Ｕ,Khezu Cap U,mh4g-core-common-game-array+mh4g-dex-build7+mh4edit-mit-save-id,6,0
+480,麒麟之角,Kirin Horn,mh4g-core-common-game-array+mh4g-dex-build7+mh4edit-mit-save-id,3,0
+481,麒麟独角,Kirin Crest,mh4g-core-common-game-array+mh4g-dex-build7+mh4edit-mit-save-id,3,0
+482,麒麟之角Ｕ,Kirin Horn U,mh4g-core-common-game-array+mh4g-dex-build7+mh4edit-mit-save-id,7,0
+483,麒麟独角Ｕ,Kirin Crest U,mh4g-core-common-game-array+mh4g-dex-build7+mh4edit-mit-save-id,7,0
+484,钢龙战盔,Kushala Glare,mh4g-core-common-game-array+mh4g-dex-build7+mh4edit-mit-save-id,7,0
+485,钢龙头盔,Kushala Snarl,mh4g-core-common-game-array+mh4g-dex-build7+mh4edit-mit-save-id,7,0
+486,镰蟹头盔,Ceanataur Helm,mh4g-core-common-game-array+mh4g-dex-build7+mh4edit-mit-save-id,2,0
+487,镰蟹战帽,Ceanataur Cap,mh4g-core-common-game-array+mh4g-dex-build7+mh4edit-mit-save-id,2,0
+488,晓丸【兜】,Auroros Helm,mh4g-core-common-game-array+mh4g-dex-build7+mh4edit-mit-save-id,3,0
+489,凛【钵金】,Borealis Crown,mh4g-core-common-game-array+mh4g-dex-build7+mh4edit-mit-save-id,3,0
+490,曙丸【乌帽子】,Genesis Headpiece,mh4g-core-common-game-array+mh4g-dex-build7+mh4edit-mit-save-id,3,0
+491,艳【钵金】,Glyph Crown,mh4g-core-common-game-array+mh4g-dex-build7+mh4edit-mit-save-id,3,0
+492,方舟头盔,Arc Helm,mh4g-core-common-game-array+mh4g-dex-build7+mh4edit-mit-save-id,3,0
+493,方舟战帽,Arc Cap,mh4g-core-common-game-array+mh4g-dex-build7+mh4edit-mit-save-id,3,0
+494,反逆头盔,Rebellion Helm,mh4g-core-common-game-array+mh4g-dex-build7+mh4edit-mit-save-id,7,0
+495,暴动战帽,Riot Cap,mh4g-core-common-game-array+mh4g-dex-build7+mh4edit-mit-save-id,7,0
+496,龙头Ｘ,Dragonhead X,mh4g-core-common-game-array+mh4g-dex-build7+mh4edit-mit-save-id,10,0
+497,龙脸Ｘ,Dragonface X,mh4g-core-common-game-array+mh4g-dex-build7+mh4edit-mit-save-id,10,0
+498,盾蟹头盔,Hermitaur Helm,mh4g-core-common-game-array+mh4g-dex-build7+mh4edit-mit-save-id,4,0
+499,盾蟹战帽,Hermitaur Cap,mh4g-core-common-game-array+mh4g-dex-build7+mh4edit-mit-save-id,4,0
+500,海龙头盔,Lagiacrus Helm,mh4g-core-common-game-array+mh4g-dex-build7+mh4edit-mit-save-id,6,0
+501,海龙战帽,Lagiacrus Cap,mh4g-core-common-game-array+mh4g-dex-build7+mh4edit-mit-save-id,6,0
+502,煌黑龙之智慧,Escadora Wisdom,mh4g-core-common-game-array+mh4g-dex-build7+mh4edit-mit-save-id,7,0
+503,煌黑龙之启发,Escadora Sagesse,mh4g-core-common-game-array+mh4g-dex-build7+mh4edit-mit-save-id,7,0
+504,高合金头盔,Ingot Helm,mh4g-core-common-game-array+mh4g-dex-build7+mh4edit-mit-save-id,3,0
+505,高合金战帽,Ingot Cap,mh4g-core-common-game-array+mh4g-dex-build7+mh4edit-mit-save-id,3,0
+506,神秘头盔Ｓ,Artian Helm S,mh4g-core-common-game-array+mh4g-dex-build7+mh4edit-mit-save-id,5,0
+507,神秘战帽Ｓ,Artian Cap S,mh4g-core-common-game-array+mh4g-dex-build7+mh4edit-mit-save-id,5,0
+508,慈爱头盔,Storge Helm,mh4g-core-common-game-array+mh4g-dex-build7+mh4edit-mit-save-id,3,0
+509,慈爱战帽,Storge Cap,mh4g-core-common-game-array+mh4g-dex-build7+mh4edit-mit-save-id,3,0
+510,蓝速龙头盔Ｘ,Velociprey Helm X,mh4g-core-common-game-array+mh4g-dex-build7+mh4edit-mit-save-id,8,0
+511,蓝速龙战帽Ｘ,Velociprey Cap X,mh4g-core-common-game-array+mh4g-dex-build7+mh4edit-mit-save-id,8,0
+512,红速龙头盔Ｘ,Ioprey Helm X,mh4g-core-common-game-array+mh4g-dex-build7+mh4edit-mit-save-id,8,0
+513,红速龙战帽Ｘ,Ioprey Cap X,mh4g-core-common-game-array+mh4g-dex-build7+mh4edit-mit-save-id,8,0
+514,奇猿狐头盔Ｘ,Kecha Helm X,mh4g-core-common-game-array+mh4g-dex-build7+mh4edit-mit-save-id,8,0
+515,奇猿狐战帽Ｘ,Kecha Cap X,mh4g-core-common-game-array+mh4g-dex-build7+mh4edit-mit-save-id,8,0
+516,奇猿狐头盔Ｚ,Kecha Helm Z,mh4g-core-common-game-array+mh4g-dex-build7+mh4edit-mit-save-id,8,0
+517,奇猿狐战帽Ｚ,Kecha Cap Z,mh4g-core-common-game-array+mh4g-dex-build7+mh4edit-mit-save-id,8,0
+518,鬼蛙头盔Ｘ,Tetsucabra Helm X,mh4g-core-common-game-array+mh4g-dex-build7+mh4edit-mit-save-id,8,0
+519,鬼蛙战帽Ｘ,Tetsucabra Cap X,mh4g-core-common-game-array+mh4g-dex-build7+mh4edit-mit-save-id,8,0
+520,鬼蛙头盔Ｚ,Tetsucabra Helm Z,mh4g-core-common-game-array+mh4g-dex-build7+mh4edit-mit-save-id,8,0
+521,鬼蛙战帽Ｚ,Tetsucabra Cap Z,mh4g-core-common-game-array+mh4g-dex-build7+mh4edit-mit-save-id,8,0
+522,影蜘蛛头盔Ｘ,Nerscylla Helm X,mh4g-core-common-game-array+mh4g-dex-build7+mh4edit-mit-save-id,8,0
+523,影蜘蛛战帽Ｘ,Nerscylla Cap X,mh4g-core-common-game-array+mh4g-dex-build7+mh4edit-mit-save-id,8,0
+524,影蜘蛛头盔Ｚ,Nerscylla Helm Z,mh4g-core-common-game-array+mh4g-dex-build7+mh4edit-mit-save-id,9,0
+525,影蜘蛛战帽Ｚ,Nerscylla Cap Z,mh4g-core-common-game-array+mh4g-dex-build7+mh4edit-mit-save-id,9,0
+526,鬼鲛头盔Ｘ,Zamtrios Helm X,mh4g-core-common-game-array+mh4g-dex-build7+mh4edit-mit-save-id,8,0
+527,鬼鲛战帽Ｘ,Zamtrios Cap X,mh4g-core-common-game-array+mh4g-dex-build7+mh4edit-mit-save-id,8,0
+528,鬼鲛头盔Ｚ,Zamtrios Helm Z,mh4g-core-common-game-array+mh4g-dex-build7+mh4edit-mit-save-id,8,0
+529,鬼鲛战帽Ｚ,Zamtrios Cap Z,mh4g-core-common-game-array+mh4g-dex-build7+mh4edit-mit-save-id,8,0
+530,绞蛇龙头盔Ｘ,Najarala Helm X,mh4g-core-common-game-array+mh4g-dex-build7+mh4edit-mit-save-id,8,0
+531,绞蛇龙战帽Ｘ,Najarala Cap X,mh4g-core-common-game-array+mh4g-dex-build7+mh4edit-mit-save-id,8,0
+532,绞蛇龙头盔Ｚ,Najarala Helm Z,mh4g-core-common-game-array+mh4g-dex-build7+mh4edit-mit-save-id,8,0
+533,绞蛇龙战帽Ｚ,Najarala Cap Z,mh4g-core-common-game-array+mh4g-dex-build7+mh4edit-mit-save-id,8,0
+534,甲虫头盔Ｘ,Seltas Helm X,mh4g-core-common-game-array+mh4g-dex-build7+mh4edit-mit-save-id,9,0
+535,甲虫战帽Ｘ,Seltas Cap X,mh4g-core-common-game-array+mh4g-dex-build7+mh4edit-mit-save-id,9,0
+536,甲虫头盔Ｚ,Seltas Helm Z,mh4g-core-common-game-array+mh4g-dex-build7+mh4edit-mit-save-id,9,0
+537,甲虫战帽Ｚ,Seltas Cap Z,mh4g-core-common-game-array+mh4g-dex-build7+mh4edit-mit-save-id,9,0
+538,黑蚀龙头盔Ｘ,Gore Helm X,mh4g-core-common-game-array+mh4g-dex-build7+mh4edit-mit-save-id,9,0
+539,黑蚀龙战帽Ｘ,Gore Cap X,mh4g-core-common-game-array+mh4g-dex-build7+mh4edit-mit-save-id,9,0
+540,黑蚀龙首铠,Gore Casque,mh4g-core-common-game-array+mh4g-armor-name-crosswalk+mh4edit-mit-save-id,0,1
+541,黑蚀龙帽盔,Gore Coif,mh4g-core-common-game-array+mh4g-armor-name-crosswalk+mh4edit-mit-save-id,0,1
+542,方舟头盔Ｘ,Arc Helm X,mh4g-core-common-game-array+mh4g-dex-build7+mh4edit-mit-save-id,10,0
+543,慈爱头盔Ｘ,Storge Helm X,mh4g-core-common-game-array+mh4g-dex-build7+mh4edit-mit-save-id,10,0
+544,方舟战帽Ｘ,Arc Cap X,mh4g-core-common-game-array+mh4g-dex-build7+mh4edit-mit-save-id,10,0
+545,慈爱战帽Ｘ,Storge Cap X,mh4g-core-common-game-array+mh4g-dex-build7+mh4edit-mit-save-id,10,0
+546,方舟首铠,Arc Casque,mh4g-core-common-game-array+mh4g-armor-name-crosswalk+mh4edit-mit-save-id,0,1
+547,慈爱首铠,Storge Casque,mh4g-core-common-game-array+mh4g-armor-name-crosswalk+mh4edit-mit-save-id,0,1
+548,方舟帽盔,Arc Coif,mh4g-core-common-game-array+mh4g-armor-name-crosswalk+mh4edit-mit-save-id,0,1
+549,慈爱帽盔,Storge Coif,mh4g-core-common-game-array+mh4g-armor-name-crosswalk+mh4edit-mit-save-id,0,1
+550,歌革头盔,Gogma Helm,mh4g-core-common-game-array+mh4g-dex-build7+mh4edit-mit-save-id,10,0
+551,玛各战帽,Gogma Cap,mh4g-core-common-game-array+mh4g-dex-build7+mh4edit-mit-save-id,10,0
+552,毒怪鸟头盔Ｘ,Gypceros Helm X,mh4g-core-common-game-array+mh4g-dex-build7+mh4edit-mit-save-id,8,0
+553,毒怪鸟战帽Ｘ,Gypceros Cap X,mh4g-core-common-game-array+mh4g-dex-build7+mh4edit-mit-save-id,8,0
+554,毒怪鸟首铠,Gypceros Casque,mh4g-core-common-game-array+mh4g-armor-name-crosswalk+mh4edit-mit-save-id,0,1
+555,毒怪鸟帽盔,Gypceros Coif,mh4g-core-common-game-array+mh4g-armor-name-crosswalk+mh4edit-mit-save-id,0,1
+556,毒怪鸟头盔Ｚ,Gypceros Helm Z,mh4g-core-common-game-array+mh4g-dex-build7+mh4edit-mit-save-id,8,0
+557,毒怪鸟战帽Ｚ,Gypceros Cap Z,mh4g-core-common-game-array+mh4g-dex-build7+mh4edit-mit-save-id,8,0
+558,毒怪鸟首铠Ｕ,Gypceros Casque U,mh4g-core-common-game-array+mh4g-armor-name-crosswalk+mh4edit-mit-save-id,0,1
+559,毒怪鸟帽盔Ｕ,Gypceros Coif U,mh4g-core-common-game-array+mh4g-armor-name-crosswalk+mh4edit-mit-save-id,0,1
+560,白兔兽头盔Ｘ,Lagombi Helm X,mh4g-core-common-game-array+mh4g-dex-build7+mh4edit-mit-save-id,8,0
+561,白兔兽战帽Ｘ,Lagombi Cap X,mh4g-core-common-game-array+mh4g-dex-build7+mh4edit-mit-save-id,8,0
+562,桃毛兽头盔Ｘ,Conga Helm X,mh4g-core-common-game-array+mh4g-dex-build7+mh4edit-mit-save-id,8,0
+563,桃毛兽战帽Ｘ,Conga Cap X,mh4g-core-common-game-array+mh4g-dex-build7+mh4edit-mit-save-id,8,0
+564,桃毛兽头盔Ｚ,Conga Helm Z,mh4g-core-common-game-array+mh4g-dex-build7+mh4edit-mit-save-id,8,0
+565,桃毛兽战帽Ｚ,Conga Cap Z,mh4g-core-common-game-array+mh4g-dex-build7+mh4edit-mit-save-id,8,0
+566,电龙头盔Ｘ,Khezu Helm X,mh4g-core-common-game-array+mh4g-dex-build7+mh4edit-mit-save-id,8,0
+567,电龙战帽Ｘ,Khezu Cap X,mh4g-core-common-game-array+mh4g-dex-build7+mh4edit-mit-save-id,8,0
+568,电龙首铠,Khezu Casque,mh4g-core-common-game-array+mh4g-armor-name-crosswalk+mh4edit-mit-save-id,0,1
+569,电龙帽盔,Khezu Coif,mh4g-core-common-game-array+mh4g-armor-name-crosswalk+mh4edit-mit-save-id,0,1
+570,电龙头盔Ｚ,Khezu Helm Z,mh4g-core-common-game-array+mh4g-dex-build7+mh4edit-mit-save-id,8,0
+571,电龙战帽Ｚ,Khezu Cap Z,mh4g-core-common-game-array+mh4g-dex-build7+mh4edit-mit-save-id,8,0
+572,电龙首铠Ｕ,Khezu Casque U,mh4g-core-common-game-array+mh4g-armor-name-crosswalk+mh4edit-mit-save-id,0,1
+573,电龙帽盔Ｕ,Khezu Coif U,mh4g-core-common-game-array+mh4g-armor-name-crosswalk+mh4edit-mit-save-id,0,1
+574,雌火龙头盔Ｘ,Rathian Helm X,mh4g-core-common-game-array+mh4g-dex-build7+mh4edit-mit-save-id,8,0
+575,雌火龙战帽Ｘ,Rathian Cap X,mh4g-core-common-game-array+mh4g-dex-build7+mh4edit-mit-save-id,8,0
+576,雌火龙首铠,Rathian Casque,mh4g-core-common-game-array+mh4g-armor-name-crosswalk+mh4edit-mit-save-id,0,1
+577,雌火龙帽盔,Rathian Coif,mh4g-core-common-game-array+mh4g-armor-name-crosswalk+mh4edit-mit-save-id,0,1
+578,樱火龙头盔Ｚ,Rath Heart Helm Z,mh4g-core-common-game-array+mh4g-dex-build7+mh4edit-mit-save-id,8,0
+579,樱火龙战帽Ｚ,Rath Heart Cap Z,mh4g-core-common-game-array+mh4g-dex-build7+mh4edit-mit-save-id,8,0
+580,樱火龙首铠,Rath Heart Casque,mh4g-core-common-game-array+mh4g-armor-name-crosswalk+mh4edit-mit-save-id,0,1
+581,樱火龙帽盔,Rath Heart Coif,mh4g-core-common-game-array+mh4g-armor-name-crosswalk+mh4edit-mit-save-id,0,1
+582,Ｇ・月光头盔Ｚ,Golden Lunehelm Z,mh4g-core-common-game-array+mh4g-dex-build7+mh4edit-mit-save-id,10,0
+583,Ｇ・月光战帽Ｚ,Golden Lunecap Z,mh4g-core-common-game-array+mh4g-dex-build7+mh4edit-mit-save-id,10,0
+584,雄火龙头盔Ｘ,Rathalos Helm X,mh4g-core-common-game-array+mh4g-dex-build7+mh4edit-mit-save-id,9,0
+585,雄火龙战帽Ｘ,Rathalos Cap X,mh4g-core-common-game-array+mh4g-dex-build7+mh4edit-mit-save-id,9,0
+586,雄火龙首铠,Rathalos Casque,mh4g-core-common-game-array+mh4g-armor-name-crosswalk+mh4edit-mit-save-id,0,1
+587,雄火龙帽盔,Rathalos Coif,mh4g-core-common-game-array+mh4g-armor-name-crosswalk+mh4edit-mit-save-id,0,1
+588,苍火龙头盔Ｚ,Rath Soul Helm Z,mh4g-core-common-game-array+mh4g-dex-build7+mh4edit-mit-save-id,9,0
+589,苍火龙战帽Ｚ,Rath Soul Cap Z,mh4g-core-common-game-array+mh4g-dex-build7+mh4edit-mit-save-id,9,0
+590,苍火龙首铠,Rath Soul Casque,mh4g-core-common-game-array+mh4g-armor-name-crosswalk+mh4edit-mit-save-id,0,1
+591,苍火龙帽盔,Rath Soul Coif,mh4g-core-common-game-array+mh4g-armor-name-crosswalk+mh4edit-mit-save-id,0,1
+592,Ｓ・日光头盔Ｚ,Silver Solhelm Z,mh4g-core-common-game-array+mh4g-dex-build7+mh4edit-mit-save-id,10,0
+593,Ｓ・日光战帽Ｚ,Silver Solcap Z,mh4g-core-common-game-array+mh4g-dex-build7+mh4edit-mit-save-id,10,0
+594,银之日光首铠,Silver Solcasque,mh4g-core-common-game-array+mh4g-armor-name-crosswalk+mh4edit-mit-save-id,0,1
+595,银之日光帽盔,Silver Solcoif,mh4g-core-common-game-array+mh4g-armor-name-crosswalk+mh4edit-mit-save-id,0,1
+596,雷狼龙头盔Ｘ,Zinogre Helm X,mh4g-core-common-game-array+mh4g-dex-build7+mh4edit-mit-save-id,9,0
+597,雷狼龙战帽Ｘ,Zinogre Cap X,mh4g-core-common-game-array+mh4g-dex-build7+mh4edit-mit-save-id,9,0
+598,雷狼龙头盔Ｚ,Zinogre Helm Z,mh4g-core-common-game-array+mh4g-dex-build7+mh4edit-mit-save-id,9,0
+599,雷狼龙战帽Ｚ,Zinogre Cap Z,mh4g-core-common-game-array+mh4g-dex-build7+mh4edit-mit-save-id,9,0
+600,雷狼龙首铠Ｕ,Zinogre Casque U,mh4g-core-common-game-array+mh4g-armor-name-crosswalk+mh4edit-mit-save-id,0,1
+601,雷狼龙帽盔Ｕ,Zinogre Coif U,mh4g-core-common-game-array+mh4g-armor-name-crosswalk+mh4edit-mit-save-id,0,1
+602,轰龙头盔Ｘ,Tigrex Helm X,mh4g-core-common-game-array+mh4g-dex-build7+mh4edit-mit-save-id,9,0
+603,轰龙战帽Ｘ,Tigrex Cap X,mh4g-core-common-game-array+mh4g-dex-build7+mh4edit-mit-save-id,9,0
+604,轰龙首铠,Tigrex Casque,mh4g-core-common-game-array+mh4g-armor-name-crosswalk+mh4edit-mit-save-id,0,1
+605,轰龙帽盔,Tigrex Coif,mh4g-core-common-game-array+mh4g-armor-name-crosswalk+mh4edit-mit-save-id,0,1
+606,轰龙头盔Ｚ,Tigrex Helm Z,mh4g-core-common-game-array+mh4g-dex-build7+mh4edit-mit-save-id,9,0
+607,轰龙战帽Ｚ,Tigrex Cap Z,mh4g-core-common-game-array+mh4g-dex-build7+mh4edit-mit-save-id,9,0
+608,轰龙首铠Ｕ,Tigrex Casque U,mh4g-core-common-game-array+mh4g-armor-name-crosswalk+mh4edit-mit-save-id,0,1
+609,轰龙帽盔Ｕ,Tigrex Coif U,mh4g-core-common-game-array+mh4g-armor-name-crosswalk+mh4edit-mit-save-id,0,1
+610,大轰龙头盔Ｚ,Excello Helm Z,mh4g-core-common-game-array+mh4g-dex-build7+mh4edit-mit-save-id,10,0
+611,大轰龙战帽Ｚ,Excello Cap Z,mh4g-core-common-game-array+mh4g-dex-build7+mh4edit-mit-save-id,10,0
+612,铠龙头盔Ｘ,Gravios Helm X,mh4g-core-common-game-array+mh4g-dex-build7+mh4edit-mit-save-id,9,0
+613,铠龙战帽Ｘ,Gravios Cap X,mh4g-core-common-game-array+mh4g-dex-build7+mh4edit-mit-save-id,9,0
+614,铠龙头盔Ｚ,Gravios Helm Z,mh4g-core-common-game-array+mh4g-dex-build7+mh4edit-mit-save-id,9,0
+615,铠龙战帽Ｚ,Gravios Cap Z,mh4g-core-common-game-array+mh4g-dex-build7+mh4edit-mit-save-id,9,0
+616,碎龙头盔Ｘ,Brachydios Helm X,mh4g-core-common-game-array+mh4g-dex-build7+mh4edit-mit-save-id,9,0
+617,碎龙战帽Ｘ,Brachydios Cap X,mh4g-core-common-game-array+mh4g-dex-build7+mh4edit-mit-save-id,9,0
+618,光碎头盔,Brachydium Helm,mh4g-core-common-game-array+mh4g-dex-build7+mh4edit-mit-save-id,10,0
+619,光碎战帽,Brachydium Cap,mh4g-core-common-game-array+mh4g-dex-build7+mh4edit-mit-save-id,10,0
+620,残阳・真【兜】,Grand Gloaming Helm,mh4g-core-common-game-array+mh4g-dex-build7+mh4edit-mit-save-id,10,0
+621,常盘・真【兜】,Grand Adamance Helm,mh4g-core-common-game-array+mh4g-dex-build7+mh4edit-mit-save-id,10,0
+622,东云・真【兜】,Grand Dayspring Helm,mh4g-core-common-game-array+mh4g-dex-build7+mh4edit-mit-save-id,10,0
+623,八千代・真【兜】,Grand Epoch Helm,mh4g-core-common-game-array+mh4g-dex-build7+mh4edit-mit-save-id,10,0
+624,残阳・真【朱兜】,Gloaming Redhelm,mh4g-core-common-game-array+mh4g-armor-name-crosswalk+mh4edit-mit-save-id,0,1
+625,常盘・真【朱兜】,Adamance Redhelm,mh4g-core-common-game-array+mh4g-armor-name-crosswalk+mh4edit-mit-save-id,0,1
+626,东云・真【朱兜】,Dayspring Redhelm,mh4g-core-common-game-array+mh4g-armor-name-crosswalk+mh4edit-mit-save-id,0,1
+627,八千代・真【朱兜】,Epoch Redhelm,mh4g-core-common-game-array+mh4g-armor-name-crosswalk+mh4edit-mit-save-id,0,1
+628,恐暴龙头盔Ｘ,Vangis Helm X,mh4g-core-common-game-array+mh4g-dex-build7+mh4edit-mit-save-id,9,0
+629,恐暴龙战帽Ｘ,Vangis Cap X,mh4g-core-common-game-array+mh4g-dex-build7+mh4edit-mit-save-id,9,0
+630,残忍头盔Ｚ,Esurient Helm Z,mh4g-core-common-game-array+mh4g-dex-build7+mh4edit-mit-save-id,10,0
+631,残忍战帽Ｚ,Esurient Cap Z,mh4g-core-common-game-array+mh4g-dex-build7+mh4edit-mit-save-id,10,0
+632,残忍首铠,Esurient Casque,mh4g-core-common-game-array+mh4g-armor-name-crosswalk+mh4edit-mit-save-id,0,1
+633,残忍帽盔,Esurient Coif,mh4g-core-common-game-array+mh4g-armor-name-crosswalk+mh4edit-mit-save-id,0,1
+634,凯撒王冠Ｘ,Kaiser Crown X,mh4g-core-common-game-array+mh4g-dex-build7+mh4edit-mit-save-id,10,0
+635,凯撒面具Ｘ,Kaiser Mask X,mh4g-core-common-game-array+mh4g-dex-build7+mh4edit-mit-save-id,10,0
+636,霸龙头盔Ｘ,Akantor Mask X,mh4g-core-common-game-array+mh4g-dex-build7+mh4edit-mit-save-id,10,0
+637,霸龙战帽Ｘ,Akantor Fangs X,mh4g-core-common-game-array+mh4g-dex-build7+mh4edit-mit-save-id,10,0
+638,霸龙首铠,Akantor Casque,mh4g-core-common-game-array+mh4g-armor-name-crosswalk+mh4edit-mit-save-id,0,1
+639,霸龙帽盔,Akantor Coif,mh4g-core-common-game-array+mh4g-armor-name-crosswalk+mh4edit-mit-save-id,0,1
+640,EX煌黑龙之智慧,EX Escadora Wisdom,mh4g-core-common-game-array+mh4g-dex-build7+mh4edit-mit-save-id,10,0
+641,EX煌黑龙之启发,EX Escadora Sagesse,mh4g-core-common-game-array+mh4g-dex-build7+mh4edit-mit-save-id,10,0
+642,崩龙头盔Ｘ,Ukanlos Mask X,mh4g-core-common-game-array+mh4g-dex-build7+mh4edit-mit-save-id,10,0
+643,崩龙战帽Ｘ,Ukanlos Fangs X,mh4g-core-common-game-array+mh4g-dex-build7+mh4edit-mit-save-id,10,0
+644,钢龙战盔Ｘ,Kushala Glare X,mh4g-core-common-game-array+mh4g-dex-build7+mh4edit-mit-save-id,10,0
+645,钢龙头盔Ｘ,Kushala Snarl X,mh4g-core-common-game-array+mh4g-dex-build7+mh4edit-mit-save-id,10,0
+646,钢龙首铠,Kushala Casque,mh4g-core-common-game-array+mh4g-armor-name-crosswalk+mh4edit-mit-save-id,0,1
+647,钢龙帽盔,Kushala Coif,mh4g-core-common-game-array+mh4g-armor-name-crosswalk+mh4edit-mit-save-id,0,1
+648,锈钢战盔,Kujula Glare,mh4g-core-common-game-array+mh4g-dex-build7+mh4edit-mit-save-id,10,0
+649,锈钢头盔,Kujula Snarl,mh4g-core-common-game-array+mh4g-dex-build7+mh4edit-mit-save-id,10,0
+650,齐天之添发・真,Grand God's Peer Mask,mh4g-core-common-game-array+mh4g-dex-build7+mh4edit-mit-save-id,10,0
+651,仙师之添发・真,Grand Hermit Mask,mh4g-core-common-game-array+mh4g-dex-build7+mh4edit-mit-save-id,10,0
+652,怒天之添发・真,Grand Divine Ire Mask,mh4g-core-common-game-array+mh4g-dex-build7+mh4edit-mit-save-id,10,0
+653,心灭之添发・真,Grand Crusher Mask,mh4g-core-common-game-array+mh4g-dex-build7+mh4edit-mit-save-id,10,0
+654,暴动头盔Ｘ,Rebellion Helm X,mh4g-core-common-game-array+mh4g-dex-build7+mh4edit-mit-save-id,10,0
+655,反逆战帽Ｘ,Riot Cap X,mh4g-core-common-game-array+mh4g-dex-build7+mh4edit-mit-save-id,10,0
+656,暴动首铠,Rebellion Casque,mh4g-core-common-game-array+mh4g-armor-name-crosswalk+mh4edit-mit-save-id,0,1
+657,反逆帽盔,Riot Coif,mh4g-core-common-game-array+mh4g-armor-name-crosswalk+mh4edit-mit-save-id,0,1
+658,暴动头盔Ｚ,Rebellion Helm Z,mh4g-core-common-game-array+mh4g-dex-build7+mh4edit-mit-save-id,10,0
+659,反逆战帽Ｚ,Riot Cap Z,mh4g-core-common-game-array+mh4g-dex-build7+mh4edit-mit-save-id,10,0
+660,沙龙头盔Ｘ,Cephalos Helm X,mh4g-core-common-game-array+mh4g-dex-build7+mh4edit-mit-save-id,8,0
+661,沙龙战帽Ｘ,Cephalos Cap X,mh4g-core-common-game-array+mh4g-dex-build7+mh4edit-mit-save-id,8,0
+662,盾蟹头盔Ｘ,Hermitaur Helm X,mh4g-core-common-game-array+mh4g-dex-build7+mh4edit-mit-save-id,8,0
+663,盾蟹战帽Ｘ,Hermitaur Cap X,mh4g-core-common-game-array+mh4g-dex-build7+mh4edit-mit-save-id,8,0
+664,盾蟹首铠,Hermitaur Casque,mh4g-core-common-game-array+mh4g-armor-name-crosswalk+mh4edit-mit-save-id,0,1
+665,盾蟹帽盔,Hermitaur Coif,mh4g-core-common-game-array+mh4g-armor-name-crosswalk+mh4edit-mit-save-id,0,1
+666,盾蟹头盔Ｚ,Hermitaur Helm Z,mh4g-core-common-game-array+mh4g-dex-build7+mh4edit-mit-save-id,8,0
+667,盾蟹战帽Ｚ,Hermitaur Cap Z,mh4g-core-common-game-array+mh4g-dex-build7+mh4edit-mit-save-id,8,0
+668,一角龙头盔Ｓ,Mono Helm S,mh4g-core-common-game-array+mh4g-dex-build7+mh4edit-mit-save-id,5,0
+669,一角龙战帽Ｓ,Mono Cap S,mh4g-core-common-game-array+mh4g-dex-build7+mh4edit-mit-save-id,5,0
+670,一角龙头盔Ｘ,Mono Helm X,mh4g-core-common-game-array+mh4g-dex-build7+mh4edit-mit-save-id,9,0
+671,一角龙战帽Ｘ,Mono Cap X,mh4g-core-common-game-array+mh4g-dex-build7+mh4edit-mit-save-id,9,0
+672,一角龙头盔,Mono Helm,mh4g-core-common-game-array+mh4g-armor-name-crosswalk+mh4edit-mit-save-id,0,1
+673,一角龙战帽,Mono Cap,mh4g-core-common-game-array+mh4g-armor-name-crosswalk+mh4edit-mit-save-id,0,1
+674,一角龙首铠,Mono Casque,mh4g-core-common-game-array+mh4g-armor-name-crosswalk+mh4edit-mit-save-id,0,1
+675,一角龙帽盔,Mono Coif,mh4g-core-common-game-array+mh4g-armor-name-crosswalk+mh4edit-mit-save-id,0,1
+676,独角恶魔头盔,Monodevil Helm,mh4g-core-common-game-array+mh4g-dex-build7+mh4edit-mit-save-id,9,0
+677,独角恶魔战帽,Monodevil Cap,mh4g-core-common-game-array+mh4g-dex-build7+mh4edit-mit-save-id,9,0
+678,独角恶魔头盔,Monodevil Helm,mh4g-core-common-game-array+mh4g-dex-build7+mh4edit-mit-save-id,9,0
+679,独角恶魔战帽,Monodevil Cap,mh4g-core-common-game-array+mh4g-dex-build7+mh4edit-mit-save-id,9,0
+680,独角恶魔首铠,Monodevil Casque,mh4g-core-common-game-array+mh4g-armor-name-crosswalk+mh4edit-mit-save-id,0,1
+681,独角恶魔帽盔,Monodevil Coif,mh4g-core-common-game-array+mh4g-armor-name-crosswalk+mh4edit-mit-save-id,0,1
+682,角龙头盔Ｘ,Diablos Helm X,mh4g-core-common-game-array+mh4g-dex-build7+mh4edit-mit-save-id,9,0
+683,角龙战帽Ｘ,Diablos Cap X,mh4g-core-common-game-array+mh4g-dex-build7+mh4edit-mit-save-id,9,0
+684,角龙头盔,Diablos Helm,mh4g-core-common-game-array+mh4g-dex-build7+mh4edit-mit-save-id,3,0
+685,角龙战帽,Diablos Cap,mh4g-core-common-game-array+mh4g-dex-build7+mh4edit-mit-save-id,3,0
+686,角龙首铠,Diablos Casque,mh4g-core-common-game-array+mh4g-armor-name-crosswalk+mh4edit-mit-save-id,0,1
+687,角龙帽盔,Diablos Coif,mh4g-core-common-game-array+mh4g-armor-name-crosswalk+mh4edit-mit-save-id,0,1
+688,角龙头盔Ｚ,Diablos Helm Z,mh4g-core-common-game-array+mh4g-dex-build7+mh4edit-mit-save-id,9,0
+689,角龙战帽Ｚ,Diablos Cap Z,mh4g-core-common-game-array+mh4g-dex-build7+mh4edit-mit-save-id,9,0
+690,龙头Ｘ,Dragonhead X,mh4g-core-common-game-array+mh4g-dex-build7+mh4edit-mit-save-id,10,0
+691,龙脸Ｘ,Dragonface X,mh4g-core-common-game-array+mh4g-dex-build7+mh4edit-mit-save-id,10,0
+692,龙之首铠Ｘ,Dragoncasque X,mh4g-core-common-game-array+mh4g-armor-name-crosswalk+mh4edit-mit-save-id,0,1
+693,龙之帽盔Ｘ,Dragoncoif X,mh4g-core-common-game-array+mh4g-armor-name-crosswalk+mh4edit-mit-save-id,0,1
+694,红龙头盔Ｚ,Fatalis Crimsonhead Z,mh4g-core-common-game-array+mh4g-armor-name-crosswalk+mh4edit-mit-save-id,0,1
+695,红龙面具Ｚ,Fatalis Crimsonface Z,mh4g-core-common-game-array+mh4g-armor-name-crosswalk+mh4edit-mit-save-id,0,1
+696,红龙首铠Ｚ,Fatalis Crimsonhelm Z,mh4g-core-common-game-array+mh4g-armor-name-crosswalk+mh4edit-mit-save-id,0,1
+697,红龙帽盔Ｚ,Fatalis Crimsoncoif Z,mh4g-core-common-game-array+mh4g-armor-name-crosswalk+mh4edit-mit-save-id,0,1
+698,愤怒头盔,Wrothhead,mh4g-core-common-game-array+mh4g-dex-build7+mh4edit-mit-save-id,10,0
+699,愤怒面具,Wrothface,mh4g-core-common-game-array+mh4g-dex-build7+mh4edit-mit-save-id,10,0
+700,祖龙头盔,White Fatalis Head,mh4g-core-common-game-array+mh4g-dex-build7+mh4edit-mit-save-id,10,0
+701,祖龙面具,White Fatalis Face,mh4g-core-common-game-array+mh4g-dex-build7+mh4edit-mit-save-id,10,0
+702,三叶真【颊面】,Grand Mizuha Mask,mh4g-core-common-game-array+mh4g-dex-build7+mh4edit-mit-save-id,10,0
+703,丰玉真【乌帽子】,Grand Cham Hat,mh4g-core-common-game-array+mh4g-dex-build7+mh4edit-mit-save-id,10,0
+704,千刃龙头盔Ｓ,Regios Helm S,mh4g-core-common-game-array+mh4g-dex-build7+mh4edit-mit-save-id,6,0
+705,千刃龙战帽Ｓ,Regios Cap S,mh4g-core-common-game-array+mh4g-dex-build7+mh4edit-mit-save-id,6,0
+706,千刃龙头盔Ｘ,Regios Helm X,mh4g-core-common-game-array+mh4g-dex-build7+mh4edit-mit-save-id,9,0
+707,千刃龙战帽Ｘ,Regios Cap X,mh4g-core-common-game-array+mh4g-dex-build7+mh4edit-mit-save-id,9,0
+708,混沌头盔,Chaos Helm,mh4g-core-common-game-array+mh4g-dex-build7+mh4edit-mit-save-id,9,0
+709,堕落头盔,Nephilim Helm,mh4g-core-common-game-array+mh4g-dex-build7+mh4edit-mit-save-id,9,0
+710,混沌战帽,Chaos Cap,mh4g-core-common-game-array+mh4g-dex-build7+mh4edit-mit-save-id,9,0
+711,堕落战帽,Nephilim Cap,mh4g-core-common-game-array+mh4g-dex-build7+mh4edit-mit-save-id,9,0
+712,岩龙头盔Ｘ,Basarios Helm X,mh4g-core-common-game-array+mh4g-dex-build7+mh4edit-mit-save-id,8,0
+713,岩龙战帽Ｘ,Basarios Cap X,mh4g-core-common-game-array+mh4g-dex-build7+mh4edit-mit-save-id,8,0
+714,岩龙头盔Ｚ,Basarios Helm Z,mh4g-core-common-game-array+mh4g-dex-build7+mh4edit-mit-save-id,8,0
+715,岩龙战帽Ｚ,Basarios Cap Z,mh4g-core-common-game-array+mh4g-dex-build7+mh4edit-mit-save-id,8,0
+716,怪鸟头盔Ｘ,Kut-Ku Helm X,mh4g-core-common-game-array+mh4g-dex-build7+mh4edit-mit-save-id,8,0
+717,怪鸟战帽Ｘ,Kut-Ku Cap X,mh4g-core-common-game-array+mh4g-dex-build7+mh4edit-mit-save-id,8,0
+718,怪鸟头盔Ｚ,Kut-Ku Helm Z,mh4g-core-common-game-array+mh4g-dex-build7+mh4edit-mit-save-id,8,0
+719,怪鸟战帽Ｚ,Kut-Ku Cap Z,mh4g-core-common-game-array+mh4g-dex-build7+mh4edit-mit-save-id,8,0
+720,黑狼鸟头盔Ｘ,Garuga Helm X,mh4g-core-common-game-array+mh4g-dex-build7+mh4edit-mit-save-id,9,0
+721,黑狼鸟战帽Ｘ,Garuga Cap X,mh4g-core-common-game-array+mh4g-dex-build7+mh4edit-mit-save-id,9,0
+722,麒麟之角Ｘ,Kirin Horn X,mh4g-core-common-game-array+mh4g-dex-build7+mh4edit-mit-save-id,10,0
+723,麒麟独角Ｘ,Kirin Crest X,mh4g-core-common-game-array+mh4g-dex-build7+mh4edit-mit-save-id,10,0
+724,麒麟角饰,Kirin Casque,mh4g-core-common-game-array+mh4g-armor-name-crosswalk+mh4edit-mit-save-id,0,1
+725,麒麟角箍,Kirin Coif,mh4g-core-common-game-array+mh4g-armor-name-crosswalk+mh4edit-mit-save-id,0,1
+726,麒麟之角Ｚ,Kirin Horn Z,mh4g-core-common-game-array+mh4g-dex-build7+mh4edit-mit-save-id,10,0
+727,麒麟独角Ｚ,Kirin Crest Z,mh4g-core-common-game-array+mh4g-dex-build7+mh4edit-mit-save-id,10,0
+728,麒麟角饰Ｕ,Kirin Casque U,mh4g-core-common-game-array+mh4g-armor-name-crosswalk+mh4edit-mit-save-id,0,1
+729,麒麟角箍Ｕ,Kirin Coif U,mh4g-core-common-game-array+mh4g-armor-name-crosswalk+mh4edit-mit-save-id,0,1
+730,飞甲虫贵族帽Ｘ,Bnahabra Hat X,mh4g-core-common-game-array+mh4g-dex-build7+mh4edit-mit-save-id,8,0
+731,飞甲虫头饰Ｘ,Bnahabra Headpiece X,mh4g-core-common-game-array+mh4g-dex-build7+mh4edit-mit-save-id,8,0
+732,垂皮头罩Ｘ,Slagtoth Hood X,mh4g-core-common-game-array+mh4g-dex-build7+mh4edit-mit-save-id,8,0
+733,垂皮头帽Ｘ,Slagtoth Cowl X,mh4g-core-common-game-array+mh4g-dex-build7+mh4edit-mit-save-id,8,0
+734,草食龙头盔Ｘ,Rhenoplos Helm X,mh4g-core-common-game-array+mh4g-dex-build7+mh4edit-mit-save-id,8,0
+735,草食龙战帽Ｘ,Rhenoplos Cap X,mh4g-core-common-game-array+mh4g-dex-build7+mh4edit-mit-save-id,8,0
+736,猎人首铠,Hunter's Casque,mh4g-core-common-game-array+mh4g-armor-name-crosswalk+mh4edit-mit-save-id,0,1
+737,猎人帽盔,Hunter's Coif,mh4g-core-common-game-array+mh4g-armor-name-crosswalk+mh4edit-mit-save-id,0,1
+738,合金首铠,Alloy Casque,mh4g-core-common-game-array+mh4g-armor-name-crosswalk+mh4edit-mit-save-id,0,1
+739,合金帽盔,Alloy Coif,mh4g-core-common-game-array+mh4g-armor-name-crosswalk+mh4edit-mit-save-id,0,1
+740,神秘头盔Ｘ,Artian Helm X,mh4g-core-common-game-array+mh4g-dex-build7+mh4edit-mit-save-id,9,0
+741,神秘战帽Ｘ,Artian Cap X,mh4g-core-common-game-array+mh4g-dex-build7+mh4edit-mit-save-id,9,0
+742,神秘首铠Ｓ,Arc Casque S,mh4g-core-common-game-array+mh4g-armor-name-crosswalk+mh4edit-mit-save-id,0,1
+743,神秘帽盔Ｓ,Arc Coif S,mh4g-core-common-game-array+mh4g-armor-name-crosswalk+mh4edit-mit-save-id,0,1
+744,高合金首铠,Ingot Casque,mh4g-core-common-game-array+mh4g-armor-name-crosswalk+mh4edit-mit-save-id,0,1
+745,高合金帽盔,Ingot Coif,mh4g-core-common-game-array+mh4g-armor-name-crosswalk+mh4edit-mit-save-id,0,1
+746,守护者头盔Ｘ,Guardian Helm X,mh4g-core-common-game-array+mh4g-dex-build7+mh4edit-mit-save-id,8,0
+747,助手头罩Ｘ,Helper Hood X,mh4g-core-common-game-array+mh4g-dex-build7+mh4edit-mit-save-id,8,0
+748,守护者面具Ｘ,Guardian Mask X,mh4g-core-common-game-array+mh4g-dex-build7+mh4edit-mit-save-id,8,0
+749,治疗者眼镜Ｘ,Healer Glasses X,mh4g-core-common-game-array+mh4g-dex-build7+mh4edit-mit-save-id,8,0
+750,守护者头盔Ｚ,Guardian Helm Z,mh4g-core-common-game-array+mh4g-dex-build7+mh4edit-mit-save-id,9,0
+751,助手头罩Ｚ,Helper Hood Z,mh4g-core-common-game-array+mh4g-dex-build7+mh4edit-mit-save-id,9,0
+752,守护者面具Ｚ,Guardian Mask Z,mh4g-core-common-game-array+mh4g-dex-build7+mh4edit-mit-save-id,9,0
+753,治疗者贝雷帽Ｚ,Healer Beret Z,mh4g-core-common-game-array+mh4g-dex-build7+mh4edit-mit-save-id,9,0
+754,Ｇ・骑士面罩Ｘ,G. Knight Feather X,mh4g-core-common-game-array+mh4g-dex-build7+mh4edit-mit-save-id,9,0
+755,女仆发夹Ｘ,Maiden's Hat X,mh4g-core-common-game-array+mh4g-dex-build7+mh4edit-mit-save-id,9,0
+756,Ｇ・骑士面具Ｘ,G. Knight Mask X,mh4g-core-common-game-array+mh4g-dex-build7+mh4edit-mit-save-id,9,0
+757,隐私眼镜Ｘ,Exclusive Glasses X,mh4g-core-common-game-array+mh4g-dex-build7+mh4edit-mit-save-id,9,0
+758,王牌头盔,Ace Headgear,mh4g-core-common-game-array+mh4g-dex-build7+mh4edit-mit-save-id,9,0
+759,女王头盔,Sororal Headgear,mh4g-core-common-game-array+mh4g-dex-build7+mh4edit-mit-save-id,9,0
+760,王牌面具,Ace Mask,mh4g-core-common-game-array+mh4g-dex-build7+mh4edit-mit-save-id,9,0
+761,女王面具,Sororal Mask,mh4g-core-common-game-array+mh4g-dex-build7+mh4edit-mit-save-id,9,0
+762,镰蟹首铠,Ceanataur Casque,mh4g-core-common-game-array+mh4g-armor-name-crosswalk+mh4edit-mit-save-id,0,1
+763,镰蟹帽盔,Ceanataur Coif,mh4g-core-common-game-array+mh4g-armor-name-crosswalk+mh4edit-mit-save-id,0,1
+764,海龙首铠,Lagiacrus Casque,mh4g-core-common-game-array+mh4g-armor-name-crosswalk+mh4edit-mit-save-id,0,1
+765,海龙帽盔,Lagiacrus Coif,mh4g-core-common-game-array+mh4g-armor-name-crosswalk+mh4edit-mit-save-id,0,1
+766,煌黑龙首铠,Escadora Casque,mh4g-core-common-game-array+mh4g-armor-name-crosswalk+mh4edit-mit-save-id,0,1
+767,煌黑龙帽盔,Escadora Coif,mh4g-core-common-game-array+mh4g-armor-name-crosswalk+mh4edit-mit-save-id,0,1
+768,晓丸【红兜】,Auroros Kermes Helm,mh4g-core-common-game-array+mh4g-armor-name-crosswalk+mh4edit-mit-save-id,0,1
+769,凛【桔梗守】,Borealis Bellflower,mh4g-core-common-game-array+mh4g-armor-name-crosswalk+mh4edit-mit-save-id,0,1
+770,曙丸【红兜】,Genesis Kermes Helm,mh4g-core-common-game-array+mh4g-armor-name-crosswalk+mh4edit-mit-save-id,0,1
+771,艳【桔梗守】,Glyph Bellflower,mh4g-core-common-game-array+mh4g-armor-name-crosswalk+mh4edit-mit-save-id,0,1
+772,水兽首铠,Ludroth Casque,mh4g-core-common-game-array+mh4g-armor-name-crosswalk+mh4edit-mit-save-id,0,1
+773,水兽帽盔,Ludroth Coif,mh4g-core-common-game-array+mh4g-armor-name-crosswalk+mh4edit-mit-save-id,0,1
+774,牛头头盔,Hornet Helm,mh4g-core-common-game-array+mh4g-armor-name-crosswalk+mh4edit-mit-save-id,0,1
+775,牛头战帽,Hornet Cap,mh4g-core-common-game-array+mh4g-armor-name-crosswalk+mh4edit-mit-save-id,0,1
+776,牛头首铠,Hornet Casque,mh4g-core-common-game-array+mh4g-armor-name-crosswalk+mh4edit-mit-save-id,0,1
+777,牛头帽盔,Hornet Coif,mh4g-core-common-game-array+mh4g-armor-name-crosswalk+mh4edit-mit-save-id,0,1
+778,毒狗龙头盔,Wroggi Hat,mh4g-core-common-game-array+mh4g-armor-name-crosswalk+mh4edit-mit-save-id,0,1
+779,毒狗龙战帽,Wroggi Cap,mh4g-core-common-game-array+mh4g-armor-name-crosswalk+mh4edit-mit-save-id,0,1
+780,毒狗龙首铠,Wroggi Casque,mh4g-core-common-game-array+mh4g-armor-name-crosswalk+mh4edit-mit-save-id,0,1
+781,毒狗龙帽盔,Wroggi Coif,mh4g-core-common-game-array+mh4g-armor-name-crosswalk+mh4edit-mit-save-id,0,1
+782,毒怪龙头盔,Gigginox Helm,mh4g-core-common-game-array+mh4g-armor-name-crosswalk+mh4edit-mit-save-id,0,1
+783,毒怪龙战帽,Gigginox Cap,mh4g-core-common-game-array+mh4g-armor-name-crosswalk+mh4edit-mit-save-id,0,1
+784,毒怪龙首铠,Gigginox Casque,mh4g-core-common-game-array+mh4g-armor-name-crosswalk+mh4edit-mit-save-id,0,1
+785,毒怪龙帽盔,Gigginox Coif,mh4g-core-common-game-array+mh4g-armor-name-crosswalk+mh4edit-mit-save-id,0,1
+786,荒天【冠】,Tempest Crown,mh4g-core-common-game-array+mh4g-dex-build7+mh4edit-mit-save-id,10,0
+787,苍天【冠】,Welkin Crown,mh4g-core-common-game-array+mh4g-dex-build7+mh4edit-mit-save-id,10,0
+788,荒天【光冠】,Tempest Diadem,mh4g-core-common-game-array+mh4g-armor-name-crosswalk+mh4edit-mit-save-id,0,1
+789,苍天【光冠】,Welkin Diadem,mh4g-core-common-game-array+mh4g-armor-name-crosswalk+mh4edit-mit-save-id,0,1
+790,死神头盔,Death Stench Brain,mh4g-core-common-game-array+mh4g-armor-name-crosswalk+mh4edit-mit-save-id,0,1
+791,死神战帽,Death Stench Soul,mh4g-core-common-game-array+mh4g-armor-name-crosswalk+mh4edit-mit-save-id,0,1
+792,死神首铠,Death Stench Casque,mh4g-core-common-game-array+mh4g-armor-name-crosswalk+mh4edit-mit-save-id,0,1
+793,死神帽盔,Death Stench Coif,mh4g-core-common-game-array+mh4g-armor-name-crosswalk+mh4edit-mit-save-id,0,1
+794,大马士革头盔,Damascus Helm,mh4g-core-common-game-array+mh4g-armor-name-crosswalk+mh4edit-mit-save-id,0,1
+795,大马士革战帽,Damascus Cap,mh4g-core-common-game-array+mh4g-armor-name-crosswalk+mh4edit-mit-save-id,0,1
+796,大马士革首铠,Damascus Casque,mh4g-core-common-game-array+mh4g-armor-name-crosswalk+mh4edit-mit-save-id,0,1
+797,大马士革帽盔,Damascus Coif,mh4g-core-common-game-array+mh4g-armor-name-crosswalk+mh4edit-mit-save-id,0,1
+798,海龙头盔Ｘ,Lagiacrus Helm X,mh4g-core-common-game-array+mh4g-dex-build7+mh4edit-mit-save-id,9,0
+799,海龙战帽Ｘ,Lagiacrus Cap X,mh4g-core-common-game-array+mh4g-dex-build7+mh4edit-mit-save-id,9,0
+800,迅龙头盔Ｘ,Nargacuga Helm X,mh4g-core-common-game-array+mh4g-dex-build7+mh4edit-mit-save-id,9,0
+801,迅龙战帽Ｘ,Nargacuga Cap X,mh4g-core-common-game-array+mh4g-dex-build7+mh4edit-mit-save-id,9,0
+802,女帝扇盔Ｘ,Empress Crown X,mh4g-core-common-game-array+mh4g-dex-build7+mh4edit-mit-save-id,10,0
+803,女帝面具Ｘ,Empress Mask X,mh4g-core-common-game-array+mh4g-dex-build7+mh4edit-mit-save-id,10,0
+804,太阳神头盔Ｘ,Helios Helm X,mh4g-core-common-game-array+mh4g-dex-build7+mh4edit-mit-save-id,10,0
+805,月神头盔Ｘ,Selene Helm X,mh4g-core-common-game-array+mh4g-dex-build7+mh4edit-mit-save-id,10,0
+806,太阳神战帽Ｘ,Helios Cap X,mh4g-core-common-game-array+mh4g-dex-build7+mh4edit-mit-save-id,10,0
+807,月神战帽Ｘ,Selene Cap X,mh4g-core-common-game-array+mh4g-dex-build7+mh4edit-mit-save-id,10,0
+808,炎戈龙头盔Ｘ,Agnaktor Helm X,mh4g-core-common-game-array+mh4g-dex-build7+mh4edit-mit-save-id,8,0
+809,炎戈龙战帽Ｘ,Agnaktor Cap X,mh4g-core-common-game-array+mh4g-dex-build7+mh4edit-mit-save-id,8,0
+810,彩鸟头盔Ｘ,Qurupeco Helm X,mh4g-core-common-game-array+mh4g-dex-build7+mh4edit-mit-save-id,8,0
+811,彩鸟战帽Ｘ,Qurupeco Cap X,mh4g-core-common-game-array+mh4g-dex-build7+mh4edit-mit-save-id,8,0
+812,灯鱼龙头盔Ｘ,Gobul Helm X,mh4g-core-common-game-array+mh4g-dex-build7+mh4edit-mit-save-id,8,0
+813,灯鱼龙战帽Ｘ,Gobul Cap X,mh4g-core-common-game-array+mh4g-dex-build7+mh4edit-mit-save-id,8,0
+814,冰牙龙头盔Ｘ,Barioth Helm X,mh4g-core-common-game-array+mh4g-dex-build7+mh4edit-mit-save-id,8,0
+815,冰牙龙战帽Ｘ,Barioth Cap X,mh4g-core-common-game-array+mh4g-dex-build7+mh4edit-mit-save-id,8,0
+816,土砂龙头盔Ｘ,Barroth Helm X,mh4g-core-common-game-array+mh4g-dex-build7+mh4edit-mit-save-id,8,0
+817,土砂龙战帽Ｘ,Barroth Cap X,mh4g-core-common-game-array+mh4g-dex-build7+mh4edit-mit-save-id,8,0
+818,潜口龙头盔Ｘ,Nibelsnarf Helm X,mh4g-core-common-game-array+mh4g-dex-build7+mh4edit-mit-save-id,8,0
+819,潜口龙战帽Ｘ,Nibelsnarf Cap X,mh4g-core-common-game-array+mh4g-dex-build7+mh4edit-mit-save-id,8,0
+820,尾槌龙头盔Ｘ,Duramboros Helm X,mh4g-core-common-game-array+mh4g-dex-build7+mh4edit-mit-save-id,9,0
+821,尾槌龙战帽Ｘ,Duramboros Cap X,mh4g-core-common-game-array+mh4g-dex-build7+mh4edit-mit-save-id,9,0
+822,熔岩龙头盔Ｘ,Lava Helm X,mh4g-core-common-game-array+mh4g-dex-build7+mh4edit-mit-save-id,9,0
+823,熔岩龙战帽Ｘ,Lava Cap X,mh4g-core-common-game-array+mh4g-dex-build7+mh4edit-mit-save-id,9,0
+824,大和・真【兜】,Grand Yamato Kabuto,mh4g-core-common-game-array+mh4g-dex-build7+mh4edit-mit-save-id,10,0
+825,日向・真【钵金】,Grand H. Hachigane,mh4g-core-common-game-array+mh4g-dex-build7+mh4edit-mit-save-id,10,0
+826,陆奥・真【阵笠】,Grand Mutsu Jingasa,mh4g-core-common-game-array+mh4g-dex-build7+mh4edit-mit-save-id,10,0
+827,天城・真【阵笠】,Grand Amagi Jingasa,mh4g-core-common-game-array+mh4g-dex-build7+mh4edit-mit-save-id,10,0
+828,夜叉・真【御面】,Grand Yaksha Mask,mh4g-core-common-game-array+mh4g-dex-build7+mh4edit-mit-save-id,10,0
+829,修罗・真【御面】,Grand Carnage Helm,mh4g-core-common-game-array+mh4g-dex-build7+mh4edit-mit-save-id,10,0
+830,炼黑龙头盔,Miralis Diadem,mh4g-core-common-game-array+mh4g-dex-build7+mh4edit-mit-save-id,10,0
+831,炼黑龙面具,Miralis Crown,mh4g-core-common-game-array+mh4g-dex-build7+mh4edit-mit-save-id,10,0
+832,水龙头盔Ｚ,Plesioth Helm Z,mh4g-core-common-game-array+mh4g-dex-build7+mh4edit-mit-save-id,8,0
+833,水龙战帽Ｚ,Plesioth Cap Z,mh4g-core-common-game-array+mh4g-dex-build7+mh4edit-mit-save-id,8,0
+834,北辰【添发】,Kita Star Headdress,mh4g-core-common-game-array+mh4g-dex-build7+mh4edit-mit-save-id,8,0
+835,海渊【添发】,Umi Ocean Headdress,mh4g-core-common-game-array+mh4g-dex-build7+mh4edit-mit-save-id,8,0
+836,甜点师厨师帽,Patissier's Toque,mh4g-core-common-game-array+mh4g-dex-build7+mh4edit-mit-save-id,7,0
+837,甜点师头巾,Patissier's Cap,mh4g-core-common-game-array+mh4g-dex-build7+mh4edit-mit-save-id,7,0
+838,高级金属头盔Ｓ,High Metal Helm S,mh4g-core-common-game-array+mh4g-dex-build7+mh4edit-mit-save-id,5,0
+839,高级金属战帽Ｓ,High Metal Cap S,mh4g-core-common-game-array+mh4g-dex-build7+mh4edit-mit-save-id,5,0
+840,锹虫头盖Ｘ,Aelucanth Vertex X,mh4g-core-common-game-array+mh4g-dex-build7+mh4edit-mit-save-id,8,0
+841,飞虫头盖Ｘ,Rhopessa Vertex X,mh4g-core-common-game-array+mh4g-dex-build7+mh4edit-mit-save-id,8,0
+842,锹虫战帽Ｘ,Aelucanth Clypeus X,mh4g-core-common-game-array+mh4g-dex-build7+mh4edit-mit-save-id,8,0
+843,飞虫战帽Ｘ,Rhopessa Clypeus X,mh4g-core-common-game-array+mh4g-dex-build7+mh4edit-mit-save-id,8,0
+844,奥比特头盖Ｘ,Obituary Vertex X,mh4g-core-common-game-array+mh4g-dex-build7+mh4edit-mit-save-id,8,0
+845,帕比梅尔头盖Ｘ,Butterfly Vertex X,mh4g-core-common-game-array+mh4g-dex-build7+mh4edit-mit-save-id,8,0
+846,奥比特头盔Ｘ,Obituary Clypeus X,mh4g-core-common-game-array+mh4g-dex-build7+mh4edit-mit-save-id,8,0
+847,帕比梅尔头盔Ｘ,Butterfly Clypeus X,mh4g-core-common-game-array+mh4g-dex-build7+mh4edit-mit-save-id,8,0
+848,EX晓丸【兜】,EX Auroros Helm,mh4g-core-common-game-array+mh4g-dex-build7+mh4edit-mit-save-id,10,0
+849,EX凛【钵金】,EX Borealis Crown,mh4g-core-common-game-array+mh4g-dex-build7+mh4edit-mit-save-id,10,0
+850,EX曙丸【乌帽子】,EX Genesis Headpiece,mh4g-core-common-game-array+mh4g-dex-build7+mh4edit-mit-save-id,10,0
+851,EX艳【钵金】,EX Glyph Crown,mh4g-core-common-game-array+mh4g-dex-build7+mh4edit-mit-save-id,10,0
+852,荒天【冠】,Tempest Crown,mh4g-core-common-game-array+mh4g-dex-build7+mh4edit-mit-save-id,10,0
+853,苍天【冠】,Welkin Crown,mh4g-core-common-game-array+mh4g-dex-build7+mh4edit-mit-save-id,10,0
+854,GX煌黑龙首铠,GX Escadora Casque,mh4g-core-common-game-array+mh4g-armor-name-crosswalk+mh4edit-mit-save-id,0,1
+855,GX煌黑龙帽盔,GX Escadora Coif,mh4g-core-common-game-array+mh4g-armor-name-crosswalk+mh4edit-mit-save-id,0,1
+856,GX龙之首铠Ｘ,GX Dragoncasque X,mh4g-core-common-game-array+mh4g-armor-name-crosswalk+mh4edit-mit-save-id,0,1
+857,GX龙之帽盔Ｘ,GX Dragoncoif X,mh4g-core-common-game-array+mh4g-armor-name-crosswalk+mh4edit-mit-save-id,0,1
+858,星光骑士头盔,Star Knight Helm,mh4g-core-common-game-array+mh4g-dex-build7+mh4edit-mit-save-id,10,0
+859,星光骑士战帽,Star Knight Cap,mh4g-core-common-game-array+mh4g-dex-build7+mh4edit-mit-save-id,10,0
+860,Ｊ反逆王海贼帽,Helm of Rage,mh4g-core-common-game-array+mh4g-dex-build7+mh4edit-mit-save-id,10,0
+861,Ｊ反逆王海盗帽,Cap of Rage,mh4g-core-common-game-array+mh4g-dex-build7+mh4edit-mit-save-id,10,0
+862,王者之冠,Varia Suit Visor,mh4g-core-common-game-array+mh4g-dex-build7+mh4edit-mit-save-id,10,0
+863,王者之冠,Zero Suit Wig,mh4g-core-common-game-array+mh4g-dex-build7+mh4edit-mit-save-id,10,0
+864,强者之冠,Varia Suit Scope,mh4g-core-common-game-array+mh4g-dex-build7+mh4edit-mit-save-id,10,0
+865,强者之冠,Zero Suit Hairpiece,mh4g-core-common-game-array+mh4g-dex-build7+mh4edit-mit-save-id,10,0
+866,防护服头盔,Varia Suit Visor,mh4g-core-common-game-array+mh4g-dex-build7+mh4edit-mit-save-id,10,0
+867,零式面具,Zero Suit Ponytail,mh4g-core-common-game-array+mh4g-dex-build7+mh4edit-mit-save-id,10,0
+868,防护服面盔,Varia Suit Scope,mh4g-core-common-game-array+mh4g-dex-build7+mh4edit-mit-save-id,10,0
+869,零式面罩,Zero Suit Hairpiece,mh4g-core-common-game-array+mh4g-dex-build7+mh4edit-mit-save-id,10,0
+870,dummy,DUMMY,mh4g-core-common-game-array+mh4edit-mit-save-id,0,0
+871,dummy,DUMMY,mh4g-core-common-game-array+mh4edit-mit-save-id,0,0
+872,鹰之帽Ｘ,Hawkhat X,mh4g-core-common-game-array+mh4g-dex-build7+mh4edit-mit-save-id,9,0
+873,战鹰兜帽Ｘ,Lecturer's Hood X,mh4g-core-common-game-array+mh4g-dex-build7+mh4edit-mit-save-id,9,0
+874,鹰之战帽Ｘ,Hawkcap X,mh4g-core-common-game-array+mh4g-dex-build7+mh4edit-mit-save-id,9,0
+875,战鹰战帽Ｘ,Lecturer's Cap X,mh4g-core-common-game-array+mh4g-dex-build7+mh4edit-mit-save-id,9,0
+876,dummy,DUMMY,mh4g-core-common-game-array+mh4edit-mit-save-id,0,0
+877,dummy,DUMMY,mh4g-core-common-game-array+mh4edit-mit-save-id,0,0
+878,dummy,DUMMY,mh4g-core-common-game-array+mh4edit-mit-save-id,0,0
+879,鹰见耳环,Hawkeye Earring,mh4g-core-common-game-array+mh4g-dex-build7+mh4edit-mit-save-id,7,0
+880,增幅羽饰,Amplifeathers,mh4g-core-common-game-array+mh4g-dex-build7+mh4edit-mit-save-id,9,0
+881,职工眼镜,Craftsman's Specs,mh4g-core-common-game-array+mh4g-dex-build7+mh4edit-mit-save-id,9,0
+882,猫耳头饰Ｘ,Felyne Hairband X,mh4g-core-common-game-array+mh4g-dex-build7+mh4edit-mit-save-id,9,0
+883,剑圣耳环,Sword Saint Earring,mh4g-core-common-game-array+mh4g-dex-build7+mh4edit-mit-save-id,9,0
+884,增弹耳环,Barrage Earring,mh4g-core-common-game-array+mh4g-dex-build7+mh4edit-mit-save-id,9,0
+885,混沌包包头饰,Chaoshroom,mh4g-core-common-game-array+mh4g-dex-build7+mh4edit-mit-save-id,10,0
+886,蓝速龙面具,Velociprey Mask,mh4g-core-common-game-array+mh4g-dex-build7+mh4edit-mit-save-id,10,0
+887,白速龙面具,Giaprey Mask,mh4g-core-common-game-array+mh4g-dex-build7+mh4edit-mit-save-id,10,0
+888,黄速龙面具,Genprey Mask,mh4g-core-common-game-array+mh4g-dex-build7+mh4edit-mit-save-id,10,0
+889,苔藓猪面具,Mosswine Mask,mh4g-core-common-game-array+mh4g-dex-build7+mh4edit-mit-save-id,10,0
+890,野猪面具,Bulldrome Mask,mh4g-core-common-game-array+mh4g-dex-build7+mh4edit-mit-save-id,10,0
+891,黑狼鸟面具,Garuga Mask,mh4g-core-common-game-array+mh4g-dex-build7+mh4edit-mit-save-id,10,0
+892,白猫面具,False Felyne,mh4g-core-common-game-array+mh4g-dex-build7+mh4edit-mit-save-id,10,0
+893,橡果头盔,Acorn Helm,mh4g-core-common-game-array+mh4g-dex-build7+mh4edit-mit-save-id,10,0
+894,谢谢让猫坐一下,Palico Bro,mh4g-core-common-game-array+mh4g-dex-build7+mh4edit-mit-save-id,10,0
+895,GX猎人首铠,GX Hunter's Casque,mh4g-core-common-game-array+mh4g-dex-build7+mh4edit-mit-save-id,10,0
+896,GX猎人帽盔,GX Hunter's Coif,mh4g-core-common-game-array+mh4g-dex-build7+mh4edit-mit-save-id,10,0
+897,GX残忍首铠,GX Esurient Casque,mh4g-core-common-game-array+mh4g-dex-build7+mh4edit-mit-save-id,10,0
+898,GX残忍帽盔,GX Esurient Coif,mh4g-core-common-game-array+mh4g-dex-build7+mh4edit-mit-save-id,10,0
+899,GX荒天【光冠】,GX Tempest Diadem,mh4g-core-common-game-array+mh4g-dex-build7+mh4edit-mit-save-id,10,0
+900,GX苍天【光冠】,GX Welkin Diadem,mh4g-core-common-game-array+mh4g-dex-build7+mh4edit-mit-save-id,10,0
+901,GX红龙首铠Ｚ,GX Fatalis Crimsonhelm,mh4g-core-common-game-array+mh4g-dex-build7+mh4edit-mit-save-id,10,0
+902,GX红龙帽盔Ｚ,GX Fatalis Crimsoncoif,mh4g-core-common-game-array+mh4g-dex-build7+mh4edit-mit-save-id,10,0
+903,猎人头盔,Hunter's Helm,mh4g-core-common-game-array+mh4g-dex-build7+mh4edit-mit-save-id,1,0
+904,猎人战帽,Hunter's Cap,mh4g-core-common-game-array+mh4g-dex-build7+mh4edit-mit-save-id,1,0
+905,猎人头盔,Hunter's Helm,mh4g-core-common-game-array+mh4g-dex-build7+mh4edit-mit-save-id,1,0
+906,猎人战帽,Hunter's Cap,mh4g-core-common-game-array+mh4g-dex-build7+mh4edit-mit-save-id,1,0
+907,水兽头盔,Ludroth Helm,mh4g-core-common-game-array+mh4g-dex-build7+mh4edit-mit-save-id,2,0
+908,水兽战帽,Ludroth Cap,mh4g-core-common-game-array+mh4g-dex-build7+mh4edit-mit-save-id,2,0
+909,水兽头盔,Ludroth Helm,mh4g-core-common-game-array+mh4g-dex-build7+mh4edit-mit-save-id,2,0
+910,水兽战帽,Ludroth Cap,mh4g-core-common-game-array+mh4g-dex-build7+mh4edit-mit-save-id,2,0
+911,合金头盔,Alloy Helm,mh4g-core-common-game-array+mh4g-dex-build7+mh4edit-mit-save-id,1,0
+912,合金战帽,Alloy Cap,mh4g-core-common-game-array+mh4g-dex-build7+mh4edit-mit-save-id,1,0
+913,合金头盔,Alloy Helm,mh4g-core-common-game-array+mh4g-dex-build7+mh4edit-mit-save-id,1,0
+914,合金战帽,Alloy Cap,mh4g-core-common-game-array+mh4g-dex-build7+mh4edit-mit-save-id,1,0
+915,毒怪鸟头盔,Gypceros Helm,mh4g-core-common-game-array+mh4g-dex-build7+mh4edit-mit-save-id,2,0
+916,毒怪鸟战帽,Gypceros Cap,mh4g-core-common-game-array+mh4g-dex-build7+mh4edit-mit-save-id,2,0
+917,毒怪鸟头盔,Gypceros Helm,mh4g-core-common-game-array+mh4g-dex-build7+mh4edit-mit-save-id,2,0
+918,毒怪鸟战帽,Gypceros Cap,mh4g-core-common-game-array+mh4g-dex-build7+mh4edit-mit-save-id,2,0
+919,电龙头盔,Khezu Helm,mh4g-core-common-game-array+mh4g-dex-build7+mh4edit-mit-save-id,2,0
+920,电龙战帽,Khezu Cap,mh4g-core-common-game-array+mh4g-dex-build7+mh4edit-mit-save-id,2,0
+921,电龙头盔,Khezu Helm,mh4g-core-common-game-array+mh4g-dex-build7+mh4edit-mit-save-id,2,0
+922,电龙战帽,Khezu Cap,mh4g-core-common-game-array+mh4g-dex-build7+mh4edit-mit-save-id,2,0
+923,高合金头盔,Ingot Helm,mh4g-core-common-game-array+mh4g-dex-build7+mh4edit-mit-save-id,3,0
+924,高合金战帽,Ingot Cap,mh4g-core-common-game-array+mh4g-dex-build7+mh4edit-mit-save-id,3,0
+925,高合金头盔,Ingot Helm,mh4g-core-common-game-array+mh4g-dex-build7+mh4edit-mit-save-id,3,0
+926,高合金战帽,Ingot Cap,mh4g-core-common-game-array+mh4g-dex-build7+mh4edit-mit-save-id,3,0
+927,雌火龙头盔,Rathian Helm,mh4g-core-common-game-array+mh4g-dex-build7+mh4edit-mit-save-id,2,0
+928,雌火龙战帽,Rathian Cap,mh4g-core-common-game-array+mh4g-dex-build7+mh4edit-mit-save-id,2,0
+929,海龙头盔,Lagiacrus Helm,mh4g-core-common-game-array+mh4g-dex-build7+mh4edit-mit-save-id,6,0
+930,海龙战帽,Lagiacrus Cap,mh4g-core-common-game-array+mh4g-dex-build7+mh4edit-mit-save-id,6,0
+931,雄火龙头盔,Rathalos Helm,mh4g-core-common-game-array+mh4g-dex-build7+mh4edit-mit-save-id,3,0
+932,雄火龙战帽,Rathalos Cap,mh4g-core-common-game-array+mh4g-dex-build7+mh4edit-mit-save-id,3,0
+933,毒怪鸟头盔Ｕ,Gypceros Helm U,mh4g-core-common-game-array+mh4g-dex-build7+mh4edit-mit-save-id,6,0
+934,毒怪鸟战帽Ｕ,Gypceros Cap U,mh4g-core-common-game-array+mh4g-dex-build7+mh4edit-mit-save-id,6,0
+935,电龙头盔Ｕ,Khezu Helm U,mh4g-core-common-game-array+mh4g-dex-build7+mh4edit-mit-save-id,6,0
+936,电龙战帽Ｕ,Khezu Cap U,mh4g-core-common-game-array+mh4g-dex-build7+mh4edit-mit-save-id,6,0
+937,轰龙头盔,Tigrex Helm,mh4g-core-common-game-array+mh4g-dex-build7+mh4edit-mit-save-id,3,0
+938,轰龙战帽,Tigrex Cap,mh4g-core-common-game-array+mh4g-dex-build7+mh4edit-mit-save-id,3,0
+939,麒麟之角,Kirin Horn,mh4g-core-common-game-array+mh4g-dex-build7+mh4edit-mit-save-id,3,0
+940,麒麟独角,Kirin Crest,mh4g-core-common-game-array+mh4g-dex-build7+mh4edit-mit-save-id,3,0
+941,麒麟之角,Kirin Horn,mh4g-core-common-game-array+mh4g-dex-build7+mh4edit-mit-save-id,3,0
+942,麒麟独角,Kirin Crest,mh4g-core-common-game-array+mh4g-dex-build7+mh4edit-mit-save-id,3,0
+943,神秘头盔Ｓ,Artian Helm S,mh4g-core-common-game-array+mh4g-dex-build7+mh4edit-mit-save-id,5,0
+944,神秘战帽Ｓ,Artian Cap S,mh4g-core-common-game-array+mh4g-dex-build7+mh4edit-mit-save-id,5,0
+945,镰蟹头盔,Ceanataur Helm,mh4g-core-common-game-array+mh4g-dex-build7+mh4edit-mit-save-id,2,0
+946,镰蟹战帽,Ceanataur Cap,mh4g-core-common-game-array+mh4g-dex-build7+mh4edit-mit-save-id,2,0
+947,镰蟹头盔,Ceanataur Helm,mh4g-core-common-game-array+mh4g-dex-build7+mh4edit-mit-save-id,2,0
+948,镰蟹战帽,Ceanataur Cap,mh4g-core-common-game-array+mh4g-dex-build7+mh4edit-mit-save-id,2,0
+949,残阳【兜】,Gloaming Helm,mh4g-core-common-game-array+mh4g-dex-build7+mh4edit-mit-save-id,3,0
+950,东云【陣笠】,Dayspring Kasa,mh4g-core-common-game-array+mh4g-dex-build7+mh4edit-mit-save-id,3,0
+951,常盘【兜】,Adamance Helm,mh4g-core-common-game-array+mh4g-dex-build7+mh4edit-mit-save-id,3,0
+952,八千代【冠】,Epoch Helm,mh4g-core-common-game-array+mh4g-dex-build7+mh4edit-mit-save-id,3,0
+953,雷狼龙头盔Ｕ,Zinogre Helm U,mh4g-core-common-game-array+mh4g-dex-build7+mh4edit-mit-save-id,6,0
+954,雷狼龙战帽Ｕ,Zinogre Cap U,mh4g-core-common-game-array+mh4g-dex-build7+mh4edit-mit-save-id,6,0
+955,黑轰龙头盔Ｕ,Tigrex Helm U,mh4g-core-common-game-array+mh4g-dex-build7+mh4edit-mit-save-id,6,0
+956,黑轰龙战帽Ｕ,Tigrex Cap U,mh4g-core-common-game-array+mh4g-dex-build7+mh4edit-mit-save-id,6,0
+957,黑蚀龙头盔,Gore Helm,mh4g-core-common-game-array+mh4g-dex-build7+mh4edit-mit-save-id,3,0
+958,黑蚀龙战帽,Gore Cap,mh4g-core-common-game-array+mh4g-dex-build7+mh4edit-mit-save-id,3,0
+959,晓丸【兜】,Auroros Helm,mh4g-core-common-game-array+mh4g-dex-build7+mh4edit-mit-save-id,3,0
+960,曙丸【乌帽子】,Genesis Headpiece,mh4g-core-common-game-array+mh4g-dex-build7+mh4edit-mit-save-id,3,0
+961,凛【钵金】,Borealis Crown,mh4g-core-common-game-array+mh4g-dex-build7+mh4edit-mit-save-id,3,0
+962,艳【钵金】,Glyph Crown,mh4g-core-common-game-array+mh4g-dex-build7+mh4edit-mit-save-id,3,0
+963,麒麟之角Ｕ,Kirin Horn U,mh4g-core-common-game-array+mh4g-dex-build7+mh4edit-mit-save-id,7,0
+964,麒麟独角Ｕ,Kirin Crest U,mh4g-core-common-game-array+mh4g-dex-build7+mh4edit-mit-save-id,7,0
+965,麒麟之角Ｕ,Kirin Horn U,mh4g-core-common-game-array+mh4g-dex-build7+mh4edit-mit-save-id,7,0
+966,麒麟独角Ｕ,Kirin Crest U,mh4g-core-common-game-array+mh4g-dex-build7+mh4edit-mit-save-id,7,0
+967,残忍头盔,Esurient Helm,mh4g-core-common-game-array+mh4g-dex-build7+mh4edit-mit-save-id,7,0
+968,残忍战帽,Esurient Cap,mh4g-core-common-game-array+mh4g-dex-build7+mh4edit-mit-save-id,7,0
+969,一角龙头盔,Monoblos Helm,mh4g-core-common-game-array+mh4g-armor-name-crosswalk+mh4edit-mit-save-id,0,1
+970,一角龙战帽,Monoblos Cap,mh4g-core-common-game-array+mh4g-armor-name-crosswalk+mh4edit-mit-save-id,0,1
+971,牛头头盔,Hornet Helm,mh4g-core-common-game-array+mh4g-armor-name-crosswalk+mh4edit-mit-save-id,0,1
+972,牛头战帽,Hornet Cap,mh4g-core-common-game-array+mh4g-armor-name-crosswalk+mh4edit-mit-save-id,0,1
+973,毒狗龙头盔,Wroggi Hat,mh4g-core-common-game-array+mh4g-armor-name-crosswalk+mh4edit-mit-save-id,0,1
+974,毒狗龙战帽,Wroggi Cap,mh4g-core-common-game-array+mh4g-armor-name-crosswalk+mh4edit-mit-save-id,0,1
+975,独角恶魔头盔,Monodevil Helm,mh4g-core-common-game-array+mh4g-dex-build7+mh4edit-mit-save-id,9,0
+976,独角恶魔战帽,Monodevil Cap,mh4g-core-common-game-array+mh4g-dex-build7+mh4edit-mit-save-id,9,0
+977,角龙头盔,Diablos Helm,mh4g-core-common-game-array+mh4g-dex-build7+mh4edit-mit-save-id,3,0
+978,角龙战帽,Diablos Cap,mh4g-core-common-game-array+mh4g-dex-build7+mh4edit-mit-save-id,3,0
+979,毒怪龙头盔,Gigginox Helm,mh4g-core-common-game-array+mh4g-armor-name-crosswalk+mh4edit-mit-save-id,0,1
+980,毒怪龙战帽,Gigginox Cap,mh4g-core-common-game-array+mh4g-armor-name-crosswalk+mh4edit-mit-save-id,0,1
+981,死神头盔,Death Stench Brain,mh4g-core-common-game-array+mh4g-armor-name-crosswalk+mh4edit-mit-save-id,0,1
+982,死神战帽,Death Stench Soul,mh4g-core-common-game-array+mh4g-armor-name-crosswalk+mh4edit-mit-save-id,0,1
+983,大马士革头盔,Damascus Helm,mh4g-core-common-game-array+mh4g-armor-name-crosswalk+mh4edit-mit-save-id,0,1
+984,大马士革战帽,Damascus Cap,mh4g-core-common-game-array+mh4g-armor-name-crosswalk+mh4edit-mit-save-id,0,1
+985,dummy,DUMMY,mh4g-core-common-game-array+mh4edit-mit-save-id,0,0
+986,dummy,DUMMY,mh4g-core-common-game-array+mh4edit-mit-save-id,0,0

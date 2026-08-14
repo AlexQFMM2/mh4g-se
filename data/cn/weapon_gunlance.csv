@@ -1,222 +1,222 @@
 id,name,english,source,rarity,is_relic
-0,无,None,mh4g-save-format,0,0
-1,钢铁铳枪,Iron Gunlance,mh4g-dex-build7+mh4edit-mit-save-id,1,0
-2,钢铁铳枪改,Iron Gunlance+,mh4g-dex-build7+mh4edit-mit-save-id,1,0
-3,精钢铳枪,Steel Gunlance,mh4g-dex-build7+mh4edit-mit-save-id,1,0
-4,讨伐队正式铳枪,Striker's Gunlance,mh4g-dex-build7+mh4edit-mit-save-id,2,0
-5,近卫队正式铳枪,Defender's Gunlance,mh4g-dex-build7+mh4edit-mit-save-id,2,0
-6,帝国铳枪,Imperial Guardlance,mh4g-dex-build7+mh4edit-mit-save-id,3,0
-7,将军铳枪,General's Arbalance,mh4g-dex-build7+mh4edit-mit-save-id,4,0
-8,提督铳枪,Admiral's Arbalance,mh4g-dex-build7+mh4edit-mit-save-id,6,0
-9,古代史旋转铳枪,Ancient Gyrelance,mh4g-dex-build7+mh4edit-mit-save-id,4,0
-10,古代史歼灭铳枪,Ancient Gyresmite,mh4g-dex-build7+mh4edit-mit-save-id,5,0
-11,红色城墙,Red Rook,mh4g-dex-build7+mh4edit-mit-save-id,3,0
-12,红色城墙改,Red Rook+,mh4g-dex-build7+mh4edit-mit-save-id,4,0
-13,血腥城墙,Crimson Rook,mh4g-dex-build7+mh4edit-mit-save-id,5,0
-14,银色城墙,Silver Rook,mh4g-dex-build7+mh4edit-mit-save-id,6,0
-15,银色战车,Chariot Gun,mh4g-dex-build7+mh4edit-mit-save-id,7,0
-16,迪欧斯铳枪,Dios Gunlance,mh4g-dex-build7+mh4edit-mit-save-id,4,0
-17,迪欧斯铳枪改,Dios Gunlance+,mh4g-dex-build7+mh4edit-mit-save-id,5,0
-18,爆碎之铳枪,Demolition Gunlance,mh4g-dex-build7+mh4edit-mit-save-id,6,0
-19,高电压铳枪,Full Voltage,mh4g-dex-build7+mh4edit-mit-save-id,2,0
-20,高电磁场铳枪,Full Generator,mh4g-dex-build7+mh4edit-mit-save-id,3,0
-21,红色电磁场铳枪,Red Generator,mh4g-dex-build7+mh4edit-mit-save-id,5,0
-22,血色发电机,Bloodied Dynamo,mh4g-dex-build7+mh4edit-mit-save-id,6,0
-23,朱鬼铳枪,Red Devil Gunlance,mh4g-dex-build7+mh4edit-mit-save-id,2,0
-24,朱鬼铳枪【破岩】,Red Devil Smasher,mh4g-dex-build7+mh4edit-mit-save-id,2,0
-25,苍鬼铳枪炮,Blue Devil Uberlance,mh4g-dex-build7+mh4edit-mit-save-id,4,0
-26,苍鬼铳枪炮【鬼拵】,Blue Devil Opus,mh4g-dex-build7+mh4edit-mit-save-id,5,0
-27,白色铳枪,White Gunlance,mh4g-dex-build7+mh4edit-mit-save-id,3,0
-28,白色加农炮,White Cannon,mh4g-dex-build7+mh4edit-mit-save-id,5,0
-29,黑色铳枪,Black Gunlance,mh4g-dex-build7+mh4edit-mit-save-id,6,0
-30,潜海者,Seadiver,mh4g-dex-build7+mh4edit-mit-save-id,2,0
-31,潜海者改,Seadiver+,mh4g-dex-build7+mh4edit-mit-save-id,3,0
-32,深海破坏者,Deepbuster,mh4g-dex-build7+mh4edit-mit-save-id,5,0
-33,深海毁灭者,Deep Gunbuster,mh4g-dex-build7+mh4edit-mit-save-id,6,0
-34,骨铳枪,Bone Gunlance,mh4g-dex-build7+mh4edit-mit-save-id,1,0
-35,大骨铳枪,Great Bone Gunlance,mh4g-dex-build7+mh4edit-mit-save-id,1,0
-36,狗龙铳枪,Jaggid Gunlance,mh4g-dex-build7+mh4edit-mit-save-id,1,0
-37,狗龙铳枪改,Jaggid Gunlance+,mh4g-dex-build7+mh4edit-mit-save-id,2,0
-38,桃色铳枪,Hurricane Gunlance,mh4g-dex-build7+mh4edit-mit-save-id,2,0
-39,轰龙铳,Tiger Blast,mh4g-dex-build7+mh4edit-mit-save-id,3,0
-40,轰铳枪【虎炮】,Tigrex Gunlance,mh4g-dex-build7+mh4edit-mit-save-id,5,0
-41,暴君狂袭,Accursed Blast,mh4g-dex-build7+mh4edit-mit-save-id,6,0
-42,冲铳枪【威迫】,Menacing Gravegun,mh4g-dex-build7+mh4edit-mit-save-id,7,0
-43,鬼铳枪,Demon Gunlance,mh4g-dex-build7+mh4edit-mit-save-id,6,0
-44,雷鬼铳枪龙枪,Great Demon Gunlance,mh4g-dex-build7+mh4edit-mit-save-id,7,0
-45,权力of暴躁,Tyrannenarm,mh4g-dex-build7+mh4edit-mit-save-id,3,0
-46,权力of嘲讽,Verräterarm,mh4g-dex-build7+mh4edit-mit-save-id,4,0
-47,权力of傲慢,Hochmutsarm,mh4g-dex-build7+mh4edit-mit-save-id,5,0
-48,THE脉冲,L'Onde,mh4g-dex-build7+mh4edit-mit-save-id,7,0
-49,公主烈炎,Princess Panoply,mh4g-dex-build7+mh4edit-mit-save-id,2,0
-50,公主烈炎改,Princess Panoply+,mh4g-dex-build7+mh4edit-mit-save-id,3,0
-51,奥鲁特林迪,Ortlinde,mh4g-dex-build7+mh4edit-mit-save-id,5,0
-52,女王烈炎,Queen's Panoply,mh4g-dex-build7+mh4edit-mit-save-id,7,0
-53,王铳枪刚雷,Usurper's Roar,mh4g-dex-build7+mh4edit-mit-save-id,3,0
-54,王铳枪豪雷改,Usurper's Roar+,mh4g-dex-build7+mh4edit-mit-save-id,5,0
-55,王牙铳枪【火雷】,Despot's Phlogiston,mh4g-dex-build7+mh4edit-mit-save-id,6,0
-56,狱铳枪龙血,Brimstren Drakeblood,mh4g-dex-build7+mh4edit-mit-save-id,6,0
-57,水平强棒,Average Hitter,mh4g-dex-build7+mh4edit-mit-save-id,2,0
-58,广角强棒,Grand Slam,mh4g-dex-build7+mh4edit-mit-save-id,3,0
-59,坚毅强棒,Hard Hitter,mh4g-dex-build7+mh4edit-mit-save-id,4,0
-60,大回旋击,Big Slugger,mh4g-dex-build7+mh4edit-mit-save-id,6,0
-61,白兔铳枪,Lagomberator,mh4g-dex-build7+mh4edit-mit-save-id,2,0
-62,白兔射线,Lagomberatrix,mh4g-dex-build7+mh4edit-mit-save-id,3,0
-63,白兔风暴,Lagomberastrophe,mh4g-dex-build7+mh4edit-mit-save-id,4,0
-64,白兔爆破,Lagombergeddon,mh4g-dex-build7+mh4edit-mit-save-id,6,0
-65,武装飞鸟,Shell Gunbird,mh4g-dex-build7+mh4edit-mit-save-id,2,0
-66,武装飞鸟改,Shell Gunbird+,mh4g-dex-build7+mh4edit-mit-save-id,3,0
-67,贵族武装飞鸟,Noble Gunbird,mh4g-dex-build7+mh4edit-mit-save-id,4,0
-68,皇室武装飞鸟,Royal Gunbird,mh4g-dex-build7+mh4edit-mit-save-id,5,0
-69,彩鸟铳,Peco Teepee,mh4g-dex-build7+mh4edit-mit-save-id,2,0
-70,彩鸟铳改,Peco Teepee+,mh4g-dex-build7+mh4edit-mit-save-id,2,0
-71,羽毛铳枪,Feather Gunlance,mh4g-dex-build7+mh4edit-mit-save-id,4,0
-72,睡神加农,Hypno Cannon,mh4g-dex-build7+mh4edit-mit-save-id,6,0
-73,艾琉铳枪,Felyoshka,mh4g-dex-build7+mh4edit-mit-save-id,2,0
-74,艾琉铳枪改,Felyoshka+,mh4g-dex-build7+mh4edit-mit-save-id,3,0
-75,福福艾琉铳枪,Felicitous Felyoshka,mh4g-dex-build7+mh4edit-mit-save-id,5,0
-76,海洋捕鱼者,Marine Fisher,mh4g-dex-build7+mh4edit-mit-save-id,2,0
-77,深海捕鱼者,Abyssal Fisher,mh4g-dex-build7+mh4edit-mit-save-id,3,0
-78,深海绝境,Deep Blue Sea,mh4g-dex-build7+mh4edit-mit-save-id,5,0
-79,海王枪里瓦亚萨,Leviathan Gunlance,mh4g-dex-build7+mh4edit-mit-save-id,6,0
-80,风化严重的铳枪,Worn Gunlance,mh4g-dex-build7+mh4edit-mit-save-id,5,0
-81,风化的铳枪,Weathered Gunlance,mh4g-dex-build7+mh4edit-mit-save-id,5,0
-82,巨神兵守卫,Obelisk,mh4g-dex-build7+mh4edit-mit-save-id,6,0
-83,炎妃咆哮,Luna's Howl,mh4g-dex-build7+mh4edit-mit-save-id,6,0
-84,炎妃火焰,Luna's Flare,mh4g-dex-build7+mh4edit-mit-save-id,7,0
-85,钢冰铳枪,Icesteel Gunlance,mh4g-dex-build7+mh4edit-mit-save-id,6,0
-86,达欧拉＝布里吉亚,Daora's Brigia,mh4g-dex-build7+mh4edit-mit-save-id,7,0
-87,璀璨显现,Brilliance,mh4g-dex-build7+mh4edit-mit-save-id,4,0
-88,豪铳枪【天照大神】,Amaterasu,mh4g-dex-build7+mh4edit-mit-save-id,7,0
-89,愚欲之铳枪,Ravenous Gunlance,mh4g-dex-build7+mh4edit-mit-save-id,4,0
-90,暴铳枪格拉格里德,Insatiable Gunlance,mh4g-dex-build7+mh4edit-mit-save-id,6,0
-91,業銃槍ディグラトニ,Consummate Gunlance,mh4g-dex-build7+mh4edit-mit-save-id,7,0
-92,霸铳枪黑神魂,Akantor Gunlance,mh4g-dex-build7+mh4edit-mit-save-id,7,0
-93,反逆凶星之铳枪,Illstarred Gunlance,mh4g-dex-build7+mh4edit-mit-save-id,6,0
-94,震天动地的崩枪,The Celestial Fall,mh4g-dex-build7+mh4edit-mit-save-id,7,0
-95,黑龙铳枪,Fatalis Gunlance,mh4g-dex-build7+mh4edit-mit-save-id,7,0
-96,【日】银色皇冠,[JP] シルバークラウン,mh4g-dex-build7+mh4edit-mit-save-id+mh4g-save-id-dex-crosswalk,2,0
-97,【日】金色皇冠,[JP] ゴールドクラウン,mh4g-dex-build7+mh4edit-mit-save-id+mh4g-save-id-dex-crosswalk,3,0
-98,【日】白金皇冠,[JP] Platinum Crown,mh4g-dex-build7+mh4edit-mit-save-id+mh4g-save-id-dex-crosswalk,6,0
-99,【日】雷电工作室,[JP] Voltaic Works,mh4g-dex-build7+mh4edit-mit-save-id+mh4g-save-id-dex-crosswalk,5,0
-100,公主烈炎（发掘·红）,Princess Panoply (red),mh4g-dex-build7+mh4edit-mit-save-id,0,1
-101,公主烈炎（发掘·黄）,Princess Panoply (yellow),mh4g-dex-build7+mh4edit-mit-save-id,0,1
-102,公主烈炎（发掘·绿）,Princess Panoply (green),mh4g-dex-build7+mh4edit-mit-save-id,0,1
-103,公主烈炎（发掘·蓝）,Princess Panoply (blue),mh4g-dex-build7+mh4edit-mit-save-id,0,1
-104,公主烈炎（发掘·紫）,Princess Panoply (purple),mh4g-dex-build7+mh4edit-mit-save-id,0,1
-105,高电压铳枪（发掘·红）,Full Voltage (red),mh4g-dex-build7+mh4edit-mit-save-id,0,1
-106,高电压铳枪（发掘·黄）,Full Voltage (yellow),mh4g-dex-build7+mh4edit-mit-save-id,0,1
-107,高电压铳枪（发掘·绿）,Full Voltage (green),mh4g-dex-build7+mh4edit-mit-save-id,0,1
-108,高电压铳枪（发掘·蓝）,Full Voltage (blue),mh4g-dex-build7+mh4edit-mit-save-id,0,1
-109,高电压铳枪（发掘·紫）,Full Voltage (purple),mh4g-dex-build7+mh4edit-mit-save-id,0,1
-110,炎妃咆哮（发掘·红）,Luna's Howl (red),mh4g-dex-build7+mh4edit-mit-save-id,0,1
-111,炎妃咆哮（发掘·黄）,Luna's Howl (yellow),mh4g-dex-build7+mh4edit-mit-save-id,0,1
-112,炎妃咆哮（发掘·绿）,Luna's Howl (green),mh4g-dex-build7+mh4edit-mit-save-id,0,1
-113,炎妃咆哮（发掘·蓝）,Luna's Howl (blue),mh4g-dex-build7+mh4edit-mit-save-id,0,1
-114,炎妃咆哮（发掘·紫）,Luna's Howl (purple),mh4g-dex-build7+mh4edit-mit-save-id,0,1
-115,将军铳枪（发掘·红）,General's Arbalance (red),mh4g-dex-build7+mh4edit-mit-save-id,0,1
-116,将军铳枪（发掘·黄）,General's Arbalance (yellow),mh4g-dex-build7+mh4edit-mit-save-id,0,1
-117,将军铳枪（发掘·绿）,General's Arbalance (green),mh4g-dex-build7+mh4edit-mit-save-id,0,1
-118,将军铳枪（发掘·蓝）,General's Arbalance (blue),mh4g-dex-build7+mh4edit-mit-save-id,0,1
-119,将军铳枪（发掘·紫）,General's Arbalance (purple),mh4g-dex-build7+mh4edit-mit-save-id,0,1
-120,银色城墙（发掘·红）,Silver Rook (red),mh4g-dex-build7+mh4edit-mit-save-id,0,1
-121,银色城墙（发掘·黄）,Silver Rook (yellow),mh4g-dex-build7+mh4edit-mit-save-id,0,1
-122,银色城墙（发掘·绿）,Silver Rook (green),mh4g-dex-build7+mh4edit-mit-save-id,0,1
-123,银色城墙（发掘·蓝）,Silver Rook (blue),mh4g-dex-build7+mh4edit-mit-save-id,0,1
-124,银色城墙（发掘·紫）,Silver Rook (purple),mh4g-dex-build7+mh4edit-mit-save-id,0,1
-125,提督铳枪改,Admiral's Arbalance+,mh4g-dex-build7+mh4edit-mit-save-id,8,0
-126,皇帝铳枪,Imperial Swornlance,mh4g-dex-build7+mh4edit-mit-save-id,9,0
-127,创世纪,Progenesis,mh4g-dex-build7+mh4edit-mit-save-id,8,0
-128,大帝国,Empire,mh4g-dex-build7+mh4edit-mit-save-id,9,0
-129,海龙爆裂枪,Lagia Burst,mh4g-dex-build7+mh4edit-mit-save-id,6,0
-130,白雷铳枪莱奥尔德,Eutaxy Whitebolt,mh4g-dex-build7+mh4edit-mit-save-id,9,0
-131,冥铳枪恩格尔姆,Nether Jugulus,mh4g-dex-build7+mh4edit-mit-save-id,10,0
-132,世界终焉,World's Demise,mh4g-dex-build7+mh4edit-mit-save-id,10,0
-133,至尊帝王,Eine Wahrheit,mh4g-dex-build7+mh4edit-mit-save-id,10,0
-134,破岩铳枪兹沃尔塔,Zvolta Demolisher,mh4g-dex-build7+mh4edit-mit-save-id,9,0
-135,碎光之铳枪,Lightbreak Gunlance,mh4g-dex-build7+mh4edit-mit-save-id,10,0
-136,血色全电铳枪,Blood Bolt,mh4g-dex-build7+mh4edit-mit-save-id,8,0
-137,血色全雷铳枪,Blood Thunder,mh4g-dex-build7+mh4edit-mit-save-id,9,0
-138,荒鬼铳枪大炮,Rampage Cannonlance,mh4g-dex-build7+mh4edit-mit-save-id,8,0
-139,荒鬼铳枪大炮【焰口】,Rampage Firebelcher,mh4g-dex-build7+mh4edit-mit-save-id,9,0
-140,漆黑加农炮,Black Gore Cannon,mh4g-dex-build7+mh4edit-mit-save-id,9,0
-141,漆黑毁灭者,Black Gore Buster,mh4g-dex-build7+mh4edit-mit-save-id,9,0
-142,巨型毁灭者,Megalo Mincer,mh4g-dex-build7+mh4edit-mit-save-id,8,0
-143,深海阎王之箱,Jones's Locker,mh4g-dex-build7+mh4edit-mit-save-id,9,0
-144,陆鲨铳枪,Tetrozonata,mh4g-dex-build7+mh4edit-mit-save-id,8,0
-145,弗拉格尔之毒,Velenofragola,mh4g-dex-build7+mh4edit-mit-save-id,9,0
-146,钳子铳枪,Scissor Gunlance,mh4g-dex-build7+mh4edit-mit-save-id,5,0
-147,钳子加农,Scissor Cannon,mh4g-dex-build7+mh4edit-mit-save-id,8,0
-148,深紫加农,Violet Cannon,mh4g-dex-build7+mh4edit-mit-save-id,8,0
-149,深紫毁灭炮,Violet Buster,mh4g-dex-build7+mh4edit-mit-save-id,9,0
-150,淑女铳枪,Monsieur Gore,mh4g-dex-build7+mh4edit-mit-save-id,8,0
-151,淑女铳枪改,Monsieur Gore+,mh4g-dex-build7+mh4edit-mit-save-id,8,0
-152,女士铳枪,Madame Butcher,mh4g-dex-build7+mh4edit-mit-save-id,9,0
-153,炮铳枪格内尔塔弗内斯,Seltas Fortitude,mh4g-dex-build7+mh4edit-mit-save-id,9,0
-154,冲铳枪【威迫】改,Menacing Gravegun+,mh4g-dex-build7+mh4edit-mit-save-id,9,0
-155,绝冲铳枪【鬼迫】,Hounding Grisgun,mh4g-dex-build7+mh4edit-mit-save-id,10,0
-156,雷鬼铳枪德拉冈改,Grt Demon Gunlance+,mh4g-dex-build7+mh4edit-mit-save-id,9,0
-157,鬼神铳枪德拉基冈,Demonlord Gunlance,mh4g-dex-build7+mh4edit-mit-save-id,10,0
-158,THE城墙,Le Mur,mh4g-dex-build7+mh4edit-mit-save-id,9,0
-159,THE堡垒,La Forteresse,mh4g-dex-build7+mh4edit-mit-save-id,10,0
-160,城墙or战争,Mauer/Guerre,mh4g-dex-build7+mh4edit-mit-save-id,9,0
-161,煌铳枪伊修塔尔,Shining Ishtar,mh4g-dex-build7+mh4edit-mit-save-id,8,0
-162,煌铳枪阿斯塔尔特,Shining Astarte,mh4g-dex-build7+mh4edit-mit-save-id,10,0
-163,煌龙铳枪迪亚玛特,Shimmering Tiamat,mh4g-dex-build7+mh4edit-mit-save-id,10,0
-164,真・王牙铳枪【震天】,Oppressor's Skyfall,mh4g-dex-build7+mh4edit-mit-save-id,9,0
-165,狱铳枪龙血,Brimstren Drakeblood+,mh4g-dex-build7+mh4edit-mit-save-id,9,0
-166,狼牙铳枪【贪狱】,Stygian Avaritia,mh4g-dex-build7+mh4edit-mit-save-id,9,0
-167,大回旋击改,Big Slugger+,mh4g-dex-build7+mh4edit-mit-save-id,8,0
-168,三重王冠,Triple Crown,mh4g-dex-build7+mh4edit-mit-save-id,9,0
-169,白兔雪崩,Lagombalanche,mh4g-dex-build7+mh4edit-mit-save-id,8,0
-170,白兔冰天雪地,Lagombavalanga,mh4g-dex-build7+mh4edit-mit-save-id,9,0
-171,皇室武装飞鸟改,Royal Gunbird+,mh4g-dex-build7+mh4edit-mit-save-id,8,0
-172,暗夜加农,Nightfall Cannon,mh4g-dex-build7+mh4edit-mit-save-id,9,0
-173,暗夜女神加农,Nux Cannon,mh4g-dex-build7+mh4edit-mit-save-id,9,0
-174,眠铳枪修普诺斯,Hypnos,mh4g-dex-build7+mh4edit-mit-save-id,9,0
-175,唐炮,Cornpopper,mh4g-dex-build7+mh4edit-mit-save-id,5,0
-176,大唐炮,Mighty Cornpopper,mh4g-dex-build7+mh4edit-mit-save-id,9,0
-177,海神枪里瓦伊桑,Diviathan Gunlance,mh4g-dex-build7+mh4edit-mit-save-id,8,0
-178,海灭枪阿比斯,Sea Abyss,mh4g-dex-build7+mh4edit-mit-save-id,9,0
-179,冥界之主,Deus Obelisk,mh4g-dex-build7+mh4edit-mit-save-id,9,0
-180,炎妃火焰改,Luna's Flare+,mh4g-dex-build7+mh4edit-mit-save-id,8,0
-181,炎妃日光,Luna's Sun,mh4g-dex-build7+mh4edit-mit-save-id,10,0
-182,达欧拉＝特佩斯塔,Daora's Tempest,mh4g-dex-build7+mh4edit-mit-save-id,10,0
-183,埃尔达欧尔＝布里吉亚,Eldaora's Brigia,mh4g-dex-build7+mh4edit-mit-save-id,10,0
-184,剧毒火枪炮,Venomous Perfume,mh4g-dex-build7+mh4edit-mit-save-id,10,0
-185,岩户隐,Iwato,mh4g-dex-build7+mh4edit-mit-save-id,9,0
-186,豪嵩铳枪【天津日高】,Amatsuhiko,mh4g-dex-build7+mh4edit-mit-save-id,10,0
-187,灭铳枪黑暗血腥,"Doomlance ""Greed""",mh4g-dex-build7+mh4edit-mit-save-id,10,0
-188,霸炮枪库奈阿贝卡姆,Akantor Cannonlance,mh4g-dex-build7+mh4edit-mit-save-id,10,0
-189,崩铳枪帕斯卡姆鲁巴斯,Ukanlos Gunlance,mh4g-dex-build7+mh4edit-mit-save-id,7,0
-190,崩炮枪巴西卡翁卡姆,Ukanlos Cannonlance,mh4g-dex-build7+mh4edit-mit-save-id,9,0
-191,破碎王贡古博尔德,Ethelbald the Dire,mh4g-dex-build7+mh4edit-mit-save-id,9,0
-192,帝铳枪达拉贝尔芬,Dalamadur Gunlance,mh4g-dex-build7+mh4edit-mit-save-id,10,0
-193,蛇铳枪兰塞玛迪拉,Unchained Dalamadur,mh4g-dex-build7+mh4edit-mit-save-id,10,0
-194,真・黑龙铳枪,True Fatalis Gunlance,mh4g-dex-build7+mh4edit-mit-save-id,10,0
-195,焰魔灭龙铳枪,Hellruin Gunlance,mh4g-dex-build7+mh4edit-mit-save-id,10,0
-196,祖龙灵铳枪,W. Fatalis Gunlance,mh4g-dex-build7+mh4edit-mit-save-id,10,0
-197,千刃铳枪,Jaya Gunlance,mh4g-dex-build7+mh4edit-mit-save-id,6,0
-198,千刃铳枪改,Jaya Gunlance+,mh4g-dex-build7+mh4edit-mit-save-id,7,0
-199,叛逆之铳枪,Seditious Gunlance,mh4g-dex-build7+mh4edit-mit-save-id,9,0
-200,叛逆铳枪罗德雷吉昂,Tamarod Sedition,mh4g-dex-build7+mh4edit-mit-save-id,10,0
-201,毁灭之塔,Towering Demise,mh4g-dex-build7+mh4edit-mit-save-id,10,0
-202,前兆之预言者,Auguring Prophet,mh4g-dex-build7+mh4edit-mit-save-id,10,0
-203,竹铳枪【鸟威】,Bamboo Birdsbane,mh4g-dex-build7+mh4edit-mit-save-id,4,0
-204,竹铳枪【狮威】,Bamboo Lionsbane,mh4g-dex-build7+mh4edit-mit-save-id,8,0
-205,竹铳枪【龙威】,Bamboo Dragonsbane,mh4g-dex-build7+mh4edit-mit-save-id,8,0
-206,DUMMY,DUMMY,mh4edit-mit-save-id-en-fallback,0,0
-207,DUMMY,DUMMY,mh4edit-mit-save-id-en-fallback,0,0
-208,DUMMY,DUMMY,mh4edit-mit-save-id-en-fallback,0,0
-209,碎牙炮（发掘·红）,Fangbreaker (red),mh3u-se-cn-gpl-v3+mh4edit-mit-save-id,0,1
-210,碎牙炮（发掘·黄）,Fangbreaker (yellow),mh3u-se-cn-gpl-v3+mh4edit-mit-save-id,0,1
-211,碎牙炮（发掘·绿）,Fangbreaker (green),mh3u-se-cn-gpl-v3+mh4edit-mit-save-id,0,1
-212,碎牙炮（发掘·蓝）,Fangbreaker (blue),mh3u-se-cn-gpl-v3+mh4edit-mit-save-id,0,1
-213,碎牙炮（发掘·紫）,Fangbreaker (purple),mh3u-se-cn-gpl-v3+mh4edit-mit-save-id,0,1
-214,权力of暴躁（发掘·红）,Tyrannenarm (red),mh4g-dex-build7+mh4edit-mit-save-id,0,1
-215,权力of暴躁（发掘·黄）,Tyrannenarm (yellow),mh4g-dex-build7+mh4edit-mit-save-id,0,1
-216,权力of暴躁（发掘·绿）,Tyrannenarm (green),mh4g-dex-build7+mh4edit-mit-save-id,0,1
-217,权力of暴躁（发掘·蓝）,Tyrannenarm (blue),mh4g-dex-build7+mh4edit-mit-save-id,0,1
-218,权力of暴躁（发掘·紫）,Tyrannenarm (purple),mh4g-dex-build7+mh4edit-mit-save-id,0,1
-219,Era Blazer,Era Blazer,mh4edit-mit-save-id-en-fallback,0,0
-220,Gaping Abyss,Gaping Abyss,mh4edit-mit-save-id-en-fallback,0,0
+0,无装备,None,mh4g-core-common-game-array,0,0
+1,钢铁铳枪,Iron Gunlance,mh4g-core-common-game-array+mh4g-dex-build7+mh4edit-mit-save-id,1,0
+2,钢铁铳枪改,Iron Gunlance+,mh4g-core-common-game-array+mh4g-dex-build7+mh4edit-mit-save-id,1,0
+3,精钢铳枪,Steel Gunlance,mh4g-core-common-game-array+mh4g-dex-build7+mh4edit-mit-save-id,1,0
+4,讨伐队正式铳枪,Striker's Gunlance,mh4g-core-common-game-array+mh4g-dex-build7+mh4edit-mit-save-id,2,0
+5,近卫队正式铳枪,Defender's Gunlance,mh4g-core-common-game-array+mh4g-dex-build7+mh4edit-mit-save-id,2,0
+6,帝国铳枪,Imperial Guardlance,mh4g-core-common-game-array+mh4g-dex-build7+mh4edit-mit-save-id,3,0
+7,将军铳枪,General's Arbalance,mh4g-core-common-game-array+mh4g-dex-build7+mh4edit-mit-save-id,4,0
+8,提督铳枪,Admiral's Arbalance,mh4g-core-common-game-array+mh4g-dex-build7+mh4edit-mit-save-id,6,0
+9,古代史旋转铳枪,Ancient Gyrelance,mh4g-core-common-game-array+mh4g-dex-build7+mh4edit-mit-save-id,4,0
+10,古代史歼灭铳枪,Ancient Gyresmite,mh4g-core-common-game-array+mh4g-dex-build7+mh4edit-mit-save-id,5,0
+11,红色城墙,Red Rook,mh4g-core-common-game-array+mh4g-dex-build7+mh4edit-mit-save-id,3,0
+12,红色城墙改,Red Rook+,mh4g-core-common-game-array+mh4g-dex-build7+mh4edit-mit-save-id,4,0
+13,血腥城墙,Crimson Rook,mh4g-core-common-game-array+mh4g-dex-build7+mh4edit-mit-save-id,5,0
+14,银色城墙,Silver Rook,mh4g-core-common-game-array+mh4g-dex-build7+mh4edit-mit-save-id,6,0
+15,银色战车,Chariot Gun,mh4g-core-common-game-array+mh4g-dex-build7+mh4edit-mit-save-id,7,0
+16,迪欧斯铳枪,Dios Gunlance,mh4g-core-common-game-array+mh4g-dex-build7+mh4edit-mit-save-id,4,0
+17,迪欧斯铳枪改,Dios Gunlance+,mh4g-core-common-game-array+mh4g-dex-build7+mh4edit-mit-save-id,5,0
+18,爆碎之铳枪,Demolition Gunlance,mh4g-core-common-game-array+mh4g-dex-build7+mh4edit-mit-save-id,6,0
+19,高电压铳枪,Full Voltage,mh4g-core-common-game-array+mh4g-dex-build7+mh4edit-mit-save-id,2,0
+20,高电磁场铳枪,Full Generator,mh4g-core-common-game-array+mh4g-dex-build7+mh4edit-mit-save-id,3,0
+21,红色电磁场铳枪,Red Generator,mh4g-core-common-game-array+mh4g-dex-build7+mh4edit-mit-save-id,5,0
+22,血色发电机,Bloodied Dynamo,mh4g-core-common-game-array+mh4g-dex-build7+mh4edit-mit-save-id,6,0
+23,朱鬼铳枪,Red Devil Gunlance,mh4g-core-common-game-array+mh4g-dex-build7+mh4edit-mit-save-id,2,0
+24,朱鬼铳枪【破岩】,Red Devil Smasher,mh4g-core-common-game-array+mh4g-dex-build7+mh4edit-mit-save-id,2,0
+25,苍鬼铳枪炮,Blue Devil Uberlance,mh4g-core-common-game-array+mh4g-dex-build7+mh4edit-mit-save-id,4,0
+26,苍鬼铳枪炮【鬼拵】,Blue Devil Opus,mh4g-core-common-game-array+mh4g-dex-build7+mh4edit-mit-save-id,5,0
+27,白色铳枪,White Gunlance,mh4g-core-common-game-array+mh4g-dex-build7+mh4edit-mit-save-id,3,0
+28,白色加农炮,White Cannon,mh4g-core-common-game-array+mh4g-dex-build7+mh4edit-mit-save-id,5,0
+29,黑色铳枪,Black Gunlance,mh4g-core-common-game-array+mh4g-dex-build7+mh4edit-mit-save-id,6,0
+30,潜海者,Seadiver,mh4g-core-common-game-array+mh4g-dex-build7+mh4edit-mit-save-id,2,0
+31,潜海者改,Seadiver+,mh4g-core-common-game-array+mh4g-dex-build7+mh4edit-mit-save-id,3,0
+32,深海破坏者,Deepbuster,mh4g-core-common-game-array+mh4g-dex-build7+mh4edit-mit-save-id,5,0
+33,深海毁灭者,Deep Gunbuster,mh4g-core-common-game-array+mh4g-dex-build7+mh4edit-mit-save-id,6,0
+34,骨铳枪,Bone Gunlance,mh4g-core-common-game-array+mh4g-dex-build7+mh4edit-mit-save-id,1,0
+35,大骨铳枪,Great Bone Gunlance,mh4g-core-common-game-array+mh4g-dex-build7+mh4edit-mit-save-id,1,0
+36,狗龙铳枪,Jaggid Gunlance,mh4g-core-common-game-array+mh4g-dex-build7+mh4edit-mit-save-id,1,0
+37,狗龙铳枪改,Jaggid Gunlance+,mh4g-core-common-game-array+mh4g-dex-build7+mh4edit-mit-save-id,2,0
+38,桃色铳枪,Hurricane Gunlance,mh4g-core-common-game-array+mh4g-dex-build7+mh4edit-mit-save-id,2,0
+39,轰龙铳,Tiger Blast,mh4g-core-common-game-array+mh4g-dex-build7+mh4edit-mit-save-id,3,0
+40,轰铳枪【虎炮】,Tigrex Gunlance,mh4g-core-common-game-array+mh4g-dex-build7+mh4edit-mit-save-id,5,0
+41,暴君狂袭,Accursed Blast,mh4g-core-common-game-array+mh4g-dex-build7+mh4edit-mit-save-id,6,0
+42,冲铳枪【威迫】,Menacing Gravegun,mh4g-core-common-game-array+mh4g-dex-build7+mh4edit-mit-save-id,7,0
+43,鬼铳枪,Demon Gunlance,mh4g-core-common-game-array+mh4g-dex-build7+mh4edit-mit-save-id,6,0
+44,雷鬼铳枪龙枪,Great Demon Gunlance,mh4g-core-common-game-array+mh4g-dex-build7+mh4edit-mit-save-id,7,0
+45,权力of暴躁,Tyrannenarm,mh4g-core-common-game-array+mh4g-dex-build7+mh4edit-mit-save-id,3,0
+46,权力of嘲讽,Verräterarm,mh4g-core-common-game-array+mh4g-dex-build7+mh4edit-mit-save-id,4,0
+47,权力of傲慢,Hochmutsarm,mh4g-core-common-game-array+mh4g-dex-build7+mh4edit-mit-save-id,5,0
+48,THE脉冲,L'Onde,mh4g-core-common-game-array+mh4g-dex-build7+mh4edit-mit-save-id,7,0
+49,公主烈炎,Princess Panoply,mh4g-core-common-game-array+mh4g-dex-build7+mh4edit-mit-save-id,2,0
+50,公主烈炎改,Princess Panoply+,mh4g-core-common-game-array+mh4g-dex-build7+mh4edit-mit-save-id,3,0
+51,奥鲁特林迪,Ortlinde,mh4g-core-common-game-array+mh4g-dex-build7+mh4edit-mit-save-id,5,0
+52,女王烈炎,Queen's Panoply,mh4g-core-common-game-array+mh4g-dex-build7+mh4edit-mit-save-id,7,0
+53,王铳枪刚雷,Usurper's Roar,mh4g-core-common-game-array+mh4g-dex-build7+mh4edit-mit-save-id,3,0
+54,王铳枪豪雷改,Usurper's Roar+,mh4g-core-common-game-array+mh4g-dex-build7+mh4edit-mit-save-id,5,0
+55,王牙铳枪【火雷】,Despot's Phlogiston,mh4g-core-common-game-array+mh4g-dex-build7+mh4edit-mit-save-id,6,0
+56,狱铳枪龙血,Brimstren Drakeblood,mh4g-core-common-game-array+mh4g-dex-build7+mh4edit-mit-save-id,6,0
+57,水平强棒,Average Hitter,mh4g-core-common-game-array+mh4g-dex-build7+mh4edit-mit-save-id,2,0
+58,广角强棒,Grand Slam,mh4g-core-common-game-array+mh4g-dex-build7+mh4edit-mit-save-id,3,0
+59,坚毅强棒,Hard Hitter,mh4g-core-common-game-array+mh4g-dex-build7+mh4edit-mit-save-id,4,0
+60,大回旋击,Big Slugger,mh4g-core-common-game-array+mh4g-dex-build7+mh4edit-mit-save-id,6,0
+61,白兔铳枪,Lagomberator,mh4g-core-common-game-array+mh4g-dex-build7+mh4edit-mit-save-id,2,0
+62,白兔射线,Lagomberatrix,mh4g-core-common-game-array+mh4g-dex-build7+mh4edit-mit-save-id,3,0
+63,白兔风暴,Lagomberastrophe,mh4g-core-common-game-array+mh4g-dex-build7+mh4edit-mit-save-id,4,0
+64,白兔爆破,Lagombergeddon,mh4g-core-common-game-array+mh4g-dex-build7+mh4edit-mit-save-id,6,0
+65,武装飞鸟,Shell Gunbird,mh4g-core-common-game-array+mh4g-dex-build7+mh4edit-mit-save-id,2,0
+66,武装飞鸟改,Shell Gunbird+,mh4g-core-common-game-array+mh4g-dex-build7+mh4edit-mit-save-id,3,0
+67,贵族武装飞鸟,Noble Gunbird,mh4g-core-common-game-array+mh4g-dex-build7+mh4edit-mit-save-id,4,0
+68,皇室武装飞鸟,Royal Gunbird,mh4g-core-common-game-array+mh4g-dex-build7+mh4edit-mit-save-id,5,0
+69,彩鸟铳,Peco Teepee,mh4g-core-common-game-array+mh4g-dex-build7+mh4edit-mit-save-id,2,0
+70,彩鸟铳改,Peco Teepee+,mh4g-core-common-game-array+mh4g-dex-build7+mh4edit-mit-save-id,2,0
+71,羽毛铳枪,Feather Gunlance,mh4g-core-common-game-array+mh4g-dex-build7+mh4edit-mit-save-id,4,0
+72,睡神加农,Hypno Cannon,mh4g-core-common-game-array+mh4g-dex-build7+mh4edit-mit-save-id,6,0
+73,艾琉铳枪,Felyoshka,mh4g-core-common-game-array+mh4g-dex-build7+mh4edit-mit-save-id,2,0
+74,艾琉铳枪改,Felyoshka+,mh4g-core-common-game-array+mh4g-dex-build7+mh4edit-mit-save-id,3,0
+75,福福艾琉铳枪,Felicitous Felyoshka,mh4g-core-common-game-array+mh4g-dex-build7+mh4edit-mit-save-id,5,0
+76,海洋捕鱼者,Marine Fisher,mh4g-core-common-game-array+mh4g-dex-build7+mh4edit-mit-save-id,2,0
+77,深海捕鱼者,Abyssal Fisher,mh4g-core-common-game-array+mh4g-dex-build7+mh4edit-mit-save-id,3,0
+78,深海绝境,Deep Blue Sea,mh4g-core-common-game-array+mh4g-dex-build7+mh4edit-mit-save-id,5,0
+79,海王枪里瓦亚萨,Leviathan Gunlance,mh4g-core-common-game-array+mh4g-dex-build7+mh4edit-mit-save-id,6,0
+80,风化严重的铳枪,Worn Gunlance,mh4g-core-common-game-array+mh4g-dex-build7+mh4edit-mit-save-id,5,0
+81,风化的铳枪,Weathered Gunlance,mh4g-core-common-game-array+mh4g-dex-build7+mh4edit-mit-save-id,5,0
+82,巨神兵守卫,Obelisk,mh4g-core-common-game-array+mh4g-dex-build7+mh4edit-mit-save-id,6,0
+83,炎妃咆哮,Luna's Howl,mh4g-core-common-game-array+mh4g-dex-build7+mh4edit-mit-save-id,6,0
+84,炎妃火焰,Luna's Flare,mh4g-core-common-game-array+mh4g-dex-build7+mh4edit-mit-save-id,7,0
+85,钢冰铳枪,Icesteel Gunlance,mh4g-core-common-game-array+mh4g-dex-build7+mh4edit-mit-save-id,6,0
+86,达欧拉＝布里吉亚,Daora's Brigia,mh4g-core-common-game-array+mh4g-dex-build7+mh4edit-mit-save-id,7,0
+87,璀璨显现,Brilliance,mh4g-core-common-game-array+mh4g-dex-build7+mh4edit-mit-save-id,4,0
+88,豪铳枪【天照大神】,Amaterasu,mh4g-core-common-game-array+mh4g-dex-build7+mh4edit-mit-save-id,7,0
+89,愚欲之铳枪,Ravenous Gunlance,mh4g-core-common-game-array+mh4g-dex-build7+mh4edit-mit-save-id,4,0
+90,暴铳枪格拉格里德,Insatiable Gunlance,mh4g-core-common-game-array+mh4g-dex-build7+mh4edit-mit-save-id,6,0
+91,业铳枪迪格拉特尼,Consummate Gunlance,mh4g-core-common-game-array+mh4g-dex-build7+mh4edit-mit-save-id,7,0
+92,霸铳枪黑神魂,Akantor Gunlance,mh4g-core-common-game-array+mh4g-dex-build7+mh4edit-mit-save-id,7,0
+93,反逆凶星之铳枪,Illstarred Gunlance,mh4g-core-common-game-array+mh4g-dex-build7+mh4edit-mit-save-id,6,0
+94,震天动地的崩枪,The Celestial Fall,mh4g-core-common-game-array+mh4g-dex-build7+mh4edit-mit-save-id,7,0
+95,黑龙铳枪,Fatalis Gunlance,mh4g-core-common-game-array+mh4g-dex-build7+mh4edit-mit-save-id,7,0
+96,银色皇冠,[JP] シルバークラウン,mh4g-core-common-game-array+mh4g-dex-build7+mh4edit-mit-save-id+mh4g-save-id-dex-crosswalk,2,0
+97,金色皇冠,[JP] ゴールドクラウン,mh4g-core-common-game-array+mh4g-dex-build7+mh4edit-mit-save-id+mh4g-save-id-dex-crosswalk,3,0
+98,白金皇冠,[JP] Platinum Crown,mh4g-core-common-game-array+mh4g-dex-build7+mh4edit-mit-save-id+mh4g-save-id-dex-crosswalk,6,0
+99,雷电工作室,[JP] Voltaic Works,mh4g-core-common-game-array+mh4g-dex-build7+mh4edit-mit-save-id+mh4g-save-id-dex-crosswalk,5,0
+100,公主烈炎,Princess Panoply (red),mh4g-core-common-game-array+mh4g-dex-build7+mh4edit-mit-save-id,0,1
+101,公主烈炎,Princess Panoply (yellow),mh4g-core-common-game-array+mh4g-dex-build7+mh4edit-mit-save-id,0,1
+102,公主烈炎,Princess Panoply (green),mh4g-core-common-game-array+mh4g-dex-build7+mh4edit-mit-save-id,0,1
+103,公主烈炎,Princess Panoply (blue),mh4g-core-common-game-array+mh4g-dex-build7+mh4edit-mit-save-id,0,1
+104,公主烈炎,Princess Panoply (purple),mh4g-core-common-game-array+mh4g-dex-build7+mh4edit-mit-save-id,0,1
+105,高电压铳枪,Full Voltage (red),mh4g-core-common-game-array+mh4g-dex-build7+mh4edit-mit-save-id,0,1
+106,高电压铳枪,Full Voltage (yellow),mh4g-core-common-game-array+mh4g-dex-build7+mh4edit-mit-save-id,0,1
+107,高电压铳枪,Full Voltage (green),mh4g-core-common-game-array+mh4g-dex-build7+mh4edit-mit-save-id,0,1
+108,高电压铳枪,Full Voltage (blue),mh4g-core-common-game-array+mh4g-dex-build7+mh4edit-mit-save-id,0,1
+109,高电压铳枪,Full Voltage (purple),mh4g-core-common-game-array+mh4g-dex-build7+mh4edit-mit-save-id,0,1
+110,炎妃咆哮,Luna's Howl (red),mh4g-core-common-game-array+mh4g-dex-build7+mh4edit-mit-save-id,0,1
+111,炎妃咆哮,Luna's Howl (yellow),mh4g-core-common-game-array+mh4g-dex-build7+mh4edit-mit-save-id,0,1
+112,炎妃咆哮,Luna's Howl (green),mh4g-core-common-game-array+mh4g-dex-build7+mh4edit-mit-save-id,0,1
+113,炎妃咆哮,Luna's Howl (blue),mh4g-core-common-game-array+mh4g-dex-build7+mh4edit-mit-save-id,0,1
+114,炎妃咆哮,Luna's Howl (purple),mh4g-core-common-game-array+mh4g-dex-build7+mh4edit-mit-save-id,0,1
+115,将军铳枪,General's Arbalance (red),mh4g-core-common-game-array+mh4g-dex-build7+mh4edit-mit-save-id,0,1
+116,将军铳枪,General's Arbalance (yellow),mh4g-core-common-game-array+mh4g-dex-build7+mh4edit-mit-save-id,0,1
+117,将军铳枪,General's Arbalance (green),mh4g-core-common-game-array+mh4g-dex-build7+mh4edit-mit-save-id,0,1
+118,将军铳枪,General's Arbalance (blue),mh4g-core-common-game-array+mh4g-dex-build7+mh4edit-mit-save-id,0,1
+119,将军铳枪,General's Arbalance (purple),mh4g-core-common-game-array+mh4g-dex-build7+mh4edit-mit-save-id,0,1
+120,银色城墙,Silver Rook (red),mh4g-core-common-game-array+mh4g-dex-build7+mh4edit-mit-save-id,0,1
+121,银色城墙,Silver Rook (yellow),mh4g-core-common-game-array+mh4g-dex-build7+mh4edit-mit-save-id,0,1
+122,银色城墙,Silver Rook (green),mh4g-core-common-game-array+mh4g-dex-build7+mh4edit-mit-save-id,0,1
+123,银色城墙,Silver Rook (blue),mh4g-core-common-game-array+mh4g-dex-build7+mh4edit-mit-save-id,0,1
+124,银色城墙,Silver Rook (purple),mh4g-core-common-game-array+mh4g-dex-build7+mh4edit-mit-save-id,0,1
+125,提督铳枪改,Admiral's Arbalance+,mh4g-core-common-game-array+mh4g-dex-build7+mh4edit-mit-save-id,8,0
+126,皇帝铳枪,Imperial Swornlance,mh4g-core-common-game-array+mh4g-dex-build7+mh4edit-mit-save-id,9,0
+127,创世纪,Progenesis,mh4g-core-common-game-array+mh4g-dex-build7+mh4edit-mit-save-id,8,0
+128,大帝国,Empire,mh4g-core-common-game-array+mh4g-dex-build7+mh4edit-mit-save-id,9,0
+129,海龙爆裂枪,Lagia Burst,mh4g-core-common-game-array+mh4g-dex-build7+mh4edit-mit-save-id,6,0
+130,白雷铳枪莱奥尔德,Eutaxy Whitebolt,mh4g-core-common-game-array+mh4g-dex-build7+mh4edit-mit-save-id,9,0
+131,冥铳枪恩格尔姆,Nether Jugulus,mh4g-core-common-game-array+mh4g-dex-build7+mh4edit-mit-save-id,10,0
+132,世界终焉,World's Demise,mh4g-core-common-game-array+mh4g-dex-build7+mh4edit-mit-save-id,10,0
+133,至尊帝王,Eine Wahrheit,mh4g-core-common-game-array+mh4g-dex-build7+mh4edit-mit-save-id,10,0
+134,破岩铳枪兹沃尔塔,Zvolta Demolisher,mh4g-core-common-game-array+mh4g-dex-build7+mh4edit-mit-save-id,9,0
+135,碎光之铳枪,Lightbreak Gunlance,mh4g-core-common-game-array+mh4g-dex-build7+mh4edit-mit-save-id,10,0
+136,血色全电铳枪,Blood Bolt,mh4g-core-common-game-array+mh4g-dex-build7+mh4edit-mit-save-id,8,0
+137,血色全雷铳枪,Blood Thunder,mh4g-core-common-game-array+mh4g-dex-build7+mh4edit-mit-save-id,9,0
+138,荒鬼铳枪大炮,Rampage Cannonlance,mh4g-core-common-game-array+mh4g-dex-build7+mh4edit-mit-save-id,8,0
+139,荒鬼铳枪大炮【焰口】,Rampage Firebelcher,mh4g-core-common-game-array+mh4g-dex-build7+mh4edit-mit-save-id,9,0
+140,漆黑加农炮,Black Gore Cannon,mh4g-core-common-game-array+mh4g-dex-build7+mh4edit-mit-save-id,9,0
+141,漆黑毁灭者,Black Gore Buster,mh4g-core-common-game-array+mh4g-dex-build7+mh4edit-mit-save-id,9,0
+142,巨型毁灭者,Megalo Mincer,mh4g-core-common-game-array+mh4g-dex-build7+mh4edit-mit-save-id,8,0
+143,深海阎王之箱,Jones's Locker,mh4g-core-common-game-array+mh4g-dex-build7+mh4edit-mit-save-id,9,0
+144,陆鲨铳枪,Tetrozonata,mh4g-core-common-game-array+mh4g-dex-build7+mh4edit-mit-save-id,8,0
+145,弗拉格尔之毒,Velenofragola,mh4g-core-common-game-array+mh4g-dex-build7+mh4edit-mit-save-id,9,0
+146,钳子铳枪,Scissor Gunlance,mh4g-core-common-game-array+mh4g-dex-build7+mh4edit-mit-save-id,5,0
+147,钳子加农,Scissor Cannon,mh4g-core-common-game-array+mh4g-dex-build7+mh4edit-mit-save-id,8,0
+148,深紫加农,Violet Cannon,mh4g-core-common-game-array+mh4g-dex-build7+mh4edit-mit-save-id,8,0
+149,深紫毁灭炮,Violet Buster,mh4g-core-common-game-array+mh4g-dex-build7+mh4edit-mit-save-id,9,0
+150,淑女铳枪,Monsieur Gore,mh4g-core-common-game-array+mh4g-dex-build7+mh4edit-mit-save-id,8,0
+151,淑女铳枪改,Monsieur Gore+,mh4g-core-common-game-array+mh4g-dex-build7+mh4edit-mit-save-id,8,0
+152,女士铳枪,Madame Butcher,mh4g-core-common-game-array+mh4g-dex-build7+mh4edit-mit-save-id,9,0
+153,炮铳枪格内尔塔弗内斯,Seltas Fortitude,mh4g-core-common-game-array+mh4g-dex-build7+mh4edit-mit-save-id,9,0
+154,冲铳枪【威迫】改,Menacing Gravegun+,mh4g-core-common-game-array+mh4g-dex-build7+mh4edit-mit-save-id,9,0
+155,绝冲铳枪【鬼迫】,Hounding Grisgun,mh4g-core-common-game-array+mh4g-dex-build7+mh4edit-mit-save-id,10,0
+156,雷鬼铳枪德拉冈改,Grt Demon Gunlance+,mh4g-core-common-game-array+mh4g-dex-build7+mh4edit-mit-save-id,9,0
+157,鬼神铳枪德拉基冈,Demonlord Gunlance,mh4g-core-common-game-array+mh4g-dex-build7+mh4edit-mit-save-id,10,0
+158,THE城墙,Le Mur,mh4g-core-common-game-array+mh4g-dex-build7+mh4edit-mit-save-id,9,0
+159,THE堡垒,La Forteresse,mh4g-core-common-game-array+mh4g-dex-build7+mh4edit-mit-save-id,10,0
+160,城墙or战争,Mauer/Guerre,mh4g-core-common-game-array+mh4g-dex-build7+mh4edit-mit-save-id,9,0
+161,煌铳枪伊修塔尔,Shining Ishtar,mh4g-core-common-game-array+mh4g-dex-build7+mh4edit-mit-save-id,8,0
+162,煌铳枪阿斯塔尔特,Shining Astarte,mh4g-core-common-game-array+mh4g-dex-build7+mh4edit-mit-save-id,10,0
+163,煌龙铳枪迪亚玛特,Shimmering Tiamat,mh4g-core-common-game-array+mh4g-dex-build7+mh4edit-mit-save-id,10,0
+164,真・王牙铳枪【震天】,Oppressor's Skyfall,mh4g-core-common-game-array+mh4g-dex-build7+mh4edit-mit-save-id,9,0
+165,狱铳枪龙血,Brimstren Drakeblood+,mh4g-core-common-game-array+mh4g-dex-build7+mh4edit-mit-save-id,9,0
+166,狼牙铳枪【贪狱】,Stygian Avaritia,mh4g-core-common-game-array+mh4g-dex-build7+mh4edit-mit-save-id,9,0
+167,大回旋击改,Big Slugger+,mh4g-core-common-game-array+mh4g-dex-build7+mh4edit-mit-save-id,8,0
+168,三重王冠,Triple Crown,mh4g-core-common-game-array+mh4g-dex-build7+mh4edit-mit-save-id,9,0
+169,白兔雪崩,Lagombalanche,mh4g-core-common-game-array+mh4g-dex-build7+mh4edit-mit-save-id,8,0
+170,白兔冰天雪地,Lagombavalanga,mh4g-core-common-game-array+mh4g-dex-build7+mh4edit-mit-save-id,9,0
+171,皇室武装飞鸟改,Royal Gunbird+,mh4g-core-common-game-array+mh4g-dex-build7+mh4edit-mit-save-id,8,0
+172,暗夜加农,Nightfall Cannon,mh4g-core-common-game-array+mh4g-dex-build7+mh4edit-mit-save-id,9,0
+173,暗夜女神加农,Nux Cannon,mh4g-core-common-game-array+mh4g-dex-build7+mh4edit-mit-save-id,9,0
+174,眠铳枪修普诺斯,Hypnos,mh4g-core-common-game-array+mh4g-dex-build7+mh4edit-mit-save-id,9,0
+175,唐炮,Cornpopper,mh4g-core-common-game-array+mh4g-dex-build7+mh4edit-mit-save-id,5,0
+176,大唐炮,Mighty Cornpopper,mh4g-core-common-game-array+mh4g-dex-build7+mh4edit-mit-save-id,9,0
+177,海神枪里瓦伊桑,Diviathan Gunlance,mh4g-core-common-game-array+mh4g-dex-build7+mh4edit-mit-save-id,8,0
+178,海灭枪阿比斯,Sea Abyss,mh4g-core-common-game-array+mh4g-dex-build7+mh4edit-mit-save-id,9,0
+179,冥界之主,Deus Obelisk,mh4g-core-common-game-array+mh4g-dex-build7+mh4edit-mit-save-id,9,0
+180,炎妃火焰改,Luna's Flare+,mh4g-core-common-game-array+mh4g-dex-build7+mh4edit-mit-save-id,8,0
+181,炎妃日光,Luna's Sun,mh4g-core-common-game-array+mh4g-dex-build7+mh4edit-mit-save-id,10,0
+182,达欧拉＝特佩斯塔,Daora's Tempest,mh4g-core-common-game-array+mh4g-dex-build7+mh4edit-mit-save-id,10,0
+183,埃尔达欧尔＝布里吉亚,Eldaora's Brigia,mh4g-core-common-game-array+mh4g-dex-build7+mh4edit-mit-save-id,10,0
+184,剧毒火枪炮,Venomous Perfume,mh4g-core-common-game-array+mh4g-dex-build7+mh4edit-mit-save-id,10,0
+185,岩户隐,Iwato,mh4g-core-common-game-array+mh4g-dex-build7+mh4edit-mit-save-id,9,0
+186,豪嵩铳枪【天津日高】,Amatsuhiko,mh4g-core-common-game-array+mh4g-dex-build7+mh4edit-mit-save-id,10,0
+187,灭铳枪黑暗血腥,"Doomlance ""Greed""",mh4g-core-common-game-array+mh4g-dex-build7+mh4edit-mit-save-id,10,0
+188,霸炮枪库奈阿贝卡姆,Akantor Cannonlance,mh4g-core-common-game-array+mh4g-dex-build7+mh4edit-mit-save-id,10,0
+189,崩铳枪帕斯卡姆鲁巴斯,Ukanlos Gunlance,mh4g-core-common-game-array+mh4g-dex-build7+mh4edit-mit-save-id,7,0
+190,崩炮枪巴西卡翁卡姆,Ukanlos Cannonlance,mh4g-core-common-game-array+mh4g-dex-build7+mh4edit-mit-save-id,9,0
+191,破碎王贡古博尔德,Ethelbald the Dire,mh4g-core-common-game-array+mh4g-dex-build7+mh4edit-mit-save-id,9,0
+192,帝铳枪达拉贝尔芬,Dalamadur Gunlance,mh4g-core-common-game-array+mh4g-dex-build7+mh4edit-mit-save-id,10,0
+193,蛇铳枪兰塞玛迪拉,Unchained Dalamadur,mh4g-core-common-game-array+mh4g-dex-build7+mh4edit-mit-save-id,10,0
+194,真・黑龙铳枪,True Fatalis Gunlance,mh4g-core-common-game-array+mh4g-dex-build7+mh4edit-mit-save-id,10,0
+195,焰魔灭龙铳枪,Hellruin Gunlance,mh4g-core-common-game-array+mh4g-dex-build7+mh4edit-mit-save-id,10,0
+196,祖龙灵铳枪,W. Fatalis Gunlance,mh4g-core-common-game-array+mh4g-dex-build7+mh4edit-mit-save-id,10,0
+197,千刃铳枪,Jaya Gunlance,mh4g-core-common-game-array+mh4g-dex-build7+mh4edit-mit-save-id,6,0
+198,千刃铳枪改,Jaya Gunlance+,mh4g-core-common-game-array+mh4g-dex-build7+mh4edit-mit-save-id,7,0
+199,叛逆之铳枪,Seditious Gunlance,mh4g-core-common-game-array+mh4g-dex-build7+mh4edit-mit-save-id,9,0
+200,叛逆铳枪罗德雷吉昂,Tamarod Sedition,mh4g-core-common-game-array+mh4g-dex-build7+mh4edit-mit-save-id,10,0
+201,毁灭之塔,Towering Demise,mh4g-core-common-game-array+mh4g-dex-build7+mh4edit-mit-save-id,10,0
+202,前兆之预言者,Auguring Prophet,mh4g-core-common-game-array+mh4g-dex-build7+mh4edit-mit-save-id,10,0
+203,竹铳枪【鸟威】,Bamboo Birdsbane,mh4g-core-common-game-array+mh4g-dex-build7+mh4edit-mit-save-id,4,0
+204,竹铳枪【狮威】,Bamboo Lionsbane,mh4g-core-common-game-array+mh4g-dex-build7+mh4edit-mit-save-id,8,0
+205,竹铳枪【龙威】,Bamboo Dragonsbane,mh4g-core-common-game-array+mh4g-dex-build7+mh4edit-mit-save-id,8,0
+206,dummy,DUMMY,mh4g-core-common-game-array+mh4edit-mit-save-id,0,0
+207,dummy,DUMMY,mh4g-core-common-game-array+mh4edit-mit-save-id,0,0
+208,dummy,DUMMY,mh4g-core-common-game-array+mh4edit-mit-save-id,0,0
+209,碎牙炮,Fangbreaker (red),mh4g-core-common-game-array+mh3u-se-cn-gpl-v3+mh4edit-mit-save-id,0,1
+210,碎牙炮,Fangbreaker (yellow),mh4g-core-common-game-array+mh3u-se-cn-gpl-v3+mh4edit-mit-save-id,0,1
+211,碎牙炮,Fangbreaker (green),mh4g-core-common-game-array+mh3u-se-cn-gpl-v3+mh4edit-mit-save-id,0,1
+212,碎牙炮,Fangbreaker (blue),mh4g-core-common-game-array+mh3u-se-cn-gpl-v3+mh4edit-mit-save-id,0,1
+213,碎牙炮,Fangbreaker (purple),mh4g-core-common-game-array+mh3u-se-cn-gpl-v3+mh4edit-mit-save-id,0,1
+214,权力of暴躁,Tyrannenarm (red),mh4g-core-common-game-array+mh4g-dex-build7+mh4edit-mit-save-id,0,1
+215,权力of暴躁,Tyrannenarm (yellow),mh4g-core-common-game-array+mh4g-dex-build7+mh4edit-mit-save-id,0,1
+216,权力of暴躁,Tyrannenarm (green),mh4g-core-common-game-array+mh4g-dex-build7+mh4edit-mit-save-id,0,1
+217,权力of暴躁,Tyrannenarm (blue),mh4g-core-common-game-array+mh4g-dex-build7+mh4edit-mit-save-id,0,1
+218,权力of暴躁,Tyrannenarm (purple),mh4g-core-common-game-array+mh4g-dex-build7+mh4edit-mit-save-id,0,1
+219,伊拉之铳枪,Era Blazer,mh4g-core-common-game-array+mh4edit-mit-save-id,0,0
+220,阿比斯梵之辉石,Gaping Abyss,mh4g-core-common-game-array+mh4edit-mit-save-id,0,0
