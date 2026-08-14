@@ -7,6 +7,7 @@ CONFIG += c++17
 DESTDIR = $$PWD/bin
 OBJECTS_DIR = $$PWD/build/obj
 MOC_DIR = $$PWD/build/moc
+RCC_DIR = $$PWD/build/rcc
 
 INCLUDEPATH += $$PWD/src $$PWD/src/mh3u-ui $$PWD/src/mh3u-ui/widget
 
@@ -43,6 +44,8 @@ HEADERS += \
     src/mh3u-ui/widget/qitem.hpp \
     src/mh3u-ui/widget/qoption.hpp \
     src/mh3u-ui/widget/qweapon.hpp
+
+RESOURCES += resources/resources.qrc
 
 win32: LIBS += -lcrypto
 unix:!macx: LIBS += -l:libcrypto.so.3
