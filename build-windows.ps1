@@ -128,6 +128,16 @@ $qwindows = $qwindowsCandidates | Where-Object { Test-Path $_ } | Select-Object 
 if (-not $qwindows) { throw "qwindows.dll was not found." }
 Copy-Item $qwindows (Join-Path $platformDir "qwindows.dll") -Force
 
+$sqlDriversDir = Join-Path $Package "sqldrivers"
+New-Item -ItemType Directory -Force -Path $sqlDriversDir | Out-Null
+$qsqliteCandidates = @(
+    (Join-Path $QtRoot "share\qt5\plugins\sqldrivers\qsqlite.dll"),
+    (Join-Path $QtRoot "plugins\sqldrivers\qsqlite.dll")
+)
+$qsqlite = $qsqliteCandidates | Where-Object { Test-Path $_ } | Select-Object -First 1
+if (-not $qsqlite) { throw "qsqlite.dll was not found." }
+Copy-Item $qsqlite (Join-Path $sqlDriversDir "qsqlite.dll") -Force
+
 $Objdump = Join-Path $QtBin "objdump.exe"
 if (-not (Test-Path $Objdump)) { throw "objdump.exe was not found in $QtBin" }
 Copy-ImportedDlls $Package $QtBin $Objdump
