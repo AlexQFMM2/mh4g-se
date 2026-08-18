@@ -1,5 +1,5 @@
 QT -= gui
-QT += core
+QT += core sql
 
 TEMPLATE = app
 TARGET = test_save_core

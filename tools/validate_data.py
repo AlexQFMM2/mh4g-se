@@ -8,6 +8,7 @@ import csv
 import hashlib
 import io
 import json
+import sqlite3
 import struct
 import subprocess
 import tempfile
@@ -28,6 +29,15 @@ BLOWFISH_KEY = b"blowfish key iorajegqmrna4itjeangmb agmwgtobjteowhv9mope"
 BASE_COLUMNS = ["id", "name", "english", "source"]
 EQUIPMENT_COLUMNS = BASE_COLUMNS + ["rarity", "is_relic"]
 LOOKUP_COLUMNS = ["domain", "equipment_type", "variant", "value", "name", "english", "source"]
+SQLITE_MANIFEST_FORMAT = "mh4g-save-editor-data-manifest-v2"
+SQLITE_FORMAT = "mh4g-save-editor-sqlite-v1"
+SQLITE_TABLES = {
+    "meta", "sources", "equipment_types", "items", "weapons", "armors",
+    "armor_skill_points", "decorations", "decoration_skill_points",
+    "skill_trees", "active_skills", "charm_classes", "equipment_lookups",
+    "relic_weapon_attack_values", "relic_armor_defense_values",
+    "relic_armor_resistance_values",
+}
 
 
 class ValidationErrors:
@@ -44,6 +54,104 @@ class ValidationErrors:
 
 def sha256(path: Path) -> str:
     return hashlib.sha256(path.read_bytes()).hexdigest()
+
+
+def is_sha256(value: object) -> bool:
+    return isinstance(value, str) and len(value) == 64 and all(char in "0123456789abcdef" for char in value)
+
+
+def validate_sqlite_dataset(data_dir: Path, manifest: dict, errors: ValidationErrors) -> dict[str, object]:
+    database_info = manifest.get("database", {})
+    database_name = database_info.get("file")
+    errors.require(database_name == "mh4g.sqlite", "manifest: database.file must be mh4g.sqlite")
+    database_path = data_dir / "mh4g.sqlite"
+    errors.require(database_path.is_file(), f"{database_path}: missing")
+    if not database_path.is_file():
+        return {"data": str(data_dir), "database": str(database_path), "errors": errors.messages}
+
+    expected_digest = database_info.get("sha256")
+    errors.require(is_sha256(expected_digest), "manifest: invalid database SHA-256")
+    errors.require(expected_digest == sha256(database_path), "manifest: database SHA-256 mismatch")
+    errors.require(database_info.get("bytes") == database_path.stat().st_size, "manifest: database byte size mismatch")
+    errors.require(manifest.get("generator", {}).get("name") == "build_sqlite_data.py", "manifest: unexpected generator")
+    errors.require(manifest.get("generator", {}).get("version") == "1.1.0", "manifest: unsupported generator version")
+    errors.require("timestamp" not in json.dumps(manifest).lower(), "manifest: timestamps are forbidden")
+
+    native = manifest.get("native_export", {})
+    errors.require(native.get("format") == "mh4g-native-equipment-export-v1", "manifest: unsupported native export")
+    errors.require(is_sha256(native.get("code_sha256")), "manifest: invalid code.bin SHA-256")
+
+    sources = manifest.get("sources", [])
+    source_names: set[str] = set()
+    for source in sources if isinstance(sources, list) else []:
+        name, digest = source.get("name"), source.get("sha256")
+        errors.require(isinstance(name, str) and bool(name), "manifest: source name must not be empty")
+        errors.require(is_sha256(digest), f"manifest: invalid source SHA-256 for {name}")
+        if isinstance(name, str):
+            errors.require(name not in source_names, f"manifest: duplicate source {name}")
+            source_names.add(name)
+            if name.startswith("csv/"):
+                source_path = data_dir / name.removeprefix("csv/")
+                errors.require(source_path.is_file(), f"manifest source is missing: {source_path}")
+                if source_path.is_file():
+                    errors.require(digest == sha256(source_path), f"manifest: source SHA-256 mismatch for {name}")
+    errors.require("native/manifest.json" in source_names, "manifest: native export manifest source is missing")
+    errors.require(any(name.startswith("dex-build7/") for name in source_names), "manifest: Dex Build 7 sources are missing")
+
+    connection = sqlite3.connect(f"file:{database_path}?mode=ro", uri=True)
+    counts: dict[str, int] = {}
+    try:
+        integrity = connection.execute("PRAGMA integrity_check").fetchone()[0]
+        errors.require(integrity == "ok", f"SQLite integrity_check failed: {integrity}")
+        foreign_keys = connection.execute("PRAGMA foreign_key_check").fetchall()
+        errors.require(not foreign_keys, f"SQLite foreign_key_check found {len(foreign_keys)} violation(s)")
+        errors.require(connection.execute("PRAGMA user_version").fetchone()[0] == 1, "SQLite user_version must be 1")
+        actual_tables = {
+            row[0] for row in connection.execute(
+                "SELECT name FROM sqlite_master WHERE type='table' AND name NOT LIKE 'sqlite_%'"
+            )
+        }
+        errors.require(actual_tables == SQLITE_TABLES, f"SQLite table set mismatch: {sorted(actual_tables ^ SQLITE_TABLES)}")
+        meta = dict(connection.execute("SELECT key,value FROM meta"))
+        errors.require(meta.get("format") == SQLITE_FORMAT, "SQLite meta format mismatch")
+
+        counts = {
+            "armors": connection.execute("SELECT count(*) FROM armors").fetchone()[0],
+            "weapons": connection.execute("SELECT count(*) FROM weapons").fetchone()[0],
+            "decorations": connection.execute("SELECT count(*) FROM decorations").fetchone()[0],
+        }
+        reviewed_counts = {"armors": 4835, "weapons": 2849, "decorations": 290}
+        errors.require(counts == reviewed_counts, f"SQLite reviewed counts differ: {counts}")
+        errors.require(manifest.get("counts") == reviewed_counts, "manifest: reviewed counts differ")
+        for key, value in counts.items():
+            errors.require(meta.get(key.removesuffix("s") + "_count") == str(value), f"SQLite meta count differs for {key}")
+
+        invalid_relics = connection.execute(
+            "SELECT count(*) FROM armors WHERE is_relic <> CASE WHEN (special_flags & 128) <> 0 THEN 1 ELSE 0 END"
+        ).fetchone()[0]
+        errors.require(invalid_relics == 0, "armors: is_relic differs from native special_flags bit 0x80")
+        errors.require(connection.execute("SELECT count(*) FROM weapons WHERE is_relic NOT IN (0,1)").fetchone()[0] == 0,
+                       "weapons: is_relic must be 0 or 1")
+        errors.require(connection.execute("SELECT count(*) FROM armors WHERE max_defense IS NULL AND is_relic=1").fetchone()[0] > 0,
+                       "armors: unconfirmed relic maximum defense must remain NULL")
+        errors.require(connection.execute("SELECT count(*) FROM active_skills").fetchone()[0] > 0,
+                       "active_skills must not be empty")
+        errors.require(connection.execute("SELECT count(*) FROM armor_skill_points").fetchone()[0] > 0,
+                       "armor_skill_points must not be empty")
+        errors.require(connection.execute("SELECT count(*) FROM decoration_skill_points").fetchone()[0] > 0,
+                       "decoration_skill_points must not be empty")
+    finally:
+        connection.close()
+
+    return {
+        "data": str(data_dir),
+        "database": str(database_path),
+        "database_sha256": sha256(database_path),
+        "counts": counts,
+        "files": 1,
+        "real_save_coverage": {"status": "skipped", "reason": "SQLite validation does not require save samples"},
+        "errors": errors.messages,
+    }
 
 
 def load_csv(path: Path, errors: ValidationErrors) -> tuple[list[str], list[dict[str, str]]]:
@@ -290,6 +398,12 @@ def validate(
     if not manifest_path.is_file():
         return errors, {}
     manifest = json.loads(manifest_path.read_text(encoding="utf-8"))
+    if manifest.get("format") == SQLITE_MANIFEST_FORMAT:
+        report = validate_sqlite_dataset(data_dir, manifest, errors)
+        if report_path is not None:
+            report_path.parent.mkdir(parents=True, exist_ok=True)
+            report_path.write_text(json.dumps(report, ensure_ascii=False, indent=2, sort_keys=True) + "\n", encoding="utf-8", newline="\n")
+        return errors, report
     errors.require(manifest.get("format_version") == "1.0.0", "manifest: unsupported format_version")
     errors.require(manifest.get("languages") == ["cn", "en"], "manifest: languages must be ['cn', 'en']")
     errors.require(manifest.get("generator", {}).get("version") == "2.0.0", "manifest: unsupported generator version")
@@ -493,7 +607,16 @@ def main() -> int:
         for message in errors.messages:
             print("  - " + message)
         return 1
-    print(f"validation passed: {report.get('files', 0)} CSV files")
+    if report.get("database_sha256"):
+        counts = report.get("counts", {})
+        print(
+            "validation passed: mh4g.sqlite "
+            f"sha256={report['database_sha256']}, "
+            f"weapons={counts.get('weapons')}, armors={counts.get('armors')}, "
+            f"decorations={counts.get('decorations')}"
+        )
+    else:
+        print(f"validation passed: {report.get('files', 0)} CSV files")
     return 0
 
 

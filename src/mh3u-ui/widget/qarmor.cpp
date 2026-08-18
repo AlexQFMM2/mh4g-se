@@ -37,6 +37,8 @@ QArmor::QArmor(armor_t *armor, QWidget *parent) : QEquipment(NULL, parent), armo
     m_identifier->addItem(uiText("(None)"), 0);
     populateEquipmentIdentifierComboBox(m_identifier, MH3U_DS::equipment(armor->equipmentType), armor->identifier);
     configureSearchableComboBox(m_identifier);
+    m_onlyRelicArmors = new QCheckBox("只看发掘防具", this);
+    m_onlyRelicArmors->setToolTip("只筛选当前部位中明确标记为 is_relic=1 的防具。筛选不会自动替换当前装备。");
 
     m_firstJewelIdentifier = new QComboBox(this);
     m_secondJewelIdentifier = new QComboBox(this);
@@ -69,6 +71,7 @@ QArmor::QArmor(armor_t *armor, QWidget *parent) : QEquipment(NULL, parent), armo
     basic->addWidget(m_firstJewelFixed, 2, 3);
     basic->addWidget(m_secondJewelFixed, 2, 4);
     basic->addWidget(m_thirdJewelFixed, 2, 5);
+    basic->addWidget(m_onlyRelicArmors, 2, 2);
 
     m_enableAdvanced = new QCheckBox("启用发掘防具高级参数", this);
     m_enableAdvanced->setToolTip("显式发掘 ID 会自动启用；普通外观也可手动启用，不校验掉落合法性。");
@@ -136,6 +139,7 @@ QArmor::QArmor(armor_t *armor, QWidget *parent) : QEquipment(NULL, parent), armo
     resize(1020, 600);
 
     connect(m_enableAdvanced, SIGNAL(toggled(bool)), this, SLOT(updateAdvancedState()));
+    connect(m_onlyRelicArmors, SIGNAL(toggled(bool)), this, SLOT(populateIdentifiers()));
     connect(m_identifier, SIGNAL(currentIndexChanged(int)), this, SLOT(identifierChanged()));
     load();
 }
@@ -195,6 +199,42 @@ void QArmor::identifierChanged()
     const int identifier = searchableComboBoxCurrentData(m_identifier).toInt();
     if (identifier > 0 && MH3U_DS::isRelicEquipment(armor->equipmentType, identifier))
         m_enableAdvanced->setChecked(true);
+}
+
+void QArmor::populateIdentifiers()
+{
+    int current = searchableComboBoxCurrentData(m_identifier).toInt();
+    if (current <= 0) current = armor->identifier;
+    const bool onlyRelic = m_onlyRelicArmors->isChecked();
+    const dataset_t *values = MH3U_DS::equipment(armor->equipmentType);
+
+    m_identifier->blockSignals(true);
+    m_identifier->clear();
+    m_identifier->addItem(uiText("(None)"), 0);
+    bool currentFound = current == 0;
+    if (values != NULL)
+    {
+        for (const dataitem_t &value : *values)
+        {
+            if (value.count == 0 || (onlyRelic && !value.isRelic && value.count != static_cast<uint32_t>(current)))
+                continue;
+            QString name = QString::fromStdString(value.identifier);
+            if (isPlaceholderEquipmentName(name))
+            {
+                if (value.count != static_cast<uint32_t>(current)) continue;
+                name = preservedPlaceholderEquipmentName(value.count);
+            }
+            if (onlyRelic && !value.isRelic)
+                name = QString("%1（当前普通防具，保留）").arg(displayNameWithoutSearchSuffix(name));
+            m_identifier->addItem(name, value.count);
+            currentFound = currentFound || value.count == static_cast<uint32_t>(current);
+        }
+    }
+    if (current > 0 && !currentFound)
+        m_identifier->addItem(QString("未知装备 #%1（保留原值）").arg(current), current);
+    m_identifier->setCurrentIndex(m_identifier->findData(current));
+    m_identifier->blockSignals(false);
+    identifierChanged();
 }
 
 void QArmor::updateCalculatedValues()

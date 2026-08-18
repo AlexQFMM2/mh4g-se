@@ -92,7 +92,10 @@ $Package = Join-Path $Root $OutDir
 if (Test-Path $Package) { Remove-Item $Package -Recurse -Force }
 New-Item -ItemType Directory -Force -Path $Package | Out-Null
 Copy-Item $BuiltExe (Join-Path $Package "$Target.exe")
-Copy-Item (Join-Path $Root "data") (Join-Path $Package "data") -Recurse
+$PackageData = Join-Path $Package "data"
+New-Item -ItemType Directory -Force -Path $PackageData | Out-Null
+Copy-Item (Join-Path $Root "data\mh4g.sqlite") (Join-Path $PackageData "mh4g.sqlite")
+Copy-Item (Join-Path $Root "data\manifest.json") (Join-Path $PackageData "manifest.json")
 
 & $Deploy (Join-Path $Package "$Target.exe") "--$Configuration"
 if ($LASTEXITCODE -ne 0) {
@@ -103,6 +106,8 @@ if ($LASTEXITCODE -ne 0) {
 $runtimeDlls = @(
     "libcrypto-3-x64.dll",
     "libcrypto-3.dll",
+    "libssl-3-x64.dll",
+    "libssl-3.dll",
     "libgcc_s_seh-1.dll",
     "libstdc++-6.dll",
     "libwinpthread-1.dll"
@@ -131,6 +136,11 @@ $required = @(
     (Join-Path $Package "$Target.exe"),
     (Join-Path $Package "Qt5Core.dll"),
     (Join-Path $Package "Qt5Gui.dll"),
+    (Join-Path $Package "Qt5Network.dll"),
+    (Join-Path $Package "Qt5Sql.dll"),
+    (Join-Path $Package "sqldrivers\qsqlite.dll"),
+    (Join-Path $Package "data\mh4g.sqlite"),
+    (Join-Path $Package "data\manifest.json"),
     (Join-Path $Package "Qt5Widgets.dll"),
     (Join-Path $Package "platforms\qwindows.dll")
 )

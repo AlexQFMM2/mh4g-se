@@ -1,4 +1,4 @@
-QT += widgets
+QT += widgets sql network
 
 TEMPLATE = app
 TARGET = MH4GSaveEditor
@@ -16,6 +16,9 @@ SOURCES += \
     src/mh4g_equipment_values.cpp \
     src/mh4g_transfer.cpp \
     src/mh4g_ui_compat.cpp \
+    src/game_data_repository.cpp \
+    src/equipment_validator.cpp \
+    src/loadout.cpp \
     src/mh3u-ui/main.cpp \
     src/mh3u-ui/mh3u_sv.cpp \
     src/mh3u-ui/widget/qarmor.cpp \
@@ -26,6 +29,8 @@ SOURCES += \
     src/mh3u-ui/widget/qequipment.cpp \
     src/mh3u-ui/widget/qitem.cpp \
     src/mh3u-ui/widget/qoption.cpp \
+    src/mh3u-ui/widget/qloadout.cpp \
+    src/mh3u-ui/widget/qcommunity.cpp \
     src/mh3u-ui/widget/qweapon.cpp
 
 HEADERS += \
@@ -33,7 +38,11 @@ HEADERS += \
     src/mh4g_equipment_values.hpp \
     src/mh4g_transfer.hpp \
     src/mh4g_ui_compat.hpp \
+    src/game_data_repository.hpp \
+    src/equipment_validator.hpp \
+    src/loadout.hpp \
     src/mh3u-ui/main.hpp \
+    src/mh3u-ui/searchable_combobox.hpp \
     src/mh3u-ui/mh3u_sv.hpp \
     src/mh3u-ui/widget/qarmor.hpp \
     src/mh3u-ui/widget/qbox.hpp \
@@ -43,7 +52,11 @@ HEADERS += \
     src/mh3u-ui/widget/qequipment.hpp \
     src/mh3u-ui/widget/qitem.hpp \
     src/mh3u-ui/widget/qoption.hpp \
+    src/mh3u-ui/widget/qloadout.hpp \
+    src/mh3u-ui/widget/qcommunity.hpp \
     src/mh3u-ui/widget/qweapon.hpp
+
+RESOURCES += src/mh3u-ui/resources.qrc
 
 win32: LIBS += -lcrypto
 unix:!macx: LIBS += -l:libcrypto.so.3

@@ -1,10 +1,18 @@
 #include "mh4g.hpp"
 
 #include <QCoreApplication>
+#include <QCryptographicHash>
 #include <QDir>
 #include <QFile>
+#include <QJsonDocument>
+#include <QJsonObject>
 #include <QSaveFile>
+#include <QSqlDatabase>
+#include <QSqlError>
+#include <QSqlQuery>
+#include <QSqlRecord>
 #include <QTextStream>
+#include <QUuid>
 
 #include <algorithm>
 #include <cstring>
@@ -29,73 +37,6 @@ namespace
 {
 const char SaveKey[] = "blowfish key iorajegqmrna4itjeangmb agmwgtobjteowhv9mope";
 
-QStringList parseCsvLine(const QString &line)
-{
-    QStringList result;
-    QString field;
-    bool quoted = false;
-    for (int index = 0; index < line.size(); ++index)
-    {
-        const QChar ch = line.at(index);
-        if (quoted)
-        {
-            if (ch == '"')
-            {
-                if (index + 1 < line.size() && line.at(index + 1) == '"')
-                {
-                    field += '"';
-                    ++index;
-                }
-                else
-                {
-                    quoted = false;
-                }
-            }
-            else
-            {
-                field += ch;
-            }
-        }
-        else if (ch == '"' && field.isEmpty())
-        {
-            quoted = true;
-        }
-        else if (ch == ',')
-        {
-            result << field;
-            field.clear();
-        }
-        else
-        {
-            field += ch;
-        }
-    }
-    result << field;
-    return result;
-}
-
-const QHash<int, QString> EquipmentFiles = {
-    {1, "armor_chest.csv"},
-    {2, "armor_arms.csv"},
-    {3, "armor_waist.csv"},
-    {4, "armor_legs.csv"},
-    {5, "armor_head.csv"},
-    {6, "talismans.csv"},
-    {7, "weapon_great_sword.csv"},
-    {8, "weapon_sword_and_shield.csv"},
-    {9, "weapon_hammer.csv"},
-    {10, "weapon_lance.csv"},
-    {11, "weapon_light_bowgun.csv"},
-    {12, "weapon_heavy_bowgun.csv"},
-    {13, "weapon_long_sword.csv"},
-    {14, "weapon_switch_axe.csv"},
-    {15, "weapon_gunlance.csv"},
-    {16, "weapon_bow.csv"},
-    {17, "weapon_dual_blades.csv"},
-    {18, "weapon_hunting_horn.csv"},
-    {19, "weapon_insect_glaive.csv"},
-    {20, "weapon_charge_blade.csv"},
-};
 }
 
 bool MH4GData::load(const QString &language, QString *error)
@@ -108,32 +49,89 @@ bool MH4GData::load(const QString &language, QString *error)
         return false;
     }
 
-    QVector<MH4GNamedValue> items;
-    QVector<MH4GNamedValue> skills;
-    QVector<MH4GNamedValue> types;
-    QVector<MH4GNamedValue> decorations;
-    QVector<MH4GLookupValue> lookups;
-    QHash<int, QVector<MH4GNamedValue>> equipment;
-    const QString languageRoot = QDir(root).filePath(normalized);
-    if (!loadCsv(QDir(languageRoot).filePath("items.csv"), items, error) ||
-        !loadCsv(QDir(languageRoot).filePath("skills.csv"), skills, error) ||
-        !loadCsv(QDir(languageRoot).filePath("equipment_types.csv"), types, error) ||
-        !loadCsv(QDir(languageRoot).filePath("decorations.csv"), decorations, error) ||
-        !loadLookups(QDir(languageRoot).filePath("equipment_lookups.csv"), lookups, error))
+    const QString databasePath = QDir(root).filePath("mh4g.sqlite");
+    const QString manifestPath = QDir(root).filePath("manifest.json");
+    QFile manifestFile(manifestPath);
+    QFile databaseFile(databasePath);
+    if (!manifestFile.open(QIODevice::ReadOnly) || !databaseFile.open(QIODevice::ReadOnly))
     {
+        if (error) *error = "无法读取 mh4g.sqlite 或 manifest.json。";
         return false;
     }
-    for (auto it = EquipmentFiles.constBegin(); it != EquipmentFiles.constEnd(); ++it)
+    const QJsonObject manifest = QJsonDocument::fromJson(manifestFile.readAll()).object();
+    const QJsonObject databaseManifest = manifest.value("database").toObject();
+    const QByteArray databaseBytes = databaseFile.readAll();
+    const QString digest = QString::fromLatin1(QCryptographicHash::hash(databaseBytes, QCryptographicHash::Sha256).toHex());
+    if (manifest.value("format").toString() != "mh4g-save-editor-data-manifest-v2" ||
+        databaseManifest.value("sha256").toString() != digest ||
+        databaseManifest.value("bytes").toVariant().toLongLong() != databaseBytes.size())
     {
-        QVector<MH4GNamedValue> values;
-        if (!loadCsv(QDir(languageRoot).filePath(it.value()), values, error))
+        if (error) *error = "MH4G SQLite 与 manifest 校验不一致。";
+        return false;
+    }
+    databaseFile.close();
+
+    QVector<MH4GNamedValue> items, skills, types, decorations;
+    QVector<MH4GLookupValue> lookups;
+    QHash<int, QVector<MH4GNamedValue>> equipment;
+    const QString connectionName = "mh4g-data-" + QUuid::createUuid().toString();
+    {
+        QSqlDatabase database = QSqlDatabase::addDatabase("QSQLITE", connectionName);
+        database.setDatabaseName(databasePath);
+        database.setConnectOptions("QSQLITE_OPEN_READONLY");
+        if (!database.open())
         {
+            if (error) *error = "无法只读打开 MH4G SQLite：" + database.lastError().text();
             return false;
         }
-        equipment.insert(it.key(), values);
+        const QString nameColumn = normalized == "en" ? "name_en" : "name_cn";
+        auto readNamed = [&](const QString &sql, QVector<MH4GNamedValue> &target, bool relic) -> bool {
+            QSqlQuery query(database);
+            if (!query.exec(sql)) { if (error) *error = query.lastError().text(); return false; }
+            while (query.next())
+            {
+                MH4GNamedValue value;
+                value.id = query.value(0).toInt(); value.name = query.value(1).toString();
+                value.english = query.value(2).toString(); value.source = query.value(3).toString();
+                if (query.record().count() > 4) value.rarity = query.value(4).toInt();
+                if (relic && query.record().count() > 5) value.isRelic = query.value(5).toInt() != 0;
+                target.push_back(value);
+            }
+            return true;
+        };
+        if (!readNamed(QString("SELECT save_id,%1,name_en,source FROM items ORDER BY save_id").arg(nameColumn), items, false) ||
+            !readNamed(QString("SELECT id,%1,name_en,source FROM skill_trees ORDER BY id").arg(nameColumn), skills, false) ||
+            !readNamed(QString("SELECT save_type,%1,name_en,'' FROM equipment_types ORDER BY save_type").arg(nameColumn), types, false) ||
+            !readNamed(QString("SELECT save_id,%1,name_en,source FROM decorations ORDER BY save_id").arg(nameColumn), decorations, false))
+            return false;
+        for (int saveType = 1; saveType <= 20; ++saveType)
+        {
+            if (saveType == 6)
+            {
+                QVector<MH4GNamedValue> values;
+                if (!readNamed(QString("SELECT save_id,%1,name_en,source,0,0 FROM charm_classes ORDER BY save_id").arg(nameColumn), values, true)) return false;
+                equipment.insert(saveType, values);
+            }
+            else if (saveType <= 5 || saveType >= 7)
+            {
+                QVector<MH4GNamedValue> values;
+                const QString table = saveType <= 5 ? "armors" : "weapons";
+                if (!readNamed(QString("SELECT save_id,%1,name_en,source,rarity,is_relic FROM %2 WHERE save_type=%3 ORDER BY save_id").arg(nameColumn, table).arg(saveType), values, true)) return false;
+                equipment.insert(saveType, values);
+            }
+        }
+        QSqlQuery lookup(database);
+        if (!lookup.exec(QString("SELECT domain,save_type,variant,code,%1,name_en,source FROM equipment_lookups ORDER BY domain,save_type,variant,code").arg(nameColumn)))
+        { if (error) *error = lookup.lastError().text(); return false; }
+        while (lookup.next())
+            lookups.push_back({lookup.value(0).toString(), lookup.value(1).toInt(), lookup.value(2).toString(),
+                               lookup.value(3).toInt(), lookup.value(4).toString(), lookup.value(5).toString(), lookup.value(6).toString()});
+        database.close();
     }
+    QSqlDatabase::removeDatabase(connectionName);
 
     m_language = normalized;
+    m_dataVersion = digest;
     m_items = items;
     m_skills = skills;
     m_types = types;
@@ -144,6 +142,7 @@ bool MH4GData::load(const QString &language, QString *error)
 }
 
 QString MH4GData::language() const { return m_language; }
+QString MH4GData::dataVersion() const { return m_dataVersion; }
 const QVector<MH4GNamedValue> &MH4GData::items() const { return m_items; }
 const QVector<MH4GNamedValue> &MH4GData::skills() const { return m_skills; }
 const QVector<MH4GNamedValue> &MH4GData::equipmentTypes() const { return m_types; }
@@ -181,107 +180,6 @@ bool MH4GData::isRelicEquipment(int type, int id) const
     auto it = std::lower_bound(values.constBegin(), values.constEnd(), id,
         [](const MH4GNamedValue &value, int wanted) { return value.id < wanted; });
     return it != values.constEnd() && it->id == id && it->isRelic;
-}
-
-bool MH4GData::loadCsv(const QString &fileName, QVector<MH4GNamedValue> &values, QString *error)
-{
-    QFile file(fileName);
-    if (!file.open(QIODevice::ReadOnly | QIODevice::Text))
-    {
-        if (error) *error = QString("无法读取数据文件：%1\n%2").arg(fileName, file.errorString());
-        return false;
-    }
-    QTextStream stream(&file);
-    stream.setCodec("UTF-8");
-    if (stream.atEnd())
-    {
-        if (error) *error = QString("数据文件为空：%1").arg(fileName);
-        return false;
-    }
-    const QStringList header = parseCsvLine(stream.readLine());
-    const int idColumn = header.indexOf("id");
-    const int nameColumn = header.indexOf("name");
-    const int englishColumn = header.indexOf("english");
-    const int sourceColumn = header.indexOf("source");
-    const int rarityColumn = header.indexOf("rarity");
-    const int relicColumn = header.indexOf("is_relic");
-    if (idColumn < 0 || nameColumn < 0 || englishColumn < 0)
-    {
-        if (error) *error = QString("数据文件缺少 id/name/english 列：%1").arg(fileName);
-        return false;
-    }
-    while (!stream.atEnd())
-    {
-        const QString line = stream.readLine();
-        if (line.isEmpty()) continue;
-        const QStringList fields = parseCsvLine(line);
-        int required = std::max(idColumn, std::max(nameColumn, englishColumn));
-        required = std::max(required, sourceColumn);
-        required = std::max(required, rarityColumn);
-        required = std::max(required, relicColumn);
-        if (fields.size() <= required) continue;
-        bool ok = false;
-        const int id = fields.at(idColumn).toInt(&ok);
-        if (!ok) continue;
-        MH4GNamedValue value;
-        value.id = id;
-        value.name = fields.at(nameColumn);
-        value.english = fields.at(englishColumn);
-        if (sourceColumn >= 0) value.source = fields.at(sourceColumn);
-        if (rarityColumn >= 0) value.rarity = fields.at(rarityColumn).toInt();
-        if (relicColumn >= 0) value.isRelic = fields.at(relicColumn).toInt() == 1;
-        values.push_back(value);
-    }
-    return true;
-}
-
-bool MH4GData::loadLookups(const QString &fileName, QVector<MH4GLookupValue> &values, QString *error)
-{
-    QFile file(fileName);
-    if (!file.open(QIODevice::ReadOnly | QIODevice::Text))
-    {
-        if (error) *error = QString("无法读取数据文件：%1\n%2").arg(fileName, file.errorString());
-        return false;
-    }
-    QTextStream stream(&file);
-    stream.setCodec("UTF-8");
-    if (stream.atEnd())
-    {
-        if (error) *error = QString("数据文件为空：%1").arg(fileName);
-        return false;
-    }
-    const QStringList header = parseCsvLine(stream.readLine());
-    const int domainColumn = header.indexOf("domain");
-    const int typeColumn = header.indexOf("equipment_type");
-    const int variantColumn = header.indexOf("variant");
-    const int valueColumn = header.indexOf("value");
-    const int nameColumn = header.indexOf("name");
-    const int englishColumn = header.indexOf("english");
-    const int sourceColumn = header.indexOf("source");
-    if (domainColumn < 0 || typeColumn < 0 || variantColumn < 0 || valueColumn < 0 ||
-        nameColumn < 0 || englishColumn < 0 || sourceColumn < 0)
-    {
-        if (error) *error = QString("数据文件缺少 lookup 必需列：%1").arg(fileName);
-        return false;
-    }
-    const int required = std::max({domainColumn, typeColumn, variantColumn, valueColumn,
-                                   nameColumn, englishColumn, sourceColumn});
-    while (!stream.atEnd())
-    {
-        const QString line = stream.readLine();
-        if (line.isEmpty()) continue;
-        const QStringList fields = parseCsvLine(line);
-        if (fields.size() <= required) continue;
-        bool typeOk = false;
-        bool valueOk = false;
-        const int equipmentType = fields.at(typeColumn).toInt(&typeOk);
-        const int value = fields.at(valueColumn).toInt(&valueOk);
-        if (!typeOk || !valueOk) continue;
-        values.push_back({fields.at(domainColumn), equipmentType, fields.at(variantColumn),
-                          value, fields.at(nameColumn), fields.at(englishColumn),
-                          fields.at(sourceColumn)});
-    }
-    return true;
 }
 
 QString MH4GData::locateDataRoot() const

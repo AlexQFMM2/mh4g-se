@@ -35,6 +35,7 @@ class MH4GData
 public:
     bool load(const QString &language, QString *error = nullptr);
     QString language() const;
+    QString dataVersion() const;
     const QVector<MH4GNamedValue> &items() const;
     const QVector<MH4GNamedValue> &skills() const;
     const QVector<MH4GNamedValue> &equipmentTypes() const;
@@ -50,12 +51,11 @@ public:
     QString decorationName(int id) const;
 
 private:
-    bool loadCsv(const QString &fileName, QVector<MH4GNamedValue> &values, QString *error);
-    bool loadLookups(const QString &fileName, QVector<MH4GLookupValue> &values, QString *error);
     QString locateDataRoot() const;
     static QString nameFor(const QVector<MH4GNamedValue> &values, int id);
 
     QString m_language;
+    QString m_dataVersion;
     QVector<MH4GNamedValue> m_items;
     QVector<MH4GNamedValue> m_skills;
     QVector<MH4GNamedValue> m_types;

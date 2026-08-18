@@ -1,7 +1,10 @@
 #include "mh3u_sv.hpp"
+#include "game_data_repository.hpp"
 
 #include <QAbstractButton>
 #include <QCloseEvent>
+#include <QCoreApplication>
+#include <QDir>
 #include <QFileDialog>
 #include <QFileInfo>
 #include <QFrame>
@@ -15,18 +18,32 @@
 #include <QVBoxLayout>
 
 MH3U_SV::MH3U_SV(QWidget *parent)
-    : QMainWindow(parent), mh3u(new MH3U_SE()), characterPage(0), chestPage(0), boxPage(0), dirty(false)
+    : QMainWindow(parent), mh3u(new MH3U_SE()), characterPage(0), chestPage(0), boxPage(0), loadoutPage(0), communityPage(0), accountPage(0), aboutPage(0), dirty(false), dataReady(false)
 {
     setObjectName("mainSurface");
     setWindowTitle(QString::fromUtf8("MH4G 存档修改器"));
-    if (!MH3U_DS::readData(LANG_CN))
-        QMessageBox::critical(this, QString::fromUtf8("数据加载失败"), QString::fromUtf8("无法读取中文 data 数据。"));
+    dataReady = MH3U_DS::readData(LANG_CN);
+    if (dataReady)
+    {
+        const QStringList candidates = QStringList()
+            << QDir(QCoreApplication::applicationDirPath()).filePath("../data/mh4g.sqlite")
+            << QDir(QCoreApplication::applicationDirPath()).filePath("data/mh4g.sqlite")
+            << QDir::current().filePath("data/mh4g.sqlite");
+        dataReady = false;
+        for (int index = 0; index < candidates.size(); ++index)
+            if (GameDataRepository::instance().open(QFileInfo(candidates.at(index)).absoluteFilePath()))
+            { dataReady = true; break; }
+    }
+    if (!dataReady)
+        QMessageBox::critical(this, QString::fromUtf8("数据加载失败"),
+            QString::fromUtf8("静态游戏数据库不可用，编辑功能已禁用。请检查 data/mh4g.sqlite 与 manifest.json。"));
 
     QWidget *surface = new QWidget(this);
     setCentralWidget(surface);
     QHBoxLayout *shell = new QHBoxLayout(surface);
     shell->setContentsMargins(0, 0, 0, 0);
     shell->setSpacing(0);
+
     QFrame *sidebar = new QFrame(surface);
     sidebar->setObjectName("sidebar");
     sidebar->setFixedWidth(210);
@@ -51,10 +68,18 @@ MH3U_SV::MH3U_SV(QWidget *parent)
     characterButton = makeNavigation(QString::fromUtf8("角色"));
     chestButton = makeNavigation(QString::fromUtf8("道具箱"));
     boxButton = makeNavigation(QString::fromUtf8("装备箱"));
+    loadoutButton = makeNavigation(QString::fromUtf8("配装器"));
+    communityButton = makeNavigation(QString::fromUtf8("配装广场"));
+    accountButton = makeNavigation(QString::fromUtf8("个人信息"));
+    aboutButton = makeNavigation(QString::fromUtf8("关于"));
     navigation->addWidget(characterButton);
     navigation->addWidget(chestButton);
     navigation->addWidget(boxButton);
+    navigation->addWidget(loadoutButton);
+    navigation->addWidget(communityButton);
+    navigation->addWidget(accountButton);
     navigation->addStretch();
+    navigation->addWidget(aboutButton);
 
     QWidget *workspace = new QWidget(surface);
     QVBoxLayout *workspaceLayout = new QVBoxLayout(workspace);
@@ -71,13 +96,6 @@ MH3U_SV::MH3U_SV(QWidget *parent)
     header->addLayout(heading);
     header->addStretch();
     workspaceLayout->addLayout(header);
-    QLabel *riskWarning = new QLabel(QString::fromUtf8("⚠ 修改有风险，请自主备份存档后再修改。"), workspace);
-    riskWarning->setObjectName("riskWarning");
-    workspaceLayout->addWidget(riskWarning);
-    statusLabel = new QLabel(workspace);
-    statusLabel->setObjectName("statusLabel");
-    statusLabel->setTextInteractionFlags(Qt::TextSelectableByMouse);
-    workspaceLayout->addWidget(statusLabel);
 
     pageStack = new QStackedWidget(workspace);
     emptyPage = new QWidget(pageStack);
@@ -93,6 +111,42 @@ MH3U_SV::MH3U_SV(QWidget *parent)
     emptyLayout->addWidget(emptyTitle);
     emptyLayout->addWidget(emptyHint);
     pageStack->addWidget(emptyPage);
+    loadoutPage = new QLoadout(mh3u, pageStack);
+    pageStack->addWidget(loadoutPage);
+    communityPage = new QCommunity(loadoutPage, pageStack);
+    pageStack->addWidget(communityPage);
+    accountPage = communityPage->accountPage();
+    pageStack->addWidget(accountPage);
+
+    aboutPage = new QWidget(pageStack);
+    aboutPage->setObjectName("pageSurface");
+    QVBoxLayout *aboutLayout = new QVBoxLayout(aboutPage);
+    aboutLayout->setContentsMargins(18, 18, 18, 18);
+    aboutLayout->setSpacing(14);
+    QLabel *riskWarning = new QLabel(QString::fromUtf8("⚠ 修改有风险，请自主备份存档后再修改。"), aboutPage);
+    riskWarning->setObjectName("riskWarning");
+    riskWarning->setWordWrap(true);
+    aboutLayout->addWidget(riskWarning);
+    QLabel *statusTitle = new QLabel(QString::fromUtf8("当前存档状态"), aboutPage);
+    statusTitle->setObjectName("emptyTitle");
+    aboutLayout->addWidget(statusTitle);
+    statusLabel = new QLabel(aboutPage);
+    statusLabel->setObjectName("statusLabel");
+    statusLabel->setTextInteractionFlags(Qt::TextSelectableByMouse);
+    statusLabel->setWordWrap(true);
+    aboutLayout->addWidget(statusLabel);
+    QLabel *aboutText = new QLabel(QString::fromUtf8(
+        "MH4G 存档修改器\n\n"
+        "配装完整保存七条 28 字节装备实例，包括固定珠标记、发掘参数、护石 16 位技能点、猎虫实例及未知保留字节。\n\n"
+        "“发掘”只按原生数据库明确标记的武器或防具 ID 识别；护石不计入，普通 ID 携带发掘参数也不会被归类为发掘装备。\n\n"
+        "MH4G 的护石与发掘装备缺少可完整复原的原生生成判定，因此合法性采用合法 / 非法 / 不确定的社区标注。"
+        "标注和风险只作说明，不限制打开、导入或保存。"), aboutPage);
+    aboutText->setObjectName("appSubtitle");
+    aboutText->setWordWrap(true);
+    aboutLayout->addWidget(aboutText);
+    aboutLayout->addStretch();
+    pageStack->addWidget(aboutPage);
+
     QScrollArea *content = new QScrollArea(workspace);
     content->setObjectName("contentArea");
     content->setWidgetResizable(true);
@@ -112,12 +166,19 @@ MH3U_SV::MH3U_SV(QWidget *parent)
     actions->addWidget(loadButton);
     actions->addWidget(saveButton);
     workspaceLayout->addWidget(footer);
+
     shell->addWidget(sidebar);
     shell->addWidget(workspace, 1);
-
     connect(characterButton, SIGNAL(clicked(bool)), this, SLOT(showCharacter()));
     connect(chestButton, SIGNAL(clicked(bool)), this, SLOT(showChest()));
     connect(boxButton, SIGNAL(clicked(bool)), this, SLOT(showBox()));
+    connect(loadoutButton, SIGNAL(clicked(bool)), this, SLOT(showLoadout()));
+    connect(communityButton, SIGNAL(clicked(bool)), this, SLOT(showCommunity()));
+    connect(accountButton, SIGNAL(clicked(bool)), this, SLOT(showAccount()));
+    connect(aboutButton, SIGNAL(clicked(bool)), this, SLOT(showAbout()));
+    connect(communityPage, SIGNAL(equipmentBoxModified()), this, SLOT(loadoutApplied()));
+    connect(loadoutPage, SIGNAL(publishRequested()), communityPage, SLOT(uploadCurrent()));
+    connect(loadoutPage, SIGNAL(saveModified()), this, SLOT(loadoutApplied()));
     connect(loadButton, SIGNAL(clicked(bool)), this, SLOT(loadFile()));
     connect(saveButton, SIGNAL(clicked(bool)), this, SLOT(saveFile()));
     resize(1100, 700);
@@ -127,8 +188,23 @@ MH3U_SV::MH3U_SV(QWidget *parent)
 
 MH3U_SV::~MH3U_SV()
 {
+    GameDataRepository::instance().close();
     MH3U_DS::deleteData();
     cdelete(mh3u);
+}
+
+bool MH3U_SV::smokeTestLoadout(QString *error)
+{
+    resize(1100, 700);
+    showLoadout();
+    return saveButton->isVisible() && loadButton->isVisible() && loadoutPage->smokeTestLayout(error);
+}
+
+bool MH3U_SV::smokeTestAccount(QString *error)
+{
+    resize(1100, 700);
+    showAccount();
+    return accountPage->isVisible() && communityPage->smokeTestAccount(error);
 }
 
 void MH3U_SV::createPages()
@@ -170,9 +246,20 @@ void MH3U_SV::setCurrentPage(QWidget *page, QPushButton *button, const QString &
     button->setChecked(true);
     pageTitle->setText(title);
 }
+
 void MH3U_SV::showCharacter() { setCurrentPage(characterPage, characterButton, QString::fromUtf8("角色")); }
 void MH3U_SV::showChest() { setCurrentPage(chestPage, chestButton, QString::fromUtf8("道具箱")); }
 void MH3U_SV::showBox() { setCurrentPage(boxPage, boxButton, QString::fromUtf8("装备箱")); }
+void MH3U_SV::showLoadout() { setCurrentPage(loadoutPage, loadoutButton, QString::fromUtf8("配装器")); }
+void MH3U_SV::showCommunity() { setCurrentPage(communityPage, communityButton, QString::fromUtf8("配装广场")); }
+void MH3U_SV::showAccount() { setCurrentPage(accountPage, accountButton, QString::fromUtf8("个人信息")); communityPage->refreshProfile(); }
+void MH3U_SV::showAbout() { setCurrentPage(aboutPage, aboutButton, QString::fromUtf8("关于")); }
+
+void MH3U_SV::loadoutApplied()
+{
+    if (boxPage) boxPage->loadFromModel();
+    markModified();
+}
 
 void MH3U_SV::markModified()
 {
@@ -190,6 +277,7 @@ bool MH3U_SV::discardChanges()
     }
     dirty = false;
     loadPages();
+    loadoutPage->updateSaveContext();
     updateState();
     return true;
 }
@@ -210,9 +298,15 @@ bool MH3U_SV::maybeLeaveDirty()
 
 void MH3U_SV::loadFile()
 {
+    if (!dataReady)
+    {
+        QMessageBox::critical(this, QString::fromUtf8("无法读取存档"),
+            QString::fromUtf8("请先修复 data/mh4g.sqlite、manifest.json 或 QSQLITE 驱动。"));
+        return;
+    }
     if (!maybeLeaveDirty()) return;
     const QString path = QFileDialog::getOpenFileName(this, QString::fromUtf8("读取存档"), QString(),
-        QString::fromUtf8("MH4G 存档 (*);;所有文件 (*)"));
+        QString::fromUtf8("存档文件 (user1 user2 user3);;所有文件 (*)"));
     if (path.isEmpty()) return;
     if (!mh3u->load(path.toStdString())) {
         QMessageBox::critical(this, QString::fromUtf8("读取失败"), QString::fromStdString(mh3u->lastError()));
@@ -221,6 +315,7 @@ void MH3U_SV::loadFile()
     }
     dirty = false;
     loadPages();
+    loadoutPage->updateSaveContext();
     showCharacter();
     updateState();
 }
@@ -248,16 +343,21 @@ bool MH3U_SV::saveFile()
 
 void MH3U_SV::updateState()
 {
-    const bool loaded = mh3u->loaded();
+    const bool loaded = dataReady && mh3u->loaded();
     characterButton->setEnabled(loaded);
     chestButton->setEnabled(loaded);
     boxButton->setEnabled(loaded);
+    loadoutButton->setEnabled(dataReady);
+    communityButton->setEnabled(true);
+    accountButton->setEnabled(true);
+    aboutButton->setEnabled(true);
     saveButton->setEnabled(loaded);
+    loadButton->setEnabled(dataReady);
     loadButton->setText(loaded ? QString::fromUtf8("读取其他存档") : QString::fromUtf8("读取存档"));
     if (loaded) {
         const QString name = QFileInfo(QString::fromStdString(mh3u->currentFilename())).fileName();
-        statusLabel->setText(QString::fromUtf8("%1 · MH4G 3DS · %2")
-            .arg(name, dirty ? QString::fromUtf8("未保存") : QString::fromUtf8("已保存")));
+        statusLabel->setText(QString::fromUtf8("%1 · %2 · %3")
+            .arg(name, QString::fromStdString(mh3u->formatName()), dirty ? QString::fromUtf8("未保存") : QString::fromUtf8("已保存")));
     } else {
         statusLabel->setText(QString::fromUtf8("尚未读取存档"));
         pageStack->setCurrentWidget(emptyPage);
@@ -271,6 +371,6 @@ void MH3U_SV::updateState()
 
 void MH3U_SV::closeEvent(QCloseEvent *event)
 {
-    if (maybeLeaveDirty()) event->accept();
+    if (loadoutPage->maybeLeaveDirty() && maybeLeaveDirty()) event->accept();
     else event->ignore();
 }

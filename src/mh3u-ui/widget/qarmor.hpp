@@ -28,12 +28,14 @@ private slots:
     void updateAdvancedState();
     void updateCalculatedValues();
     void identifierChanged();
+    void populateIdentifiers();
 
 private:
     armor_t *armor;
     QComboBox *m_equipmentType;
     QSpinBox *m_upgradeLevel;
     QComboBox *m_identifier;
+    QCheckBox *m_onlyRelicArmors;
     QComboBox *m_firstJewelIdentifier;
     QComboBox *m_secondJewelIdentifier;
     QComboBox *m_thirdJewelIdentifier;

@@ -41,12 +41,27 @@ jobs:
           MSYS2_LOCATION: ${{ steps.msys2.outputs.msys2-location }}
         run: .\build-windows.ps1 -QtBin "$env:MSYS2_LOCATION\mingw64\bin"
 
-      - name: Smoke test management window
+      - name: Verify portable runtime
         shell: pwsh
         run: |
           Push-Location .\release\windows
+          if (-not (Test-Path .\sqldrivers\qsqlite.dll)) { throw "QSQLITE plugin is missing" }
+          if (-not (Test-Path .\data\mh4g.sqlite)) { throw "MH4G SQLite is missing" }
           .\MH4GSaveEditor.exe --smoke-test
+          if ($LASTEXITCODE -ne 0) { throw "Management-window smoke test failed: $LASTEXITCODE" }
+          .\MH4GSaveEditor.exe --smoke-test-loadout
+          if ($LASTEXITCODE -ne 0) { throw "Loadout smoke test failed: $LASTEXITCODE" }
+          .\MH4GSaveEditor.exe --smoke-test-account
+          if ($LASTEXITCODE -ne 0) { throw "Account/HTTPS smoke test failed: $LASTEXITCODE" }
+          .\MH4GSaveEditor.exe --smoke-test-ssl
+          if ($LASTEXITCODE -ne 0) { throw "Qt SSL smoke test failed: $LASTEXITCODE" }
           Pop-Location
+
+      - name: Test loadout and searchable combo interaction
+        shell: msys2 {0}
+        run: |
+          ./tests/run-loadout-core-tests.sh
+          ./tests/run-searchable-combo-tests.sh
 
       - name: Create zip
         shell: pwsh

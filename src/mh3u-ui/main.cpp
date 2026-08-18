@@ -8,6 +8,7 @@
 #include <QColor>
 #include <QFont>
 #include <QPalette>
+#include <QSslSocket>
 #include <QStyleFactory>
 #include <QTimer>
 
@@ -56,9 +57,29 @@ static void applyApplicationStyle(QApplication &app)
             background: transparent;
             spacing: 7px;
         }
-        QCheckBox::indicator, QRadioButton::indicator {
+        QCheckBox::indicator {
             width: 16px;
             height: 16px;
+            border: 1px solid #8b9bb0;
+            border-radius: 4px;
+            background: #ffffff;
+        }
+        QCheckBox::indicator:hover {
+            border-color: #3678c9;
+            background: #f4f8fd;
+        }
+        QCheckBox::indicator:checked {
+            border-color: #2869b7;
+            background: #3678c9;
+            image: url(:/ui/checkmark.xpm);
+        }
+        QCheckBox::indicator:disabled {
+            border-color: #b9c4d1;
+            background: #dfe5ec;
+        }
+        QCheckBox::indicator:checked:disabled {
+            border-color: #91a8c4;
+            background: #91a8c4;
         }
         QLabel#appTitle {
             color: #15213a;
@@ -242,11 +263,34 @@ int main(int argc, char *argv[])
     QCoreApplication::setAttribute(Qt::AA_EnableHighDpiScaling);
     QCoreApplication::setAttribute(Qt::AA_UseHighDpiPixmaps);
     QApplication a(argc, argv);
+    QCoreApplication::setOrganizationName(QStringLiteral("MHED"));
+    QCoreApplication::setApplicationName(QStringLiteral("MH4GSaveEditor"));
     applyApplicationStyle(a);
 
     MH3U_SV w;
     w.show();
-    if (a.arguments().contains(QStringLiteral("--smoke-test")))
+    if (a.arguments().contains(QStringLiteral("--smoke-test-ssl")))
+    {
+        if (!QSslSocket::supportsSsl()) return 2;
+        QTimer::singleShot(50, &a, &QCoreApplication::quit);
+    }
+    else if (a.arguments().contains(QStringLiteral("--smoke-test-loadout")))
+    {
+        QTimer::singleShot(200, [&w, &a]() {
+            QString error;
+            if (!w.smokeTestLoadout(&error)) { qCritical("%s", qPrintable(error)); a.exit(2); return; }
+            a.quit();
+        });
+    }
+    else if (a.arguments().contains(QStringLiteral("--smoke-test-account")))
+    {
+        QTimer::singleShot(200, [&w, &a]() {
+            QString error;
+            if (!w.smokeTestAccount(&error)) { qCritical("%s", qPrintable(error)); a.exit(2); return; }
+            a.quit();
+        });
+    }
+    else if (a.arguments().contains(QStringLiteral("--smoke-test")))
         QTimer::singleShot(150, &a, &QCoreApplication::quit);
 
     return a.exec();

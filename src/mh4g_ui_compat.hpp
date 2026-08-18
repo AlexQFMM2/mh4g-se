@@ -70,6 +70,13 @@ typedef struct save_t
     std::uint32_t mogapoint;
 } save_t;
 
+enum save_format_e
+{
+    SAVE_FORMAT_UNKNOWN = 0,
+    SAVE_FORMAT_MH4G_3DS = 1,
+    SAVE_FORMAT_WIIU = 2
+};
+
 namespace MH4G_Type
 {
 enum equipment_type_e
@@ -122,6 +129,7 @@ public:
     std::string lastError() const;
     std::string currentFilename() const;
     std::string formatName() const;
+    save_format_e format() const { return SAVE_FORMAT_MH4G_3DS; }
     std::uint32_t nameSize() const;
     save_t *savedata;
 
