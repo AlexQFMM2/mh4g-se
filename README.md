@@ -31,6 +31,13 @@ MH4G（3DS）存档修改器。使用与 MH3G、MHGU 统一的中文 Qt 管理�
 修改前请备份完整存档目录。
 程序不会自动生成备份，也不提供另存为；保存成功后会弹窗显示被覆盖的路径。
 
+## 项目状态
+
+截至 2026-08-18，SQLite、七格配装器、配装广场、账号中心、社区合法性和发掘装备流程均已
+进入 `main`。Windows 便携测试包已由
+[GitHub Actions](https://github.com/AlexQFMM2/mh4g-se/actions/runs/32146872916) 生成；当前仍是
+测试 Artifact，尚未创建版本标签或部署 MH4G 平台服务。
+
 ## Linux 构建
 
 需要 Qt 5、C++17 编译器和 OpenSSL 3 运行/开发库：
