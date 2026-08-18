@@ -13,4 +13,8 @@ if [[ -z "$make_command" ]]; then
     make_command="$(command -v make || command -v mingw32-make)"
 fi
 "$make_command" -C "$build_root" -j2
-"$build_root/test_loadout_core"
+test_binary="$build_root/test_loadout_core"
+if [[ ! -f "$test_binary" && -f "$build_root/release/test_loadout_core.exe" ]]; then
+    test_binary="$build_root/release/test_loadout_core.exe"
+fi
+"$test_binary"
