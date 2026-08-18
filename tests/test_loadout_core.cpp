@@ -48,7 +48,10 @@ void setPiece(loadout_piece_t &piece, int type, int marker)
 int main(int argc, char **argv)
 {
     QCoreApplication application(argc, argv);
-    const QString database = QFileInfo(QDir(QCoreApplication::applicationDirPath()).filePath("../../data/mh4g.sqlite")).absoluteFilePath();
+    const QDir applicationDirectory(QCoreApplication::applicationDirPath());
+    QString database = QFileInfo(applicationDirectory.filePath("../../data/mh4g.sqlite")).absoluteFilePath();
+    if (!QFileInfo::exists(database))
+        database = QFileInfo(applicationDirectory.filePath("../../../data/mh4g.sqlite")).absoluteFilePath();
     if (!GameDataRepository::instance().open(database)) fail(GameDataRepository::instance().errorString());
 
     equipment_query_t relicQuery;
