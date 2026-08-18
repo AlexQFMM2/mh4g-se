@@ -146,6 +146,8 @@ $required = @(
     (Join-Path $Package "$Target.exe"),
     (Join-Path $Package "Qt5Core.dll"),
     (Join-Path $Package "Qt5Gui.dll"),
+    (Join-Path $Package "libEGL.dll"),
+    (Join-Path $Package "libGLESv2.dll"),
     (Join-Path $Package "Qt5Network.dll"),
     (Join-Path $Package "Qt5Sql.dll"),
     (Join-Path $Package "sqldrivers\qsqlite.dll"),
