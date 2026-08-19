@@ -92,31 +92,31 @@ id,name,english,source,rarity,is_relic
 90,黑灭龙枪,Ruiner Lance,mh4g-core-common-game-array+mh4g-dex-build7+mh4edit-mit-save-id,7,0
 91,灵狐,[JP] Brain Fox,mh4g-core-common-game-array+mh4g-dex-build7+mh4edit-mit-save-id+mh4g-save-id-dex-crosswalk,2,0
 92,特搜队专用枪【百狐】,[JP] Discovery Corps Lance,mh4g-core-common-game-array+mh4g-dex-build7+mh4edit-mit-save-id+mh4g-save-id-dex-crosswalk,5,0
-93,要塞守卫者,Babel Spear (red),mh4g-core-common-game-array+mh4g-dex-build7+mh4edit-mit-save-id,0,1
-94,要塞守卫者,Babel Spear (yellow),mh4g-core-common-game-array+mh4g-dex-build7+mh4edit-mit-save-id,0,1
-95,要塞守卫者,Babel Spear (green),mh4g-core-common-game-array+mh4g-dex-build7+mh4edit-mit-save-id,0,1
-96,要塞守卫者,Babel Spear (blue),mh4g-core-common-game-array+mh4g-dex-build7+mh4edit-mit-save-id,0,1
-97,要塞守卫者,Babel Spear (purple),mh4g-core-common-game-array+mh4g-dex-build7+mh4edit-mit-save-id,0,1
-98,冰牙长枪,Tusk Lance (red),mh4g-core-common-game-array+mh4g-dex-build7+mh4edit-mit-save-id,0,1
-99,冰牙长枪,Tusk Lance (yellow),mh4g-core-common-game-array+mh4g-dex-build7+mh4edit-mit-save-id,0,1
-100,冰牙长枪,Tusk Lance (green),mh4g-core-common-game-array+mh4g-dex-build7+mh4edit-mit-save-id,0,1
-101,冰牙长枪,Tusk Lance (blue),mh4g-core-common-game-array+mh4g-dex-build7+mh4edit-mit-save-id,0,1
-102,冰牙长枪,Tusk Lance (purple),mh4g-core-common-game-array+mh4g-dex-build7+mh4edit-mit-save-id,0,1
-103,龙骑枪,Dragonrider Lance (red),mh4g-core-common-game-array+mh4g-relic-jp-cn-crosswalk+mh4edit-mit-save-id,0,1
-104,龙骑枪,Dragonrider Lance (yellow),mh4g-core-common-game-array+mh4g-relic-jp-cn-crosswalk+mh4edit-mit-save-id,0,1
-105,龙骑枪,Dragonrider Lance (green),mh4g-core-common-game-array+mh4g-relic-jp-cn-crosswalk+mh4edit-mit-save-id,0,1
-106,龙骑枪,Dragonrider Lance (blue),mh4g-core-common-game-array+mh4g-relic-jp-cn-crosswalk+mh4edit-mit-save-id,0,1
-107,龙骑枪,Dragonrider Lance (purple),mh4g-core-common-game-array+mh4g-relic-jp-cn-crosswalk+mh4edit-mit-save-id,0,1
-108,合战枪,Frontrider Lance (red),mh4g-core-common-game-array+mh4g-relic-jp-cn-crosswalk+mh4edit-mit-save-id,0,1
-109,合战枪,Frontrider Lance (yellow),mh4g-core-common-game-array+mh4g-relic-jp-cn-crosswalk+mh4edit-mit-save-id,0,1
-110,合战枪,Frontrider Lance (green),mh4g-core-common-game-array+mh4g-relic-jp-cn-crosswalk+mh4edit-mit-save-id,0,1
-111,合战枪,Frontrider Lance (blue),mh4g-core-common-game-array+mh4g-relic-jp-cn-crosswalk+mh4edit-mit-save-id,0,1
-112,合战枪,Frontrider Lance (purple),mh4g-core-common-game-array+mh4g-relic-jp-cn-crosswalk+mh4edit-mit-save-id,0,1
-113,白色日珥,Silver Prominence (red),mh4g-core-common-game-array+mh4g-dex-build7+mh4edit-mit-save-id,0,1
-114,白色日珥,Silver Prominence (yellow),mh4g-core-common-game-array+mh4g-dex-build7+mh4edit-mit-save-id,0,1
-115,白色日珥,Silver Prominence (green),mh4g-core-common-game-array+mh4g-dex-build7+mh4edit-mit-save-id,0,1
-116,白色日珥,Silver Prominence (blue),mh4g-core-common-game-array+mh4g-dex-build7+mh4edit-mit-save-id,0,1
-117,白色日珥,Silver Prominence (purple),mh4g-core-common-game-array+mh4g-dex-build7+mh4edit-mit-save-id,0,1
+93,要塞守卫者（发掘·红）,Babel Spear (red),mh4g-core-common-game-array+mh4g-dex-build7+mh4edit-mit-save-id,0,1
+94,要塞守卫者（发掘·黄）,Babel Spear (yellow),mh4g-core-common-game-array+mh4g-dex-build7+mh4edit-mit-save-id,0,1
+95,要塞守卫者（发掘·绿）,Babel Spear (green),mh4g-core-common-game-array+mh4g-dex-build7+mh4edit-mit-save-id,0,1
+96,要塞守卫者（发掘·蓝）,Babel Spear (blue),mh4g-core-common-game-array+mh4g-dex-build7+mh4edit-mit-save-id,0,1
+97,要塞守卫者（发掘·紫）,Babel Spear (purple),mh4g-core-common-game-array+mh4g-dex-build7+mh4edit-mit-save-id,0,1
+98,冰牙长枪（发掘·红）,Tusk Lance (red),mh4g-core-common-game-array+mh4g-dex-build7+mh4edit-mit-save-id,0,1
+99,冰牙长枪（发掘·黄）,Tusk Lance (yellow),mh4g-core-common-game-array+mh4g-dex-build7+mh4edit-mit-save-id,0,1
+100,冰牙长枪（发掘·绿）,Tusk Lance (green),mh4g-core-common-game-array+mh4g-dex-build7+mh4edit-mit-save-id,0,1
+101,冰牙长枪（发掘·蓝）,Tusk Lance (blue),mh4g-core-common-game-array+mh4g-dex-build7+mh4edit-mit-save-id,0,1
+102,冰牙长枪（发掘·紫）,Tusk Lance (purple),mh4g-core-common-game-array+mh4g-dex-build7+mh4edit-mit-save-id,0,1
+103,龙骑枪（发掘·红）,Dragonrider Lance (red),mh4g-core-common-game-array+mh4g-relic-jp-cn-crosswalk+mh4edit-mit-save-id,0,1
+104,龙骑枪（发掘·黄）,Dragonrider Lance (yellow),mh4g-core-common-game-array+mh4g-relic-jp-cn-crosswalk+mh4edit-mit-save-id,0,1
+105,龙骑枪（发掘·绿）,Dragonrider Lance (green),mh4g-core-common-game-array+mh4g-relic-jp-cn-crosswalk+mh4edit-mit-save-id,0,1
+106,龙骑枪（发掘·蓝）,Dragonrider Lance (blue),mh4g-core-common-game-array+mh4g-relic-jp-cn-crosswalk+mh4edit-mit-save-id,0,1
+107,龙骑枪（发掘·紫）,Dragonrider Lance (purple),mh4g-core-common-game-array+mh4g-relic-jp-cn-crosswalk+mh4edit-mit-save-id,0,1
+108,合战枪（发掘·红）,Frontrider Lance (red),mh4g-core-common-game-array+mh4g-relic-jp-cn-crosswalk+mh4edit-mit-save-id,0,1
+109,合战枪（发掘·黄）,Frontrider Lance (yellow),mh4g-core-common-game-array+mh4g-relic-jp-cn-crosswalk+mh4edit-mit-save-id,0,1
+110,合战枪（发掘·绿）,Frontrider Lance (green),mh4g-core-common-game-array+mh4g-relic-jp-cn-crosswalk+mh4edit-mit-save-id,0,1
+111,合战枪（发掘·蓝）,Frontrider Lance (blue),mh4g-core-common-game-array+mh4g-relic-jp-cn-crosswalk+mh4edit-mit-save-id,0,1
+112,合战枪（发掘·紫）,Frontrider Lance (purple),mh4g-core-common-game-array+mh4g-relic-jp-cn-crosswalk+mh4edit-mit-save-id,0,1
+113,白色日珥（发掘·红）,Silver Prominence (red),mh4g-core-common-game-array+mh4g-dex-build7+mh4edit-mit-save-id,0,1
+114,白色日珥（发掘·黄）,Silver Prominence (yellow),mh4g-core-common-game-array+mh4g-dex-build7+mh4edit-mit-save-id,0,1
+115,白色日珥（发掘·绿）,Silver Prominence (green),mh4g-core-common-game-array+mh4g-dex-build7+mh4edit-mit-save-id,0,1
+116,白色日珥（发掘·蓝）,Silver Prominence (blue),mh4g-core-common-game-array+mh4g-dex-build7+mh4edit-mit-save-id,0,1
+117,白色日珥（发掘·紫）,Silver Prominence (purple),mh4g-core-common-game-array+mh4g-dex-build7+mh4edit-mit-save-id,0,1
 118,堡垒守卫者改,Elder Babel Spear+,mh4g-core-common-game-array+mh4g-dex-build7+mh4edit-mit-save-id,8,0
 119,失落守卫者,Lost Babel,mh4g-core-common-game-array+mh4g-dex-build7+mh4edit-mit-save-id,9,0
 120,大钻头长枪改,Megadrill Lance+,mh4g-core-common-game-array+mh4g-dex-build7+mh4edit-mit-save-id,8,0
@@ -203,15 +203,15 @@ id,name,english,source,rarity,is_relic
 201,dummy,DUMMY,mh4g-core-common-game-array+mh4edit-mit-save-id,0,0
 202,dummy,DUMMY,mh4g-core-common-game-array+mh4edit-mit-save-id,0,0
 203,dummy,DUMMY,mh4g-core-common-game-array+mh4edit-mit-save-id,0,0
-204,七星枪,Seven-star lance (red),mh4g-core-common-game-array+mh4g-relic-jp-cn-crosswalk+mh4edit-mit-save-id,0,1
-205,七星枪,Seven-star lance (yellow),mh4g-core-common-game-array+mh4g-relic-jp-cn-crosswalk+mh4edit-mit-save-id,0,1
-206,七星枪,Seven-star lance (green),mh4g-core-common-game-array+mh4g-relic-jp-cn-crosswalk+mh4edit-mit-save-id,0,1
-207,七星枪,Seven-star lance (blue),mh4g-core-common-game-array+mh4g-relic-jp-cn-crosswalk+mh4edit-mit-save-id,0,1
-208,七星枪,Seven-star lance (purple),mh4g-core-common-game-array+mh4g-relic-jp-cn-crosswalk+mh4edit-mit-save-id,0,1
-209,剑戟,Estoc (red),mh4g-core-common-game-array+mh4g-relic-jp-cn-crosswalk+mh4edit-mit-save-id,0,1
-210,剑戟,Estoc (yellow),mh4g-core-common-game-array+mh4g-relic-jp-cn-crosswalk+mh4edit-mit-save-id,0,1
-211,剑戟,Estoc (green),mh4g-core-common-game-array+mh4g-relic-jp-cn-crosswalk+mh4edit-mit-save-id,0,1
-212,剑戟,Estoc (blue),mh4g-core-common-game-array+mh4g-relic-jp-cn-crosswalk+mh4edit-mit-save-id,0,1
-213,剑戟,Estoc (purple),mh4g-core-common-game-array+mh4g-relic-jp-cn-crosswalk+mh4edit-mit-save-id,0,1
+204,七星枪（发掘·红）,Seven-star lance (red),mh4g-core-common-game-array+mh4g-relic-jp-cn-crosswalk+mh4edit-mit-save-id,0,1
+205,七星枪（发掘·黄）,Seven-star lance (yellow),mh4g-core-common-game-array+mh4g-relic-jp-cn-crosswalk+mh4edit-mit-save-id,0,1
+206,七星枪（发掘·绿）,Seven-star lance (green),mh4g-core-common-game-array+mh4g-relic-jp-cn-crosswalk+mh4edit-mit-save-id,0,1
+207,七星枪（发掘·蓝）,Seven-star lance (blue),mh4g-core-common-game-array+mh4g-relic-jp-cn-crosswalk+mh4edit-mit-save-id,0,1
+208,七星枪（发掘·紫）,Seven-star lance (purple),mh4g-core-common-game-array+mh4g-relic-jp-cn-crosswalk+mh4edit-mit-save-id,0,1
+209,剑戟（发掘·红）,Estoc (red),mh4g-core-common-game-array+mh4g-relic-jp-cn-crosswalk+mh4edit-mit-save-id,0,1
+210,剑戟（发掘·黄）,Estoc (yellow),mh4g-core-common-game-array+mh4g-relic-jp-cn-crosswalk+mh4edit-mit-save-id,0,1
+211,剑戟（发掘·绿）,Estoc (green),mh4g-core-common-game-array+mh4g-relic-jp-cn-crosswalk+mh4edit-mit-save-id,0,1
+212,剑戟（发掘·蓝）,Estoc (blue),mh4g-core-common-game-array+mh4g-relic-jp-cn-crosswalk+mh4edit-mit-save-id,0,1
+213,剑戟（发掘·紫）,Estoc (purple),mh4g-core-common-game-array+mh4g-relic-jp-cn-crosswalk+mh4edit-mit-save-id,0,1
 214,千本枪【刃地狱】,Hell Phalanx,mh4g-core-common-game-array+mh4edit-mit-save-id,0,0
 215,万魔之净枪,Purification,mh4g-core-common-game-array+mh4edit-mit-save-id,0,0

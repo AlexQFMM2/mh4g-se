@@ -80,26 +80,26 @@ id,name,english,source,rarity,is_relic
 78,银钥匙,[JP] 銀の匙,mh4g-core-common-game-array+mh4g-dex-build7+mh4edit-mit-save-id+mh4g-save-id-dex-crosswalk,4,0
 79,雷霆万钧笛,[JP] Blitz Works,mh4g-core-common-game-array+mh4g-dex-build7+mh4edit-mit-save-id+mh4g-save-id-dex-crosswalk,6,0
 80,应援团笛【大角】,Megaphone,mh4g-core-common-game-array+mh4g-dex-build7+mh4edit-mit-save-id,6,0
-81,刚兹＝洛克,Basarios Rock (red),mh4g-core-common-game-array+mh4g-dex-build7+mh4edit-mit-save-id,0,1
-82,刚兹＝洛克,Basarios Rock (yellow),mh4g-core-common-game-array+mh4g-dex-build7+mh4edit-mit-save-id,0,1
-83,刚兹＝洛克,Basarios Rock (green),mh4g-core-common-game-array+mh4g-dex-build7+mh4edit-mit-save-id,0,1
-84,刚兹＝洛克,Basarios Rock (blue),mh4g-core-common-game-array+mh4g-dex-build7+mh4edit-mit-save-id,0,1
-85,刚兹＝洛克,Basarios Rock (purple),mh4g-core-common-game-array+mh4g-dex-build7+mh4edit-mit-save-id,0,1
-86,狱琴,Hellstrings (red),mh4g-core-common-game-array+mh4g-dex-build7-series-crosswalk+mh4edit-mit-save-id,0,1
-87,狱琴,Hellstrings (yellow),mh4g-core-common-game-array+mh4g-dex-build7-series-crosswalk+mh4edit-mit-save-id,0,1
-88,狱琴,Hellstrings (green),mh4g-core-common-game-array+mh4g-dex-build7-series-crosswalk+mh4edit-mit-save-id,0,1
-89,狱琴,Hellstrings (blue),mh4g-core-common-game-array+mh4g-dex-build7-series-crosswalk+mh4edit-mit-save-id,0,1
-90,狱琴,Hellstrings (purple),mh4g-core-common-game-array+mh4g-dex-build7-series-crosswalk+mh4edit-mit-save-id,0,1
-91,卷贝壳笛,Swell Shell (red),mh4g-core-common-game-array+mh3u-se-cn-gpl-v3+mh4edit-mit-save-id,0,1
-92,卷贝壳笛,Swell Shell (yellow),mh4g-core-common-game-array+mh3u-se-cn-gpl-v3+mh4edit-mit-save-id,0,1
-93,卷贝壳笛,Swell Shell (green),mh4g-core-common-game-array+mh3u-se-cn-gpl-v3+mh4edit-mit-save-id,0,1
-94,卷贝壳笛,Swell Shell (blue),mh4g-core-common-game-array+mh3u-se-cn-gpl-v3+mh4edit-mit-save-id,0,1
-95,卷贝壳笛,Swell Shell (purple),mh4g-core-common-game-array+mh3u-se-cn-gpl-v3+mh4edit-mit-save-id,0,1
-96,金笛,Gold Chordmaker (red),mh4g-core-common-game-array+mh4g-dex-build7+mh4edit-mit-save-id,0,1
-97,金笛,Gold Chordmaker (yellow),mh4g-core-common-game-array+mh4g-dex-build7+mh4edit-mit-save-id,0,1
-98,金笛,Gold Chordmaker (green),mh4g-core-common-game-array+mh4g-dex-build7+mh4edit-mit-save-id,0,1
-99,金笛,Gold Chordmaker (blue),mh4g-core-common-game-array+mh4g-dex-build7+mh4edit-mit-save-id,0,1
-100,金笛,Gold Chordmaker (purple),mh4g-core-common-game-array+mh4g-dex-build7+mh4edit-mit-save-id,0,1
+81,刚兹＝洛克（发掘·红）,Basarios Rock (red),mh4g-core-common-game-array+mh4g-dex-build7+mh4edit-mit-save-id,0,1
+82,刚兹＝洛克（发掘·黄）,Basarios Rock (yellow),mh4g-core-common-game-array+mh4g-dex-build7+mh4edit-mit-save-id,0,1
+83,刚兹＝洛克（发掘·绿）,Basarios Rock (green),mh4g-core-common-game-array+mh4g-dex-build7+mh4edit-mit-save-id,0,1
+84,刚兹＝洛克（发掘·蓝）,Basarios Rock (blue),mh4g-core-common-game-array+mh4g-dex-build7+mh4edit-mit-save-id,0,1
+85,刚兹＝洛克（发掘·紫）,Basarios Rock (purple),mh4g-core-common-game-array+mh4g-dex-build7+mh4edit-mit-save-id,0,1
+86,狱琴（发掘·红）,Hellstrings (red),mh4g-core-common-game-array+mh4g-dex-build7-series-crosswalk+mh4edit-mit-save-id,0,1
+87,狱琴（发掘·黄）,Hellstrings (yellow),mh4g-core-common-game-array+mh4g-dex-build7-series-crosswalk+mh4edit-mit-save-id,0,1
+88,狱琴（发掘·绿）,Hellstrings (green),mh4g-core-common-game-array+mh4g-dex-build7-series-crosswalk+mh4edit-mit-save-id,0,1
+89,狱琴（发掘·蓝）,Hellstrings (blue),mh4g-core-common-game-array+mh4g-dex-build7-series-crosswalk+mh4edit-mit-save-id,0,1
+90,狱琴（发掘·紫）,Hellstrings (purple),mh4g-core-common-game-array+mh4g-dex-build7-series-crosswalk+mh4edit-mit-save-id,0,1
+91,卷贝壳笛（发掘·红）,Swell Shell (red),mh4g-core-common-game-array+mh3u-se-cn-gpl-v3+mh4edit-mit-save-id,0,1
+92,卷贝壳笛（发掘·黄）,Swell Shell (yellow),mh4g-core-common-game-array+mh3u-se-cn-gpl-v3+mh4edit-mit-save-id,0,1
+93,卷贝壳笛（发掘·绿）,Swell Shell (green),mh4g-core-common-game-array+mh3u-se-cn-gpl-v3+mh4edit-mit-save-id,0,1
+94,卷贝壳笛（发掘·蓝）,Swell Shell (blue),mh4g-core-common-game-array+mh3u-se-cn-gpl-v3+mh4edit-mit-save-id,0,1
+95,卷贝壳笛（发掘·紫）,Swell Shell (purple),mh4g-core-common-game-array+mh3u-se-cn-gpl-v3+mh4edit-mit-save-id,0,1
+96,金笛（发掘·红）,Gold Chordmaker (red),mh4g-core-common-game-array+mh4g-dex-build7+mh4edit-mit-save-id,0,1
+97,金笛（发掘·黄）,Gold Chordmaker (yellow),mh4g-core-common-game-array+mh4g-dex-build7+mh4edit-mit-save-id,0,1
+98,金笛（发掘·绿）,Gold Chordmaker (green),mh4g-core-common-game-array+mh4g-dex-build7+mh4edit-mit-save-id,0,1
+99,金笛（发掘·蓝）,Gold Chordmaker (blue),mh4g-core-common-game-array+mh4g-dex-build7+mh4edit-mit-save-id,0,1
+100,金笛（发掘·紫）,Gold Chordmaker (purple),mh4g-core-common-game-array+mh4g-dex-build7+mh4edit-mit-save-id,0,1
 101,最强音改,Sforzando+,mh4g-core-common-game-array+mh4g-dex-build7+mh4edit-mit-save-id,8,0
 102,终极强音,Rinforzato,mh4g-core-common-game-array+mh4g-dex-build7+mh4edit-mit-save-id,9,0
 103,THE狂欢,La Joie,mh4g-core-common-game-array+mh4g-dex-build7+mh4edit-mit-save-id,9,0
@@ -174,13 +174,13 @@ id,name,english,source,rarity,is_relic
 172,dummy,DUMMY,mh4g-core-common-game-array+mh4edit-mit-save-id,0,0
 173,响星斯科尔比奥,Scorpion Lute,mh4g-core-common-game-array+mh4edit-mit-save-id,0,0
 174,轮回盘林卡奈特,Endless Loop,mh4g-core-common-game-array+mh4edit-mit-save-id,0,0
-175,音速长笛,Sonic Glass (red),mh4g-core-common-game-array+mh4g-relic-jp-cn-crosswalk+mh4edit-mit-save-id,0,1
-176,音速长笛,Sonic Glass (yellow),mh4g-core-common-game-array+mh4g-relic-jp-cn-crosswalk+mh4edit-mit-save-id,0,1
-177,音速长笛,Sonic Glass (green),mh4g-core-common-game-array+mh4g-relic-jp-cn-crosswalk+mh4edit-mit-save-id,0,1
-178,音速长笛,Sonic Glass (blue),mh4g-core-common-game-array+mh4g-relic-jp-cn-crosswalk+mh4edit-mit-save-id,0,1
-179,音速长笛,Sonic Glass (purple),mh4g-core-common-game-array+mh4g-relic-jp-cn-crosswalk+mh4edit-mit-save-id,0,1
-180,黑翼笛,Hidden Harmonic (red),mh4g-core-common-game-array+mh3u-se-cn-gpl-v3+mh4edit-mit-save-id,0,1
-181,黑翼笛,Hidden Harmonic (yellow),mh4g-core-common-game-array+mh3u-se-cn-gpl-v3+mh4edit-mit-save-id,0,1
-182,黑翼笛,Hidden Harmonic (green),mh4g-core-common-game-array+mh3u-se-cn-gpl-v3+mh4edit-mit-save-id,0,1
-183,黑翼笛,Hidden Harmonic (blue),mh4g-core-common-game-array+mh3u-se-cn-gpl-v3+mh4edit-mit-save-id,0,1
-184,黑翼笛,Hidden Harmonic (purple),mh4g-core-common-game-array+mh3u-se-cn-gpl-v3+mh4edit-mit-save-id,0,1
+175,音速长笛（发掘·红）,Sonic Glass (red),mh4g-core-common-game-array+mh4g-relic-jp-cn-crosswalk+mh4edit-mit-save-id,0,1
+176,音速长笛（发掘·黄）,Sonic Glass (yellow),mh4g-core-common-game-array+mh4g-relic-jp-cn-crosswalk+mh4edit-mit-save-id,0,1
+177,音速长笛（发掘·绿）,Sonic Glass (green),mh4g-core-common-game-array+mh4g-relic-jp-cn-crosswalk+mh4edit-mit-save-id,0,1
+178,音速长笛（发掘·蓝）,Sonic Glass (blue),mh4g-core-common-game-array+mh4g-relic-jp-cn-crosswalk+mh4edit-mit-save-id,0,1
+179,音速长笛（发掘·紫）,Sonic Glass (purple),mh4g-core-common-game-array+mh4g-relic-jp-cn-crosswalk+mh4edit-mit-save-id,0,1
+180,黑翼笛（发掘·红）,Hidden Harmonic (red),mh4g-core-common-game-array+mh3u-se-cn-gpl-v3+mh4edit-mit-save-id,0,1
+181,黑翼笛（发掘·黄）,Hidden Harmonic (yellow),mh4g-core-common-game-array+mh3u-se-cn-gpl-v3+mh4edit-mit-save-id,0,1
+182,黑翼笛（发掘·绿）,Hidden Harmonic (green),mh4g-core-common-game-array+mh3u-se-cn-gpl-v3+mh4edit-mit-save-id,0,1
+183,黑翼笛（发掘·蓝）,Hidden Harmonic (blue),mh4g-core-common-game-array+mh3u-se-cn-gpl-v3+mh4edit-mit-save-id,0,1
+184,黑翼笛（发掘·紫）,Hidden Harmonic (purple),mh4g-core-common-game-array+mh3u-se-cn-gpl-v3+mh4edit-mit-save-id,0,1

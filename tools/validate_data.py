@@ -8,6 +8,7 @@ import csv
 import hashlib
 import io
 import json
+import re
 import sqlite3
 import struct
 import subprocess
@@ -74,7 +75,7 @@ def validate_sqlite_dataset(data_dir: Path, manifest: dict, errors: ValidationEr
     errors.require(expected_digest == sha256(database_path), "manifest: database SHA-256 mismatch")
     errors.require(database_info.get("bytes") == database_path.stat().st_size, "manifest: database byte size mismatch")
     errors.require(manifest.get("generator", {}).get("name") == "build_sqlite_data.py", "manifest: unexpected generator")
-    errors.require(manifest.get("generator", {}).get("version") == "1.1.0", "manifest: unsupported generator version")
+    errors.require(manifest.get("generator", {}).get("version") == "1.1.1", "manifest: unsupported generator version")
     errors.require("timestamp" not in json.dumps(manifest).lower(), "manifest: timestamps are forbidden")
 
     native = manifest.get("native_export", {})
@@ -132,6 +133,18 @@ def validate_sqlite_dataset(data_dir: Path, manifest: dict, errors: ValidationEr
         errors.require(invalid_relics == 0, "armors: is_relic differs from native special_flags bit 0x80")
         errors.require(connection.execute("SELECT count(*) FROM weapons WHERE is_relic NOT IN (0,1)").fetchone()[0] == 0,
                        "weapons: is_relic must be 0 or 1")
+        relic_colours = {"red": "红", "yellow": "黄", "green": "绿", "blue": "蓝", "purple": "紫"}
+        relic_weapons = connection.execute(
+            "SELECT save_type,save_id,name_cn,name_en FROM weapons WHERE is_relic=1 ORDER BY save_type,save_id"
+        ).fetchall()
+        errors.require(len(relic_weapons) == 435, f"weapons: expected 435 relic rows, got {len(relic_weapons)}")
+        for save_type, save_id, name_cn, name_en in relic_weapons:
+            match = re.search(r"\((red|yellow|green|blue|purple)\)\s*$", name_en, re.I)
+            errors.require(match is not None, f"weapons: relic {save_type}:{save_id} has no English colour suffix")
+            if match is not None:
+                expected = f"（发掘·{relic_colours[match.group(1).lower()]}）"
+                errors.require(name_cn.endswith(expected),
+                               f"weapons: relic {save_type}:{save_id} Chinese colour suffix differs: {name_cn!r}")
         errors.require(connection.execute("SELECT count(*) FROM armors WHERE max_defense IS NULL AND is_relic=1").fetchone()[0] > 0,
                        "armors: unconfirmed relic maximum defense must remain NULL")
         errors.require(connection.execute("SELECT count(*) FROM active_skills").fetchone()[0] > 0,

@@ -109,31 +109,31 @@ id,name,english,source,rarity,is_relic
 107,双刃大怪鸟,Dual Kut-Ku,mh4g-core-common-game-array+mh4g-dex-build7+mh4edit-mit-save-id,4,0
 108,巨大双枪,[JP] ギガントピストル,mh4g-core-common-game-array+mh4g-dex-build7+mh4edit-mit-save-id+mh4g-save-id-dex-crosswalk,7,0
 109,红莲爆炎刃,[JP] Exploding Blades,mh4g-core-common-game-array+mh4g-dex-build7+mh4edit-mit-save-id+mh4g-save-id-dex-crosswalk,7,0
-110,王双刃,Twins Regnant (red),mh4g-core-common-game-array+mh4g-dex-build7-series-crosswalk+mh4edit-mit-save-id,0,1
-111,王双刃,Twins Regnant (yellow),mh4g-core-common-game-array+mh4g-dex-build7-series-crosswalk+mh4edit-mit-save-id,0,1
-112,王双刃,Twins Regnant (green),mh4g-core-common-game-array+mh4g-dex-build7-series-crosswalk+mh4edit-mit-save-id,0,1
-113,王双刃,Twins Regnant (blue),mh4g-core-common-game-array+mh4g-dex-build7-series-crosswalk+mh4edit-mit-save-id,0,1
-114,王双刃,Twins Regnant (purple),mh4g-core-common-game-array+mh4g-dex-build7-series-crosswalk+mh4edit-mit-save-id,0,1
-115,蓝速龙双爪,Vprey Claws (red),mh4g-core-common-game-array+mh4g-dex-build7+mh4edit-mit-save-id,0,1
-116,蓝速龙双爪,Vprey Claws (yellow),mh4g-core-common-game-array+mh4g-dex-build7+mh4edit-mit-save-id,0,1
-117,蓝速龙双爪,Vprey Claws (green),mh4g-core-common-game-array+mh4g-dex-build7+mh4edit-mit-save-id,0,1
-118,蓝速龙双爪,Vprey Claws (blue),mh4g-core-common-game-array+mh4g-dex-build7+mh4edit-mit-save-id,0,1
-119,蓝速龙双爪,Vprey Claws (purple),mh4g-core-common-game-array+mh4g-dex-build7+mh4edit-mit-save-id,0,1
-120,铁扇,Tessen (red),mh4g-core-common-game-array+mh4g-dex-build7-series-crosswalk+mh4edit-mit-save-id,0,1
-121,铁扇,Tessen (yellow),mh4g-core-common-game-array+mh4g-dex-build7-series-crosswalk+mh4edit-mit-save-id,0,1
-122,铁扇,Tessen (green),mh4g-core-common-game-array+mh4g-dex-build7-series-crosswalk+mh4edit-mit-save-id,0,1
-123,铁扇,Tessen (blue),mh4g-core-common-game-array+mh4g-dex-build7-series-crosswalk+mh4edit-mit-save-id,0,1
-124,铁扇,Tessen (purple),mh4g-core-common-game-array+mh4g-dex-build7-series-crosswalk+mh4edit-mit-save-id,0,1
-125,祭囃子・无形之调,Ritual Ephemera (red),mh4g-core-common-game-array+mh4g-dex-build7-series-crosswalk+mh4edit-mit-save-id,0,1
-126,祭囃子・无形之调,Ritual Ephemera (yellow),mh4g-core-common-game-array+mh4g-dex-build7-series-crosswalk+mh4edit-mit-save-id,0,1
-127,祭囃子・无形之调,Ritual Ephemera (green),mh4g-core-common-game-array+mh4g-dex-build7-series-crosswalk+mh4edit-mit-save-id,0,1
-128,祭囃子・无形之调,Ritual Ephemera (blue),mh4g-core-common-game-array+mh4g-dex-build7-series-crosswalk+mh4edit-mit-save-id,0,1
-129,祭囃子・无形之调,Ritual Ephemera (purple),mh4g-core-common-game-array+mh4g-dex-build7-series-crosswalk+mh4edit-mit-save-id,0,1
-130,公会骑士军刀,Guild Knight Sabers (red),mh4g-core-common-game-array+mh4g-dex-build7+mh4edit-mit-save-id,0,1
-131,公会骑士军刀,Guild Knight Sabers (yellow),mh4g-core-common-game-array+mh4g-dex-build7+mh4edit-mit-save-id,0,1
-132,公会骑士军刀,Guild Knight Sabers (green),mh4g-core-common-game-array+mh4g-dex-build7+mh4edit-mit-save-id,0,1
-133,公会骑士军刀,Guild Knight Sabers (blue),mh4g-core-common-game-array+mh4g-dex-build7+mh4edit-mit-save-id,0,1
-134,公会骑士军刀,Guild Knight Sabers (purple),mh4g-core-common-game-array+mh4g-dex-build7+mh4edit-mit-save-id,0,1
+110,王双刃（发掘·红）,Twins Regnant (red),mh4g-core-common-game-array+mh4g-dex-build7-series-crosswalk+mh4edit-mit-save-id,0,1
+111,王双刃（发掘·黄）,Twins Regnant (yellow),mh4g-core-common-game-array+mh4g-dex-build7-series-crosswalk+mh4edit-mit-save-id,0,1
+112,王双刃（发掘·绿）,Twins Regnant (green),mh4g-core-common-game-array+mh4g-dex-build7-series-crosswalk+mh4edit-mit-save-id,0,1
+113,王双刃（发掘·蓝）,Twins Regnant (blue),mh4g-core-common-game-array+mh4g-dex-build7-series-crosswalk+mh4edit-mit-save-id,0,1
+114,王双刃（发掘·紫）,Twins Regnant (purple),mh4g-core-common-game-array+mh4g-dex-build7-series-crosswalk+mh4edit-mit-save-id,0,1
+115,蓝速龙双爪（发掘·红）,Vprey Claws (red),mh4g-core-common-game-array+mh4g-dex-build7+mh4edit-mit-save-id,0,1
+116,蓝速龙双爪（发掘·黄）,Vprey Claws (yellow),mh4g-core-common-game-array+mh4g-dex-build7+mh4edit-mit-save-id,0,1
+117,蓝速龙双爪（发掘·绿）,Vprey Claws (green),mh4g-core-common-game-array+mh4g-dex-build7+mh4edit-mit-save-id,0,1
+118,蓝速龙双爪（发掘·蓝）,Vprey Claws (blue),mh4g-core-common-game-array+mh4g-dex-build7+mh4edit-mit-save-id,0,1
+119,蓝速龙双爪（发掘·紫）,Vprey Claws (purple),mh4g-core-common-game-array+mh4g-dex-build7+mh4edit-mit-save-id,0,1
+120,铁扇（发掘·红）,Tessen (red),mh4g-core-common-game-array+mh4g-dex-build7-series-crosswalk+mh4edit-mit-save-id,0,1
+121,铁扇（发掘·黄）,Tessen (yellow),mh4g-core-common-game-array+mh4g-dex-build7-series-crosswalk+mh4edit-mit-save-id,0,1
+122,铁扇（发掘·绿）,Tessen (green),mh4g-core-common-game-array+mh4g-dex-build7-series-crosswalk+mh4edit-mit-save-id,0,1
+123,铁扇（发掘·蓝）,Tessen (blue),mh4g-core-common-game-array+mh4g-dex-build7-series-crosswalk+mh4edit-mit-save-id,0,1
+124,铁扇（发掘·紫）,Tessen (purple),mh4g-core-common-game-array+mh4g-dex-build7-series-crosswalk+mh4edit-mit-save-id,0,1
+125,祭囃子・无形之调（发掘·红）,Ritual Ephemera (red),mh4g-core-common-game-array+mh4g-dex-build7-series-crosswalk+mh4edit-mit-save-id,0,1
+126,祭囃子・无形之调（发掘·黄）,Ritual Ephemera (yellow),mh4g-core-common-game-array+mh4g-dex-build7-series-crosswalk+mh4edit-mit-save-id,0,1
+127,祭囃子・无形之调（发掘·绿）,Ritual Ephemera (green),mh4g-core-common-game-array+mh4g-dex-build7-series-crosswalk+mh4edit-mit-save-id,0,1
+128,祭囃子・无形之调（发掘·蓝）,Ritual Ephemera (blue),mh4g-core-common-game-array+mh4g-dex-build7-series-crosswalk+mh4edit-mit-save-id,0,1
+129,祭囃子・无形之调（发掘·紫）,Ritual Ephemera (purple),mh4g-core-common-game-array+mh4g-dex-build7-series-crosswalk+mh4edit-mit-save-id,0,1
+130,公会骑士军刀（发掘·红）,Guild Knight Sabers (red),mh4g-core-common-game-array+mh4g-dex-build7+mh4edit-mit-save-id,0,1
+131,公会骑士军刀（发掘·黄）,Guild Knight Sabers (yellow),mh4g-core-common-game-array+mh4g-dex-build7+mh4edit-mit-save-id,0,1
+132,公会骑士军刀（发掘·绿）,Guild Knight Sabers (green),mh4g-core-common-game-array+mh4g-dex-build7+mh4edit-mit-save-id,0,1
+133,公会骑士军刀（发掘·蓝）,Guild Knight Sabers (blue),mh4g-core-common-game-array+mh4g-dex-build7+mh4edit-mit-save-id,0,1
+134,公会骑士军刀（发掘·紫）,Guild Knight Sabers (purple),mh4g-core-common-game-array+mh4g-dex-build7+mh4edit-mit-save-id,0,1
 135,dummy,DUMMY,mh4g-core-common-game-array+mh4edit-mit-save-id,0,0
 136,旋风双战斧,Tornado Hatchets,mh4g-core-common-game-array+mh4g-dex-build7+mh4edit-mit-save-id,8,0
 137,台风,Typhoon,mh4g-core-common-game-array+mh4g-dex-build7+mh4edit-mit-save-id,9,0
@@ -216,15 +216,15 @@ id,name,english,source,rarity,is_relic
 214,MH部员特制扇子,Fan Club Fans,mh4g-core-common-game-array+mh4g-dex-build7+mh4edit-mit-save-id,10,0
 215,dummy,DUMMY,mh4g-core-common-game-array+mh4edit-mit-save-id,0,0
 216,dummy,DUMMY,mh4g-core-common-game-array+mh4edit-mit-save-id,0,0
-217,海王双刃,Sea-king's Twins (red),mh4g-core-common-game-array+mh4g-relic-jp-cn-crosswalk+mh4edit-mit-save-id,0,1
-218,海王双刃,Sea-king's Twins (yellow),mh4g-core-common-game-array+mh4g-relic-jp-cn-crosswalk+mh4edit-mit-save-id,0,1
-219,海王双刃,Sea-king's Twins (green),mh4g-core-common-game-array+mh4g-relic-jp-cn-crosswalk+mh4edit-mit-save-id,0,1
-220,海王双刃,Sea-king's Twins (blue),mh4g-core-common-game-array+mh4g-relic-jp-cn-crosswalk+mh4edit-mit-save-id,0,1
-221,海王双刃,Sea-king's Twins (purple),mh4g-core-common-game-array+mh4g-relic-jp-cn-crosswalk+mh4edit-mit-save-id,0,1
-222,风雪冰牙刃,Blizzarioths (red),mh4g-core-common-game-array+mh3u-se-cn-gpl-v3+mh4edit-mit-save-id,0,1
-223,风雪冰牙刃,Blizzarioths (yellow),mh4g-core-common-game-array+mh3u-se-cn-gpl-v3+mh4edit-mit-save-id,0,1
-224,风雪冰牙刃,Blizzarioths (green),mh4g-core-common-game-array+mh3u-se-cn-gpl-v3+mh4edit-mit-save-id,0,1
-225,风雪冰牙刃,Blizzarioths (blue),mh4g-core-common-game-array+mh3u-se-cn-gpl-v3+mh4edit-mit-save-id,0,1
-226,风雪冰牙刃,Blizzarioths (purple),mh4g-core-common-game-array+mh3u-se-cn-gpl-v3+mh4edit-mit-save-id,0,1
+217,海王双刃（发掘·红）,Sea-king's Twins (red),mh4g-core-common-game-array+mh4g-relic-jp-cn-crosswalk+mh4edit-mit-save-id,0,1
+218,海王双刃（发掘·黄）,Sea-king's Twins (yellow),mh4g-core-common-game-array+mh4g-relic-jp-cn-crosswalk+mh4edit-mit-save-id,0,1
+219,海王双刃（发掘·绿）,Sea-king's Twins (green),mh4g-core-common-game-array+mh4g-relic-jp-cn-crosswalk+mh4edit-mit-save-id,0,1
+220,海王双刃（发掘·蓝）,Sea-king's Twins (blue),mh4g-core-common-game-array+mh4g-relic-jp-cn-crosswalk+mh4edit-mit-save-id,0,1
+221,海王双刃（发掘·紫）,Sea-king's Twins (purple),mh4g-core-common-game-array+mh4g-relic-jp-cn-crosswalk+mh4edit-mit-save-id,0,1
+222,风雪冰牙刃（发掘·红）,Blizzarioths (red),mh4g-core-common-game-array+mh3u-se-cn-gpl-v3+mh4edit-mit-save-id,0,1
+223,风雪冰牙刃（发掘·黄）,Blizzarioths (yellow),mh4g-core-common-game-array+mh3u-se-cn-gpl-v3+mh4edit-mit-save-id,0,1
+224,风雪冰牙刃（发掘·绿）,Blizzarioths (green),mh4g-core-common-game-array+mh3u-se-cn-gpl-v3+mh4edit-mit-save-id,0,1
+225,风雪冰牙刃（发掘·蓝）,Blizzarioths (blue),mh4g-core-common-game-array+mh3u-se-cn-gpl-v3+mh4edit-mit-save-id,0,1
+226,风雪冰牙刃（发掘·紫）,Blizzarioths (purple),mh4g-core-common-game-array+mh3u-se-cn-gpl-v3+mh4edit-mit-save-id,0,1
 227,卢比亚之爪剑,Crooked Blades,mh4g-core-common-game-array+mh4edit-mit-save-id,0,0
 228,炎热双地狱,Cross Inferno,mh4g-core-common-game-array+mh4edit-mit-save-id,0,0

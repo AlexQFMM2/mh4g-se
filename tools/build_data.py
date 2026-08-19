@@ -450,8 +450,11 @@ def make_equipment(
                 source = GAME_RESOURCE_SOURCE + "+" + REFERENCE_SOURCE
         if language == "cn":
             # The resource array is the authority for both the numeric ID and
-            # the exact Chinese label, including DUMMY and DLC entries.
-            name = game_name
+            # the base Chinese label, including DUMMY and DLC entries. Relic
+            # weapon colours only exist in the aligned English metadata, so
+            # preserve that reviewed suffix on top of the authoritative base.
+            name = (f"{game_name}（发掘·{COLOR_SUFFIXES[color]}）"
+                    if spec["kind"] == "weapon" and is_relic else game_name)
         result.append({
             "id": identifier,
             "name": name,

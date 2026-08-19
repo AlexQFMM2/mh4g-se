@@ -18,8 +18,15 @@ from pathlib import Path
 
 
 FORMAT = "mh4g-save-editor-sqlite-v1"
-GENERATOR_VERSION = "1.1.0"
+GENERATOR_VERSION = "1.1.1"
 ARMOR_FILES = {1: "armor_chest.csv", 2: "armor_arms.csv", 3: "armor_waist.csv", 4: "armor_legs.csv", 5: "armor_head.csv"}
+RELIC_COLOR_SUFFIXES = {
+    "red": "红",
+    "yellow": "黄",
+    "green": "绿",
+    "blue": "蓝",
+    "purple": "紫",
+}
 
 
 def rows(path: Path) -> list[dict[str, str]]:
@@ -205,9 +212,18 @@ def main() -> int:
         save_type, identifier = integer(row["save_type"]), integer(row["save_id"])
         cn_rows, en_rows = weapon_names[save_type]
         cn_row, en_row = cn_rows[identifier], en_rows[identifier]
+        is_relic = integer(row["is_relic"])
+        if is_relic:
+            match = re.search(r"\((red|yellow|green|blue|purple)\)\s*$", en_row["name"], re.I)
+            expected_suffix = f"（发掘·{RELIC_COLOR_SUFFIXES[match.group(1).lower()]}）" if match else ""
+            if not expected_suffix or not cn_row["name"].endswith(expected_suffix):
+                raise ValueError(
+                    f"relic weapon {save_type}:{identifier} is missing its reviewed colour suffix: "
+                    f"cn={cn_row['name']!r}, en={en_row['name']!r}"
+                )
         connection.execute(
             "INSERT INTO weapons VALUES(?,?,?,?,?,?,?,?,?,?,?,?,?,?,?,?,?,?)",
-            (save_type, identifier, cn_row["name"], en_row["name"], integer(row["rarity"]), integer(row["is_relic"]), row["layout"],
+            (save_type, identifier, cn_row["name"], en_row["name"], integer(row["rarity"]), is_relic, row["layout"],
              integer(row["attack_raw"]), integer(row["defense"]), integer(row["affinity_percent"]), integer(row["slots"]),
              integer(row["special_1_id"]), integer(row["special_1_value"]), integer(row["special_2_id"]), integer(row["special_2_value"]),
              "confirmed", cn_row["source"] + "+mh4g-code-bin", row["raw_hex"]),

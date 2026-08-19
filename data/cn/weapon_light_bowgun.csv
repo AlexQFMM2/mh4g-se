@@ -83,16 +83,16 @@ id,name,english,source,rarity,is_relic
 81,业弩黑暗狂人,"Diregun ""Dementia""",mh4g-core-common-game-array+mh4g-dex-build7+mh4edit-mit-save-id,7,0
 82,金狮火枪,Rajang Barrage,mh4g-core-common-game-array+mh4g-dex-build7+mh4edit-mit-save-id,6,0
 83,金狮子筒【万雷】,Ten Thousand Volts,mh4g-core-common-game-array+mh4g-dex-build7+mh4edit-mit-save-id,7,0
-84,土砂轻弩,Barro Barrel (red),mh4g-core-common-game-array+mh4g-dex-build7+mh4edit-mit-save-id,0,1
-85,土砂轻弩,Barro Barrel (yellow),mh4g-core-common-game-array+mh4g-dex-build7+mh4edit-mit-save-id,0,1
-86,土砂轻弩,Barro Barrel (green),mh4g-core-common-game-array+mh4g-dex-build7+mh4edit-mit-save-id,0,1
-87,土砂轻弩,Barro Barrel (blue),mh4g-core-common-game-array+mh4g-dex-build7+mh4edit-mit-save-id,0,1
-88,土砂轻弩,Barro Barrel (purple),mh4g-core-common-game-array+mh4g-dex-build7+mh4edit-mit-save-id,0,1
-89,雷炮,Thundercrack (red),mh4g-core-common-game-array+mh4g-dex-build7-series-crosswalk+mh4edit-mit-save-id,0,1
-90,雷炮,Thundercrack (yellow),mh4g-core-common-game-array+mh4g-dex-build7-series-crosswalk+mh4edit-mit-save-id,0,1
-91,雷炮,Thundercrack (green),mh4g-core-common-game-array+mh4g-dex-build7-series-crosswalk+mh4edit-mit-save-id,0,1
-92,雷炮,Thundercrack (blue),mh4g-core-common-game-array+mh4g-dex-build7-series-crosswalk+mh4edit-mit-save-id,0,1
-93,雷炮,Thundercrack (purple),mh4g-core-common-game-array+mh4g-dex-build7-series-crosswalk+mh4edit-mit-save-id,0,1
+84,土砂轻弩（发掘·红）,Barro Barrel (red),mh4g-core-common-game-array+mh4g-dex-build7+mh4edit-mit-save-id,0,1
+85,土砂轻弩（发掘·黄）,Barro Barrel (yellow),mh4g-core-common-game-array+mh4g-dex-build7+mh4edit-mit-save-id,0,1
+86,土砂轻弩（发掘·绿）,Barro Barrel (green),mh4g-core-common-game-array+mh4g-dex-build7+mh4edit-mit-save-id,0,1
+87,土砂轻弩（发掘·蓝）,Barro Barrel (blue),mh4g-core-common-game-array+mh4g-dex-build7+mh4edit-mit-save-id,0,1
+88,土砂轻弩（发掘·紫）,Barro Barrel (purple),mh4g-core-common-game-array+mh4g-dex-build7+mh4edit-mit-save-id,0,1
+89,雷炮（发掘·红）,Thundercrack (red),mh4g-core-common-game-array+mh4g-dex-build7-series-crosswalk+mh4edit-mit-save-id,0,1
+90,雷炮（发掘·黄）,Thundercrack (yellow),mh4g-core-common-game-array+mh4g-dex-build7-series-crosswalk+mh4edit-mit-save-id,0,1
+91,雷炮（发掘·绿）,Thundercrack (green),mh4g-core-common-game-array+mh4g-dex-build7-series-crosswalk+mh4edit-mit-save-id,0,1
+92,雷炮（发掘·蓝）,Thundercrack (blue),mh4g-core-common-game-array+mh4g-dex-build7-series-crosswalk+mh4edit-mit-save-id,0,1
+93,雷炮（发掘·紫）,Thundercrack (purple),mh4g-core-common-game-array+mh4g-dex-build7-series-crosswalk+mh4edit-mit-save-id,0,1
 94,爆破弹弩炮,Burst Revolver,mh4g-core-common-game-array+mh4g-dex-build7+mh4edit-mit-save-id,8,0
 95,未知弹弩炮,Volarevolver,mh4g-core-common-game-array+mh4g-dex-build7+mh4edit-mit-save-id,9,0
 96,苍火龙炎舞炮,Searulean Firedance,mh4g-core-common-game-array+mh4g-dex-build7+mh4edit-mit-save-id,9,0
@@ -172,15 +172,15 @@ id,name,english,source,rarity,is_relic
 170,钢臂加农炮,Arm Cannon,mh4g-core-common-game-array+mh4g-dex-build7+mh4edit-mit-save-id,10,0
 171,粉红阳伞,Frilly Pink Parasol,mh4g-core-common-game-array+mh4g-dex-build7+mh4edit-mit-save-id,10,0
 172,dummy,DUMMY,mh4g-core-common-game-array+mh4edit-mit-save-id,0,0
-173,阳伞,Frilly Parasol (red),mh4g-core-common-game-array+mh4g-dex-build7-series-crosswalk+mh4edit-mit-save-id,0,1
-174,阳伞,Frilly Parasol (yellow),mh4g-core-common-game-array+mh4g-dex-build7-series-crosswalk+mh4edit-mit-save-id,0,1
-175,阳伞,Frilly Parasol (green),mh4g-core-common-game-array+mh4g-dex-build7-series-crosswalk+mh4edit-mit-save-id,0,1
-176,阳伞,Frilly Parasol (blue),mh4g-core-common-game-array+mh4g-dex-build7-series-crosswalk+mh4edit-mit-save-id,0,1
-177,阳伞,Frilly Parasol (purple),mh4g-core-common-game-array+mh4g-dex-build7-series-crosswalk+mh4edit-mit-save-id,0,1
-178,贝尔克兹弩,Durambarrel (red),mh4g-core-common-game-array+mh3u-se-cn-gpl-v3+mh4edit-mit-save-id,0,1
-179,贝尔克兹弩,Durambarrel (yellow),mh4g-core-common-game-array+mh3u-se-cn-gpl-v3+mh4edit-mit-save-id,0,1
-180,贝尔克兹弩,Durambarrel (green),mh4g-core-common-game-array+mh3u-se-cn-gpl-v3+mh4edit-mit-save-id,0,1
-181,贝尔克兹弩,Durambarrel (blue),mh4g-core-common-game-array+mh3u-se-cn-gpl-v3+mh4edit-mit-save-id,0,1
-182,贝尔克兹弩,Durambarrel (purple),mh4g-core-common-game-array+mh3u-se-cn-gpl-v3+mh4edit-mit-save-id,0,1
+173,阳伞（发掘·红）,Frilly Parasol (red),mh4g-core-common-game-array+mh4g-dex-build7-series-crosswalk+mh4edit-mit-save-id,0,1
+174,阳伞（发掘·黄）,Frilly Parasol (yellow),mh4g-core-common-game-array+mh4g-dex-build7-series-crosswalk+mh4edit-mit-save-id,0,1
+175,阳伞（发掘·绿）,Frilly Parasol (green),mh4g-core-common-game-array+mh4g-dex-build7-series-crosswalk+mh4edit-mit-save-id,0,1
+176,阳伞（发掘·蓝）,Frilly Parasol (blue),mh4g-core-common-game-array+mh4g-dex-build7-series-crosswalk+mh4edit-mit-save-id,0,1
+177,阳伞（发掘·紫）,Frilly Parasol (purple),mh4g-core-common-game-array+mh4g-dex-build7-series-crosswalk+mh4edit-mit-save-id,0,1
+178,贝尔克兹弩（发掘·红）,Durambarrel (red),mh4g-core-common-game-array+mh3u-se-cn-gpl-v3+mh4edit-mit-save-id,0,1
+179,贝尔克兹弩（发掘·黄）,Durambarrel (yellow),mh4g-core-common-game-array+mh3u-se-cn-gpl-v3+mh4edit-mit-save-id,0,1
+180,贝尔克兹弩（发掘·绿）,Durambarrel (green),mh4g-core-common-game-array+mh3u-se-cn-gpl-v3+mh4edit-mit-save-id,0,1
+181,贝尔克兹弩（发掘·蓝）,Durambarrel (blue),mh4g-core-common-game-array+mh3u-se-cn-gpl-v3+mh4edit-mit-save-id,0,1
+182,贝尔克兹弩（发掘·紫）,Durambarrel (purple),mh4g-core-common-game-array+mh3u-se-cn-gpl-v3+mh4edit-mit-save-id,0,1
 183,爆散牙铳拉克诺萨斯,Scatterfly Rack,mh4g-core-common-game-array+mh4edit-mit-save-id,0,0
 184,叛徒之圣骑士枪,Rebel Paradigm,mh4g-core-common-game-array+mh4edit-mit-save-id,0,0

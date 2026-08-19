@@ -394,7 +394,7 @@ private:
                 m_table->setItem(row, column++, new QTableWidgetItem(QString::number(candidate.boxIndex / 100 + 1)));
                 m_table->setItem(row, column++, new QTableWidgetItem(QString::number(candidate.boxIndex % 100 + 1)));
             }
-            const QString displayName = candidate.isRelic
+            const QString displayName = candidate.isRelic && !candidate.name.contains(QString::fromUtf8("（发掘·"))
                 ? candidate.name + QString::fromUtf8(" · 发掘") : candidate.name;
             m_table->setItem(row, column++, new QTableWidgetItem(displayName));
             if (m_boxMode)

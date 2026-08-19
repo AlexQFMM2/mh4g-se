@@ -61,7 +61,11 @@ int main(int argc, char **argv)
     const QList<loadout_candidate_t> relicWeapons = GameDataRepository::instance().queryCandidates(-1, relicQuery);
     if (relicWeapons.isEmpty()) fail("relic-only query returned no weapons");
     for (int index = 0; index < relicWeapons.size(); ++index)
+    {
         if (!relicWeapons.at(index).isRelic) fail("relic-only query returned a normal weapon");
+        if (!relicWeapons.at(index).name.contains(QString::fromUtf8("（发掘·")))
+            fail("relic-only query lost the Chinese appearance colour suffix");
+    }
 
     equipment_query_t relicGreatSwordsQuery;
     relicGreatSwordsQuery.onlyRelic = true;

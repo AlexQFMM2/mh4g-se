@@ -111,36 +111,36 @@ id,name,english,source,rarity,is_relic
 109,退魔剑,Master Sword,mh4g-core-common-game-array+mh4g-dex-build7+mh4edit-mit-save-id,7,0
 110,EX武者备,EX Poise,mh4g-core-common-game-array+mh4g-dex-build7+mh4edit-mit-save-id,4,0
 111,EX豪剑【天羽羽斩】,EX Ame-no-habakiri,mh4g-core-common-game-array+mh4g-dex-build7+mh4edit-mit-save-id,7,0
-112,峯山小太刀,Jhen Kodachi (red),mh4g-core-common-game-array+mh3u-se-cn-gpl-v3+mh4edit-mit-save-id,0,1
-113,峯山小太刀,Jhen Kodachi (yellow),mh4g-core-common-game-array+mh3u-se-cn-gpl-v3+mh4edit-mit-save-id,0,1
-114,峯山小太刀,Jhen Kodachi (green),mh4g-core-common-game-array+mh3u-se-cn-gpl-v3+mh4edit-mit-save-id,0,1
-115,峯山小太刀,Jhen Kodachi (blue),mh4g-core-common-game-array+mh3u-se-cn-gpl-v3+mh4edit-mit-save-id,0,1
-116,峯山小太刀,Jhen Kodachi (purple),mh4g-core-common-game-array+mh3u-se-cn-gpl-v3+mh4edit-mit-save-id,0,1
-117,狩猎族小刀,Chak Chak (red),mh4g-core-common-game-array+mh3u-se-cn-gpl-v3+mh4edit-mit-save-id,0,1
-118,狩猎族小刀,Chak Chak (yellow),mh4g-core-common-game-array+mh3u-se-cn-gpl-v3+mh4edit-mit-save-id,0,1
-119,狩猎族小刀,Chak Chak (green),mh4g-core-common-game-array+mh3u-se-cn-gpl-v3+mh4edit-mit-save-id,0,1
-120,狩猎族小刀,Chak Chak (blue),mh4g-core-common-game-array+mh3u-se-cn-gpl-v3+mh4edit-mit-save-id,0,1
-121,狩猎族小刀,Chak Chak (purple),mh4g-core-common-game-array+mh3u-se-cn-gpl-v3+mh4edit-mit-save-id,0,1
-122,迅龙刃,Hidden Edge (red),mh4g-core-common-game-array+mh3u-se-cn-gpl-v3+mh4edit-mit-save-id,0,1
-123,迅龙刃,Hidden Edge (yellow),mh4g-core-common-game-array+mh3u-se-cn-gpl-v3+mh4edit-mit-save-id,0,1
-124,迅龙刃,Hidden Edge (green),mh4g-core-common-game-array+mh3u-se-cn-gpl-v3+mh4edit-mit-save-id,0,1
-125,迅龙刃,Hidden Edge (blue),mh4g-core-common-game-array+mh3u-se-cn-gpl-v3+mh4edit-mit-save-id,0,1
-126,迅龙刃,Hidden Edge (purple),mh4g-core-common-game-array+mh3u-se-cn-gpl-v3+mh4edit-mit-save-id,0,1
-127,大师弯刀,Master Bang (red),mh4g-core-common-game-array+mh4g-relic-jp-cn-crosswalk+mh4edit-mit-save-id,0,1
-128,大师弯刀,Master Bang (yellow),mh4g-core-common-game-array+mh4g-relic-jp-cn-crosswalk+mh4edit-mit-save-id,0,1
-129,大师弯刀,Master Bang (green),mh4g-core-common-game-array+mh4g-relic-jp-cn-crosswalk+mh4edit-mit-save-id,0,1
-130,大师弯刀,Master Bang (blue),mh4g-core-common-game-array+mh4g-relic-jp-cn-crosswalk+mh4edit-mit-save-id,0,1
-131,大师弯刀,Master Bang (purple),mh4g-core-common-game-array+mh4g-relic-jp-cn-crosswalk+mh4edit-mit-save-id,0,1
-132,黄金之髓,Golden Falchion (red),mh4g-core-common-game-array+mh4g-dex-build7+mh4edit-mit-save-id,0,1
-133,黄金之髓,Golden Falchion (yellow),mh4g-core-common-game-array+mh4g-dex-build7+mh4edit-mit-save-id,0,1
-134,黄金之髓,Golden Falchion (green),mh4g-core-common-game-array+mh4g-dex-build7+mh4edit-mit-save-id,0,1
-135,黄金之髓,Golden Falchion (blue),mh4g-core-common-game-array+mh4g-dex-build7+mh4edit-mit-save-id,0,1
-136,黄金之髓,Golden Falchion (purple),mh4g-core-common-game-array+mh4g-dex-build7+mh4edit-mit-save-id,0,1
-137,冰封之刃,Frost Edge (red),mh4g-core-common-game-array+mh4g-relic-jp-cn-crosswalk+mh4edit-mit-save-id,0,1
-138,冰封之刃,Frost Edge (yellow),mh4g-core-common-game-array+mh4g-relic-jp-cn-crosswalk+mh4edit-mit-save-id,0,1
-139,冰封之刃,Frost Edge (green),mh4g-core-common-game-array+mh4g-relic-jp-cn-crosswalk+mh4edit-mit-save-id,0,1
-140,冰封之刃,Frost Edge (blue),mh4g-core-common-game-array+mh4g-relic-jp-cn-crosswalk+mh4edit-mit-save-id,0,1
-141,冰封之刃,Frost Edge (purple),mh4g-core-common-game-array+mh4g-relic-jp-cn-crosswalk+mh4edit-mit-save-id,0,1
+112,峯山小太刀（发掘·红）,Jhen Kodachi (red),mh4g-core-common-game-array+mh3u-se-cn-gpl-v3+mh4edit-mit-save-id,0,1
+113,峯山小太刀（发掘·黄）,Jhen Kodachi (yellow),mh4g-core-common-game-array+mh3u-se-cn-gpl-v3+mh4edit-mit-save-id,0,1
+114,峯山小太刀（发掘·绿）,Jhen Kodachi (green),mh4g-core-common-game-array+mh3u-se-cn-gpl-v3+mh4edit-mit-save-id,0,1
+115,峯山小太刀（发掘·蓝）,Jhen Kodachi (blue),mh4g-core-common-game-array+mh3u-se-cn-gpl-v3+mh4edit-mit-save-id,0,1
+116,峯山小太刀（发掘·紫）,Jhen Kodachi (purple),mh4g-core-common-game-array+mh3u-se-cn-gpl-v3+mh4edit-mit-save-id,0,1
+117,狩猎族小刀（发掘·红）,Chak Chak (red),mh4g-core-common-game-array+mh3u-se-cn-gpl-v3+mh4edit-mit-save-id,0,1
+118,狩猎族小刀（发掘·黄）,Chak Chak (yellow),mh4g-core-common-game-array+mh3u-se-cn-gpl-v3+mh4edit-mit-save-id,0,1
+119,狩猎族小刀（发掘·绿）,Chak Chak (green),mh4g-core-common-game-array+mh3u-se-cn-gpl-v3+mh4edit-mit-save-id,0,1
+120,狩猎族小刀（发掘·蓝）,Chak Chak (blue),mh4g-core-common-game-array+mh3u-se-cn-gpl-v3+mh4edit-mit-save-id,0,1
+121,狩猎族小刀（发掘·紫）,Chak Chak (purple),mh4g-core-common-game-array+mh3u-se-cn-gpl-v3+mh4edit-mit-save-id,0,1
+122,迅龙刃（发掘·红）,Hidden Edge (red),mh4g-core-common-game-array+mh3u-se-cn-gpl-v3+mh4edit-mit-save-id,0,1
+123,迅龙刃（发掘·黄）,Hidden Edge (yellow),mh4g-core-common-game-array+mh3u-se-cn-gpl-v3+mh4edit-mit-save-id,0,1
+124,迅龙刃（发掘·绿）,Hidden Edge (green),mh4g-core-common-game-array+mh3u-se-cn-gpl-v3+mh4edit-mit-save-id,0,1
+125,迅龙刃（发掘·蓝）,Hidden Edge (blue),mh4g-core-common-game-array+mh3u-se-cn-gpl-v3+mh4edit-mit-save-id,0,1
+126,迅龙刃（发掘·紫）,Hidden Edge (purple),mh4g-core-common-game-array+mh3u-se-cn-gpl-v3+mh4edit-mit-save-id,0,1
+127,大师弯刀（发掘·红）,Master Bang (red),mh4g-core-common-game-array+mh4g-relic-jp-cn-crosswalk+mh4edit-mit-save-id,0,1
+128,大师弯刀（发掘·黄）,Master Bang (yellow),mh4g-core-common-game-array+mh4g-relic-jp-cn-crosswalk+mh4edit-mit-save-id,0,1
+129,大师弯刀（发掘·绿）,Master Bang (green),mh4g-core-common-game-array+mh4g-relic-jp-cn-crosswalk+mh4edit-mit-save-id,0,1
+130,大师弯刀（发掘·蓝）,Master Bang (blue),mh4g-core-common-game-array+mh4g-relic-jp-cn-crosswalk+mh4edit-mit-save-id,0,1
+131,大师弯刀（发掘·紫）,Master Bang (purple),mh4g-core-common-game-array+mh4g-relic-jp-cn-crosswalk+mh4edit-mit-save-id,0,1
+132,黄金之髓（发掘·红）,Golden Falchion (red),mh4g-core-common-game-array+mh4g-dex-build7+mh4edit-mit-save-id,0,1
+133,黄金之髓（发掘·黄）,Golden Falchion (yellow),mh4g-core-common-game-array+mh4g-dex-build7+mh4edit-mit-save-id,0,1
+134,黄金之髓（发掘·绿）,Golden Falchion (green),mh4g-core-common-game-array+mh4g-dex-build7+mh4edit-mit-save-id,0,1
+135,黄金之髓（发掘·蓝）,Golden Falchion (blue),mh4g-core-common-game-array+mh4g-dex-build7+mh4edit-mit-save-id,0,1
+136,黄金之髓（发掘·紫）,Golden Falchion (purple),mh4g-core-common-game-array+mh4g-dex-build7+mh4edit-mit-save-id,0,1
+137,冰封之刃（发掘·红）,Frost Edge (red),mh4g-core-common-game-array+mh4g-relic-jp-cn-crosswalk+mh4edit-mit-save-id,0,1
+138,冰封之刃（发掘·黄）,Frost Edge (yellow),mh4g-core-common-game-array+mh4g-relic-jp-cn-crosswalk+mh4edit-mit-save-id,0,1
+139,冰封之刃（发掘·绿）,Frost Edge (green),mh4g-core-common-game-array+mh4g-relic-jp-cn-crosswalk+mh4edit-mit-save-id,0,1
+140,冰封之刃（发掘·蓝）,Frost Edge (blue),mh4g-core-common-game-array+mh4g-relic-jp-cn-crosswalk+mh4edit-mit-save-id,0,1
+141,冰封之刃（发掘·紫）,Frost Edge (purple),mh4g-core-common-game-array+mh4g-relic-jp-cn-crosswalk+mh4edit-mit-save-id,0,1
 142,狂杀匕首改,Rebellious Knife+,mh4g-core-common-game-array+mh4g-dex-build7+mh4edit-mit-save-id,8,0
 143,复仇匕首,Vengeful Knife,mh4g-core-common-game-array+mh4g-dex-build7+mh4edit-mit-save-id,9,0
 144,风牙刺,Spiked Saber,mh4g-core-common-game-array+mh4g-dex-build7+mh4edit-mit-save-id,6,0
@@ -236,13 +236,13 @@ id,name,english,source,rarity,is_relic
 234,萌萌木偶,Ms. M.H. Puppet,mh4g-core-common-game-array+mh4g-dex-build7+mh4edit-mit-save-id,10,0
 235,圣剑鲁库西德,Saint Luxseed,mh4g-core-common-game-array+mh4edit-mit-save-id,0,0
 236,魔剑瓦鲁库雷德,Demon Valkcreed,mh4g-core-common-game-array+mh4edit-mit-save-id,0,0
-237,剧毒单手斧,Poison Battleaxe (red),mh4g-core-common-game-array+mh4g-dex-build7+mh4edit-mit-save-id,0,1
-238,剧毒单手斧,Poison Battleaxe (yellow),mh4g-core-common-game-array+mh4g-dex-build7+mh4edit-mit-save-id,0,1
-239,剧毒单手斧,Poison Battleaxe (green),mh4g-core-common-game-array+mh4g-dex-build7+mh4edit-mit-save-id,0,1
-240,剧毒单手斧,Poison Battleaxe (blue),mh4g-core-common-game-array+mh4g-dex-build7+mh4edit-mit-save-id,0,1
-241,剧毒单手斧,Poison Battleaxe (purple),mh4g-core-common-game-array+mh4g-dex-build7+mh4edit-mit-save-id,0,1
-242,艾佩＝基尔塔纳斯,Giltanas Epee (red),mh4g-core-common-game-array+mh4g-relic-jp-cn-crosswalk+mh4edit-mit-save-id,0,1
-243,艾佩＝基尔塔纳斯,Giltanas Epee (yellow),mh4g-core-common-game-array+mh4g-relic-jp-cn-crosswalk+mh4edit-mit-save-id,0,1
-244,艾佩＝基尔塔纳斯,Giltanas Epee (green),mh4g-core-common-game-array+mh4g-relic-jp-cn-crosswalk+mh4edit-mit-save-id,0,1
-245,艾佩＝基尔塔纳斯,Giltanas Epee (blue),mh4g-core-common-game-array+mh4g-relic-jp-cn-crosswalk+mh4edit-mit-save-id,0,1
-246,艾佩＝基尔塔纳斯,Giltanas Epee (purple),mh4g-core-common-game-array+mh4g-relic-jp-cn-crosswalk+mh4edit-mit-save-id,0,1
+237,剧毒单手斧（发掘·红）,Poison Battleaxe (red),mh4g-core-common-game-array+mh4g-dex-build7+mh4edit-mit-save-id,0,1
+238,剧毒单手斧（发掘·黄）,Poison Battleaxe (yellow),mh4g-core-common-game-array+mh4g-dex-build7+mh4edit-mit-save-id,0,1
+239,剧毒单手斧（发掘·绿）,Poison Battleaxe (green),mh4g-core-common-game-array+mh4g-dex-build7+mh4edit-mit-save-id,0,1
+240,剧毒单手斧（发掘·蓝）,Poison Battleaxe (blue),mh4g-core-common-game-array+mh4g-dex-build7+mh4edit-mit-save-id,0,1
+241,剧毒单手斧（发掘·紫）,Poison Battleaxe (purple),mh4g-core-common-game-array+mh4g-dex-build7+mh4edit-mit-save-id,0,1
+242,艾佩＝基尔塔纳斯（发掘·红）,Giltanas Epee (red),mh4g-core-common-game-array+mh4g-relic-jp-cn-crosswalk+mh4edit-mit-save-id,0,1
+243,艾佩＝基尔塔纳斯（发掘·黄）,Giltanas Epee (yellow),mh4g-core-common-game-array+mh4g-relic-jp-cn-crosswalk+mh4edit-mit-save-id,0,1
+244,艾佩＝基尔塔纳斯（发掘·绿）,Giltanas Epee (green),mh4g-core-common-game-array+mh4g-relic-jp-cn-crosswalk+mh4edit-mit-save-id,0,1
+245,艾佩＝基尔塔纳斯（发掘·蓝）,Giltanas Epee (blue),mh4g-core-common-game-array+mh4g-relic-jp-cn-crosswalk+mh4edit-mit-save-id,0,1
+246,艾佩＝基尔塔纳斯（发掘·紫）,Giltanas Epee (purple),mh4g-core-common-game-array+mh4g-relic-jp-cn-crosswalk+mh4edit-mit-save-id,0,1

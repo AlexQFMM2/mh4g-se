@@ -86,31 +86,31 @@ id,name,english,source,rarity,is_relic
 84,黑兜,[JP] 黒カブト,mh4g-core-common-game-array+mh4g-dex-build7+mh4edit-mit-save-id+mh4g-save-id-dex-crosswalk,7,0
 85,勇者之弓,Hero's Bow,mh4g-core-common-game-array+mh4g-dex-build7+mh4edit-mit-save-id,5,0
 86,圣弓,Sacred Bow,mh4g-core-common-game-array+mh4g-dex-build7+mh4edit-mit-save-id,7,0
-87,霸弓莱拉卡姆托鲁姆,Akantor Bow (red),mh4g-core-common-game-array+mh4g-dex-build7+mh4edit-mit-save-id,0,1
-88,霸弓莱拉卡姆托鲁姆,Akantor Bow (yellow),mh4g-core-common-game-array+mh4g-dex-build7+mh4edit-mit-save-id,0,1
-89,霸弓莱拉卡姆托鲁姆,Akantor Bow (green),mh4g-core-common-game-array+mh4g-dex-build7+mh4edit-mit-save-id,0,1
-90,霸弓莱拉卡姆托鲁姆,Akantor Bow (blue),mh4g-core-common-game-array+mh4g-dex-build7+mh4edit-mit-save-id,0,1
-91,霸弓莱拉卡姆托鲁姆,Akantor Bow (purple),mh4g-core-common-game-array+mh4g-dex-build7+mh4edit-mit-save-id,0,1
-92,日珥弓,Prominence Bow (red),mh4g-core-common-game-array+mh4g-dex-build7-series-crosswalk+mh4edit-mit-save-id,0,1
-93,日珥弓,Prominence Bow (yellow),mh4g-core-common-game-array+mh4g-dex-build7-series-crosswalk+mh4edit-mit-save-id,0,1
-94,日珥弓,Prominence Bow (green),mh4g-core-common-game-array+mh4g-dex-build7-series-crosswalk+mh4edit-mit-save-id,0,1
-95,日珥弓,Prominence Bow (blue),mh4g-core-common-game-array+mh4g-dex-build7-series-crosswalk+mh4edit-mit-save-id,0,1
-96,日珥弓,Prominence Bow (purple),mh4g-core-common-game-array+mh4g-dex-build7-series-crosswalk+mh4edit-mit-save-id,0,1
-97,龙虾女王,Queen Blaster (red),mh4g-core-common-game-array+mh4g-dex-build7-series-crosswalk+mh4edit-mit-save-id,0,1
-98,龙虾女王,Queen Blaster (yellow),mh4g-core-common-game-array+mh4g-dex-build7-series-crosswalk+mh4edit-mit-save-id,0,1
-99,龙虾女王,Queen Blaster (green),mh4g-core-common-game-array+mh4g-dex-build7-series-crosswalk+mh4edit-mit-save-id,0,1
-100,龙虾女王,Queen Blaster (blue),mh4g-core-common-game-array+mh4g-dex-build7-series-crosswalk+mh4edit-mit-save-id,0,1
-101,龙虾女王,Queen Blaster (purple),mh4g-core-common-game-array+mh4g-dex-build7-series-crosswalk+mh4edit-mit-save-id,0,1
-102,钢冰马弓,Icesteel Bow (red),mh4g-core-common-game-array+mh4g-dex-build7+mh4edit-mit-save-id,0,1
-103,钢冰马弓,Icesteel Bow (yellow),mh4g-core-common-game-array+mh4g-dex-build7+mh4edit-mit-save-id,0,1
-104,钢冰马弓,Icesteel Bow (green),mh4g-core-common-game-array+mh4g-dex-build7+mh4edit-mit-save-id,0,1
-105,钢冰马弓,Icesteel Bow (blue),mh4g-core-common-game-array+mh4g-dex-build7+mh4edit-mit-save-id,0,1
-106,钢冰马弓,Icesteel Bow (purple),mh4g-core-common-game-array+mh4g-dex-build7+mh4edit-mit-save-id,0,1
-107,歼灭与破坏的钢弓,Bow of Rack & Ruin (red),mh4g-core-common-game-array+mh4g-dex-build7+mh4edit-mit-save-id,0,1
-108,歼灭与破坏的钢弓,Bow of Rack & Ruin (yellow),mh4g-core-common-game-array+mh4g-dex-build7+mh4edit-mit-save-id,0,1
-109,歼灭与破坏的钢弓,Bow of Rack & Ruin (green),mh4g-core-common-game-array+mh4g-dex-build7+mh4edit-mit-save-id,0,1
-110,歼灭与破坏的钢弓,Bow of Rack & Ruin (blue),mh4g-core-common-game-array+mh4g-dex-build7+mh4edit-mit-save-id,0,1
-111,歼灭与破坏的钢弓,Bow of Rack & Ruin (purple),mh4g-core-common-game-array+mh4g-dex-build7+mh4edit-mit-save-id,0,1
+87,霸弓莱拉卡姆托鲁姆（发掘·红）,Akantor Bow (red),mh4g-core-common-game-array+mh4g-dex-build7+mh4edit-mit-save-id,0,1
+88,霸弓莱拉卡姆托鲁姆（发掘·黄）,Akantor Bow (yellow),mh4g-core-common-game-array+mh4g-dex-build7+mh4edit-mit-save-id,0,1
+89,霸弓莱拉卡姆托鲁姆（发掘·绿）,Akantor Bow (green),mh4g-core-common-game-array+mh4g-dex-build7+mh4edit-mit-save-id,0,1
+90,霸弓莱拉卡姆托鲁姆（发掘·蓝）,Akantor Bow (blue),mh4g-core-common-game-array+mh4g-dex-build7+mh4edit-mit-save-id,0,1
+91,霸弓莱拉卡姆托鲁姆（发掘·紫）,Akantor Bow (purple),mh4g-core-common-game-array+mh4g-dex-build7+mh4edit-mit-save-id,0,1
+92,日珥弓（发掘·红）,Prominence Bow (red),mh4g-core-common-game-array+mh4g-dex-build7-series-crosswalk+mh4edit-mit-save-id,0,1
+93,日珥弓（发掘·黄）,Prominence Bow (yellow),mh4g-core-common-game-array+mh4g-dex-build7-series-crosswalk+mh4edit-mit-save-id,0,1
+94,日珥弓（发掘·绿）,Prominence Bow (green),mh4g-core-common-game-array+mh4g-dex-build7-series-crosswalk+mh4edit-mit-save-id,0,1
+95,日珥弓（发掘·蓝）,Prominence Bow (blue),mh4g-core-common-game-array+mh4g-dex-build7-series-crosswalk+mh4edit-mit-save-id,0,1
+96,日珥弓（发掘·紫）,Prominence Bow (purple),mh4g-core-common-game-array+mh4g-dex-build7-series-crosswalk+mh4edit-mit-save-id,0,1
+97,龙虾女王（发掘·红）,Queen Blaster (red),mh4g-core-common-game-array+mh4g-dex-build7-series-crosswalk+mh4edit-mit-save-id,0,1
+98,龙虾女王（发掘·黄）,Queen Blaster (yellow),mh4g-core-common-game-array+mh4g-dex-build7-series-crosswalk+mh4edit-mit-save-id,0,1
+99,龙虾女王（发掘·绿）,Queen Blaster (green),mh4g-core-common-game-array+mh4g-dex-build7-series-crosswalk+mh4edit-mit-save-id,0,1
+100,龙虾女王（发掘·蓝）,Queen Blaster (blue),mh4g-core-common-game-array+mh4g-dex-build7-series-crosswalk+mh4edit-mit-save-id,0,1
+101,龙虾女王（发掘·紫）,Queen Blaster (purple),mh4g-core-common-game-array+mh4g-dex-build7-series-crosswalk+mh4edit-mit-save-id,0,1
+102,钢冰马弓（发掘·红）,Icesteel Bow (red),mh4g-core-common-game-array+mh4g-dex-build7+mh4edit-mit-save-id,0,1
+103,钢冰马弓（发掘·黄）,Icesteel Bow (yellow),mh4g-core-common-game-array+mh4g-dex-build7+mh4edit-mit-save-id,0,1
+104,钢冰马弓（发掘·绿）,Icesteel Bow (green),mh4g-core-common-game-array+mh4g-dex-build7+mh4edit-mit-save-id,0,1
+105,钢冰马弓（发掘·蓝）,Icesteel Bow (blue),mh4g-core-common-game-array+mh4g-dex-build7+mh4edit-mit-save-id,0,1
+106,钢冰马弓（发掘·紫）,Icesteel Bow (purple),mh4g-core-common-game-array+mh4g-dex-build7+mh4edit-mit-save-id,0,1
+107,歼灭与破坏的钢弓（发掘·红）,Bow of Rack & Ruin (red),mh4g-core-common-game-array+mh4g-dex-build7+mh4edit-mit-save-id,0,1
+108,歼灭与破坏的钢弓（发掘·黄）,Bow of Rack & Ruin (yellow),mh4g-core-common-game-array+mh4g-dex-build7+mh4edit-mit-save-id,0,1
+109,歼灭与破坏的钢弓（发掘·绿）,Bow of Rack & Ruin (green),mh4g-core-common-game-array+mh4g-dex-build7+mh4edit-mit-save-id,0,1
+110,歼灭与破坏的钢弓（发掘·蓝）,Bow of Rack & Ruin (blue),mh4g-core-common-game-array+mh4g-dex-build7+mh4edit-mit-save-id,0,1
+111,歼灭与破坏的钢弓（发掘·紫）,Bow of Rack & Ruin (purple),mh4g-core-common-game-array+mh4g-dex-build7+mh4edit-mit-save-id,0,1
 112,冰柱弓Ⅲ,Icicle Bow III,mh4g-core-common-game-array+mh4g-dex-build7+mh4edit-mit-save-id,8,0
 113,冰河弓,Névé Bow,mh4g-core-common-game-array+mh4g-dex-build7+mh4edit-mit-save-id,9,0
 114,破岩弓伊克萨普罗德,Warflare Demolisher,mh4g-core-common-game-array+mh4g-dex-build7+mh4edit-mit-save-id,9,0
@@ -193,15 +193,15 @@ id,name,english,source,rarity,is_relic
 191,dummy,DUMMY,mh4g-core-common-game-array+mh4edit-mit-save-id,0,0
 192,dummy,DUMMY,mh4g-core-common-game-array+mh4edit-mit-save-id,0,0
 193,dummy,DUMMY,mh4g-core-common-game-array+mh4edit-mit-save-id,0,0
-194,日蚀弓,Eclipse Bow (red),mh4g-core-common-game-array+mh3u-se-cn-gpl-v3+mh4edit-mit-save-id,0,1
-195,日蚀弓,Eclipse Bow (yellow),mh4g-core-common-game-array+mh3u-se-cn-gpl-v3+mh4edit-mit-save-id,0,1
-196,日蚀弓,Eclipse Bow (green),mh4g-core-common-game-array+mh3u-se-cn-gpl-v3+mh4edit-mit-save-id,0,1
-197,日蚀弓,Eclipse Bow (blue),mh4g-core-common-game-array+mh3u-se-cn-gpl-v3+mh4edit-mit-save-id,0,1
-198,日蚀弓,Eclipse Bow (purple),mh4g-core-common-game-array+mh3u-se-cn-gpl-v3+mh4edit-mit-save-id,0,1
-199,龙弓,Dragon Bow (red),mh4g-core-common-game-array+mh4g-relic-jp-cn-crosswalk+mh4edit-mit-save-id,0,1
-200,龙弓,Dragon Bow (yellow),mh4g-core-common-game-array+mh4g-relic-jp-cn-crosswalk+mh4edit-mit-save-id,0,1
-201,龙弓,Dragon Bow (green),mh4g-core-common-game-array+mh4g-relic-jp-cn-crosswalk+mh4edit-mit-save-id,0,1
-202,龙弓,Dragon Bow (blue),mh4g-core-common-game-array+mh4g-relic-jp-cn-crosswalk+mh4edit-mit-save-id,0,1
-203,龙弓,Dragon Bow (purple),mh4g-core-common-game-array+mh4g-relic-jp-cn-crosswalk+mh4edit-mit-save-id,0,1
+194,日蚀弓（发掘·红）,Eclipse Bow (red),mh4g-core-common-game-array+mh3u-se-cn-gpl-v3+mh4edit-mit-save-id,0,1
+195,日蚀弓（发掘·黄）,Eclipse Bow (yellow),mh4g-core-common-game-array+mh3u-se-cn-gpl-v3+mh4edit-mit-save-id,0,1
+196,日蚀弓（发掘·绿）,Eclipse Bow (green),mh4g-core-common-game-array+mh3u-se-cn-gpl-v3+mh4edit-mit-save-id,0,1
+197,日蚀弓（发掘·蓝）,Eclipse Bow (blue),mh4g-core-common-game-array+mh3u-se-cn-gpl-v3+mh4edit-mit-save-id,0,1
+198,日蚀弓（发掘·紫）,Eclipse Bow (purple),mh4g-core-common-game-array+mh3u-se-cn-gpl-v3+mh4edit-mit-save-id,0,1
+199,龙弓（发掘·红）,Dragon Bow (red),mh4g-core-common-game-array+mh4g-relic-jp-cn-crosswalk+mh4edit-mit-save-id,0,1
+200,龙弓（发掘·黄）,Dragon Bow (yellow),mh4g-core-common-game-array+mh4g-relic-jp-cn-crosswalk+mh4edit-mit-save-id,0,1
+201,龙弓（发掘·绿）,Dragon Bow (green),mh4g-core-common-game-array+mh4g-relic-jp-cn-crosswalk+mh4edit-mit-save-id,0,1
+202,龙弓（发掘·蓝）,Dragon Bow (blue),mh4g-core-common-game-array+mh4g-relic-jp-cn-crosswalk+mh4edit-mit-save-id,0,1
+203,龙弓（发掘·紫）,Dragon Bow (purple),mh4g-core-common-game-array+mh4g-relic-jp-cn-crosswalk+mh4edit-mit-save-id,0,1
 204,月天凰弓,Moonlit Phoenix,mh4g-core-common-game-array+mh4edit-mit-save-id,0,0
 205,晓弓阿罗拉乌夏斯,Daybreak Arrow,mh4g-core-common-game-array+mh4edit-mit-save-id,0,0

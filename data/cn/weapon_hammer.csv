@@ -115,36 +115,36 @@ id,name,english,source,rarity,is_relic
 113,鬼之现身,dummy113,mh4g-core-common-game-array+mh4edit-mit-save-id,0,0
 114,闪电工作室,[JP] Thunder Works,mh4g-core-common-game-array+mh4g-dex-build7+mh4edit-mit-save-id+mh4g-save-id-dex-crosswalk,4,0
 115,巨大闪电工作室,[JP] Giga Thunder Works,mh4g-core-common-game-array+mh4g-dex-build7+mh4edit-mit-save-id+mh4g-save-id-dex-crosswalk,6,0
-116,迅龙破坏者,Hidden Breaker (red),mh4g-core-common-game-array+mh3u-se-cn-gpl-v3+mh4edit-mit-save-id,0,1
-117,迅龙破坏者,Hidden Breaker (yellow),mh4g-core-common-game-array+mh3u-se-cn-gpl-v3+mh4edit-mit-save-id,0,1
-118,迅龙破坏者,Hidden Breaker (green),mh4g-core-common-game-array+mh3u-se-cn-gpl-v3+mh4edit-mit-save-id,0,1
-119,迅龙破坏者,Hidden Breaker (blue),mh4g-core-common-game-array+mh3u-se-cn-gpl-v3+mh4edit-mit-save-id,0,1
-120,迅龙破坏者,Hidden Breaker (purple),mh4g-core-common-game-array+mh3u-se-cn-gpl-v3+mh4edit-mit-save-id,0,1
-121,星碎锤大流星,Leonid Starcrusher (red),mh4g-core-common-game-array+mh4g-dex-build7+mh4edit-mit-save-id,0,1
-122,星碎锤大流星,Leonid Starcrusher (yellow),mh4g-core-common-game-array+mh4g-dex-build7+mh4edit-mit-save-id,0,1
-123,星碎锤大流星,Leonid Starcrusher (green),mh4g-core-common-game-array+mh4g-dex-build7+mh4edit-mit-save-id,0,1
-124,星碎锤大流星,Leonid Starcrusher (blue),mh4g-core-common-game-array+mh4g-dex-build7+mh4edit-mit-save-id,0,1
-125,星碎锤大流星,Leonid Starcrusher (purple),mh4g-core-common-game-array+mh4g-dex-build7+mh4edit-mit-save-id,0,1
-126,炎妃锤,Lunastra's Crown (red),mh4g-core-common-game-array+mh4g-relic-jp-cn-crosswalk+mh4edit-mit-save-id,0,1
-127,炎妃锤,Lunastra's Crown (yellow),mh4g-core-common-game-array+mh4g-relic-jp-cn-crosswalk+mh4edit-mit-save-id,0,1
-128,炎妃锤,Lunastra's Crown (green),mh4g-core-common-game-array+mh4g-relic-jp-cn-crosswalk+mh4edit-mit-save-id,0,1
-129,炎妃锤,Lunastra's Crown (blue),mh4g-core-common-game-array+mh4g-relic-jp-cn-crosswalk+mh4edit-mit-save-id,0,1
-130,炎妃锤,Lunastra's Crown (purple),mh4g-core-common-game-array+mh4g-relic-jp-cn-crosswalk+mh4edit-mit-save-id,0,1
-131,鬼铁丸,Devil Masher (red),mh4g-core-common-game-array+mh4g-relic-jp-cn-crosswalk+mh4edit-mit-save-id,0,1
-132,鬼铁丸,Devil Masher (yellow),mh4g-core-common-game-array+mh4g-relic-jp-cn-crosswalk+mh4edit-mit-save-id,0,1
-133,鬼铁丸,Devil Masher (green),mh4g-core-common-game-array+mh4g-relic-jp-cn-crosswalk+mh4edit-mit-save-id,0,1
-134,鬼铁丸,Devil Masher (blue),mh4g-core-common-game-array+mh4g-relic-jp-cn-crosswalk+mh4edit-mit-save-id,0,1
-135,鬼铁丸,Devil Masher (purple),mh4g-core-common-game-array+mh4g-relic-jp-cn-crosswalk+mh4edit-mit-save-id,0,1
-136,战争大锤,War Basher (red),mh4g-core-common-game-array+mh4g-relic-jp-cn-crosswalk+mh4edit-mit-save-id,0,1
-137,战争大锤,War Basher (yellow),mh4g-core-common-game-array+mh4g-relic-jp-cn-crosswalk+mh4edit-mit-save-id,0,1
-138,战争大锤,War Basher (green),mh4g-core-common-game-array+mh4g-relic-jp-cn-crosswalk+mh4edit-mit-save-id,0,1
-139,战争大锤,War Basher (blue),mh4g-core-common-game-array+mh4g-relic-jp-cn-crosswalk+mh4edit-mit-save-id,0,1
-140,战争大锤,War Basher (purple),mh4g-core-common-game-array+mh4g-relic-jp-cn-crosswalk+mh4edit-mit-save-id,0,1
-141,猫锤,Kitty Hammer (red),mh4g-core-common-game-array+mh4g-dex-build7-series-crosswalk+mh4edit-mit-save-id,0,1
-142,猫锤,Kitty Hammer (yellow),mh4g-core-common-game-array+mh4g-dex-build7-series-crosswalk+mh4edit-mit-save-id,0,1
-143,猫锤,Kitty Hammer (green),mh4g-core-common-game-array+mh4g-dex-build7-series-crosswalk+mh4edit-mit-save-id,0,1
-144,猫锤,Kitty Hammer (blue),mh4g-core-common-game-array+mh4g-dex-build7-series-crosswalk+mh4edit-mit-save-id,0,1
-145,猫锤,Kitty Hammer (purple),mh4g-core-common-game-array+mh4g-dex-build7-series-crosswalk+mh4edit-mit-save-id,0,1
+116,迅龙破坏者（发掘·红）,Hidden Breaker (red),mh4g-core-common-game-array+mh3u-se-cn-gpl-v3+mh4edit-mit-save-id,0,1
+117,迅龙破坏者（发掘·黄）,Hidden Breaker (yellow),mh4g-core-common-game-array+mh3u-se-cn-gpl-v3+mh4edit-mit-save-id,0,1
+118,迅龙破坏者（发掘·绿）,Hidden Breaker (green),mh4g-core-common-game-array+mh3u-se-cn-gpl-v3+mh4edit-mit-save-id,0,1
+119,迅龙破坏者（发掘·蓝）,Hidden Breaker (blue),mh4g-core-common-game-array+mh3u-se-cn-gpl-v3+mh4edit-mit-save-id,0,1
+120,迅龙破坏者（发掘·紫）,Hidden Breaker (purple),mh4g-core-common-game-array+mh3u-se-cn-gpl-v3+mh4edit-mit-save-id,0,1
+121,星碎锤大流星（发掘·红）,Leonid Starcrusher (red),mh4g-core-common-game-array+mh4g-dex-build7+mh4edit-mit-save-id,0,1
+122,星碎锤大流星（发掘·黄）,Leonid Starcrusher (yellow),mh4g-core-common-game-array+mh4g-dex-build7+mh4edit-mit-save-id,0,1
+123,星碎锤大流星（发掘·绿）,Leonid Starcrusher (green),mh4g-core-common-game-array+mh4g-dex-build7+mh4edit-mit-save-id,0,1
+124,星碎锤大流星（发掘·蓝）,Leonid Starcrusher (blue),mh4g-core-common-game-array+mh4g-dex-build7+mh4edit-mit-save-id,0,1
+125,星碎锤大流星（发掘·紫）,Leonid Starcrusher (purple),mh4g-core-common-game-array+mh4g-dex-build7+mh4edit-mit-save-id,0,1
+126,炎妃锤（发掘·红）,Lunastra's Crown (red),mh4g-core-common-game-array+mh4g-relic-jp-cn-crosswalk+mh4edit-mit-save-id,0,1
+127,炎妃锤（发掘·黄）,Lunastra's Crown (yellow),mh4g-core-common-game-array+mh4g-relic-jp-cn-crosswalk+mh4edit-mit-save-id,0,1
+128,炎妃锤（发掘·绿）,Lunastra's Crown (green),mh4g-core-common-game-array+mh4g-relic-jp-cn-crosswalk+mh4edit-mit-save-id,0,1
+129,炎妃锤（发掘·蓝）,Lunastra's Crown (blue),mh4g-core-common-game-array+mh4g-relic-jp-cn-crosswalk+mh4edit-mit-save-id,0,1
+130,炎妃锤（发掘·紫）,Lunastra's Crown (purple),mh4g-core-common-game-array+mh4g-relic-jp-cn-crosswalk+mh4edit-mit-save-id,0,1
+131,鬼铁丸（发掘·红）,Devil Masher (red),mh4g-core-common-game-array+mh4g-relic-jp-cn-crosswalk+mh4edit-mit-save-id,0,1
+132,鬼铁丸（发掘·黄）,Devil Masher (yellow),mh4g-core-common-game-array+mh4g-relic-jp-cn-crosswalk+mh4edit-mit-save-id,0,1
+133,鬼铁丸（发掘·绿）,Devil Masher (green),mh4g-core-common-game-array+mh4g-relic-jp-cn-crosswalk+mh4edit-mit-save-id,0,1
+134,鬼铁丸（发掘·蓝）,Devil Masher (blue),mh4g-core-common-game-array+mh4g-relic-jp-cn-crosswalk+mh4edit-mit-save-id,0,1
+135,鬼铁丸（发掘·紫）,Devil Masher (purple),mh4g-core-common-game-array+mh4g-relic-jp-cn-crosswalk+mh4edit-mit-save-id,0,1
+136,战争大锤（发掘·红）,War Basher (red),mh4g-core-common-game-array+mh4g-relic-jp-cn-crosswalk+mh4edit-mit-save-id,0,1
+137,战争大锤（发掘·黄）,War Basher (yellow),mh4g-core-common-game-array+mh4g-relic-jp-cn-crosswalk+mh4edit-mit-save-id,0,1
+138,战争大锤（发掘·绿）,War Basher (green),mh4g-core-common-game-array+mh4g-relic-jp-cn-crosswalk+mh4edit-mit-save-id,0,1
+139,战争大锤（发掘·蓝）,War Basher (blue),mh4g-core-common-game-array+mh4g-relic-jp-cn-crosswalk+mh4edit-mit-save-id,0,1
+140,战争大锤（发掘·紫）,War Basher (purple),mh4g-core-common-game-array+mh4g-relic-jp-cn-crosswalk+mh4edit-mit-save-id,0,1
+141,猫锤（发掘·红）,Kitty Hammer (red),mh4g-core-common-game-array+mh4g-dex-build7-series-crosswalk+mh4edit-mit-save-id,0,1
+142,猫锤（发掘·黄）,Kitty Hammer (yellow),mh4g-core-common-game-array+mh4g-dex-build7-series-crosswalk+mh4edit-mit-save-id,0,1
+143,猫锤（发掘·绿）,Kitty Hammer (green),mh4g-core-common-game-array+mh4g-dex-build7-series-crosswalk+mh4edit-mit-save-id,0,1
+144,猫锤（发掘·蓝）,Kitty Hammer (blue),mh4g-core-common-game-array+mh4g-dex-build7-series-crosswalk+mh4edit-mit-save-id,0,1
+145,猫锤（发掘·紫）,Kitty Hammer (purple),mh4g-core-common-game-array+mh4g-dex-build7-series-crosswalk+mh4edit-mit-save-id,0,1
 146,远古大锤,Ancient Blow,mh4g-core-common-game-array+mh4g-dex-build7+mh4edit-mit-save-id,8,0
 147,石拳【愚】,Foolhardy Stone Fist,mh4g-core-common-game-array+mh4g-dex-build7+mh4edit-mit-save-id,9,0
 148,痛泣冰河改,Cocytus+,mh4g-core-common-game-array+mh4g-dex-build7+mh4edit-mit-save-id,8,0
@@ -236,13 +236,13 @@ id,name,english,source,rarity,is_relic
 234,dummy,DUMMY,mh4g-core-common-game-array+mh4edit-mit-save-id,0,0
 235,引导终天之凶星,Apocalypse's Herald,mh4g-core-common-game-array+mh4edit-mit-save-id,0,0
 236,ＧＭＨ,H.O.S.,mh4g-core-common-game-array+mh4edit-mit-save-id,0,0
-237,水晶诺亚,Crystal Nova (red),mh4g-core-common-game-array+mh4g-relic-jp-cn-crosswalk+mh4edit-mit-save-id,0,1
-238,水晶诺亚,Crystal Nova (yellow),mh4g-core-common-game-array+mh4g-relic-jp-cn-crosswalk+mh4edit-mit-save-id,0,1
-239,水晶诺亚,Crystal Nova (green),mh4g-core-common-game-array+mh4g-relic-jp-cn-crosswalk+mh4edit-mit-save-id,0,1
-240,水晶诺亚,Crystal Nova (blue),mh4g-core-common-game-array+mh4g-relic-jp-cn-crosswalk+mh4edit-mit-save-id,0,1
-241,水晶诺亚,Crystal Nova (purple),mh4g-core-common-game-array+mh4g-relic-jp-cn-crosswalk+mh4edit-mit-save-id,0,1
-242,灭龙者,Dragonbreaker (red),mh4g-core-common-game-array+mh4g-relic-jp-cn-crosswalk+mh4edit-mit-save-id,0,1
-243,灭龙者,Dragonbreaker (yellow),mh4g-core-common-game-array+mh4g-relic-jp-cn-crosswalk+mh4edit-mit-save-id,0,1
-244,灭龙者,Dragonbreaker (green),mh4g-core-common-game-array+mh4g-relic-jp-cn-crosswalk+mh4edit-mit-save-id,0,1
-245,灭龙者,Dragonbreaker (blue),mh4g-core-common-game-array+mh4g-relic-jp-cn-crosswalk+mh4edit-mit-save-id,0,1
-246,灭龙者,Dragonbreaker (purple),mh4g-core-common-game-array+mh4g-relic-jp-cn-crosswalk+mh4edit-mit-save-id,0,1
+237,水晶诺亚（发掘·红）,Crystal Nova (red),mh4g-core-common-game-array+mh4g-relic-jp-cn-crosswalk+mh4edit-mit-save-id,0,1
+238,水晶诺亚（发掘·黄）,Crystal Nova (yellow),mh4g-core-common-game-array+mh4g-relic-jp-cn-crosswalk+mh4edit-mit-save-id,0,1
+239,水晶诺亚（发掘·绿）,Crystal Nova (green),mh4g-core-common-game-array+mh4g-relic-jp-cn-crosswalk+mh4edit-mit-save-id,0,1
+240,水晶诺亚（发掘·蓝）,Crystal Nova (blue),mh4g-core-common-game-array+mh4g-relic-jp-cn-crosswalk+mh4edit-mit-save-id,0,1
+241,水晶诺亚（发掘·紫）,Crystal Nova (purple),mh4g-core-common-game-array+mh4g-relic-jp-cn-crosswalk+mh4edit-mit-save-id,0,1
+242,灭龙者（发掘·红）,Dragonbreaker (red),mh4g-core-common-game-array+mh4g-relic-jp-cn-crosswalk+mh4edit-mit-save-id,0,1
+243,灭龙者（发掘·黄）,Dragonbreaker (yellow),mh4g-core-common-game-array+mh4g-relic-jp-cn-crosswalk+mh4edit-mit-save-id,0,1
+244,灭龙者（发掘·绿）,Dragonbreaker (green),mh4g-core-common-game-array+mh4g-relic-jp-cn-crosswalk+mh4edit-mit-save-id,0,1
+245,灭龙者（发掘·蓝）,Dragonbreaker (blue),mh4g-core-common-game-array+mh4g-relic-jp-cn-crosswalk+mh4edit-mit-save-id,0,1
+246,灭龙者（发掘·紫）,Dragonbreaker (purple),mh4g-core-common-game-array+mh4g-relic-jp-cn-crosswalk+mh4edit-mit-save-id,0,1

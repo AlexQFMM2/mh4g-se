@@ -114,31 +114,31 @@ id,name,english,source,rarity,is_relic
 112,天地・轰断剑,dummy112,mh4g-core-common-game-array+mh4edit-mit-save-id,0,0
 113,仁剑【侠客行】,[JP] 仁剣【侠客立ち】,mh4g-core-common-game-array+mh4g-dex-build7+mh4edit-mit-save-id+mh4g-save-id-dex-crosswalk,6,0
 114,优衣剑,Universal Chrome,mh4g-core-common-game-array+mh4g-dex-build7+mh4edit-mit-save-id,6,0
-115,吉克姆特,Siegmund (red),mh4g-core-common-game-array+mh3u-se-cn-gpl-v3+mh4edit-mit-save-id,0,1
-116,吉克姆特,Siegmund (yellow),mh4g-core-common-game-array+mh3u-se-cn-gpl-v3+mh4edit-mit-save-id,0,1
-117,吉克姆特,Siegmund (green),mh4g-core-common-game-array+mh3u-se-cn-gpl-v3+mh4edit-mit-save-id,0,1
-118,吉克姆特,Siegmund (blue),mh4g-core-common-game-array+mh3u-se-cn-gpl-v3+mh4edit-mit-save-id,0,1
-119,吉克姆特,Siegmund (purple),mh4g-core-common-game-array+mh3u-se-cn-gpl-v3+mh4edit-mit-save-id,0,1
-120,雷剑,Bolt (red),mh4g-core-common-game-array+mh4g-relic-jp-cn-crosswalk+mh4edit-mit-save-id,0,1
-121,雷剑,Bolt (yellow),mh4g-core-common-game-array+mh4g-relic-jp-cn-crosswalk+mh4edit-mit-save-id,0,1
-122,雷剑,Bolt (green),mh4g-core-common-game-array+mh4g-relic-jp-cn-crosswalk+mh4edit-mit-save-id,0,1
-123,雷剑,Bolt (blue),mh4g-core-common-game-array+mh4g-relic-jp-cn-crosswalk+mh4edit-mit-save-id,0,1
-124,雷剑,Bolt (purple),mh4g-core-common-game-array+mh4g-relic-jp-cn-crosswalk+mh4edit-mit-save-id,0,1
-125,４１式对飞龙大剑,Type 41 Wyvernator (red),mh4g-core-common-game-array+mh3u-se-cn-gpl-v3+mh4edit-mit-save-id,0,1
-126,４１式对飞龙大剑,Type 41 Wyvernator (yellow),mh4g-core-common-game-array+mh3u-se-cn-gpl-v3+mh4edit-mit-save-id,0,1
-127,４１式对飞龙大剑,Type 41 Wyvernator (green),mh4g-core-common-game-array+mh3u-se-cn-gpl-v3+mh4edit-mit-save-id,0,1
-128,４１式对飞龙大剑,Type 41 Wyvernator (blue),mh4g-core-common-game-array+mh3u-se-cn-gpl-v3+mh4edit-mit-save-id,0,1
-129,４１式对飞龙大剑,Type 41 Wyvernator (purple),mh4g-core-common-game-array+mh3u-se-cn-gpl-v3+mh4edit-mit-save-id,0,1
-130,辉剑,Flash (red),mh4g-core-common-game-array+mh4g-dex-build7-series-crosswalk+mh4edit-mit-save-id,0,1
-131,辉剑,Flash (yellow),mh4g-core-common-game-array+mh4g-dex-build7-series-crosswalk+mh4edit-mit-save-id,0,1
-132,辉剑,Flash (green),mh4g-core-common-game-array+mh4g-dex-build7-series-crosswalk+mh4edit-mit-save-id,0,1
-133,辉剑,Flash (blue),mh4g-core-common-game-array+mh4g-dex-build7-series-crosswalk+mh4edit-mit-save-id,0,1
-134,辉剑,Flash (purple),mh4g-core-common-game-array+mh4g-dex-build7-series-crosswalk+mh4edit-mit-save-id,0,1
-135,封龙剑,Dragonseal (red),mh4g-core-common-game-array+mh4g-dex-build7-series-crosswalk+mh4edit-mit-save-id,0,1
-136,封龙剑,Dragonseal (yellow),mh4g-core-common-game-array+mh4g-dex-build7-series-crosswalk+mh4edit-mit-save-id,0,1
-137,封龙剑,Dragonseal (green),mh4g-core-common-game-array+mh4g-dex-build7-series-crosswalk+mh4edit-mit-save-id,0,1
-138,封龙剑,Dragonseal (blue),mh4g-core-common-game-array+mh4g-dex-build7-series-crosswalk+mh4edit-mit-save-id,0,1
-139,封龙剑,Dragonseal (purple),mh4g-core-common-game-array+mh4g-dex-build7-series-crosswalk+mh4edit-mit-save-id,0,1
+115,吉克姆特（发掘·红）,Siegmund (red),mh4g-core-common-game-array+mh3u-se-cn-gpl-v3+mh4edit-mit-save-id,0,1
+116,吉克姆特（发掘·黄）,Siegmund (yellow),mh4g-core-common-game-array+mh3u-se-cn-gpl-v3+mh4edit-mit-save-id,0,1
+117,吉克姆特（发掘·绿）,Siegmund (green),mh4g-core-common-game-array+mh3u-se-cn-gpl-v3+mh4edit-mit-save-id,0,1
+118,吉克姆特（发掘·蓝）,Siegmund (blue),mh4g-core-common-game-array+mh3u-se-cn-gpl-v3+mh4edit-mit-save-id,0,1
+119,吉克姆特（发掘·紫）,Siegmund (purple),mh4g-core-common-game-array+mh3u-se-cn-gpl-v3+mh4edit-mit-save-id,0,1
+120,雷剑（发掘·红）,Bolt (red),mh4g-core-common-game-array+mh4g-relic-jp-cn-crosswalk+mh4edit-mit-save-id,0,1
+121,雷剑（发掘·黄）,Bolt (yellow),mh4g-core-common-game-array+mh4g-relic-jp-cn-crosswalk+mh4edit-mit-save-id,0,1
+122,雷剑（发掘·绿）,Bolt (green),mh4g-core-common-game-array+mh4g-relic-jp-cn-crosswalk+mh4edit-mit-save-id,0,1
+123,雷剑（发掘·蓝）,Bolt (blue),mh4g-core-common-game-array+mh4g-relic-jp-cn-crosswalk+mh4edit-mit-save-id,0,1
+124,雷剑（发掘·紫）,Bolt (purple),mh4g-core-common-game-array+mh4g-relic-jp-cn-crosswalk+mh4edit-mit-save-id,0,1
+125,４１式对飞龙大剑（发掘·红）,Type 41 Wyvernator (red),mh4g-core-common-game-array+mh3u-se-cn-gpl-v3+mh4edit-mit-save-id,0,1
+126,４１式对飞龙大剑（发掘·黄）,Type 41 Wyvernator (yellow),mh4g-core-common-game-array+mh3u-se-cn-gpl-v3+mh4edit-mit-save-id,0,1
+127,４１式对飞龙大剑（发掘·绿）,Type 41 Wyvernator (green),mh4g-core-common-game-array+mh3u-se-cn-gpl-v3+mh4edit-mit-save-id,0,1
+128,４１式对飞龙大剑（发掘·蓝）,Type 41 Wyvernator (blue),mh4g-core-common-game-array+mh3u-se-cn-gpl-v3+mh4edit-mit-save-id,0,1
+129,４１式对飞龙大剑（发掘·紫）,Type 41 Wyvernator (purple),mh4g-core-common-game-array+mh3u-se-cn-gpl-v3+mh4edit-mit-save-id,0,1
+130,辉剑（发掘·红）,Flash (red),mh4g-core-common-game-array+mh4g-dex-build7-series-crosswalk+mh4edit-mit-save-id,0,1
+131,辉剑（发掘·黄）,Flash (yellow),mh4g-core-common-game-array+mh4g-dex-build7-series-crosswalk+mh4edit-mit-save-id,0,1
+132,辉剑（发掘·绿）,Flash (green),mh4g-core-common-game-array+mh4g-dex-build7-series-crosswalk+mh4edit-mit-save-id,0,1
+133,辉剑（发掘·蓝）,Flash (blue),mh4g-core-common-game-array+mh4g-dex-build7-series-crosswalk+mh4edit-mit-save-id,0,1
+134,辉剑（发掘·紫）,Flash (purple),mh4g-core-common-game-array+mh4g-dex-build7-series-crosswalk+mh4edit-mit-save-id,0,1
+135,封龙剑（发掘·红）,Dragonseal (red),mh4g-core-common-game-array+mh4g-dex-build7-series-crosswalk+mh4edit-mit-save-id,0,1
+136,封龙剑（发掘·黄）,Dragonseal (yellow),mh4g-core-common-game-array+mh4g-dex-build7-series-crosswalk+mh4edit-mit-save-id,0,1
+137,封龙剑（发掘·绿）,Dragonseal (green),mh4g-core-common-game-array+mh4g-dex-build7-series-crosswalk+mh4edit-mit-save-id,0,1
+138,封龙剑（发掘·蓝）,Dragonseal (blue),mh4g-core-common-game-array+mh4g-dex-build7-series-crosswalk+mh4edit-mit-save-id,0,1
+139,封龙剑（发掘·紫）,Dragonseal (purple),mh4g-core-common-game-array+mh4g-dex-build7-series-crosswalk+mh4edit-mit-save-id,0,1
 140,卓越爆炎剑,Exemplar Blade,mh4g-core-common-game-array+mh4g-dex-build7+mh4edit-mit-save-id,8,0
 141,伟大爆炎剑,Grandglory Blade,mh4g-core-common-game-array+mh4g-dex-build7+mh4edit-mit-save-id,9,0
 142,铬合金地狱,Chrome Hell,mh4g-core-common-game-array+mh4g-dex-build7+mh4edit-mit-save-id,8,0
@@ -235,13 +235,13 @@ id,name,english,source,rarity,is_relic
 233,dummy,DUMMY,mh4g-core-common-game-array+mh4edit-mit-save-id,0,0
 234,德尔・埃格基尔,Dos Exile,mh4g-core-common-game-array+mh4edit-mit-save-id,0,0
 235,大星里奥斯,Rath of Stars,mh4g-core-common-game-array+mh4edit-mit-save-id,0,0
-236,海帝剑,Sea-emperor's Sword (red),mh4g-core-common-game-array+mh4g-relic-jp-cn-crosswalk+mh4edit-mit-save-id,0,1
-237,海帝剑,Sea-emperor's Sword (yellow),mh4g-core-common-game-array+mh4g-relic-jp-cn-crosswalk+mh4edit-mit-save-id,0,1
-238,海帝剑,Sea-emperor's Sword (green),mh4g-core-common-game-array+mh4g-relic-jp-cn-crosswalk+mh4edit-mit-save-id,0,1
-239,海帝剑,Sea-emperor's Sword (blue),mh4g-core-common-game-array+mh4g-relic-jp-cn-crosswalk+mh4edit-mit-save-id,0,1
-240,海帝剑,Sea-emperor's Sword (purple),mh4g-core-common-game-array+mh4g-relic-jp-cn-crosswalk+mh4edit-mit-save-id,0,1
-241,腭刀,Jawblade (red),mh4g-core-common-game-array+mh4g-dex-build7+mh4edit-mit-save-id,0,1
-242,腭刀,Jawblade (yellow),mh4g-core-common-game-array+mh4g-dex-build7+mh4edit-mit-save-id,0,1
-243,腭刀,Jawblade (green),mh4g-core-common-game-array+mh4g-dex-build7+mh4edit-mit-save-id,0,1
-244,腭刀,Jawblade (blue),mh4g-core-common-game-array+mh4g-dex-build7+mh4edit-mit-save-id,0,1
-245,腭刀,Jawblade (purple),mh4g-core-common-game-array+mh4g-dex-build7+mh4edit-mit-save-id,0,1
+236,海帝剑（发掘·红）,Sea-emperor's Sword (red),mh4g-core-common-game-array+mh4g-relic-jp-cn-crosswalk+mh4edit-mit-save-id,0,1
+237,海帝剑（发掘·黄）,Sea-emperor's Sword (yellow),mh4g-core-common-game-array+mh4g-relic-jp-cn-crosswalk+mh4edit-mit-save-id,0,1
+238,海帝剑（发掘·绿）,Sea-emperor's Sword (green),mh4g-core-common-game-array+mh4g-relic-jp-cn-crosswalk+mh4edit-mit-save-id,0,1
+239,海帝剑（发掘·蓝）,Sea-emperor's Sword (blue),mh4g-core-common-game-array+mh4g-relic-jp-cn-crosswalk+mh4edit-mit-save-id,0,1
+240,海帝剑（发掘·紫）,Sea-emperor's Sword (purple),mh4g-core-common-game-array+mh4g-relic-jp-cn-crosswalk+mh4edit-mit-save-id,0,1
+241,腭刀（发掘·红）,Jawblade (red),mh4g-core-common-game-array+mh4g-dex-build7+mh4edit-mit-save-id,0,1
+242,腭刀（发掘·黄）,Jawblade (yellow),mh4g-core-common-game-array+mh4g-dex-build7+mh4edit-mit-save-id,0,1
+243,腭刀（发掘·绿）,Jawblade (green),mh4g-core-common-game-array+mh4g-dex-build7+mh4edit-mit-save-id,0,1
+244,腭刀（发掘·蓝）,Jawblade (blue),mh4g-core-common-game-array+mh4g-dex-build7+mh4edit-mit-save-id,0,1
+245,腭刀（发掘·紫）,Jawblade (purple),mh4g-core-common-game-array+mh4g-dex-build7+mh4edit-mit-save-id,0,1

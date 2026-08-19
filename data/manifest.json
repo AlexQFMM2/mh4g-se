@@ -2,12 +2,12 @@
   "format": "mh4g-save-editor-data-manifest-v2",
   "generator": {
     "name": "build_sqlite_data.py",
-    "version": "1.1.0"
+    "version": "1.1.1"
   },
   "database": {
     "file": "mh4g.sqlite",
-    "sha256": "56914473f536b6ec6d13d58e44b8f7a855ed6d4ae0f90409859339574b8e1b69",
-    "bytes": 3211264
+    "sha256": "953f93054a695d9cd72005e0c1a31216f2735703f05f79a2118b3e5b342b2fd8",
+    "bytes": 3219456
   },
   "counts": {
     "armors": 4835,
@@ -65,59 +65,59 @@
     },
     {
       "name": "csv/cn/weapon_bow.csv",
-      "sha256": "d6f3922073d490d924f103a8151a8c9a0ebb754f34ff3d42b0ceb8932f876abf"
+      "sha256": "2d27a66b1f16892f336d2bca9b1b18719a77e9954f778e54c2c3f3c4f03df578"
     },
     {
       "name": "csv/cn/weapon_charge_blade.csv",
-      "sha256": "c61f2ce9f59dddd3110a9340832dcff7123e9a8b74e3db26c9cbde59185a4253"
+      "sha256": "dd2ab5d286f07193691a478e2d42db72a1bcf9f9fd3a9f886943f47228f7f633"
     },
     {
       "name": "csv/cn/weapon_dual_blades.csv",
-      "sha256": "fa4dbc021fa86e2940e59438a4d7988bdc60bb3c6ea46e5ccdf5a88d00e485bb"
+      "sha256": "b79f496df9abf5b006575cb85ef0dfd05420e0e18531319b096c4de04f0b1da8"
     },
     {
       "name": "csv/cn/weapon_great_sword.csv",
-      "sha256": "aebe43d0a3058b6428f345ceb910ebca14b3747bf9a4f3e79e58ec2935eafd2d"
+      "sha256": "5ad5dde84f7a5451cbc612c2869095e53db5ca6a74bbee5ef57fcd1665bbf229"
     },
     {
       "name": "csv/cn/weapon_gunlance.csv",
-      "sha256": "27cd531225c3b14d2496444f0171aa811c730db2e3092da5f93e342ab4ef0984"
+      "sha256": "53bde48c394de23b7936820caf2712dd25185835ec484f3ed3394812d57c3743"
     },
     {
       "name": "csv/cn/weapon_hammer.csv",
-      "sha256": "ca9751d71bd2be8bf6121a3beba4178277bdbc73e64998fc862617a052bb8739"
+      "sha256": "35454b5e152b3a7b896d8010aa6cc2c05ec61af9c5be1449ea4744e8aa07c7ff"
     },
     {
       "name": "csv/cn/weapon_heavy_bowgun.csv",
-      "sha256": "56cc2637827d79500edb324e94c501a1c6fd4d3e7c478150731b3d5949c5a967"
+      "sha256": "2853d50ad5e938463e4c801a2ed7777353d5c05ac17e2c3cca13f7fedcaa2999"
     },
     {
       "name": "csv/cn/weapon_hunting_horn.csv",
-      "sha256": "609098077e4b978377de7df8a2e1e827db96c574398a677efa2086e1bcd40223"
+      "sha256": "b9a6014d8f8276e6425aff8c09edeb4a159a05638d78bcccd891578e4eb4c94b"
     },
     {
       "name": "csv/cn/weapon_insect_glaive.csv",
-      "sha256": "a381940c87379b32c8849bda4bea0fab4380964c7c6a3951c152a9eba1c5ab91"
+      "sha256": "03a24d182644c2e90fae47ef902722ac9ab464571698b5a3d342e3f8c9d54489"
     },
     {
       "name": "csv/cn/weapon_lance.csv",
-      "sha256": "07f83f496556172bec1ae4e205a9639cb8e9e5b2f3bdfef16816cac25820b363"
+      "sha256": "f24427a7eee1f101823b11b53856edb94e2353647e9f3e8479eca37b35c0e69f"
     },
     {
       "name": "csv/cn/weapon_light_bowgun.csv",
-      "sha256": "748a9671f1ff757ee07c6d13a4eb0aae2978c61167aacead02fa34ce4f29b948"
+      "sha256": "201d9535a17a4257a44e52784b3a280a94bb4528609039857b38db2ce96a582b"
     },
     {
       "name": "csv/cn/weapon_long_sword.csv",
-      "sha256": "d2ca44405476e2682ed602bc75236cb67c5a232b36de462d70ff3bab131204e0"
+      "sha256": "739056335a130f07d407c40cdfd0ba0b1a93f0a5173b8fde492ddecb0d3a4f80"
     },
     {
       "name": "csv/cn/weapon_switch_axe.csv",
-      "sha256": "c575c26cd4aa67ce596fa13d9bcf77ec2cd70bcb78b55fe2a2909610e23413fc"
+      "sha256": "d2a8808bfea58d9342a81fd51faeea33bd6384a381374e7250df0b59ffe773c9"
     },
     {
       "name": "csv/cn/weapon_sword_and_shield.csv",
-      "sha256": "41fd153c4890e16b0113a84de60ae472df4241bc17e049ab89c2762bd978a9bf"
+      "sha256": "e13c6eed9f895e588c1ca67dd6d95b38a895d9b7829f84bd81851ab751d0e85e"
     },
     {
       "name": "csv/en/armor_arms.csv",

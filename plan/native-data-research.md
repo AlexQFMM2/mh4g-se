@@ -4,10 +4,11 @@
 `tools/build_sqlite_data.py` 与 `data/mh4g.sqlite`；仓库仍不提交 ROM、ARC、`code.bin`
 或 Dex 原始导出。
 
-当前 SQLite 生成器版本为 `1.1.0`，数据库 SHA-256 为
-`56914473f536b6ec6d13d58e44b8f7a855ed6d4ae0f90409859339574b8e1b69`。连续两次生成已得到
-相同数据库字节；manifest 同时记录逻辑源名、全部输入哈希、原生 manifest 与上述
-`code.bin` 哈希。
+当前 SQLite 生成器版本为 `1.1.1`，数据库 SHA-256 为
+`953f93054a695d9cd72005e0c1a31216f2735703f05f79a2118b3e5b342b2fd8`。生成器与验证器会强制
+核对全部 435 条发掘武器的红、黄、绿、蓝、紫中文后缀，防止游戏原生基础名称覆盖外观颜色。
+manifest 同时记录逻辑源名、全部输入哈希、原生 manifest 与上述 `code.bin` 哈希；完整重建仍要求
+连续两次生成得到相同数据库字节。
 
 ## 研究样本
 

@@ -74,9 +74,12 @@ Windows portable zip。
 
 运行时只读取 `data/mh4g.sqlite` 和 `data/manifest.json`，不再解析 `data/cn`、
 `data/en` CSV。当前确定性数据库 SHA-256 为
-`56914473f536b6ec6d13d58e44b8f7a855ed6d4ae0f90409859339574b8e1b69`，包含
+`953f93054a695d9cd72005e0c1a31216f2735703f05f79a2118b3e5b342b2fd8`，包含
 4,835 件防具、2,849 件武器和 290 个装饰珠，以及装备技能、珠子技能、发动技能阈值和
 结构化发掘参数 lookup。Windows 便携包也只携带 SQLite 与 manifest。
+
+435 条发掘武器名称保留其外观颜色后缀，例如“吉克姆特（发掘·红）”。中文基础名称仍以
+游戏资源数组为准，红、黄、绿、蓝、紫后缀来自与存档 ID 对齐并经过校验的发掘元数据。
 
 存档 ID、孔位、装备技能和 `is_relic` 以 `code.bin` 原生表为权威；防具发掘标记固定使用
 `special_flags & 0x80`。Dex Build 7 只补充防御上限、适用性和发动技能关系，名称数组负责
